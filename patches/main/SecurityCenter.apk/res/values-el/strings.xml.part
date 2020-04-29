@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="card_main_hbassistant_summary">Ώθηση ταχύτητας για βελτιώση εμπειρίας παιχνιδιών</string>
+  <string name="card_main_hbassistant_title">Εργασίες</string>
+  <string name="card_main_deepclean_wechat_title">Προστασία</string>
+  <string name="card_main_deepclean_qq_title">Χρονοδιακόπτης</string>
+</resources>
