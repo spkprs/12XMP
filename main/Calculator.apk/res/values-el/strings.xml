@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -45,7 +45,6 @@
   <string name="am">ΠΜ</string>
   <string name="angle">deg</string>
   <string name="app_name">Αριθμομηχανή</string>
-  <string name="app_name_danfa">@string/app_name</string>
   <string name="app_notification_info">Η Αριθμομηχανή λειτουργεί στο παρασκήνιο</string>
   <string name="arccos">arccos</string>
   <string name="arcsin">arcsin</string>
@@ -429,7 +428,6 @@
   <string name="loan_pay_years">Διάρκεια δανείου</string>
   <string name="loan_payback_way">Αποπληρωμή</string>
   <string name="loan_repayment_detail_loading">Φόρτωση λεπτομερούς αποπληρωμής…</string>
-  <string name="loan_type_summary_base">@string/base_rate</string>
   <string name="loan_type_summary_lpr">LPR</string>
   <string name="loan_type_title">Πρότυπο επιτοκίου</string>
   <string name="loan_unit">(×10K)</string>
@@ -505,7 +503,6 @@
   <string name="mortgage_input_error">Εισάγετε το ποσό</string>
   <string name="mortgage_interest_amount">Ποσό τόκων</string>
   <string name="mortgage_interest_rate">Εμπορικό επιτόκιο</string>
-  <string name="mortgage_item_loan_ruler">@string/loan_type_title</string>
   <string name="mortgage_item_repayment">Τρόπος αποπληρωμής</string>
   <string name="mortgage_item_start_time">Ημερομηνία έναρξης</string>
   <string name="mortgage_item_years">Δανειοληψία</string>
@@ -812,7 +809,6 @@
   <string name="unit_data_display_currency_bnd">Δολάριο Μπρουνέι</string>
   <string name="unit_data_display_currency_brl">Ρεάλ Βραζιλίας</string>
   <string name="unit_data_display_currency_byn">Ρούβλι Λευκορωσίας</string>
-  <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
   <string name="unit_data_display_currency_cad">Καναδικό Δολάριο</string>
   <string name="unit_data_display_currency_chf">Ελβετικό Φράγκο</string>
   <string name="unit_data_display_currency_clp">Πέσο Χιλής</string>
