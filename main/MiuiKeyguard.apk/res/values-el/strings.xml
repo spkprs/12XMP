@@ -132,7 +132,7 @@
   <string name="phone_locked_foget_password_method_next">Επόμενο</string>
   <string name="phone_locked_foget_password_ok">Το κατάλαβα</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">" \"&lt;Data&gt;Απενεργοποιήστε τη συσκευή σας και πατήστε παρατεταμένα το &lt;font color=#a5220e&gt;κουμπί Λειτουργίας &lt;/font&gt; και το &lt;font color=#a5220e&gt;κουμπί αύξησης Έντασης &lt;/font&gt;ταυτόχρονα μέχρι να δείτε το Mi logo.&lt;/Data&gt;\" \n"</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">" \"&lt;Data&gt;Επιλέξτε &lt;font color=#a5220e&gt;\"Καθαρισμό &amp;amp; Επαναφορά\"&lt;/font&gt; και περιμένετε μέχρι η συσκευή να επανεκκινήσει.&lt;/Data&gt;\" \n"</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">" \"&lt;Data&gt;Επιλέξτε &lt;font color=#a5220e&gt;\"Καθαρισμό &amp; Επαναφορά\"&lt;/font&gt; και περιμένετε μέχρι η συσκευή να επανεκκινήσει.&lt;/Data&gt;\" \n"</string>
   <string name="phone_locked_forget_password_suggesstions_title">Πως διαγράφονται τα δεδομένα;</string>
   <string name="phone_locked_string">Το τηλέφωνο έχει κλειδωθεί</string>
   <string name="reset_device_detail_tip">Βεβαιωθείτε ότι η θέση της συσκευής σας στη βάση φόρτισης είναι σωστή</string>

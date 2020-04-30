@@ -406,7 +406,7 @@
   <string name="strict_mode">Επιτρέπεται αυστηρή λειτουργία</string>
   <string name="strict_mode_summary">Οθόνη φλας όταν οι εφαρμογές κάνουν μεγάλες εργασίες στο κύριο νήμα</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="tether_settings_title_all">Συγχρονισμός &amp;amp; φορητό hotspot</string>
+  <string name="tether_settings_title_all">Συγχρονισμός &amp; φορητό hotspot</string>
   <string name="tether_settings_title_bluetooth">Σύνδεση μέσω Bluetooth</string>
   <string name="tether_settings_title_usb">Σύνδεση μέσω USB</string>
   <string name="tether_settings_title_usb_bluetooth">Δέσμευση</string>

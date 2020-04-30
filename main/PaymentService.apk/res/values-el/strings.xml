@@ -248,7 +248,7 @@
   <string name="mibi_giftcard_used">Εξαργυρώθηκε</string>
   <string name="mibi_giftcard_vaild_util">vaild util %1$s</string>
   <string name="mibi_giftcard_will_expire">Λήγει στις %1$s</string>
-  <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Διατίθεται κουπόνι Mi Coin &amp;amp; lt;/font &amp;amp; gt;&lt;/Data&gt;</string>
+  <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Διατίθεται κουπόνι Mi Coin &amp; lt;/font &amp; gt;&lt;/Data&gt;</string>
   <string name="mibi_header_network_error">Δεν ήταν δυνατή η σύνδεση στο δίκτυο.</string>
   <string name="mibi_illegal_intent">Παράνομο αίτημα πρόθεσης</string>
   <string name="mibi_is_what">Τι μπορείτε να αγοράσετε με τα Mi Coins;</string>

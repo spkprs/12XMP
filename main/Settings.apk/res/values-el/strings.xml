@@ -2697,9 +2697,9 @@
   <string name="gentle_notifications_display_lock">Κλείδωμα οθόνης</string>
   <string name="gentle_notifications_display_status">Γραμμή κατάστασης</string>
   <string name="gentle_notifications_display_summary_shade">Εμφάνιση μόνο σε πτυσσόμενη σκιά</string>
-  <string name="gentle_notifications_display_summary_shade_lock">Εμφάνιση σε πτυσσόμενη σκιά &amp;amp; στην οθόνη κλειδώματος</string>
-  <string name="gentle_notifications_display_summary_shade_status">Εμφάνιση σε πτυσσόμενη σκιά &amp;amp; γραμμή κατάστασης</string>
-  <string name="gentle_notifications_display_summary_shade_status_lock">Εμφάνιση σε πτυσσόμενη σκιά, γραμμή κατάστασης &amp;amp; στην οθόνη κλειδώματος</string>
+  <string name="gentle_notifications_display_summary_shade_lock">Εμφάνιση σε πτυσσόμενη σκιά &amp; στην οθόνη κλειδώματος</string>
+  <string name="gentle_notifications_display_summary_shade_status">Εμφάνιση σε πτυσσόμενη σκιά &amp; γραμμή κατάστασης</string>
+  <string name="gentle_notifications_display_summary_shade_status_lock">Εμφάνιση σε πτυσσόμενη σκιά, γραμμή κατάστασης &amp; στην οθόνη κλειδώματος</string>
   <string name="gentle_notifications_education">Οι απαλές ειδοποιήσεις είναι πάντα σιωπηλές και εμφανίζονται πάντα στη σκιά pull-down</string>
   <string name="gentle_notifications_title">Απαλές ειδοποιήσεις</string>
   <string name="gesture_not_supported_dialog_message">Δεν υποστηρίζεται από την προεπιλεγμένη αρχική σας εφαρμογή, %s</string>
@@ -2708,7 +2708,7 @@
   <string name="gesture_preference_title">Κινήσεις</string>
   <string name="gesture_prevent_ringing_screen_title">Αποτρέψτε το χτύπημα</string>
   <string name="gesture_prevent_ringing_sound_title">Συντόμευση για αποφυγή κουδουνίσματος</string>
-  <string name="gesture_prevent_ringing_title">Πατήστε Power &amp;amp; Volume Up μαζί</string>
+  <string name="gesture_prevent_ringing_title">Πατήστε Power &amp; Volume Up μαζί</string>
   <string name="gesture_setting_off">Ανενεργό</string>
   <string name="gesture_setting_on">Ενεργό</string>
   <string name="gesture_wakeup_summary">Διπλό άγγιγμα για απενεργ/ση οθόνης όταν εφαρμοστεί το Προεπιλεγμένο ή το Κλασικό θέμα</string>

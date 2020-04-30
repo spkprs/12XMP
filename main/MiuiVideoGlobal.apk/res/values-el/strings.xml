@@ -682,7 +682,7 @@
   <string name="ovp_setting_clear_cache_title">Εκκαθάριση προσωρινής μνήμης</string>
   <string name="ovp_setting_privacy_policy_title">Πολιτική απορρήτου</string>
   <string name="ovp_setting_privacy_switch_tips">Ορισμένες λειτουργίες δεν θα είναι διαθέσιμες εάν ανακαλέσετε την εξουσιοδότηση</string>
-  <string name="ovp_setting_privacy_switch_title">Εξουσιοδότηση &amp;amp; ανάκληση</string>
+  <string name="ovp_setting_privacy_switch_title">Εξουσιοδότηση &amp; ανάκληση</string>
   <string name="ovp_setting_version_info_title">Εκδοχή</string>
   <string name="ovp_start_error_msg">Δεν είναι δυνατή η αναπαραγωγή αυτού του βίντεο</string>
   <string name="ovp_video_bad_network_condition">Δεν ήταν δυνατή η σύνδεση στο δίκτυο.</string>
@@ -817,7 +817,7 @@
   <string name="plus_gallery_mediatype_aimusic">Soundtracks</string>
   <string name="plus_gallery_mediatype_changtu">Μεγάλες εικόνες</string>
   <string name="plus_gallery_mediatype_fangtu">Τετράγωνες εικόνες</string>
-  <string name="plus_gallery_mediatype_fastslowvideo">Πάροδο του χρόνου &amp;amp; slo-mo</string>
+  <string name="plus_gallery_mediatype_fastslowvideo">Πάροδο του χρόνου &amp; slo-mo</string>
   <string name="plus_gallery_mediatype_gif">GIF</string>
   <string name="plus_gallery_mediatype_hidded">Κρυμμένα αντικείμενα</string>
   <string name="plus_gallery_mediatype_longvideo">Μακρά βίντεο</string>
