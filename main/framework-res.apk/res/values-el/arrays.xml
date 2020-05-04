@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="config_wearActivityModeRadios">
         <item>wifi</item>
@@ -71,9 +70,6 @@
         <item>Bluetooth</item>
         <item>Ethernet</item>
         <item>VPN</item>
-     </string-array>
-     <string-array name="no_ems_support_sim_operators">
-        <item>20404;suffix;BAE0000000000000</item>
      </string-array>
      <string-array name="organizationTypes">
         <item>Εργασία</item>
