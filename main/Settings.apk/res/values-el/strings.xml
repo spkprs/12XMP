@@ -1632,6 +1632,8 @@
   <string name="copy">Αντίγραφο</string>
   <string name="copyable_slice_toast">%1$s αντιγράφηκε στο πρόχειρο.</string>
   <string name="copyright_title">Πνευματικά δικαιώματα</string>
+  <string name="corner_assistant_gesture_summary">Σαρώστε προς τα επάνω από την κάτω αριστερή ή δεξιά γωνία για να αφυπνίσετε τον Βοηθό Google</string>
+  <string name="corner_assistant_gesture_title">Σάρωση από την κάτω γωνία για τον Βοηθό Google</string>
   <string name="country_name">%s (σύστημα)</string>
   <string name="create">Δημιουργία</string>
   <string name="credential_contains">Αυτή η καταχώριση περιέχει:</string>
