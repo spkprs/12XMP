@@ -19,7 +19,8 @@
   <string name="agree_to_turn_on">Συμφωνώ</string>
   <string name="all_services">Όλα</string>
   <string name="allow">Αποδοχή</string>
-  <string name="app_label">Τηλ. Κατάλογος</string>
+  <string name="app_label">Yellow pages</string>
+  <string name="app_name">Προτίμηση</string>
   <string name="app_recommendation_install">Εγκατάσταση</string>
   <string name="average_price">Μέσος όρος %d RMB</string>
   <string name="back">Επιστροφή</string>
