@@ -127,9 +127,6 @@
   <string name="internal_build">Εσωτερική</string>
   <string name="join_preview_plan_sum">Χρησιμοποιήστε αυτή τη λειτουργία για να λαμβάνετε ενημερώσεις νωρίτερα από άλλα άτομα</string>
   <string name="join_preview_plan_title">Λάβετε νωρίτερα ενημερώσεις</string>
-  <string name="keywords_auto_setting">Auto updates;Download automatically;Install automatically;autoupdates;auto-updates; automatic updates</string>
-  <string name="keywords_updater">MIUI update;system update;software update;ROM;ROM update;update;updates;check updates; check for updates;find updates;download updates;upgrade;upgrades;software upgrade;new version;software version; testing;whats new;what\'s new;log;update log;apk;update package;ROM package;autoupdates;auto-updates; automatic updates;MIUI version;version;updater</string>
-  <string name="keywords_updater_settings">Updater;MIUI update;system update;software update;ROM;ROM update;update;updates;check updates; check for updates;find updates;download updates;upgrade;upgrades;software upgrade;new version;software version; testing;whats new;what\'s new;log;update log;apk;update package;ROM package;autoupdates;auto-updates; automatic updates;MIUI version;version;updater;Updater;Download automatically;Install automatically; Beta Feedback Program;rom</string>
   <string name="later">Αργότερα</string>
   <string name="later_download">Λήψη αργότερα</string>
   <string name="loading">Γίνεται αίτηση…</string>
