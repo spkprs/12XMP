@@ -1392,8 +1392,8 @@
   <string name="quick_settings_dnd_alarms_label">Μόνο Αφυπνήσεις</string>
   <string name="quick_settings_dnd_label">Μην Ενοχλείτε</string>
   <string name="quick_settings_dnd_none_label">Απόλυτη σίγαση</string>
-  <string name="quick_settings_dnd_priority_label">Προτεραιότητα μόνο</string>
-  <string name="quick_settings_done">Ολοκληρώθηκε</string>
+  <string name="quick_settings_dnd_priority_label">Προτεραιότητας μόνο</string>
+  <string name="quick_settings_done">Τέλος</string>
   <string name="quick_settings_drivemode_label">Λειτουργία αυτοκινήτου</string>
   <string name="quick_settings_dual_location_label">Διπλό GPS</string>
   <string name="quick_settings_edit_label">Επεξεργασία</string>
