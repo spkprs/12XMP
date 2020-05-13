@@ -5,7 +5,7 @@
   <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
   <string name="abc_action_bar_up_description">Πλοηγηθείτε επάνω</string>
   <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
-  <string name="abc_action_mode_done">Ολοκληρώθηκε</string>
+  <string name="abc_action_mode_done">Τέλος</string>
   <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
   <string name="abc_activitychooserview_choose_application">Επιλέξτε μια εφαρμογή</string>
   <string name="abc_capital_off">OFF</string>
@@ -910,9 +910,9 @@
   <string name="keyguard_indication_charging_time_slowly">Φορτίζεται αργά (%s μέχρι να γεμίσει)</string>
   <string name="keyguard_indication_trust_disabled">Η συσκευή θα παραμείνει κλειδωμένη μέχρι να ξεκλειδώσετε με το χέρι</string>
   <string name="keyguard_instructions_when_pattern_disabled">Πατήστε Μενού για να ξεκλειδώσετε.</string>
-  <string name="keyguard_left_mi_wallet">Mi Πορτοφόλι</string>
-  <string name="keyguard_left_remotecentral">Mi Remote</string>
-  <string name="keyguard_left_smarthome">Mi Home</string>
+  <string name="keyguard_left_mi_wallet">Αριθμομηχανή</string>
+  <string name="keyguard_left_remotecentral">Μηνύματα</string>
+  <string name="keyguard_left_smarthome">Επαφές</string>
   <string name="keyguard_left_torch">Φακός</string>
   <string name="keyguard_left_view_lock_wallpaper">Ταπετσαρίες Καρουζέλ</string>
   <string name="keyguard_low_battery">Συνδέστε το φορτιστή σας.</string>
@@ -1331,7 +1331,7 @@
   <string name="qs_control_customize_other_tiles_title">Διαθέσιμοι διακόπτες</string>
   <string name="qs_control_customize_save_text">Τέλος</string>
   <string name="qs_control_customize_sub_title">Σύρετε για αναδιάταξη διακοπτών</string>
-  <string name="qs_control_customize_title">Προστέθηκαν διακόπτες</string>
+  <string name="qs_control_customize_title">Διακόπτες σε χρήση</string>
   <string name="qs_control_expand_detail_title">Τα δεδομένα μου</string>
   <string name="qs_control_header_tiles_title">Κέντρο ελέγχου</string>
   <string name="qs_customize">Επιτρέπει παρατεταμένο πάτημα και προσαρμογή Γρήγορων Ρυθμίσεων</string>
