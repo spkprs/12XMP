@@ -36,4 +36,12 @@
         <item quantity="other">Διαγραφή %d εγγραφών;</item>
         <item quantity="one">Διαγραφή %d εγγραφής;</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Αναζήτηση μεταξύ %d εγγραφών</item>
+        <item quantity="one">Αναζήτηση μεταξύ %d εγγραφής</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Αναζήτηση μεταξύ %d εγγραφών κλήσεων</item>
+        <item quantity="one">Αναζήτηση μεταξύ %d εγγραφή κλήσης</item>
+    </plurals>
 </resources>
