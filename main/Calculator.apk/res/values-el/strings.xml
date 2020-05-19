@@ -98,12 +98,13 @@
   <string name="description_title">Σχετικά με την Αριθμομηχανή</string>
   <string name="deselect_all">Αποεπιλογή</string>
   <string name="devided_by_zero_reminder_message">Δεν είναι δυνατή η διαίρεση με το μηδέν</string>
-  <string name="dialog_privacy_content">Εκτός από τα βασικά χαρακτηριστικά μιας αριθμομηχανής, η εφαρμογή μας περιέχει επίσης μια επιστημονική αριθμομηχανή και έναν μετατροπέα πολλαπλών χρήσεων. Ορισμένες δυνατότητες πρέπει να συνδεθούν στο Διαδίκτυο για να λειτουργούν κανονικά. Πρέπει να διαβάσετε και να συμφωνήσετε με μας %1$s και %2$s πριν χρησιμοποιήσετε την Αριθμομηχανή.</string>
+  <string name="dialog_privacy_content">Εκτός από τα βασικά χαρακτηριστικά μιας αριθμομηχανής, η εφαρμογή μας περιέχει επίσης μια επιστημονική αριθμομηχανή και έναν μετατροπέα πολλαπλών χρήσεων. Ορισμένες δυνατότητες πρέπει να συνδεθούν στο Διαδίκτυο για να λειτουργούν κανονικά. Πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε την Αριθμομηχανή.</string>
   <string name="dialog_privacy_title">Οροι και Προϋποθέσεις</string>
   <string name="dialog_rating_desc_ask">Πώς αισθάνεστε σχετικά με τον Αριθμομηχανή;</string>
   <string name="dialog_rating_desc_less">Μπορείτε επίσης να μας δώσετε τα σχόλιά σας;</string>
   <string name="dialog_rating_desc_perfect">Ωραίο! Βαθμολογήστε αριθμομηχανή στο App Store τώρα;</string>
   <string name="dialog_rating_title">Αξιολογήστε την εφαρμογή μας</string>
+  <string name="disallow">"Απόρριψη"</string>
   <string name="divDesc">διαίρεση</string>
   <string name="dob_selection_error">Η ημερομηνία γέννησης πρέπει να είναι προγενέστερη της σημερινής ημερομηνίας</string>
   <string name="dot">.</string>
