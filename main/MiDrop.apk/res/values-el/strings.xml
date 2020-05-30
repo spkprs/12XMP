@@ -55,8 +55,8 @@
   <string name="receiver_succeed_view">Προβολή αρχείου</string>
   <string name="receiver_transfer_interrupt">Η μεταφορά διακόπηκε. Μην απενεργοποιείτε το Wi‑Fi hotspot κατά τη μεταφορά</string>
   <string name="Register">εγγραφή</string>
-  <string name="request_permission_msg">Το Mi Drop απαιτεί τα ακόλουθα δικαιώματα: %s. Επιτρέπετε?</string>
-  <string name="request_permission_title">Απαιτούνται δικαιώματα</string>
+  <string name="request_permission_msg">Το Mi Drop απαιτεί τις ακόλουθες Άδειες: %s. Επιτρέπετε?</string>
+  <string name="request_permission_title">Απαιτούνται Άδειες</string>
   <string name="runtime_permission_ungranted">Αδυναμία χρήσης του Mi Drop λόγω ανεπαρκών δικαιωμάτων</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
