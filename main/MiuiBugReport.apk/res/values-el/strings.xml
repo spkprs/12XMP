@@ -162,7 +162,7 @@
   <string name="error_invalid_bind_address">Η διεύθυνση ηλεκτρονικού ταχυδρομείου που εισάγατε δεν είναι έγκυρη.</string>
   <string name="error_no_connection">Αδυναμία σύνδεσης στο δίκτυο</string>
   <string name="exceed_binded_phone_times_notice">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με άλλο λογαριασμό Mi.</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">Προχωρημένες</string>
   <string name="failed_dup_secure_phone_number">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με άλλο λογαριασμό Mi</string>
   <string name="failed_to_fetch_fql">Δεν ήταν δυνατή η λήψη πληροφοριών Συνήθων ερωτήσεων, έλεγχος σύνδεσης δικτύου</string>
   <string name="feedback_answer_detail_feedback_resolved">Yes</string>

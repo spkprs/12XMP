@@ -482,11 +482,8 @@
      <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
      <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
      <string name="exo_track_unknown">Unknown</string>
-     <string name="expand_button_title">Advanced</string>
+     <string name="expand_button_title">Προχωρημένες</string>
      <string name="expired">Έληξε</string>
-     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-     <string name="facebook_app_id">1310336955745219</string>
      <string name="facebook_not_installed">Install Facebook first.</string>
      <string name="fail_to_fetch_payment_page_url">"Couldn't get payment info"</string>
      <string name="fail_to_play">Αδυναμία αναπαραγωγής τραγουδιού</string>

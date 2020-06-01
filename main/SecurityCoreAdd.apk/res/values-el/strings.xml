@@ -178,7 +178,7 @@
      <string name="err_unknown">Άγνωστο σφάλμα</string>
      <string name="err_volume_not_enough">Ανεπαρκής χώρος αποθήκευσης</string>
      <string name="exit_private_space">Εναλλαγή</string>
-     <string name="expand_button_title">Advanced</string>
+     <string name="expand_button_title">Προχωρημένες</string>
      <string name="experience_more_features">Προσθέστε μια συσκευή για να δείτε όλες τις λειτουργίες</string>
      <string name="facebook_login">Είσοδος στο Facebook</string>
      <string name="facebook_send">Αποστολή με FaceBook</string>

@@ -67,7 +67,7 @@
      <string name="empty_title_apps_container_list">Χωρίς εφαρμογές</string>
      <string name="enable_sleep_mode">Ενεργοποίηση κατάστασης αδράνειας για βελτιστοποίηση της μπαταρίας κατά την νύχτα</string>
      <string name="error_filename_too_long">Το όνομα αρχείου που εισαγάγατε είναι πολύ μεγάλο.</string>
-     <string name="expand_button_title">Advanced</string>
+     <string name="expand_button_title">Προχωρημένες</string>
      <string name="extreme_add_white_list_summary">Προσθήκη έως 4 εφαρμογές</string>
      <string name="extreme_add_white_list_title">Εξαιρέσεις παρασκηνίου</string>
      <string name="extreme_mode_max_item_alert">Έως 4 εφαρμ. επιλέξτε να εκτελούνται στο παρασκήνιο σε ενεργή λειτουργία Μέγιστης εξοικονόμησης</string>

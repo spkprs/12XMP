@@ -53,7 +53,7 @@
      <string name="description_title">Σχετικά με Εγγραφή οθόνης</string>
      <string name="deselect_all">Αποεπιλογή όλων</string>
      <string name="error_open_file_failed_no_app_found">Αδυναμία εύρεσης εφαρμογής που ανοίγει το αρχείο αυτό</string>
-     <string name="expand_button_title">Advanced</string>
+     <string name="expand_button_title">Προχωρημένες</string>
      <string name="first_using_mic_dialog_message">Η συσκευή Εγγραφής οθόνης χρειάζεται πρόσβαση στο μικρόφωνο σας για την εγγραφή ήχου. Επιτρέπετε?</string>
      <string name="first_using_mic_dialog_title">Απαιτούνται Άδειες</string>
      <string name="fixed_frame_rate">Σταθερό ρυθμό καρέ</string>

@@ -69,7 +69,7 @@
      <string name="do_not_show_next_time">Να μην εμφανιστεί ξανά</string>
      <string name="error_camera_unavailable">Ελέγξτε αν άλλη εφαρμογή χρησιμοποιεί αυτήν τη στιγμή την Κάμερα.</string>
      <string name="error_camera_unavailable_title">Η Κάμερα δεν είναι διαθέσιμη</string>
-     <string name="expand_button_title">Advanced</string>
+     <string name="expand_button_title">Προχωρημένες</string>
      <string name="first_using_dialog_message">Η Πυξίδα χρειάζεται να χρησιμοποιήσει το δίκτυο της συσκευή σας, κάμερα, και υπηρεσία τοποθεσίας για να λειτουργήσει κανονικά.</string>
      <string name="first_using_dialog_title">Άδεια πρόσβασης</string>
      <string name="guide_toast">Για βαθμονόμηση, κινήστε τη συσκευή σας όπως φαίνεται παρακάτω.</string>
