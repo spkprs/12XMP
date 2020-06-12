@@ -163,9 +163,10 @@
   <string name="item_title_date_calculator">Ημερομηνία</string>
   <string name="item_title_discount">Έκπτωση</string>
   <string name="item_title_dress_size">Μέγεθος ένδυσης</string>
-  <string name="item_title_emi">Προσωπικό δάνειο</string>
+  <string name="item_title_emi">Αριθμομηχανή δανείων</string>
   <string name="item_title_gst">GST</string>
   <string name="item_title_length_conversion">Μήκος</string>
+  <string name="item_title_loan">Δάνειο</string>
   <string name="item_title_mortgage">Στεγαστικό</string>
   <string name="item_title_percentage">Ποσοστό</string>
   <string name="item_title_radix">Αριθμητικό σύστημα</string>
@@ -188,7 +189,7 @@
   <string name="label_first_repayment">First repayment</string>
   <string name="label_from_date">From</string>
   <string name="label_history">Ιστορικό</string>
-  <string name="label_interest">Ενδιαφέρον</string>
+  <string name="label_interest">Τόκοι (ποσοστό)</string>
   <string name="label_loan_tenure">Loan tenure</string>
   <string name="label_months">Μήνες</string>
   <string name="label_no_history">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
@@ -229,6 +230,10 @@
   <string name="loan_edittext_hint_fund_combined">Δάνειο από το Ταμείο (×10K)</string>
   <string name="loan_edittext_title_commercial_combined">Εμπορικό (×10K)</string>
   <string name="loan_edittext_title_fund_combined">Ταμείο δανείου (×10K)</string>
+  <string name="loan_enter_amount">Εισάγετε ποσό</string>
+  <string name="loan_enter_amount_interest">Εισάγετε ποσό και επιτόκιο</string>
+  <string name="loan_enter_interest">Εισαγωγή επιτοκίου</string>
+  <string name="loan_invalid_loan_tenure">Η διάρκεια του δανείου πρέπει να είναι μεγαλύτερη του μηδενός</string>
   <string name="loan_first_pay_date">Πρώτη πληρωμή</string>
   <string name="loan_interest_rate">Τόκος</string>
   <string name="loan_pay_years">Διάρκεια δανείου</string>

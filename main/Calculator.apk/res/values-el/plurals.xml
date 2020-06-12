@@ -24,4 +24,8 @@
         <item quantity="other">Επιλεγμένα %d στοιχεία</item>
         <item quantity="one">Επιλεγμένα %d στοιχείο</item>
     </plurals>
+     <plurals name="tenure_years">
+         <item quantity="other">%d έτη</item>
+         <item quantity="one">%d έτος</item>
+     </plurals>
 </resources>
