@@ -263,5 +263,7 @@
   <string name="battery_meter_legacy_title">Εικονίδιο Μπαταρίας</string>
   <string name="network_speed_splitter_title">Οριοθέτης</string>
   <string name="behavior_icon_title">Απόκρυψη εικονιδίου \"Ευαίσθητες ενέργειες\"</string>
+  <string name="show_cards_title">Απενεργοποίηση πλακιδίου</string>
+  <string name="show_cards_summary">Αντικατάσταση πλακιδίου καρτών Υγείας, Χρόνου Οθόνης και Δεδομένων με το Φακό</string>
 </resources>
 
