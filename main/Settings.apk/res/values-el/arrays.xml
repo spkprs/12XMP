@@ -1209,6 +1209,11 @@
     <item>Για Αριστερόχειρες</item>
     <item>Για Δεξιόχειρες</item>
   </string-array>
+    <string-array name="paper_color_values">
+        <item>Πλήρη χρώματα</item>
+        <item>Απαλά χρώματα</item>
+        <item>Ασπρόμαυρα</item>
+    </string-array>
   <string-array name="screen_color_title">
     <item>Θερμό</item>
     <item>Κανονικό</item>
