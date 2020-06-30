@@ -31,7 +31,7 @@
   <string name="Data_set">"\nΔεδομένα: "</string>
   <string name="def_audio_title">Ρύθμιση κουμπιών έντασης</string>
   <string name="developer_build">\nΒήτα</string>
-  <string name="dim_advanced_summary">%s /100 πριν την αδρανοποίηση</string>
+  <string name="dim_advanced_summary">%s/100 πρίν αδρανοποιηθεί</string>
   <string name="dim_advanced_title">Μείωση φωτισμού οθόνης</string>
   <string name="dim_advanced_title_seek">Χρονικό όριο φωτισμού</string>
   <string name="Disabled_set">Ανενεργό</string>
