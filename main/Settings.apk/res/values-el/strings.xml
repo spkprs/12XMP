@@ -4940,6 +4940,7 @@
 	<string name="repeat">Επανάληψη</string>
 	<string name="repeat_call">Ειδοποίηση για επαναλαμβανόμενες κλήσεις</string>
 	<string name="repeat_call_info">Επιτρέπεται ήχος για επαναλαμβανόμενες κλήσεις εντός 15 λεπτών σε Αθόρυβη λειτουργία</string>
+    <string name="repeat_never">Ποτέ</string>
 	<string name="repeat_title">Επανάληψη</string>
 	<string name="reset_aaid">Επαναφορά αναγνωριστικού διαφήμισης</string>
 	<string name="reset_app_preferences">Επαναφορά ιδιοτήτων εφαρμ</string>
