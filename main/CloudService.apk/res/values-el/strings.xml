@@ -567,7 +567,7 @@
     <string name="wipe_data_dialog_msg">%s δεν έχουν συγχρονιστεί και θα παραμείνουν στο τηλέφωνό σας.</string>
     <string name="wipe_data_dialog_msg_and_on">, και μερικά άλλα στοιχεία</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
-    <string name="wipe_data_dialog_title">\"Μερικά στοιχεία δεν έχουν συγχρονιστεί</string>
+    <string name="wipe_data_dialog_title">"Μερικά στοιχεία δεν έχουν συγχρονιστεί"</string>
     <string name="wipe_data_query_progress_title">Ελέγχεται…</string>
     <string name="wipe_secret_photo_dialog_title">Οι κρυφές φωτογραφίες δεν συγχρονίζονται</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
