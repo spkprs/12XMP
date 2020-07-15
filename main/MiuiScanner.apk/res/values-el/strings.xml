@@ -393,7 +393,7 @@
      <string name="WeChatqr_code_auto_processing">Άνοιγμα WeChat</string>
      <string name="downloadAiVisonReason">Εξαρτάται από τα πρόσθετα που πρέπει να αναβαθμιστούν</string>
      <string name="function">Χαρακτηριστικά</string>
-     <string name="if_open_result">Εμφάνιση αποτελέσματος σάρωσης όταν επιστρέψετε στην εφαρμογή</string>
+     <string name="if_open_result">Αποτέλεσμα σάρωσης όταν επιστρέψετε στην εφαρμογή</string>
      <string name="mipayin_dialog_more">Περισσότερα</string>
      <string name="mipayin_dialog_title">Άνοιγμα με</string>
      <string name="monitor_low_android">Η έκδοση ANDROID είναι πολύ παλιά</string>

@@ -794,6 +794,11 @@
     <string name="choose_gs_show_way">Επιλογή προσανατολισμού</string>
     <string name="clean_immediately">Καθαρισμός</string>
     <string name="clean_master_icon_recall_button_text">Προσθήκη</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">Όχι, ευχαριστώ</string>
+    <string name="clean_master_icon_recall_dialog_button_positive">Προσθήκη</string>
+    <string name="clean_master_icon_recall_dialog_summary">Προσθέστε μια συντόμευση στην αρχική οθόνη για να καθαρίζετε τα απορρίμματα όποτε χρειάζεστε.</string>
+    <string name="clean_master_icon_recall_dialog_title">Ταχύτερος καθαρισμός απορριμμάτων</string>
+    <string name="clean_master_icon_recall_hint">Προσθήκη συντόμευσης στην αρχική οθόνη</string>
     <string name="clean_master_icon_recall_summary">Προσθέστε μια συντόμευση στην αρχική οθόνη για να καθαρίζετε τα απορρίμματα όποτε τη χρειαστείτε.</string>
     <string name="clean_master_icon_recall_title">Ταχύτερος καθαρισμός απορριμμάτων</string>
     <string name="clean_master_icon_recall_toast_text">Προστέθηκε με επιτυχία η συντόμευση του καθαρισμού</string>
@@ -1429,6 +1434,10 @@
     <string name="gb_game_video_type_manual_record">Μη αυτόματη εγγραφή</string>
     <string name="gb_get_gift_right_now">Άφιξη τώρα</string>
     <string name="gb_global_settings">Γενικές Ρυθμίσεις</string>
+    <string name="gb_gpu_driver_btn_update">Έλεγχος για ενημερώσεις</string>
+    <string name="gb_gpu_driver_update">Ενημέρωση οδήγησης GPU</string>
+    <string name="gb_gpu_driver_update_app">Ενημέρωση</string>
+    <string name="gb_gpu_driver_update_app_tips">Η τρέχουσα έκδοση είναι ενημερωμένη</string>
     <string name="gb_have_signed">Έλεγχος σήμερα</string>
     <string name="gb_manual_record_dialog_del_video_message">Οριστική διαγραφή επιλεγμένων βίντεο;</string>
     <string name="gb_msg_completely_shielded">Απόκρυψη μηνυμάτων</string>
@@ -1476,7 +1485,7 @@
     <string name="gb_xunyou_gift_type_one">Xunyou 1-ημ. ενίσχυσης</string>
     <string name="gb_xunyou_gift_type_three">Xunyou 3-ημ. ενίσχυσης</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2-ημ. ενίσχυσης</string>
-    <string name="gdpr_msg">&lt;Data&gt;\"Για να χρησιμοποιήσετε τα χαρακτηριστικά της Ασφάλειας, πρέπει να συμφωνείσετε ότι η Xiaomi θα συλλέγει, επεξεργαστεί και θα χρησιμοποιήσει τα προσωπικά σας δεδομένα, συμπεριλαμβανομένων πληροφοριών για τους τρόπους χρήσης της Ασφάλειας (π.χ. στατιστικά δεδομένων, πληροφορίες για κακόβουλα προγράμματα, σχετικά με τη συσκευή σας) και άλλες πληροφορίες που καθορίζονται στην &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Πολιτική Απορρήτου&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
+    <string name="gdpr_msg"><Data>"Για να μπορέσουμε να εντοπίσουμε τους κινδύνους ασφαλείας και να προστατεύσουμε τα δεδομένα σας, πρέπει να συλλέξουμε τις απαραίτητες πληροφορίες σχετικά με τη συσκευή σας. Διαβάστε και αποδεχτείτε τους &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Πολιτική Απορρήτου&lt;/a>πριν χρησιμοποιήσετε τις υπηρεσίες μας. Σε περίπτωση που δεν μας επιτρέπετε να συλλέξουμε τέτοιες πληροφορίες, θα εξακολουθείτε να μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή, αλλά ορισμένες λειτουργίες δεν θα είναι διαθέσιμες για εσάς. "</Data></string>
     <string name="ge">个</string>
     <string name="get_sys_info">Λήψη πληροφοριών…</string>
     <string name="gigabyteShort">GB</string>
@@ -3422,6 +3431,7 @@
     <string name="vtb_func_frc_title">Ομαλοποίηση κίνησης</string>
     <string name="vtb_func_vpp_desc4">Αυτή η δυνατότητα δεν θα λειτουργεί όταν η ανάλυση βίντεο είναι μεγαλύτερη από 4K.</string>
     <string name="vtb_func_vpp_title">Βελτιωμένα περιγράμματα</string>
+    <string name="vtb_function_video_translation">Μετάφραση σε πραγματικό χρόνο</string>
     <string name="vtb_other_milink_connect">Αδύνατη η Μετάδοση τώρα. Σχετικά με την Μετάδοση άλλων…</string>
     <string name="vtb_stop_milink_connect">Διακοπή Μετάδοσης βίντεο</string>
     <string name="wakepath_confirm_start_activity">Επιτρέπετε στο %1$s να ανοίξει το %2$s;</string>

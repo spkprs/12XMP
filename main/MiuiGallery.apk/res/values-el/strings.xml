@@ -543,7 +543,7 @@
     <string name="download_type_thumbnail_desc">Υψηλή ποιότητα</string>
     <string name="download_type_title">Ποιότητα Λήψης</string>
     <string name="download_with_metered_network_msg">Η λήψη αρχικών αρχείων μπορεί να προκαλέσει επιπλέον χρεώσεις φορέα. Λήψη ούτως ή άλλως;</string>
-    <string name="download_with_metered_network_title">Είστε συνδεδεμένοι σε ένα δίκτυο με χρέωση</string>
+    <string name="download_with_metered_network_title">Είστε σε δίκτυο με χρέωση</string>
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Μπορείτε να επιλέξετε την ποιότητα των ληφθέντων εικόνων ή να απενεργοποιήσετε τις αυτόματες λήψεις στις Ρυθμίσεις.</string>
     <string name="downloading_title">Λήψη φωτογραφιών από το Xiaomi Cloud</string>
@@ -1058,7 +1058,7 @@
     <string name="movie_download_sdk_without_wifi_msg">Φαίνεται ότι η συσκευή σας δεν είναι συνδεδεμένη στο Wi-Fi. Λήψη της απαιτούμενης προσθήκης (3MB) χρησιμοποιώντας δεδομένα κινητής ;</string>
     <string name="movie_download_sdk_without_wifi_title">Λήψη με χρήση δεδομένων κινητής</string>
     <string name="movie_download_with_metered_network_msg">Η λήψη αρχικών αρχείων μπορεί να προκαλέσει επιπλέον χρεώσεις φορέα. Λήψη ούτως ή άλλως;</string>
-    <string name="movie_download_with_metered_network_title">Είστε συνδεδεμένοι σε ένα δίκτυο με χρέωση</string>
+    <string name="movie_download_with_metered_network_title">Είστε σε δίκτυο με χρέωση</string>
     <string name="movie_edit">Επεξεργασία</string>
     <string name="movie_item_name">Κλίπ</string>
     <string name="movie_preview_btn">Προεπισκόπηση</string>
@@ -1847,7 +1847,7 @@
     <string name="video_editor_download">Λήψη</string>
     <string name="video_editor_download_failed_for_notwork">Αδύνατη η λήψη. Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
     <string name="video_editor_download_with_metered_network_msg">Η λήψη αρχικών αρχείων μπορεί να προκαλέσει επιπλέον χρεώσεις φορέα. Λήψη ούτως ή άλλως;</string>
-    <string name="video_editor_download_with_metered_network_title">Είστε συνδεδεμένοι σε ένα δίκτυο με χρέωση</string>
+    <string name="video_editor_download_with_metered_network_title">Είστε σε δίκτυο με χρέωση</string>
     <string name="video_editor_encode_video">Κωδικοποίηση βίντεο…</string>
     <string name="video_editor_encode_video_error">Αδύνατη η κωδικοποίηση βίντεο</string>
     <string name="video_editor_fatal_error">Αγνωστο σφάλμα</string>
