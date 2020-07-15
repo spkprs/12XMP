@@ -1393,8 +1393,8 @@
 	<string name="change_wifi_state_title">Έλεγχος WiFi</string>
 	<string name="channel_group_notifications_off_desc">Κατόπιν αιτήματός σας, το Android αποκλείει την εμφάνιση αυτής της ομάδας ειδοποιήσεων σε αυτήν τη συσκευή</string>
 	<string name="channel_notifications_off_desc">Το Android αποκλείει την εμφάνιση των ειδοποιήσεων αυτής της κατηγορίας σε αυτήν τη συσκευή</string>
-	<string name="character_counter_content_description">Οι χαρακτήρες έχουν εισαχθεί %1$d του %2$d</string>
-	<string name="character_counter_overflowed_content_description">Υπέρβαση ορίου χαρακτήρων %1$d του %2$d</string>
+	<string name="character_counter_content_description">Έχουν εισαχθεί %1$d χαρακτήρες απο %2$d</string>
+	<string name="character_counter_overflowed_content_description">Υπέρβαση ορίου χαρακτήρων %1$d απο %2$d</string>
 	<string name="character_counter_pattern">%1$d / %2$d</string>
 	<string name="charge_length_format">%1$s πριν</string>
 	<string name="charging_sounds_title">Ήχοι Φόρτισης</string>
