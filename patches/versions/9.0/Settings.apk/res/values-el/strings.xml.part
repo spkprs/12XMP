@@ -651,7 +651,7 @@
   <string name="zen_mode_block_effect_badge">Απόκρυψη κουκκίδων ειδοποίησης</string>
   <string name="zen_mode_block_effect_intent">Να μην ενεργοποιείται η οθόνη</string>
   <string name="zen_mode_block_effect_light">Να μην αναβοσβήνει φως</string>
-  <string name="zen_mode_block_effect_list">Απόκρυψη από τη λίστα ειδοποιήσεων</string>
+  <string name="zen_mode_block_effect_list">Απόκρυψη από τον πίνακα ειδοποιήσεων</string>
   <string name="zen_mode_block_effect_peek">Να μην εμφανίζονται αναδυόμενες ειδοποιήσεις στην οθόνη</string>
   <string name="zen_mode_block_effect_sound">Σίγαση ήχου και δόνησης</string>
   <string name="zen_mode_block_effect_status">Απόκρυψη εικονιδίων γραμμής κατάστασης</string>
