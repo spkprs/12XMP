@@ -60,6 +60,7 @@
     <string name="altitude_range">Υψόμετρο</string>
     <string name="am">ΠΜ</string>
     <string name="app_name">Δέντρο παρακολούθησης</string>
+    <string name="app_setting">Εφαρμογές</string>
     <string name="audio_permission_dialog_desc">Η άδεια εγγραφής ήχου έχει κλείσει, ανοίξτε την.</string>
     <string name="audio_permission_dialog_title">Εκχώρηση άδειας εγγραφής ήχου</string>
     <string name="audio_record_perm_description">Καταγράψτε το ροχαλητό και τα όνειρά σας κατά τη διάρκεια του ύπνου</string>
@@ -451,6 +452,7 @@
     <string name="health_cloud_service">Υπηρεσίες cloud</string>
     <string name="health_data_cloud_sync_subtitle">Συγχρονίστε τα δεδομένα υγείας με το cloud και αποκτήστε πρόσβαση σε αυτά από οποιαδήποτε συσκευή</string>
     <string name="health_data_cloud_sync_title">Συγχρονισμός με το cloud</string>
+    <string name="health_data_sync">Συγχρ/μός δεδομένων Υγείας</string>
     <string name="health_score">Βαθμός υγείας</string>
     <string name="health_score_tips">Ο βαθμός υγείας υπολογίζεται με βάση το ΔΜΣ σας (δείκτης μάζας σώματος), καθώς και τον ύπνο σας και τα βήματα δραστηριότητας. Όσο πιο κοντά βρίσκεστε στους στόχους σας, τόσο υψηλότερος είναι ο βαθμός υγείας.</string>
     <string name="health_setting">Ρυθμίσεις Υγείας</string>
@@ -596,6 +598,7 @@
     <string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το cloud είναι απενεργοποιημένος</string>
     <string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκε με το cloud</string>
     <string name="miuix_appcompat_cloud_state_syncing">Συγχρονίζεται με το cloud...</string>
+    <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
@@ -1048,6 +1051,7 @@
     <string name="sustain_title">"Δεν έχετε κινηθεί "</string>
     <string name="swim">Κολύμπι</string>
     <string name="swim_type">Στυλ</string>
+    <string name="sync_health_data">Συγχρ/μός δεδομένων Υγείας</string>
     <string name="sync_immediately">Συγχρονισμός</string>
     <string name="sync_is_not_closed">Ο συγχρονισμός είναι ενεργός τώρα</string>
     <string name="sync_is_off">Ο συγχρονισμός είναι απενεργοποιημένος</string>
@@ -1058,8 +1062,12 @@
     <string name="sync_status_network_failure">Αδυναμία συγχρονισμού. Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
     <string name="sync_status_never_done">Δεν έχει συγχρονιστεί</string>
     <string name="sync_status_oauth_error">Ο συγχρονισμός προέλευσης δεδομένων απέτυχε, εξουσιοδοτήστε ξανά</string>
+    <string name="system_app_setting">Ρυθμίσεις εφαρμογής συστήματος</string>
     <string name="systolic_pressure">Συστολική</string>
     <string name="tb_audio_progress_bar">Μπάρα αναπαραγωγής ήχου</string>
+    <string name="tb_blood_pressure_day_chart">%1$s. Υψηλότερη συστολική πίεση: %2$d χιλ. υδραργύρου. Χαμηλότερη διαστολική πίεση: %3$d χιλ. υδραργύρου.</string>
+    <string name="tb_blood_pressure_item">%1$s. Συστολική πίεση: %2$d χιλ. υδραργύρου. Διαστολική πίεση: %3$d χιλ. υδραργύρου.</string>
+    <string name="tb_blood_pressure_wm_card">Μέση συστολική πίεση: %1$d χιλ. υδραργύρου. Μέση διαστολική πίεση: %2$d χιλ. υδραργύρου. Υψηλότερη συστολική πίεση: %3$d χιλ. υδραργύρου. Υψηλότερη διαστολική πίεση: %4$d χιλ. υδραργύρου. Χαμηλότερη συστολική πίεση: %5$d χιλ. υδραργύρου. Χαμηλότερη διαστολική πίεση: %6$d χιλ. υδραργύρου.</string>
     <string name="tb_card_on_using_list">Προστέθηκε</string>
     <string name="tb_click_finish_stand">Ημιτελής ορθοστασία για σχεδόν 1 ώρα, κάντε κλικ για να ολοκληρώσετε τη ορθοστασία</string>
     <string name="tb_current_select">%1$s επιλεγμένο</string>

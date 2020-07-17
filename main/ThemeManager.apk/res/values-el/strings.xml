@@ -272,6 +272,7 @@
 	<string name="find_more_theme">Μάθετε περισσότερα</string>
 	<string name="find_more_wallpapers">Μάθετε περισσότερα</string>
 	<string name="first_page_recommend">Συνιστάται</string>
+    <string name="font_trial_end_purchase">Αγορά γραμ/σειράς</string>
 	<string name="forbid_transparent_wallpaper_by_second_space">Εφαρμογή πρώτα διαφανής ταπετσαρίας στον Πρώτο χώρο.</string>
 	<string name="forbid_video_wallpaper_by_second_space">Εφαρμογή δυναμικής ταπετσαρίας πρώτα στον Πρώτο χώρο.</string>
 	<string name="gallery_wallpaper">Ταπετσαρίες Carousel</string>
@@ -355,7 +356,7 @@
 	<string name="kuyin_user_agreement_content_href">iFlytek Πολιτική Απορρήτου</string>
 	<string name="lab">Εργαστήριο Θεμάτων</string>
 	<string name="like_list">Μου άρεσαν</string>
-	<string name="live_wallpaper">Ζωντανή ταπετσαρία</string>
+	<string name="live_wallpaper">Δυναμική ταπετσαρία</string>
 	<string name="loading">Μισό λεπτό…</string>
 	<string name="loading_resource_detail_fail">Απέτυχε η φόρτωση!</string>
 	<string name="loading_resource_detail_info">Μισό λεπτό…</string>
@@ -924,7 +925,7 @@
 	<string name="title_component">Στοιχεία θέματος</string>
 	<string name="title_my_audio_resource">Οι ήχοι κλήσης μου</string>
 	<string name="title_my_miwallpaper_desktop_effects">Εφέ αρχικής οθόνης</string>
-	<string name="title_my_miwallpaper_resource">Οι ζωντανές ταπετσαρίες μου</string>
+	<string name="title_my_miwallpaper_resource">Οι δυναμικές ταπετσαρίες μου</string>
 	<string name="title_my_miwallpaper_video_file_resource">Οι ταπετσαρίες ταινιών μου</string>
 	<string name="title_my_wallpaper">Οι ταπετσαρίες μου</string>
 	<string name="title_my_wallpaper_resource">Οι ταπετσαρίες μου</string>
