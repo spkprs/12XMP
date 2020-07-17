@@ -219,6 +219,7 @@
     <string name="information_settings_title">Πληροφορίες Καιρού</string>
     <string name="install">Εγκατάσταση</string>
     <string name="install_progress">%1$s%%</string>
+    <string name="international_details_humidity_title">ΥΓΡΑΣΙΑ</string>
     <string name="international_details_pressure_title">ΠΙΕΣΗ</string>
     <string name="international_details_title">Λεπτομέρειες</string>
     <string name="international_details_uv_index_title">ΔΕΙΚΤΗΣ UV</string>
