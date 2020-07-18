@@ -230,11 +230,11 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Αυτή είναι η τελευταία καρτέλα</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Σύρετε πάνω για κλείσιμο</string>
   <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+  <string name="browserFrameFormResubmitMessage">Η σελίδα που προσπαθείτε να δείτε περιέχει δεδομένα που έχουν ήδη υποβληθεί. Εάν ξαναστείλετε εκ νέου τα δεδομένα, προηγούμενες ενέργειες (π.χ. αναζητήσεις ή αγορές) θα επαναληφθούν.</string>
   <string name="browser_default_setting_cancel">Ακύρωση</string>
   <string name="browser_default_setting_confirm">OK</string>
   <string name="browser_default_setting_content">Γρήγορη και ασφαλής περιήγηση στον Ιστό</string>
   <string name="browser_default_setting_title">Ορισμός ως προεπιλεγμένου προγράμματος περιήγησης</string>
-  <string name="browserFrameFormResubmitMessage">Η σελίδα που προσπαθείτε να δείτε περιέχει δεδομένα που έχουν ήδη υποβληθεί. Εάν ξαναστείλετε εκ νέου τα δεδομένα, προηγούμενες ενέργειες (π.χ. αναζητήσεις ή αγορές) θα επαναληφθούν.</string>
   <string name="bubble_guide_bottom_message_text">Έχετε %d μη αναγνωσμένα μηνύματα</string>
   <string name="bubble_guide_logined_text">Συνδεθείτε για τυχερή κλήρωση</string>
   <string name="bubble_guide_portrait_message_text">Κάντε κλικ για προβολή</string>
@@ -415,6 +415,7 @@
   <string name="download_btn_select_none">Αποεπιλογή όλων</string>
   <string name="download_complete">Λήψη ολοκληρώθηκε</string>
   <string name="download_completed">Ληφθέντα</string>
+  <string name="download_confirm_dialog_title">Προειδοποίηση κινδύνου</string>
   <string name="download_dialog_default_path_invalid">Η τοποθεσία λήψης που επιλέξατε δεν είναι έγκυρη. Αποθήκευση στην προεπιλεγμένη τοποθεσία…</string>
   <string name="download_dialog_file_length_default_txt">Μισό λεπτό…</string>
   <string name="download_dialog_file_length_lessthan1kb">Λιγότερο από 1kb</string>
@@ -436,6 +437,9 @@
   <string name="download_no_sdcard_dlg_msg">Απαιτείται αποθηκευτικό μέσο USB για λήψη %s.</string>
   <string name="download_no_sdcard_dlg_title">Αποθηκευτικό μέσο USB μη διαθέσιμο</string>
   <string name="download_pending">Έναρξη λήψης…</string>
+  <string name="download_proceed">Κανονική λήψη</string>
+  <string name="download_risk_alert_content">Το παιχνίδι δεν επαληθεύεται από την Xiaomi Market. Επιλέγοντας \"Κανονική λήψη\", δηλώνετε ότι γνωρίζετε τους κινδύνους και τις συνέπειες.</string>
+  <string name="download_safe">Ασφαλής λήψη</string>
   <string name="download_sdcard_busy_dlg_msg">Το αποθηκευτικό μέσο USB είναι απασχολημένο. Για να επιτραπούν λήψης, ακουμπήστε το Απενεργοποίηση USB αποθήκευσης στην ειδοποίηση.</string>
   <string name="download_sdcard_busy_dlg_title">Αποθηκευτικό μέσο USB μη διαθέσιμο</string>
   <string name="download_status_failed">Αδυναμία λήψης</string>
@@ -959,6 +963,7 @@
   <string name="save_to_camera">Αποθηκεύτηκε στις Φωτογραφίες</string>
   <string name="save_to_camera_failed">Αδυναμία αποθήκευσης εικόνας</string>
   <string name="save_to_camera_success">Αποθηκεύτηκε στη Συλλογή</string>
+  <string name="saved_sucess">Επιτυχής αποθήκευση</string>
   <string name="scanner_uninstalled_text">Εγκαταστήστε το σαρωτή για να συνεχίσετε</string>
   <string name="scanner_uninstalled_title">Ο σαρωτής έχει απεγκατασταθεί</string>
   <string name="screenshot_loading_dialog_title">Καταγραφή</string>
