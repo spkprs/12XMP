@@ -442,6 +442,7 @@
 	<string name="storage_cloned_app">Αποθ.χώρος Διπλών εφαρμογών</string>
 	<string name="storage_info_detail">Διαθέσιμα: %1$s Συνολικά: %1$s</string>
 	<string name="storage_internal">Εσωτερικός χώρος</string>
+    <string name="storage_maintenance_mode">Αποθήκευση για λειτουργία συντήρησης</string>
 	<string name="storage_sd_card">Κάρτα SD</string>
 	<string name="storage_usb">Μνήμη USB</string>
 	<string name="storage_warning">Αδυναμία χρήσης εξωτερικής μνήμης.</string>

@@ -193,6 +193,8 @@
   <string name="personal_sound">Με εφαρμοσμένη ρύθμιση</string>
   <string name="preference_copied">\"%1$s\" αντιγραφεί στο πρόχειρο.</string>
   <string name="retry_test">Ξεκινήστε από την αρχή</string>
+  <string name="ringtone_output_device_summary">Όταν είναι συνδεδεμένη μια περιφερειακή συσκευή (ενσύρματη ή Bluetooth), το μεγάφωνο θα έχει επίσης ήχο τηλεφώνου ή ειδοποίησης</string>
+  <string name="ringtone_output_device_title">Να επιτρέπεται ο ήχος στο μεγάφωνο</string>
   <string name="save_and_apply">Αποθήκευση και εφαρμογή</string>
   <string name="search_menu_title">Αναζήτηση</string>
   <string name="second_note">Βάλτε τα ακουστικά σας.</string>

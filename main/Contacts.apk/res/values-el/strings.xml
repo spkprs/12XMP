@@ -1327,11 +1327,14 @@
   <string name="the_united_nations_day">United Nations Day</string>
   <string name="the_valentines_day">Valentines Day</string>
   <string name="the_water_lantern_festival">Water Lantern Festival</string>
+  <string name="theme_dialog_confirm_button">Κατανοητό</string>
+  <string name="theme_dialog_confirm_content">"Αυτή η έκδοση \"Επαφών\" δεν υποστηρίζει το θέμα που εφαρμόζεται αυτήν τη στιγμή."</string>
+  <string name="theme_dialog_confirm_title">"Αδυναμία εφαρμογής θέματος"</string>
   <string name="three_letter">ΔΕΖ</string>
   <string name="thursday">Πέμπτη</string>
   <string name="thursday_short">Thu</string>
   <string name="thursday_shortest">T</string>
-  <string name="time_picker_dialog_title">Ρυθμίστε την ώρα</string>
+  <string name="time_picker_dialog_title">Ρύθμιση ώρας</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="title_other_devices">Άλλες διαθέσιμες συσκευές</string>

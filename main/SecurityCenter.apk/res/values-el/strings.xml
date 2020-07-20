@@ -1777,7 +1777,7 @@
     <string name="memory_check_content">Ελευθερώθηκαν %s</string>
     <string name="memory_clean_memory_size_tip">Κρυφή Μνήμη/Cache</string>
     <string name="memory_clean_no_need_clean">Όλα είναι τέλεια</string>
-    <string name="memory_clean_no_need_clean_1" formatted="false">Αποδεσμεύτηκε %s. Η συσκευή σας είναι %d%% ταχύτερη τώρα.</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">Αποδεσμεύτηκε %s.\nΗ συσκευή σας είναι %d%% ταχύτερη τώρα.</string>
     <string name="memory_clear_unused">Καθαρισμός κρυφής μνήμης (%s)</string>
     <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
     <string name="menu_add">Προσθήκη</string>
@@ -2846,9 +2846,9 @@
     <string name="st_call_other_group">Αλλα</string>
     <string name="st_call_settings">Λίστα αποκλεισμού κλήσεων</string>
     <string name="st_call_stranger_group">Αποκλεισμός κλήσεων από αγνώστους</string>
-    <string name="st_confirm_dialog_btn_open">Άνοιγμα</string>
+    <string name="st_confirm_dialog_btn_open">Αποκλεισμός</string>
     <string name="st_confirm_dialog_summary_contact_call">Όλες οι κλήσεις από τις επαφές θα αποκλειστούν.</string>
-    <string name="st_confirm_dialog_summary_oversea_call">Ενεργοποίηση αποκλεισμού όλων των εισερχόμενων κλήσεων από άγνωστους αριθμούς τηλεφώνου.</string>
+    <string name="st_confirm_dialog_summary_oversea_call">Όλες οι κλήσεις από ξένους αριθμούς τηλεφώνου θα αποκλείονται.</string>
     <string name="st_confirm_dialog_summary_stranger_call">Όλες οι κλήσεις από άγνωστους θα αποκλειστούν.</string>
     <string name="st_filter_keywords_setting_summary1">Μηνύματα από αγνώστους αριθμούς που περιέχουν τις λέξεις αυτής της λίστας, θα μπλοκάρονται.</string>
     <string name="st_filter_keywords_setting_summary2">(Χρήση κόμματος για διαχωρισμό πολλαπλών λέξεων-κλειδιών)</string>
