@@ -872,9 +872,9 @@
     <string name="data_usage_protected_dialog_message">Το MIUI απενεργοποίησε τα δεδομένα κινητής για να αποτρέψει τη δημιουργία επιπλέον χρεώσεων φορέα.\n\nΟ φορέας σας ενδέχεται να χρεώσει επιπλέον χρεώσεις αν ενεργοποιήσετε ξανά τα δεδομένα κινητής τηλεφωνίας.</string>
     <string name="data_usage_protected_notify_message">Το MIUI απενεργοποίησε τα δεδομένα κινητής για να αποτρέψει τη δημιουργία επιπλέον χρεώσεων φορέα.</string>
     <string name="data_usage_protected_notify_title">Έχετε ήδη χρησιμοποιήσει 5GB δεδομένων για κινητά</string>
-    <string name="data_usage_warning_body">Αγγίξτε για προβολή λεπτομ. χρήσης δεδομένων.</string>
+    <string name="data_usage_warning_body">Προβολή λεπτομ. χρήσης δεδ/νων.</string>
     <string name="data_usage_warning_body_notify">Πατήστε για λεπτομέρειες</string>
-    <string name="data_usage_warning_title_notify">Ξεπεράσατε το όριο δεδομένων σας</string>
+    <string name="data_usage_warning_title_notify">Υπέρβαση ορίου δεδομένων</string>
     <string name="databooster_tips_message">Ενεργοποιήστε το για να περιορίσετε όλες τις κάρτες SIM εκτός από την κάρτα δεδομένων. Απενεργοποιήστε αυτή τη λειτουργία αν προκύψουν σφάλματα στα παιχνίδια της επιλογής σας.</string>
     <string name="databooster_tips_title">Προσοχή</string>
     <string name="debug_open_final_tip">Να ενεργοποιήσετε τον εντοπισμό σφαλμάτων USB;</string>
@@ -3323,7 +3323,7 @@
     <string name="traffic_usage_warning_body">Έχετε ήδη χρησιμοποιήσει %s δεδομένα κινητής αυτό το μήνα.</string>
     <string name="traffic_usage_warning_limit">Προειδοποίηση ορίου χρήσης δεδομένων</string>
     <string name="traffic_usage_warning_title">Προειδοποίηση χρήσης δεδομένων</string>
-    <string name="traffic_warning_purchase_title">Προειδοποίηση χρήσης δεδομένων κινητής</string>
+    <string name="traffic_warning_purchase_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="try_game">Δοκιμή</string>
     <string name="try_recommended_function">Προστατέψτε τη συσκευή σας χρησιμοποιώντας νέες λειτουργίες ασφαλείας</string>
     <string name="two_address_choose_hint">%1$s και %2$s</string>

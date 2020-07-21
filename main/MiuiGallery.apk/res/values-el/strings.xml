@@ -1355,7 +1355,7 @@
     <string name="privacy_permission_request_negative">Απόρριψη</string>
     <string name="privacy_permission_request_positive">Αποδοχή</string>
     <string name="privacy_permission_request_title">Απαιτούμενες Άδειες</string>
-    <string name="private_entry_lock_state_activated_text">Αφήστε το για να ανοίξετε τον ιδιωτικό φάκελο</string>
+    <string name="private_entry_lock_state_activated_text">Αφήστε για άνοιγμα ιδιωτικού φακέλου</string>
     <string name="private_entry_lock_state_enterd_text">Τραβήξτε προς τα κάτω για να ανοίξετε τον ιδιωτικό φάκελο</string>
     <string name="problem_feedback">Σχόλια</string>
     <string name="projection_cancel">Ακύρωση</string>

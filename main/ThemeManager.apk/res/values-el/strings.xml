@@ -407,10 +407,10 @@
 	<string name="miuishare_title_share">Κοινή χρήση</string>
 	<string name="miuishare_wechat_timeline_title">WeChat Στιγμές</string>
 	<string name="miuishare_weibo_title">Weibo</string>
-	<string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το σύννεφο είναι απενεργοποιημένος</string>
-	<string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκε με το σύννεφο</string>
-	<string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το σύννεφο</string>
-	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε κάτω για ανανέωση</string>
+	<string name="miuix_appcompat_cloud_state_disabled">Ο συγχρ/σμός με το cloud είναι ανενεργός</string>
+	<string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκε με το cloud</string>
+	<string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το cloud</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Αφήστε για ανανέωση</string>

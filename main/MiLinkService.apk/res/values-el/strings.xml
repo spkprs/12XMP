@@ -104,7 +104,7 @@
     <string name="help_page_text_end">Εάν το εμπορικό σήμα της συσκευής σας δεν περιλαμβάνεται εδώ, επικοινωνήστε με τον κατασκευαστή για να μάθετε περισσότερα σχετικά με τη λειτουργία της μετάδοσης.</string>
     <string name="keyguard_security_setting_privacy_policy">Πολιτική απορρήτου</string>
     <string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το cloud είναι ανενεργός</string>
-    <string name="miuix_appcompat_cloud_state_finished">Συγχρονισμένος με το cloud</string>
+    <string name="miuix_appcompat_cloud_state_finished">Συγχρονισμένο με το cloud</string>
     <string name="miuix_appcompat_cloud_state_syncing">Συγχρονίστηκε με το cloud</string>
     <string name="nfc_connect_failed_toast">Δεν ήταν δυνατή η μετάδοση. Προσπάθησε ξανά.</string>
     <string name="notification_rc_title">Βοηθός XiaoMi TV</string>

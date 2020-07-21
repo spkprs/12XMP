@@ -155,7 +155,7 @@
   <string name="throwing_screen">Μετάδοση</string>
   <string name="tips_prompt_enable_midrop">Κοινή χρήση αρχείων με κοντινές συσκευές</string>
   <string name="to_feedback">Αναφορά</string>
-  <string name="transfer_intercept_to_remote">Αδύνατη η αποστολή: %1$s</string>
+  <string name="transfer_intercept_to_remote">Αδυναμία αποστολής σε: %1$s</string>
   <string name="transfer_to_pc_summary">Η πιο πρόσφατη έκδοση του λογισμικού AIoT είναι εγκατεστημένη σε Mi Notebooks και είναι συμβατή με το Mi Share. Ελέγξτε τα υποστηριζόμενα μοντέλα στον ιστότοπο MIUI. Εάν ο υπολογιστής σας βρίσκεται στη λίστα αλλά δεν έχει εγκατασταθεί το AIoT σε αυτόν, ενημερώστε το BIOS, τον προσαρμογέα δικτύου και κάντε λήψη του AIoT.</string>
   <string name="transfer_to_pc_title">Αποστολή αρχείων σε υπολογιστές</string>
   <string name="transfer_to_phone_summary">Ενεργοποιήστε το Mi Share χρησιμοποιώντας το εικονίδιο στον πίνακα γρήγορης πρόσβασης. Μετά από αυτό, θα μπορείτε να βλέπετε κοντινές συσκευές όταν αρχίσετε να μοιράζεστε μια φωτογραφία ή ένα αρχείο. Πατήστε τη συσκευή του παραλήπτη για να στείλετε το στοιχείο που μοιράζεστε.</string>

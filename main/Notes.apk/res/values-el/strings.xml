@@ -193,9 +193,9 @@
     <string name="merge_to_folder">Δημιουργήστε ένα φάκελο</string>
     <string name="micloud_state_total_count">%1$s</string>
     <string name="midnight">AM</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
-    <string name="miuix_appcompat_cloud_state_finished">Synced with the cloud</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Syncing with the cloud</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Ανενεργός συγχ/μός με το cloud</string>
+    <string name="miuix_appcompat_cloud_state_finished">Συγχρονισμένο με το cloud</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Συγχρονίστηκε με το cloud</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
