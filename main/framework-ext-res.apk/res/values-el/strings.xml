@@ -6,6 +6,11 @@
   <string name="all_call_livetalk_remain_mins">Λεπτά που απομένουν: %1$s τοπικά | %2$s διεθνή</string>
   <string name="always">Πάντα</string>
   <string name="alwaysUsePrompt">Απομνημόνευση επιλογής</string>
+  <string name="application_cannot_open_alipay_payment_code">"Δεν ήταν δυνατό το άνοιγμα του κωδικού πληρωμής Alipay"</string>
+  <string name="application_cannot_open_alipay_scanner">"Δεν ήταν δυνατό το άνοιγμα του σαρωτή Alipay"</string>
+  <string name="application_cannot_open_weixin_payment_code">"Δεν ήταν δυνατό το άνοιγμα του κωδικού πληρωμής WeChat"</string>
+  <string name="application_cannot_open_weixin_scanner">"Δεν ήταν δυνατό το άνοιγμα του σαρωτή WeChat"</string>
+  <string name="application_not_install_content">"Φαίνεται ότι η εφαρμογή που εκτελεί αυτήν την ενέργεια δεν είναι εγκατεστημένη στη συσκευή σας. Μπορείτε να εγκαταστήσετε αυτήν την εφαρμογή ή να αντιστοιχίσετε μια διαφορετική ενέργεια για αυτήν την σάρωση."</string>
   <string name="apply_password_action">OK</string>
   <string name="apply_password_confirm_dlg_msg">Απαίτηση κωδικού πρόσβασης για %s​;</string>
   <string name="apply_password_confirm_dlg_title">Αυτός ο κωδικός πρόσβασης θα χρησιμοποιηθεί για %s</string>
@@ -48,12 +53,12 @@
   <string name="confirm_cancel_task_files">Ακύρωση αποστολής αρχείων σε %1$s?</string>
   <string name="confirm_cancel_task_images">Ακύρωση αποστολής εικόνων σε %1$s?</string>
   <string name="content_description_dial">Κλήση</string>
+  <string name="content_description_next">Επόμενο</string>
+  <string name="content_description_previous">Πίσω</string>
   <string name="content_description_search">Αναζήτηση</string>
   <string name="content_description_share">Κοινή χρήση</string>
   <string name="content_description_translate">Μετάφραση</string>
   <string name="content_description_web_url">Εξερεύνηση</string>
-  <string name="content_description_next">Επόμενο</string>
-  <string name="content_description_previous">Πίσω</string>
   <string name="copy">Αντιγραφή</string>
   <string name="customer_location_judgment">China</string>
   <string name="cut">Αποκοπή</string>

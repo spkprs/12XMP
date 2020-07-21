@@ -2928,6 +2928,10 @@
     <string name="input_method_function_no_function_des">Χωρίς εμφάνιση συντομεύσεων</string>
     <string name="input_method_function_switch">Εναλλαγή μεταξύ πληκτρολογίων</string>
     <string name="input_method_function_switch_des">Πατήστε για εναλλαγή σε διαφορετικό πληκτρολόγιο</string>
+    <string name="input_method_function_switch_keyboard_language">Αλλαγή γλωσσών</string>
+    <string name="input_method_function_switch_keyboard_language_des">Πατήστε για εναλλαγή μεταξύ γλωσσών εισόδου</string>
+    <string name="input_method_function_switch_keyboard_type">Εναλλαγή πληκτρολογίων</string>
+    <string name="input_method_function_switch_keyboard_type_des">Πατήστε για εναλλαγή μεταξύ διαφορετικών πληκτρολογίων</string>
     <string name="input_method_function_voice">Φωνητική είσοδος</string>
     <string name="input_method_function_voice_des">Πατήστε για χρήση φωνητικής εισόδου</string>
     <string name="input_method_function_xiaoai">Mi AI Φωνητική είσοδος</string>
