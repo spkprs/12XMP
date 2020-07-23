@@ -63,6 +63,7 @@
     <string name="keywords_adb_wireless">adb, εντοπισμός σφαλμάτων, προγραμματιστής</string>
     <string name="media_transfer_this_device_name">Ηχείο τηλεφώνου</string>
     <string name="media_transfer_wired_device_name">Ενσύρματη συσκευή ήχου</string>
+    <string name="media_transfer_wired_usb_device_name">Ενσύρματο ακουστικό</string>
     <string name="power_charging_duration">%1$s - %2$s για την ολοκλήρωση της φόρτισης</string>
     <string name="power_remaining_charging_duration_only">Απομένουν %1$s για ολοκλήρωση της φόρτισης</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Το τηλέφωνο μπορεί να απενεργοποιηθεί σύντομα</string>

@@ -10,10 +10,10 @@
     <string name="cross_profile_notification_channel_name">Σύνδεση προσωπικών εφαρμογών και εφαρμογών εργασίας</string>
     <string name="cross_profile_notification_text">Αποκτήστε πρόσβαση τόσο σε δεδομένα εργασίας όσο και σε προσωπικά δεδομένα. Πατήστε για ρύθμιση.</string>
     <string name="cross_profile_notification_title">Σύνδεση προσωπικών εφαρμογών και εφαρμογών εργασίας</string>
-    <string name="financed_device_screen_header">Αυτή η συσκευή παρέχεται από %1$s</string>
-    <string name="install_creditor_app_description">Εγκατάσταση της εφαρμογής %1$s σε αυτήν τη συσκευή</string>
+    <string name="financed_device_screen_header">Αυτή η συσκευή αγοράστηκε με πίστωση από %1$s</string>
+    <string name="install_creditor_app_description">Εγκαταστήστε την εφαρμογή %1$s, ώστε να μπορείτε να πραγματοποιήσετε πληρωμές με αυτήν τη συσκευή</string>
     <string name="just_a_sec">Μισό λεπτό…</string>
-    <string name="lock_device_description">"Κλειδώστε αυτή τη συσκευή εάν δεν πραγματοποιείτε πληρωμές"</string>
+    <string name="lock_device_description">"Περιορισμός της πρόσβασης σε αυτήν τη συσκευή, εάν δεν πραγματοποιείτε πληρωμές"</string>
     <string name="now_lets_set_up_everything_else">Προσθέστε έναν προσωπικό λογαριασμό για να αξιοποιήσετε περισσότερο τη συσκευή σας</string>
     <string name="now_lets_set_up_everything_else_explanation">Τώρα που το προφίλ εργασίας σας είναι έτοιμο, μπορείτε επίσης να προσθέσετε έναν προσωπικό Λογαριασμό Google για να αποκτήσετε πρόσβαση στις εφαρμογές και το περιεχόμενό σας.</string>
     <string name="reset_device">Κάντε επαναφορά της συσκευής και δοκιμάστε να τη ρυθμίσετε ξανά.</string>

@@ -373,11 +373,19 @@
     <string name="lens_dirty_detected_content">Φαίνεται ότι ο φακός της κάμερας είναι ακάθαρτος.\nΚαθαρίστε το φακό για καλύτερο αποτέλεσμα.</string>
     <string name="lens_dirty_detected_title_back">Ο φακός της Πίσω κάμερας είναι ακάθαρτος</string>
     <string name="lens_dirty_detected_title_front">Ο φακός της Εμπρός κάμερας είναι ακάθαρτος</string>
+    <string name="lighting_bright_red">Scarlet</string>
+    <string name="lighting_dazzling">Beams</string>
+    <string name="lighting_dreamland">Dreamland</string>
+    <string name="lighting_gorgeous">Motley</string>
     <string name="lighting_hint_needed">Τοποθετήστε το θέμα στον προβολέα</string>
     <string name="lighting_hint_title">Φωτισμός Στούντιο</string>
     <string name="lighting_hint_too_close">Μετακινήστε την κάμερα πιο μακριά</string>
     <string name="lighting_hint_too_far">Φέρετε την κάμερα πιο κοντά</string>
     <string name="lighting_hint_usage">Μπορείτε να χρησιμοποιήσετε εφέ φωτισμού\nστούντιο σε κατάσταση Πορτρέτου</string>
+    <string name="lighting_lanshan">Decadence</string>
+    <string name="lighting_movie_light_effect_title">Κινηματογραφικά εφέ</string>
+    <string name="lighting_neon">Neon</string>
+    <string name="lighting_nostalgia">Nostalgia</string>
     <string name="lighting_pattern_dot">Κουκκίδες</string>
     <string name="lighting_pattern_holi">Holi</string>
     <string name="lighting_pattern_leaf">Φύλλα</string>
@@ -387,6 +395,8 @@
     <string name="lighting_pattern_rainbow">Οράνιο τόξο</string>
     <string name="lighting_pattern_shutter">Περσίδες</string>
     <string name="lighting_pattern_stage">Σκηνή</string>
+    <string name="lighting_phantom">Phantom</string>
+    <string name="lighting_rainbow">Rainbow</string>
     <string name="live_edit_exit_confirm">Έξοδος</string>
     <string name="live_edit_exit_message">Παύση λήψης τώρα;</string>
     <string name="live_edit_share_title">Κοινή χρήση</string>
@@ -652,6 +662,7 @@
     <string name="pref_960_watermark_title">960FPS υδατογράφημα</string>
     <string name="pref_advance_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="pref_ai_detect">Ανίχνευση AI</string>
+    <string name="pref_audio_denoise_title">Μείωση θορύβου ήχου</string>
     <string name="pref_audio_focus_entry_front">Εμπρός</string>
     <string name="pref_audio_focus_entry_general">Κανονική</string>
     <string name="pref_audio_focus_entry_rear">Πίσω</string>
@@ -937,6 +948,7 @@
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_lens_dirty_detect_summary">Λήψη ειδοποίησης όταν ο φακός είναι βρώμικος</string>
     <string name="pref_lens_dirty_detect_title">Ειδοποίηση για βρώμικο φακό</string>
+    <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_module_settings">Λειτουργίες</string>
     <string name="pref_more_mode_style_title">Λειτουργίες Κάμερας</string>
@@ -1082,6 +1094,8 @@
     <string name="toast_start_audio_capture">Κάντε έναν ήχο για λήψη φωτογραφίας</string>
     <string name="ubi_focus_capture_fail">Αδύνατη η λήψη φωτογραφίας</string>
     <string name="ubifocus_capture_warning_message">Για καλύτερα αποτελέσματα, θα πρέπει να είναι τα αντικείμενα κοντά (λιγότερο από 1 μέτρο από το φακό).</string>
+    <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD ανενεργή</string>
+    <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD ανενεργό</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD ενεργό</string>
     <string name="ultra_pixel_portrait_hint">Πορτρέτο χαμηλού φωτισμού</string>

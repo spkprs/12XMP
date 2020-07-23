@@ -25,16 +25,16 @@
     <item quantity="one">Διαγραφή %1$d το προσχέδιο;</item>
   </plurals>
   <plurals name="contact_num_selected">
-    <item quantity="other">%d επιλεγμένο</item>
-    <item quantity="one">%d επιλεγμένο</item>
+     <item quantity="one">Προστέθηκε %d επαφή</item>
+     <item quantity="other">Προστέθηκαν %d επαφές</item>
   </plurals>
   <plurals name="conversation_archived">
-    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; αρχειοθετημένα.</item>
-    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; αρχειοθετημένα.</item>
+    <item quantity="other">&lt;b>%1$d&lt;/b> αρχειοθετημένα.</item>
+    <item quantity="one">&lt;b>%1$d&lt;/b> αρχειοθετημένα.</item>
   </plurals>
   <plurals name="conversation_deleted">
-    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; διαγράφηκε.</item>
-    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; διαγράφηκε.</item>
+    <item quantity="other">&lt;b>%1$d&lt;/b> διαγράφηκε.</item>
+    <item quantity="one">&lt;b>%1$d&lt;/b> διαγράφηκε.</item>
   </plurals>
   <plurals name="conversation_folder_changed">
     <item quantity="other">Άλλαξε φακέλους.</item>
@@ -45,24 +45,24 @@
     <item quantity="one">+%1$d άλλο πρόσωπο</item>
   </plurals>
   <plurals name="conversation_muted">
-    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; σε σίγαση</item>
-    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; σε σίγαση.</item>
+    <item quantity="other">&lt;b>%1$d&lt;/b> σε σίγαση</item>
+    <item quantity="one">&lt;b>%1$d&lt;/b> σε σίγαση.</item>
   </plurals>
   <plurals name="conversation_not_important">
-    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;τα μηνύματα αφαιρεθεί από το \"σημαντικό \" φάκελο</item>
-    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;αφαιρεθεί από το \"σημαντικό \" φάκελο</item>
+    <item quantity="other">&lt;b>%1$d&lt;/b>τα μηνύματα αφαιρεθεί από το \"σημαντικό \" φάκελο</item>
+    <item quantity="one">&lt;b>%1$d&lt;/b>αφαιρεθεί από το \"σημαντικό \" φάκελο</item>
   </plurals>
   <plurals name="conversation_not_spam">
-    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;αφαιρείται από\" spam \"φάκελο</item>
-    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;αφαιρείται από\" spam \"φάκελο</item>
+    <item quantity="other">&lt;b>%1$d&lt;/b>αφαιρείται από\" spam \"φάκελο</item>
+    <item quantity="one">&lt;b>%1$d&lt;/b>αφαιρείται από\" spam \"φάκελο</item>
   </plurals>
   <plurals name="conversation_phished">
-    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; μηνύματα που αναφέρονται ως ανεπιθύμητα</item>
-    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; το μήνυμα αναφέρεται ως ανεπιθύμητο</item>
+    <item quantity="other">&lt;b>%1$d&lt;/b> μηνύματα που αναφέρονται ως ανεπιθύμητα</item>
+    <item quantity="one">&lt;b>%1$d&lt;/b> το μήνυμα αναφέρεται ως ανεπιθύμητο</item>
   </plurals>
   <plurals name="conversation_spammed">
-    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; επισημαίνεται ως ανεπιθύμητο</item>
-    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; επισημαίνεται ως ανεπιθύμητο</item>
+    <item quantity="other">&lt;b>%1$d&lt;/b> επισημαίνεται ως ανεπιθύμητο</item>
+    <item quantity="one">&lt;b>%1$d&lt;/b> επισημαίνεται ως ανεπιθύμητο</item>
   </plurals>
   <plurals name="day">
     <item quantity="other">%d μέρες</item>
@@ -132,4 +132,44 @@
     <item quantity="other">%1$s μη απεσταλμένα μηνύματα στο %2$s</item>
     <item quantity="one">%1$s μη απεσταλμένο μήνυμα στο %2$s</item>
   </plurals>
+     <plurals name="number_of_day_after">
+         <item quantity="one">%1$d ημ. μετά</item>
+         <item quantity="other">%1$d ημ. μετά</item>
+     </plurals>
+     <plurals name="number_of_day_before">
+         <item quantity="one">%1$d ημ. πριν</item>
+         <item quantity="other">%1$d ημ. πριν</item>
+     </plurals>
+     <plurals name="number_of_hour_after">
+         <item quantity="one">%1$d ώρ. μετά</item>
+         <item quantity="other">%1$d ώρ. μετά</item>
+     </plurals>
+     <plurals name="number_of_hour_before">
+         <item quantity="one">%1$d ώρ. πριν</item>
+         <item quantity="other">%1$d ώρ. πριν</item>
+     </plurals>
+     <plurals name="number_of_minute_after">
+         <item quantity="one">%1$d λεπ. μετά</item>
+         <item quantity="other">%1$d λεπ. μετά</item>
+     </plurals>
+     <plurals name="number_of_minute_before">
+         <item quantity="one">%1$d λεπ. πριν</item>
+         <item quantity="other">%1$d λεπ. πριν</item>
+     </plurals>
+     <plurals name="number_of_second_after">
+         <item quantity="one">%1$d δευτ. μετά</item>
+         <item quantity="other">%1$d δευτ. μετά</item>
+     </plurals>
+     <plurals name="number_of_second_before">
+         <item quantity="one">%1$d δευτ. πριν</item>
+         <item quantity="other">%1$d δευτ. πριν</item>
+     </plurals>
+     <plurals name="number_of_week_after">
+         <item quantity="one">%1$d εβδ. μετά</item>
+         <item quantity="other">%1$d εβδ. μετά</item>
+     </plurals>
+     <plurals name="number_of_week_before">
+         <item quantity="one">%1$d εβδ. πριν</item>
+         <item quantity="other">%1$d εβδ. πριν</item>
+     </plurals>
 </resources>

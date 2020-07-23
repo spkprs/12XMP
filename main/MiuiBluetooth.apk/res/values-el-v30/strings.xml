@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Η διόρθωση χρωμάτων σάς επιτρέπει να ρυθμίσετε τον τρόπο εμφάνισης των χρωμάτων στη συσκευή σας</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Αυτή η λειτουργία είναι πειραματική και ενδέχεται να επηρεάσει την απόδοση.</string>
     <string name="accessibility_work_profile_app_description">Εργασία %s</string>
     <string name="accessor_expires_text">Λήξη άδειας στις %s</string>
     <string name="accessor_info_title">Εφαρμογές που κάνουν κοινή χρήση δεδομένων</string>
@@ -38,10 +38,13 @@
     <string name="battery_info_status_charging_slow">Αργή φόρτιση</string>
     <string name="blob_expires_text">Λήγει στις %s</string>
     <string name="blob_id_text">Αναγνωριστικό κοινόχρηστων δεδομένων: %d</string>
-    <string name="bluetooth_connected_battery_level">Συνδεδεμένο, μπαταρία %1$s%2$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Συνδεδεμένο (χωρίς πολυμέσο), μπαταρία %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Συνδεδεμένο (χωρίς τηλέφωνο), μπαταρία %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Συνδεδεμένο (χωρίς τηλέφωνο ή πολυμέσο), μπαταρία %1$s%2$s</string>
+    <string name="bluetooth_connected_battery_level">Συνδεδεμένο | Μπαταρία %1$s %2$s</string>
+    <string name="bluetooth_connected_no_a2dp">Συνδεδεμένο (χωρίς μέσο) %1$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Συνδεδεμένο (χωρίς μέσο) | Μπαταρία %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Συνδεδεμένο (χωρίς τηλέφωνο), | Μπαταρία %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Συνδεδεμένο (χωρίς τηλέφωνο ή μέσο) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Συνδεδεμένο (χωρίς τηλέφωνο ή μέσο) | Μπαταρία %1$s %2$s</string>
+    <string name="bluetooth_connected_no_map">Συνδεδεμένο (χωρίς μήνυμα πρόσβασης) %1$s</string>
     <string name="bluetooth_enable_gabeldorsche">Ενεργοποίηση Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Ενεργοποιεί τη στοίβα λειτουργιών Bluetooth Gabeldorsche.</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Οι γκριζαρισμένες επιλογές δεν υποστηρίζονται από τηλέφωνο ή ακουστικά</string>
@@ -67,10 +70,11 @@
     <string name="keywords_adb_wireless">adb, εντοπισμός σφαλμάτων, προγραμματιστής</string>
     <string name="media_transfer_this_device_name">Ηχείο τηλεφώνου</string>
     <string name="media_transfer_wired_device_name">Ενσύρματη συσκευή ήχου</string>
+    <string name="media_transfer_wired_usb_device_name">Ενσύρματο ακουστικό</string>
     <string name="power_charging_duration">%1$s - %2$s για την ολοκλήρωση της φόρτισης</string>
     <string name="power_remaining_charging_duration_only">Απομένουν %1$s για ολοκλήρωση της φόρτισης</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">Το τηλέφωνο μπορεί να απενεργοποιηθεί σύντομα</string>
-    <string name="power_remaining_duration_shutdown_imminent">Το τηλέφωνο μπορεί να απενεργοποιηθεί σύντομα (%1$s)</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">Η συσκευή σας ενδέχεται να απενεργοποιηθεί σύντομα</string>
+    <string name="power_remaining_duration_shutdown_imminent">Η συσκευή σας ενδέχεται να απενεργοποιηθεί σύντομα (%1$s)</string>
     <string name="power_remaining_less_than_duration">Κάτω από %1$s ακόμη (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Κάτω από %1$s ακόμη</string>
     <string name="power_remaining_more_than_subtext">Πάνω από %1$s ακόμη (%2$s)</string>
