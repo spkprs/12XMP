@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="age_label_days">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">%d ημέρα</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d μήνες</item>
+        <item quantity="one">%d μήνας</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">έτη</item>
+        <item quantity="one">έτος</item>
+    </plurals>
   <plurals name="entries">
     <item quantity="other">%d στοιχεία</item>
     <item quantity="one">%d στοιχείο</item>
@@ -16,13 +28,9 @@
     <item quantity="other">%1$d έτη (%2$d μήνες)</item>
     <item quantity="one">%1$d έτος (%2$d μήνες)</item>
   </plurals>
-    <plurals name="delete_msg">
-        <item quantity="other">Διαγραφή %d στοιχείων τώρα;</item>
-        <item quantity="one">Διαγραφή %d στοιχείου τώρα;</item>
-    </plurals>
-    <plurals name="select_items">
-        <item quantity="other">Επιλεγμένα %d στοιχεία</item>
-        <item quantity="one">Επιλεγμένα %d στοιχείο</item>
+    <plurals name="tenure_months">
+        <item quantity="other">%d μήνες</item>
+        <item quantity="one">%d μήνας</item>
     </plurals>
      <plurals name="tenure_years">
          <item quantity="other">%d έτη</item>

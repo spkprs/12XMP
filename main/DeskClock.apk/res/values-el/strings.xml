@@ -65,7 +65,7 @@
     <string name="app_label">Ρολόι</string>
     <string name="app_name">Προτίμηση</string>
     <string name="auto_silence_never">Ποτέ</string>
-    <string name="auto_silence_summary">Ορισμός χρόνου μετά τον οποίο οι ειδοποιήσεις και οι χρονόμετρα θα σιγήσουν</string>
+    <string name="auto_silence_summary">Ορισμός χρόνου μετά τον οποίο ειδοποιήσεις και χρονόμετρα θα σιγήσουν</string>
     <string name="auto_silence_title">Αυτόματη σίγαση</string>
     <string name="back">Έξοδος</string>
     <string name="battery_charging_level">%d %%</string>
@@ -342,9 +342,9 @@
     <string name="shortcut_stop_watch">Έναρξη χρονομέτρου</string>
     <string name="shut_down_alarm_no_news">关机闹钟无法享受早间听新闻服务</string>
     <string name="shut_down_keep_screen">Η οθόνη δεν θα παραμείνει ενεργή</string>
-    <string name="shutdown_alarm_alert_enable_summary">Οι αφυπνίσεις τερματισμού λειτουργίας θα παύσουν τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής σας</string>
-    <string name="shutdown_alarm_alert_title">Παύση Αφύπνισης</string>
-    <string name="shutdown_alarm_disable_summary">Η αφύπνιση δεν θα κλείσει μετά την απενεργοποίηση της συσκευής</string>
+    <string name="shutdown_alarm_alert_enable_summary">Οι ειδοποιήσεις τερματισμού λειτουργίας θα παύσουν τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής σας</string>
+    <string name="shutdown_alarm_alert_title">Ειδοποιήσεις τερματισμού</string>
+    <string name="shutdown_alarm_disable_summary">Η ειδοποίηση δεν θα κλείσει μετά την απενεργοποίηση της συσκευής</string>
     <string name="shutdown_alarm_enable_summary">Η αφύπνιση δεν θα ηχήσει  εάν έχει ρυθμιστεί για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής</string>
     <string name="shutdown_alarm_title">Παύση αφύπνισης</string>
     <string name="silent_alarm_summary">Αθόρυβο</string>

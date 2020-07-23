@@ -51,7 +51,7 @@
     <string name="apn_settings_not_available">Οι ρυθμίσεις ονόματος σημείου πρόσβασης δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
     <string name="app_name">MIUI Bluetooth</string>
     <string name="app_process_limit_title">Όριο διαδικασίας παρασκηνίου</string>
-    <string name="audio_relay_default_device_name">XiaoAi Ηχεία</string>
+    <string name="audio_relay_default_device_name">Mi AI Ηχεία</string>
     <string name="available_via_carrier">Διαθέσιμο μέσω %1$s</string>
     <string name="available_via_passpoint">Διαθέσιμο μέσω %1$s</string>
     <string name="band_24G">" (2.4 GHz band)"</string>
@@ -308,10 +308,10 @@
     <string name="media_category">Πολυμέσα</string>
     <string name="media_transfer_this_device_name">Αυτή η συσκευή</string>
     <string name="mi_audio_relay_cancel">ΟΚ</string>
-    <string name="mi_audio_relay_connect_failed">Απέτυχε</string>
-    <string name="mi_audio_relay_localphone">Τηλέφωνο</string>
-    <string name="mi_audio_relay_phone_name">Χiaomi τηλέφωνο</string>
-    <string name="mi_audio_relay_title">Επιλογή συσκευών αναπαραγωγής</string>
+    <string name="mi_audio_relay_connect_failed">Επαναλάβετε</string>
+    <string name="mi_audio_relay_localphone">Αυτή η συσκευή</string>
+    <string name="mi_audio_relay_phone_name">Το τηλέφωνο μου</string>
+    <string name="mi_audio_relay_title">Επιλογή συσκευής</string>
     <string name="mi_band_vibrate_alarm">Δόνηση κατά την αφύπνιση</string>
     <string name="mi_band_vibrate_incall">Δόνηση όταν κουδουνίζει</string>
     <string name="mi_band_vibrate_incall_in_contacts">Κλήσεις από επαφές</string>

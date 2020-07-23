@@ -1237,9 +1237,9 @@
   <string name="oem_unlock_enable">"Ξεκλείδωμα OEM "</string>
   <string name="oem_unlock_enable_summary">Επιτρέψτε το ξεκλείδωμα του bootloader</string>
   <string name="okay">OK</string>
-  <string name="open_camera_hint_text">Σύρετε το εικονίδιο για να ανοίξετε την Κάμερα</string>
+  <string name="open_camera_hint_text">Σύρετε αριστερά για Κάμερα</string>
   <string name="open_lock_screen_magazine_hint_text">Σύρετε δεξιά για περισσότερες επιλογές</string>
-  <string name="open_remote_center_hint_text">Σύρετε δεξιά για προβολή συντομεύσεων</string>
+  <string name="open_remote_center_hint_text">Σύρετε δεξιά για συντομεύσεις</string>
   <string name="osu_completing_sign_up">Ολοκλήρωση εγγραφής…</string>
   <string name="osu_connect_failed">Δεν ήταν δυνατή η σύνδεση</string>
   <string name="osu_opening_provider">Άνοιγμα %1$s</string>

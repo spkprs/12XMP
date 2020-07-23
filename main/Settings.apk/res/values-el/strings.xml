@@ -2644,7 +2644,7 @@
     <string name="foreground_traffic">Προσκήνιο %s</string>
     <string name="forget">Αγνόηση</string>
     <string name="forget_passpoint_dialog_message">Μπορεί να χάσετε την πρόσβαση σε οποιονδήποτε υπόλοιπο χρόνο ή δεδομένα. Επικοινωνήστε με τον παροχέα σας πριν από την κατάργηση.</string>
-    <string name="forget_passpoint_wifi_message">Το τηλέφωνό σας θα διακόψει την αυτόματη σύνδεση σε αυτό το δίκτυο.</string>
+    <string name="forget_passpoint_wifi_message">Η συσκευή σας θα σταματήσει να συνδέεται αυτόματα σε αυτό το δίκτυο.</string>
     <string name="forget_password_button_text">"<u>Ξέχασα τον κωδικό</u></string>
     <string name="forget_password_dialog_button_text">Πίσω</string>
     <string name="forget_password_dialog_content_four">2. Επιλέξτε [Εκκαθάριση δεδομένων] και περιμένετε μέχρι να επανεκκινηθεί η συσκευή σας.</string>
@@ -4445,11 +4445,11 @@
     <string name="partial_connectivity_text">Ορισμένες εφαρμογές και υπηρεσίες ενδέχεται να μην λειτουργούν λόγω περιορισμένης συνδεσιμότητας. Να χρησιμοποιηθεί ούτως ή άλλως;</string>
     <string name="passpoint_content">%1$s πιστοποιητικά</string>
     <string name="passpoint_label">Αποθηκεύτηκε μέσω</string>
-    <string name="passpoint_r1_privacy_dialog_message">Το Passpoint είναι μια αξιόπιστη, ασφαλής και αυτόματη τεχνολογία σύνδεσης wifi από την WiFi Alliance. Αυτόματη ρύθμιση παραμέτρων για απρόσκοπτης σύνδεσης μεταξύ του δικτύου WLAN και κινητών συσκευών.\n\nΑυτό λαμβάνει τη διεύθυνση WIFI MAC σας μόνο την πρώτη φορά. Θα επεξεργαστούμε τα δεδομένα σας σύμφωνα με την %s. Συμφωνείτε.</string>
+    <string name="passpoint_r1_privacy_dialog_message">"Το Passpoint είναι μια αξιόπιστη, ασφαλής τεχνολογία ασύρματης σύνδεσης που ξεκίνησε από την WiFi Alliance. Διαμορφώνει τους λογαριασμούς αυτόματα για να επιτυγχάνει μια απρόσκοπτη σύνδεση μεταξύ δικτύων WiFi και κινητών συσκευών. \nΑυτή η δυνατότητα λαμβάνει τη διεύθυνση WLAN MAC μόνο για την αρχική εγγραφή λογαριασμού. Θα επεξεργαστούμε τα δεδομένα σας σύμφωνα με την %s. Διαβάστε και αποδεχτείτε την Πολιτική απορρήτου μας πριν χρησιμοποιήσετε αυτήν τη λειτουργία."</string>
     <string name="passpoint_r1_privacy_dialog_no">Ακύρωση</string>
     <string name="passpoint_r1_privacy_dialog_title">Προσοχή</string>
     <string name="passpoint_r1_privacy_dialog_url_text">Πολιτική απορρήτου</string>
-    <string name="passpoint_r1_privacy_dialog_yes">Συμφωνώ και συνεχίζω</string>
+    <string name="passpoint_r1_privacy_dialog_yes">Συμφωνώ</string>
     <string name="passwordIncorrect">Λανθασμένη εισαγωγή κωδικού</string>
     <string name="password_and_security">Κωδικοί &amp; Ασφάλεια</string>
     <string name="password_entrance_title">Ορίστε Κλείδωμα οθόνης</string>
