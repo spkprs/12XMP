@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="day_time_space">
+     <string-array name="agenda_weeks_of_year">
+         <item>Εβδομ. 1</item>
+         <item>Εβδομ. 2</item>
+         <item>Εβδομ. 3</item>
+         <item>Εβδομ. %1$d</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+         <item>Οδήγηση</item>
+         <item>Δημόσιες μεταφορές</item>
+         <item>Ταξί</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+         <item>Νύχτα</item>
+         <item>Νύχτα</item>
+         <item>Πρωί</item>
+         <item>Απόγευμα</item>
+         <item>Απόγευμα</item>
+         <item>Βράδυ</item>
+         <item>Βράδυ</item>
+    </string-array>
+    <string-array name="day_time_space">
         <item>Νύχτα</item>
         <item>Νωρίς το πρωί</item>
         <item>Πρωί</item>

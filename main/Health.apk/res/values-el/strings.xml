@@ -168,7 +168,6 @@
     <string name="climbing">Αναρρίχηση</string>
     <string name="close">Απενεργοποίηση</string>
     <string name="close_once">Απενεργοποίηση μία φορά</string>
-    <string name="close_stand_detection_tip">Μόνιμη υπενθύμιση είναι απενεργοποιημένη, δεν θα χάσετε μόνιμη και καταγραφή μετά την ενεργοποίηση</string>
     <string name="close_stand_notice_and_detection_tip">Η μόνιμη ανίχνευση και υπενθύμιση είναι απενεργοποιημένη</string>
     <string name="close_stand_notice_tip">Η μόνιμη ανίχνευση έχει απενεργοποιηθεί, η αυτόματη ανίχνευση μετά το άνοιγμα είναι πιο ανησυχητική</string>
     <string name="collapse">Απόκρυψη</string>
@@ -783,6 +782,7 @@
     <string name="remind_query_menstruation_start">Ξεκίνησε η εμμηνόρροιά σας; Μην ξεχάσετε να την καταγράψετε.</string>
     <string name="remind_sleep_report_complete">Τα στατιστικά στοιχεία ύπνου είναι έτοιμα</string>
     <string name="remind_sleep_report_content">Κοιμηθήκατε %1$d ώρ. %2$d λεπ. χθες το βράδυ. Πατήστε για προβολή λεπτομερειών.</string>
+    <string name="remind_sleep_report_content_1">Κοιμηθήκατε %1$d ώρ. χθες το βράδυ. Πατήστε για προβολή λεπτομερειών.</string>
     <string name="remind_sleep_report_title">Τα στατιστικά ύπνου είναι έτοιμα</string>
     <string name="remind_subtitle_menstruation_start">Λάβετε υπενθύμιση 2 ημέρες πριν από την πιθανή έναρξη της επόμενης εμμηνόρροιας</string>
     <string name="remind_subtitle_record">Λάβετε υπενθυμίσεις όταν πρέπει να καταγράψετε της ημερομηνίες έναρξης και τέλους των εμμηνορροιών σας</string>
@@ -1017,8 +1017,10 @@
     <string name="stand_notice_title4">Σηκωθείτε και τεντωθείτε</string>
     <string name="stand_notice_title5">Δεν εντοπίστηκε ορθοστασία για σχεδόν 1 ώρα</string>
     <string name="stand_notice_title6">Υπάρχει κάποια μόνιμη δραστηριότητα την τελευταία ώρα;</string>
+    <string name="stand_remind_setting_desc">Όταν δεν εντοπιστεί μόνιμη δραστηριότητα εντός 1 ώρας, στέλνει μια ειδοποίηση για να σας υπενθυμίσει να σηκωθείτε.</string>
     <string name="stand_setting">Ρύθμιση Ορθοστασίας</string>
     <string name="standard_format">(τυπικό: %1s)</string>
+    <string name="stand_stop_reminding">Παύση ειδοποιήσεων Ορθοστασίας</string>
     <string name="standing_already">Όρθιος ήδη</string>
     <string name="state_agree">Αποδοχή</string>
     <string name="state_auto_run_disenable">Ανενεργή</string>
