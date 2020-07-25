@@ -169,6 +169,10 @@
     <string name="daily_forecast_no_data">Αδυναμία απόκτησης πληροφοριών καιρού\nΤραβήξτε προς τα κάτω για ανανέωση ή ελέγξτε τις ρυθμίσεις δικτύου.</string>
     <string name="data_provided_by">Δεδομένα που παρέχονται εν μέρει από</string>
     <string name="data_source_timezone">GMT%1$s</string>
+    <string name="dialog_msg_score_midrop">Πώς νιώθεις για τον καιρό;</string>
+    <string name="dialog_msg_score_not_good">Θα μπορούσατε να μας δώσετε και τα σχόλιά σας;</string>
+    <string name="dialog_msg_score_perfect">Ωραία! Αξιολόγηση καιρού και στο Play Store;</string>
+    <string name="dialog_title_score">Αξιολόγηση καιρού</string>
     <string name="dislike_alert_dialog_title">Γιατί δεν θέλετε να δείτε αυτό το περιεχόμενο;</string>
     <string name="edit_city">Διαχείριση πόλεων</string>
     <string name="empty">" "</string>
@@ -221,6 +225,7 @@
     <string name="install_progress">%1$s%%</string>
     <string name="international_details_humidity_title">ΥΓΡΑΣΙΑ</string>
     <string name="international_details_pressure_title">ΠΙΕΣΗ</string>
+    <string name="international_details_real_feel_title">ΠΡΑΓΜΑΤΙΚΗ ΑΙΣΘΗΣΗ®</string>
     <string name="international_details_title">Λεπτομέρειες</string>
     <string name="international_details_uv_index_title">ΔΕΙΚΤΗΣ UV</string>
     <string name="international_details_wind_connect">%1$s %2$s</string>
@@ -313,6 +318,8 @@
     <string name="rain_sound_setting_title_text">Ηχητικά εφέ</string>
     <string name="rainfall_settings_summary">Προειδοποιήσεις βροχοπτώσεων</string>
     <string name="rainfall_settings_title">Βροχόπτωση</string>
+    <string name="rating_dialog_later">Αργότερα</string>
+    <string name="rating_dialog_rate_now">Βαθμολογήστε Τώρα</string>
     <string name="real_time_sunrise">Ανατολή %1$s</string>
     <string name="real_time_sunset">Δύση %1$s</string>
     <string name="realtime_aqi_title">Δείκτης Ποιότητας Αέρα</string>
@@ -436,6 +443,7 @@
     <string name="weather_introduce">Πάντα μαζί σας, στην βροχή ή στον ήλιο.</string>
     <string name="weather_main_aqi_desc">ΔΠΑ</string>
     <string name="weather_main_minute_hour">2ώρ υετός</string>
+    <string name="weather_main_speak_tips">Κάντε κλικ για μετάδοση καιρού μέσω φωνής</string>
     <string name="weather_permission_agree">Αποδοχή</string>
     <string name="weather_service_channel_name">Υπηρεσίες παρασκηνίου</string>
     <string name="widget_cta_not_agree">Πατήστε για να λάβετε πληροφορίες καιρού</string>
