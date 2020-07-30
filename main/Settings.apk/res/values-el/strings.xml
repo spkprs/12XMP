@@ -1165,6 +1165,7 @@
     <string name="bluetooth_unlock_no_matched_device_yet">Δεν υπάρχει διαθέσιμη συσκευή</string>
     <string name="bluetooth_unlock_reject">Το αίτημα για ξεκλείδωμα αυτής της συσκευής απορρίφθηκε</string>
     <string name="bluetooth_unlock_settings_devices_title">Συσκευή</string>
+    <string name="bluetooth_unlock_settings_devices_prompt">Υποστηρίζονται μόνο επιλεγμένες φορετές συσκευές Bluetooth (π.χ. ζώνες γυμναστικής και έξυπνα ρολόγια)</string>
     <string name="bluetooth_unlock_settings_toggle_title">Εφαρμογή σε</string>
     <string name="bluetooth_unlock_settings_unlock_device">Ξεκλείδωμα συσκευής</string>
     <string name="bluetooth_unlock_state_disconnected">Αποσυνδέθηκε</string>

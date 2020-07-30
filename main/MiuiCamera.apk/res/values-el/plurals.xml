@@ -5,6 +5,14 @@
         <item quantity="other">Εστίασε. Ανιχνεύθηκαν %d πρόσωπα</item>
         <item quantity="one">Εστίασε. Ανιχνεύθηκε %d πρόσωπο</item>
      </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d συνεχόμενες λήψεις φωτό</item>
+        <item quantity="one">%d συνεχόμενη λήψη φωτό</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Χρονικό διάστημα: %d δευτ.</item>
+        <item quantity="one">Χρονικό διάστημα: %d δευτ.</item>
+    </plurals>
      <plurals name="clone_guide_tip2">
         <item quantity="other">Μπορείτε να δημιουργήσετε έως %d κλώνους κάθε φορά.</item>
         <item quantity="one">Μπορείτε να δημιουργήσετε έως %d κλώνους κάθε φορές.</item>
