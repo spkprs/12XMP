@@ -1316,7 +1316,7 @@
   <string name="onscreenShowDialpadText">Πληκτρολόγιο</string>
   <string name="onscreenSwapCallsText">Εναλλαγή</string>
   <string name="onscreenVideoCallText">Κλήση βίντεο</string>
-  <string name="open_miui">Άνοιγμα</string>
+  <string name="open_miui">Ενεργοποίηση</string>
   <string name="opened_dual_4g_confirm_prompt">Φαίνεται οτι έχετε μια κάρτα SIM 4G. Η Διπλή 4G ενεργοποιήθηκε αυτόματα.</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">Η SIM %1$s υποστηρίζει μόνο 4G. Για να βεβαιωθείτε ότι λειτουργεί κανονικά, η Διπλή 4G να είναι ενεργοποιημένη.</string>
   <string name="operator">Πάροχος</string>

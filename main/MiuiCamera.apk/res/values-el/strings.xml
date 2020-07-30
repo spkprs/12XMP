@@ -208,7 +208,7 @@
     <string name="ambilight_scene_crowd_moving">Κινούμενο πλήθος</string>
     <string name="ambilight_scene_light_track">Ζωγραφική Φωτός</string>
     <string name="ambilight_scene_magic_star">Εναστρος ουρανός</string>
-    <string name="ambilight_scene_silky_water">Μεταξένιο νερό</string>
+    <string name="ambilight_scene_silky_water">Ελαιογραφία</string>
     <string name="ambilight_scene_star_track">Τροχιές αστεριών</string>
     <string name="ambilight_scene_traffic_light">Τροχιές Neon</string>
     <string name="ambilight_tips_for_longtime_using_tripod">Χρησιμοποιήστε ένα τρίποδο για περισσότερη έκθεση</string>
@@ -1174,7 +1174,7 @@
     <string name="timbre_normal">Αρχικό</string>
     <string name="timbre_robot">Robot</string>
     <string name="time_lapse_error">Αδύνατη η χρήση αυτού του μεγέθους βίντεο για εγγραφή με χρονική καθυστέρηση</string>
-    <string name="timer_burst">Χρον/πτης Συνεχ. Λήψεων</string>
+    <string name="timer_burst">Χρον/πτης Συνεχόμενων</string>
     <string name="timer_burst_manu_param_interval">Χρονικό διάστημα (δεν περιέχει χρόνο έκθεσης)</string>
     <string name="timer_burst_param_interval">Χρονικό διάστημα</string>
     <string name="timer_burst_param_total_count">Συνολικές Λήψεις</string>

@@ -644,7 +644,7 @@
     <string name="back_key">Πίσω</string>
     <string name="back_sensitivity_dialog_message">\n\nΗ υψηλότερη ευαισθησία ενδέχεται να έρχεται σε διένεξη με οποιεσδήποτε κινήσεις εφαρμογών κατά μήκος των άκρων της οθόνης.</string>
     <string name="back_sensitivity_dialog_title">Πίσω ευαισθησία</string>
-    <string name="back_tap">Πάτημα πίσω</string>
+    <string name="back_tap">Πάτημα Πίσω</string>
     <string name="back_triple_tap">Τριπλό πάτημα πίσω</string>
     <string name="background_activity_disabled_dialog_text">Εφόσον αυτή η εφαρμογή δεν έχει ρυθμιστεί για βελτιστοποίηση της μπαταρίας, δεν μπορείτε να την περιορίσετε.\n\nΓια να περιορίσετε την εφαρμογή, ενεργοποιήστε πρώτα τη βελτιστοποίηση της μπαταρίας.</string>
     <string name="background_activity_summary">Να επιτρέπεται στην εφαρμογή να εκτελείται στο παρασκήνιο</string>
@@ -1737,7 +1737,7 @@
     <string name="current_zone">(τρέχουσα)</string>
     <string name="custom_carrier_title">Επεξεργασία ονόματος φορέα</string>
     <string name="custom_color">Προσαρμογή</string>
-    <string name="custom_gesture_title">Προσαρμοσμένες χειρονομίες</string>
+    <string name="custom_gesture_title">Προσαρμοσμένες Χειρονομίες</string>
     <string name="custom_wifi_name_title">Επεξεργασία ονόματος WiFi</string>
     <string name="cutout_mode_always">Εμφάνιση πάντα εγκοπής</string>
     <string name="cutout_mode_default">Αυτόματα</string>
