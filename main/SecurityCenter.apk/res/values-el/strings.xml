@@ -164,9 +164,9 @@
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_not_wlan">Δεν είστε συνδεδεμένοι σε Wi‑Fi. Η χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις. Συνέχεια ούτως ή άλλως;</string>
     <string name="antivirus_privacy_dialog_cloudscan">Αποστολή ονομ. και λεπτ. εφαρμογών</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">Ανεβάζει και σαρώνει τα ονόματα και τις λεπτομέρειες των εφαρμογών με την online βάση ιών τους.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">"Για τον αποτελεσματικότερο εντοπισμό και την εξουδετέρωση των ιών, θα αποστείλουμε τα ονόματα και τις ιδιότητες πακέτων των εφαρμογών, προκειμένου να τους σαρώσουμε χρησιμοποιώντας μια μηχανή νέφους."</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές των AVL και Tencent (%s).</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Το χαρακτηριστικό αυτό τροφοδοτείται από τρίτους. Για περισσότερες πληροφορίες, διαβάστε την &lt;a href=\"%1$s\">Άδεια χρήσηςt&lt;/a> που παρέχεται από τρίτους.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Πολιτική Απορρήτου</string>
     <string name="antivirus_privacy_dialog_summary_new"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast, AVL και Tencent. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από AVL και Tencent. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
@@ -1391,8 +1391,8 @@
     <string name="gb_advance_settings_screen_hdr_summary">Αυξήστε την αντίθεση και βελτιώστε τις λεπτομέρειες για τα παιχνίδια</string>
     <string name="gb_advance_settings_touch">Χειριστήρια αφής</string>
     <string name="gb_advance_settings_vibration_4d">4D δόνηση</string>
-    <string name="gb_advance_settings_vibration_4d_summary">Επεξήγηση των ενεργειών εντός του παιχνιδιού με χρήση δόνησης</string>
-    <string name="gb_advance_settings_vibration_4d_summary2">Δονείται κατά τη διάρκεια σκοτώνει στο παιχνίδι</string>
+    <string name="gb_advance_settings_vibration_4d_summary">Δόνηση κατά τη διάρκεια χτυπημάτων στο παιχνίδι</string>
+    <string name="gb_advance_settings_vibration_4d_summary2">Δόνηση κατά τη διάρκεια θανάτου στο παιχνίδι</string>
     <string name="gb_audition_instruction">Πατήστε παρατεταμένα για εγγραφή (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Χρήση ακουστικών για το καλύτερο εφέ</string>
     <string name="gb_create_icon_summary">Δημιουργία συντόμευσης αρχικής οθόνης</string>

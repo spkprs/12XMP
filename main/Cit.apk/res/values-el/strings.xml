@@ -1153,6 +1153,8 @@
     <string name="sar_sensor_data_check_description">Συλλογή δεδομένων αισθητήρα Sar</string>
     <string name="sar_sensor_data_check_summary">Περιστρέψτε το τηλέφωνο, τοποθετήστε το στο εξάρτημα\u000d\nΠλησιάστε το εξάρτημα κοντά και μακριά από το τηλέφωνο</string>
     <string name="sar_sensor_data_check_summary_1">Κρατήστε το πάνω μέρος του τηλεφώνου με το ένα χέρι\nΒεβαιωθείτε ότι η γωνία πραγματικού χρόνου είναι περίπου 45 μοίρες\nΚρατήστε το άλλο χέρι μακριά από το τηλέφωνο\nΚοιτάξτε την τιμή του CS0\nΑφού η τιμή του CS0 είναι μικρότερη από 500 και η τιμή του CS2 είναι μεγαλύτερη από 5000\nΚρατήστε το άλλο χέρι κοντά στο κάτω μέρος του τηλεφώνου\nΚοιτάξτε την τιμή του CS0\nΗ τιμή του CS0 κυμαίνεται από 3000 έως 30000, τονίζεται το κουμπί pass</string>
+    <string name="sar_sensor_set">Ρύθμιση αισθητήρα Sar</string>
+    <string name="sar_sensor_setting">Κατάσταση αισθητήρα Sar</string>
     <string name="sar_sensor_test_description">Ο αισθητήρας Sar βαθμολογεί και συλλέγει δεδομένα</string>
     <string name="sar_sensor_test_err_angle">Το τηλέφωνο δεν είναι σωστά τοποθετημένο</string>
     <string name="sar_sensor_test_next_step">Έλεγχος διαφράγματος κοντά στο κινητό τηλέφωνο</string>

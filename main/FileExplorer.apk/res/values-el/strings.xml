@@ -145,8 +145,9 @@
 	<string name="doc_wps">WPS</string>
 	<string name="doc_xls">XLS</string>
 	<string name="downloading">Λήψη…</string>
-	<string name="enable_documentsui">Ενεργοποιείστε πρώτα το %s στις Ρυθμίσεις &gt; Εφαρμογές</string>
-	<string name="enable_sd_card">Εισάγετε κάρτα SD ή απενεργοποιήστε την μαζική αποθήκευση USB.</string>
+    <string name="drag_not_support_with_dir">"Αδύνατη η αναδιάταξη ή η αποστολή φακέλων"</string>
+    <string name="enable_documentsui">Ενεργοποιείστε πρώτα το %s στις Ρυθμίσεις > Εφαρμογές</string>
+	<string name="enable_sd_card">Κάρτα SD είναι κατεστραμμένη ή έχει αποσυνδεθεί.</string>
 	<string name="enable_usb">Συνδέστε τη συσκευή USB</string>
 	<string name="encrypt_error">Αδυναμία απόκρυψης ορισμένων αρχείων. Δοκιμάστε ξανά</string>
 	<string name="encrypt_prefix">ΚΡΥΦΑ</string>
@@ -391,7 +392,8 @@
 	<string name="rlv_refreshing">Ανανέωση…</string>
 	<string name="rlv_release_to_refresh">Αφήστε για ανανέωση</string>
 	<string name="save">Αποθήκευση</string>
-	<string name="search_app">Εφαρμογές και Φάκελοι</string>
+    <string name="save_file_to_mishare">"Αποθηκεύτηκε στο φάκελο του Mi Share"</string>
+	<string name="search_app">Εφαρμογές &amp; Φάκελοι</string>
 	<string name="search_app_more">Περισσότερα</string>
 	<string name="search_description">Εύρεση αρχείων στη συσκευή</string>
 	<string name="search_empty_view_hint">Χωρίς αποτελέσματα</string>

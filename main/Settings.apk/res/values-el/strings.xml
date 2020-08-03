@@ -315,6 +315,7 @@
     <string name="ai_settings_long_click_title">Αγγίξτε παρατεταμένα</string>
     <string name="ai_settings_single_press_des">Αγγίξτε το πλήκτρο AI για να μιλήσετε με το Βοηθό Google, στη συνέχεια αφήστε, να πάρετε την απάντηση.</string>
     <string name="airplane_mode">Λειτουργία πτήσης</string>
+    <string name="airplane_mode_summary">Απενεργοποιεί κλήσεις, SMS, δεδομένα κινητού</string>
     <string name="alarm_ringtone_title">Προεπιλεγμένος ήχος Αφύπνισης</string>
     <string name="alarm_sound_dialog_title">Επιλέξτε ήχο αφύπνισης</string>
     <string name="alarm_sound_title">Αφύπνιση</string>
@@ -2534,6 +2535,7 @@
     <string name="find_my_device">Εύρεση συσκευής</string>
     <string name="find_my_device_disable">Ανενεργό</string>
     <string name="find_my_device_enable">Ενεργό</string>
+    <string name="find_my_device_summary">Πρέπει να είστε συνδεδεμένοι στο Mi λογαριασμό σας</string>
     <string name="fingerprint_add_max">Μπορείτε να προσθέσετε έως και %d δακτυλικά αποτυπώματα</string>
     <string name="fingerprint_add_title">Προσθήκη δακτυλικού αποτυπώματος</string>
     <string name="fingerprint_and_password_entrance_title">Κωδικός &amp; Δακτυλικό αποτύπωμα</string>
@@ -3004,6 +3006,8 @@
     <string name="invalid_location">Η τοποθεσία εγκατάστασης δεν είναι έγκυρη</string>
     <string name="invalid_size_value">Δεν ήταν δυνατό να υπολογιστεί το μέγεθος του πακέτου.</string>
     <string name="ipaddr_label">IPaddr:</string>
+    <string name="ipv4_congertion_control">Επιλέξτε τον έλεγχο συμφόρησης TCP</string>
+    <string name="ipv4_congertion_xontrol_chose">Αλγόριθμος αποφυγής συμφόρησης TCP</string>
     <string name="item_system_app">Εφαρμογές συστήματος</string>
     <string name="join_two_items">%1$s και %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>

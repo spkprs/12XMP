@@ -383,8 +383,8 @@
     <string name="usage_new_home_day_usage_title_new">Χρόνος οθόνης %s</string>
     <string name="usage_new_home_first_unlock">Πρώτο ξεκλείδωμα: %s</string>
     <string name="usage_new_home_name">Ονομα</string>
-    <string name="usage_new_home_show_more_data_summary">Μπορείτε επίσης να περιορίσετε τον χρόνο οθόνης για μεμονωμένες εφαρμογές</string>
-    <string name="usage_new_home_show_more_data_title">Δείτε περισσότερα στατιστικά στοιχεία</string>
+    <string name="usage_new_home_show_more_data_summary">Περιορισμός χρόνου &amp; για μεμονωμένες εφαρμογές</string>
+    <string name="usage_new_home_show_more_data_title">Περισσότερα στατιστικά στοιχεία</string>
     <string name="usage_new_home_sys_no_limit_summary">"Δεν είναι δυνατός ο περιορισμός του χρόνου οθόνης για τις εφαρμογές συστήματος"</string>
     <string name="usage_new_home_unlock_equals_text">Ίδια με την προηγούμενη ημέρα</string>
     <string name="usage_new_home_unused">Χωρίς χρήση</string>

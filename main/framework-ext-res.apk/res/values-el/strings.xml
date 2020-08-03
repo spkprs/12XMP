@@ -28,7 +28,7 @@
   <string name="autofill">Αυτόματη συμπλήρωση</string>
   <string name="autofill_save_message">Επιτρέπετε στο MIUI να αποθηκεύει τους λογαριασμούς και κωδικούς σας;</string>
   <string name="autofill_save_ok">Αποδοχή</string>
-  <string name="autofill_save_sub_message">Μπορείτε να διαχειριστείτε τους αποθηκευμένους κωδικούς στις Ρυθμίσεις > Κωδικοί > Ασφάλεια > %s.</string>
+  <string name="autofill_save_sub_message">"Μπορείτε να δείτε και να διαχειριστείτε τους κωδικούς σας στις "Ρυθμίσεις > Κωδικοί &amp; Ασφάλεια > %s."</string>
   <string name="autofill_save_title">Αυτόματη αποθήκευση κωδικών</string>
   <string name="autofill_service_name">Διαχείριση Κωδικών</string>
   <string name="bluetooth_close">Αυτή η εφαρμογή απενεργοποίησε το B/T</string>

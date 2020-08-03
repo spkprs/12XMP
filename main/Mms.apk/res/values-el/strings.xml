@@ -121,8 +121,8 @@
     <string name="cannot_send_message_reason">Το μήνυμά σας δεν έχει έγκυρους παραλήπτες.</string>
     <string name="card_insert_to_contact">Εισαγωγή επαφής</string>
     <string name="change_duration_activity">Αλλαγή διάρκειας</string>
-    <string name="chatbox_list_title">Οι Μικροεφαρμογές μου</string>
-    <string name="chatbox_main_title">Μικροεφαρμογές</string>
+    <string name="chatbot_list_title">Οι Μικροεφαρμογές μου</string>
+    <string name="chatbot_main_title">Μικροεφαρμογές</string>
     <string name="check_all">Επιλογή όλων</string>
     <string name="class_0_message_activity">Κατηγορία 0 μηνύματος</string>
     <string name="classifing">Grouping messages…</string>
