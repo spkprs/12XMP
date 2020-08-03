@@ -121,11 +121,11 @@
     <string name="cannot_send_message_reason">Το μήνυμά σας δεν έχει έγκυρους παραλήπτες.</string>
     <string name="card_insert_to_contact">Εισαγωγή επαφής</string>
     <string name="change_duration_activity">Αλλαγή διάρκειας</string>
-    <string name="chatbot_list_title">Οι Μικροεφαρμογές μου</string>
+    <string name="chatbot_list_title">5G Μηνύματα</string>
     <string name="chatbot_main_title">Μικροεφαρμογές</string>
     <string name="check_all">Επιλογή όλων</string>
     <string name="class_0_message_activity">Κατηγορία 0 μηνύματος</string>
-    <string name="classifing">Grouping messages…</string>
+    <string name="classifing">Ομαδοποίηση μηνυμάτων…</string>
     <string name="click_to_update">Αγγίξτε για έλεγχο ενημερώσεων</string>
     <string name="click_to_view">Άγγιγμα για προβολή</string>
     <string name="close">Κλείσιμο</string>
@@ -310,7 +310,7 @@
     <string name="ft_cfs_dialog_content">"Δεν ήταν δυνατή η παράδοση αρχείων με τη χρήση του RCS. Αντί για αυτό, στείλτε ένα σύνδεσμο σε ένα μήνυμα κειμένου;"</string>
     <string name="ft_cfs_dialog_title">Εναλλακτική μεταφορά αρχείων</string>
     <string name="group_already_kicked_hint">Δεν είστε σε αυτήν την ομάδα, δεν μπορείτε να στείλετε ένα μήνυμα.</string>
-    <string name="group_member_is_composing">Typing…</string>
+    <string name="group_member_is_composing">Πληκτρολογεί…</string>
     <string name="group_message">Ομαδικό μήνυμα</string>
     <string name="group_message_title">Ομαδική συνομιλία</string>
     <string name="group_not_exist_hint">Η ομάδα έχει διαγραφεί και δεν μπορεί να στείλετε μηνύματα</string>
