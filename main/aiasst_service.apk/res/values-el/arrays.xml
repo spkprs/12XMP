@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_callIng_time">
+        <item>3δ</item>
+        <item>5δ</item>
+        <item>10δ</item>
+        <item>15δ</item>
+        <item>20δ</item>
+        <item>25δ</item>
+        <item>30δ</item>
+    </string-array>
+    <string-array name="welcome_tips">
+        <item>Γεια σας!</item>
+        <item>"Γεια σας! Μιλάς με την Μι ΑΙ. Είμαι ο βοηθός του ατόμου που καλείτε."</item>
+    </string-array>
+</resources>
