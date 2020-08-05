@@ -4468,10 +4468,10 @@
     <string name="partial_connectivity_text">Ορισμένες εφαρμογές και υπηρεσίες ενδέχεται να μην λειτουργούν λόγω περιορισμένης συνδεσιμότητας. Να χρησιμοποιηθεί ούτως ή άλλως;</string>
     <string name="passpoint_content">%1$s πιστοποιητικά</string>
     <string name="passpoint_label">Αποθηκεύτηκε μέσω</string>
-    <string name="passpoint_r1_privacy_dialog_message">"Το Passpoint είναι μια αξιόπιστη, ασφαλής τεχνολογία ασύρματης σύνδεσης που ξεκίνησε από την WiFi Alliance. Διαμορφώνει τους λογαριασμούς αυτόματα για να επιτυγχάνει μια απρόσκοπτη σύνδεση μεταξύ δικτύων WiFi και κινητών συσκευών. \nΑυτή η δυνατότητα λαμβάνει τη διεύθυνση WLAN MAC μόνο για την αρχική εγγραφή λογαριασμού. Θα επεξεργαστούμε τα δεδομένα σας σύμφωνα με την %s. Διαβάστε και αποδεχτείτε την Πολιτική απορρήτου μας πριν χρησιμοποιήσετε αυτήν τη λειτουργία."</string>
-    <string name="passpoint_r1_privacy_dialog_no">Ακύρωση</string>
+    <string name="passpoint_r1_privacy_dialog_message">Αυτή η υπηρεσία WiFi παρέχεται από exands. Σας επιτρέπει να συνδεθείτε αυτόματα σε υποστηριζόμενα κοντινά σημεία πρόσβασης.\nΔιαβάστε και αποδεχτείτε την %s πριν χρησιμοποιήσετε αυτήν την υπηρεσία.</string>
+    <string name="passpoint_r1_privacy_dialog_no">Έξοδος</string>
     <string name="passpoint_r1_privacy_dialog_title">Προσοχή</string>
-    <string name="passpoint_r1_privacy_dialog_url_text">Πολιτική απορρήτου</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">\"exands Πολιτική απορρήτου\"</string>
     <string name="passpoint_r1_privacy_dialog_yes">Συμφωνώ</string>
     <string name="passwordIncorrect">Λανθασμένη εισαγωγή κωδικού</string>
     <string name="password_and_security">Κωδικοί &amp; Ασφάλεια</string>

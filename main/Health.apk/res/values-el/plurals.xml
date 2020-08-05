@@ -149,7 +149,7 @@
   </plurals>
   <plurals name="minutes_ago">
     <item quantity="other">%1$d λεπτά πριν</item>
-    <item quantity="one">%1$d πριν 1 λεπτό</item>
+    <item quantity="one">%1$d λεπτό πριν</item>
   </plurals>
   <plurals name="mtrl_badge_content_description">
     <item quantity="other">%d νέες ειδοποιήσεις</item>

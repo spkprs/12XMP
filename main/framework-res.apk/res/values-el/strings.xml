@@ -1524,7 +1524,7 @@
   <string name="usb_storage_stop_title">Χώρος αποθήκευσης USB σε χρήση</string>
   <string name="usb_storage_title">Το USB είναι συνδεδεμένο</string>
   <string name="usb_supplying_notification_title">USB παροχή ισχύος στη συνδεδεμένη συσκευή</string>
-  <string name="usb_tether_notification_title">Η πρόσδεση USB είναι ενεργοποιητή</string>
+  <string name="usb_tether_notification_title">Η πρόσδεση USB είναι ενεργή</string>
   <string name="usb_unsupported_audio_accessory_message">Η συνδεδεμένη συσκευή δεν είναι συμβατή με αυτό το τηλέφωνο. Πατήστε για να μάθετε περισσότερα.</string>
   <string name="usb_unsupported_audio_accessory_title">Εντοπίστηκε αναλογικό εξάρτημα ήχου</string>
   <string name="use_a_different_app">Χρήση άλλης εφαρμογής</string>

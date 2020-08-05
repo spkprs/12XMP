@@ -153,6 +153,7 @@
   <string name="accessibility_system_action_recents_label">Πρόσφατες εφαρμογές</string>
   <string name="accessibility_system_action_screenshot_label">Στιγμιότυπο οθόνης</string>
   <string name="accessibility_uncheck_legacy_item_warning">Η υπηρεσία %s έχει απενεργοποιηθεί.</string>
+  <string name="adb_active_notification_title">Ενεργός εντοπισμός σφαλμάτων USB</string>
   <string name="adbwifi_active_notification_message">Πατήστε, για να απενεργοποιήσετε τον ασύρματο εντοπισμό σφαλμάτων</string>
   <string name="adbwifi_active_notification_title">Συνδέθηκε ο ασύρματος εντοπισμός σφαλμάτων</string>
   <string name="allow_while_in_use_permission_in_fgs">Η υπηρεσία στο προσκήνιο που ξεκίνησε από το παρασκήνιο από το πακέτο %1$s δεν θα έχει άδεια πρόσβασης μόνο κατά τη χρήση σε μελλοντικές εκδόσεις R. Ανατρέξτε στο go/r-bg-fgs-restriction και υποβάλετε αναφορά σφάλματος.</string>
@@ -197,6 +198,10 @@
   <string name="location_changed_notification_text">Μιλήστε με τον διαχειριστή IT, για να μάθετε περισσότερα.</string>
   <string name="location_changed_notification_title">Οι εφαρμογές μπορούν να αποκτήσουν πρόσβαση στην τοποθεσία σας</string>
   <string name="location_service">Υπηρεσία τοποθεσίας</string>
+  <string name="lock_to_app_description">Το καρφίτσωμα οθόνης κλειδώνει την οθόνη σε μία μόνο προβολή.\n\nΓια ξεκαρφίτσωμα, πατήστε παρατεταμένα το κουμπί Home και το κουμπί Power ταυτόχρονα.</string>
+  <string name="lock_to_app_description_accessible">Το καρφίτσωμα οθόνης κλειδώνει την οθόνη σε μία μόνο προβολή.\n\nΓια ξεκαρφίτσωμα, πατήστε παρατεταμένα το κουμπί Home και το κουμπί Power ταυτόχρονα.</string>
+  <string name="lock_to_app_toast">Για να ξεκαρφιτσώσετε αυτή την οθόνη, πατήστε παρατεταμένα ταυτόχρονα το κουμπί Home και το κουμπί Power.</string>
+  <string name="lock_to_app_toast_accessible">Για να ξεκαρφιτσώσετε αυτή την οθόνη, πατήστε παρατεταμένα ταυτόχρονα το κουμπί Home και το κουμπί Power.</string>
   <string name="mobile_no_internet">Το δίκτυο κινητής τηλεφωνίας δεν έχει πρόσβαση στο διαδίκτυο.</string>
   <string name="not_checked">Μη επιλεγμένο</string>
   <string name="notification_channel_developer_important">Σημαντικά μηνύματα προγραμματιστή</string>
@@ -244,6 +249,7 @@
   <string name="resolver_work_tab">Εργασία</string>
   <string name="resolver_work_tab_accessibility">Προβολή εργασίας</string>
   <string name="sensor_notification_service">Υπηρεσία ειδοποίησης αισθητήρα</string>
+  <string name="tethered_notification_message">Πατήστε για ρύθμιση.</string>
   <string name="tethered_notification_title">Πρόσδεση ή Ενεργό σημείο πρόσβασης</string>
   <string name="twilight_service">Υπηρεσία Twilight</string>
   <string name="unpin_specific_target">Ξεκαρφίτσωμα %1$s</string>
