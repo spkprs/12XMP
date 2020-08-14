@@ -24,8 +24,8 @@
         <item quantity="one">%1$d%% στοιχείο ανα Δευτ. | Υπολοιπόμενος χρόνος: %2$s</item>
      </plurals>
      <plurals name="dc_group_title_normal">
-        <item quantity="other">Ακολουθήστε %1$d βήματα για να ελευθερώσετε την %2$s</item>
-        <item quantity="one">Ακολουθήστε %1$d βήμα για να ελευθερώσετε την %2$s</item>
+        <item quantity="other">Με %1$d βήματα ελευθερώνετε %2$s</item>
+        <item quantity="one">Με %1$d βήμα ελευθερώνετε %2$s</item>
      </plurals>
      <plurals name="dc_item_summary_apk">
         <item quantity="other">Μπορείτε να διαγράψετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; τα πακέτα εγκατάστασης</item>

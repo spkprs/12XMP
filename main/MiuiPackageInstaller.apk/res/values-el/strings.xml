@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="Parse_error_dlg_text">Παρουσιάστηκε πρόβλημα κατά την ανάλυση του πακέτου.</string>
   <string name="abc_action_bar_home_description">Πλοήγηση στην Αρχική</string>
   <string name="abc_action_bar_up_description">Πλοηγηθείτε επάνω</string>
   <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
@@ -27,6 +28,7 @@
   <string name="abc_shareactionprovider_share_with">Μοιραστείτε το με</string>
   <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε το με %s</string>
   <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+  <string name="action_bar_report_link_des">Ειδοποίηση εφαρμογής</string>
   <string name="adb_install_no_network">Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά</string>
   <string name="adb_install_open">Αποδοχή...</string>
   <string name="adb_install_open_error">Αδύνατη η αποδοχή, ελέγξτε τη σύνδεση δικτύου</string>
@@ -37,10 +39,10 @@
   <string name="ads_install_button_isDownloading">Λήψη</string>
   <string name="ads_install_button_isInstalling">Εγκατάσταση</string>
   <string name="ads_install_button_waiting">Αναμονή</string>
-  <string name="ads_summary">Οι άνθρωποι που εγκατέστησαν %1$s επίσης άρεσε</string>
+  <string name="ads_summary">Οι άνθρωποι εγκατέστησαν %1$s επίσης άρεσε</string>
   <string name="ads_summary_default_value">Άρεσε επίσης στα άτομα που εγκατέστησαν αυτήν την εφαρμογή</string>
-  <string name="all_permissions">Όλα τις Άδειες</string>
-  <string name="allPerms">Ολα</string>
+  <string name="allPerms">Όλες</string>
+  <string name="all_permissions">Όλες οι Άδειες</string>
   <string name="anonymous_source_continue">Συνεχίστε</string>
   <string name="anonymous_source_warning">Το τηλέφωνό σας και τα προσωπικά σας δεδομένα είναι πιο ευάλωτα σε επίθεση από άγνωστες εφαρμογές. Με την εγκατάσταση αυτής της εφαρμογής, συμφωνείτε ότι είστε υπεύθυνοι για τυχόν ζημιά στο τηλέφωνό σας ή απώλεια δεδομένων που ενδέχεται να προκύψουν από τη χρήση της.</string>
   <string name="app_install_failed_button_text">Αναζήτηση για εφαρμογές</string>
@@ -91,6 +93,7 @@
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">Πρόκειται για μια εφαρμογή συστήματος.\u000d\n\u000d\nΌλα τα προηγούμενα δεδομένα χρήστη θα αποθηκευτούν.</string>
   <string name="done">Ολοκληρώθηκε</string>
+  <string name="exit_install_button">"Να μην γίνει εγκατάσταση"</string>
   <string name="expand_button_title">Για προχωρημένους</string>
   <string name="external_sources_settings">Ρυθμίσεις</string>
   <string name="external_sources_settings_negative">Άρνηση</string>
@@ -115,17 +118,25 @@
   <string name="increment_preparing">Γίνεται προετοιμασία…</string>
   <string name="install">Εγκατάσταση</string>
   <string name="install_app_progress_clear_apk">Διαγραφή APK</string>
+  <string name="install_confirm_dialog_message">Αυτή η εφαρμογή δημιουργήθηκε από την Google. Πρέπει να εγκαταστήσετε τις υπηρεσίες Google Play για να μπορείτε να χρησιμοποιείτε αυτήν την εφαρμογή κανονικά. Διαφορετικά, μπορεί να έχει εσφαλμένη συμπεριφορά. Εγκατάσταση ούτως ή άλλως;</string>
+  <string name="install_confirm_dialog_negative_button">Ακύρωση</string>
+  <string name="install_confirm_dialog_positive_button">Εγκατάσταση</string>
+  <string name="install_confirm_dialog_title">Προσοχή</string>
   <string name="install_confirm_question">Θέλετε να εγκαταστήσετε αυτήν την εφαρμογή; Θα έχει πρόσβαση σε:</string>
+  <string name="install_confirm_question_des_10">"Εάν θέλετε να αναλάβετε τους κινδύνους και θέλετε να προχωρήσετε στην εγκατάσταση, εξουσιοδοτήστε την εγκατάσταση στην ενότητα Ασφάλεια > Διαχείριση εφαρμογών > Δικαιώματα > Εφαρμογές με πιθανούς κινδύνους. Εάν δεν μπορείτε να βρείτε την \"Εφαρμογές με πιθανούς κινδύνους \", ενημερώστε την εφαρμογή Ασφάλεια και δοκιμάστε ξανά."</string>
   <string name="install_confirm_question_no_perms">Θέλετε να εγκαταστήσετε αυτήν την εφαρμογή; Δεν απαιτεί ειδικές Άδειες.</string>
   <string name="install_confirm_question_update">Θέλετε να εγκαταστήσετε μια ενημερωμένη έκδοση σε αυτήν την υπάρχουσα εφαρμογή; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Η ενημερωμένη εφαρμογή θα έχει πρόσβαση σε:</string>
   <string name="install_confirm_question_update_no_perms">Θέλετε να εγκαταστήσετε μια ενημερωμένη έκδοση σε αυτήν την υπάρχουσα εφαρμογή; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Δεν απαιτεί ειδικές Άδειες.</string>
   <string name="install_confirm_question_update_system">Θέλετε να εγκαταστήσετε μια ενημερωμένη έκδοση σε αυτήν την εφαρμογή συστήματος; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Η ενημερωμένη εφαρμογή θα έχει πρόσβαση σε:</string>
   <string name="install_confirm_question_update_system_no_perms">Θέλετε να εγκαταστήσετε μια ενημερωμένη έκδοση σε αυτήν την εφαρμογή συστήματος; Τα υπάρχοντα δεδομένα της εφαρμογής δεν θα χαθούν. Δεν απαιτεί ειδικές Άδειες.</string>
+  <string name="install_confirm_text_gms">Αυτή η εφαρμογή δημιουργήθηκε από την Google. Εγκαταστήστε τις υπηρεσίες Google Play πριν από την εγκατάσταση αυτής της εφαρμογής. Χωρίς αυτή, η εφαρμογή ενδέχεται να μην λειτουργεί σωστά.</string>
   <string name="install_control_cancel_install">Να μην γίνει εγκατάσταση</string>
+  <string name="install_control_cancel_vip_account_install">Έξοδος</string>
   <string name="install_control_continue_install">Εγκατάσταση οπωσδήποτε</string>
   <string name="install_control_lite_mode_explain_des">Αυτή η εφαρμογή προέρχεται από άγνωστη προέλευση και ενδέχεται να μην λειτουργεί σε Λειτουργία Lite.</string>
   <string name="install_control_lite_mode_solution_des">Μπορείτε να επιλέξετε να εγκαταστήσετε αυτήν την εφαρμογή ούτως ή άλλως.\nΕναλλακτικά, μπορείτε να απενεργοποιήσετε τη λειτουργία Lite και να προσπαθήσετε ξανά.</string>
   <string name="install_control_normal_mode_explain_des">Αδύνατη η εγκατάσταση αυτής της εφαρμογής λόγω νομικών περιορισμών</string>
+  <string name="install_control_vip_account_install">Αποδοχή για Beta</string>
   <string name="install_done">Η εφαρμογή έχει εγκατασταθεί.</string>
   <string name="install_failed">Δεν ήταν δυνατή η εγκατάσταση της εφαρμογής</string>
   <string name="install_failed_blocked">Το πακέτο αποκλείστηκε από την εγκατάσταση.</string>
@@ -137,7 +148,12 @@
   <string name="install_finished_notification_summary">Κάντε κλικ για Εκκαθάριση τώρα</string>
   <string name="install_finished_notification_title">Η εγκατάσταση της %1$s ολοκληρώθηκε. Μεταβείτε για εκκαθάριση %2$s απορριμμάτων</string>
   <string name="install_from_appstore_hint">Σας συνιστούμε να εγκαταστήσετε την εφαρμογή από το &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="install_vip_account_mode_explain_des">Αυτή είναι μια έκδοση Beta της εφαρμογής. Κάντε αίτηση για άδειες ελέγχου Beta πριν την εγκατάσταση.</string>
+  <string name="install_vip_account_mode_solution_des">Αποδοχή για Beta</string>
   <string name="installing">Εγκατάσταση…</string>
+  <string name="intercept_confirm_dialog_message">η %1$s προσπαθεί να εγκαταστήσει την %2$s. Επαληθεύστε την ταυτότητά σας για να συνεχίσετε.</string>
+  <string name="intercept_confirm_dialog_positive">Επαλήθευση</string>
+  <string name="intercept_confirm_dialog_title">Προσοχή</string>
   <string name="intercept_install">Εγκατάσταση</string>
   <string name="launch">Άνοιγμα</string>
   <string name="lift_ban">Αποδοχή</string>
@@ -247,8 +263,8 @@
   <string name="mobil_net_work_warning_ok">Εγκατάσταση παρ\' όλα αυτά</string>
   <string name="mobil_net_work_warning_title">Προειδοποίηση κατανάλωσης δεδομένων</string>
   <string name="never_ask_again">Μην ρωτήσετε ξανά</string>
+  <string name="newPerms">Νέες</string>
   <string name="new_permissions_category">Νέες Άδειες</string>
-  <string name="newPerms">Νέο</string>
   <string name="next">Επόμενο</string>
   <string name="no_apps">Δεν υπάρχουν εφαρμογές</string>
   <string name="no_new_perms">Αυτή η ενημερωμένη έκδοση δεν απαιτεί νέες Άδειες.</string>
@@ -260,7 +276,6 @@
   <string name="other_relative">Αλλα</string>
   <string name="out_of_space_dlg_text">%1$s δεν ήταν δυνατή η εγκατάσταση. Απελευθερώστε λίγο χώρο και προσπαθήστε ξανά.</string>
   <string name="out_of_space_dlg_title">Εκτός χώρου</string>
-  <string name="Parse_error_dlg_text">Παρουσιάστηκε πρόβλημα κατά την ανάλυση του πακέτου.</string>
   <string name="perm_action_accept">Αποδοχή</string>
   <string name="perm_action_prompt">Ερώτηση</string>
   <string name="perm_action_reject">Απόρριψη</string>
@@ -297,8 +312,8 @@
   <string name="pref_key_app_store_summary">Προτροπή για λήψη εφαρμογών από ασφαλείς πηγές πριν από την εγκατάσταση</string>
   <string name="pref_key_app_store_title">Προτεινόμενες ασφαλείς εκδόσεις</string>
   <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
-  <string name="privacy_relative">Απόρρητο</string>
   <string name="privacyPerms">Απόρρητο</string>
+  <string name="privacy_relative">Απόρρητο</string>
   <string name="reboot_time">Προετοιμασία για επανεκκίνηση ... (%1$s)</string>
   <string name="replace_app_des_text">Αντικατάσταση της εφαρμογής με αυτήν την έκδοση;</string>
   <string name="review_button_cancel">Ακύρωση</string>
@@ -318,6 +333,7 @@
   <string name="settings_warning_dialog_detail">Θα σας ζητηθεί στις ακόλουθες περιπτώσεις:\n\"&lt;li&gt;Όταν μια εφαρμογή περιέχει ιούς.&lt;/li&gt;\"\n\"&lt;li&gt;Μια νεότερη έκδοση μιας εφαρμογής είναι διαθέσιμη στο κατάστημα εφαρμογών μας.&lt;/li&gt;\"\n\"&lt;li&gt;Το πακέτο εγκατάστασης προέρχεται από μια άγνωστη πηγή.&lt;/li&gt;</string>
   <string name="settings_warning_dialog_msg">Το τηλέφωνό σας είναι επιρρεπές σε κινδύνους ασφαλείας. Δεν θα σας ζητηθεί να εγκαταστήσετε ασφαλείς εκδόσεις εφαρμογών, εάν απενεργοποιήσετε αυτήν τη δυνατότητα. Απενεργοποίηση έτσι κι αλλιώς;</string>
   <string name="settings_warning_dialog_title">Προσοχή</string>
+  <string name="spannable_continue_text">Καταλαβαίνω τους κινδύνους. Εγκατάσταση οπωσδήποτε.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="system_warning">Εάν απορρίψετε αυτήν την άδεια, οι βασικές λειτουργίες της συσκευής σας ενδέχεται να μην λειτουργούν πλέον σύμφωνα με τις οδηγίες.</string>

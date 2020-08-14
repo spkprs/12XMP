@@ -220,6 +220,8 @@
     <string name="indices_desc_pressure">%1$smb</string>
     <string name="indices_title_feel">Αίσθηση</string>
     <string name="indices_title_pressure">Πίεση</string>
+    <string name="indices_title_chance_of_rain">Πιθανότητα βροχής</string>
+    <string name="indices_title_wind_speed">Ταχύτητα ανέμου</string>
     <string name="information_settings_title">Πληροφορίες Καιρού</string>
     <string name="install">Εγκατάσταση</string>
     <string name="install_progress">%1$s%%</string>

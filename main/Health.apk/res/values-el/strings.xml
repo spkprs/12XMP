@@ -379,8 +379,8 @@
     <string name="exercise_reminder_title">Υπενθύμιση δραστηριότητας</string>
     <string name="exercise_reminder_unaccomplished">Δεν επιτύχατε ακόμη το στόχο της δραστηριότητάς σας. Συνεχίστε!</string>
     <string name="exercise_result_reminder_content">%1$d λεπ άσκησης (%2$d Cal). Πατήστε για λεπτομέρειες.</string>
-    <string name="exercise_result_reminder_title">"Μέτρηση σημερινών βημάτων: %1$d. Φτάσατε στο στόχο!"</string>
-    <string name="exercise_result_reminder_title_unaccomplished">"Μέτρηση σημερινών βημάτων: %1$d. Μπορείτε ακόμα να επιτύχετε το στόχο!"</string>
+    <string name="exercise_result_reminder_title">"Σημ. βήμ: %1$d. Φτάσατε στο στόχο!"</string>
+    <string name="exercise_result_reminder_title_unaccomplished">"Σημ. βήμ: %1$d. Μπορείτε το στόχο!"</string>
     <string name="exercise_setting_label_reach_standard_remind">Ειδοποίηση δραστηριότητας</string>
     <string name="exercise_setting_page_title">Ρυθμίσεις δραστηριότητας</string>
     <string name="exercise_start">Έναρξη</string>
@@ -548,10 +548,10 @@
     <string name="maximum_pace">Υψηλότερος ρυθμός</string>
     <string name="measure_date">Χρόνος μέτρησης</string>
     <string name="measure_time">Χρόνος μέτρησης</string>
-    <string name="medical_file_desc1">Σημαντικές ιατρικές πληροφορίες απαραίτητες σε περίπτωση έκτακτης ανάγκης</string>
+    <string name="medical_file_desc1">Ιατρικές πληρ. σε έκτακτη ανάγκη</string>
     <string name="medical_file_desc2">Καταγράψτε τις βασικές πληροφορίες σχετικά με την υγεία σας για να τις δείξετε στους παρόχους υγειονομικής περίθαλψης σε περίπτωση έκτακτης ανάγκης.</string>
     <string name="medical_file_desc3">Η Xiaomi Υγεία σέβεται το απόρρητο και θα αποθηκεύει όλες τις πληροφορίες τοπικά χωρίς να τις συλλέγει, να τις αποθηκεύει ή να τις αποστέλλει αλλού.</string>
-    <string name="medical_first_aid_files">Ιατρική ταυτότητα έκτακτης ανάγκης</string>
+    <string name="medical_first_aid_files">Ιατρική ταυτ. SOS</string>
     <string name="medication_and_treatment">Φάρμακα και συνεχής θεραπεία</string>
     <string name="medication_and_treatment_hint">Αναφέρετε τα φάρμακα που παίρνετε ή μπορεί να χρειαστείτε σε περίπτωση έκτακτης ανάγκης, καθώς και τα προσθετικά, τα οδοντικά βραχιόλια και τις χειρουργικές επεμβάσεις.</string>
     <string name="medium_intensity">Μέτρια</string>

@@ -659,6 +659,8 @@
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="object_track_enable_toast">Για να επιλέξετε ένα αντικείμενο, πατήστε ταυτόχρονα δύο διαγώνια σημεία γύρω του.</string>
     <string name="only_mimoji_multi_window_mode_not_supported">Αυτή η δυνατότητα δεν μπορεί να χρησιμοποιηθεί σε λειτουργία πολλαπλών παραθύρων</string>
+    <string name="pano_click_to_toggle_direction">Άγγιγμα βέλους για αλλαγή κατεύθυνσης</string>
+    <string name="pano_go_on_moving">Μετακινήστε σταθερά προς την κατεύθυνση του βέλους.</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Ευθυγραμμίστε το βέλος με τη γραμμή αναφοράς</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Συνέχιστε την κίνηση...</string>
     <string name="pano_how_to_use_prompt_slow_down">Παρακαλώ πιο αργά</string>
@@ -815,9 +817,9 @@
     <string name="pref_camera_dual_sat_enable_title">Ενεργοποίηση διπλής κάμερας SAT</string>
     <string name="pref_camera_dynamic_frame_rate_summary">Μείωση του ρυθμού καρέ σε συνθήκες χαμηλού φωτισμού από %1$d σε %2$d FPS για βελτίωση της ποιότητας βίντεο</string>
     <string name="pref_camera_dynamic_frame_rate_title">Προσαρμογή ρυθμού καρέ σε χαμηλό φως</string>
-    <string name="pref_camera_eis_entry_normal">EIS ενεργή</string>
+    <string name="pref_camera_eis_entry_normal">Σταθερό βίντεο</string>
     <string name="pref_camera_eis_entry_off">Ανενεργή</string>
-    <string name="pref_camera_eis_entry_pro">EIS Pro ενεργή</string>
+    <string name="pref_camera_eis_entry_pro">Σταθερό βίντεο Pro</string>
     <string name="pref_camera_eis_title">EIS</string>
     <string name="pref_camera_face_info_watermark_title">Αποτύπωση ηλικίας στις φωτογραφίες</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Αυτόματη απόκρυψη πλαισίου ανίχνευσης προσώπου</string>
@@ -1215,7 +1217,7 @@
     <string name="v7_preference_on">ON</string>
     <string name="vangogh_parent">monet</string>
     <string name="video_beauty_tip">Ωραιοποίηση Βίντεο</string>
-    <string name="video_beauty_tip_beautification">Αισθητική</string>
+    <string name="video_beauty_tip_beautification">Φίλτρα</string>
     <string name="video_beauty_tip_filter">Φίλτρα</string>
     <string name="video_beauty_tip_portrait_bokeh">Θόλωση</string>
     <string name="video_bokeh_blur">Θόλωμα</string>
