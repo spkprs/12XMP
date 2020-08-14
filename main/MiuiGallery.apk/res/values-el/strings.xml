@@ -1748,7 +1748,7 @@
     <string name="sync_diabled_toast">Ο συγχρονισμός για το  Άλμπουμ είναι ανενεργός</string>
     <string name="sync_metatata_wait_title">Αναμονή για συγχρονισμό δεδομένων Xiaomi Cloud</string>
     <string name="sync_not_allow_cta_title">Αδύνατη η πρόσβαση στο δίκτυο</string>
-    <string name="sync_off_title">Ενεργοποιήστε το συγχρονισμό με το Xiaomi Cloud για αυτόματα αντίγραφα των φωτογραφιών και βίντεο</string>
+    <string name="sync_off_title">Συγχρ. για αυτ. αντίγρ. φώτο-βίντεο</string>
     <string name="sync_pending_title">Θα συγχρονιστεί αυτόματα</string>
     <string name="sync_state_unknow">Λήψη πληροφοριών</string>
     <string name="synced_title">Αντίγραφο φωτογραφιών και βίντεο ολοκληρώθηκε</string>

@@ -458,8 +458,8 @@
     <item quantity="one">%d εικονίδιο εφαρμ. δεν είναι κρυφό</item>
   </plurals>
   <plurals name="privacy_permission_summary">
-    <item quantity="other">%s οι εφαρμογές έχουν μόνιμη πρόσβαση</item>
-    <item quantity="one">%s η εφαρμογή έχει μόνιμη πρόσβαση</item>
+    <item quantity="other">%s εφαρμογές έχουν μόνιμη πρόσβαση</item>
+    <item quantity="one">%s εφαρμογή έχει μόνιμη πρόσβαση</item>
   </plurals>
   <plurals name="privacy_pop_times">
     <item quantity="other">%s φορές</item>
