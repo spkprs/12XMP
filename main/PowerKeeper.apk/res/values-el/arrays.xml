@@ -1,34 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="emode_app_groups">
-        <item>Εφαρμ. Συστήματος</item>
-        <item>Άλλες Εφαρμογές</item>
-        <item>Επιλεγμένες εφαρμογές</item>
-     </string-array>
-     <string-array name="hmode_app_classify1">
-        <item>Προσαρμογή</item>
-        <item>MIUI Εξοικον. ενέργειας</item>
-     </string-array>
-     <string-array name="hmode_app_classify2">
-        <item>Ενεργές Εφαρμογές</item>
-        <item>Εφαρμογές σε αναστολή</item>
-     </string-array>
-     <string-array name="pc_manage_active_app_items">
-        <item>Τοποθέτ. εφαρμ. σε αναστολή λειτουργίας</item>
-        <item>Εξοικονόμηση ενέργειας</item>
-     </string-array>
-     <string-array name="power_mode_entries">
-        <item>Απόδοση</item>
-        <item>Ισορροπημένη</item>
-     </string-array>
-     <string-array name="thermal_entries">
-        <item>Προεπιλεγμένη λειτ. ελέγχου θερμοκρασίας</item>
-        <item>Λειτουργία απόδοσης</item>
-     </string-array>
-     <string-array name="thermal_summaries">
-        <item>Προτεραιότητα ελέγχου θερμοκρ.</item>
-        <item>Προτεραιότητα απόδοσης</item>
-        <item>Δεν υποστηρ. σε λειτ. Μέγιστης εξοικονόμισης</item>
-     </string-array>
+  <string-array name="action_name_translate">
+    <item>Μέγιστη φωτεινότητα</item>
+    <item>Μέγιστη συχνότητα CPU</item>
+    <item>Λειτουργία οθόνης</item>
+    <item>Χρήση CPU</item>
+    <item>Σύνδεση στο Internet</item>
+    <item>Τοποθεσία</item>
+    <item>Η πρώτη ειδοποίηση</item>
+    <item>Ειδοποιήσεις στην οθόνη κλειδώματος</item>
+    <item>Απαγόρευση συνδέσεων στο παρασκήνιο</item>
+  </string-array>
+  <string-array name="action_param_translate">
+    <item>Χωρίς λειτουργίες</item>
+    <item>Πρότυπο</item>
+    <item>Φωτογραφία</item>
+    <item>Βίντεο</item>
+    <item>Εξοικονόμησης ενέργειας</item>
+    <item>Ισορροπία</item>
+    <item>Εκτέλεση</item>
+    <item>Ανάβω</item>
+    <item>Σβήνω</item>
+    <item>Αμέσως</item>
+    <item>Σε 10 λεπτά</item>
+    <item>Σε 30 λεπτά</item>
+    <item>Όταν η οθόνη είναι απενεργοποιημένη</item>
+  </string-array>
+  <string-array name="app_groups">
+    <item>Ενεργά</item>
+    <item>Ανενεργό</item>
+    <item>Άλλα</item>
+  </string-array>
+  <string-array name="emode_app_groups">
+    <item>Εφαρμ. Συστήματος</item>
+    <item>Άλλες Εφαρμογές</item>
+    <item>Επιλεγμένες εφαρμογές</item>
+  </string-array>
+  <string-array name="event_name_translate">
+    <item>Προγράμματα στο παρασκήνιο</item>
+    <item>Η οθόνη είναι ενεργοποιημένη</item>
+    <item>Η οθόνη είναι απενεργοποιημένη</item>
+    <item>Απενεργοποίηση της οθόνης μετά από 10 λεπτά</item>
+    <item>Λειτουργία πλήρους οθόνης</item>
+    <item>Έξοδος από τη λειτουργία πλήρους οθόνης</item>
+    <item>Προγράμματα στο παρασκήνιο</item>
+    <item>Η συσκευή φορτίζεται</item>
+    <item>Η συσκευή δεν φορτίζει</item>
+    <item>Συσκευή σας σε κανονική λειτουργία</item>
+  </string-array>
+  <string-array name="group_name_translate">
+    <item>Η προεπιλεγμένη λειτουργία</item>
+    <item>Ιστορικό</item>
+    <item>Λειτουργία ανάγνωσης</item>
+    <item>Λειτουργία πολυμέσων</item>
+  </string-array>
+  <string-array name="hmode_app_classify1">
+    <item>Προσαρμογή</item>
+    <item>MIUI Εξοικον. ενέργειας</item>
+  </string-array>
+  <string-array name="hmode_app_classify2">
+    <item>Ενεργές Εφαρμογές</item>
+    <item>Εφαρμογές σε αναστολή</item>
+  </string-array>
+  <string-array name="hmode_app_groups">
+    <item>Προσαρμοσμένες ρυθμίσεις</item>
+    <item>Ρυθμίσεις συστήματος</item>
+  </string-array>
+  <string-array name="invisible_app_groups">
+    <item>Ενεργά</item>
+    <item>Ανενεργό</item>
+  </string-array>
+  <string-array name="pc_manage_active_app_items">
+    <item>Τοποθέτ. εφαρμ. σε αναστολή λειτουργίας</item>
+    <item>Εξοικονόμηση ενέργειας</item>
+  </string-array>
+  <string-array name="power_checker_group_prefix">
+    <item>Χρησιμοποιείται:</item>
+    <item />
+    <item />
+  </string-array>
+  <string-array name="power_checker_group_suffix">
+    <item />
+    <item>: τώρα υψηλή δραστηριότητα</item>
+    <item>: υψηλή δραστηριότητα σήμερα</item>
+  </string-array>
+  <string-array name="power_checker_recent_group_titles">
+    <item>Αφύπνιση του πυρήνα</item>
+    <item>Αφύπνιση</item>
+    <item>Σάρωση Wi-Fi</item>
+    <item>GPS</item>
+    <item>Φόρτωση CPU</item>
+    <item>Ενεργοποιήστε την οθόνη</item>
+  </string-array>
+  <string-array name="power_checker_running_group_titles">
+    <item>Αφύπνιση του πυρήνα</item>
+    <item>Αφύπνιση</item>
+    <item>Σάρωση Wi-Fi</item>
+    <item>GPS</item>
+    <item>Φόρτωση CPU</item>
+    <item>Ενεργοποιήστε την οθόνη</item>
+  </string-array>
+  <string-array name="power_mode_entries">
+    <item>Απόδοση</item>
+    <item>Ισορροπημένη</item>
+  </string-array>
+  <string-array name="thermal_entries">
+    <item>Προεπιλεγμένη λειτ. ελέγχου θερμοκρασίας</item>
+    <item>Λειτουργία απόδοσης</item>
+  </string-array>
+  <string-array name="thermal_summaries">
+    <item>Προτεραιότητα ελέγχου θερμοκρ.</item>
+    <item>Προτεραιότητα απόδοσης</item>
+    <item>Δεν υποστηρ. σε λειτ. Μέγιστης εξοικονόμισης</item>
+  </string-array>
 </resources>
