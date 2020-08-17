@@ -4488,7 +4488,7 @@
     <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
     <string name="password_turned_off_text">Απενεργοποιημένος κωδικός</string>
     <string name="password_turned_on_text">Ενεργοποιημένος κωδικός</string>
-    <string name="password_unlock_title">Με Κωδικό</string>
+    <string name="password_unlock_title">Κλ. Οθόνης</string>
     <string name="payment_summary">%1$s είναι προεπιλεγμένη</string>
     <string name="peek_notification_icon_title">Εμφάνιση εικονιδίων για τις εισερχόμενες ειδοποιήσεις</string>
     <string name="performance_category">Απόδοση</string>
@@ -5249,6 +5249,8 @@
     <string name="screen_projection_sample_title">Επίδειξη</string>
     <string name="screen_projection_title">Μετάδοση</string>
     <string name="screen_reader_category_title">Αναγνώστες οθόνης</string>
+    <string name="screen_reader_mode_input_type_summary">Επιλογή χειρονομίας για ενεργοποίηση κειμένου εισαγωγής όταν το TalkBack είναι ενεργό</string>
+    <string name="screen_reader_mode_input_type_title">Κείμενο εισαγωγής</string>
     <string name="screen_resolution_dialog_title">Εναλλαγή ανάλυσης</string>
     <string name="screen_resolution_high_format">Υψηλή (%1$s)</string>
     <string name="screen_resolution_normal_format">Κανονική (%1$s)</string>

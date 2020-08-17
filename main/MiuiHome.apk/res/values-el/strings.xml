@@ -369,6 +369,8 @@
     <string name="menu_launcher_setting">Ρυθμίσεις Εκκινητή</string>
     <string name="menu_lock">Κλείδωμα διάταξης Αρχικής οθόνης</string>
     <string name="menu_more">Περισσότερα</string>
+    <string name="menu_new_display_open">Άνοιγμα σε νέο παράθυρο</string>
+    <string name="menu_pc_open">Άνοιγμα με πρόγραμμα υπολογιστή</string>
     <string name="menu_picktheme">Επιλογή θέματος</string>
     <string name="menu_reset_scene">Επαναφορά στην προεπιλεγμένη σκηνή</string>
     <string name="menu_search">Αναζήτηση</string>
@@ -418,6 +420,10 @@
     <string name="navigation_guide_settings">Παραδείγματα χειρονομιών</string>
     <string name="navigation_type_full_screen">Χειρονομίες</string>
     <string name="navigation_type_title">Πλοήγηση Συστήματος</string>
+    <string name="navigation_type_title_synonyms_1">Σε πλήρη οθόνη.</string>
+    <string name="navigation_type_title_synonyms_2">Μικρή λευκή μπάρα</string>
+    <string name="navigation_type_title_synonyms_3">Κινήσεις πλήρους οθόνης</string>
+    <string name="navigation_type_title_synonyms_4">Πλήκτρο πλοήγησης</string>
     <string name="navigation_type_virtual_key">Πλήκτρα</string>
     <string name="no_detail_page">Δεν υπάρχουν λεπτομέρειες</string>
     <string name="no_space_toast">Δεν υπάρχει αρκετός χώρος</string>
@@ -435,6 +441,7 @@
     <string name="open_personal_assistant_dialog_desc_international">Δεν θα μπορείτε να χρησιμοποιείτε τις κάρτες του Προσωπικού βοηθού (Αποθέσεις, Συντομεύσεις κ.λ.π.) και λήψη ενημερώσεων μετά την απενεργοποίηση αυτής της λειτουργίας.</string>
     <string name="open_personal_assistant_dialog_title">Απενεργ. Προσωπικού βοηθού</string>
     <string name="open_personal_assistant_title">Προσωπικός βοηθός</string>
+    <string name="open_personal_assistant_title_synonyms">Αρνητική οθόνη</string>
     <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
     <string name="perfect_icons_switch_summary">Επανασχεδίαση εικονιδίων εφαρμογών τρίτων</string>
     <string name="perfect_icons_switch_title">Καθολικές κινήσεις εικονιδίων</string>

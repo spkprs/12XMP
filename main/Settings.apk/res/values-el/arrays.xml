@@ -1247,6 +1247,10 @@
     <item>Αυξημένα</item>
     <item>Αρχικό χρώμα</item>
   </string-array>
+  <string-array name="screen_reader_mode_input_type_selector_titles">
+    <item>Άγγιγμα</item>
+    <item>Διπλό άγγιγμα</item>
+  </string-array>
   <string-array name="screen_saturation_title">
     <item>Έντονο</item>
     <item>Τυπικό</item>

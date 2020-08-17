@@ -27,6 +27,11 @@
     <string name="abc_shareactionprovider_share_with">Μοιραστείτε το με</string>
     <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε το με %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_for_continue_timer">Συνέχεια</string>
+    <string name="action_for_pause_timer">Παύση</string>
+    <string name="action_for_restart">Επανάληψη</string>
+    <string name="action_for_snooze">Αναβολή</string>
+    <string name="action_for_stop">Τέλος</string>
     <string name="add_alarm">Προσθήκη</string>
     <string name="add_clock">Προσθήκη Ρολογιού</string>
     <string name="add_common_timer">Προσθήκη χρονομέτρου</string>
