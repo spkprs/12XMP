@@ -169,14 +169,14 @@
     <string name="menu_item_sort_name">Όνομα</string>
     <string name="menu_item_sort_size">Μέγεθος</string>
     <string name="miui_device_name">Android</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">no data</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Αφήστε για ανανέωση</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Αυτα για τωρα</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Αυτα για τωρα</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μισό λεπτό…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδύνατη η φόρτωση στοιχείων</string>
     <string name="msg_alert_cancel_restore">Επαναφορά στοιχείων. Διακοπή τώρα?</string>
     <string name="msg_alert_restore_error">"Αδυναμία επαναφοράς απο το Xiaomi Cloud. Προσπαθήστε ξανά."</string>
     <string name="msg_restore_start_with_metered_network">"Η αρχική οθόνη σας θα επανεκκινήθηκε. Οι αντίγραφα ασφαλείας των εφαρμογών θα ληφθούν αυτόματα. &lt;br />&lt;b>&lt;font color='red'>%s των αρχείων θα γίνει λήψη.&lt;/font>&lt;/b>"</string>

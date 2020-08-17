@@ -38,14 +38,14 @@
   <string name="first_settings_subtitle">Εδώ είναι οι ασφαλείς επιλογές κοινής χρήσης που έχετε στη διάθεσή σας:</string>
   <string name="first_settings_title">Προστασία του απορρήτου σας</string>
   <string name="loading_text_format" formatted="false">Αφαίρεση προσωπικών πληροφοριών από φωτογραφίες (%d/%d)...</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">release to refresh</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">no data</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Αφήστε για ανανέωση</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Αυτα για τωρα</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Αυτα για τωρα</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μισό λεπτό…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδύνατη η φόρτωση στοιχείων</string>
   <string name="not_set">Δεν έχει οριστεί</string>
   <string name="once_settings_camera_ttile">Κοινοποίηση χωρίς μεταδεδομένα</string>
   <string name="once_settings_location_title">Κοινοποίηση χωρίς πληροφορίες τοποθεσίας</string>
