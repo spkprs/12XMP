@@ -564,5 +564,8 @@
     <string name="widget_content_loading">Φόρτωση…</string>
     <string name="widget_havenot_content">Χωρίς περιεχόμενο. Αγγίξτε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, αγγίξτε παρατεταμένα &amp; σύρετε μία άκρη.</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Οχι τώρα</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">%s νέα έκδοση</string>
     <string name="yesterday">Yesterday</string>
 </resources>

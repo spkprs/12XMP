@@ -148,4 +148,36 @@
     <item quantity="other">%1$s | %2$d εικόνες</item>
     <item quantity="one">%1$s | %2$d εικόνα</item>
   </plurals>
+  <plurals name="anonymous_resource_count_aod">
+    <item quantity="one">%1$d AOD Θέμα</item>
+    <item quantity="other">%1$d AOD Θέματα</item>
+  </plurals>
+  <plurals name="anonymous_resource_count_font">
+    <item quantity="one">%1$d Γραμ/σειρά</item>
+    <item quantity="other">%1$d Γραμ/σειρές</item>
+  </plurals>
+  <plurals name="anonymous_resource_count_icon">
+    <item quantity="one">%1$d εικονίδιο</item>
+    <item quantity="other">%1$d εικονίδια</item>
+  </plurals>
+  <plurals name="anonymous_resource_count_theme">
+    <item quantity="one">%1$d Θέμα</item>
+    <item quantity="other">%1$d Θέματα</item>
+  </plurals>
+  <plurals name="anonymous_resource_count_title">
+    <item quantity="one">Προσθέστε %1$d στοιχείο</item>
+    <item quantity="other">Προσθέστε %1$d στοιχεία</item>
+  </plurals>
+  <plurals name="anonymous_resource_link_success_message">
+    <item quantity="one">Προστέθηκε %1$d στοιχείο στο λογαριασμό σας. Προβολή των προστιθέμενων στοιχείων στις παραγγελίες σας.</item>
+    <item quantity="other">Προστέθηκαν %1$d στοιχεία στο λογαριασμό σας. Προβολή των προστιθέμενων στοιχείων στις παραγγελίες σας.</item>
+  </plurals>
+  <plurals name="anonymous_resource_login_message">
+    <item quantity="one">"Μπορείτε να κάνετε λήψη του δωρεάν στοιχείου %1$d μόνο εάν δεν έχετε εισέλθει (εξαιρούνται οι εικόνες φόντου και οι τόνοι κλήσης). Συνδεθείτε για να κάνετε λήψη στοιχείων χωρίς περιορισμούς."</item>
+    <item quantity="other">"Μπορείτε να κάνετε λήψη των δωρεάν στοιχείων %1$d μόνο εάν δεν έχετε εισέλθει (εξαιρούνται οι εικόνες φόντου και οι τόνοι κλήσης). Συνδεθείτε για να κάνετε λήψη στοιχείων χωρίς περιορισμούς.."</item>
+  </plurals>
+  <plurals name="anonymous_resource_view">
+    <item quantity="one">"%1$d στοιχείο δεν προστέθηκε στο λογαριασμό σας"</item>
+    <item quantity="other">"%1$d στοιχεία δεν προστέθηκε στο λογαριασμό σας"</item>
+  </plurals>
 </resources>

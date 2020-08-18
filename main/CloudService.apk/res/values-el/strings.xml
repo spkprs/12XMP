@@ -146,6 +146,8 @@
     <string name="last_sync_time_yesterday">Χθές</string>
     <string name="license_host_unreachable">Αδυναμία σύνδεσης στο δίκτυο. Για να δείτε αυτή την πληροφορία, πηγαίνετε τώρα στο %s.</string>
     <string name="loading">Φόρτωση…</string>
+    <string name="low_battery_locate_summary">Αυτόματη αναφορά πληροφοριών θέσης όταν η μπαταρία είναι χαμηλή</string>
+    <string name="low_battery_locate_title">Αναφορά θέσης όταν η μπαταρία είναι χαμηλή</string>
     <string name="master_alert_notif_content">Δημιουργείτε αντίγραφα ασφαλείας τακτικά για να μην χάνετε τίποτα σημαντικό.</string>
     <string name="master_alert_notif_title">Ενεργοποίηση MiCloud</string>
     <string name="member_entrance_title_free_high_case_a">Αποκτήστε περισ. αποθ. χώρο</string>
@@ -444,6 +446,8 @@
     <string name="picker_list_empty">No contacts here</string>
     <string name="picker_search_empty">Δεν ήταν δυνατή η εύρεση επαφών</string>
     <string name="picker_search_hint">Search</string>
+    <string name="power_off_locate_summary">Αναφέρετε τις πληροφορίες θέσης πατώντας το κουμπί Power.\nΟι πληροφορίες θέσης ενδέχεται να μην αναφέρονται όταν η σύνδεση δικτύου είναι ανεπαρκής.</string>
+    <string name="power_off_locate_title">Θέση αναφοράς πριν την απενεργοποίηση</string>
     <string name="pre_privacy_policy">Πολιτική απορρήτου</string>
     <string name="pre_user_agreement">Συμφωνία χρήστη</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Συγχρονισμός φωτογραφιών επαφών μόνο όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi</string>

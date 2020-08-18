@@ -3880,8 +3880,8 @@
     <string name="mqs_privacy_automatically_upload">Ανεβάστε αυτόματα την επόμενη φορά</string>
     <string name="mqs_privacy_dialog_cancel">Ακύρωση</string>
     <string name="mqs_privacy_dialog_confirm">Μεταφόρτωση</string>
-    <string name="mqs_privacy_dialog_content">Μεταφορτώνετε τα αρχεία καταγραφής για να μας βοηθήσετε να εντοπίσουμε και να επιλύσουμε αυτό το πρόβλημα; Τα αρχεία καταγραφής ενδέχεται να περιέχουν τις προσωπικές σας πληροφορίες, συμπεριλαμβανομένων των πληροφοριών σχετικά με την τοποθεσία σας.</string>
-    <string name="mqs_privacy_dialog_title">Παρουσιάστηκε σφάλμα</string>
+    <string name="mqs_privacy_dialog_content">Φαίνεται ότι παρουσιάστηκαν πρόσφατα σφάλματα στη συσκευή σας. Μπορείτε να αποστείλετε αρχεία καταγραφής για να μας βοηθήσετε να εντοπίσουμε και να επιλύσουμε αυτό το πρόβλημα. Τα αρχεία καταγραφής μπορεί να περιέχουν τα προσωπικά σας στοιχεία, συμπεριλαμβανομένων των πληροφοριών σχετικά με τη θέση σας. Αποστολή τώρα;</string>
+    <string name="mqs_privacy_dialog_title">Αποστολή αρχείων καταγραφής</string>
     <string name="mr_button_content_description">Κουμπί μετάδοσης</string>
     <string name="mr_cast_button_connected">Κουμπί μετάδοσης. Συνδεδεμένος</string>
     <string name="mr_cast_button_connecting">Κουμπί μετάδοσης. Σύνδεση</string>

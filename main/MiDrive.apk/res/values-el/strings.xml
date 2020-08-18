@@ -224,6 +224,10 @@
     <string name="just_a_second">Μισό λεπτό…</string>
     <string name="just_now">Μόλις τώρα</string>
     <string name="license_host_unreachable">Η συσκευή σας δεν είναι συνδεδεμένη σε υπηρεσίες cloud. Για να δείτε αυτό το αντικείμενο, επισκεφθείτε %s σε οποιαδήποτε συνδεδεμένη συσκευή.</string>
+    <string name="load_label_up_no_data">Δεν υπάρχουν άλλα στοιχεία για εμφάνιση</string>
+    <string name="load_label_up_none">Δεν υπάρχουν άλλα στοιχεία για εμφάνιση</string>
+    <string name="load_label_up_refresh">Φόρτωση στοιχείων…</string>
+    <string name="load_label_up_refresh_fail">"Δεν ήταν δυνατή η φόρτωση των στοιχείων"</string>
     <string name="load_metered_network_dialog_cancel">Ακύρωση</string>
     <string name="load_metered_network_dialog_desc">Η συσκευή σας δεν είναι συνδεδεμένη σε Wi-Fi. Φόρτωση με χρήση δεδομένων κινητής τηλεφωνίας;</string>
     <string name="load_metered_network_dialog_ok">Φόρτωση</string>
@@ -408,6 +412,10 @@
     <string name="psw_hint">Κωδικός</string>
     <string name="psw_sign_in">Συνδεθείτε χρησιμοποιώντας τον κωδικό πρόσβασης</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
+    <string name="refresh_label_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
+    <string name="refresh_label_refreshed">Η ανανέωση ολοκληρώθηκε με επιτυχία</string>
+    <string name="refresh_label_refreshing">Ανανέωση…</string>
+    <string name="refresh_label_release_to_refresh">Απελευθερώστε για ανανέωση</string>
     <string name="remove_success">Διαγράφηκε με επιτυχία</string>
     <string name="rename_ext_confirm_dialog_desc">Η αλλαγή του τύπου αρχείου μπορεί να κάνει το αρχείο άχρηστο</string>
     <string name="rename_file_select_error">Δεν είναι δυνατή η μετονομασία πολλών στοιχείων</string>
@@ -506,9 +514,9 @@
     <string name="user_avatar_uploading">Μισό λεπτό…</string>
     <string name="user_id_hint">Αναγνωριστικό λογαριασμού email/τηλεφώνου/Mi</string>
     <string name="user_protocol_and_privacy_protocol">Έχω διαβάσει και συμφωνήσει με τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου.</string>
-    <string name="v_code_title">Εισαγωγή κωδικού επαλήθευσης</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="v_code_title">Εισαγωγή κωδικού επαλήθευσης</string>
     <string name="video_picker_title">Επιλογή βίντεο</string>
     <string name="view_type">Προβολή</string>
     <string name="waiting_download">Εν αναμονή</string>

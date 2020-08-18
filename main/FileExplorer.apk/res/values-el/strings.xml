@@ -170,7 +170,7 @@
 	<string name="extended_storage_file_can_not_open">Αδυναμία αντιγραφής αρχείου. Αντιγράψτε πρώτα το αρχείο στην εσωτερική μνήμη.</string>
 	<string name="extract">Εξαγωγή</string>
 	<string name="fab_menu_ball">快捷操作球</string>
-	<string name="fab_menu_sort">Ταξινόμ.</string>
+	<string name="fab_menu_sort">Κατά</string>
 	<string name="fail_to_create_folder_unknown">Αδυναμία δημιουργίας φακέλου</string>
 	<string name="failed_not_access_sd_card">Επιτρέψτε την πρόσβαση στην SD card πρώτα</string>
 	<string name="failed_obtain_permissions">Αδυναμία λήψης αδειών</string>
@@ -194,7 +194,7 @@
 	<string name="found_usb">Η μνήμη USB συνδέθηκε</string>
 	<string name="ftp_account_req_notice">8 έως 16 χαρακτήρες με αριθμούς και γράμματα (γίνεται διάκριση πεζών)</string>
 	<string name="ftp_anonymous_login">Ανώνυμη σύνδεση</string>
-	<string name="ftp_anonymous_warning_msg">Η ανώνυμη λειτουργία ενδέχεται να ενέχει κινδύνους ασφαλείας. Χρησιμοποιήτε τη λειτουργία ούτως ή άλλως;</string>
+	<string name="ftp_anonymous_warning_msg">Η ανώνυμη λειτουργία ενδέχεται να ενέχει κινδύνους ασφαλείας. Χρήση της λειτουργίας ούτως ή άλλω2;</string>
 	<string name="ftp_anonymous_warning_title">Προσοχή</string>
 	<string name="ftp_invalid_username_or_password">Το όνομα χρήστη ή ο κωδικός είναι λάθος.</string>
 	<string name="ftp_open_port_error">Αδυναμία ανοίγματος θύρας. Ελέγξτε τη σύνδεση δικτύου ή κάντε επαναφορά τον αριθμό θύρας.</string>
@@ -438,7 +438,7 @@
 	<string name="start_phone">Αρχεία</string>
 	<string name="start_server">Εκκίνηση διακομιστή</string>
 	<string name="status_bar_notification_info_overflow">999+</string>
-	<string name="stay_awake_summary">Η οθόνη μένει ενεργή κατά τη χρήση του FTP</string>
+	<string name="stay_awake_summary">Η οθόνη θα παραμένει ενεργή κατά τη χρήση του FTP</string>
 	<string name="stay_awake_title">Ενεργή οθόνη</string>
 	<string name="stop_server">Διακοπή διακομιστή</string>
 	<string name="storage_cloned_app">Αποθ.χώρος Διπλών εφαρμογών</string>
@@ -488,7 +488,7 @@
 	<string name="utf8_title">UTF-8</string>
 	<string name="v7_preference_off">OFF</string>
 	<string name="v7_preference_on">ON</string>
-	<string name="view_type">Προβολή</string>
+	<string name="view_type">Θέαση</string>
 	<string name="wechat_video">Βίντεο %s</string>
 	<string name="wifi_state">Δίκτυο Wi‑Fi</string>
 	<string name="year_month_day_format">dd MMM, yyyy</string>
