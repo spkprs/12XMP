@@ -5922,6 +5922,9 @@
     <string name="smart_battery_manager_title">Διαχείριση μπαταριών</string>
     <string name="smart_battery_summary">Περιορίστε την μπαταρία για εφαρμογές που δεν χρησιμοποιείτε συχνά</string>
     <string name="smart_battery_title">Αυτόματη διαχείριση εφαρμογών</string>
+    <string name="smart_home_title">Έξυπνο Σπίτι</string>
+    <string name="smart_home_value_none">Χωρίς</string>
+    <string name="smart_home_value_unknown">Άγνωστο</string>
     <string name="smart_notifications_title">Προσαρμοστικές ειδοποιήσεις</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Λειτουργία έξυπνης θήκης</string>
     <string name="smartcover_sensitive_summary">Κλειδώστε ή ξεκλειδώστε το τηλέφωνο αυτόματα με την χρήση έξυπνης θήκης</string>

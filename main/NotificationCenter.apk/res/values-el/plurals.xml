@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="a_hour_ago">
-    <item quantity="other">ώρες</item>
+    <item quantity="other">1 ώρα πριν</item>
   </plurals>
   <plurals name="abbrev_a_hour_ago">
-    <item quantity="other">ώρες</item>
+    <item quantity="other">1 ώρα πριν</item>
   </plurals>
   <plurals name="abbrev_half_hour_ago">
     <item quantity="other">Πριν μισή ώρα.</item>
@@ -19,15 +19,15 @@
     <item quantity="other">Αμέσως</item>
   </plurals>
   <plurals name="abbrev_in_num_minutes">
-    <item quantity="other">in %d λεπτά</item>
+    <item quantity="other">σε %d λεπτά</item>
     <item quantity="one">σε 1 λεπτό</item>
   </plurals>
   <plurals name="abbrev_less_than_one_minute_ago">
     <item quantity="other">Μόλις τώρα.</item>
   </plurals>
   <plurals name="abbrev_num_minutes_ago">
-    <item quantity="other">%d ελάχιστα πριν</item>
-    <item quantity="one">πριν από 1 λεπτό</item>
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">1 λεπτό πριν</item>
   </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Πριν μισή ώρα.</item>
@@ -42,28 +42,28 @@
     <item quantity="other">Αμέσως</item>
   </plurals>
   <plurals name="in_num_minutes">
-    <item quantity="other">in %d λεπτά</item>
+    <item quantity="other">σε %d λεπτά</item>
     <item quantity="one">σε 1 λεπτό</item>
   </plurals>
   <plurals name="last_sent_time_day">
     <item quantity="other">%d μέρες πριν</item>
-    <item quantity="one">%d πριν από μια μέρα</item>
+    <item quantity="one">%d μέρα πριν</item>
   </plurals>
   <plurals name="last_sent_time_hour">
     <item quantity="other">%d ώρες πριν</item>
-    <item quantity="one">%d πριν από μια ώρα</item>
+    <item quantity="one">%d ώρα πριν</item>
   </plurals>
   <plurals name="last_sent_time_minute">
     <item quantity="other">%d λεπτά πριν</item>
-    <item quantity="one">%d πριν από ένα λεπτό</item>
+    <item quantity="one">%d λεπτό πριν</item>
   </plurals>
   <plurals name="last_sent_time_month">
     <item quantity="other">%d μήνες πριν</item>
-    <item quantity="one">%d πριν ένα μήνα</item>
+    <item quantity="one">%d μήνα πριν</item>
   </plurals>
   <plurals name="last_sent_time_week">
-    <item quantity="other">%d πριν από εβδομάδες</item>
-    <item quantity="one">%d μια βδομάδα πριν</item>
+    <item quantity="other">%d εβδομάδες πριν</item>
+    <item quantity="one">%d βδομάδα πριν</item>
   </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Μόλις τώρα</item>
@@ -74,14 +74,14 @@
   </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">%d λεπτά πριν</item>
-    <item quantity="one">πριν από 1 λεπτό</item>
+    <item quantity="one">1 λεπτό πριν</item>
   </plurals>
   <plurals name="sent_frequency_per_day">
-    <item quantity="other">%d ειδοποιήσεις την ημέρα</item>
-    <item quantity="one">%d ειδοποίηση την ημέρα</item>
+    <item quantity="other">%d ειδοπ. την ημέρα</item>
+    <item quantity="one">%d ειδοπ. την ημέρα</item>
   </plurals>
   <plurals name="sent_frequency_per_week">
-    <item quantity="other">%d ειδοποιήσεις την εβδομάδα</item>
-    <item quantity="one">%d ειδοποίηση την εβδομάδα</item>
+    <item quantity="other">%d ειδοπ. την εβδομάδα</item>
+    <item quantity="one">%d ειδοπ. την εβδομάδα</item>
   </plurals>
 </resources>
