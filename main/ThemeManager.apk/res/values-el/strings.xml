@@ -90,12 +90,12 @@
     <string name="apply_font_btn_exclude">Εφαρμογή χωρίς γραμματοσειρά</string>
     <string name="apply_font_btn_reboot">Επανεκκίνηση</string>
     <string name="apply_font_tip">Θέμα με γραμ/σειρά. Απαιτείται επανεκκίνηση.</string>
-    <string name="apply_not_support_aod">Η Πάντα στην Οθόνη δεν υποστηρίζεται σε αυτήν τη συσκευή</string>
+    <string name="apply_not_support_aod">Η \"Πάντα στην Οθόνη\" δεν υποστηρίζεται σε αυτήν τη συσκευή</string>
     <string name="apply_not_support_in_second_space">Δεν είναι δυνατή η εφαρμογή αυτού του στοιχείου στο Δεύτερο χώρο</string>
-    <string name="apply_not_support_maml_aod">Δεν είναι δυνατό να συνδυαστεί η Πάντα στην Οθόνη με θέματα σε αυτήν τη συσκευή</string>
+    <string name="apply_not_support_maml_aod">Δεν είναι δυνατό να συνδυαστεί στη \"Πάντα στην Οθόνη\" με θέματα σε αυτήν τη συσκευή</string>
     <string name="apply_succeed">Εφαρμόστηκε με επιτυχία</string>
-    <string name="apply_success_not_enable_aod">Ενεργοποιήστε την οθόνη Πάντα στην Οθόνη στις Ρυθμίσεις πρώτα</string>
-    <string name="apply_success_not_support_aod">Δεν είναι δυνατό να συνδυαστεί η οθόνη Πάντα στην Οθόνη με θέματα σε αυτήν τη συσκευή. Τα υπόλοιπα στοιχεία αυτού του θέματος εφαρμόστηκαν με επιτυχία.</string>
+    <string name="apply_success_not_enable_aod">Ενεργοποιήστε την \"Πάντα στην Οθόνη\" στις Ρυθμίσεις πρώτα</string>
+    <string name="apply_success_not_support_aod">Δεν είναι δυνατό να συνδυαστεί στην \"Πάντα στην Οθόνη\" με θέματα σε αυτήν τη συσκευή. Τα υπόλοιπα στοιχεία αυτού του θέματος εφαρμόστηκαν με επιτυχία.</string>
     <string name="apply_theme_with_ringtones">Ενεργοποίηση ήχων κλήσης</string>
     <string name="audio_duration_minutes_format">%1$d λεπτά</string>
     <string name="audio_duration_seconds_format">%1$d δευτ.</string>

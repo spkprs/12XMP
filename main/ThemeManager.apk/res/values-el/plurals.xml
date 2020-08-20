@@ -26,8 +26,40 @@
     <item quantity="other">Μόλις τώρα.</item>
   </plurals>
   <plurals name="abbrev_num_minutes_ago">
-    <item quantity="other">%d πριν από λίγα λεπτά</item>
-    <item quantity="one">πριν από 1 λεπτό</item>
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">1 λεπτό πριν</item>
+  </plurals>
+  <plurals name="anonymous_resource_count_aod">
+    <item quantity="other">%1$d AOD Θέματα</item>
+    <item quantity="one">%1$d AOD Θέμα</item>
+  </plurals>
+  <plurals name="anonymous_resource_count_font">
+    <item quantity="other">%1$d Γραμ/σειρές</item>
+    <item quantity="one">%1$d Γραμ/σειρά</item>
+  </plurals>
+  <plurals name="anonymous_resource_count_icon">
+    <item quantity="other">%1$d εικονίδια</item>
+    <item quantity="one">%1$d εικονίδιο</item>
+  </plurals>
+  <plurals name="anonymous_resource_count_theme">
+    <item quantity="other">%1$d Θέματα</item>
+    <item quantity="one">%1$d Θέμα</item>
+  </plurals>
+  <plurals name="anonymous_resource_count_title">
+    <item quantity="other">Προσθέστε %1$d στοιχεία</item>
+    <item quantity="one">Προσθέστε %1$d στοιχείο</item>
+  </plurals>
+  <plurals name="anonymous_resource_link_success_message">
+    <item quantity="other">Προστέθηκαν %1$d στοιχεία στο λογαριασμό σας. Προβολή των προστιθέμενων στοιχείων στις παραγγελίες σας.</item>
+    <item quantity="one">Προστέθηκε %1$d στοιχείο στο λογαριασμό σας. Προβολή των προστιθέμενων στοιχείων στις παραγγελίες σας.</item>
+  </plurals>
+  <plurals name="anonymous_resource_login_message">
+    <item quantity="other">"Μπορείτε να κάνετε λήψη των δωρεάν στοιχείων %1$d μόνο εάν δεν έχετε εισέλθει (εξαιρούνται οι εικόνες φόντου και οι τόνοι κλήσης). Συνδεθείτε για να κάνετε λήψη στοιχείων χωρίς περιορισμούς."</item>
+    <item quantity="one">"Μπορείτε να κάνετε λήψη του δωρεάν στοιχείου %1$d μόνο εάν δεν έχετε εισέλθει (εξαιρούνται οι εικόνες φόντου και οι τόνοι κλήσης). Συνδεθείτε για να κάνετε λήψη στοιχείων χωρίς περιορισμούς."</item>
+  </plurals>
+  <plurals name="anonymous_resource_view">
+    <item quantity="other">"%1$d στοιχεία δεν προστέθηκε στο λογαριασμό σας"</item>
+    <item quantity="one">"%1$d στοιχείο δεν προστέθηκε στο λογαριασμό σας"</item>
   </plurals>
   <plurals name="aod_batch_has_update_text">
     <item quantity="other">Ενημερώσεις για %1$d θέματα είναι διαθέσιμα</item>
@@ -42,20 +74,24 @@
     <item quantity="one">%1$d θαυμαστής</item>
   </plurals>
   <plurals name="de_author_theme_amount">
-    <item quantity="other">%1$d αντικείμενα</item>
-    <item quantity="one">%1$d είδος</item>
+    <item quantity="other">%1$d στοιχεία</item>
+    <item quantity="one">%1$d στοιχείο</item>
+  </plurals>
+  <plurals name="de_icon_count">
+    <item quantity="other">%1$d εικονίδια</item>
+    <item quantity="one">%1$d εικονίδιο</item>
   </plurals>
   <plurals name="de_more_comment">
     <item quantity="other">%1$d περισσότερα σχόλια</item>
     <item quantity="one">%1$d περισσότερα σχόλια</item>
   </plurals>
     <plurals name="detail_reward_few_times">
-        <item quantity="one">%s ανταμοιβή</item>
         <item quantity="other">%s ανταμοιβές</item>
+        <item quantity="one">%s ανταμοιβή</item>
     </plurals>
     <plurals name="detail_reward_times">
-        <item quantity="one">%s ανταμοιβή</item>
         <item quantity="other">%s ανταμοιβές</item>
+        <item quantity="one">%s ανταμοιβή</item>
     </plurals>
   <plurals name="detail_update_time_hour">
     <item quantity="other">%d ωρ. πρίν</item>
@@ -71,6 +107,14 @@
   </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Πριν από μισή ώρα</item>
+  </plurals>
+  <plurals name="icon_batch_has_update_text">
+    <item quantity="other">Ενημέρωση για %1$d εικονίδια</item>
+    <item quantity="one">Ενημέρωση για %1$d εικονίδιο</item>
+  </plurals>
+  <plurals name="icon_batch_updating_text">
+    <item quantity="other">Ενημέρωση %1$d εικονιδίων…</item>
+    <item quantity="one">Ενημέρωση %1$d εικονιδίου…</item>
   </plurals>
   <plurals name="in_a_hour">
     <item quantity="other">Σε 1 ώρα</item>
@@ -94,7 +138,7 @@
   </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">%d λεπτά πριν</item>
-    <item quantity="one">πριν από 1 λεπτό</item>
+    <item quantity="one">1 λεπτό πριν</item>
   </plurals>
   <plurals name="resource_comment_score_count">
     <item quantity="other">%d σχόλια</item>
@@ -121,8 +165,8 @@
     <item quantity="one">%1$s έργο</item>
   </plurals>
   <plurals name="theme_update_local_resource_notifaction">
-    <item quantity="other">Διαθέσιμες ενημερώσεις για %1$d θέματα</item>
-    <item quantity="one">Διαθέσιμη ενημέρωση για %1$d θέμα</item>
+    <item quantity="other">Ενημερώσεις για %1$d θέματα</item>
+    <item quantity="one">Ενημέρωση για %1$d θέμα</item>
   </plurals>
   <plurals name="transparent_wallpaper_filter_hint">
     <item quantity="other">Αναζήτηση μεταξύ %1$d εφαρμ.</item>
@@ -147,37 +191,5 @@
   <plurals name="wallpaper_staggered_item_text">
     <item quantity="other">%1$s | %2$d εικόνες</item>
     <item quantity="one">%1$s | %2$d εικόνα</item>
-  </plurals>
-  <plurals name="anonymous_resource_count_aod">
-    <item quantity="one">%1$d AOD Θέμα</item>
-    <item quantity="other">%1$d AOD Θέματα</item>
-  </plurals>
-  <plurals name="anonymous_resource_count_font">
-    <item quantity="one">%1$d Γραμ/σειρά</item>
-    <item quantity="other">%1$d Γραμ/σειρές</item>
-  </plurals>
-  <plurals name="anonymous_resource_count_icon">
-    <item quantity="one">%1$d εικονίδιο</item>
-    <item quantity="other">%1$d εικονίδια</item>
-  </plurals>
-  <plurals name="anonymous_resource_count_theme">
-    <item quantity="one">%1$d Θέμα</item>
-    <item quantity="other">%1$d Θέματα</item>
-  </plurals>
-  <plurals name="anonymous_resource_count_title">
-    <item quantity="one">Προσθέστε %1$d στοιχείο</item>
-    <item quantity="other">Προσθέστε %1$d στοιχεία</item>
-  </plurals>
-  <plurals name="anonymous_resource_link_success_message">
-    <item quantity="one">Προστέθηκε %1$d στοιχείο στο λογαριασμό σας. Προβολή των προστιθέμενων στοιχείων στις παραγγελίες σας.</item>
-    <item quantity="other">Προστέθηκαν %1$d στοιχεία στο λογαριασμό σας. Προβολή των προστιθέμενων στοιχείων στις παραγγελίες σας.</item>
-  </plurals>
-  <plurals name="anonymous_resource_login_message">
-    <item quantity="one">"Μπορείτε να κάνετε λήψη του δωρεάν στοιχείου %1$d μόνο εάν δεν έχετε εισέλθει (εξαιρούνται οι εικόνες φόντου και οι τόνοι κλήσης). Συνδεθείτε για να κάνετε λήψη στοιχείων χωρίς περιορισμούς."</item>
-    <item quantity="other">"Μπορείτε να κάνετε λήψη των δωρεάν στοιχείων %1$d μόνο εάν δεν έχετε εισέλθει (εξαιρούνται οι εικόνες φόντου και οι τόνοι κλήσης). Συνδεθείτε για να κάνετε λήψη στοιχείων χωρίς περιορισμούς.."</item>
-  </plurals>
-  <plurals name="anonymous_resource_view">
-    <item quantity="one">"%1$d στοιχείο δεν προστέθηκε στο λογαριασμό σας"</item>
-    <item quantity="other">"%1$d στοιχεία δεν προστέθηκε στο λογαριασμό σας"</item>
   </plurals>
 </resources>

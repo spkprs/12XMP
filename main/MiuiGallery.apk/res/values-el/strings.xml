@@ -1647,10 +1647,10 @@
     <string name="slideshow_interval_title">Διάρκεια προβολής διαφανειών</string>
     <string name="slideshow_loop_title">Επανάληψη όλων των διαφανειών</string>
     <string name="slim_complete">Τέλος</string>
-    <string name="slim_complete_action_title">Βελτιστοποιήθηκε με επιτυχία</string>
-    <string name="slim_cost_time_minute">%dm απομένουν</string>
-    <string name="slim_cost_time_minute_and_second">%1$dm %2$ds απομένουν</string>
-    <string name="slim_cost_time_second">%ds απομένουν</string>
+    <string name="slim_complete_action_title">Επιτυχής βελτιστοποίηση</string>
+    <string name="slim_cost_time_minute">%dλ απομένουν</string>
+    <string name="slim_cost_time_minute_and_second">%1$dλ %2$dδ απομένουν</string>
+    <string name="slim_cost_time_second">%dδ απομένουν</string>
     <string name="slim_description_dialog_detail">Μειώστε το μέγεθος των τοπικών φωτογραφιών. Τα πρωτότυπα αρχεία θα αποθηκευτούν στο Xiaomi Cloud.</string>
     <string name="slim_description_dialog_ok">Εντάξει</string>
     <string name="slim_description_dialog_slim_after">Μετά:  167KB</string>
