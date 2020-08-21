@@ -51,6 +51,7 @@
   <string name="cant_replace_or_remove_work_profile">Δεν είναι δυνατή η αντικατάσταση ή αφαίρεση προφίλ εργασίας</string>
   <string name="cant_set_up_device">Δεν είναι δυνατή η ρύθμιση της συσκευής</string>
   <string name="cant_set_up_profile">Δεν είναι δυνατή η δημιουργία προφίλ</string>
+  <string name="car_ui_toolbar_nav_icon_content_description">Πίσω</string>
   <string name="change_device_launcher">Αλλαγή εκκίνησης συσκευής</string>
   <string name="character_counter_content_description">Χαρακτήρες που έχουν εισαχθεί %1$d του %2$d</string>
   <string name="character_counter_overflowed_content_description">Όριο χαρακτήρων υπέρβαση %1$d του %2$d</string>
@@ -194,11 +195,11 @@
   <string name="speed_bump_lockout_message">Εστίαση στο δρόμο</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop_setup_reset_device_question">Διακοπή εγκατάστασης και επαναφορά συσκευής;</string>
+  <string name="sudFontSecondary">google-sans</string>
+  <string name="sudFontSecondaryMedium">google-sans-medium</string>
   <string name="sud_back_button_label">Πίσω</string>
   <string name="sud_more_button_label">Περισσότερες</string>
   <string name="sud_next_button_label">Επόμενο</string>
-  <string name="sudFontSecondary">google-sans</string>
-  <string name="sudFontSecondaryMedium">google-sans-medium</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sure_you_want_to_delete_profile">Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το προφίλ εργασίας; Όλα τα δεδομένα του θα διαγραφούν.</string>
   <string name="take_a_few_minutes">Αυτό μπορεί να διαρκέσει μερικά λεπτά</string>

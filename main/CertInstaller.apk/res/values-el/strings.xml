@@ -77,8 +77,9 @@ Realm: %4$s
     <string name="invalid_certificate_title">"Αδύνατη η χρήση του αρχείου"</string>
     <string name="redirect_ca_certificate_close_button">Κλείστε</string>
     <string name="redirect_ca_certificate_message">Τα CA πιστοποιητικά μπορούν να θέσουν σε κίνδυνο το Απόρρητό σας και πρέπει να εγκατασταθούν στις Ρυθμίσεις</string>
-    <string name="redirect_ca_certificate_title">"Αδύνατη η εγκατάσταση πιστοποιητικών CA"</string>
+    <string name="redirect_ca_certificate_title">Εγκατάσταση πιστοποιητικών CA στις Ρυθμίσεις</string>
     <string name="select_certificate_usage_title">Επιλογή τύπου πιστοποιητικού</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Αυτό το πιστοποιητικό από το %1$s πρέπει να εγκατασταθεί στις Ρυθμίσεις. Εγκαταστήστε πιστοποιητικά CA μόνο από οργανισμούς που εμπιστεύεστε.</string>
     <string name="user_cert_is_added">Εγκατεστημένο πιστοποιητικό χρήστη</string>
     <string name="user_certificate">VPN &amp; πιστοποιητικό χρήστη εφαρμογής</string>
     <string name="wifi_cert_is_added">Wi‑Fi εγκατεστημένο πιστοποιητικό</string>

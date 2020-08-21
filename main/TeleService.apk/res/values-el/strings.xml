@@ -1037,6 +1037,7 @@
   <string name="list_language_dtitle">Γλώσσες</string>
   <string name="list_language_summary">Επιλέξτε τη γλώσσα των ειδήσεων</string>
   <string name="list_language_title">Γλώσσα</string>
+  <string name="label_phoneid">Το Perso κλειδωμένο για</string>
   <string name="load_networks_progress">Αναζήτηση…</string>
   <string name="loading_injected_setting_summary">Φόρτωση…</string>
   <string name="local_backup_password_summary_change">Πατήστε για να αλλάξετε ή να καταργήσετε τον κωδικό πρόσβασης για πλήρη αντίγραφα ασφαλείας επιφάνειας εργασίας</string>

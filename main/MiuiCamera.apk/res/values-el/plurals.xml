@@ -13,6 +13,10 @@
         <item quantity="other">Χρονικό διάστημα: %d δευτ.</item>
         <item quantity="one">Χρονικό διάστημα: %d δευτ.</item>
     </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Διάρκεια: %d δευτ.</item>
+        <item quantity="one">Διάρκεια: %d δευτ.</item>
+    </plurals>
      <plurals name="clone_guide_tip2">
         <item quantity="other">Μπορείτε να δημιουργήσετε έως %d κλώνους κάθε φορά.</item>
         <item quantity="one">Μπορείτε να δημιουργήσετε έως %d κλώνους κάθε φορές.</item>

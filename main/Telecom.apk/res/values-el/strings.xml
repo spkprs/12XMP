@@ -355,6 +355,8 @@
   <string name="notification_channel_call_blocking">Φραγή κλήσεων</string>
   <string name="notification_channel_incoming_call">Εισερχόμενες κλήσεις</string>
   <string name="notification_channel_missed_call">Αναπάντητες κλήσεις</string>
+  <string name="notification_incallservice_not_responding_body">Η κλήση σας χρησιμοποίησε την εφαρμογή τηλεφώνου που συνοδεύει τη συσκευή σας</string>
+  <string name="notification_incallservice_not_responding_title">%s διακοπή απόκρισης</string>
   <string name="notification_incoming_call">%1$s κλήση από %2$s</string>
   <string name="notification_incoming_video_call">%1$s βιντεοκλήση από %2$s</string>
   <string name="notification_missedCall_call_back">Επιστροφή κλήσης</string>
