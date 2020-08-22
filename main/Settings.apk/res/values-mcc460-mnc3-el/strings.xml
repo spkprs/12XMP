@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radioInfo_menu_viewADN">Προβολή βιβλίου διευθύνσεων UIM</string>
+    <string name="security_settings_summary">Ορισμός τοποθεσίας, ξεκλείδωμα οθόνης, κλείδωμα κάρτας UIM, κλείδωμα αποθήκευσης διαπιστευτηρίων</string>
+    <string name="sim_change_failed_enable_sim_lock">"Δεν είναι δυνατή η αλλαγή του PIN UIM.
+Ενεργοποιήστε το κλείδωμα UIM."</string>
+    <string name="sim_change_pin">UIM PIN</string>
+    <string name="sim_change_succeeded">UIM PIN άλλαξε με επιτυχία</string>
+    <string name="sim_disable_sim_lock">Ξεκλείδωμα κάρτας UIM</string>
+    <string name="sim_enable_sim_lock">Κλείδωμα κάρτας UIM</string>
+    <string name="sim_enter_new">Νέο UIM PIN</string>
+    <string name="sim_enter_old">Παλαιό UIM PIN</string>
+    <string name="sim_enter_pin">UIM PIN</string>
+    <string name="sim_lock_change_not_supported">"Δεν είναι δυνατή η αλλαγή κλειδώματος UIM.
+Η UIM δεν το υποστηρίζει."</string>
+    <string name="sim_lock_failed">"Δεν είναι δυνατή η αλλαγή της κατάστασης κλειδώματος της κάρτας UIM.
+Πιθανώς εσφαλμένο PIN."</string>
+    <string name="sim_lock_settings">Ρυθμίσεις κλειδώματος καρτών UIM</string>
+    <string name="sim_lock_settings_category">Ρύθμιση κλειδώματος κάρτας UIM</string>
+    <string name="sim_lock_settings_title">Κλείδωμα κάρτας UIM</string>
+    <string name="sim_pin_change">Αλλαγή UIM PIN</string>
+    <string name="sim_pin_toggle">Κλείδωμα κάρτας UIM</string>
+</resources>

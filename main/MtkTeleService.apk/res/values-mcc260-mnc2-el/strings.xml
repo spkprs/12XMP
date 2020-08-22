@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_data_preference_4g_only_prompt">Φαίνεται ότι έχετε μια LTE μόνο κάρτα SIM. Για να βεβαιωθείτε ότι λειτουργεί κανονικά, ορίστε την ως προεπιλογή για δεδομένα κινητών συσκευών. Ορισμός τώρα;</string>
+    <string name="change_data_sim_4g_only_prompt">"Η SIM %1$s υποστηρίζει μόνο LTE. Όταν η SIM %2$s δεν είναι η προεπιλεγμένη SIM για δεδομένα κινητής τηλεφωνίας, η κάρτα SIM ενδέχεται να μην λειτουργεί κανονικά. Αλλαγή τώρα;"</string>
+    <string name="dual_4g_switch_summary">Να επιτρέπεται η σύνδεση LTE και για τις δύο υποδοχές SIM.</string>
+    <string name="dual_4g_switch_title">Διπλό LTE</string>
+    <string name="enable_dual_4g_prompt_when_turn_on_volte">Η VoLTE απαιτεί συνδεσιμότητα LTE και για τις δύο υποδοχές SIM. Θέλετε να μεταβείτε τώρα σε διπλό LTE;</string>
+    <string name="opened_dual_4g_confirm_prompt">Φαίνεται ότι έχετε μια LTE μόνο κάρτα SIM. Το διπλό LTE ενεργοποιήθηκε αυτόματα.</string>
+    <string name="opened_dual_4g_confirm_prompt_with_sim">Η SIM %1$s υποστηρίζει μόνο LTE. Για να βεβαιωθείτε ότι η κάρτα SIM λειτουργεί κανονικά, ήταν ενεργοποιημένο το διπλό LTE.</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred">Προτίμηση LTE</string>
+    <string name="replace_4g_template">LTE</string>
+    <string name="turn_off_dual_4g_failed">"Αδύνατη η απενεργοποίηση του Διπλού LTE."</string>
+    <string name="turn_on_dual_4g_failed">"Αδύνατη η ενεργοποίηση του Διπλού LTE."</string>
+    <string name="wifi_call_setting">Σύνδεση μέσω WIFI</string>
+</resources>

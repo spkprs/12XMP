@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show_cf_type_when_mmi">true</bool>
+    <bool name="config_wifi_disconnect_delay_duration">true</bool>
+</resources>
