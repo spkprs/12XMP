@@ -1270,6 +1270,8 @@
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Χαρακτηριστικά</string>
     <string name="bt_pre_summary">Παρέχει μια υψηλής ποιότητας εμπειρία ήχου</string>
+    <string name="bt_show_notification_summary">Εμφάνιση μόνιμης ειδοποίησης στον Πίνακα ειδοποιήσεων</string>
+    <string name="bt_show_notification_title">Ειδοποίηση για συνδέσεις Bluetooth</string>
     <string name="bt_rarely_used_device_title">Συσκευές με σπάνια χρήση (%d)</string>
     <string name="bt_trace_log">Ενεργοποίηση καταγραφής ιχνών Bluetooth</string>
     <string name="bt_trace_log_summary">Ενεργοποίηση καταγραφής παρακολούθησης Bluetooth</string>
@@ -1317,9 +1319,9 @@
     <string name="call_records_name_1">Γεωργία Γιαννακάκη</string>
     <string name="call_records_name_2">Κώστας Παπαδόπουλος</string>
     <string name="call_records_name_3">Σωκράτης Αλεξάνδρου</string>
-    <string name="call_records_summary_1">9:35 ΠΜ | 26 δευτ. | COSMO</string>
-    <string name="call_records_summary_2">Αύγουστος 16 | 1λ 16δ | VODA</string>
-    <string name="call_records_summary_3">Αύγουστος 16 | 2λ 24δ | WIN</string>
+    <string name="call_records_summary_1">%1$d:%2$d ΠΜ | %3$d δευτ.</string>
+    <string name="call_records_summary_2">Αύγουστος %1$d | %2$dλ %3$dδ</string>
+    <string name="call_records_summary_3">Αύγουστος %1$d | %2$dλ %3$dδ</string>
     <string name="call_settings_primary_user_only">Αλλαγή ρυθμίσεων κλήσης στο Πρώτο προφίλ</string>
     <string name="call_settings_summary">Ρύθμιση τηλεφωνητή προώθησης κλήσεων αναμονής ταυτότητας καλούντος</string>
     <string name="call_settings_title">Ρυθμίσεις κλήσεων</string>

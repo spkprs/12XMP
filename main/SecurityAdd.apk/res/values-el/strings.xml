@@ -273,7 +273,7 @@
     <string name="mtrl_picker_day_of_week_column_header">Στήλη ημερών: %1$s</string>
     <string name="mtrl_picker_invalid_format">Μη έγκυρη μορφή.</string>
     <string name="mtrl_picker_invalid_format_example">Παράδειγμα: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Use: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Χρήση: %1$s</string>
     <string name="mtrl_picker_invalid_range">Μη έγκυρη περιοχή.</string>
     <string name="mtrl_picker_navigate_to_year_description">Περιήγηση στο έτος %1$s</string>
     <string name="mtrl_picker_out_of_range">Εκτός ορίων: %1$s</string>
@@ -397,6 +397,9 @@
     <string name="toast_text_kid_space_deleting">正在删除空间</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
+    <string name="tool_box_active_loading">Μισό λεπτό…</string>
+    <string name="tool_box_active_no_networ">"Αδύνατη η σύνδεση στο δίκτυο"</string>
+    <string name="tool_box_active_reload">Ανανέωση</string>
     <string name="uninstall">应用卸载</string>
     <string name="usage_sorted_loading_text">Μισό λεπτό…</string>
     <string name="vertical_text_divider">|</string>
