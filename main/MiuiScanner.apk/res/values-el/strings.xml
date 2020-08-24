@@ -214,6 +214,9 @@
     <string name="general_location_dialog">Ορισμένες δυνατότητες αναγνώρισης αντικειμένων παρέχονται από την Dianping. Εάν θέλετε να αναγνωρίσετε αντικείμενα σε καταστήματα, η Dianping πρέπει να χρησιμοποιήσει τις φωτογραφίες που τραβάτε κατά τη χρήση αυτής της δυνατότητας μαζί με τις πληροφορίες τοποθεσίας για να σας παρέχει τα σχετικά αποτελέσματα..</string>
     <string name="general_location_prompt">Πρόσβαση στην τοποθεσία</string>
     <string name="general_recognized">"Αποτέλεσμα: "</string>
+    <string name="general_no">Δεν βρέθηκαν πληροφορίες του στοιχείου</string>
+    <string name="general_no_found">Προτείνοντε παρόμοια προϊόντα για εσάς</string>
+    <string name="general_plant">Αυτό που αναζητάτε μπορεί να είναι:</string>
     <string name="general_title">Τραβήξτε μια φωτογραφία ενός αντικειμένου για αναγνώριση</string>
     <string name="got_it">Κατανοητό</string>
     <string name="gps">GPS</string>

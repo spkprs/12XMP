@@ -112,6 +112,10 @@
     <item quantity="other">Σε %d δευτ.</item>
     <item quantity="one">Σε %d δευτ.</item>
   </plurals>
+  <plurals name="ew_concern_date">
+    <item quantity="other">%d ημ. πριν</item>
+    <item quantity="one">%d ημ. πριν</item>
+  </plurals>
   <plurals name="find_applications">
     <item quantity="other">Αναζήτηση σε %d εφαρμογές</item>
     <item quantity="one">Αναζήτηση σε %d εφαρμογή</item>
