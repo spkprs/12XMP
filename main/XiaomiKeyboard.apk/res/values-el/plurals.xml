@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="download_status">
+        <item quantity="other">Λήψη %d Θεμάτων</item>
+        <item quantity="one">Λήψη %d Θέμα</item>
+    </plurals>
+</resources>
