@@ -317,9 +317,11 @@
   <string name="history_finish_view">Τελειώσει</string>
   <string name="history_left_time">%1$s υπόλοιπα</string>
   <string name="history_less_minute">Λιγότερο από ένα λεπτό</string>
-  <string name="history_local">Τοπικό</string>
+  <string name="history_local">Τοπικά</string>
+  <string name="history_local_record">Τοπικά</string>
   <string name="history_login_immediately">Είσοδος</string>
   <string name="history_login_sync">Είσοδος για συγχρονισμό ιστορικού αναπαραγωγής</string>
+  <string name="history_play">Ιστορικό</string>
   <string name="history_today_play_video">Σήμερα</string>
   <string name="history_update">Προστέθηκε επεισόδιο %1$d</string>
   <string name="history_update_period">Επεισόδιο %1$d</string>
@@ -640,9 +642,12 @@
   <string name="pull_to_refresh_release_label">Απελευθερώστε για ανανέωση…</string>
   <string name="purchase_record">Ιστορικό αγορών</string>
   <string name="purchase_vip">"Αγορά μέλους VIP "</string>
+  <string name="push_setting">Ειδοποιήσεις push</string>
   <string name="quit_all">Ακύρωση όλων</string>
   <string name="receive_follow">Ειδοποιήσεις νέων επεισοδίων</string>
   <string name="receive_follow_summary">Ενεργοποίηση για να λαμβάνετε ειδοποιήσεις για νέα επεισόδια στις σειρές που ακολουθείτε</string>
+  <string name="receive_local_push">Ειδοποίηση για κορυφαίες ιστορίες</string>
+  <string name="receive_local_push_summary">Λάβετε καθημερινές ειδοποιήσεις για κορυφαίες νέες ιστορίες</string>
   <string name="receive_mipush">Λάβετε ειδοποιήσεις push</string>
   <string name="receive_mipush_summary">Λάβετε ειδοποιήσεις για νέα και ενημερώσεις περιεχόμενου σε απευθείας σύνδεση</string>
   <string name="recently_watch">Ιστορικό αναπαραγωγής</string>
@@ -866,6 +871,8 @@
   <string name="use_cellular_offlinedownload_title">Ειδοποιήστε για νέα βίντεο όταν είστε συνδεδεμένοι σε δεδομένα κινητής</string>
   <string name="use_cellular_play_summary">Απενεργοποίηση για εξοικονόμηση δεδομένων κινητής τηλεφωνίας</string>
   <string name="use_cellular_play_title">Χρήση δεδομένων για αναπ. βίντεο</string>
+  <string name="use_cellular_play_toast_summary">Λήψη προειδοποιήσεων για χρήση δεδομένων για αναπαραγωγή βίντεο</string>
+  <string name="use_cellular_play_toast_title">Προειδοποίηση χρήσης δεδομένων</string>
   <string name="use_notch">Αναπαραγωγή πλήρους οθόνης</string>
   <string name="v_addon">Δημοφιλή</string>
   <string name="v_agree">Συμφωνώ</string>

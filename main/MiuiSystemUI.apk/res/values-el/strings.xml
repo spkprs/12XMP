@@ -1558,7 +1558,7 @@
   <string name="screenshot_failed_in_landscape_mode">Αδύνατη η κύλιση στιγμιοτύπων σε λειτουργία οριζόντιου προσανατολισμού</string>
   <string name="screenshot_failed_title">Αδύνατη η λήψη στιγμιότυπου οθόνης.</string>
   <string name="screenshot_failed_to_capture_text">Η λήψη των στιγμιότυπων οθόνης δεν επιτρέπεται από την εφαρμογή ή τον οργανισμό σας</string>
-  <string name="screenshot_failed_to_capture_title">Αυτή η εφαρμογή δεν επιτρέπει τη λήψη στιγμιότυπων οθόνης</string>
+  <string name="screenshot_failed_to_capture_title">"Αδύνατη η λήψη στιγμιοτύπων οθόνης εδώ"</string>
   <string name="screenshot_failed_to_save_text">Δεν είναι δυνατή η αποθήκευση του στιγμιότυπου οθόνης λόγω περιορισμένου χώρου αποθήκευσης.</string>
   <string name="screenshot_failed_to_save_title">Δεν υπάρχει αρκετός χώρος αποθήκευσης για νέα στιγμιότυπα οθόνης</string>
   <string name="screenshot_failed_to_save_unknown_text">Παρουσιάστηκε σφάλμα κατά την αποθήκευση στιγμιότυπου οθόνης</string>
@@ -1609,6 +1609,8 @@
   <string name="show_silently">Εμφάνιση ειδοποιήσεων σιωπηλά</string>
   <string name="show_touches">Εμφάνιση αγγιγμάτων</string>
   <string name="show_touches_summary">Εμφάνιση οπτικής ανάδρασης αγγιγμάτων</string>
+  <string name="sim_state_locked_dialog_title">Μη έγκυρη κάρτα SIM</string>
+  <string name="sim_state_locked_puk_dialog_message">"Έχετε εισάγει εσφαλμένο κωδικό PUK τουλάχιστον 10 φορές. Η κάρτα SIM δεν είναι έγκυρη πλέον. Αντικαταστήστε την με μια άλλη."</string>
   <string name="simulate_color_space">Προσομοίωση έγχρωμου χώρου</string>
   <string name="small_window_guide_title">Αιωρούμενα παράθυρα</string>
   <string name="small_window_notification_text">Πατήστε για να μάθετε περισσότερα σχετικά με αυτήν τη λειτουργία του MIUI %d</string>

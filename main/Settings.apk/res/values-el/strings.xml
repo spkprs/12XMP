@@ -2957,6 +2957,9 @@
     <string name="input_method_function_xiaoai">Mi AI Φωνητική είσοδος</string>
     <string name="input_method_function_xiaoai_des">Πατήστε για χρήση Mi AI φωνητικής εισόδου</string>
     <string name="input_method_manage">Διαχείριση πληκτρολογίων</string>
+    <string name="input_method_middle_function_move_cursor">Μετακίνηση δρομέα</string>
+    <string name="input_method_middle_function_move_cursor_des">Πατήστε παρατεταμένα την κεντρική περιοχή για να μετακινήσετε το δρομέα</string>
+    <string name="input_method_middle_function_no_function_des">"Να μην ανατεθούν ενέργειες"</string>
     <string name="input_method_quick_access">Γρήγορη πρόσβαση</string>
     <string name="input_method_quick_cloud_mode_title">Ειδοποιήσεις σχετικά με νέο περιεχόμενο προχείρου</string>
     <string name="input_method_quick_cloud_summary">Αντιγράψτε στοιχεία σε συμβατά PC και επικολλήστε τα στη συσκευή σας</string>
@@ -3711,6 +3714,7 @@
     <string name="mi_upi_settings">Λογαριασμός πληρωμής Mi</string>
     <string name="micloud_service_summary">Συγχρονίστε τη λίστα εφαρμογών, αντίγραφα ρυθμίσεων συστήματος και τη διάταξη αρχικής οθόνης</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
+    <string name="middle_function_key">Κεντρική περιοχή</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Διάφορα αρχεία</string>
     <string name="misc_files_selected_count">επιλεγμένα %1$d από %2$d</string>
