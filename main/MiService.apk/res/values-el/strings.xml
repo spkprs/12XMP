@@ -295,6 +295,7 @@
   <string name="miui_main_next_page">Επόμενο</string>
   <string name="miui_main_pre_page">Πίσω</string>
   <string name="miui_main_shortcut_label_submit_feedback">Υποβολή σχολίων</string>
+  <string name="miui_main_update_back_to_home">Προετοιμασία Αρχικής οθόνης...</string>
   <string name="miui_main_update_continue">Επόμενο</string>
   <string name="miui_main_update_learn_more">Μάθε περισσότερα</string>
   <string name="miui_main_update_start">Ενημέρωση τώρα</string>

@@ -1586,7 +1586,7 @@
     <string name="gtb_exit_game_to_gtb">Άνοιγμα gamebox</string>
     <string name="gtb_exit_game_to_home">Επιστροφή στην Αρχική Οθόνη</string>
     <string name="gtb_setting_item_summary_smart_5g">Όποτε το Game Turbo εντοπίζει ένα δίκτυο 5G, μπορεί να συνδέσει τη συσκευή σας στο καλύτερο διαθέσιμο δίκτυο για τη μείωση της καθυστέρησης του δικτύου</string>
-    <string name="gtb_setting_item_summary_smart_wlan_speed">Αύξηση της ταχύτητας σύνδεσης κατά 10%-20% όταν γίνεται σύνδεση σε δρομολογητές Mi/Redmi</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Αύξηση της ταχύτητας σύνδεσης κατά 10%-20% όταν γίνεται σύνδεση σε δρομολογητές Mi/Redmi</string>
     <string name="gtb_setting_item_title_smart_5g">Βελτιστοποίηση δικτύου 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi ενίσχυση ταχύτητας</string>
     <string name="gtb_wlan_speed_tips">Χρήση Mi WiFi…</string>

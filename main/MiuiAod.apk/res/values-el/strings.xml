@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="item_view_role_description">Καρτέλα</string>
+  <string name="material_slider_range_end">Τέλος περιοχής,</string>
+  <string name="material_slider_range_start">Έναρξη περιοχής,</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Περισσότερες από %1$d νέες ειδοποιήσεις</string>
   <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
   <string name="abc_action_bar_up_description">Πλοήγηση επάνω</string>
   <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>

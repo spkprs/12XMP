@@ -4,7 +4,7 @@
   <string name="activity_convert_pdf_alert_title">Μετατροπή αρχείου πριν από την εκτύπωση…</string>
   <string name="activity_jump_market_alert_install_message">Εγκαταστήστε το WPS Office για να μετατρέψετε αυτό το αρχείο και να το προετοιμάσετε για εκτύπωση. Θα πρέπει να ξεκινήσετε ξανά την εκτύπωση αφού ολοκληρωθεί η εγκατάσταση. Εγκατάσταση τώρα?</string>
   <string name="activity_jump_market_alert_install_positive_button">Εγκατάσταση</string>
-  <string name="activity_jump_market_alert_title">Attention</string>
+  <string name="activity_jump_market_alert_title">Προσοχή</string>
   <string name="activity_jump_market_alert_update_message">Ενημερώστε το WPS Office για να μετατρέψετε αυτό το αρχείο και να το προετοιμάσετε για εκτύπωση. Θα πρέπει να ξεκινήσετε ξανά την εκτύπωση μετά την εγκατάσταση της νέας έκδοσης. Ενημέρωση τώρα?</string>
   <string name="activity_jump_market_alert_update_positive_button">Ενημερωμένη έκδοση</string>
   <string name="add_print_service_label">Προσθήκη υπηρεσίας</string>

@@ -515,6 +515,7 @@
     <string name="face_beauty_smart">Έξυπνη</string>
     <string name="face_score_info">Βαθμοί: %.1f</string>
     <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει το τελευταίο τέταρτο της εγγραφής</string>
+    <string name="film_video_tip">Χρησιμοποιήστε ένα τρίποδο για λήψη</string>
     <string name="fragment_tab_name_bokeh">Θόλωση</string>
     <string name="front_camera_hint_text_place">Η λήψη selfies θα είναι ευκολότερη\nαν περιστρέψετε το τηλέφωνό σας</string>
     <string name="front_camera_hint_text_rotate">Περιστρέψτε το τηλέφωνό σας</string>

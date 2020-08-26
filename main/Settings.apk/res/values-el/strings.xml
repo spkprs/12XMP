@@ -1250,7 +1250,7 @@
     <string name="bt_absVolume_open_dialog_summary">Λόγω μη συμβατότητας, ορισμένες συσκευές Bluetooth μπορεί να έχουν μη φυσιολογικά επίπεδα έντασης, τα οποία μπορούν να επιλυθούν απενεργοποιώντας αυτή τη λειτουργία.</string>
     <string name="bt_absVolume_open_dialog_title">Προσοχή</string>
     <string name="bt_absVolume_pre_title">Απόλυτη ένταση</string>
-    <string name="bt_absVolume_summary">Διατηρήστε την ένταση των συσκευών Bluetooth και του τηλεφώνου αυστηρά</string>
+    <string name="bt_absVolume_summary">"Διατηρήστε την ένταση των συσκευών Bluetooth και του τηλεφώνου αυστηρά σταθερή. Μπορείτε να ενεργ-απενεργοποιήσετε αυτήν τη δυνατότητα όταν τα μέσα δεν αναπαράγονται στο παρασκήνιο."</string>
     <string name="bt_dialog_remember_choice">Ενθύμηση επιλογής</string>
     <string name="bt_dialog_settings">Ρυθμίσεις</string>
     <string name="bt_hci_snoop_log">Ενεργοποίηση καταγραφής snoop Bluetooth HCI</string>
