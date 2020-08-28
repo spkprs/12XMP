@@ -335,6 +335,7 @@
     <string name="usage_device_limit_app_prolong_time2">Προσθήκη 40 λεπτών</string>
     <string name="usage_device_limit_app_prolong_time3">Προσθήκη 60 λεπτών</string>
     <string name="usage_device_limit_app_prolong_time4">Χωρίς περιορισμό σήμερα</string>
+    <string name="usage_device_limit_app_prolong_time5">Προσθήκη χρόνου μία φορά</string>
     <string name="usage_device_limit_notifation_summary_start">Θα φτάσετε το όριό σας σε %1$s</string>
     <string name="usage_device_limit_notifation_title">Χρόνος που απομένει σήμερα</string>
     <string name="usage_device_limit_time_over">Έχετε φτάσει στο σημερινό όριο (%1$s)</string>

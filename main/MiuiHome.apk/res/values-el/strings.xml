@@ -50,6 +50,9 @@
     <string name="add_custom_category">Προσαρμογή</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
     <string name="added_all_category">Προστέθηκαν επιτυχώς όλες οι εφαρμογές</string>
+    <string name="alexa_notification_add">Προσθήκη</string>
+    <string name="alexa_notification_cancel">Αργότερα</string>
+    <string name="alexa_notification_content">Προσθήκη συντόμευσης Alexa στο κέντρο ελέγχου;</string>
     <string name="all_app_category_all">Όλες</string>
     <string name="all_app_category_communication">Επικοινωνία</string>
     <string name="all_app_category_default">Κατηγορία</string>

@@ -30,6 +30,8 @@
   <string name="disconnecting_peripheral">Αποσύνδεση %1$s</string>
   <string name="failed_to_enable_bt">Δεν ήταν δυνατή η ενεργοποίηση του Bluetooth</string>
   <string name="nfcUserLabel">ΕΚΠ-NFC</string>
+  <string name="nfc_blocking_alert_message">Πατήστε για πώς να επιδιορθώσετε το πρόβλημα.</string>
+  <string name="nfc_blocking_alert_title">NFC μπορεί να αποκλειστεί</string>
   <string name="pair_no">Όχι</string>
   <string name="pair_yes">Ναι</string>
   <string name="pairing_peripheral">Σύζευξη %1$s</string>
