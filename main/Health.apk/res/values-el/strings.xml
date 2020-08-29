@@ -1221,7 +1221,7 @@
     <string name="tb_play_previous">Μετάβαση στην προηγούμενη εγγραφή</string>
     <string name="tb_range">Από %1$s έως %2$s</string>
     <string name="tb_resting_heart_rate_avg">Μέσος καρδιακός ρυθμός ανάπαυσης: %1$d. Κατάσταση: %2$s.</string>
-    <string name="tb_resting_heart_rate_avg2">Μέσος καρδιακός ρυθμός ανάπαυσης. Υψηλός: %1$δ. Χαμηλός: %2$d.</string>
+    <string name="tb_resting_heart_rate_avg2">Μέσος καρδιακός ρυθμός ανάπαυσης. Υψηλός: %1$d. Χαμηλός: %2$d.</string>
     <string name="tb_select_a_column">Επιλεγμένο %1$s</string>
     <string name="tb_show_sleep_info">Εμφάνιση στατιστικών ύπνου για %1$s</string>
     <string name="tb_sleep_evaluation">Εκτιμώμενο αποτέλεσμα: %1$s</string>
