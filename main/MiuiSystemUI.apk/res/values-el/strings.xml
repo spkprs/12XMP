@@ -681,6 +681,9 @@
   <string name="face_unlock_open_eye">Ανοίξτε τα μάτια σας λίγο πιο πολύ</string>
   <string name="face_unlock_passwork">Χρήση κωδικού</string>
   <string name="face_unlock_passwork_and_fingerprint">Χρήση κωδικού ή Δακτ. αποτυπώματος</string>
+  <string name="face_unlock_passwork_and_fingerprint_v11">Εισάγετε κωδικό ή χρήση δακτ. αποτύπωματος για ξεκλείδωμα</string>
+  <string name="face_unlock_pattern_and_fingerprint_v11">Σχεδιάστε μοτίβο ή χρήση δακτ. αποτύπωματος για ξεκλείδωμα</string>
+  <string name="face_unlock_pin_and_fingerprint_v11">Εισάγετε PIN ή χρήση δακτ. αποτύπωματος για ξεκλείδωμα</string>
   <string name="face_unlock_reveal_eye">Δείξτε τα μάτια σας</string>
   <string name="face_unlock_reveal_mouth">Δείξτε τα χείλη σας</string>
   <string name="failed_to_open_app_settings_toast">Αδύνατο άνοιγμα ρυθμίσεων για %1$s</string>
@@ -813,8 +816,11 @@
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Αδύνατη η εναλλαγή μεταξύ χώρων όταν είναι ενεργή η Υπέρ εξοικ/ση μπαταρίας</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Πρέπει να εισέλθετε στο Πρώτο προφίλ μετά την επανεκκίνηση της συσκευής σας</string>
   <string name="input_password_hint_text">Εισάγετε τον κωδικό</string>
+  <string name="input_password_hint_text_v11">Εισαγωγή κωδικού</string>
   <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
+  <string name="input_pattern_hint_text_v11">Σχεδίαση μοτίβου</string>
   <string name="input_pin_code">Εισάγετε το PIN</string>
+  <string name="input_pin_hint_text_v11">Εισαγωγή pin</string>
   <string name="input_puk_code">Εισάγετε το PUK</string>
   <string name="install_other_apps">Εγκατάσταση άγνωστων εφαρμογών</string>
   <string name="installer_cd_button_title">Εγκαταστήστε την εφαρμογή Android File Transfer για Mac</string>
@@ -1639,6 +1645,8 @@
   <string name="status_bar_airplane">Λειτουργία Πτήσης</string>
   <string name="status_bar_alarm">Αφύπνηση</string>
   <string name="status_bar_clear_all_button">Καθαρισμός</string>
+  <string name="status_bar_clock_date_weekday_format">dd MMMM, EEEE</string>
+  <string name="status_bar_clock_date_weekday_format_12">dd MMMM, EEEE</string>
   <string name="status_bar_ethernet">Ethernet</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Ρύθμιση μεθόδων εισαγωγής</string>
   <string name="status_bar_latest_events_title">Ειδοποιήσεις</string>
@@ -1982,6 +1990,8 @@
   <string name="wifi_status_no_internet">Δεν υπάρχει διαδίκτυο</string>
   <string name="wifi_status_sign_in_required">Απαιτείται σύνδεση</string>
   <string name="wifi_unmetered_label">Χωρίς μετρήσεις</string>
+  <string name="wifi_unsaved_network_linking">SSID Γεφύρωση - Αυτόματη σύνδεση</string>
+  <string name="wifi_unsaved_network_linking_summary">Ενεργοποίηση αυτόματων προσπαθειών σύνδεσης σε νέο SSID WPA/WPA2-PSK 5 GHz με τρέχουσες συνδεδεμένες WPA/WPA2-PSK 2 GHz πιστοποιήσεις SSID μερικώς ίδια SSID και BSSID</string>
   <string name="wifi_verbose_logging">Ενεργοποίηση λεπτομερής καταγραφής Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Αύξηση του επιπέδου καταγραφής Wi-Fi, εμφάνιση του RSSI για κάθε SSID στη λίστα των δικτύων Wi-Fi.</string>
   <string name="wifi_wapi_as_certificate">Πιστοποιητικό AS</string>
@@ -1991,6 +2001,8 @@
   <string name="wifi_wapi_fail_to_init">Δεν είναι δυνατό το άνοιγμα πιστοποιητικών WAPI.\nΦαίνεται ότι ο χώρος αποθήκευσης διαπιστευτηρίων δεν είναι ενεργοποιημένος.</string>
   <string name="wifi_wapi_psk_type">Τύπος κωδικού πρόσβασης</string>
   <string name="wifi_wapi_user_certificate">Πιστοποιητικό χρήστη</string>
+  <string name="wifi_whitelist_roaming">SSID Γεφύρωση - Γρήγορη παράδοση</string>
+  <string name="wifi_whitelist_roaming_summary">Ενεργοποίηση περιαγωγής μεταξύ διαφορετικών σημείων πρόσβασης WPA/WPA2-PSK SSID με ίδια διεύθυνση MAC πύλη</string>
   <string name="window_animation_scale_title">Κλίμακα κίνησης παραθύρων</string>
   <string name="wireless_change_to_ac_charging">Μετάβαση σε ενσύρματη φόρτιση</string>
   <string name="wireless_charge_current">Φόρτιση</string>
@@ -2027,10 +2039,4 @@
   <string name="zen_priority_introduction">Δεν θα ενοχληθείτε από ήχους και δονήσεις, εκτός από αφυπνήσεις, υπενθυμίσεις, γεγονότα, και τους καλούντες που καθορίσατε. Θα συνεχίσετε να ακούτε ήχους μουσικής, βίντεο, και παιχνιδιών.</string>
   <string name="zen_silence_introduction">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπνήσεων, της μουσικής, των βίντεο και των παιχνιδιών.</string>
   <string name="zen_silence_introduction_voice">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπμήσεων, της μουσικής, των βίντεο και των παιχνιδιών. Θα εξακολουθείτε να πραγματοποιείτε τηλεφωνικές κλήσεις.</string>
-  <string name="status_bar_clock_date_weekday_format">dd MMMM, EEEE</string>
-  <string name="status_bar_clock_date_weekday_format_12">dd MMMM, EEEE</string>
-    <string name="wifi_unsaved_network_linking">SSID Γεφύρωση - Αυτόματη σύνδεση</string>
-    <string name="wifi_unsaved_network_linking_summary">Ενεργοποίηση αυτόματων προσπαθειών σύνδεσης σε νέο SSID WPA/WPA2-PSK 5 GHz με τρέχουσες συνδεδεμένες WPA/WPA2-PSK 2 GHz πιστοποιήσεις SSID μερικώς ίδια SSID και BSSID</string>
-    <string name="wifi_whitelist_roaming">SSID Γεφύρωση - Γρήγορη παράδοση</string>
-    <string name="wifi_whitelist_roaming_summary">Ενεργοποίηση περιαγωγής μεταξύ διαφορετικών σημείων πρόσβασης WPA/WPA2-PSK SSID με ίδια διεύθυνση MAC πύλη</string>
 </resources>

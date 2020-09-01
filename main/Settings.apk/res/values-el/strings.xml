@@ -3749,6 +3749,7 @@
     <string name="miui_lab_install_drive_mode_title">Εγκατάσταση Λειτουργίας Αυτοκινήτου</string>
     <string name="miui_lab_settings">Εργαστήριο MIUI</string>
     <string name="miui_lab_slogan">Μαθαίνω. Εξερευνώ. Ανακαλύπτω.</string>
+    <string name="miui_master_clear_prompt_battery_low">"Δεν είναι δυνατή η εκτέλεση επαναφοράς εργοστασιακών ρυθμίσεων όταν έχει απομείνει λιγότερο από %1$s μπαταρίας. Φορτίστε τη συσκευή σας πριν συνεχίσετε."</string>
     <string name="miui_master_clear_summary">Διαγράφει όλα τα δεδομένα στο τηλέφωνο</string>
     <string name="miui_more_special_feature">Εξερευνήστε νέες λειτουργίες</string>
     <string name="miui_optimization_disabled">"Ανενεργή βελτιστοποίηση MIUI "</string>

@@ -185,6 +185,12 @@
     <string name="gb_advance_settings_vibration_4d_summary">Δόνηση κατά τη διάρκεια χτυπημάτων στο παιχνίδι</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Δόνηση κατά τη διάρκεια θανάτου στο παιχνίδι</string>
     <string name="gb_alipays_can_not_complete">Δεν είναι δυνατή η ολοκλήρωση της πληρωμής. Εγκαταστήστε για να συνεχίσετε.</string>
+    <string name="gb_dialog_game_speed_close">Απενεργοποίηση λειτουργίας ταχύτητας Φωτός...</string>
+    <string name="gb_dialog_game_speed_exist">Μπορείτε να χρησιμοποιήσετε μόνο ένα παιχνίδι σε λειτουργία ταχύτητας Φωτός. Αντικατάσταση του \"%s\" τώρα;</string>
+    <string name="gb_game_speed_closed">Η λειτουργία ταχύτητας Φωτός είναι ανενεργή</string>
+    <string name="gb_game_speed_closed_fail">"Δεν ήταν δυνατή η απενεργοποίηση της λειτουργίας ταχύτητας Φωτός"</string>
+    <string name="gb_game_speed_open">Η λειτουργία ταχύτητας Φωτός είναι ενεργή</string>
+    <string name="gb_game_speed_open_fail">"Δεν ήταν δυνατή η ενεργοποίηση της λειτουργίας ταχύτητας Φωτός"</string>
     <string name="gb_game_control">GPU ρυθμίσεις</string>
     <string name="gb_game_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="gb_gpu_control_anisotropic_filtering">Ανισοτροπικό φιλτράρισμα</string>

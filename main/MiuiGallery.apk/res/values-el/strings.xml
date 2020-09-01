@@ -272,6 +272,7 @@
     <string name="burst_preview_title">Λήψη ριπής</string>
     <string name="burst_save_all">Αποθήκευση Όλων</string>
     <string name="burst_save_choice_title" formatted="false">Επιλεγμένες %d από %d</string>
+    <string name="burst_save_dialog_title">Επιλέξτε τις φωτογραφίες που θα κρατήσετε</string>
     <string name="burst_save_error_msg">Αδυναμία αποθήκευσης</string>
     <string name="burst_save_processing">Επεξεργασία…</string>
     <string name="burst_save_video">Αποθήκευση ως βίντεο</string>
@@ -340,7 +341,7 @@
     <string name="choose_some_people">Επιλέξτε το άλμπουμ με %s</string>
     <string name="choose_video_compress_quality">Επιλογή ανάλυσης</string>
     <string name="chooser_fragment_mishare_title">Κοινή χρήση με</string>
-    <string name="cleaner_empty">Διαγραφή όλων</string>
+    <string name="cleaner_empty">Απαλοιφή όλων</string>
     <string name="cleaner_empty_value_description">Όλα φαίνονται εντάξει</string>
     <string name="cleaner_photo_pick_delete_selected">Διαγραφή επιλεγμένων φωτογραφιών</string>
     <string name="cleaner_raw_action">Προβολή λεπτομερειών</string>
@@ -776,6 +777,7 @@
     <string name="filter_movie_lost">Lost</string>
     <string name="filter_movie_nordic">Nordic</string>
     <string name="filter_movie_portrait">Εστίαση χρώματος</string>
+    <string name="filter_movie_quiet">Γαλήνη</string>
     <string name="filter_movie_rome">Rome</string>
     <string name="filter_movie_summer">Summer</string>
     <string name="filter_movie_travel">Travel</string>
@@ -793,13 +795,19 @@
     <string name="filter_people_sepia">Σέπια</string>
     <string name="filter_people_story">Ιστορία</string>
     <string name="filter_people_tea">Τσαγιού</string>
+    <string name="filter_popular_bluedream">Ιλιγγιώδης</string>
     <string name="filter_popular_humanity">Ντοκυμαντέρ</string>
     <string name="filter_popular_lnk">Μελάνι</string>
     <string name="filter_popular_purple">Μωβ</string>
+    <string name="filter_popular_shallow_summer">Ιούνιος</string>
+    <string name="filter_popular_smokegreen">Σοφός</string>
+    <string name="filter_popular_watergreen">Έμεραλντ</string>
     <string name="filter_portrait_greyish">Τέφρα</string>
     <string name="filter_portrait_hint">Εστίαση χρώματος</string>
     <string name="filter_portrait_mist">Ομίχλη</string>
+    <string name="filter_portrait_mojito">Μοχίτο</string>
     <string name="filter_portrait_painting">Χρωματισμός</string>
+    <string name="filter_portrait_waterblue">Γαλαζοπράσινο</string>
     <string name="filter_scene_city">Πόλη</string>
     <string name="filter_scene_df">Ομίχλη</string>
     <string name="filter_scene_koizora">Έρωτας</string>
@@ -1342,6 +1350,7 @@
     <string name="photo_movie_module_finish">Τα Κλίπ φορτώθηκαν επιτυχώς</string>
     <string name="photo_movie_module_loading">Φόρτωση Κλίπ…</string>
     <string name="photo_movie_select_image_range">Το Κλιπ μπορεί να περιέχει 3-20 φωτογραφίες</string>
+    <string name="photo_page_rotate_screen">Περιστροφή οθόνης</string>
     <string name="photo_page_save_uri_image_fail">Αποτυχία αποθήκευσης.</string>
     <string name="photo_page_save_uri_image_ok">Αποθήκευση φωτογραφίας στον φάκελο της κάμερας.</string>
     <string name="photo_portrait_color_download_fail">Δεν ήταν δυνατή η λήψη της προσθήκης. Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά.</string>
@@ -1793,8 +1802,9 @@
     <string name="thursday_shortest">Thu</string>
     <string name="time_burst_photo_enter">Χρονομετρημένη λήψη ριπής</string>
     <string name="time_burst_preview_title">Χρονομετρημένη λήψη ριπής</string>
-    <string name="time_burst_save_all">Αποθήκευση όλων των φωτογραφιών</string>
-    <string name="time_burst_save_select">Αποθήκευση επιλεγμένων φωτογραφιών</string>
+    <string name="time_burst_save_all">Εξαγωγή όλων των φωτο.</string>
+    <string name="time_burst_save_dialog_title">Εξαγωγή στοιχείων</string>
+    <string name="time_burst_save_select">Εξαγωγή επιλεγμένων φωτο.</string>
     <string name="time_burst_save_video">Αποθήκευση ως βίντεο</string>
     <string name="time_picker_dialog_title">Set time</string>
     <string name="time_picker_label_hour">H</string>

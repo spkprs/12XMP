@@ -363,7 +363,7 @@
     <string name="passport_error_verify_activator_phone_title">Δεν ήταν δυνατή η επαλήθευση του αριθμού τηλεφώνου</string>
     <string name="passport_failed_to_send_activate_email">Αδυναμία αποστολής email ενεργοποίησης</string>
     <string name="passport_find_password_on_web_msg">Επισκεφθείτε το account.mi.com για επαναφορά του κωδικού σας.</string>
-    <string name="passport_first_login_prompt">Ο λογαριασμός Mi θα δημιουργηθεί αυτόματα κατά την είσοδο την πρώτη φορά.</string>
+    <string name="passport_first_login_prompt">Ο λογαριασμός Mi θα δημιουργηθεί αυτόματα όταν χρησιμοποιείτε έναν αριθμό τηλεφώνου για πρώτη φορά.</string>
     <string name="passport_forget_password">Ξέχασα τον κωδικό</string>
     <string name="passport_forget_password_no_underline">Ξέχασα τον κωδικό</string>
     <string name="passport_get_back_pwd">Ανάκτηση κωδικού πρόσβασης</string>
