@@ -616,12 +616,20 @@
   <string name="sns_bind_limit">Πάρα πολλές προσπάθειες. Δοκιμάστε άλλους τρόπους για να συνδεθείτε.</string>
   <string name="sns_sign_in">Άλλοι τρόποι σύνδεσης</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="stop_full_log_dialog_cancel">Όχι τώρα</string>
+  <string name="stop_full_log_dialog_confirm">Μεταφόρτωση</string>
+  <string name="stop_full_log_dialog_content">Φαίνεται ότι αρχεία καταγραφής δημιουργούνται τώρα. Να σταματήσει η δημιουργία τους και να αποσταλούν όσα είναι έτοιμα;</string>
+  <string name="stop_full_log_dialog_title">Δημιουργία αρχείων καταγραφής…</string>
   <string name="submit_dialog_cancel">Δεν Συμφωνώ</string>
   <string name="submit_dialog_confirm">Συμφωνώ</string>
   <string name="submit_dialog_content"><Data>"Πρέπει να συμφωνήσετε με την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία χρήστη&lt;/a> για να μπορείτε να χρησιμοποιήσετε τα Σχόλια. Τα ζητήματα που αναφέρετε μαζί με τα στοιχεία που επισυνάπτετε (ενδέχεται να περιέχουν προσωπικά στοιχεία, καθώς και πληροφορίες σχετικά με τη συσκευή και το δίκτυό σας) θα μεταφορτωθούν στους διακομιστές του MIUI. Αυτό θα μας βοηθήσει να εντοπίσουμε και να λύσουμε τα προβλήματα που αναφέρετε. "</Data></string>
   <string name="submit_dialog_content_global"><Data>"Τα σχόλιά σας, μαζί με συνημμένα (αν υπάρχουν) και αρχεία καταγραφής (μπορείτε να αποεπιλέξετε τα αντίστοιχα πλαίσια για τα στοιχεία που δεν θέλετε να ανεβάσετε) θα σταλούν στους διακομιστές του MIUI. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και τα δεδομένα τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a>."</Data></string>
   <string name="submit_dialog_title">Αποστολή αναφοράς στην Xiaomi</string>
   <string name="submit_feedback_info_failed">Αδυναμία αποστολής αναφοράς</string>
+  <string name="suggest_upload_log_dialog_cancel">Όχι ευχαριστώ</string>
+  <string name="suggest_upload_log_dialog_confirm">Μεταφόρτωση</string>
+  <string name="suggest_upload_log_dialog_content">"Για να βοηθήσετε τους μηχανικούς μας να εντοπίσουν και να επιλύσουν το πρόβλημα που αντιμετωπίσατε το συντομότερο δυνατό, συνιστούμε να αποστείλετε τα σχετικά αρχεία καταγραφής. Χρησιμοποιούνται μόνο για την ανάλυση προβλημάτων και δεν θα χρησιμοποιηθούν για άλλους σκοπούς."</string>
+  <string name="suggest_upload_log_dialog_title">Αποστολή σχετικών αρχείων</string>
   <string name="suggestion_description">Γράψτε εδώ τις προτάσεις σας (στα Αγγλικά) πχ I hope you\'ll add X feature, because…</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="system_app_select">Ενσωματωμένες εφαρμογές</string>
@@ -647,7 +655,7 @@
   <string name="toast_app_tag_required">Επιλέξτε το ζήτημα πρώτα</string>
   <string name="toast_catch_full_log_catching">Μπορείτε να δημιουργήσετε μόνο ένα Log τη φορά.</string>
   <string name="toast_catch_full_log_open_failed">Δεν ήταν δυνατή η εκκίνηση του αρχείου καταγραφής εγγραφής.</string>
-  <string name="toast_description_required">Απαιτείται περιγραφή</string>
+  <string name="toast_description_required">Περιγράψτε το θέμα πρώτα</string>
   <string name="toast_feedback_collect_store">Συλλογή αρχείων καταγραφής…</string>
   <string name="toast_feedback_network_unavailable">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
   <string name="toast_feedback_pending_wlan">Το σχόλιό σας θα αποσταλεί όταν συνδεθείτε σε ασύρματο δίκτυο</string>
@@ -657,6 +665,7 @@
   <string name="toast_fill_brackets">Παρακαλώ συμπληρώστε μέσα στις παρενθέσεις</string>
   <string name="toast_log_not_exists">Το απαιτούμενο αρχείο καταγραφής διαγράφηκε ή δεν υπάρχει</string>
   <string name="toast_log_too_large">Αδυναμία μεταφόρτωσης. Το αρχείο log είναι πολύ μεγάλο.</string>
+  <string name="toast_min_description_count">Η περιγραφή σας πρέπει να είναι μεγαλύτερη</string>
   <string name="toast_module_required">Επιλέξτε στοιχείο</string>
   <string name="toast_network_unavailable">Αδυναμία αποστολής. Δεν είναι δυνατή η σύνδεση με το δίκτυο.</string>
   <string name="toast_pending_log_collection">Συλλογή αρχείων καταγραφής…</string>

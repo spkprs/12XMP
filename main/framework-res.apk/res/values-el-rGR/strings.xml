@@ -249,9 +249,9 @@
   <string name="date_time_set">Ορισμός</string>
   <string name="day">ημέρα</string>
   <string name="days">ημέρες</string>
-  <string name="db_default_journal_mode">Περικοπή</string>
-  <string name="db_default_sync_mode">Πλήρη</string>
-  <string name="db_wal_sync_mode">Κανονική</string>
+  <string name="db_default_journal_mode">ΕΠΙΜΟΝΗ</string>
+  <string name="db_default_sync_mode">ΠΛΗΡΗ</string>
+  <string name="db_wal_sync_mode">ΚΑΝΟΝΙΚΗ</string>
   <string name="decline">Απόρριψη</string>
   <string name="decline_remote_bugreport_action">ΑΠΟΡΡΙΨΗ</string>
   <string name="default_audio_route_category_name">Σύστημα</string>

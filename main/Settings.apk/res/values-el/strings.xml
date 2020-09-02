@@ -3542,9 +3542,9 @@
     <string name="long_press_home_key">Παρατεταμένα το πλήκτρο Home</string>
     <string name="long_press_menu_key">Παρατεταμένα το πλήκτρο Menu</string>
     <string name="long_press_menu_key_when_lock">Παρατεταμένα το Menu στην οθόνη κλειδώματος</string>
-    <string name="long_press_power_key">Πατήστε παρατεταμένα το κουμπί λειτουργίας</string>
-    <string name="long_press_power_key_half_of_second">Παρατ το πλήκτ Power 0,5δ για ενεργ Βοηθoύ Google</string>
-    <string name="long_press_power_key_half_second">Κρατήστε πατημένο το κουμπί Λειτουργίας για 0,5 δευτ.</string>
+    <string name="long_press_power_key">Παρατεταμένα το κουμπί λειτουργίας</string>
+    <string name="long_press_power_key_half_of_second">Παρατ. το Power 0,5δ για ενεργ Βοηθoύ Google</string>
+    <string name="long_press_power_key_half_second">Παρατεταμένα το κουμπί Λειτουργίας για %sδευτ.</string>
     <string name="long_press_power_key_tips"><Data>Παρατεταμένα το Power &lt;font color=#999999>Ταχύτερη και πιο βολική&lt;/font></Data></string>
     <string name="long_press_volume_down">Παρατεταμένα το πλήκτρο μείωσης έντασης</string>
     <string name="lost_internet_access_cancel">Παραμονή σε Wi‑Fi</string>
