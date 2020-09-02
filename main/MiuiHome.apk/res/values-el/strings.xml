@@ -220,6 +220,11 @@
     <string name="delete_screen">Διαγραφή οθόνης</string>
     <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
     <string name="deselect_all">Αποεπιλογή όλων</string>
+    <string name="dialog_work_profile_button_1">Επόμενο</string>
+    <string name="dialog_work_profile_button_2">Κατανοητό</string>
+    <string name="dialog_work_profile_content_1">Τα προσωπικά δεδομένα είναι ξεχωριστά &amp; αποκρύπτονται από τις εφαρμογές εργασίας</string>
+    <string name="dialog_work_profile_content_2">Εφαρμογές &amp; δεδομένα εργασίας είναι ορατά στο διαχειριστή IT</string>
+    <string name="dialog_work_profile_title">Προφίλ εργασίας</string>
     <string name="disable_wallpaper_scroll">Απενεργοποίηση κύλισης ταπετσαρίας</string>
     <string name="double_tap_to_lock_title">Πατήστε δύο φορές για κλείδωμα της οθόνης</string>
     <string name="download_action">Λήψη</string>

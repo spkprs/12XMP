@@ -536,11 +536,11 @@
     <string name="usagestats_app_category_miui_life">Τρόπος ζωής</string>
     <string name="usagestats_app_category_miui_medicine">Υγεία</string>
     <string name="usagestats_app_category_miui_news">Ειδήσεις</string>
-    <string name="usagestats_app_category_miui_photo">Φωτο &amp; Βίντεο</string>
+    <string name="usagestats_app_category_miui_photo">Φωτο/Βίντεο</string>
     <string name="usagestats_app_category_miui_productivity">Παραγωγικότητα</string>
     <string name="usagestats_app_category_miui_reading">Ανάγνωση</string>
     <string name="usagestats_app_category_miui_shopping">Αγορές</string>
-    <string name="usagestats_app_category_miui_social">Κοινωνικά δίκτυα</string>
+    <string name="usagestats_app_category_miui_social">Κοιν. δίκτυα</string>
     <string name="usagestats_app_category_miui_sport">Σπόρ &amp; Γυμναστική</string>
     <string name="usagestats_app_category_miui_system">Εφαρμογές συστήματος</string>
     <string name="usagestats_app_category_miui_tools">Εργαλεία</string>

@@ -369,7 +369,8 @@
     <string name="app_express_send">στείλτε με courier.</string>
     <string name="app_express_tail_number">Αριθμός τερματισμού Waybill：%1$s</string>
     <string name="app_footer_switcher">Μετάβαση στην παλιά έκδοση</string>
-    <string name="app_health_card_completion">Βαθμός ολοκλήρωσης</string>
+    <string name="app_health_card_completion">Ολοκλήρωση</string>
+    <string name="app_health_card_energy">Cal</string>
     <string name="app_health_card_step">Σημερινά βήματα</string>
     <string name="app_label">Προσωπικός βοηθός</string>
     <string name="app_memory_free">Διαθέσιμα</string>
@@ -449,6 +450,9 @@
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">εξουσιοδοτήστε την υπηρεσία για να ενεργοποιηθεί.</string>
     <string name="app_screen_time_support_false">αυτή η υπηρεσία δεν υποστηρίζεται αυτήν τη στιγμή.</string>
+    <string name="app_screen_time_no_time_title">&lt;1λ</string>
+    <string name="app_screen_time_time">%1$dω-%2$dλ</string>
+    <string name="app_screen_time_time_minute">%1$dλ</string>
     <string name="app_screen_time_title">Χρή. Οθόνης</string>
     <string name="app_setting">Ρυθμίσεις Προσωπικού βοηθού</string>
     <string name="app_setting_account">Λογαριασμοί</string>
@@ -543,7 +547,7 @@
     <string name="arr_time">Ώρα άφιξης</string>
     <string name="arrive">Άφιξη</string>
     <string name="assistant_day_deadline">Τελευταία μέρα</string>
-    <string name="assistant_day_suffix">后</string>
+    <string name="assistant_day_suffix">Μετά</string>
     <string name="assistant_format_MMdd">MM/dd</string>
     <string name="assistant_place">Αναγνωρίστε συχνές θέσεις</string>
     <string name="assistant_summary">Λάβετε χρήσιμες προτάσεις σωστά όταν τις χρειάζεστε</string>
@@ -1427,6 +1431,7 @@
     <string name="map_install_tip">Εγκαταστήστε τους χάρτες Gaode ή Baidu για να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
     <string name="map_loading_desc">Δεν ήταν δυνατή η φόρτωση πληροφοριών, δοκιμάστε ξανά.</string>
     <string name="map_msg_smooth">η τρέχουσα διαδρομή είναι ανοιχτή στο σύνολό της.</string>
+    <string name="map_msg_sufix">，Λεπτομέρειες.</string>
     <string name="map_office_didi">Πάω στη δουλειά</string>
     <string name="map_office_way">Διαδρομή προς το γραφείο</string>
     <string name="map_subway_card">Κάρτα μεταφοράς</string>
@@ -2133,7 +2138,7 @@
     <string name="taxi_open">Εμφάνιση κάρτας ταξί</string>
     <string name="taxi_setting_brief">Πάρτε ένα ταξί σε μια μόνο κούρσα.</string>
     <string name="taxi_target">Προορισμός</string>
-    <string name="team_selected">%s,已选中</string>
+    <string name="team_selected">%s, επιλεγμένα</string>
     <string name="temp_support_xiaomi">μόνο βραχιόλια κεχρί υποστηρίζονται προς το παρόν.</string>
     <string name="template_args_invalid">πλαίσιο παραμέτρους παράνομη</string>
     <string name="template_bussiness_data_error">η πλευρά υπηρεσίας επιστρέφει μια εξαίρεση επίλυσης δεδομένων που δεν είναι δυνατό να παρουσιάσει τη διασύνδεση.</string>
