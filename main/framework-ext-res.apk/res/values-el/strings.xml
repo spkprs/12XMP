@@ -293,6 +293,10 @@
   <string name="translation_more">Περισσότερα</string>
   <string name="translation_query_error">Δεν βρέθηκαν αποτελέσματα</string>
   <string name="translation_query_error_network">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις και προσπαθήστε ξανά</string>
+  <string name="trial_mode_dialog_button_cancel">Ακύρωση</string>
+  <string name="trial_mode_dialog_button_save">Αποθήκευση</string>
+  <string name="trial_mode_dialog_message">\"%s\" εκτελείται σε Δοκιμαστική λειτουργία. Η επανεκκίνηση της συσκευής σας ή η μετάβαση σε λειτουργία Light speed θα διαγράψει αυτό το παιχνίδι. Αποθήκευση του παιχνιδιού στην εσωτερική αποθήκευση;</string>
+  <string name="trial_mode_dialog_title">Δοκιμαστική λειτουργία</string>
   <string name="turn_off">Απενεργοποίηση</string>
   <string name="twohours">1 ώρα</string>
   <string name="unknown_caller">Άγνωστος αριθμός</string>

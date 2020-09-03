@@ -253,4 +253,15 @@
     <string name="home_settings_miui_home">Κλασικό</string>
     <string name="home_settings_poco_launcher">Συρτάρι εφαρμογών</string>
     <string name="home_settings_title">Επιλογή προεπιλεγμένου εκκινητή</string>
+    <string name="wc_dialog_agree">Συμφωνώ</string>
+    <string name="wc_dialog_reject">"Δεν συμφωνώ"</string>
+    <string name="wc_dialog_summary">Το Carousel ταπετσαρίας προσφέρει εντυπωσιακές εικόνες και συναρπαστικές ιστορίες που παραδίδονται καθημερινά στην οθόνη κλειδώματος.</string>
+    <string name="wc_dialog_title">Επανασχεδιασμένη οθόνη κλειδώματος</string>
+    <string name="wc_double_check_agree">Δοκιμάστε</string>
+    <string name="wc_double_check_reject">Όχι, ευχαριστώ</string>
+    <string name="wc_double_check_summary">Μπορείτε να ενεργοποιήσετε το Carousel ταπετσαρίας για να δείτε αν λειτουργεί για εσάς. Να θυμάστε ότι μπορείτε πάντα να ενεργοποιήσετε και να απενεργοποιήσετε το Carousel ταπετσαρίας στις Ρυθμίσεις > Κλείδωμα οθόνης.</string>
+    <string name="wc_double_check_title">Δοκιμάστε το Carousel ταπετσαρίας</string>
+    <string name="wc_notice_link_agreement_index">Συμφωνία χρήστη</string>
+    <string name="wc_notice_link_privacy_index">Πολιτική απορρήτου</string>
+    <string name="wc_notice_link_summary">"Ανάγνωση και αποδοχή των %1$s και %2$s υπηρεσιών παροχής τρίτων μερών"</string>
 </resources>
