@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string-array name="account_sync_frequency">
+         <item>Μη αυτόματα</item>
+         <item>Κάθε 15 λεπτά</item>
+         <item>Κάθε ώρα</item>
+         <item>Κάθε 4 ώρες</item>
+         <item>Κάθε 12 ώρες</item>
+     </string-array>
      <string-array name="change_response_labels">
         <item>Μόνο αυτό το γεγονός</item>
         <item>Όλα τα γεγονότα στη σειρά</item>

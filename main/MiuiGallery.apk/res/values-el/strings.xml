@@ -450,16 +450,16 @@
     <string name="confirm_download_video_title">Λήψη βίντεο</string>
     <string name="confirm_face">Ταυτοποίηση</string>
     <string name="confirm_hidden_recommend_group">OK</string>
-    <string name="confirm_hidden_recommend_group_message">Όταν οι προτάσεις είναι απενεργοποιημένες, μπορείτε ακόμα να χρησιμοποιήσετε την επιλογή &amp;quot;Περισσότεροι άνθρωποι που μοιάζουν&amp;quot;</string>
+    <string name="confirm_hidden_recommend_group_message">Όταν οι προτάσεις είναι απενεργοποιημένες, μπορείτε ακόμα να χρησιμοποιήσετε την επιλογή \"Περισσότεροι άνθρωποι που μοιάζουν\";</string>
     <string name="confirm_hidden_recommend_group_title">Να μην εμφανίζονται συστάσεις</string>
     <string name="confirm_hide_selected_albums">Απόκρυψη επιλεγμένων άλμπουμ;</string>
-    <string name="confirm_merge_face_albums">\" Συγχώνευση αυτού του άλμπουμ με %s? \"</string>
-    <string name="confirm_merge_many_face_albums">\" Συγχώνευση αυτών των άλμπουμ με %s; \"</string>
-    <string name="confirm_not_face">Δεν είναι αυτό το άτομο</string>
-    <string name="confirm_recommandation_face_is">\" Είστε σίγουροι ότι είναι αυτό \"%1$s; Αυτό \"το πρόσωπο θα μεταφερθεί στο \"%2$s\" άλμπουμ μετά την επιβεβαίωση. \"</string>
-    <string name="confirm_recommandation_face_not">\"\" Σίγουρα αυτό δεν είναι&lt;b&gt;&lt;font color=\"#323232\"&gt;\"%1$s? \"\" \"</string>
-    <string name="confirm_recommandation_multiple_faces_are">\" Είστε σίγουροι ότι είναι αυτοί \"%1$s; Αυτά \"τα πρόσωπα θα μεταφερθούν στο \"%2$s\" άλμπουμ μετά την επιβεβαίωση. \"</string>
-    <string name="confirm_recommandation_multiple_faces_not">\"\" Σίγουρα δεν είναι&lt;b&gt;&lt;font color=\"#323232\"&gt;\"%1$s? \"\" \"</string>
+    <string name="confirm_merge_face_albums">" "<Data> Συγχώνευση αυτού του άλμπουμ με %s?  </Data>" "</string>
+    <string name="confirm_merge_many_face_albums">" "<Data> Συγχώνευση αυτών των άλμπουμ με %s;  </Data>" "</string>
+    <string name="confirm_not_face">Δεν ταιριάζει</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Είστε σίγουροι ότι είναι αυτό &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Αυτό το πρόσωπο θα μεταφερθεί στο \"%2$s\" άλμπουμ.  </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Σίγουρα αυτό δεν είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>?  </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data>Είστε σίγουροι ότι είναι αυτοί &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Αυτά τα πρόσωπα θα μεταφερθούν στο \"%2$s\" άλμπουμ.  </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Σίγουρα δεν είναι &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? "</Data>" "</string>
     <string name="contact_tip">Επαφές</string>
     <string name="context_menu_add_contact">Προσθήκη στις επαφές</string>
     <string name="context_menu_copy">Αντιγραφή</string>
@@ -2115,7 +2115,7 @@
     <string name="vlog_reverse_dialog_msg">Αντιστροφή αναπαραγωγή…</string>
     <string name="vlog_reverse_fail">Δεν ήταν δυνατή η αντιστροφή</string>
     <string name="vlog_save_failed">Δεν ήταν δυνατή η αποθήκευση του βίντεο</string>
-    <string name="vlog_save_stop_tips">\"Πατήστε ξανά για ακύρωση της αποθήκευσης</string>
+    <string name="vlog_save_stop_tips">Πατήστε ξανά για ακύρωση της αποθήκευσης</string>
     <string name="vlog_saving">Εξαγωγή βίντεο…</string>
     <string name="vlog_support_max_duration">Ένα έργο μπορεί να διαρκεί έως %1$d ώρες</string>
     <string name="vlog_support_max_number">Μπορείτε να προσθέσετε έως και %1$d βίντεο σε ένα έργο</string>
