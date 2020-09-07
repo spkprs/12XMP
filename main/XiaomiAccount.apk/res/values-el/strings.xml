@@ -48,7 +48,7 @@
     <string name="account_has_been_set">Αλλαγή</string>
     <string name="account_invalid_user_avatar">Αυτή η φωτογραφία είναι άκυρη. Δοκιμάστε μια διαφορετική</string>
     <string name="account_limit_update_birthday">Αδυναμία ενημέρωσης των γενεθλίων τώρα</string>
-    <string name="account_mibi_center">Mi Κάρτες</string>
+    <string name="account_mibi_center">Mi Coins</string>
     <string name="account_mibi_charge">Χρέωση Mi Καρτών</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_no_set">Κανένα</string>
@@ -603,7 +603,7 @@
     <string name="update_email_address_dialog_title">Ενημέρωση Email</string>
     <string name="update_phone_notice">Αλλαγή ρυθμίσεων ασφαλείας</string>
     <string name="update_phone_number_notice_message">Θα πρέπει να επαληθεύσετε την ταυτότητά σας πριν ενημερώσετε τον αριθμό τηλεφώνου σας.</string>
-    <string name="used_cloud_storage_info">%s σε χρήση</string>
+    <string name="used_cloud_storage_info">Σε χρήση %s</string>
     <string name="user_avatar_update_title">Αλλαγή εικόνας προφίλ</string>
     <string name="user_avatar_uploading">Περιμένετε…</string>
     <string name="v7_preference_off">OFF</string>

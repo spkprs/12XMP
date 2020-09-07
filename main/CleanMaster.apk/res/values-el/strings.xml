@@ -462,6 +462,7 @@
     <string name="hot_today">Δημοφιλή σήμερα</string>
     <string name="information_setting">Συστάσεις</string>
     <string name="install_sucess">Εγκαταστήθηκε %s με επιτυχία</string>
+    <string name="install_time_format">dd/MM/yyyy</string>
     <string name="installed">Εγκαταστήθηκε</string>
     <string name="installing">Εγκατάσταση</string>
     <string name="item_title_process_mode">Επιλέξτε μια ενέργεια</string>
@@ -634,6 +635,10 @@
     <string name="optimizecenter_data_support_cm">Υποστηρίζεται από την Clean Master</string>
     <string name="optimizecenter_data_support_tc">Υποστηρίζεται από την Tencent</string>
     <string name="output_videos">Εξαγωγή βίντεο</string>
+    <string name="permission_dialog_storage_btn1">Ρυθμίσεις</string>
+    <string name="permission_dialog_storage_btn2">Ακύρωση</string>
+    <string name="permission_dialog_storage_content">Ο \"Εκκαθαριστής\" χρειάζεται άδεια πρόσβασης στον εσωτερικό χώρο αποθήκευσης για να μπορεί να λειτουργεί κανονικά.  Πατήστε \"Ρυθμίσεις \" για να διαχειριστείτε τα δικαιώματα αποθήκευσης.</string>
+    <string name="permission_dialog_storage_title">Απαιτούνται δικαιώματα</string>
     <string name="petabyteShort">PB</string>
     <string name="positive_confirm">Εντάξει</string>
     <string name="pref_about_privacy_title">Πολιτική Απορρήτου</string>

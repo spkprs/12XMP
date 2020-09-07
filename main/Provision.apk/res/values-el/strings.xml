@@ -261,7 +261,7 @@
     <string name="wc_double_check_title">Δοκιμάστε το Carousel ταπετσαρίας</string>
     <string name="wc_notice_link_agreement_index">Συμφωνία χρήστη</string>
     <string name="wc_notice_link_privacy_index">Πολιτική απορρήτου</string>
-    <string name="wc_notice_link_summary">"Ανάγνωση και αποδοχή των %1$s και %2$s υπηρεσιών παροχής τρίτων μερών"</string>
+    <string name="wc_notice_link_summary">"Διαβάστε και αποδεχτείτε τις %1$s και %2$s υπηρεσίες παροχής περιεχομένου τρίτου μέρους πριν χρησιμοποιήσετε αυτήν τη λειτουργία."</string>
     <string name="welcome">Καλωσορίσατε!</string>
     <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
 </resources>

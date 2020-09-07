@@ -118,8 +118,8 @@
   <string name="input_method_clipboard_clear_all_phrase_title">Εκκαθάριση προχείρου</string>
   <string name="input_method_clipboard_copy_success">Αντιγράφηκε με επιτυχία</string>
   <string name="input_method_clipboard_delete_success">Διαγράφηκε με επιτυχία</string>
-  <string name="input_method_clipboard_move_cursor_guide1">Πατήστε παρατετεμένα την μπλέ περιοχή για να μετακινήσετε το δρομέα ~</string>
-  <string name="input_method_clipboard_move_cursor_guide2">Μετακινήστε το δάχτυλό σας οριζόντια ~</string>
+  <string name="input_method_clipboard_move_cursor_guide1">Πατήστε παρατετεμένα την μπλέ περιοχή για να μετακινήσετε το δρομέα</string>
+  <string name="input_method_clipboard_move_cursor_guide2">Μετακινήστε το δάχτυλό σας οριζόντια</string>
   <string name="input_method_clipboard_participle">Διαχωρισμός λέξεων</string>
   <string name="input_method_clipboard_settings_button">Ρυθμίσεις</string>
   <string name="input_method_clipboard_tips">Τα αντιγραμμένα στοιχεία θα διαγραφούν από το πρόχειρο μετά από 48 ώρες</string>

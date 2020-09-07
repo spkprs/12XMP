@@ -18,6 +18,11 @@
         <item>Μέγεθος</item>
         <item>Όνομα</item>
      </string-array>
+     <string-array name="uninstalled_app_sort_type">
+        <item>Μέγεθος</item>
+        <item>Συχνή χρήση</item>
+        <item>Ώρα εγκατ/σης</item>
+     </string-array>
      <string-array name="wechat_sort">
         <item>Ημέρα</item>
         <item>Μέγεθος</item>
