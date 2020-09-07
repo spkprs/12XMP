@@ -220,11 +220,6 @@
     <string name="delete_screen">Διαγραφή οθόνης</string>
     <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
     <string name="deselect_all">Αποεπιλογή όλων</string>
-    <string name="dialog_work_profile_button_1">Επόμενο</string>
-    <string name="dialog_work_profile_button_2">Κατανοητό</string>
-    <string name="dialog_work_profile_content_1">Τα προσωπικά δεδομένα είναι ξεχωριστά &amp; αποκρύπτονται από τις εφαρμογές εργασίας</string>
-    <string name="dialog_work_profile_content_2">Εφαρμογές &amp; δεδομένα εργασίας είναι ορατά στο διαχειριστή IT</string>
-    <string name="dialog_work_profile_title">Προφίλ εργασίας</string>
     <string name="disable_wallpaper_scroll">Απενεργοποίηση κύλισης ταπετσαρίας</string>
     <string name="double_tap_to_lock_title">Πατήστε δύο φορές για κλείδωμα της οθόνης</string>
     <string name="download_action">Λήψη</string>
@@ -629,6 +624,11 @@
     <string name="widgets_preview_title">Προσθήκη Γραφικού στοιχείου</string>
     <string name="work_mode_off_label">"Οι ειδοποιήσεις είναι ανενεργές και οι εφαρμογές δεν είναι διαθέσιμες αυτήν τη στιγμή"</string>
     <string name="work_mode_on_label">Διαχείριση από τον οργανισμό σας</string>
+    <string name="work_profile_first_content">Τα προσωπικά δεδομένα διαχωρίζονται &amp; αποκρύπτονται από τις εφαρμογές εργασίας</string>
+    <string name="work_profile_got_button">Κατανοητό</string>
+    <string name="work_profile_next_button">Επόμενο</string>
+    <string name="work_profile_second_content">Οι εφαρμογές &amp; τα δεδομένα εργασίας είναι ορατά στο διαχειριστή IT σας</string>
+    <string name="work_profile_title">Προφίλ εργασίας</string>
     <string name="work_profile_toggle_label">Προφίλ Εργασίας</string>
 </resources>
 
