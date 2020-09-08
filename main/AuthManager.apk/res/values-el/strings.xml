@@ -53,6 +53,8 @@
     <string name="HIPS_Perm_Read_MMS_Desc">να διαβάσει τα μηνύματα MMS</string>
     <string name="HIPS_Perm_Read_SMS">Ανάγνωση μηνυμάτων SMS</string>
     <string name="HIPS_Perm_Read_SMS_Desc">να διαβάσει τα μηνύματα SMS</string>
+    <string name="HIPS_Perm_recognition">Πρόσβαση στις πληροφορίες δραστηριότητας</string>
+    <string name="HIPS_Perm_recognition_Desc">Επιτρέψτε στην εφαρμογή την πρόσβαση στις πληροφορίες δραστηριότητας</string>
     <string name="HIPS_Perm_SendMMS">Αποστολή μηνυμάτων MMS</string>
     <string name="HIPS_Perm_SendMMS_Desc">να στέλνει απευθείας μηνύματα MMS</string>
     <string name="HIPS_Perm_SendSMS">Αποστολή μηνυμάτων SMS</string>

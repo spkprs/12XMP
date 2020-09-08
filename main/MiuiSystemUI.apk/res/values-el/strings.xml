@@ -820,7 +820,7 @@
   <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
   <string name="input_pattern_hint_text_v11">Σχεδίαση μοτίβου</string>
   <string name="input_pin_code">Εισάγετε το PIN</string>
-  <string name="input_pin_hint_text_v11">Εισαγωγή pin</string>
+  <string name="input_pin_hint_text_v11">Εισαγωγή PIN</string>
   <string name="input_puk_code">Εισάγετε το PUK</string>
   <string name="install_other_apps">Εγκατάσταση άγνωστων εφαρμογών</string>
   <string name="installer_cd_button_title">Εγκαταστήστε την εφαρμογή Android File Transfer για Mac</string>
@@ -1087,7 +1087,7 @@
   <string name="miui_ringer_standard_description">Σίγαση ήχων κλήσης για εισερχόμενες και ειδοποιήσεις</string>
   <string name="miui_ringer_total">Μην Ενοχλείτε</string>
   <string name="miui_ringer_total_description">Σίγαση ήχων και απενεργοποίηση δόνησης εκτός από την Αφύπνιση</string>
-  <string name="miui_screen_rotation_freeze_message">Ανενεργή Αυτ. Περιστροφή.</string>
+  <string name="miui_screen_rotation_freeze_message">Κλείδωμα περιστροφής οθόνης σε οριζόντια λειτουργία</string>
   <string name="miui_toast_zen_dnd_to_off">Ανενεργό Μην Ενοχλείτε. Ήχοι και Δόνηση επανήλθαν κανονικά</string>
   <string name="miui_toast_zen_standard_to_off">Ανενεργή Αθόρυβη λειτουργία. Οι ήχοι επανήλθαν κανονικά.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Ανενεργή Αθόρυβη λειτουργία. Οι ήχοι κλήσης, καθώς οι ειδοποιήσεις και πολυμέσα, θα αναπαράγονται.</string>

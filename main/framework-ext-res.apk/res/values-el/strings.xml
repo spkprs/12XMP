@@ -210,7 +210,7 @@
   <string name="screen_on_proximity_sensor_summary">Μην καλύπτετε την περιοχή αισθητήρων</string>
   <string name="screen_on_proximity_sensor_title">Λειτουργία Θήκης</string>
   <string name="screen_paper_mode_enter_toast">Λειτουργία ανάγνωσης ενεργή. Μπορείτε να ενεργ-απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Πρόσθετες ρυθμίσεις > Λειτουργία Ανάγνωσης.</string>
-  <string name="screen_rotation_freeze_message">Η αυτόματη περιστροφή απενεργοποιήθηκε</string>
+  <string name="screen_rotation_freeze_message">Κλείδωμα Περιστροφής οθόνης σε οριζόντια λειτουργία</string>
   <string name="screenshot_gesture_detect_alert_button">Ενεργοποίηση ρυθμίσεων</string>
   <string name="screenshot_gesture_detect_alert_dont_again">Να μην εμφανιστεί ξανά</string>
   <string name="screenshot_gesture_detect_alert_msg">Λήψη στιγμιότυπου με σύρσιμο προς τα κάτω τριών δακτύλων;</string>
@@ -264,7 +264,7 @@
   <string name="status_bar_toggle_paper_mode">Λειτ.Ανάγνωσης</string>
   <string name="status_bar_toggle_power_mode">Απόδοση</string>
   <string name="status_bar_toggle_quiet_mode">Μην Ενοχλείτε</string>
-  <string name="status_bar_toggle_rotate">Περιστροφή</string>
+  <string name="status_bar_toggle_rotate">Κλείδ. Περιστροφής</string>
   <string name="status_bar_toggle_screen_button">Πλήκτρα</string>
   <string name="status_bar_toggle_screenshot">Στιγμιότυπο</string>
   <string name="status_bar_toggle_sync">Συγχρονισμός</string>

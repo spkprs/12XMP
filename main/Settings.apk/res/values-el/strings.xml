@@ -7249,12 +7249,14 @@
     <string name="wifi_configure_settings_preference_title">Προτιμήσεις Wi‑Fi</string>
     <string name="wifi_configured_ap_list">Προηγούμενα ρυθμισμένα APs</string>
     <string name="wifi_connect">Σύνδεση</string>
+    <string name="wifi_connect_channel">Κανάλι WI-FI:</string>
     <string name="wifi_connect_cmcc_dialog_cancel">Ακύρωση</string>
     <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
     <string name="wifi_connect_cmcc_dialog_content">Συνδεδεμένο με τις υπηρεσίες δεδομένων δικτύου CMCC.</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">Να μην εμφανιστεί ξανά</string>
     <string name="wifi_connect_cmcc_dialog_title">Ειδοποίηση χρήσης δεδομένων</string>
     <string name="wifi_connect_failed_message">Το τηλέφωνο δεν μπόρεσε να συνδεθεί σε αυτό το δίκτυο Wi-Fi.</string>
+    <string name="wifi_connect_frequency">Συχνότητα WI-FI:</string>
     <string name="wifi_connected_mac_randomization">Συνδεδεμένη τυχαιοποίηση MAC</string>
     <string name="wifi_connected_no_internet">Συνδεδεμένο, χωρίς Internet</string>
     <string name="wifi_connecting">Σύνδεση…</string>

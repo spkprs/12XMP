@@ -272,6 +272,9 @@
     <string name="ai_west_lake">Δυτική Λίμνη</string>
     <string name="ai_wuhan">Wuhan</string>
     <string name="ai_zhang_jia_jie">Zhangjiajie</string>
+    <string name="aiwatermark_location_absent_hint">"Αδυναμία λήψης πληροφοριών τοποθεσίας"</string>
+    <string name="aiwatermark_location_list_title">Τοποθεσία</string>
+    <string name="aiwatermark_location_tips">Επιτρέψτε στην Κάμερα την πρόσβαση στην τοποθεσία σας για να λαμβάνετε πιο σχετικά υδατογραφήματα</string>
     <string name="ambilight_description_title">Σχετικά με τη μακρά έκθεση</string>
     <string name="ambilight_intro_crowd_moving_part1">Κατά τη λήψη σε πολυσύχναστο δρόμο, ζητήστε από το θέμα σας να σταματήσει. Άλλα άτομα θα εμφανίζονται ως θολές γραμμές.</string>
     <string name="ambilight_intro_crowd_moving_part2">Μπορείτε επίσης να φωτογραφίσετε την κίνηση και τα κινούμενα πλήθη. Η μακρά έκθεση θα διατηρήσει τα κτίρια σε κατάσταση ευκρίνειας, αλλά όλα τα κινούμενα αντικείμενα θα είναι θολά.</string>
