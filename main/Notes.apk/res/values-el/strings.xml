@@ -195,7 +195,7 @@
     <string name="midnight">AM</string>
     <string name="miuix_appcompat_cloud_state_disabled">Ανενεργός συγχ/μός με το cloud</string>
     <string name="miuix_appcompat_cloud_state_finished">Συγχρονισμένο με το cloud</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Συγχρονίστηκε με το cloud</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Συγχρονίζεται με το cloud...</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>

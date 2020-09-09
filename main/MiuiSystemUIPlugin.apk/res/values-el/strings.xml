@@ -41,9 +41,9 @@
     <string name="early_morning">Πρωί</string>
     <string name="loading">Άγνωστο</string>
     <string name="midnight">Νύχτα</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το cloud είναι απενεργοποιημένος</string>
-    <string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκε με το cloud με επιτυχία</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το cloud…</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Ανενεργός συγχ/μός με το cloud</string>
+    <string name="miuix_appcompat_cloud_state_finished">Συγχρονισμένο με το cloud</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Συγχρονίζεται με το cloud...</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
     <string name="no_avaliable_application">Δεν υπάρχουν διαθέσιμες εφαρμογές</string>
     <string name="noon">Μεσημέρι</string>
