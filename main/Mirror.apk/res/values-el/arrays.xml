@@ -3,7 +3,7 @@
   <string-array name="settings_search_mirror">
     <item>Screen Combo</item>
     <item>Σύνδεση &amp; κοινή χρήση/Screen Combo</item>
-    <item>Screen Combo</item>
+    <item>Screen Combo;Πολλαπλές οθόνες;Μετάδοση;PC;Υπολογιστής</item>
   </string-array>
   <string-array name="settings_tips_message">
     <item>1. Απενεργοποιήστε το φορητό hotspot, το Mi Share ή τη μετάδοση στην κινητή συσκευή σας πριν χρησιμοποιήσετε το Screen Combo.\n2. Απενεργοποιήστε το Wi-Fi τόσο στην κινητή συσκευή όσο και στον υπολογιστή σας.\n3. Βεβαιωθείτε ότι η κινητή συσκευή σας βρίσκεται κοντά στον υπολογιστή σας.</item>

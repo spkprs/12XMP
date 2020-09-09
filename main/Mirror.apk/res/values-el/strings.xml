@@ -57,6 +57,9 @@
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
+    <string name="http_buffer_size">HTTP μέγεθος cache</string>
+    <string name="log_warning">"Η εναλλαγή των διακοπτών καταγραφής μπορεί να αυξήσει τους κινδύνους ασφαλείας και να επηρεάσει την απόδοση. Χρησιμοποιήστε αυτές τις εναλλαγές μόνο όταν είναι απαραίτητο."</string>
+    <string name="message_log">Καταγραφές Μηνυμάτων</string>
     <string name="midnight">Νύχτα</string>
     <string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το σύννεφο είναι απενεργοποιημένος</string>
     <string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκε με το σύννεφο με επιτυχία</string>
@@ -125,6 +128,7 @@
     <string name="privacy_describe_location">Για εύρεση υπολογιστών σε κοντινή απόσταση και μεταφορά αρχείων</string>
     <string name="privacy_describe_record_audio">Για ανακατεύθυνση αναπαραγωγής ήχου στον υπολογιστή σας</string>
     <string name="privacy_describe_storage">Για αποστολή και λήψη αρχείων</string>
+    <string name="resource_log">Καταγραφές Πόρων</string>
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
@@ -154,6 +158,7 @@
     <string name="settings_home_device_disconnect">Αποσύνδεση</string>
     <string name="settings_home_device_group">Συνδεδεμένη συσκευή</string>
     <string name="settings_home_tips">Το Screen Combo τοποθετεί ένα αντίγραφο της οθόνης του τηλεφώνου σας σε έναν συνδεδεμένο υπολογιστή, επιτρέποντάς σας να μεταφέρετε αρχεία και να αλληλεπιδράσετε με την κινητή συσκευή σας εκεί.</string>
+    <string name="settings_log_options">Καταγραφές</string>
     <string name="settings_more_help">Βοήθεια</string>
     <string name="settings_privacy_policy">Πολιτική απορρήτου</string>
     <string name="settings_scanner_button">Σαρωτής</string>
@@ -168,14 +173,17 @@
     <string name="time_picker_label_minute">M</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
+    <string name="traffic_log">Καταγραφές Κυκλοφορίας</string>
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="verbose_mode">Καταγραφές Λεπτομεριών</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
+    <string name="worker_authorization_loading">Μισό λεπτό…</string>
     <string name="worker_authorization_message">Το Screen Combo σάς επιτρέπει να μεταφέρετε αρχεία και να αλληλεπιδράτε με το τηλέφωνό σας χρησιμοποιώντας υπολογιστή.</string>
     <string name="worker_authorization_title">Συνδεθείτε τώρα;</string>
     <string name="worker_authorized">%1$s αποδέχθηκε το αίτημά σας</string>
