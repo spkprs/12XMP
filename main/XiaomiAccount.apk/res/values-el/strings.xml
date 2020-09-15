@@ -78,7 +78,7 @@
     <string name="account_user_region">Περιοχή</string>
     <string name="account_xiaomi_service">Υπηρεσίες</string>
     <string name="action_add_phone">Πρόσθεσε αριθμό τηλεφώνου</string>
-    <string name="action_retry">Try again</string>
+    <string name="action_retry">Επανάληψη</string>
     <string name="action_update_phone">Αλλαγή τηλεφωνικού αριθμού</string>
     <string name="activate_email_notice">Φροντίστε να ενεργοποιήσετε το λογαριασμό σας μέσα σε 24 ώρες</string>
     <string name="activity_not_found_notice">Αδυναμία εύρεσης εφαρμογής</string>
@@ -577,8 +577,8 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="sms_send_success">Απεστάλη</string>
     <string name="sns_access_token_expired_warning">Η σύνδεση στο λογαριασμό σας έχει λήξει. Παρακαλώ συνδεθείτε ξανά.</string>
-    <string name="state_data_error">"Couldn't get data"</string>
-    <string name="state_loading">Just a sec…</string>
+    <string name="state_data_error">"Δεν βρέθ δεδ/να"</string>
+    <string name="state_loading">Μισό λεπτό…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_ad">Διαφημίσεις σε εφαρμογές συστήματος</string>

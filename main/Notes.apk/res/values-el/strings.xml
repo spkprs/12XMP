@@ -88,7 +88,7 @@
     <string name="date_time_picker_dialog_title">Ορισμός ημέρας και ώρας</string>
     <string name="date_time_picker_has_not_set_alarm">Η Ειδοποίηση δεν ρυθμίστηκε</string>
     <string name="date_time_picker_has_set_alarm">Η ρύθμιση Ειδοποίησης ολοκληρώθηκε</string>
-    <string name="db_downgrade_clear_button">Clear app data</string>
+    <string name="db_downgrade_clear_button">Καθαρισμός δεδ. εφαρμογής</string>
     <string name="db_downgrade_clear_date_reminder">Η μετάβαση σε διαφορετική έκδοση του MIUI απαιτεί την εκκαθάριση των δεδομένων της εφαρμογής για το Notes. Πριν το κάνετε αυτό, βεβαιωθείτε ότι έχετε δημιουργήσει αντίγραφα ασφαλείας των σημειώσεών σας στο cloud.</string>
     <string name="default_folder_name">Φάκελος χωρίς όνομα</string>
     <string name="delete_folder_dialog_tile">Διαγραφή φακέλου</string>
@@ -110,12 +110,13 @@
     <string name="dlg_stick_message">Καρφίτσωμα…</string>
     <string name="dlg_title_password_reset">Αναβαθμίστε τον κωδικό σας</string>
     <string name="dlg_title_set_password">Ορισμός κωδικού</string>
-    <string name="dlg_title_use_privacy_password">Χρήση κωδικού Προσωπικής προστασίας</string>
+    <string name="dlg_title_use_privacy_password">Χρήση κωδικού Απορρήτου</string>
     <string name="dlg_unhide_message">Επανεμφάνιση…</string>
     <string name="done">Ολοκληρώθηκε</string>
     <string name="early_morning">AM</string>
     <string name="edit_header_done_description">Ολοκληρώθηκε</string>
     <string name="edit_header_lock_description">Κρυφές Σημειώσεις</string>
+    <string name="edit_note_hint_title">Τίτλος</string>
     <string name="empty_folder_import_notes">Εισαγωγή σημειώσεων</string>
     <string name="empty_folder_no_notes">Δεν υπάρχουν σημειώσεις εδώ</string>
     <string name="enable_sync">Συγχρονισμός</string>
@@ -144,10 +145,10 @@
     <string name="float_todo_guide_title_v2">Συντόμευση σάρωσης</string>
     <string name="folder_exist">Υπάρχει ήδη ένας φάκελος με το ίδιο όνομα</string>
     <string name="folder_operation_delete">Διαγραφή</string>
-    <string name="folder_operation_rename">Rename</string>
+    <string name="folder_operation_rename">Μετονομασία</string>
     <string name="force_touch_menu_add">Προσθήκη σημείωσης</string>
-    <string name="format_move_note_out_folder">This note was moved</string>
-    <string name="format_move_note_to_folder">Moved to %1$s</string>
+    <string name="format_move_note_out_folder">Αυτή η σημείωση μετακινήθηκε</string>
+    <string name="format_move_note_to_folder">Μετακινήθηκε σε %1$s</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">F</string>

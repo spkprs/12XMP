@@ -43,7 +43,7 @@
     <string name="activity_title_sleep_detection_question">Συχνές Ερωτήσεις</string>
     <string name="activity_title_statistic">Στατιστικά</string>
     <string name="add">Προσθήκη</string>
-    <string name="add_body_weight_button">Προσθήκη δεδομένων βάρους</string>
+    <string name="add_body_weight_button">Προσθήκη βάρους</string>
     <string name="add_body_weight_record_button">Προσθήκη δεδομένων βάρους</string>
     <string name="add_data_source">Εισαγωγή δεδομένων</string>
     <string name="add_data_source_description">Προσθέστε δεδομένα υγείας που παράγονται από άλλες συσκευές στην Xiaomi Health για να αυξήσετε την ακρίβεια των στατιστικών στοιχείων και να λάβετε πιο σχετικές συμβουλές υγείας.\nΗ Xiaomi Health υποστηρίζει συσκευές που έχετε προσθέσει στο παρελθόν στην εφαρμογή Mi Home. Αν δεν μπορείτε να βρείτε τη συσκευή που θέλετε να προσθέσετε, ελέγξτε αν την έχετε ήδη προσθέσει πρώτα στο Mi Home.</string>
@@ -969,7 +969,7 @@
     <string name="sleep_no_generate_report">Αδυναμία εύρεσης\nδεδομένων ύπνου</string>
     <string name="sleep_notice">Ειδοποιήσεις Ύπνου</string>
     <string name="sleep_record_content">Η Xiaomi Health θα καταγράψει αυτόματα τον ύπνο σας βάσει της χρήσης του τηλεφώνου, των στατιστικών στοιχείων δραστηριότητας, καθώς και της ώρας που θα ορίσετε για να κοιμηθείτε και να ξυπνήσετε.</string>
-    <string name="sleep_record_go_open">Μετακινήστε το κουμπί \"Παρακολούθηση ύπνου\" για να αρχίσετε να καταγράφετε τα δεδομένα ύπνου</string>
+    <string name="sleep_record_go_open">Μετακινήστε το κουμπί \"Παρακολούθηση ύπνου\" για καταγραφή του ύπνου σας</string>
     <string name="sleep_record_label">Εγγραφή ύπνου</string>
     <string name="sleep_remind">Υπενθύμιση ύπνου</string>
     <string name="sleep_report">Στατιστικά στοιχεία ύπνου</string>

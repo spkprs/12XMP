@@ -80,6 +80,13 @@
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Π</string>
+    <string name="fps_nature_summary">Ο υψηλός ρυθμός ανανέωσης διατηρεί τα πάντα ευκρινή και καθαρά</string>
+    <string name="fps_nature_title">Υψηλός</string>
+    <string name="fps_smooth_summary">Ο μεσαίος ρυθμός ανανέωσης προσθέτει μεγαλύτερη σαφήνεια στις λεπτομέρειες</string>
+    <string name="fps_smooth_title">Μεσαίος</string>
+    <string name="fps_standard_summary">Ο τυπικός ρυθμός ανανέωσης εξοικονομεί μπαταρία</string>
+    <string name="fps_standard_title">Τυπικός</string>
+    <string name="fps_user_tip">Αυτά τα εφέ κίνησης επίδειξης αναπαράγονται σε χαμηλή ταχύτητα για την αναφορά σας. Η πραγματική απόδοση μπορεί να φαίνεται διαφορετική με βάση διάφορους παράγοντες.</string>
     <string name="gamma">Γάμμα</string>
     <string name="healthy_use_phone">Διαχείριση Χρόνου οθόνης</string>
     <string name="high_fps_description">Υψηλός ρυθμός ανανέωσης οθόνης. Μεγαλύτερη κατανάλωση ενέργειας.</string>

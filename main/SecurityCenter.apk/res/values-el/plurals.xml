@@ -589,4 +589,12 @@
         <item quantity="other">Μπορείτε να προστατεύσετε %d στοιχεία</item>
         <item quantity="one">Μπορείτε να προστατεύσετε %d στοιχείο</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Μπορείτε να χρησιμ/ετε το Κλείδωμα εφαρμογής με %1$s εφαρμ.</item>
+        <item quantity="one">Μπορείτε να χρησιμ/ετε το Κλείδωμα εφαρμογής με %1$s εφαρμ.</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s εφαρμ. θα προστατεύονται με Κλείδωμα εφαρμογής</item>
+        <item quantity="one">%s εφαρμ. θα προστατεύονται με Κλείδωμα εφαρμογής</item>
+    </plurals>
 </resources>
