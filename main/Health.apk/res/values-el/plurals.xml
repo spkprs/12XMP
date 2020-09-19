@@ -251,4 +251,24 @@
     <item quantity="other">%1$d ετών</item>
     <item quantity="one">%1$d ετών</item>
   </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Διάρκεια περιόδου: %1$d ημ.</item>
+        <item quantity="one">Διάρκεια περιόδου: %1$d ημ.</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Διάρκεια κύκλου: %1$d ημ.</item>
+        <item quantity="one">Διάρκεια κύκλου: %1$d ημ.</item>
+    </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d κύκλοι</item>
+        <item quantity="one">%1$d κύκλος</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Η περίοδος είναι πιθανό να ξεκινήσει σε %1$d ημ.</item>
+        <item quantity="one">Η περίοδος είναι πιθανό να ξεκινήσει σε %1$d ημ.</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" κύκλοι"</item>
+        <item quantity="one">" κύκλος"</item>
+    </plurals>
 </resources>

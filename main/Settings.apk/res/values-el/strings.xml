@@ -231,6 +231,8 @@
     <string name="activating">Ενεργοποίηση...</string>
     <string name="active_device_admin_msg">Διαχειριστής συσκευής</string>
     <string name="active_input_method_subtypes">Ενεργές μέθοδοι εισαγωγής</string>
+    <string name="activity_check_context">"Η συσκευή σας προσπαθεί να συνδεθεί στο Internet τώρα. Αυτή η διαδικασία μπορεί να διαρκέσει περισσότερο από το αναμενόμενο, εάν χρησιμοποιείτε δεδομένα κινητής συσκευής. Μπορείτε να επιστρέψετε και να συνδεθείτε σε δίκτυο Wi-Fi ή να συνεχίσετε να περιμένετε μέχρι να αποκατασταθεί η σύνδεση δεδομένων κινητής τηλεφωνίας."</string>
+    <string name="activity_check_title">Σύνδεση στο Internet</string>
     <string name="activity_not_found">Η εφαρμογή δεν έχει εγκατασταθεί στο τηλέφωνό σας.</string>
     <string name="activity_picker_label">Επιλέξτε δραστηριότητα</string>
     <string name="activity_title_power_manager">Εξοικονόμησης μπαταρίας;Εξοικονόμηση μπαταρίας</string>
@@ -1270,9 +1272,9 @@
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Χαρακτηριστικά</string>
     <string name="bt_pre_summary">Παρέχει μια υψηλής ποιότητας εμπειρία ήχου</string>
+    <string name="bt_rarely_used_device_title">Συσκευές με σπάνια χρήση (%d)</string>
     <string name="bt_show_notification_summary">Εμφάνιση μόνιμης ειδοποίησης στον Πίνακα ειδοποιήσεων</string>
     <string name="bt_show_notification_title">Ειδοποίηση για συνδέσεις Bluetooth</string>
-    <string name="bt_rarely_used_device_title">Συσκευές με σπάνια χρήση (%d)</string>
     <string name="bt_trace_log">Ενεργοποίηση καταγραφής ιχνών Bluetooth</string>
     <string name="bt_trace_log_summary">Ενεργοποίηση καταγραφής παρακολούθησης Bluetooth</string>
     <string name="btn_back">Πίσω</string>
@@ -2054,6 +2056,10 @@
     <string name="dialog_background_check_ok">Απενεργοποίηση</string>
     <string name="dialog_background_check_title">Απενεργοποίηση χρήσης παρασκηνίου και διακοπής της εφαρμογής;</string>
     <string name="dialog_backup_title">Αντίγραφο πριν την επαναφορά;</string>
+    <string name="dialog_check_button_negative">Επανάληψη</string>
+    <string name="dialog_check_button_positive">Σύνδεση με Wi-Fi</string>
+    <string name="dialog_check_context">Η συσκευή σας δεν μπορεί να συνδεθεί στο Internet τώρα.n\1. Πατήστε \"Σύνδεση σε Wi-Fi\" για να επιλέξετε ένα από τα διαθέσιμα δίκτυα.n\2. Εάν θέλετε να χρησιμοποιήσετε δεδομένα, πατήστε \"Επανάληψη\" ή αφαιρέστε και εισάγετε ξανά την κάρτα SIM."</string>
+    <string name="dialog_check_title">"Δεν είναι δυνατή η σύνδεση στο Internet"</string>
     <string name="dialog_chose_item">Επιλέξτε ένα στοιχείο για εμφάνιση</string>
     <string name="dialog_content_login">Σύνδεση στο λογαριασμό Mi για την αναβάθμιση;</string>
     <string name="dialog_location_message">Το τηλέφωνό σας δεν μπορεί να διαχειριστεί την μπαταρία κανονικά επειδή %1$s συνεχίζει να ζητά την τοποθεσία σας όταν δεν χρησιμοποιείτε την εφαρμογή.\n\nΓια να διορθώσετε αυτό το πρόβλημα, μπορείτε να απενεργοποιήσετε την τοποθεσία για αυτήν την εφαρμογή.</string>
@@ -2076,6 +2082,10 @@
     <string name="dialog_title_color_calibration">Προκαθορισμένη διόρθωση χρωμάτων</string>
     <string name="dialog_title_hdmi_color_calibration">Προκαθορισμένη διόρθωση χρωμάτων</string>
     <string name="dialog_title_login">Είσοδος στον λογαριασμό Mi</string>
+    <string name="dialog_wifi_button_negative">ΟΧΙ</string>
+    <string name="dialog_wifi_button_positive">ΝΑΙ</string>
+    <string name="dialog_wifi_context">Πρέπει να συνδεθείτε στο Internet για να ρυθμίσετε τη συσκευή σας. Εκτός αν συνδέεστε σε Wi-Fi, μπορεί να χρησιμοποιούνται δεδομένα κινητής. Η χρήση αυτή ενδέχεται να προκαλέσει πρόσθετες χρεώσεις φορέα. Να χρησιμοποιηθούν τα δεδομένα κινητής οπωσδήποτε;</string>
+    <string name="dialog_wifi_title">Χρήση δεδομένων κινητής</string>
     <string name="dialog_yes">Ναι</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Σημείωση: Μετά από μια επανεκκίνηση, αυτή η εφαρμογή δεν μπορεί να ξεκινήσει μέχρι να ξεκλειδώσετε το τηλέφωνό σας.</string>
@@ -2624,6 +2634,7 @@
     <string name="fold_title">Κανόνες για ομαδ/μένες ειδοποιήσεις</string>
     <string name="font_size_exhuge">Πολύ Τεράστια</string>
     <string name="font_size_huge">Τεράστια</string>
+    <string name="font_size_kddi">Μεσαία</string>
     <string name="font_size_large">Μεγάλη</string>
     <string name="font_size_make_larger_desc">Κάντε μεγαλύτερη</string>
     <string name="font_size_make_smaller_desc">Κάντε μικρότερη</string>
