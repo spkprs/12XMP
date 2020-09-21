@@ -44,6 +44,6 @@
   <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
     <item>Για είσοδο με χρήση του Mi λογαριασμού</item>
     <item>Για προεπισκόπηση, αποστολή, λήψη και συγχρονισμό αρχείων</item>
-    <item>Χρησιμοποιείται για την εφαρμογή της λειτουργίας ελέγχου ενημέρωσης</item>
+    <item>Για τον εντοπισμό διαθέσιμων ενημερώσεων</item>
   </string-array>
 </resources>
