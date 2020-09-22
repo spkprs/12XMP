@@ -597,4 +597,8 @@
         <item quantity="other">%s εφαρμ. θα προστατεύονται με Κλείδωμα εφαρμογής</item>
         <item quantity="one">%s εφαρμ. θα προστατεύονται με Κλείδωμα εφαρμογής</item>
     </plurals>
+    <plurals name="exit_dialog_release_memory_message">
+        <item quantity="other">&lt;Data>Κλείσιμο &lt;font color=#0099ff>%d&lt;/font> εφαρμογές για επιτάχυνση της συσκευής σας;&lt;/Data></item>
+        <item quantity="one">&lt;Data>Κλείσιμο &lt;font color=#0099ff>%d&lt;/font> εφαρμογής για επιτάχυνση της συσκευής σας;&lt;/Data></item>
+    </plurals>
 </resources>
