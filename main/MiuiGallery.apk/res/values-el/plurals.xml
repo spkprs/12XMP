@@ -300,6 +300,14 @@
     <item quantity="other">%d Ωρ.</item>
     <item quantity="one">%d Ωρ.</item>
   </plurals>
+  <plurals name="pic_to_pdf_filter_count">
+    <item quantity="one">Φιλτράρισμα %d μη υποστηριζόμενου στοιχείου</item>
+    <item quantity="other">Φιλτράρισμα %d μη υποστηριζόμενων στοιχείων</item>
+  </plurals>
+  <plurals name="pic_to_pdf_support_max_count">
+    <item quantity="one">Τα αρχεία PDF μπορούν να περιέχουν έως %d εικόνα</item>
+    <item quantity="other">Τα αρχεία PDF μπορούν να περιέχουν έως %d εικόνες</item>
+  </plurals>
   <plurals name="picker_all_image_need_download">
     <item quantity="other">Οι επιλεγμένες φωτογραφίες δεν είναι στη συσκευή. Κατεβάστε τις με χρήση κινητής?</item>
     <item quantity="one">Η επιλεγμένη φωτογραφία δεν είναι στη συσκευή. Κατεβάστε τη με χρήση κινητής;</item>

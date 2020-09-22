@@ -707,6 +707,7 @@
     <string name="boot_time">Η συσκευή θα ενεργοποιηθεί στις %1$s</string>
     <string name="boot_time_day">Η συσκευή θα ενεργοποιηθεί σε %1$dη στις %2$s</string>
     <string name="boot_time_day_tomorrow">Ενεργοποίηση αύριο στις %1$s</string>
+    <string name="bottom_func_guide_default_text">Περισσότερες δυνατότητες</string>
     <string name="btn_back">Πίσω</string>
     <string name="btn_finish_diagnostic">OK</string>
     <string name="btn_start_diagnostic">Δοκιμή δικτύου</string>
@@ -1180,10 +1181,14 @@
     <string name="exception_notify_message">Αδυναμία υπολογισμού στατιστικών δεδομένων λόγω σφάλματος. Κάντε επανεκκίνηση για επαναφορά.</string>
     <string name="exception_titile">Παρουσιάστηκε σφάλμα</string>
     <string name="exit">Έξοδος</string>
+    <string name="exit_dialog_exit">Έξοδος</string>
     <string name="exit_dialog_garbage_clean_message">Τα άχρηστα αρχεία στην συσκευή σας υπερβαίνουν τα %s. Εκκαθάριση αχρήστων?</string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Το πρόγραμμα καθαρισμού μπορεί να αποδεσμεύσει &lt;font color=#0099ff>%s&lt;/font> αποθηκευτικού χώρου. Καθαρισμός τώρα;</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Εκκαθάριση</string>
-    <string name="exit_dialog_garbage_clean_title">Εκκαθάριση αχρήστων</string>
+    <string name="exit_dialog_garbage_clean_title">Απελευθερώστε χώρο αποθήκευσης</string>
     <string name="exit_dialog_homepage_optimise_message">Το αποτέλεσμα απόδοσης της συσκευής σας είναι μικρότερο από 80 μονάδες. Βελτιστοποίηση τώρα?</string>
+    <string name="exit_dialog_release_memory_positive_button">Κλείσιμο</string>
+    <string name="exit_dialog_release_memory_title"><Data>Επιτάχυνση της συσκευής σας από &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Περισσότερο από 80% του χώρου αποθήκευσης της συσκευή σας είναι κατειλημμένο. Απελευθερώστε χώρο κάνοντας απεγκατάσταση των εφαρμογών που δεν χρησιμοποιείτε ποτέ</string>
     <string name="exit_dialog_release_storage_positive_button">Απελευθερώστε χώρο</string>
     <string name="exit_dialog_release_storage_title">Απελευθέρωση χώρου</string>
@@ -1864,6 +1869,7 @@
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
     <string name="menu_item_notification_antispam_text_normal">Spam</string>
     <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="menu_item_notification_optimize_text">%d%% κατειλημμένα</string>
     <string name="menu_item_notification_power_text">Βελτιστοποίηση μπαταρίας</string>
     <string name="menu_item_notification_title">Εμφάνιση εικονιδίων στον πίνακα ειδοποιήσεων</string>
     <string name="menu_item_shortcut_summary">Τοποθετήστε συντομεύσεις συχνών λειτουργιών στην Αρχική Οθόνη</string>
@@ -1897,7 +1903,9 @@
     <string name="menu_summary_power_manager_4">%s απομένουν</string>
     <string name="menu_text_antispam">Λίστα αποκλεισμών</string>
     <string name="menu_text_antivirus">Anti-virus</string>
+    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s κατειλημμένα</string>
     <string name="menu_text_garbage_cleanup">Καθαρισμός</string>
+    <string name="menu_text_garbage_cleanup_danger">%s απορρίμματα</string>
     <string name="menu_text_license_manager">Άδειες</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_text_networkassistants_danger">%s υπέρβαση</string>
@@ -2667,7 +2675,7 @@
     <string name="renew_now">Ανανέωση</string>
     <string name="repair">Επιδιόρθωση</string>
     <string name="repair_loading_text">Μισό λεπτό…</string>
-    <string name="repeated_marked_number_summary">Αποδοχή δεύτερης κλήσης εντός τριών λεπτών από τον ίδιο αναφερθέντα αριθμό</string>
+    <string name="repeated_marked_number_summary">Να μην αποκλείεται δεύτερη κλήση από τον ίδιο αριθμό που αναφέρθηκε εντός %d λεπτών</string>
     <string name="repeated_marked_number_title">Αποδοχή επανειλημμένων κλήσεων από αναφερθέντες αριθμούς</string>
     <string name="replace_dns">Αυτόματη αντικατάσταση DNS</string>
     <string name="report">Αναφορά</string>
@@ -2944,7 +2952,7 @@
     <string name="st_msg_settings">Λίστα αποκλεισμού SMS</string>
     <string name="st_msg_stranger_group">Αποκλεισμός SMS από αγνώστους</string>
     <string name="st_settings_name">Ρυθμίσεις</string>
-    <string name="st_share_settings">Χρήση των ρυθμίσεων της κάρτας SIM 1</string>
+    <string name="st_share_settings">Χρήση ρυθμίσεων SIM %d</string>
     <string name="st_sub_title_customize_mode_name">Όνομα</string>
     <string name="st_sub_title_whiteblack_list_group">Λίστα αποκλεισμών</string>
     <string name="st_sum_call_wait">Ο ήχος επιστροφής, θα χρησιμοποιείται επίσης ως σήμα κατειλημμένου στις εισερχόμενες κλήσεις.</string>
@@ -3069,6 +3077,12 @@
     <string name="storage_wizard_format_confirm_v2_action">Διαμόρφωση ^1</string>
     <string name="storage_wizard_format_confirm_v2_body">Η ^1 απαιτεί Διαμόρφωση για να αποθηκεύσει εφαρμογές, αρχεία και πολυμέσα. \n\nΗ Διαμόρφωση θα διαγράψει το υπάρχον περιεχόμενο στη ^2. Για να μην το χάσετε, δημιουργήστε ένα αντίγραφο ασφαλείας σε μια άλλη ^3 ή σε άλλη συσκευή.</string>
     <string name="storage_wizard_format_confirm_v2_title">Διαμορφώστε το ^1 τώρα?</string>
+    <string name="stranger_call_dialog_add_block_list">Αποκλεισμός</string>
+    <string name="stranger_call_dialog_add_contacts">Νέα επαφή</string>
+    <string name="stranger_call_dialog_notification_body">Προσθήκη στις επαφές ή αποκλεισμός αυτού του αριθμού</string>
+    <string name="stranger_call_dialog_notification_title_format">Άγνωστος αριθμός %s</string>
+    <string name="stranger_call_dialog_subtitle_format">"%s δεν είναι στις επαφές σας. Μπορείτε να προσθέσετε αυτόν τον αριθμό στις επαφές ή να τον αποκλείσετε."</string>
+    <string name="stranger_call_dialog_title">"Άγνωστος αριθμός "</string>
     <string name="suggest_app_tolock">Προτάσεις</string>
     <string name="suggest_app_tolock_masked">Κρυφό περιεχόμενο</string>
     <string name="suggest_app_tolock_unmasked">Ορατές ειδοποιήσεις</string>

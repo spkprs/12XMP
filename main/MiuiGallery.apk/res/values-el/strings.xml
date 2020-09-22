@@ -271,7 +271,7 @@
     <string name="burst_image_download_item_title" formatted="false">Λήψη προτότυπου (%s|%s)</string>
     <string name="burst_preview_title">Λήψη ριπής</string>
     <string name="burst_save_all">Αποθήκευση Όλων</string>
-    <string name="burst_save_choice_title" formatted="false">Επιλεγμένες %d από %d</string>
+    <string name="burst_save_choice_title">Επιλεγμένες %d από %d</string>
     <string name="burst_save_dialog_title">Επιλέξτε τις φωτογραφίες που θα κρατήσετε</string>
     <string name="burst_save_error_msg">Αδυναμία αποθήκευσης</string>
     <string name="burst_save_processing">Επεξεργασία…</string>
@@ -574,7 +574,7 @@
     <string name="empty_album_other_list_title">Δεν υπάρχουν άλμπουμ εδώ</string>
     <string name="empty_album_rubbish_list_title">Δεν υπάρχουν άλμπουμ εδώ</string>
     <string name="empty_description_conditions">Θυμηθείτε πράγματα που έχουν σημασία</string>
-    <string name="empty_description_conditions_new">Βεβαιωθείτε ότι έχετε τραβήξει αρκετές φωτογραφίες, συνδέστε το φορτιστή και απενεργοποιήστε την οθόνη για να κάνετε τα αντικείμενα να εμφανίζονται πιο γρήγορα εδώ.</string>
+    <string name="empty_description_conditions_new">Συνδέστε το φορτιστή και απενεργοποιήστε την οθόνη για να εμφανιστούν τα αντικείμενα νωρίτερα εδώ</string>
     <string name="empty_description_no_cards">Θυμηθείτε πράγματα που έχουν σημασία</string>
     <string name="empty_query_text_msg">Δεν ξέρω τι να ψάξω…</string>
     <string name="empty_recommend_back">Πίσω</string>
@@ -795,8 +795,15 @@
     <string name="filter_people_sepia">Σέπια</string>
     <string name="filter_people_story">Ιστορία</string>
     <string name="filter_people_tea">Τσαγιού</string>
+    <string name="filter_popular_autumn">Φθινόπωρο</string>
     <string name="filter_popular_bluedream">Ιλιγγιώδης</string>
+    <string name="filter_popular_coffee">Καφές</string>
+    <string name="filter_popular_coldsmoke">Δροσερή ομίχλη</string>
+    <string name="filter_popular_comic">Anime</string>
+    <string name="filter_popular_dream">Αντιστροφή</string>
+    <string name="filter_popular_hill">Λόφοι</string>
     <string name="filter_popular_humanity">Ντοκυμαντέρ</string>
+    <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_lnk">Μελάνι</string>
     <string name="filter_popular_purple">Μωβ</string>
     <string name="filter_popular_shallow_summer">Ιούνιος</string>
@@ -941,6 +948,7 @@
     <string name="input_or_select_a_name">Εισαγάγετε ή επιλέξτε ένα όνομα</string>
     <string name="input_relation_name">Εισαγάγετε το όνομα της ομάδας</string>
     <string name="install_fail">Δεν ήταν δυνατή η φόρτωση της προσθήκης λόγω σφάλματος.</string>
+    <string name="internal_storage_device">Εσωτερική αποθήκευση</string>
     <string name="invalid_invition_url">Λάθος πρόσκλησης URL.</string>
     <string name="invalid_recipient_message">Διορθώστε τα λάθη στους παραλήπτες, διαφορετικά δεν θα λάβουν μήνυμα.</string>
     <string name="invite_sharer_confirm_button_text">Πρόσκληση</string>
@@ -1207,6 +1215,8 @@
     <string name="operation_move_to_other_albums">Μετακίνηση σε άλλα άλμπουμ</string>
     <string name="operation_move_to_rubbish_albums">Μετακίνηση στα απορρίμματα</string>
     <string name="operation_not_show_in_photos_tab">Να μην εμφανίζεται στην καρτέλα Φωτογραφίες</string>
+    <string name="operation_photo_rename">Μετονομασία</string>
+    <string name="operation_pic_to_pdf">Δημιουργία PDF</string>
     <string name="operation_produce">Δημιουργίες</string>
     <string name="operation_projection">Προβολή μέσω...</string>
     <string name="operation_remove_face">Κατάργηση</string>
@@ -1366,6 +1376,18 @@
     <string name="photo_save_to_msg">Αποθήκεύτηκε σε %s</string>
     <string name="photo_vlog_module_finish">Επιτυχής λήψη προγράμματος επεξεργασίας βίντεο</string>
     <string name="photo_vlog_module_loading">Λήψη προγράμματος επεξεργασίας βίντεο...</string>
+    <string name="photodetail_failed_already_exist">Αυτό το αρχείο υπάρχει ήδη</string>
+    <string name="photodetail_rename_failed">"Αδύνατη η μετονομασία"</string>
+    <string name="photodetail_rename_invalid">"Τα ονόματα να μην περιέχουν χαρακτήρες: /\\:*?&lt;&gt;|."</string>
+    <string name="photodetail_rename_success">Η μετονομασία ολοκληρώθηκε με επιτυχία</string>
+    <string name="photodetail_rename_title">Μετονομασία</string>
+    <string name="photodetail_rename_too_long">Το όνομα αρχείου είναι πολύ μεγάλο</string>
+    <string name="pic_to_pdf_a4_format">A4 χαρτί</string>
+    <string name="pic_to_pdf_all_not_support">"Δεν είναι δυνατή η αποθήκευση επιλεγμένων εικόνων ως PDF"</string>
+    <string name="pic_to_pdf_exit_notice">"Αυτό το PDF δεν θα αποθηκευτεί αν κλείσετε τώρα. Έξοδος ούτως ή άλλως;"</string>
+    <string name="pic_to_pdf_not_support_video">"Δεν είναι δυνατή η αποθήκευση βίντεο ως PDF"</string>
+    <string name="pic_to_pdf_preview_loading">Φόρτωση προεπισκόπησης…</string>
+    <string name="pic_to_pdf_save_in">Αποθηκεύτηκε το PDF σε %s</string>
     <string name="pick_from_contact">Επιλέξτε από τις επαφές</string>
     <string name="pick_people_cover_fail">An error occurred. Try again.</string>
     <string name="pick_people_cover_page_title">Επιλογή φωτογραφίας εξωφύλλου</string>
@@ -1497,6 +1519,7 @@
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
+    <string name="save_error_try_a_different_template_msg">"Δεν ήταν δυνατή η αποθήκευση. Η εικόνα είναι πολύ μεγάλη."</string>
     <string name="scan_barcode_guide">Για να λάβετε τον κωδικό QR του άλμπουμ, πατήστε το εικονίδιο Κοινή χρήση.</string>
     <string name="scan_barcode_to_join">Σάρωση κωδικού QR για σύνδεση σε άλμπουμ.</string>
     <string name="scan_qr_code_buttom_text">Σάρωση κωδικού QR για προβολή του άλμπουμ.</string>
@@ -1569,6 +1592,7 @@
     <string name="search_title_more">Περισσότερα</string>
     <string name="search_title_others">Όλα τα αποτελέσματα</string>
     <string name="search_title_people">Άτομα</string>
+    <string name="search_title_photo_name">Ονομα αρχείου</string>
     <string name="search_title_recommend">Συνιστάται</string>
     <string name="search_title_suggestion">Προτάσεις</string>
     <string name="search_title_tag">Αντικείμενα</string>
@@ -1825,6 +1849,9 @@
     <string name="to_enable_sync_dialog_message">Ενεργοποιήστε πρώτα το συγχρονισμό</string>
     <string name="to_enable_sync_dialog_positive_button_text">Πηγαίνετε στις Ρυθμίσεις</string>
     <string name="to_enable_sync_dialog_title">Συγχρονισμός</string>
+    <string name="toast_invalid_char">"Τα ονόματα αρχείων να μην περιέχουν \"%s\""</string>
+    <string name="toast_invalid_prefix">"Τα ονόματα αρχείων να μην ξεκινούν με \".\" ή \"_\""</string>
+    <string name="toast_rename_exit">Αυτό το αρχείο υπάρχει ήδη</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="too_many_recipients">Το μήνυμα έχει πολλούς παραλήπτες ( %1$s ), %2$s είναι οι μέγιστοι επιτρεπόμενοι παραλήπτες.</string>
