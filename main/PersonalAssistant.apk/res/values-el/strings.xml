@@ -396,6 +396,9 @@
     <string name="app_news_default_title">Νέα</string>
     <string name="app_note_add">Προσθήκη</string>
     <string name="app_note_title_empty">Σημειώσεις</string>
+    <string name="app_pa_setting_global_display">Εμφάνιση</string>
+    <string name="app_pa_setting_global_display_blur_option">Θολή ταπετσαρία</string>
+    <string name="app_pa_setting_global_display_blur_summary">Η θόλωση της ταπετσαρίας επιβραδύνει την απόκριση σάρωσης</string>
     <string name="app_pa_setting_head_bg_img">Φόντο</string>
     <string name="app_pa_setting_head_bg_img_default">Δεν έχει οριστεί</string>
     <string name="app_pa_setting_head_bg_img_set">Ορισμός</string>
@@ -448,7 +451,7 @@
     <string name="app_pa_setting_title">Ρυθμίσεις</string>
     <string name="app_pa_setting_version">Έκδοση: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
-    <string name="app_screen_time_auth">εξουσιοδοτήστε την υπηρεσία για να ενεργοποιηθεί.</string>
+    <string name="app_screen_time_auth">Χρήση χρόνου οθόνης</string>
     <string name="app_screen_time_support_false">αυτή η υπηρεσία δεν υποστηρίζεται αυτήν τη στιγμή.</string>
     <string name="app_screen_time_no_time_title">&lt;1λ</string>
     <string name="app_screen_time_time">%1$dω-%2$dλ</string>
@@ -479,11 +482,11 @@
     <string name="app_shopping_search_hint">αναζήτηση κατά τίτλο.</string>
     <string name="app_sleep">Ύπνος</string>
     <string name="app_sleep_awake">Ξύπνιος</string>
-    <string name="app_sleep_continue">Κοιμηθείτε καλύτερα</string>
+    <string name="app_sleep_continue">Να κοιμηθείτε περισσότερο?</string>
     <string name="app_sleep_deep">Βαθιά</string>
     <string name="app_sleep_enough">Αρκετά</string>
     <string name="app_sleep_light">Ελαφρά</string>
-    <string name="app_sleep_sleeping">Κοιμηθείτε περισσότερο</string>
+    <string name="app_sleep_sleeping">Κοιμήσου ήσυχα</string>
     <string name="app_sleep_too_long">Υπέρ αρκετά</string>
     <string name="app_sleep_too_short">Όχι αρκετά</string>
     <string name="app_sports_action_live">Live</string>
@@ -499,6 +502,7 @@
     <string name="app_sports_fav_title">Οι ομάδες μου</string>
     <string name="app_sports_more_match">Περισσότερα</string>
     <string name="app_sports_title">αθλητικοί.</string>
+    <string name="app_sports_title_all_leagues">Όλοι οι αγώνες</string>
     <string name="app_sports_title_add_team">προσθέστε προσοχή.</string>
     <string name="app_stock_more_add_stock">προσθέστε το δικό σας απόθεμα.</string>
     <string name="app_stock_name_hszs">δείκτης hang seng.</string>
@@ -1926,7 +1930,7 @@
     <string name="security">Ασφάλεια</string>
     <string name="select_team_close">κλείσε.</string>
     <string name="select_team_confirm">υποβάλει.</string>
-    <string name="selected_shortcuts_title">Χαρακτηριστικά</string>
+    <string name="selected_shortcuts_title">Λειτουργίες</string>
     <string name="send_action_title">Προσθήκη στα αγαπημένα</string>
     <string name="send_express">Γρήγορη παράδοση</string>
     <string name="service_unavailiable">Ελέξτε την Σύνδεση δικτύου και δοκιμάστε ξανά</string>

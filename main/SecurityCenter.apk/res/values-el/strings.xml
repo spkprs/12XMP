@@ -1905,7 +1905,6 @@
     <string name="menu_text_antivirus">Anti-virus</string>
     <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s κατειλημμένα</string>
     <string name="menu_text_garbage_cleanup">Καθαρισμός</string>
-    <string name="menu_text_garbage_cleanup_danger">%s απορρίμματα</string>
     <string name="menu_text_license_manager">Άδειες</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
     <string name="menu_text_networkassistants_danger">%s υπέρβαση</string>
