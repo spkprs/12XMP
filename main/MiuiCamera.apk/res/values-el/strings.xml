@@ -517,9 +517,12 @@
     <string name="face_beauty_intelligent_level_3">Υψηλή</string>
     <string name="face_beauty_smart">Έξυπνη</string>
     <string name="face_score_info">Βαθμοί: %.1f</string>
-    <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει το τελευταίο τέταρτο της εγγραφής</string>
-    <string name="film_video_tip">Χρησιμοποιήστε ένα τρίποδο για λήψη</string>
+    <string name="fastmotion_pro_save_time_infinity">Απεριόριστη διάρκεια</string>
+    <string name="fastmotion_pro_save_time_min_and_sec">Διάρκεια: %1$s %2$s</string>
+    <string name="fastmotion_pro_save_time_min_or_sec">Διάρκεια: %1$s</string>
     <string name="film_video_e_tip">Υποστηρίζει μόνο τη λήψη τοπίου</string>
+    <string name="film_video_tip">Χρησιμοποιήστε ένα τρίποδο για λήψη</string>
+    <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει το τελευταίο τέταρτο της εγγραφής</string>
     <string name="fragment_tab_name_bokeh">Θόλωση</string>
     <string name="front_camera_hint_text_place">Η λήψη selfies θα είναι ευκολότερη\nαν περιστρέψετε το τηλέφωνό σας</string>
     <string name="front_camera_hint_text_rotate">Περιστρέψτε το τηλέφωνό σας</string>
@@ -1017,6 +1020,7 @@
     <string name="pref_camera_multilevel_entry_lowest">Χαμηλότατη</string>
     <string name="pref_camera_multilevel_entry_middle">Μεσαία (προεπιλογή)</string>
     <string name="pref_camera_multilevel_entry_normal">Κανονική</string>
+    <string name="pref_camera_new_coloreffect_title">Φίλτρο</string>
     <string name="pref_camera_normal_wide_ldc_description">Διόρθωση παραμόρφωσης προσώπου στην άκρη της φωτογραφίας</string>
     <string name="pref_camera_normal_wide_ldc_title">Διόρθωση προσώπου ομαδικών φωτό</string>
     <string name="pref_camera_optimized_flash_enable_title">Βελτιστοποιημένο φλας</string>
@@ -1158,6 +1162,7 @@
     <string name="pref_groupshot_with_primitive_title">Αποθήκευση αρχικών φωτό, επίσης.</string>
     <string name="pref_hdr10_video_mode_description">Βελτιστοποιεί τα χρώματα &amp; την αντίθεση για βίντεο 4K &amp; 8K αυτόματα. Τα βελτιστοποιημένα βίντεο μπορούν να αναπαραχθούν μόνο σε συσκευές συμβατές με HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
+    <string name="pref_hdr10plus_video_mode_description">Βελτιστοποιεί χρώμα και αντίθεση βίντεο 4K/8K. Χρειάζεται υποστήριξη HDR10 + για να λειτουργήσει σωστά</string>
     <string name="pref_lens_dirty_detect_summary">Λήψη ειδοποίησης όταν ο φακός είναι βρώμικος</string>
     <string name="pref_lens_dirty_detect_title">Ειδοποίηση για βρώμικο φακό</string>
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>

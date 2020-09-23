@@ -35,6 +35,7 @@
     <string name="activity_not_found">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
     <string name="activity_not_found_uri">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
     <string name="ad_close_button_text">Διαφημιστικά</string>
+    <string name="ad_notification_title">Ασήμαντα μηνύματα</string>
     <string name="addBlackList">Αποκλεισμός</string>
     <string name="add_attachment">Προσθήκη συνημμένων</string>
     <string name="add_contact">Επαφή</string>
@@ -587,12 +588,15 @@
     <string name="pref_delivery_ringtone">Ηχητική ειδοποίηση</string>
     <string name="pref_edit_smsc_address">Αριθμός κέντρου SMS</string>
     <string name="pref_forward_title">Προώθηση</string>
+    <string name="pref_group_ad_mms_recognition">Ομαδικά διαφημιστικά μηνύματα</string>
     <string name="pref_hide_verification_code_summary">Αυτόματη απόκρυψη Κωδικών Μιάς Χρήσης σε ειδοποιήσεις μηνυμάτων στην οθόνη κλειδώματος</string>
     <string name="pref_messages_to_save">Ορίστε τον αριθμό των μηνυμάτων που θα αποθηκευτούν</string>
     <string name="pref_mms_settings_title">Μηνύματα πολυμέσων (MMS)</string>
     <string name="pref_msg_trash_bin_title">Πρόσφατα διαγραμμένα μηνύματα</string>
     <string name="pref_notification_settings_title">Ειδοποιήσεις</string>
     <string name="pref_other_title">Πρόσθετες ρυθμίσεις</string>
+    <string name="pref_rcs_show_report_message">Λήψη αναφορών παράδοσης</string>
+    <string name="pref_rcs_show_report_message_tip">Λήψη αναφορών όταν τα μηνύματά σας παραδίδονται στο άλλο άτομο</string>
     <string name="pref_show_blocked_messages_summary">Εμφάνιση αποκλεισμένων SMS στη λίστα των συζητήσεων</string>
     <string name="pref_show_list_avatar_summary">Εμφάνιση φωτογραφιών προφίλ και στοιχείων επικοινωνίας στην προβολή λίστας</string>
     <string name="pref_show_photo_word_summary">Αυτόματη εκχώρηση μιας εικόνας στις επαφές που δεν έχουν</string>
@@ -602,10 +606,12 @@
     <string name="pref_smart_messages_settings">Έξυπνα Μηνύματα</string>
     <string name="pref_sms_storage_title">Αποθήκευση</string>
     <string name="pref_sms_theme_title">Εμφάνιση</string>
+    <string name="pref_summary_ad_mms_recognition">Τοποθέτηση διαφημιστικών μηνυμάτων σε ξεχωριστή καρτέλα</string>
     <string name="pref_summary_allow_si_sl_push">Να επιτρέπεται στα μηνύματα να φορτώνουν περιεχόμενο από ιστοσελίδες</string>
     <string name="pref_summary_auto_delete">Διαγράψτε τα παλιά μηνύματα, καθώς φτάνουν στα όρια</string>
     <string name="pref_summary_collapse_ad_notification">Εμφάνιση όλων των προωθητικών μηνυμάτων σε ξεχωριστό φάκελο στον Πίνακα ειδοποιήσεων</string>
     <string name="pref_summary_collapse_ad_notification_mms">Εμφάνιση όλων των προωθητικών μηνυμάτων σε ξεχωριστή καρτέλα</string>
+    <string name="pref_summary_collapse_ad_notification_mms_new">Ομαδικά διαφημιστικά μηνύματα και επισήμανση τους ως μη σημαντικών στον Πίνακα ειδοποιήσεων</string>
     <string name="pref_summary_delete_limit">%1$s μηνύματα ανά συνομιλία</string>
     <string name="pref_summary_delivery_reports">Εμφάνιση κατάστασης παράδοσης απεσταλμένων μηνυμάτων</string>
     <string name="pref_summary_delivery_ringtone">Λήψη ηχητικής ειδοποίησης για απεσταλμένα μηνύματα.</string>
@@ -623,6 +629,7 @@
     <string name="pref_summary_wake_up_screen">Ενεργοποίηση οθόνης όταν ληφθεί νέο μήνυμα</string>
     <string name="pref_switch_sdk_setting">Αλλαγή σε έξυπνο παροχέα υπηρεσιών SMS</string>
     <string name="pref_system_title">Σύστημα</string>
+    <string name="pref_title_ad_mms_recognition">Αναγνώριση διαφημιστικών μηνυμάτων</string>
     <string name="pref_title_allow_si_sl_push">Αποδοχή προώθησης WAP</string>
     <string name="pref_title_auto_delete">Διαγράψτε παλιά μηνύματα</string>
     <string name="pref_title_card_format">Διαμόρφωση επαγγελματικής κάρτας</string>
@@ -719,6 +726,7 @@
     <string name="rcs_chatbot_my_tab_empty">Δεν υπάρχουν ακόμα Μικροεφαρμογές εδώ.\nΡίξτε μια ματιά στις συνιστώμενες!</string>
     <string name="rcs_chatbot_near_tab_empty">Δεν υπάρχουν ακόμα Μικροεφαρμογές εδώ ακόμη.</string>
     <string name="rcs_chatbot_net_error">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά."</string>
+    <string name="rcs_chatbot_no_waring">Σίγαση ειδοποιήσεων μηνυμάτων</string>
     <string name="rcs_chatbot_normal_message">Λάβατε ένα μήνυμα. Πατήστε για προβολή.</string>
     <string name="rcs_chatbot_notification">Μικροεφαρμογές: %s</string>
     <string name="rcs_chatbot_progress_failed">"Αδύνατη η φόρτωση πληροφοριών. Πατήστε για να δοκιμάσετε ξανά."</string>
@@ -887,6 +895,8 @@
     <string name="rms_text_body">[Κείμενο]</string>
     <string name="rms_vcard_body">[Επικοινωνία]</string>
     <string name="rms_video_body">[Βίντεο]</string>
+    <string name="rsc_chatbot_back">Πίσω</string>
+    <string name="rsc_chatbot_detail">Πληροφορίες προμηθευτή</string>
     <string name="save">Αποθήκευση</string>
     <string name="save_ringtone">Αποθήκευση ως ήχος κλήσης</string>
     <string name="save_to_sim">Αποθήκευση στην κάρτα SIM</string>

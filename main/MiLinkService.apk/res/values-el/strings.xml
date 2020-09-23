@@ -164,6 +164,7 @@
     <string name="small_window_not_supported">Δεν είναι δυνατή η ελαχιστοποίηση αυτής της εφαρμογής κατά τη μετάδοση</string>
     <string name="status_bar_in_casting">Μετάδοση...</string>
     <string name="status_bar_in_casting_long">Αγγίξτε για περισσότερες λειτουργίες</string>
+    <string name="synergy_casting">"Δεν είναι δυνατή η χρήση της Μετάδοσης ενώ λειτουργεί το Screen Combo"</string>
     <string name="tile_label">Μετάδοση</string>
     <string name="toast_guide_show_more">Μάθε περισσότερα</string>
     <string name="toast_guide_title">Εξερευνήστε τις νέες μας λειτουργίες εδώ</string>

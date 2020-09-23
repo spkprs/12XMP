@@ -26,6 +26,11 @@
         <item>PIN</item>
         <item>Κωδικός</item>
      </string-array>
+     <string-array name="cellular_package_type">
+        <item>Μηνιαία</item>
+        <item>Απεριόριστα</item>
+        <item>Ημερήσιο</item>
+     </string-array>
      <string-array name="daily_brand">
         <item>Custom</item>
         <item>Mi Fan card</item>

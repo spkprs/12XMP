@@ -449,6 +449,10 @@
     <string name="dialer_returnToInCallScreen">Επιστροφή στην κλήση σε εξέλιξη</string>
     <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">Χρησιμοποιήστε τονικό πληκτρολόγιο</string>
+    <string name="dialog_delete_contact_button_delete">Διαγραφή</string>
+    <string name="dialog_delete_contact_button_keep">Διατήρηση</string>
+    <string name="dialog_delete_contact_content">Το Xiaomi Cloud θέλει να διαγράψει ορισμένες επαφές σας. Να διαγραφούν τώρα;</string>
+    <string name="dialog_delete_contact_title">Διαγραφή επαφών</string>
     <string name="dialog_import">Εισαγωγή επαφών</string>
     <string name="dialog_import_export">Εισαγωγή/Εξαγωγή επαφών</string>
     <string name="dialog_new_contact_account">Εισαγωγή επαφών σε λογαριασμό</string>
@@ -893,6 +897,8 @@
     <string name="not_applied">Δεν εφαρμόστηκε</string>
     <string name="not_set">Δεν ορίστηκε</string>
     <string name="notification_action_voicemail_play">Αναπαραγωγή</string>
+    <string name="notification_click_detail">Πατήστε για προβολή λεπτομερειών</string>
+    <string name="notification_micloudsync_delete_contact">Το Xiaomi Cloud θέλει να διαγράψει ορισμένες από τις επαφές σας</string>
     <string name="notification_new_voicemail_ticker">Νέο φωνητικό μήνυμα από %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="openDialKeyboard">Πληκτρολόγιο</string>

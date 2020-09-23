@@ -17,14 +17,22 @@
         <item quantity="other">Διάρκεια: %d δευτ.</item>
         <item quantity="one">Διάρκεια: %d δευτ.</item>
     </plurals>
-     <plurals name="clone_guide_tip2">
+    <plurals name="clone_guide_tip2">
         <item quantity="other">Μπορείτε να δημιουργήσετε έως %d κλώνους κάθε φορά.</item>
         <item quantity="one">Μπορείτε να δημιουργήσετε έως %d κλώνους κάθε φορές.</item>
      </plurals>
-     <plurals name="toast_burst_snap_finished_summary">
-        <item quantity="other">Πραγματοποιήθηκε λήψη ριπής, %1$s φωτογραφιών</item>
-        <item quantity="one">Πραγματοποιήθηκε λήψη ριπής, %1$s φωτογραφίας</item>
+     <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d λεπ.</item>
+        <item quantity="one">%1$d λεπ.</item>
      </plurals>
+     <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d δευτ.</item>
+        <item quantity="one">%1$d δευτ.</item>
+     </plurals>
+     <plurals name="toast_burst_snap_finished_summary">
+         <item quantity="other">Πραγματοποιήθηκε λήψη ριπής, %1$s φωτογραφιών</item>
+         <item quantity="one">Πραγματοποιήθηκε λήψη ριπής, %1$s φωτογραφίας</item>
+    </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s λεπ.</item>
         <item quantity="one">%1$s λεπ.</item>

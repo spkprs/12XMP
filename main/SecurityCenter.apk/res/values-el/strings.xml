@@ -555,6 +555,8 @@
     <string name="auto_data_booster_suc">Game Turbo είναι ενεργό. Εναλλαγή σε συναρπαστική λειτουργία.</string>
     <string name="auto_handle_title">ΓΕΝΙΚΑ</string>
     <string name="auto_import_games">Τοποθετήστε όλα τα παιχνίδια σας σε ένα μέρος</string>
+    <string name="auto_send_correcting_msg">Αφήστε κενό το πεδίο για αυτόματο έλεγχο μέσω δωρεάν SMS</string>
+    <string name="auto_set_by_brand">Συγχρονισμός λεπτομερειών σχεδίου δεδομένων με το φορέα σας</string>
     <string name="auto_task_condition_choose_battery_level_down">Όταν η μπαταρία είναι σε ένα ορισμένο επίπεδο</string>
     <string name="auto_task_condition_choose_end_time">Ώρα λήξης</string>
     <string name="auto_task_condition_choose_ontime">Χρονόμετρο</string>
@@ -808,6 +810,8 @@
     <string name="card_tc_failed">Δεν ήταν δυνατή η βαθμονόμηση</string>
     <string name="cd_back">Back</string>
     <string name="celcius_symbol">℃</string>
+    <string name="cellular_data_auto_check">Αυτόματος έλεγχος</string>
+    <string name="cellular_package_daily_input">Εισαγωγή</string>
     <string name="charger_detect_button_ok">Κατανοητό</string>
     <string name="charger_detect_info1">Ελέγξτε αν το τροφοδοτικό ρεύματος και το καλώδιο είναι σωστά συνδεδεμένα.</string>
     <string name="charger_detect_info2">"Η φόρτιση μπορεί επίσης να επιβραδυνθεί εάν χρησιμοποιείτε μη τυπικά ή παλιά τροφοδοτικά και καλώδια."</string>
@@ -848,6 +852,7 @@
     <string name="connect_internet_by_wifi">Wi‑Fi</string>
     <string name="connecting">Σύνδεση…</string>
     <string name="continue_install">Εγκατάσταση</string>
+    <string name="continue_set">Συνέχεια</string>
     <string name="convenient_mode">Ξεκλειδώστε όλες τις εφαρμογές ταυτόχρονα</string>
     <string name="convenient_summary">Να μην απαιτείται κωδικός πρόσβασης μετά το ξεκλείδωμα μιας εφαρμογής</string>
     <string name="copy">Αντιγραφή</string>
@@ -903,6 +908,7 @@
     <string name="data_usage_warning_title_notify">Υπέρβαση ορίου δεδομένων</string>
     <string name="databooster_tips_message">Ενεργοποιήστε το για να περιορίσετε όλες τις κάρτες SIM εκτός από την κάρτα δεδομένων. Απενεργοποιήστε αυτή τη λειτουργία αν προκύψουν σφάλματα στα παιχνίδια της επιλογής σας.</string>
     <string name="databooster_tips_title">Προσοχή</string>
+    <string name="day_overflow_tips">Προειδοποίηση ημερήσιας χρήσης δεδομένων</string>
     <string name="debug_open_final_tip">Να ενεργοποιήσετε τον εντοπισμό σφαλμάτων USB;</string>
     <string name="debug_open_title">Αυτή η δυνατότητα προορίζεται για προγραμματιστές και ενδέχεται να μην είναι κατάλληλη για τους γενικούς χρήστες. Η ενεργοποίηση του εντοπισμού σφαλμάτων USB ενδέχεται να επιφέρει τις ακόλουθες αλλαγές:</string>
     <string name="declaration_dialog_msg">Αυτό το χαρακτηριστικό μπορεί να σας βοηθήσει να παρακολουθείτε τη χρήση σας, αλλά δεν είναι εγγυημένη η αποφυγή πρόσθετων χρεώσεων. Για καλύτερα αποτελέσματα, ορίστε ένα συντηρητικό όριο.</string>
@@ -1328,6 +1334,9 @@
     <string name="first_settings_subtitle">Ακολουθούν οι διαθέσιμες επιλογές ασφαλούς κοινής χρήσης:</string>
     <string name="first_settings_title">Προστασία του απορρήτου σας</string>
     <string name="five_percent_total_pkg">%s (5%% των μηνιαίων δεδομένων)</string>
+    <string name="fixed_cellular_data_quota_monthly">Μηνιαίο όριο δεδομένων</string>
+    <string name="fixed_package_tips">Θα προκύψουν πρόσθετες χρεώσεις αφού φτάσετε στο όριο</string>
+    <string name="fixed_traffic_quota">Όριο δεδομένων (υποχρεωτικό)</string>
     <string name="fod_authentication_shift_button">Ακύρωση</string>
     <string name="fod_button_finger">Χρήση αποτυπώματος</string>
     <string name="fod_button_password">Εισάγετε κωδικό</string>
@@ -1351,6 +1360,8 @@
     <string name="free_time_traffic_settings">Δωρεάν όριο δεδομένων</string>
     <string name="free_time_traffic_title">Εισάγετε το δωρεάν όριο δεδομένων</string>
     <string name="free_traffic_settings">Ρυθμίσεις δωρεάν χρήσης δεδομένων</string>
+    <string name="full_fill_oprator_and_location">Δώστε τα στοιχεία και την τοποθεσία του φορέα σας</string>
+    <string name="full_fill_sim_location">Ορισμός θέσης πρώτα</string>
     <string name="function_auto_reject_detail">Σχετικά με αυτήν τη λειτουργία:\n1. Ενώ παίζετε παιχνίδια, όλες οι εισερχόμενες κλήσεις πρός την κάρτα SIM χωρίς υπηρεσία δεδομένων κινητής θα απορριφθούν αυτόματα.\n2. Θα δείτε ειδοποιήσεις για αναπάντητες κλήσεις και το άλλο άτομο θα ακούσει ένα ηχητικό μήνυμα που λέει ότι είστε απασχολημένοι αυτή τη στιγμή.\n3. Αυτή η δυνατότητα υποστηρίζεται μόνο από εταιρείες κινητής τηλεφωνίας στην Κίνα.</string>
     <string name="function_auto_reject_title">Απόρριψη κλήσεων VoLTE σε κάρτες SIM χωρίς υπηρεσία δεδομένων</string>
     <string name="function_close">Ανενεργό</string>
@@ -1552,6 +1563,7 @@
     <string name="gb_xunyou_gift_type_two">Xunyou 2-ημ. ενίσχυσης</string>
     <string name="gdpr_msg"><Data>"Για να μπορέσουμε να εντοπίσουμε τους κινδύνους ασφαλείας και να προστατεύσουμε τα δεδομένα σας, πρέπει να συλλέξουμε τις απαραίτητες πληροφορίες σχετικά με τη συσκευή σας. Διαβάστε και αποδεχτείτε τους &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Πολιτική Απορρήτου&lt;/a>πριν χρησιμοποιήσετε τις υπηρεσίες μας. Σε περίπτωση που δεν μας επιτρέπετε να συλλέξουμε τέτοιες πληροφορίες, θα εξακολουθείτε να μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή, αλλά ορισμένες λειτουργίες δεν θα είναι διαθέσιμες για εσάς. "</Data></string>
     <string name="ge">个</string>
+    <string name="get_detail_by_click">Πατήστε για προβολή λεπτομερειών</string>
     <string name="get_sys_info">Λήψη πληροφοριών…</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_setting_alert_dialog_content">Μπορείτε να ελευθερώσετε %s</string>
@@ -1559,6 +1571,7 @@
     <string name="gmscore_support_remind">Ενεργοποιήστε αυτή τη λειτουργία εάν αντιμετωπίζετε προβλήματα με τη χρήση του G-mail, των Χαρτών Google και άλλων εφαρμογών Google. Θα μειώσει ελαφρώς τη διάρκεια ζωής της μπαταρίας.</string>
     <string name="gmscore_support_service">Υπηρεσίες Google</string>
     <string name="go_to">Μετάβαση</string>
+    <string name="go_to_send">Αποστολή</string>
     <string name="go_to_setting_fingerprint">Ρυθμίσεις</string>
     <string name="google_base_app_fail">Δεν ήταν δυνατή η λήψη. Ελέγξτε αν επιτρέπεται στην Ασφάλεια να συνδεθεί στο Internet.</string>
     <string name="google_base_app_install_choice">Η εφαρμογή απαιτεί το Google Services Framework για να λειτουργήσει κανονικά. Να γίνει λήψη και εγκατάσταση;</string>
@@ -1659,6 +1672,7 @@
     <string name="hot">Δημοφιλή</string>
     <string name="hot_today">Δημοφιλή σήμερα</string>
     <string name="i_know">Το κατάλαβα</string>
+    <string name="ignore_special_app">Εξαιρέστε τα δεδομένα που χρησιμοποιούνται από επιλεγμένες εφαρμογές από το σχέδιό σας</string>
     <string name="im">IM</string>
     <string name="info_and_call">Κλήσεις και μηνύματα</string>
     <string name="info_antispam_close">AntiSpam ανενεργό</string>
@@ -1670,7 +1684,10 @@
     <string name="info_unantispam_phone_sms">Επέτρεψε μηνύματα και κλήσεις</string>
     <string name="info_unantispam_sms">Επέτρεψε μηνύματα</string>
     <string name="information_setting">Ρυθμίσεις ροής ειδήσεων</string>
+    <string name="input_available_cellular_data_daily_hint">Εισάγετε ημερήσιο όριο δεδομένων</string>
     <string name="input_aviable_traffic">Ορισμός ορίου δεδομένων</string>
+    <string name="input_celluar_data_quota_hint">Εισαγωγή ορίου δεδομένων</string>
+    <string name="input_cellular_data_warn_hint">Εισαγωγή ορίου προειδοποίησης χρήσης δεδομένων</string>
     <string name="input_password_hint_text">Εισαγωγή κωδικού</string>
     <string name="input_traffic_pkg">Εισάγετε το όριο χρήσης</string>
     <string name="input_used_hint">Εισάγετε το όριο χρήσης</string>
@@ -1717,6 +1734,7 @@
     <string name="legal_workday_message">(Εκτός αργιών)</string>
     <string name="leisure_usage_dialog_message">Έχετε φτάσει το όριο δεδομένων σας εκτός αιχμής.\u000d\n\u000d\nΟ φορέας ενδέχεται να σας χρεώσει πρόσθετα τέλη εάν χρησιμοποιήσετε πάλι τη σύνδεση δεδομένων κινητής τηλεφωνίας.</string>
     <string name="leisure_usage_dialog_title">Πέρασατε το όριο δεδομένων εκτός αιχμής, η σύνδεση δεδομένων είναι απενεργοποιημένη</string>
+    <string name="limit_speed_by_quota">Ενδέχεται να ισχύουν περιορισμοί ταχύτητας αφού φτάσετε στο όριο</string>
     <string name="list_empty_text">Κενό</string>
     <string name="load_only_under_wlan">Φόρτωση ειδήσεων μόνο σε Wi‑Fi</string>
     <string name="loading">Μισό λεπτό…</string>
@@ -1806,6 +1824,7 @@
     <string name="main_toolbar_purchase">Κορυφαία</string>
     <string name="main_toolbar_statistic">Στατιστικά χρήσης δεδομένων</string>
     <string name="main_traffic_detail">Χρήση δεδομένων</string>
+    <string name="make_sure_package_type">Επιλέξτε το πρόγραμμα δεδομένων σας</string>
     <string name="man_add_application">Προσθέστε τις εφαρμογές αυτόματης εκκίνησης με μη αυτόματο τρόπο</string>
     <string name="manage_hybrid_permissions">Διαχείριση Αδειών εφαρμογών</string>
     <string name="managed_user_title">Όλες οι εφαρμογές εργασίας</string>
@@ -1943,6 +1962,7 @@
     <string name="mixed_recording_intro_header">Εισάγετε %1$s-%2$s χαρακτήρες</string>
     <string name="mixed_retry_button_text">Ακύρωση</string>
     <string name="mixed_settings_help_how_to_record">Πώς να ορίσετε κωδικό</string>
+    <string name="modify_cellular_type">Πατήστε για επιλογή του σχέδίου σας</string>
     <string name="modify_password_mode"><u>Αλλαγή τύπου κωδικού</u></string>
     <string name="modifypassword">Αλλαγή τύπου κωδικού</string>
     <string name="monitor_app_add">Πρόσθεση</string>
@@ -2004,6 +2024,7 @@
     <string name="no_game">Δεν ήταν δυνατή η εύρεση παιχνιδιών</string>
     <string name="not_limited_brand">Απεριόριστα</string>
     <string name="not_set">Δεν έχει οριστεί</string>
+    <string name="not_settled">Δεν ρυθμίστηκε</string>
     <string name="note">Σημείωση</string>
     <string name="note_call_none">Δεν υπάρχουν κλήσεις</string>
     <string name="note_list_none">Κενή λίστα</string>
@@ -2048,6 +2069,7 @@
     <string name="notify_weekly_traffic_body">Για να περιορίσετε τη χρήση δεδομένων αυτόματα, ρυθμίστε το μηνιαίο πρόγραμμα δεδομένων σας.</string>
     <string name="notify_weekly_traffic_title">Χρησιμοποιήθηκαν %s αυτή την εβδομάδα</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s χρησιμοποιήθηκαν %2$s αυτή την εβδομάδα</string>
+    <string name="number_address">Τοποθεσία</string>
     <string name="numeric_need_to_confirm">Εισαγωγή ξανα για επιβεβαίωση</string>
     <string name="numeric_password_confirmed_header_confirm">Επιτυχής εισαγωγή. Αγγίξτε για επιβεβαίωση.</string>
     <string name="numeric_password_confirmed_header_continue">Επιτυχής εισαγωγή. Αγγίξτε \"Επόμενο\".</string>
@@ -2099,6 +2121,7 @@
     <string name="operator_name_mi_mobile">Mi Mobile</string>
     <string name="operator_name_telcom">China Telecom</string>
     <string name="operator_name_unicom">China Unicom</string>
+    <string name="operator_name_virtual_operator">Εικονικός φορέας</string>
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
@@ -2509,6 +2532,7 @@
     <string name="preferred_app_entries_messaging">Μηνύματα</string>
     <string name="preferred_app_entries_music">Μουσική</string>
     <string name="pricacy_permission_use_total">Στατιστικά άδειας</string>
+    <string name="priority_statistics_fixed_traffic">Τα δεδομένα από το μηνιαίο πρόγραμμα θα χρησιμοποιηθούν πρώτα</string>
     <string name="priority_storage_app_settings">Τα δεδομένα θα αποθηκευτούν σε %1$s</string>
     <string name="priority_storage_settings_summary">Εάν δεν εντοπιστεί κάρτα SD, τα δεδομένα σας θα αποθηκευτούν αυτόματα στον εσωτερικό χώρο αποθήκευσης της συσκευής σας.</string>
     <string name="priority_storage_summary">Επιλέξτε τοποθεσία για να αποθηκεύσετε τα δεδομένα σας</string>
@@ -2774,10 +2798,17 @@
     <string name="securitycenter_tab_title">Ασφάλεια</string>
     <string name="see_detail">Λεπτομέρειες</string>
     <string name="see_more_content">Ενημέρωση Παιχνιδιών για να δείτε περισσότερα ενδιαφέροντα θεμάτα</string>
+    <string name="select_province_and_city">Επιλέξτε τοποθεσία</string>
+    <string name="send_msg_to_query">Στείλτε ένα μήνυμα κειμένου για έλεγχο</string>
     <string name="set_applock_password">Ορισμός κωδικού</string>
+    <string name="set_complete">Ορίστηκε με επιτυχία</string>
+    <string name="set_location">Ορίστε την τοποθεσία</string>
     <string name="set_mixed_password_name">Εισαγωγή κωδικού</string>
     <string name="set_numeric_password_name">Εισαγωγή PIN</string>
+    <string name="set_package_tips">"Θα στείλουμε ένα δωρεάν SMS στον πάροχό σας για να ελέγξετε το σχέδιο δεδομένων σας. Οι πληροφορίες που παρέχετε θα κρυπτογραφηθούν και θα αποσταλούν στους διακομιστές μας προκειμένου να συντάξουν αυτό το μήνυμα."</string>
+    <string name="set_package_tips_detail">"Οι πληροφορίες που έχουν αποσταλεί στους διακομιστές Xiaomi θα περιλαμβάνουν τα στοιχεία του παρόχου σας, καθώς και τον αριθμό τηλεφώνου σας, το IMEI και το λογαριασμό Mi."</string>
     <string name="set_pattern_password_name">Εισαγωγή μοτίβου</string>
+    <string name="set_traffic_tips">Ορίστε το πρόγραμμα δεδομένων σας για διαχείριση της χρήσης δεδομένων και αποφυγή πρόσθετων χρεώσεων φορέα</string>
     <string name="setting">Ρυθμίσεις</string>
     <string name="setting_privacy_password">Ορισμός κωδικού Προσωπικής προστασίας</string>
     <string name="settings">Ρυθμίσεις χρήσης δεδομένων</string>
@@ -3362,6 +3393,7 @@
     <string name="traffic_alert_auto_modify_notification_sumarry">Το μηνιαίο πρόγραμμα άλλαξε σε %s.</string>
     <string name="traffic_alert_auto_modify_notification_titile">Ενημερώθηκε το πρόγραμμα δεδομένων</string>
     <string name="traffic_alert_auto_modify_package_summary">Αυτόματη προσαρμογή πακέτου δεδομένων, σύμφωνα με τις πληροφορίες του φορέα</string>
+    <string name="traffic_calculation">Χρήση ημερήσιου κύκλου χρέωσης</string>
     <string name="traffic_config_alert_auto_modify">Αυτόματη προσαρμογή προγράμματος δεδομένων</string>
     <string name="traffic_config_alert_body">Το πλάνο παρόχου σας δείχνει αυτό: %s.\n\nΤο αποδέχεστε;</string>
     <string name="traffic_config_alert_body_extra">\nΑγοράσατε %1$s επιπλέον δεδομένα αυτό το μήνα. Αυτό είναι διαφορετικό από τα %2$s που προσθέσατε χειροκίνητα.</string>
@@ -3373,6 +3405,7 @@
     <string name="traffic_config_alert_setted">Εφαρμογή ρυθμίσεων</string>
     <string name="traffic_config_alert_title">%s Διόρθωση</string>
     <string name="traffic_correction_failed">Αδυναμία λήψης πληροφοριών</string>
+    <string name="traffic_correction_failed_tips">"Αδύνατος ο έλεγχος του σχεδίου δεδομένων. Βεβαιωθείτε ότι οι ρυθμίσεις του φορέα είναι σωστές ή ρυθμίστε το χειροκίνητα."</string>
     <string name="traffic_correction_start_correction">Επικοινωνία με τους διακομιστές του φορέα…</string>
     <string name="traffic_correction_start_correction_failed">Η αίτηση απέτυχε. Παρακαλώ ελέγξτε τις ρυθμίσεις του φορέα</string>
     <string name="traffic_correction_success">Η χρήση δεδομένων ενημερώθηκε</string>
@@ -3380,6 +3413,7 @@
     <string name="traffic_limit_error_alert_body">Το υπόλοιπο δεδομένων για αυτό το μήνα (%1$s) είναι μεγαλύτερο από το μηνιαίο σας πρόγραμμα (%2$s). Να σημειωθούν τα επιπλέον δεδομένα ως πακέτο ανανέωσης;</string>
     <string name="traffic_limit_error_alert_package">" \nΤο υπόλοιπο δεδομένων περιλαμβάνει δεδομένα που έχουν μεταφερθεί από τον προηγούμενο μήνα."</string>
     <string name="traffic_limit_error_alert_title">Υπενθύμιση ορίου δεδομένων %s</string>
+    <string name="traffic_limit_input">Όριο δεδομένων (υποχρεωτικό)</string>
     <string name="traffic_none">Χωρίς</string>
     <string name="traffic_over_purchase_link">" Έχετε φτάσει το όριο χρήσης δεδομένων κινητής του προγράμματός σας.&lt;br/>Αν ξεπεράσετε το όριο χρήσης δεδομένων του προγράμματός σας, ο φορέας σας μπορεί να σας χρεώσει πρόσθετα τέλη.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Πατήστε για ανανέωση του υπολοίπου σας.&lt;/U>&lt;/font>"</string>
     <string name="traffic_provider_no_sim">Η κάρτα SIM δεν έχει εγκατασταθεί</string>
@@ -3427,7 +3461,9 @@
     <string name="uninstall_danagerous_desc">\"%s\" μπορεί να προκαλέσει βλάβη στη συσκευή σας</string>
     <string name="uninstall_danagerous_msg">\"%s\" μπορεί να βλάψει τη συσκευή σας, να μειώσει την απόδοσή της ή να προκαλέσει επανεκκίνηση.</string>
     <string name="uninstall_danagerous_title">Καταργήστε την εγκατάσταση κακόβουλης εφαρμογής</string>
+    <string name="unknown_package">Δεν είστε σίγουροι ποιο είναι το σχέδιό σας;</string>
     <string name="unlike">Όχι ευχαριστώ</string>
+    <string name="unlimited_cellular_data_monthly">Απεριόριστο πρόγραμμα</string>
     <string name="unlock_failed">Εσωτερικό σφάλμα</string>
     <string name="unlock_pattern"><u>Μοτίβο</u></string>
     <string name="unlock_pattern_to_bind_fingerprint">Πληκτρολογήστε τον κωδικό πρόσβασης για να ενεργοποιήσετε τα δακτυλικά αποτυπώματα</string>
