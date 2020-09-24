@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="I_know">Γνωρίζω</string>
     <string name="I_know">Κατανοητό</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
@@ -152,7 +151,6 @@
     <string name="scan_des_1">Σάρωση κωδικού QR χρησιμοποιώντας το Kite Guard</string>
     <string name="scan_des_2">Μπορείτε να κατεβάσετε το Kite Guard\nσαρώνοντας τον παραπάνω κωδικό QR</string>
     <string name="scroll_for_more">Κύλιση για να δείτε περισσότερα</string>
-    <string name="search_menu_title">Αναζήτηση</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="server_error">Παρουσιάστηκε σφάλμα διακομιστή. Προσπάθησε ξανά.</string>
     <string name="space">  </string>
