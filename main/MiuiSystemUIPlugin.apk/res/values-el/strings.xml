@@ -54,6 +54,7 @@
     <string name="no_avaliable_application">Δεν υπάρχουν διαθέσιμες εφαρμογές</string>
     <string name="noon">Μεσημέρι</string>
     <string name="not_set">Δεν έχει οριστεί</string>
+    <string name="notification_control_center">Ειδοποιήσεις &amp; Κέντρο Ελέγχου</string>
     <string name="online">Σε σύνδεση</string>
     <string name="pm">ΜΜ</string>
     <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>

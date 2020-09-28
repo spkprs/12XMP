@@ -262,7 +262,7 @@
   <string name="miui_feedback_edit_submit_directly">Υποβολή</string>
   <string name="miui_feedback_edit_title_occurrence_time">Επιλογή χρόνου</string>
   <string name="miui_feedback_edit_title_reproductivity">Επιλέξτε αναπαραγωγικότητα</string>
-  <string name="miui_feedback_edit_toast_description_required">Πρέπει να γράψετε μια περιγραφή</string>
+  <string name="miui_feedback_edit_toast_description_required">Περιγράψτε πρώτα το ζήτημα</string>
   <string name="miui_feedback_edit_toast_module_required">Επιλέξτε αντικείμενο</string>
   <string name="miui_feedback_edit_toast_more_desc_required">Η περιγραφή σας θα πρέπει να είναι μεγαλύτερη</string>
   <string name="miui_feedback_edit_toast_problem_class_required">Επιλέξτε Κατηγορία</string>

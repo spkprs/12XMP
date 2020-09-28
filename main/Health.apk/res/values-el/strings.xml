@@ -339,6 +339,12 @@
     <string name="dream_talk_record">Καταγράφηκε όταν μιλήσατε κατά τη διάρκεια του ύπνου σας</string>
     <string name="dream_talk_title">Ομιλία</string>
     <string name="drink_water">Πιείτε λίγο νερό και κάντε μια βόλτα.</string>
+    <string name="dual_video_record_merged">Συνδυασμένο</string>
+    <string name="dual_video_record_standalone">Διαχωρισμένο</string>
+    <string name="dual_video_user_guide_main_content">Για να δημιουργήσετε βίντεο με πολλές κάμερες, επιλέξτε δύο κάμερες στη συσκευή σας και πραγματοποιήστε ταυτόχρονα λήψη. Οι εγγραφές μπορούν να αποθηκευτούν ξεχωριστά ή να συνδυαστούν σε διαιρεμένη προβολή ή βίντεο με εικόνα σε εικόνα.</string>
+    <string name="dual_video_user_guide_main_title">Βίντεο πολλαπλών καμερών</string>
+    <string name="dual_video_user_guide_merge_content">Λήψη με δύο κάμερες ταυτόχρονα και συνδυάστε εγγραφές σε διαιρεμένη προβολή ή βίντεο με εικόνα σε εικόνα.</string>
+    <string name="dual_video_user_guide_standalone_content">Λήψη με δύο κάμερες ταυτόχρονα και αποθηκεύστε και τις δύο εγγραφές ως ξεχωριστά βίντεο.</string>
     <string name="each_week_day_format1">Κάθε %1$s</string>
     <string name="each_week_day_format2">Κάθε %1$s, %2$s, και %3$s</string>
     <string name="each_week_day_format3">Κάθε %1$s μέχρι %2$s</string>
@@ -503,11 +509,13 @@
     <string name="hour">Ω</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
+    <string name="hr_camera_permission_desc">Για την επίτευξη της συχνότητας των αλλαγών του φωτός γύρω από το δάκτυλο μέσω της κάμερας, προκειμένου να προσδιοριστεί η τιμή του καρδιακού ρυθμού</string>
     <string name="hr_choose_detect_state">Σε ποια κατάσταση βρίσκεσαι τώρα;</string>
     <string name="hr_cover_to_red">Με το δάκτυλο καλύψετε την κάμερα μέχρι να γίνει κόκκινος ο κύκλος.</string>
     <string name="hr_detect">Μέτρηση καρδιακού ρυθμού</string>
     <string name="hr_detect_desc">Κατά τη διάρκεια της μέτρησης, το Φλάς του τηλεφώνου σας θα χρησιμοποιηθεί ως συνεχής πηγή φωτός, και η κάμερα θα ανιχνεύσει αλλαγές στη ροή του αίματος. Στη συνέχεια, οι εικόνες θα αναλυθούν και ο καρδιακός σας ρυθμός θα προσδιοριστεί με βάση τα επαναλαμβανόμενα μοτίβα.</string>
     <string name="hr_detect_finished">Ολοκληρώθηκε!</string>
+    <string name="hr_detect_fps_jitter">"Αδυναμία μέτρησης καρδιακού ρυθμού. Ξαναδοκιμάστε."</string>
     <string name="hr_detect_paused">Παύση ανίχνευσης</string>
     <string name="hr_detect_principle_desc_1">Μέσω του Φλάς της κάμερας, ως συνεχής πηγή φωτός, αγγίζετε το δάχτυλο απαλά στην κάμερα, για να λάβει την εικόνα ροής αίματος, μέσω της ανάλυσης εικόνας, μπορεί να συλλέξει το σταθερό σήμα παλμού, επιτυγχάνοντας έτσι την τιμή του καρδιακού ρυθμού.</string>
     <string name="hr_detect_principle_desc_2">Πολλαπλοί έλεγχοι δείχνουν ότι το περιθώριο σφάλματος για αυτή τη μέθοδο είναι περίπου 2 παλμοί ανά λεπτό.</string>

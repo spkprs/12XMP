@@ -506,8 +506,8 @@
      <string name="xspace_disable">Δεν δημιουργήθηκε</string>
      <string name="xspace_enable">Δημιουργήθηκε</string>
      <string name="xspace_facebook_title">FaceBook</string>
-     <string name="xspace_guide_des">Χρήση 2 λογαριασμών χωρίς εναλλαγή</string>
-     <string name="xspace_guide_title">Δημιουργήστε μια Διπλή εφαρμογή</string>
+     <string name="xspace_guide_des">Οι διπλές εφαρμογές σάς επιτρέπουν να χρησιμοποιείτε δύο λογαριασμούς ταυτόχρονα</string>
+     <string name="xspace_guide_title">Δοκιμάστε Διπλές εφαρμογές</string>
      <string name="xspace_header">Διπλές εφαρμογές</string>
      <string name="xspace_instagram_title">Instagram</string>
      <string name="xspace_install_completed">Το εικονίδιο προστέθηκε στην Αρχική οθόνη</string>
@@ -530,4 +530,10 @@
      <string name="xspace_weibo_title">Weibo</string>
      <string name="xspace_weixin_title">WeChat</string>
      <string name="xspace_whatsapp_title">WhatsApp</string>
+     <string name="xspace_guide_content_bound">Διαθέσιμες εφαρμογές</string>
+     <string name="xspace_guide_description">"Κάθε λογαριασμός
+αξίζει τη δική του εφαρμογή"</string>
+     <string name="xspace_install_complete">&lt;font>Δημιουργήθηκε με επιτυχία. &lt;/font>&lt;font color=#0D84FF>Άνοιγμα τώρα&lt;/font></string>
+     <string name="xspace_notification_button">Δοκιμάστε</string>
+     <string name="xspace_start">Δημιουργία</string>
 </resources>

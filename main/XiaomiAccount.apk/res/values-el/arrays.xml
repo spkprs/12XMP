@@ -34,10 +34,15 @@
         <item></item>
         <item></item>
      </string-array>
-    <string-array name="settings_search_account_and_authority">
+    <string-array name="settings_search_account_and_authority_global">
         <item>Λογαριασμοί</item>
         <item>Προσθήκη και διαχείριση λογαριασμών τρίτων</item>
-        <item>Άδεια;Λογαριασμός;Mi Λογαριασμός;Προσθήκη;Αγορά;Xiaomi;Προβολή;SNS;WeChat;Google;Weibo</item>
+        <item>Άδεια;Λογαριασμός;Mi Λογαριασμός;Προσθήκη;Ζεύγος;Xiaomi;Προβολή;SNS;Google;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Λογαριασμοί</item>
+        <item>Προσθήκη και διαχείριση λογαριασμών τρίτων</item>
+        <item>Άδεια;Λογαριασμός;Mi Λογαριασμός;Προσθήκη;Ζεύγος;Xiaomi;Προβολή;SNS;WeChat;QQ;Weibo</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Αλλαγή κωδικού</item>

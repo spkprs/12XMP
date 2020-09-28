@@ -74,6 +74,8 @@
     <string name="accessibility_document_strengthen_button">Σάρωση εγγράφων. Βελτιωμένο.</string>
     <string name="accessibility_dual_preview_change">Προβολή αλλαγών</string>
     <string name="accessibility_dual_preview_change_finish">Οι αλλαγές προβλήθηκαν με επιτυχία</string>
+    <string name="accessibility_dual_video_merged">Συνδυασμένα βίντεο</string>
+    <string name="accessibility_dual_video_standalone">Διαχωρισμένα βίντεο</string>
     <string name="accessibility_effect_mode_button">Διακόπτης Εφέ</string>
     <string name="accessibility_eis_normal">Ενεργή EIS</string>
     <string name="accessibility_eis_off">Ανενεργή EIS</string>
@@ -296,6 +298,7 @@
     <string name="ambilight_tips_for_using_tripod">Χρησιμοποιήστε τρίποδο</string>
     <string name="app_name">Προτίμηση</string>
     <string name="audio_focus_exit_button_text">"Απενεργοποίηση Eστίασης ήχου "</string>
+    <string name="auto_hibernation_enter_tip">Σχετικά με την ανενεργή οθόνη…</string>
     <string name="autozoom_click_hint">Αγγίξτε ένα αντικείμενο και κρατήσετε το εστιασμένο ενώ κινείται. Μείνετε τουλάχιστον 3 μέτρα μακριά για καλύτερο αποτέλεσμα.</string>
     <string name="autozoom_disabled_hint">Σταμάτησε η παρακολούθηση κινούμενου αντικειμένου</string>
     <string name="autozoom_hint">Παρακολούθηση κινούμενου αντικειμένου</string>
@@ -894,6 +897,8 @@
     <string name="pref_camera_auto_capture_when_stable_summary">Για επιλογή ένος αντικειμένου, αγγίξτε δύο διαγώνια σημεία γύρω από το περίγραμμα του. Όταν το αντικείμενο είναι ακίνητο, η κάμερα θα τραβήξει στιγμιαία μια λήψη.</string>
     <string name="pref_camera_auto_capture_when_stable_title">Καταγραφή επιλεγμένων αντικειμένων όταν είναι ακίνητα</string>
     <string name="pref_camera_auto_chroma_flash_title">Χρώμα Φλάς</string>
+    <string name="pref_camera_auto_hibernation">Λήψη με ανενεργή οθόνη</string>
+    <string name="pref_camera_auto_hibernation_description">Απενεργοποίηση οθόνης μετά από %d λεπτά λήψης για εξοικονόμηση ενέργειας</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Σταθμισμένο Κέντρο</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Μέσος όρος πλαισίου</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Σημειακή μέτρηση</string>
