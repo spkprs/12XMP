@@ -1660,7 +1660,7 @@
     <string name="contributors_title">Συνεργάτες</string>
     <string name="control_center">Κέντρο ελέγχου</string>
     <string name="control_center_style">Στυλ Κέντρου Ελέγχου</string>
-    <string name="control_center_style_summary">"Επιλέξτε τον τρόπο με τον οποίο θέλετε να εμφανίζονται τα πλακίδια και οι ειδοποιήσεις"</string>
+    <string name="control_center_style_summary">"Επιλέξτε τον τρόπο με τον οποίο θέλετε να εμφανίζονται οι διακόπτες και οι ειδοποιήσεις"</string>
     <string name="control_panel_switch_side">Πλευρά διακόπτη Κέντρου Ελέγχου</string>
     <string name="controls_label">Έλεγχοι</string>
     <string name="controls_subtitle">Ρυθμίστε τη χρήση ενέργειας</string>
@@ -3246,7 +3246,7 @@
     <string name="led_pulse_summary">Χρήση του LED για νέες ειδοποιήσεις</string>
     <string name="led_settings">LED ειδοποίησης</string>
     <string name="left_function_key">Αριστερή συντόμευση</string>
-    <string name="legacy_control_center_desc">Τραβήξτε προς τα κάτω τη γραμμή κατάστασης για να δείτε πλακίδια και ειδοποιήσεις</string>
+    <string name="legacy_control_center_desc">Τραβήξτε προς τα κάτω τη γραμμή κατάστασης για να δείτε διακόπτες και ειδοποιήσεις</string>
     <string name="legacy_control_center_title">Παλαιά έκδοση</string>
     <string name="legacy_navigation_summary">Επιστρέψτε, Αρχική σελίδα και αλλάξτε εφαρμογές με κουμπιά στο κάτω μέρος της οθόνης σας.</string>
     <string name="legacy_navigation_title">πλοήγηση με 3 κουμπιά</string>
@@ -4924,7 +4924,7 @@
     <string name="qtifeedback_settings_subtitle">Αναφορά στην Qualcomm Technologies</string>
     <string name="qtifeedback_settings_title">Ανάδραση υλικού</string>
     <string name="quick_reply_title">Γρήγορες απαντήσεις</string>
-    <string name="quick_settings_developer_tiles">Πλακίδια προγραμματιστή για γρήγορες ρυθμίσεις</string>
+    <string name="quick_settings_developer_tiles">Διακόπτες προγραμματιστή για γρήγορες ρυθμίσεις</string>
     <string name="quick_settings_label">Εικονίδια πίνακα</string>
     <string name="quick_settings_under_keyguard_summary">Επιτρέψτε την πρόσβαση σε γρήγορες ρυθμίσεις ενώ η συσκευή είναι κλειδωμένη</string>
     <string name="quick_settings_under_keyguard_title">Πρόσβαση γρήγορων ρυθμίσεων</string>

@@ -466,6 +466,12 @@
     <string name="dual_camera_lowlight_toast">Φαίνεται ότι είναι πολύ σκοτεινά.</string>
     <string name="dual_camera_too_close_toast">Η κάμερα είναι πάρα πολύ κοντά στο αντικείμενο.</string>
     <string name="dual_camera_use_hint">Βεβαιωθείτε ότι το αντικείμενο δεν απέχει περισσότερο από 2 μέτρα.</string>
+    <string name="dual_video_record_merged">Συνδυασμένο</string>
+    <string name="dual_video_record_standalone">Διαχωρισμένο</string>
+    <string name="dual_video_user_guide_main_content">Για να δημιουργήσετε βίντεο με πολλές κάμερες, επιλέξτε δύο κάμερες στη συσκευή σας και πραγματοποιήστε ταυτόχρονα λήψη. Οι εγγραφές μπορούν να αποθηκευτούν ξεχωριστά ή να συνδυαστούν σε διαιρεμένη προβολή ή βίντεο με εικόνα σε εικόνα.</string>
+    <string name="dual_video_user_guide_main_title">Βίντεο πολλαπλών καμερών</string>
+    <string name="dual_video_user_guide_merge_content">Λήψη με δύο κάμερες ταυτόχρονα και συνδυάστε εγγραφές σε διαιρεμένη προβολή ή βίντεο με εικόνα σε εικόνα.</string>
+    <string name="dual_video_user_guide_standalone_content">Λήψη με δύο κάμερες ταυτόχρονα και αποθηκεύστε και τις δύο εγγραφές ως ξεχωριστά βίντεο.</string>
     <string name="edit_blusher">Ρούζ</string>
     <string name="edit_chin">Πηγούνι</string>
     <string name="edit_eye_large">Μεγάλα μάτια</string>

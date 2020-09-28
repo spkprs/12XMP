@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fileCount">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d ειδοπ. στο Πρώτο χώρο</item>
+        <item quantity="one">%d ειδοπ. στο Πρώτο χώρο</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Αναζήτηση %d εφαρμ.</item>
+        <item quantity="one">Αναζήτηση %d εφαρμ.</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d ειδοπ. στο Δεύτερο χώρο</item>
+        <item quantity="one">%d ειδοπ. στο Δεύτερο χώρο</item>
+    </plurals>
+    <plurals name="xspace_guide_content">
+        <item quantity="other">Μπορείτε να δημιουργήσετε &lt;font color=#0D84FF>%d&lt;/font> &lt;font>διπλές εφαρμογές&lt;/font></item>
+        <item quantity="one">Μπορείτε να δημιουργήσετε &lt;font color=#0D84FF>%d&lt;/font> &lt;font>διπλή εφαρμογή&lt;/font></item>
+    </plurals>
+</resources>

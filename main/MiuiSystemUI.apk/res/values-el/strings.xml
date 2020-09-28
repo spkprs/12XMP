@@ -294,7 +294,7 @@
   <string name="adb_keys_warning_message">Ανακαλείτε την πρόσβαση σφαλμάτων USB από όλους τους υπολογιστές που έχετε ήδη εγκρίνει;</string>
   <string name="adb_warning_message">Η καταγραφή σφαλμάτων USB προορίζεται μόνο για αναπτυξιακούς σκοπούς. Χρησιμοποιείται για να αντιγράψετε δεδομένα μεταξύ του υπολογιστή σας και της συσκευής σας, εγκατάσταση εφαρμογών στη συσκευή σας χωρίς ειδοποίηση και ανάγνωση των αρχείων καταγραφής.</string>
   <string name="adb_warning_title">Επιτρέπετε την κατ. σφαλμ. USB?</string>
-  <string name="add_tile">Προσθήκη πλακιδίου</string>
+  <string name="add_tile">Προσθήκη διακόπτη</string>
   <string name="adjust_button_width">Ρυθμίστε το πλάτος πλήκτρου</string>
   <string name="airplane_mode">Πτήση</string>
   <string name="alarm_template">στο %1$s</string>
@@ -452,7 +452,7 @@
   <string name="bluetooth_tethered">Το Bluetooth είναι προσδεμένο</string>
   <string name="branded_monitoring_description_app_personal">Έχετε συνδεθεί σε %1$s, που μπορεί να παρακολουθεί τη δραστηριότητα του προσωπικού σας δικτύου, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου, των εφαρμογών και των ιστότοπων.</string>
   <string name="branded_vpn_footer">Το δίκτυο μπορεί να παρακολουθείται</string>
-  <string name="broadcast_tile">Πλακίδιο Μετάδοσης</string>
+  <string name="broadcast_tile">Διακόπτης Μετάδοσης</string>
   <string name="bt_hci_snoop_log">Ενεργοποιήστε το αρχείο καταγραφής snoop Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Καταγράψτε όλα τα πακέτα HCI Bluetooth σε ένα αρχείο</string>
   <string name="bt_is_off">Το Bluetooth είναι απενεργοποιημένο</string>
@@ -1180,7 +1180,7 @@
   <string name="no_bubbles">Αρνηθεί</string>
   <string name="no_multi_window_app">Δεν υπάρχουν εφαρμογές που να υποστηρίζουν τη λειτουργία πολλαπλών παραθύρων</string>
   <string name="no_notification_tips">Χωρίς ειδοποιήσεις</string>
-  <string name="no_tiles_add">Δεν υπάρχουν πλακίδια για προσθήκη</string>
+  <string name="no_tiles_add">Δεν υπάρχουν διακόπτες για προσθήκη</string>
   <string name="no_weather_description">Λήψη πληροφοριών καιρού ></string>
   <string name="not_set">Δεν έχει οριστεί</string>
   <string name="not_support_multi_window">Η τρέχουσα εφαρμογή δεν υποστηρίζει τη λειτουργία πολλαπλών παραθύρων</string>

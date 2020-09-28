@@ -339,12 +339,6 @@
     <string name="dream_talk_record">Καταγράφηκε όταν μιλήσατε κατά τη διάρκεια του ύπνου σας</string>
     <string name="dream_talk_title">Ομιλία</string>
     <string name="drink_water">Πιείτε λίγο νερό και κάντε μια βόλτα.</string>
-    <string name="dual_video_record_merged">Συνδυασμένο</string>
-    <string name="dual_video_record_standalone">Διαχωρισμένο</string>
-    <string name="dual_video_user_guide_main_content">Για να δημιουργήσετε βίντεο με πολλές κάμερες, επιλέξτε δύο κάμερες στη συσκευή σας και πραγματοποιήστε ταυτόχρονα λήψη. Οι εγγραφές μπορούν να αποθηκευτούν ξεχωριστά ή να συνδυαστούν σε διαιρεμένη προβολή ή βίντεο με εικόνα σε εικόνα.</string>
-    <string name="dual_video_user_guide_main_title">Βίντεο πολλαπλών καμερών</string>
-    <string name="dual_video_user_guide_merge_content">Λήψη με δύο κάμερες ταυτόχρονα και συνδυάστε εγγραφές σε διαιρεμένη προβολή ή βίντεο με εικόνα σε εικόνα.</string>
-    <string name="dual_video_user_guide_standalone_content">Λήψη με δύο κάμερες ταυτόχρονα και αποθηκεύστε και τις δύο εγγραφές ως ξεχωριστά βίντεο.</string>
     <string name="each_week_day_format1">Κάθε %1$s</string>
     <string name="each_week_day_format2">Κάθε %1$s, %2$s, και %3$s</string>
     <string name="each_week_day_format3">Κάθε %1$s μέχρι %2$s</string>
