@@ -64,6 +64,7 @@
     <string name="afternoon">ΠΜ</string>
     <string name="all_resources">Όλα</string>
     <string name="already_latest_version">Ενημερωμένη</string>
+    <string name="already_newest_version">Η τρέχουσα έκδοση είναι ενημερωμένη</string>
     <string name="am">ΜΜ</string>
     <string name="anonymous_resource_link_error">"Δεν ήταν δυνατή η προσθήκη"</string>
     <string name="anonymous_resource_link_hint">"Ορισμένα στοιχεία δεν προστίθενται στο λογαριασμό σας. Προσθήκη τώρα;"</string>
@@ -116,6 +117,7 @@
     <string name="both_all_apply_success">Ταπετσαρία εφαρμόστηκε</string>
     <string name="browser_local_resource">Τοπικές πηγές</string>
     <string name="can_not_apply">Δεν μπορεί να εφαρμοστεί</string>
+    <string name="cancel_download">Η λήψη ακυρώθηκε</string>
     <string name="card_data_request_error">Παρουσιάστηκε σφάλμα. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
     <string name="card_loading">Μισό λεπτό…</string>
     <string name="card_no_network">Αδύνατη η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
@@ -205,6 +207,7 @@
     <string name="description_uploadtime">Ενημέρωση</string>
     <string name="description_version">Έκδοση</string>
     <string name="description_version_szie">Έκδοση: %1$s Μέγεθος: %2$s</string>
+    <string name="desk_loop_will_change">Προσοχή</string>
     <string name="desktop_effects">Εφέ αρχικής οθόνης</string>
     <string name="desktop_wallpaper">Επιφάνεια εργασίας</string>
     <string name="detail_author_attention_head">Ακολουθήστε μερικούς από τους πιο εκλεκτούς σχεδιαστές μας</string>
@@ -362,6 +365,7 @@
     <string name="incompatible_dialog_message">Αυτό το θέμα δεν είναι πλήρως συμβατό με το MIUI 11 ακόμα. Ορισμένες σελίδες ενδέχεται να μην λειτουργούν σωστά.</string>
     <string name="incompatible_dialog_ok">Το κατάλαβα</string>
     <string name="incompatible_dialog_title">Θέματα συμβατότητας</string>
+    <string name="install_failed">"Δεν ήταν δυνατή η εγκατάσταση"</string>
     <string name="is_setting_wallpaper_message">Ρύθμιση ταπετσαρίας…</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ειδοποιήσεις</string>
@@ -508,7 +512,9 @@
     <string name="my_gifts_purchased">Αγορασμένα</string>
     <string name="my_gifts_received">Ληφθέντα</string>
     <string name="network_exception">Αδυναμία σύνδεσης. Ελέξτε το δίκτυό σας και ξαναδοκιμάστε.</string>
+    <string name="no_cta_agreed">"Το GetApps δεν διαθέτει δικαιώματα CTA"</string>
     <string name="no_data">Αδυναμία σύνδεσης στο δίκτυο</string>
+    <string name="no_install_permission">"Δεν έχετε δικαιώματα εγκατάστασης αυτού του στοιχείου"</string>
     <string name="no_net_work_connection">Ελέξτε το δίκτυό σας και ξαναδοκιμάστε.</string>
     <string name="no_network_desc">Δεν ήταν δυνατή η σύνδεση στο δίκτυο</string>
     <string name="no_network_please_retry">Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά</string>
@@ -535,6 +541,7 @@
     <string name="ota_recovery_theme_notity_title">Επαναφέρετε το θέμα σας</string>
     <string name="password_toggle_content_description">Εμφάνιση κωδικού</string>
     <string name="playing_ringtone">Αναπαράγεται</string>
+    <string name="pref_lockscreen_magazine_summary">Αντικατάσταση ταπετσαρίας με διαφάνειες εικόνων από διάφορες κατηγορίες</string>
     <string name="pref_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="present_local_fonts">Οι γραμ/σειρές μου</string>
     <string name="present_local_themes">Ληφθέντα</string>
@@ -809,6 +816,7 @@
     <string name="service_btn_text_try">Δοκιμάστε το</string>
     <string name="set_color_ring_back_tone">Ορισμός προσαρμοσμένου τόνου επιστροφής</string>
     <string name="set_home_wallpaper_failed">%s. Δεν είναι δυνατή η εφαρμογή ταπετσαρίας στην Αρχική οθόνη.</string>
+    <string name="set_wallpaper_group_success">%1$s εφαρμόστηκε.\nΘα βλέπετε μια νέα εικόνα κάθε ώρα.</string>
     <string name="setting_font_online">Διαδικτυακές γραμματοσειρές</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="settings_search_keyword_font_free">Δωρεάν γραμ/σειρές</string>
@@ -844,6 +852,12 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Κυριακή</string>
     <string name="super_wallpaper">Σούπερ ταπετσαρίες</string>
+    <string name="super_wallpaper_list_label">Super ταπετσαρίες</string>
+    <string name="super_wallpaper_setting_apply_success_toast">Εφαρμόστηκε με επιτυχία</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Εφαρμογή</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">Επιλογή θέσης</string>
+    <string name="super_wallpaper_setting_coordinate_title">Συντεταγμένες</string>
+    <string name="super_wallpaper_setting_view_height_title">Υψόμετρο</string>
     <string name="support_theme_store_des">Τα καλά θέματα δημιουργούνται πάντα από ταλαντούχους σχεδιαστές. Η εφαρμογή μας περιέχει έναν μικρό αριθμό διαφημίσεων που μας επιτρέπουν να υποστηρίξουμε το έργο τους.</string>
     <string name="support_theme_store_supported">Ευχαριστώ για την υποστήριξη!</string>
     <string name="support_theme_store_title">Υποστηρίξτε τους σχεδιαστές μας</string>
@@ -859,6 +873,7 @@
     <string name="system_cta_runtime_perm_desc_storage">Για την φύλαξη αποθηκευμένων θεμάτων και άλλων στοιχείων</string>
     <string name="system_precust">Προεγκατεστημένες</string>
     <string name="tag_ad">Προσθήκη</string>
+    <string name="task_already_exist">Αυτή η εργασία υπάρχει ήδη</string>
     <string name="the_picture_is_not_support">Η εικόνα δεν υποστηρίζεται</string>
     <string name="the_picture_is_too_small">Η εικόνα είναι πολύ μικρή</string>
     <string name="theme_apply_audio_dialog_item_alarm">Αφύπνιση</string>
@@ -1010,6 +1025,7 @@
     <string name="uid_change_dialog_title">Επανεκκινήστε τη συσκευή</string>
     <string name="unable_connect_network">Αδύνατη η σύνδεση στο δίκτυο</string>
     <string name="up_to_the_end">Αυτά για τώρα. Ελάτε αργότερα.</string>
+    <string name="update">Ενημέρωση</string>
     <string name="update_btn">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</string>
     <string name="update_check">Ελεγχος για ενημερώσεις</string>
     <string name="update_checking">Ελεγχος για ενημερώσεις…</string>
@@ -1046,6 +1062,7 @@
     <string name="wallpaper_detail_load_page_no_network">Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά.</string>
     <string name="wallpaper_download_incall_show">Λήψη βίντεο</string>
     <string name="wallpaper_dynamic">Κινούμενες</string>
+    <string name="wallpaper_group_set_loop">Οθόνη Κλειδώματος παρουσίασης  με παρόμοιες εικόνες</string>
     <string name="wallpaper_loop_add_success">Προστέθηκε με επιτυχία</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Προσθήκη παρουσίασης στην Αρχική οθόνη</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Προσθήκη παρουσίασης στην Οθόνη Κλειδώματος</string>
@@ -1079,9 +1096,20 @@
     <string name="wallpaper_set_as_float_wallpaper">Ορισμός Διάφανης ταπετσαρίας</string>
     <string name="wallpaper_set_as_incall_show">Ορισμός ως βίντεο προφίλ</string>
     <string name="wallpaper_set_as_lockscreen">Ορισμός ως οθόνη Κλειδώματος</string>
+    <string name="wallpaper_set_as_loop_extra_msg">Όλοι χρησιμοποιούν</string>
     <string name="wallpaper_setting_all">Όλες οι ταπετσαρίες</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">Περισσότερες διαδικτυακές ταπετσαρίες</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Αρχική οθόνη</string>
     <string name="wallpaper_setting_library">Βιβλιοθήκη</string>
     <string name="wallpaper_setting_live">Ζωντανές</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Οθόνη Κλειδώματος</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Διαδικτυακές ταπετσαρίες</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">Ανακαλύψτε ταπετσαρίες</string>
+    <string name="wallpaper_setting_online_wallpaper_title">Διαδικτυακές ταπετσαρίες</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">Super ταπετσαρίες</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Περισσότερα</string>
+    <string name="wallpaper_setting_title">Ταπετσαρία</string>
     <string name="wallpaper_settings">Ρυθμίσεις ταπετσαρίας</string>
     <string name="wallpaper_settings_loading_text">Μισό λεπτό…</string>
     <string name="wallpaper_settings_no_history">Δεν υπάρχει ιστορικό</string>
@@ -1089,6 +1117,7 @@
     <string name="wallpaper_settings_page_title">Ταπετσαρία</string>
     <string name="wallpaper_share_alert">Παρουσιάστηκε σφάλμα. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
     <string name="wallpaper_static">Στατικές</string>
+    <string name="warning_subscribe_wallpaper_group_content">"Έχετε ενεργοποιήσει την προβολή σλάιντ αρχικής οθόνης. Η %1$s θα εφαρμοστεί στην αρχική οθόνη σας."</string>
     <string name="wechat_not_found">Εγκαταστήστε πρώτα το WeChat</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="weibo">Weibo</string>
