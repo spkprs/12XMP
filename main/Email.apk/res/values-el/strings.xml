@@ -3,6 +3,9 @@
     <string name="SMTP_independent_verification_text">Ανεξάρτητη επαλήθευση SMTP</string>
     <string name="SMTP_password_text">Κωδικός πρόσβασης</string>
     <string name="SMTP_username_text">Όνομα χρήστη</string>
+    <string name="about_checking_update">Έλεγχος ενημέρωσης ...</string>
+    <string name="about_go_to_update">Μετάβαση στην ενημέρωση</string>
+    <string name="about_lasted_version">Είναι η τελευταία έκδοση</string>
     <string name="account_add_title">Επιλέξτε μια υπηρεσία email</string>
     <string name="account_cache_provider">Λογαριασμό Cache Provider</string>
     <string name="account_duplicate_dlg_message_fmt">Χρησιμοποιείτε ήδη το όνομα χρήστη για τον λογαριασμό \"%s\".</string>
@@ -19,6 +22,8 @@
     <string name="account_security_verification">Επαλήθευση λογαριασμού</string>
     <string name="account_set_up_change_type_note">Εάν θέλετε να ρυθμίσετε το λογαριασμό μεταγωγής πριν POP3 και IMAP, θα πρέπει πρώτα να διαγράψετε το λογαριασμό, την εκ νέου είσοδο ρυθμίσετε.</string>
     <string name="account_setting">Λογαριασμοί</string>
+    <string name="account_setting_general_summry">Ορισμός κοινών λειτουργιών μέσω Email</string>
+    <string name="account_setting_general_title">Ρυθμίσεις λειτουργιών</string>
     <string name="account_setting_keywords">Λογαριασμοί;λογαριασμοί mail</string>
     <string name="account_setting_message_body_load_complete">Ολόκληρο μήνυμα</string>
     <string name="account_setting_message_body_load_head_abstract">Περίληψη Email</string>
@@ -28,8 +33,10 @@
     <string name="account_settings_background_attachments_label">Λήψη συνημμένων</string>
     <string name="account_settings_background_attachments_summary">Αυτόματη λήψη συνημμένων στα πρόσφατα μηνύματα μέσω Wi‑Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Λήψη συνημμένων μέσω Wi-Fi</string>
+    <string name="account_settings_background_attachments_title">Αυτόματη λήψη συνημμένων</string>
     <string name="account_settings_data_usage">Χρήση δεδομένων</string>
     <string name="account_settings_description_label">Όνομα λογαριασμού</string>
+    <string name="account_settings_does_not_support_pop">Το πρωτόκολλο POP3 δεν υποστηρίζει τη ρύθμιση αυτού του στοιχείου</string>
     <string name="account_settings_edit_quick_responses_label">Γρήγορες απαντήσεις</string>
     <string name="account_settings_edit_quick_responses_summary">Επεξεργαστείτε τα σύντομα μηνύματα που μπορείτε να επικολλήσετε σε μηνύματα ηλεκτρονικού ταχυδρομείου σας</string>
     <string name="account_settings_enforced_label">Πολιτικές</string>
@@ -164,6 +171,7 @@
     <string name="account_sync_settings_settings">Συγχρονισμός επαφών και ημερολογίου</string>
     <string name="account_sync_settingstip_description">Συγχρονισμός</string>
     <string name="account_waiting_for_folders_msg">Φόρτωση λίστας φακέλων…</string>
+    <string name="action_filter">Φίλτρο</string>
     <string name="actionbar_more_option">Περισσότερες επιλογές</string>
     <string name="activity_folder_selection">Επιλέξτε φάκελο</string>
     <string name="activity_mailbox_selection">Επιλέξτε λογαριασμό</string>
@@ -637,6 +645,8 @@
     <string name="info_switch_title">Ειδήσεις στα εισερχόμενα</string>
     <string name="inline_picture_deleted">Αδυναμία εύρεσης αυτής της εικόνας. Λήψη…</string>
     <string name="input_password_prompt">Παρακαλώ εισάγετε τον κωδικό:</string>
+    <string name="install_mime_encrypt_cert">Εγκατάσταση πιστοποιητικού κρυπτογράφησης S/MIME</string>
+    <string name="install_mime_sign_cert">Εγκατάσταση πιστοποιητικού υπογραφής S/MIME</string>
     <string name="interact_with_server_error">Αδυναμία σύνδεσης στο διακομιστή</string>
     <string name="invalid_recipient">Η διεύθυνση %s δεν είναι έγκυρη.</string>
     <string name="invalid_recipient_title">Σφάλμα Παραλήπτη</string>
@@ -671,6 +681,7 @@
     <string name="login_failed_tip">"Επικοινωνήστε μαζί μας στο WeChat για να λάβετε βοήθεια: "</string>
     <string name="login_failed_title">Αδύνατη η σύνδεση</string>
     <string name="login_mail">Σύνδεση Mail</string>
+    <string name="login_manual">Μη αυτόματη ρύθμιση</string>
     <string name="login_qq_psw">Μη αυτόματη εισαγωγή κωδικού</string>
     <string name="login_support_tip_text">Υποστηρίζει όλους τους σημαντικούς email λογαριασμούς</string>
     <string name="long_press_to_select_tip">Αγγίξτε παρατεταμένα για να επιλέξετε μία συζήτηση, στη συνέχεια, πατήστε για να επιλέξετε περισσότερα.</string>
@@ -706,6 +717,8 @@
     <string name="mailbox_name_server_sent">Αποστολή</string>
     <string name="mailbox_name_server_starred">Πρωταγωνίστησε</string>
     <string name="mailbox_name_server_trash">Κάδος</string>
+    <string name="mailbox_setting_preference_sync_summary_close">Συγχρονισμός: Off</string>
+    <string name="mailbox_setting_preference_sync_summary_open">Συγχρονισμός: On</string>
     <string name="mailbox_settings_activity_title">Επιλογές συγχρονισμού</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Επιλογές συγχρονισμού (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Μέρες για συγχρονισμού email</string>

@@ -2637,6 +2637,10 @@
     <string name="privacy_provision_summary">Η προστασία της ιδιωτικής ζωής είναι η δέσμευση πίσω από το σχεδιασμό των προϊόντων μας</string>
     <string name="privacy_provision_text">Δεσμευόμαστε να σεβόμαστε και να προστατεύουμε το απόρρητό σας. Δίνοντας προτεραιότητα στην έρευνα και την ανάπτυξη στον τομέα της ασφάλειας των πληροφοριών, η Xiaomi εργάζεται συνεχώς για τη βελτίωση των μεθόδων, των πρακτικών και των τεχνικών λύσεων που προστατεύουν τα δεδομένα σας. Μοιραζόμαστε επίσης τα τελευταία επιτεύγματά μας με τους συνεργάτες μας, προκειμένου να διασφαλίσουμε την ιδιωτικότητά σας σε όλους τους τομείς.</string>
     <string name="privacy_provision_title">Απόρρητο</string>
+    <string name="privacy_revoke_dialog_content">Ενεργοποιώντας τον διακόπτη, ανακαλείτε τη συγκατάθεσή σας για την Πολιτική Απορρήτου της Ασφάλειας Θα σταματήσουμε να συλλέγουμε τα προσωπικά σας στοιχεία. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και διατηρηθεί θα διαγραφούν εντός της συγκεκριμένης περιόδου όπως απαιτείται από τους ισχύοντες νόμους. Η ασφάλεια πρέπει να συλλέξει τις απαραίτητες προσωπικές πληροφορίες για να σας παρέχει βασικές υπηρεσίες. Η ανάκληση της συγκατάθεσής σας για την Πολιτική Απορρήτου θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών της βάσει συλλεγόμενων προσωπικών πληροφοριών.</string>
+    <string name="privacy_revoke_dialog_negetive_text">Ακύρωση</string>
+    <string name="privacy_revoke_dialog_positive_text">Ανάκληση</string>
+    <string name="privacy_revoke_dialog_title">Ανάκληση συγκατάθεσης</string>
     <string name="privacy_search_key_1">Απόρρητο</string>
     <string name="privacy_search_key_10">Αναγνωριστικό συσκευής</string>
     <string name="privacy_search_key_2">Παρακολούθηση δικτύου</string>
@@ -2821,6 +2825,8 @@
     <string name="settings_image_camera_summary">Μοντέλο συσκευής, μεταδεδομένα κ.λ.π.</string>
     <string name="settings_location_subtitle_no">Χωρίς πληροφορίες τοποθεσίας</string>
     <string name="settings_power_save_ontime_title">Χρονοδιάγραμμα</string>
+    <string name="settings_privacy_revoke_desc">Ενεργοποιώντας τον διακόπτη, ανακαλείτε τη συγκατάθεσή σας για την Πολιτική Απορρήτου της Ασφάλειας</string>
+    <string name="settings_privacy_revoke_title">Ανάκληση συγκατάθεσης</string>
     <string name="settings_share_enable_summary">Τα στοιχεία που μοιράζεστε στο WeChat θα εμφανίζονται με μια κάρτα MIUI</string>
     <string name="settings_share_info">Ακολουθούν οι διαθέσιμες επιλογές ασφαλούς κοινής χρήσης για τα στοιχεία που είναι κοινόχρηστα από τη Συλλογή και τη Διαχείριση αρχείων:</string>
     <string name="settings_show_detail">Προβολή λεπτομερειών</string>
