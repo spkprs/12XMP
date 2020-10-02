@@ -74,7 +74,7 @@
   <string name="disable_aod_in_dark_room">Απενεργοποίηση όταν βρίσκεστε στο σκοτάδι</string>
   <string name="disable_aod_in_power_save_mode">Απενεργοποίηση σε ενεργή εξοικονόμηση μπαταρίας</string>
   <string name="disable_aod_in_power_save_mode_summary">Να μην εμφανίζονται στοιχεία για εξοικονόμηση ενέργειας</string>
-  <string name="dual_clock_tip">Το διπλό ρολόι είναι ενεργό. Πατήστε για να ανοίξετε τις Ρυθμίσεις.</string> - earlier was chinese, be careful, might be already
+  <string name="dual_clock_tip">Το διπλό ρολόι είναι ενεργό. Πατήστε για να ανοίξετε τις Ρυθμίσεις.</string>
   <string name="error_icon_content_description">Σφάλμα</string>
   <string name="expand_button_title">Σύνθετες</string>
   <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
