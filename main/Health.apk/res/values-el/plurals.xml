@@ -271,4 +271,58 @@
         <item quantity="other">" κύκλοι"</item>
         <item quantity="one">" κύκλος"</item>
     </plurals>
+     <plurals name="hr_fp_detect_time_remainder">
+         <item quantity="one">%1$d δευτ. απομένουν</item>
+         <item quantity="other">%1$d δευτ. απομένουν</item>
+     </plurals>
+     <plurals name="unit_hours">
+         <item quantity="one">" ώρ. "</item>
+         <item quantity="other">" ώρ. "</item>
+     </plurals>
+     <plurals name="unit_hours2">
+         <item quantity="one">" ώρ. "</item>
+         <item quantity="other">" ώρ. "</item>
+     </plurals>
+     <plurals name="unit_mins">
+         <item quantity="one">" λεπ. "</item>
+         <item quantity="other">" λεπ. "</item>
+     </plurals>
+     <plurals name="unit_mins2">
+         <item quantity="one">" λεπ. "</item>
+         <item quantity="other">" λεπ. "</item>
+     </plurals>
+     <plurals name="unit_seconds">
+         <item quantity="one">" δευτ. "</item>
+         <item quantity="other">" δευτ "</item>
+	 </plurals>
+     <plurals name="sport_tts_goal_time">
+         <item quantity="other">Μακριά από τον στόχο σας %s λ</item>
+     </plurals>
+     <plurals name="sporting_content_calories">
+         <item quantity="other">Συν. κατανάλωση%1$d Kcal</item>
+     </plurals>
+     <plurals name="sporting_content_riding_km">
+         <item quantity="other">Οδηγείτε ήδη %1$s χλμ</item>
+     </plurals>
+     <plurals name="sporting_content_running_km">
+         <item quantity="other">Τρέχετε ήδη %1$s χλμ</item>
+     </plurals>
+     <plurals name="sporting_content_speed">
+         <item quantity="other">Η τρέχουσα ταχύτητα είναι %1$dλ %2$d δ/χλμ</item>
+     </plurals>
+     <plurals name="sporting_content_time">
+         <item quantity="other">Κατά την κοινή χρήση %1$dλ %2$d δ</item>
+     </plurals>
+     <plurals name="sporting_content_walking_km">
+         <item quantity="other">Φύγαμε μαζί. %1$s χλμ</item>
+     </plurals>
+     <plurals name="sporting_content_walking_stpe">
+         <item quantity="other">Περπάτησες %1$d βήμ.</item>
+     </plurals>
+     <plurals name="sporting_unit_calories">
+         <item quantity="other">%1$d Kcal</item>
+     </plurals>
+     <plurals name="sporting_unit_km">
+         <item quantity="other">%1$s χλμ</item>
+     </plurals>
 </resources>

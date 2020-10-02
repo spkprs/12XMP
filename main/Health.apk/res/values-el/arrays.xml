@@ -128,5 +128,14 @@
          <item>Κάθε Σαββάτο</item>
          <item>Κάθε Κυριακή</item>
      </string-array>
+     <string-array name="HomePageTabTitle">
+         <item>Υγεία</item>
+         <item>Ασκηση</item>
+     </string-array>
+     <string-array name="SportTabTitle">
+         <item>Εξωτ. τρέξιμο</item>
+         <item>Περπάτημα</item>
+         <item>Εξωτ. ποδηλασία</item>
+         <item>Διάδρομος</item>
+     </string-array>
 </resources>
-

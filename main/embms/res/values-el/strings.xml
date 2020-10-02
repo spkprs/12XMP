@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_useEmbms">Κάνει το περιεχόμενο που μεταδίδεται από την υπηρεσία παροχής διαθέσιμο σε εφαρμογές στη συσκευή σας</string>
+    <string name="permlab_useEmbms">Πρόσβαση σε περιεχόμενο που μεταδόθηκε από την υπηρεσία παρόχου</string>
+</resources>
