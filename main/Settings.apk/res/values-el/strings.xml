@@ -6550,7 +6550,7 @@
     <string name="turn_on_keyguard_password_alert_choose">Να θυμάστε τον κωδικό σας. Αν τον ξεχάσετε, θα πρέπει να διαγράψετε όλα τα δεδομένα στη συσκευή σας για να ορίσετε ένα νέο.</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">Όχι τώρα</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Το κατάλαβα</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok_time">Το κατάλαβα (%ds)</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok_time">Το κατάλαβα (%dδ)</string>
     <string name="turn_on_keyguard_password_alert_forget_content">Να θυμάστε τον κωδικό κλειδώματος οθόνης. Αν τον ξεχάσετε, θα πρέπει να διαγράψετε όλα τα δεδομένα στη συσκευή σας συμπεριλαμβανομένων των φωτογραφιών και των επαφών και στη συνέχεια να ορίσετε ένα νέο.</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Να θυμάστε τον κωδικό σας</string>
     <string name="turn_on_security_lock">Προσθήκη κωδικού ασφαλείας</string>
