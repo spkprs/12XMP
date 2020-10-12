@@ -16,4 +16,8 @@
         <item quantity="other">Κρατήστε πατημένο το κουμπί για %1$s δευτ σε ανενεργή συσκευή</item>
         <item quantity="one">Κρατήστε πατημένο το κουμπί για %1$s δευτ σε ανενεργή συσκευή</item>
     </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Πατήστε και κρατήστε για %1$d δευτ. για επαναφορά</item>
+        <item quantity="one">Πατήστε και κρατήστε για %1$d δευτ. για επαναφορά</item>
+    </plurals>
 </resources>

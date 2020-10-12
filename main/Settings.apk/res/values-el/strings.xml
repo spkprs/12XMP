@@ -2244,6 +2244,7 @@
     <string name="doze_always_on_title">Πάντα στην Οθόνη</string>
     <string name="doze_summary">Ενεργοποίηση οθόνης όταν τη σηκώνετε ή όταν φτάνει νέα ειδοποίηση</string>
     <string name="doze_title">Πάντα στην Οθόνη</string>
+    <string name="dpp_qrcode_generator_summary">Σαρώστε αυτόν τον κωδικό QR με μια συσκευή που υποστηρίζει Εύκολη σύνδεση</string>
     <string name="draw_overlay">Επικάλυψη άλλων εφαρμογών</string>
     <string name="dsds_dialog_cancel">Ακύρωση</string>
     <string name="dsds_dialog_confirm">Επανεκκίνηση</string>
@@ -6790,6 +6791,7 @@
     <string name="usb_preference">Προτιμήσεις USB</string>
     <string name="usb_ptp_summary">Σας επιτρέπει να μεταφέρετε εικόνες χρησιμοποιώντας λογισμικό της κάμερας και να μεταφέρετε αρχεία σε υπολογιστές που δεν υποστηρίζουν MTP</string>
     <string name="usb_ptp_title">Κάμερα (PTP)</string>
+    <string name="usb_reverse_charge">Αντίστροφη φόρτιση</string>
     <string name="usb_summary_MIDI">Χρήση συσκευής ως MIDI</string>
     <string name="usb_summary_MIDI_power">MIDI και τροφοδοσία</string>
     <string name="usb_summary_charging_only">Φόρτιση αυτής της συσκευής</string>
@@ -6817,6 +6819,9 @@
     <string name="usb_use_charging_only_desc">Φορτίστε απλώς τη συσκευή</string>
     <string name="usb_use_file_transfers">Μεταφορά αρχείων (MTP)</string>
     <string name="usb_use_file_transfers_desc">Μεταφορά αρχείων σε μια άλλη συσκευή</string>
+    <string name="usb_use_file_transfers_miui12_5">Μεταφορές αρχείων</string>
+    <string name="usb_use_miui12_5">Χρήση USB για</string>
+    <string name="usb_use_photo_transfers_miui12_5">Μεταφορές φωτογραφιών</string>
     <string name="usb_use_photo_transfers">Μεταφορά φωτογραφιών (PTP)</string>
     <string name="usb_use_photo_transfers_desc">Μεταφορά φωτογραφιών ή αρχείων, εάν δεν υποστηρίζεται το MTP (PTP)</string>
     <string name="usb_use_power_only">Παροχή ρεύματος</string>

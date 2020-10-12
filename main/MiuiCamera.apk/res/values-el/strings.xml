@@ -462,6 +462,10 @@
     <string name="document_mode_use_hint_text_title">Σάρωση εγγράφων</string>
     <string name="document_origin">Αρχική εικόνα</string>
     <string name="document_strengthen">Βελτίωση</string>
+    <string name="download_cancel_hint">Ακύρωση λήψης %1$s;</string>
+    <string name="download_confirm">Λήψη</string>
+    <string name="download_hint">%1$s MB δεδομένων θα χρησιμοποιηθούν για τη λήψη στοιχείων. Λήψη οπωσδήποτε;</string>
+    <string name="download_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="dual_camera_lens_covered_toast">Ο φακός είναι καλυμμένος.</string>
     <string name="dual_camera_lowlight_toast">Φαίνεται ότι είναι πολύ σκοτεινά.</string>
     <string name="dual_camera_too_close_toast">Η κάμερα είναι πάρα πολύ κοντά στο αντικείμενο.</string>
@@ -763,7 +767,7 @@
     <string name="module_name_fun_ar">Mimoji</string>
     <string name="module_name_manual">Χειροκίνητα</string>
     <string name="module_name_more">Περισσότερα</string>
-    <string name="module_name_multi_camera">Μπροστά πίσω</string>
+    <string name="module_name_multi_camera">Πολλαπλή κάμερα</string>
     <string name="module_name_new_slow_motion">Αργή κίνηση</string>
     <string name="module_name_panorama">Πανόραμα</string>
     <string name="module_name_portrait">Πορτρέτο</string>
@@ -1354,6 +1358,8 @@
     <string name="unknow_error">Άγνωστο σφάλμα</string>
     <string name="unsupported_microphones_3d_record_tips">"Ο ήχος 3D δεν υποστηρίζει εξωτερικά μικρόφωνα"</string>
     <string name="unsupported_microphones_audio_zoom_tips">"Το ζουμ ήχου δεν υποστηρίζει εξωτερικά μικρόφωνα"</string>
+    <string name="update_loading">Λήφθησαν %1$s</string>
+    <string name="update_start">Ενημέρωση %1$s</string>
     <string name="user_agree">Συμφωνώ</string>
     <string name="user_define_watermark_cancel">Ακύρωση</string>
     <string name="user_define_watermark_save">Αποθήκευση</string>
