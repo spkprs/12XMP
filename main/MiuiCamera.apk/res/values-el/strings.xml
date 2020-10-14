@@ -1358,7 +1358,7 @@
     <string name="unknow_error">Άγνωστο σφάλμα</string>
     <string name="unsupported_microphones_3d_record_tips">"Ο ήχος 3D δεν υποστηρίζει εξωτερικά μικρόφωνα"</string>
     <string name="unsupported_microphones_audio_zoom_tips">"Το ζουμ ήχου δεν υποστηρίζει εξωτερικά μικρόφωνα"</string>
-    <string name="update_loading">Λήφθησαν %1$s</string>
+    <string name="update_loading">Λήφθησαν %1$d%%</string>
     <string name="update_start">Ενημέρωση %1$s</string>
     <string name="user_agree">Συμφωνώ</string>
     <string name="user_define_watermark_cancel">Ακύρωση</string>

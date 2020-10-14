@@ -499,8 +499,15 @@
     <string name="passport_trust_device">Έμπιστη συσκευή</string>
     <string name="passport_trying_read_verify_code_sms">Λήψη κωδικού επαλήθευσης…</string>
     <string name="passport_uplink_reg">Χρήση αριθμού τηλεφώνου</string>
+    <string name="passport_uplink_send_sms_hint">"Πατήστε \"Αποστολή\" αφού ανακατευθυνθείτε στη σελίδα με ένα μήνυμα που έχει συνταχθεί."</string>
     <string name="passport_uplink_slot1_reg">Χρήση SIM 1</string>
     <string name="passport_uplink_slot2_reg">Χρήση SIM 2</string>
+    <string name="passport_uplink_sms_send_cancel">Ακύρωση αποστολής ανερχόμενης ζεύξης SMS</string>
+    <string name="passport_uplink_sms_send_confirm">Στάλθηκε</string>
+    <string name="passport_uplink_sms_send_failed">"Δεν ήταν δυνατή η επαλήθευση της σύνδεσης ανερχόμενης ζεύξης SMS"</string>
+    <string name="passport_uplink_sms_sending">Αποστολή μηνύματος επί πληρωμή…</string>
+    <string name="passport_uplink_suggest_dialog_msg">"Δεν ήταν δυνατή η λήψη του κώδικα. Χρήση SMS ανερχόμενης ζεύξης επί πληρωμή?"</string>
+    <string name="passport_uplink_suggest_dialog_title">Προσοχή</string>
     <string name="passport_use_generated_pwd_message">Βεβαιωθείτε ότι θυμάστε τον κωδικό σας. Μπορείτε να τον χρησιμοποιήσετε για να συνδεθείτε και σε άλλες υπηρεσίες Mi.</string>
     <string name="passport_use_generated_pwd_title">Να θυμάστε τον κωδικό σας!</string>
     <string name="passport_user_agreement">Όροι χρήσης</string>

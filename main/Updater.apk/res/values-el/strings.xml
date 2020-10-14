@@ -166,7 +166,7 @@
   <string name="my_worst_update">Η χειρότερη ενημέρωση</string>
   <string name="next">Επόμενο</string>
   <string name="no_log">Μη διαθέσιμη περίληψη</string>
-  <string name="no_wifi_msg">"Μπορείτε να κάνετε λήψη ενημερώσεων τώρα ή να περιμένετε έως ότου συνδεθεί η συσκευή σας σe Wi-Fi".</string>
+  <string name="no_wifi_msg">"Μπορείτε να κάνετε λήψη ενημερώσεων τώρα ή να περιμένετε έως ότου συνδεθεί η συσκευή σας σε Wi-Fi".</string>
   <string name="no_wifi_no_auto_msg">"Μπορείτε να κάνετε λήψη ενημερώσεων τώρα ή να περιμένετε έως ότου η συσκευή σας συνδεθεί με Wi-Fi και να εγκαταστήσει αυτόματα τις ενημερώσεις".</string>
   <string name="no_wifi_title">Σύνδεση σε Wi-Fi</string>
   <string name="not_open">Όχι</string>

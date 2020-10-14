@@ -88,4 +88,20 @@
         <item quantity="other">%d δίκτυα WIFI</item>
         <item quantity="one">%d δίκτυο WIFI</item>
     </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Η πρόσκληση έγινε αποδεκτή από %d άτομα</item>
+        <item quantity="one">Η πρόσκληση έγινε αποδεκτή από %d άτομο</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s ημ.</item>
+        <item quantity="one">%1$s ημ.</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s ώρ.</item>
+        <item quantity="one">%1$s ώρ.</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s λεπ.</item>
+        <item quantity="one">%1$s λεπ.</item>
+    </plurals>
 </resources>
