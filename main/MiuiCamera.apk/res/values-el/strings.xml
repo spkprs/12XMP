@@ -1161,7 +1161,7 @@
     <string name="pref_custom_tint_title">Χρωματισμός</string>
     <string name="pref_customization_title">Προσαρμογή</string>
     <string name="pref_document_mode">Έγγραφα</string>
-    <string name="pref_dual_camera_video">Μπροστά πίσω</string>
+    <string name="pref_dual_camera_video">Διπλό βίντεο</string>
     <string name="pref_face_beauty_title">Αισθητική</string>
     <string name="pref_fingerprint_capture_title">Κλείστρο με Δακτυλικό αποτύπωμα</string>
     <string name="pref_front_denoise_default">Ανενεργό</string>
