@@ -589,6 +589,11 @@
     <string name="lighting_pattern_stage">Σκηνή</string>
     <string name="lighting_phantom">Phantom</string>
     <string name="lighting_rainbow">Rainbow</string>
+    <string name="live_draft_continue">Συνέχεια</string>
+    <string name="live_draft_empty">Δεν υπάρχουν στοιχεία εδώ</string>
+    <string name="live_edit_exit_message_draft">Αποθήκευση ως πρόχειρου</string>
+    <string name="live_workspace_title">Πρόχειρα</string>
+    <string name="live_workspace_title_edit">Επιλογή στοιχείων για διαγραφή</string>
     <string name="live_edit_exit_confirm">Έξοδος</string>
     <string name="live_edit_exit_message">Παύση λήψης τώρα;</string>
     <string name="live_edit_share_title">Κοινή χρήση</string>

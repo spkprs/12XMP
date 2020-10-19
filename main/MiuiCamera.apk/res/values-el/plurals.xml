@@ -25,6 +25,10 @@
         <item quantity="other">%1$d λεπ.</item>
         <item quantity="one">%1$d λεπ.</item>
      </plurals>
+     <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Διαγραφή %1$d πρόχειρων;</item>
+        <item quantity="one">Διαγραφή %1$d πρόχειρου;</item>
+     </plurals>
      <plurals name="fastmotion_pro_sec_unit">
         <item quantity="other">%1$d δευτ.</item>
         <item quantity="one">%1$d δευτ.</item>
