@@ -3898,7 +3898,7 @@
     <string name="model_name">Μοντέλο</string>
     <string name="model_number">Μοντέλο συσκευής</string>
     <string name="model_summary">Μοντέλο: %1$s</string>
-    <string name="modern_control_center_desc">Τραβήξτε προς τα κάτω τη γραμμή κατάστασης στα αριστερά για να προβάλετε τις ειδοποιήσεις. Τραβήξτε προς τα κάτω τη γραμμή κατάστασης στα δεξιά για να ανοίξετε το Κέντρο ελέγχου.</string>
+    <string name="modern_control_center_desc">Τραβήξτε προς τα κάτω τη γραμμή κατάστασης στα αριστερά για να προβάλετε τις ειδοποιήσεις. Και στα δεξιά για να ανοίξετε το Κέντρο ελέγχου.</string>
     <string name="modern_control_center_title">Νέα έκδοση</string>
     <string name="modify_default_browser_message">Εάν ορίσετε μια εφαρμογή τρίτου μέρους ως το προεπιλεγμένο πρόγραμμα περιήγησής σας, ενδέχεται να αρχίσει να συλλέγει το ιστορικό περιήγησής σας και άλλα δεδομένα. Ορίστε ούτως ή άλλως;</string>
     <string name="modify_instruction_password_settings">Ορισμός κωδικού</string>

@@ -315,6 +315,7 @@
     <string name="from_pkg_name">Από την εφαρμογή:</string>
     <string name="ft_cfs_dialog_content">"Δεν ήταν δυνατή η παράδοση αρχείων με τη χρήση του RCS. Αντί για αυτό, στείλτε ένα σύνδεσμο σε ένα μήνυμα κειμένου;"</string>
     <string name="ft_cfs_dialog_title">Εναλλακτική μεταφορά αρχείων</string>
+    <string name="go_to">"Άνοιγμα "</string>
     <string name="google_message_promo_content">Η Xiaomi συνιστά την αναβάθμιση σε Μηνύματα από την Google. Εγκαταστήστε τώρα για να αποκτήσετε κοινή χρήση φωτογραφιών υψηλής ποιότητας, να συνομιλήσετε σε Wi-Fi και πολλά άλλα. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Περισσότερα</a></font>.</string>
     <string name="google_message_promo_title">Αναβαθμίστε την εφαρμογή ανταλλαγής μηνυμάτων</string>
     <string name="group_already_kicked_hint">Δεν είστε σε αυτήν την ομάδα, δεν μπορείτε να στείλετε ένα μήνυμα.</string>

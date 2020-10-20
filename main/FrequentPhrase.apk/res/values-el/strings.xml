@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-     <string name="add_frequent_phrases">Προσθέστε συχνές φράσεις</string>
-     <string name="delete_frequent_phrases">Διαγραφή συχνών φράσεων</string>
-     <string name="delete_frequent_phrases_confirm">Διαγραφή των επιλεγμένων συχνών φράσεων;</string>
-     <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
-     <string name="frequent_phrases_des">Εισάγετε συχνές φράσεις με λίγα αγγίγματα κατά την επεξεργασία κειμένου</string>
-     <string name="frequent_phrases_size_exceeded">Μπορείτε να προσθέσετε μέχρι και %1$d συχνές φράσεις. Διαγράψτε τις περιττές για προσθήκη άλλων.</string>
-     <string name="menu_add_frequent_phrases">Προσθήκη</string>
-     <string name="menu_delete">Διαγραφή</string>
-     <string name="menu_edit">Επεξεργασία</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
-     <string name="sync_phrase_label">Συχνές Φράσεις</string>
-     <string name="xiaomi_account_type">com.xiaomi</string>
+    <string name="add_frequent_phrases">Προσθήκη συχνών φράσεων</string>
+    <string name="delete_frequent_phrases">Διαγραφή συχνών φράσεων</string>
+    <string name="delete_frequent_phrases_confirm">Διαγραφή επιλεγμένων συχνών φράσεων;</string>
+    <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
+    <string name="frequent_phrases_des">Εισαγάγετε συχνές φράσεις με λίγα μόνο πατήματα κατά την επεξεργασία κειμένου</string>
+    <string name="frequent_phrases_size_exceeded">Μπορεί να προσθέσει έως και %1$d συχνές φράσεις. Διαγράψτε τις περιττές για να προσθέσετε περισσότερες.</string>
+    <string name="input_method_clipboard_check_more_add_to_phrase">Προσθήκη συχνής φράσης</string>
+    <string name="input_method_clipboard_check_more_copy">Αντιγραφή</string>
+    <string name="input_method_clipboard_check_more_delete">Διαγραφή</string>
+    <string name="input_method_clipboard_checkbox_cancle">Ακύρωση</string>
+    <string name="input_method_clipboard_checkbox_confirm">Εκκαθάριση</string>
+    <string name="input_method_clipboard_clear_all_button">Εκκαθάριση όλων</string>
+    <string name="input_method_clipboard_clear_all_phrase_des">Εκκαθάριση όλων των στοιχείων από το πρόχειρο;</string>
+    <string name="input_method_clipboard_clear_all_phrase_title">Εκκαθάριση προχείρου</string>
+    <string name="input_method_clipboard_copy_success">Αντιγράφηκε με επιτυχία</string>
+    <string name="input_method_clipboard_delete_success">Διαγράφηκε με επιτυχία</string>
+    <string name="input_method_clipboard_move_cursor_guide1">Πατήστε και κρατήστε πατημένο το μπλε σημείο για να μετακινήσετε το δρομέα</string>
+    <string name="input_method_clipboard_move_cursor_guide2">Μετακινήστε το δάχτυλό σας οριζόντια</string>
+    <string name="input_method_clipboard_participle">Διαχωρισμός λέξεων</string>
+    <string name="input_method_clipboard_settings_button">Ρυθμίσεις</string>
+    <string name="input_method_clipboard_tips">Τα αντιγραμμένα στοιχεία θα διαγραφούν από το πρόχειρο μετά από 48 ώρες</string>
+    <string name="input_method_edit_phrase_text">Επεξεργασία συχνών φράσεων</string>
+    <string name="input_method_no_content_text">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
+    <string name="input_method_phrase_edit">Επεξεργασία</string>
+    <string name="input_method_phrase_top">Καρφίτσωμα</string>
+    <string name="input_method_switch_settings_text">Ρυθμίσεις πληκτρολογίου</string>
+    <string name="input_method_tab_clipboard_text">Πρόχειρο</string>
+    <string name="input_method_tab_phrase_text">Συχνές φράσεις</string>
+    <string name="menu_add_frequent_phrases">Προσθήκη</string>
+    <string name="menu_delete">Διαγραφή</string>
+    <string name="menu_edit">Επεξεργασία</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sync_phrase_label">Συχνές φράσεις</string>
 </resources>
