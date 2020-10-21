@@ -1582,6 +1582,7 @@
     <string name="preference_auto_ip_summary_disable">Απενεργοποιημένο</string>
     <string name="preference_category_ringtone">Ήχος κλήσης &amp; Δόνηση</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="preference_countrycode_title">Κωδικός χώρας</string>
     <string name="preference_dial_pad_touch_tone_default">Προεπιλογή</string>
     <string name="preference_dial_pad_touch_tone_off">Ανενεργό</string>
     <string name="preference_dial_pad_touch_tone_piano">Πλήκτρα πιάνου</string>

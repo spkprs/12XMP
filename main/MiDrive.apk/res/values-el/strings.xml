@@ -77,6 +77,7 @@
     <string name="be_sure_to_clear_cache">Εκκαθάριση της μνήμης cache τώρα;</string>
     <string name="bind_sign_in_title">Προσθέστε Mi Λογαριασμό</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="cancel">Ακύρωση</string>
     <string name="category_document">Έγγραφα</string>
     <string name="category_document_title">Έγγραφα</string>
     <string name="category_file">Αρχεία</string>
@@ -110,9 +111,11 @@
     <string name="cloud_storage_loading_data">Μισό λεπτό…</string>
     <string name="cloud_storage_no_data">Δεν υπάρχουν δεδομένα</string>
     <string name="collect_diagnosis_log">Συλλογή αρχείων καταγραφής</string>
+    <string name="confirm">OK</string>
     <string name="confirm_activate_email">Επαληθεύτηκε</string>
     <string name="confirm_and_continue">Συνέχεια</string>
     <string name="confirm_bundled_phone_dialog_title">Επιβεβαίωση συσχετισμένου αριθμού τηλεφώνου</string>
+    <string name="confirm_know">Πίσω</string>
     <string name="confirm_new_pwd">Επιβεβαίωση νέου κωδικού</string>
     <string name="confirm_unbundled_phone_dialog_message">Αυτός ο αριθμός τηλεφώνου συσχετίστηκε με το λογαριασμό Mi %2$s την %1$s. Δεν θα συσχετίζεται πλέον με λογαριασμό Mi %3$s εάν συνεχίσετε. Συνεχίζετε?</string>
     <string name="continue_all">Συνέχιση όλων</string>
@@ -187,6 +190,11 @@
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">Αυτός ο αριθμός τηλεφώνου είναι ήδη συσχετισμένος με έναν άλλο λογαριασμό Mi</string>
+    <string name="file_info_created">"Μεταφορτώθηκε: "</string>
+    <string name="file_info_local_created">"Δημιουργήθηκε: "</string>
+    <string name="file_info_location">"Τοποθεσία: "</string>
+    <string name="file_info_modified">"Τελευταία τροπ/ση: "</string>
+    <string name="file_info_size">"Μέγεθος: "</string>
     <string name="file_is_downloaded">Το στοιχείο έχει ήδη ληφθεί</string>
     <string name="file_list_item_desc">%1$s | %2$s</string>
     <string name="file_no_file_desc">Δεν υπάρχουν αντικείμενα εδώ ακόμα.</string>
@@ -197,6 +205,10 @@
     <string name="file_send_no_support">Δεν είναι δυνατή η κοινή χρήση αρχείων αυτού του τύπου</string>
     <string name="file_size_is_zero">Το μέγεθος του αρχείου πρέπει να είναι μεγαλύτερο από 0</string>
     <string name="file_size_lager_than_4g">Το μέγεθος του αρχείου δεν μπορεί να υπερβαίνει τα 4 GB</string>
+    <string name="file_sort_create_time">Ημερομηνία δημιουργίας</string>
+    <string name="file_sort_modify_time">Ημερομηνία τροποποίησης</string>
+    <string name="file_sort_name">Κατά όνομα</string>
+    <string name="file_sort_size">Κατά μέγεθος</string>
     <string name="file_status_text">%1$s | %2$s %3$s: %4$s</string>
     <string name="file_status_text_no_size">%1$s %2$s: %3$s</string>
     <string name="file_upload_dialog_cancel">Ακύρωση</string>
@@ -254,7 +266,11 @@
     <string name="month_day_format">MM/dd</string>
     <string name="move_file_success">Μεταφέρθηκε με επιτυχία</string>
     <string name="mtrl_chip_close_icon_content_description">Αφαίρεση %1$s</string>
+    <string name="music_format_not_support">"Αδύνατη η προεπισκόπηση αυτού του αρχείου"</string>
     <string name="music_picker_title">Επιλέξτε μουσική</string>
+    <string name="music_play_attention_network_traffic">Η χρήση δεδομένων κινητής για τη ροή ήχου και βίντεο ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις</string>
+    <string name="music_play_online">Ροή</string>
+    <string name="music_play_online_network_not_available">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά."</string>
     <string name="music_preview_download_failed">Δεν ήταν δυνατή η φόρτωση</string>
     <string name="music_preview_failed">Δεν είναι δυνατή η αναπαραγωγή αυτού του αρχείου ήχου</string>
     <string name="music_preview_title_loading">Μισό λεπτό…</string>
@@ -291,6 +307,7 @@
     <string name="operation_dialog_move_message">Μετακίνηση…</string>
     <string name="operation_dialog_rename_message">Μετονομασία…</string>
     <string name="operation_download">Κατεβάστε το</string>
+    <string name="operation_info">Λεπτομέρειες</string>
     <string name="operation_move">Μετακίνηση</string>
     <string name="operation_rename">Μετονομασία</string>
     <string name="operation_sure_to_delete">Διαγραφή τώρα;</string>
@@ -409,6 +426,9 @@
     <string name="pre_user_agreement">Συμφωνία Χρήστη</string>
     <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy_policy">Πολιτική απορρήτου</string>
+    <string name="private_empty_desc">Εδώ μπορείτε να αποθηκεύσετε τα αρχεία ιδιωτικά.</string>
+    <string name="private_empty_sub_desc">Δοκιμάστε να μετακινήσετε αρχεία εδώ ή να τα αποστείλετε απευθείας.</string>
+    <string name="private_folder_name">Ιδιωτικά αρχεία</string>
     <string name="psw_hint">Κωδικός</string>
     <string name="psw_sign_in">Συνδεθείτε χρησιμοποιώντας τον κωδικό πρόσβασης</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
@@ -416,6 +436,7 @@
     <string name="refresh_label_refreshed">Η ανανέωση ολοκληρώθηκε με επιτυχία</string>
     <string name="refresh_label_refreshing">Ανανέωση…</string>
     <string name="refresh_label_release_to_refresh">Απελευθερώστε για ανανέωση</string>
+    <string name="release_enter_private">Απελευθερώστε για προβολή ιδιωτικών αρχείων</string>
     <string name="remove_success">Διαγράφηκε με επιτυχία</string>
     <string name="rename_ext_confirm_dialog_desc">Η αλλαγή του τύπου αρχείου μπορεί να κάνει το αρχείο άχρηστο</string>
     <string name="rename_file_select_error">Δεν είναι δυνατή η μετονομασία πολλών στοιχείων</string>
@@ -448,6 +469,8 @@
     <string name="send_email_activate_message">Το μήνυμα επιβεβαίωσης στάλθηκε με επιτυχία</string>
     <string name="sending">Αποστολή…</string>
     <string name="service_error">Σφάλμα Διακομιστή</string>
+    <string name="set_lock_password_dialog_msg">Ο κωδικός πρόσβασης θα χρησιμοποιηθεί για φωτογραφίες, σημειώσεις και αρχεία.</string>
+    <string name="set_lock_password_dialog_title">Ορισμός νέου κωδικού</string>
     <string name="set_success">Άλλαξε με επιτυχία</string>
     <string name="setting_clear_cache">Εκκαθάριση προσωρινής μνήμης</string>
     <string name="setting_default_download_dir">Προεπιλεγμένη τοποθεσία λήψης</string>
@@ -494,6 +517,8 @@
     <string name="transfer_progress_text">%1$s / %2$s</string>
     <string name="transport_end_button">Επεξεργασία</string>
     <string name="transport_title">Μεταφορές</string>
+    <string name="unlock_password_dialog_msg">Θα χρησιμοποιηθεί κωδικός . Λειτουργεί για φωτογραφίες, σημειώσεις και αρχεία.</string>
+    <string name="unlock_password_dialog_title">Κωδικός προσωπικών δεδομένων</string>
     <string name="update_dialog_button_cancel">Όχι τώρα</string>
     <string name="update_dialog_button_ok">Ενημέρωση</string>
     <string name="update_dialog_content">Νέα έκδοση: %1$s\n%2$s</string>
