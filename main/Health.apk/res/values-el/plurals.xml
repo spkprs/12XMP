@@ -296,6 +296,7 @@
          <item quantity="other">" δευτ "</item>
 	 </plurals>
      <plurals name="sport_tts_goal_time">
+         <item quantity="one">Μακριά από τον στόχο σας %s λ</item>
          <item quantity="other">Μακριά από τον στόχο σας %s λ</item>
      </plurals>
      <plurals name="sporting_content_calories">
@@ -320,9 +321,38 @@
          <item quantity="other">Περπάτησες %1$d βήμ.</item>
      </plurals>
      <plurals name="sporting_unit_calories">
+         <item quantity="one">%1$d Kcal</item>
          <item quantity="other">%1$d Kcal</item>
      </plurals>
      <plurals name="sporting_unit_km">
          <item quantity="other">%1$s χλμ</item>
      </plurals>
+     <plurals name="sport_tts_goal_consume">
+         <item quantity="one">%s θερμίδες απομένουν για να κάψετε μέχρι το στόχο σας</item>
+         <item quantity="other">%s θερμίδες απομένουν για να κάψετε μέχρι το στόχο σας</item>
+     </plurals>
+     <plurals name="sport_tts_goal_distance">
+         <item quantity="one">%s χιλιόμετρα απομένουν μέχρι να επιτύχετε το στόχο σας</item>
+         <item quantity="other">%s χιλιόμετρα απομένουν μέχρι να επιτύχετε το στόχο σας</item>
+     </plurals>
+     <plurals name="sport_tts_riding_distance">
+         <item quantity="one">"Έχετε ποδηλατήσει %s χιλιόμετρο"</item>
+         <item quantity="other">"Έχετε ποδηλατήσει %s χιλιόμετρα"</item>
+     </plurals>
+     <plurals name="sport_tts_running_distance">
+         <item quantity="one">"Έχετε τρέξει %s χιλιόμετρο"</item>
+         <item quantity="other">"Έχετε τρέξει %s χιλιόμετρα"</item>
+     </plurals>
+     <plurals name="sport_tts_total_consume">
+         <item quantity="one">"Έχετε κάψει %s θερμίδα"</item>
+         <item quantity="other">"Έχετε κάψει %s θερμίδες"</item>
+     </plurals>
+     <plurals name="sport_tts_walking_distance">
+         <item quantity="one">"Περπατήσατε %s χιλιόμετρο"</item>
+         <item quantity="other">"Περπατήσατε %s χιλιόμετρα"</item>
+     </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="one">βήμα</item>
+        <item quantity="other">βήματα</item>
+    </plurals>
 </resources>

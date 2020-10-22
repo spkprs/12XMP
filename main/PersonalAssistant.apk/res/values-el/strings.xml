@@ -396,6 +396,9 @@
     <string name="app_news_default_title">Νέα</string>
     <string name="app_note_add">Προσθήκη</string>
     <string name="app_note_title_empty">Σημειώσεις</string>
+    <string name="app_pa_more">Περισσότερα</string>
+    <string name="app_pa_search">Αναζήτηση</string>
+    <string name="app_pa_setting_bugreport">Σχόλια</string>
     <string name="app_pa_setting_global_display">Εμφάνιση</string>
     <string name="app_pa_setting_global_display_blur_option">Θολή ταπετσαρία</string>
     <string name="app_pa_setting_global_display_blur_summary">Η θόλωση της ταπετσαρίας επιβραδύνει την απόκριση σάρωσης</string>
@@ -452,8 +455,8 @@
     <string name="app_pa_setting_version">Έκδοση: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">Χρήση χρόνου οθόνης</string>
-    <string name="app_screen_time_support_false">αυτή η υπηρεσία δεν υποστηρίζεται αυτήν τη στιγμή.</string>
     <string name="app_screen_time_no_time_title">&lt;1λ</string>
+    <string name="app_screen_time_support_false">αυτή η υπηρεσία δεν υποστηρίζεται αυτήν τη στιγμή.</string>
     <string name="app_screen_time_time">%1$dω-%2$dλ</string>
     <string name="app_screen_time_time_minute">%1$dλ</string>
     <string name="app_screen_time_title">Χρή. Οθόνης</string>
@@ -502,8 +505,8 @@
     <string name="app_sports_fav_title">Οι ομάδες μου</string>
     <string name="app_sports_more_match">Περισσότερα</string>
     <string name="app_sports_title">αθλητικοί.</string>
-    <string name="app_sports_title_all_leagues">Όλοι οι αγώνες</string>
     <string name="app_sports_title_add_team">προσθέστε προσοχή.</string>
+    <string name="app_sports_title_all_leagues">Όλοι οι αγώνες</string>
     <string name="app_stock_more_add_stock">προσθέστε το δικό σας απόθεμα.</string>
     <string name="app_stock_name_hszs">δείκτης hang seng.</string>
     <string name="app_stock_name_nsdk">Nasdaq</string>
@@ -1930,7 +1933,7 @@
     <string name="security">Ασφάλεια</string>
     <string name="select_team_close">κλείσε.</string>
     <string name="select_team_confirm">υποβάλει.</string>
-    <string name="selected_shortcuts_title">Λειτουργίες</string>
+    <string name="selected_shortcuts_title">Αρχική σελίδα</string>
     <string name="send_action_title">Προσθήκη στα αγαπημένα</string>
     <string name="send_express">Γρήγορη παράδοση</string>
     <string name="service_unavailiable">Ελέξτε την Σύνδεση δικτύου και δοκιμάστε ξανά</string>
@@ -2036,6 +2039,8 @@
     <string name="shopping_source">Απο %s</string>
     <string name="shopping_support">Υποστηριζόμενες εφαρμογές</string>
     <string name="shortcut">Συντομεύσεις</string>
+    <string name="shortcuts_download_dialog_text_install">Εγκατάσταση</string>
+    <string name="shortcuts_download_dialog_text_install_tip">Για να μπορέσετε να χρησιμοποιήσετε το \"%2$s\", εγκαταστήστε πρώτα το %1$s.</string>
     <string name="show_more">Δείτε περισσότερα</string>
     <string name="smart_assistant_enter_tip">Βοηθός πληροφοριών</string>
     <string name="sms_address">Διεύθυνση</string>
