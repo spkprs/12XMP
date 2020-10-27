@@ -14,10 +14,8 @@
         <item quantity="one">Χωρίς χρήση για %d χρόνο</item>
      </plurals>
      <plurals name="clean_long_msg_p1">
-        <item quantity="other">"Καθαρισμός %1$d αρχείων, (%2$d%%) 
- "</item>
-        <item quantity="one">"Καθαρισμός %1$d αρχείου, (%2$d%%)
- "</item>
+        <item quantity="other">"Καθαρισμός %1$d αρχείων, (%2$d%%)</item>
+        <item quantity="one">"Καθαρισμός %1$d αρχείου, (%2$d%%)</item>
      </plurals>
      <plurals name="clean_long_msg_p2">
         <item quantity="other">%1$d%% στοιχεία ανα Δευτ. | Υπολοιπόμενος χρόνος: %2$s</item>
@@ -167,4 +165,8 @@
         <item quantity="other">Διαγραφή %1$d στοιχείων?</item>
         <item quantity="one">Διαγραφή %1$d στοιχείο?</item>
      </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Διαγραφή %d πακέτων εγκατάστασης</item>
+        <item quantity="one">Διαγραφή %d πακέτου εγκατάστασης</item>
+    </plurals>
 </resources>

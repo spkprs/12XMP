@@ -496,6 +496,10 @@
     <string name="show_ime">Χρήση πληκτρολογίου οθόνης</string>
     <string name="show_refresh_rate">Εμφάνιση ρυθμού ανανέωσης</string>
     <string name="show_refresh_rate_summary">Εμφάνιση του τρέχοντα ρυθμού ανανέωσης</string>
+    <string name="silent_mode_disable_media">Σίγαση όλων</string>
+    <string name="silent_mode_enable_media">Αναπαραγωγή πολυμέσων</string>
+    <string name="silent_mode_summary">Σίγαση κλήσεων, ειδοποιήσεων και πολυμέσων</string>
+    <string name="silent_mode_toggle_title">Αθόρυβη λειτουργία</string>
     <string name="silent_notifications_status_bar">Απόκρυψη αθόρυβων ειδοποιήσεων στη γραμμή κατάστασης</string>
     <string name="sound_mode">Αθόρυβη λειτουργία &amp; DND</string>
     <string name="sound_settings_example_summary">Ένταση ήχου κουδουνίσματος και ειδοποιήσεων στο 80%</string>
@@ -550,6 +554,7 @@
     <string name="virtual_keyboard_category">Πληκτρολόγιο οθόνης</string>
     <string name="volte_5G_limited_text">Αυτή η ενέργεια απενεργοποιεί επίσης τη σύνδεση 5G.\nΚατά τη διάρκεια μιας φωνητικής κλήσης, δεν μπορείτε να χρησιμοποιήσετε το διαδίκτυο και ορισμένες εφαρμογές ενδέχεται να μην λειτουργούν.</string>
     <string name="volte_5G_limited_title">Απενεργοποίηση VoLTE;</string>
+    <string name="volume_adjustment">Ρύθμιση έντασης ήχου</string>
     <string name="wifi_add_app_network_save_failed_summary">Δεν είναι δυνατή η αποθήκευση. Δοκιμάστε ξανά.</string>
     <string name="wifi_add_app_networks_saved_summary">Τα δίκτυα αποθηκεύτηκαν</string>
     <string name="wifi_add_app_networks_saving_summary">Αποθήκευση %d δικτύων…</string>
@@ -608,7 +613,9 @@
     <string name="zen_mode_alarms_summary">Από χρονόμετρα, ξυπνητήρια, συστήματα ασφαλείας και άλλες εφαρμογές</string>
     <string name="zen_mode_all_calls_summary">Θα λαμβάνετε όλες τις κλήσεις</string>
     <string name="zen_mode_all_messages_summary">Θα λαμβάνετε όλα τα μηνύματα</string>
+    <string name="zen_mode_always">Πάντα</string>
     <string name="zen_mode_apps_bypassing_list_count">%d ακόμη</string>
+    <string name="zen_mode_auto_rule">Προγραμματισμός περιόδων λειτουργίας DND</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Πρόγραμμα</string>
     <string name="zen_mode_behavior_alarms_only">Οι συναγερμοί και οι ήχοι των μέσων μπορούν να διακόπτουν.</string>
     <string name="zen_mode_blocked_effects_footer">Οι ειδοποιήσεις που απαιτούνται για τη βασική δραστηριότητα και την κατάσταση του τηλεφώνου θα εμφανίζονται πάντα.</string>
@@ -644,6 +651,7 @@
     <string name="zen_mode_from_important_conversations">Συζητήσεις προτεραιότητας</string>
     <string name="zen_mode_from_no_conversations">Καμία</string>
     <string name="zen_mode_from_starred">Επαφές με αστέρι</string>
+    <string name="zen_mode_lockscreen">Όταν είναι κλειδωμένο</string>
     <string name="zen_mode_media">Ήχοι μέσων</string>
     <string name="zen_mode_media_list_first">Μέσα</string>
     <string name="zen_mode_media_summary">Ήχοι από βίντεο, παιχνίδια και άλλα μέσα</string>
@@ -651,6 +659,7 @@
     <string name="zen_mode_messages_header">Μηνύματα που μπορούν να διακόπτουν</string>
     <string name="zen_mode_messages_list">Μηνύματα</string>
     <string name="zen_mode_messages_title">Μηνύματα</string>
+    <string name="zen_mode_more_actions">Περισσότερες επιλογές DND</string>
     <string name="zen_mode_none_calls">Καμία</string>
     <string name="zen_mode_none_messages">Κανένα</string>
     <string name="zen_mode_other_sounds_list_count">%d ακόμη</string>
@@ -670,6 +679,7 @@
     <string name="zen_mode_settings_summary_off">Κανένα</string>
     <string name="zen_mode_settings_title">Μην ενοχλείτε</string>
     <string name="zen_mode_summary">Σίγαση εισερχόμενων κλήσεων, ειδοποιήσεων, πολυμέσων και απενεργοποίηση δόνησης</string>
+    <string name="zen_mode_summary2">Σίγαση κλήσεων και ειδοποιήσεων, απενεργοποίηση δόνησης</string>
     <string name="zen_mode_system">Ήχοι αφής</string>
     <string name="zen_mode_system_list_first">Ήχοι αφής</string>
     <string name="zen_mode_system_summary">Ήχοι από το πληκτρολόγιο και από άλλα κουμπιά</string>

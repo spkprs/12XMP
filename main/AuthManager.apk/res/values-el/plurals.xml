@@ -16,4 +16,20 @@
         <item quantity="other">%s δευτ</item>
         <item quantity="one">1 δευτ</item>
     </plurals>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">Επιτράπηκαν %1$s η αυτόματη πρόσβαση σε στοιχεία στο πρόχειρο %2$d φορές</item>
+        <item quantity="one">Επιτράπηκε %1$s η αυτόματη πρόσβαση σε στοιχεία στο πρόχειρο %2$d φορές</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s πρόσβαση σε στοιχεία στο πρόχειρο %2$d φορές</item>
+        <item quantity="one">%1$s πρόσβαση σε στοιχεία στο πρόχειρο %2$d φορές</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">"Έχετε επιτρέψει σε %2$s να αποκτήσει πρόσβαση στο πρόχειρο ήδη %1$d φορές. Θέλετε να επιτρέπεται πάντα στο %3$s η πρόσβαση στο πρόχειρο;"</item>
+        <item quantity="one">"Έχετε επιτρέψει σε %2$s να αποκτήσει πρόσβαση στο πρόχειρο ήδη %1$d φορές. Θέλετε να επιτρέπεται πάντα στο %3$s η πρόσβαση στο πρόχειρο;"</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">"Έχετε ήδη περιορίσει την πρόσβαση στο πρόχειρο για %2$s %1$d φορές. Να περιοριστεί η πρόσβαση στο πρόχειρο για %3$s μόνιμα;"</item>
+        <item quantity="one">"Έχετε ήδη περιορίσει την πρόσβαση στο πρόχειρο για %2$s %1$d φορές. Να περιοριστεί η πρόσβαση στο πρόχειρο για %3$s μόνιμα;"</item>
+    </plurals>
 </resources>

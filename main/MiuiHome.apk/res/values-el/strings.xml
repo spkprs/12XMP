@@ -498,6 +498,9 @@
     <string name="recents_exit_multi_window_mode">Έξοδος</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Αδύνατη η χρήση της Διαίρεσης οθόνης κατά την Μετάδοση οθόνης</string>
     <string name="recents_incompatible_app_message">Αυτή η εφαρμ. δεν υποστηρίζεται σε Διαίρεση Οθόνης</string>
+    <string name="recents_layout_style">Τακτοποίηση στοιχείων στα πρόσφατα</string>
+    <string name="recents_layout_style_horizontal">Οριζόντια</string>
+    <string name="recents_layout_style_vertical">Κατακόρυφα</string>
     <string name="recents_smallwindow_text">Αφήστε για προσθήκη</string>
     <string name="recents_task_screening">Μετάδοση</string>
     <string name="recents_title_app_manager">Διαχείριση εφαρμογών</string>
