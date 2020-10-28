@@ -69,7 +69,8 @@
     <string name="activate_email_notice">Βεβαιωθείτε ότι έχετε ενεργοποιήσει τον λογαριασμό σας εντός 24 ωρών</string>
     <string name="activity_not_found_notice">Δεν είναι δυνατή η εύρεση της εφαρμογής</string>
     <string name="add_to_trust_device">Αυτή είναι μια αξιόπιστη συσκευή</string>
-    <string name="ai_ppt_to_pdf">Μετατροπή σε PDF</string>
+    <string name="ai_ppt_to_pdf">Μετατροπή διαφανειών σε PDF</string>
+    <string name="ai_ppt_to_pdf_view_all">Προβολή όλων</string>
     <string name="ai_recommend_pdf">Μετατροπή σε PDF</string>
     <string name="album">Συλλογή</string>
     <string name="all">Όλα</string>
