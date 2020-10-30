@@ -5968,6 +5968,7 @@
     <string name="smart_home_value_none">Χωρίς</string>
     <string name="smart_home_value_unknown">Άγνωστο</string>
     <string name="smart_notifications_title">Προσαρμοστικές ειδοποιήσεις</string>
+    <string name="smart_space_clock">Με Μια Ματιά</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Λειτουργία έξυπνης θήκης</string>
     <string name="smartcover_sensitive_summary">Κλειδώστε ή ξεκλειδώστε το τηλέφωνο αυτόματα με την χρήση έξυπνης θήκης</string>
     <string name="smartcover_sensitive_title">Λειτουργία Έξυπνης Θήκης</string>

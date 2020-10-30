@@ -300,25 +300,30 @@
          <item quantity="other">Μακριά από τον στόχο σας %s λ</item>
      </plurals>
      <plurals name="sporting_content_calories">
-         <item quantity="other">Συν. κατανάλωση%1$d Kcal</item>
+         <item quantity="one">Έχετε ήδη κάψει %1$s Kcal</item>
+         <item quantity="other">Έχετε ήδη κάψει %1$s Kcal</item>
      </plurals>
      <plurals name="sporting_content_riding_km">
-         <item quantity="other">Οδηγείτε ήδη %1$s χλμ</item>
+         <item quantity="one">Οδηγείτε ήδη %1$s χλμ</item>
+         <item quantity="other">Οδηγείτε ήδη %1$s χλμ</item> 
      </plurals>
      <plurals name="sporting_content_running_km">
-         <item quantity="other">Τρέχετε ήδη %1$s χλμ</item>
+         <item quantity="one">Τρέχετε ήδη %1$s χλμ</item>
+        <item quantity="other">Τρέχετε ήδη %1$s χλμ</item>
      </plurals>
      <plurals name="sporting_content_speed">
-         <item quantity="other">Η τρέχουσα ταχύτητα είναι %1$dλ %2$d δ/χλμ</item>
+         <item quantity="other">Τρέχων ρυθμός: %1$s %2$s ανά χιλιόμετρο</item>
      </plurals>
      <plurals name="sporting_content_time">
-         <item quantity="other">Κατά την κοινή χρήση %1$dλ %2$d δ</item>
+         <item quantity="other">Διάρκεια γυμναστικής: %1$s %2$s</item>
      </plurals>
      <plurals name="sporting_content_walking_km">
-         <item quantity="other">Φύγαμε μαζί. %1$s χλμ</item>
+         <item quantity="one">Έχετε ήδη περπατήσει %1$s χλμ</item>
+         <item quantity="other">Έχετε ήδη περπατήσει %1$s χλμ</item>
      </plurals>
      <plurals name="sporting_content_walking_stpe">
-         <item quantity="other">Περπάτησες %1$d βήμ.</item>
+         <item quantity="one">Έχετε ήδη %1$s βήμ.</item>
+         <item quantity="other">Έχετε ήδη %1$s βήμ.</item>
      </plurals>
      <plurals name="sporting_unit_calories">
          <item quantity="one">%1$d Kcal</item>
@@ -354,5 +359,13 @@
     <plurals name="sporting_unit_step">
         <item quantity="one">βήμα</item>
         <item quantity="other">βήματα</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="one">%1$d λεπ</item>
+        <item quantity="other">%1$d λεπ</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="one">%1$d δευτ</item>
+        <item quantity="other">%1$d δευτ</item>
     </plurals>
 </resources>

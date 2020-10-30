@@ -541,8 +541,12 @@
     <string name="download_title">Προετοιμασία αρχείων…</string>
     <string name="download_type_origin">Αρχικά αρχεία</string>
     <string name="download_type_origin_desc">Αρχικά αρχεία</string>
+    <string name="download_type_origin_subtitle_china">Οι αρχικές εικόνες καταλαμβάνουν περισσότερο χώρο αποθήκευσης και μπορούν να ληφθούν μόνο μέσω Wi-Fi</string>
+    <string name="download_type_origin_title">Αρχική</string>
     <string name="download_type_thumbnail">Υψηλή ποιότητα</string>
     <string name="download_type_thumbnail_desc">Υψηλή ποιότητα</string>
+    <string name="download_type_thumbnail_subtitle">Οι εικόνες υψηλής ποιότητας μοιάζουν σχεδόν ίδιες με τις αρχικές εικόνες, αλλά καταλαμβάνουν λιγότερο χώρο αποθήκευσης</string>
+    <string name="download_type_thumbnail_title">Υψηλή ποιότητα</string>
     <string name="download_type_title">Ποιότητα Λήψης</string>
     <string name="download_with_metered_network_msg">Η λήψη αρχικών αρχείων μπορεί να προκαλέσει επιπλέον χρεώσεις φορέα. Λήψη ούτως ή άλλως;</string>
     <string name="download_with_metered_network_title">Είστε σε δίκτυο με χρέωση</string>
@@ -1137,6 +1141,7 @@
     <string name="need_to_turn_on_sync_first">Ενεργοποιήστε πρώτα το συγχρονισμό με το Xiaomi Cloud</string>
     <string name="need_to_turn_on_wlan">Συνδεθείτε πρώτα σε Wi‑Fi</string>
     <string name="network_connected_rescan">Συνδεθείτε στο Internet και προσπαθήστε ξανά</string>
+    <string name="new_album_invalid_byte">Αυτό το όνομα είναι πολύ μεγάλο</string>
     <string name="new_album_invalid_char">Τα ονόματα δεν μπορούν να περιέχουν \"%s\", εισάγετε ένα γράμμα ή έναν αριθμό.</string>
     <string name="new_album_invalid_name">\"%s\" είναι άλμπουμ συστήματος, παρακαλώ μετονομάστε το για αυτό.</string>
     <string name="new_album_invalid_prefix">Μη χρησιμοποιείτε \".\" ή \"_\" στην αρχή του ονόματος του άλμπουμ.</string>
@@ -1156,6 +1161,7 @@
     <string name="not_remind_again">Να μην εμφανιστεί ξανά</string>
     <string name="not_remind_any_more">Να μην εμφανιστεί ξανά</string>
     <string name="not_set">Δεν ορίστηκε</string>
+    <string name="notice_click_lock_orientation">Πατήστε για κλείδωμα προσανατολισμού</string>
     <string name="ocr_abnormal">"Δεν ήταν δυνατή η αναγνώριση του κειμένου."</string>
     <string name="ocr_abnormal_pic_format">"Δεν ήταν δυνατή η αναγνώριση του κειμένου. Αυτή η μορφή εικόνας δεν υποστηρίζεται."</string>
     <string name="ocr_abnormal_pic_too_large">"Δεν ήταν δυνατή η αναγνώριση του κειμένου. Αυτή η εικόνα είναι πολύ μεγάλη."</string>
@@ -1226,6 +1232,9 @@
     <string name="operation_remove_rubbish">Επαναφορά</string>
     <string name="operation_remove_secret">Αφαίρεση από το ιδιωτικό άλμπουμ</string>
     <string name="operation_rename">Μετονομασία</string>
+    <string name="operation_replace_album_cover">Τροποποίηση εξώφυλλου άλμπουμ</string>
+    <string name="operation_replace_album_cover_custom_mode">Προσαρμογή</string>
+    <string name="operation_replace_album_cover_default_mode">Προεπιλογή</string>
     <string name="operation_save">Αποθήκευση</string>
     <string name="operation_send">Αποστολή</string>
     <string name="operation_set_contact_photo">Ορισμός ως φωτογραφία επαφής</string>
@@ -1360,6 +1369,7 @@
     <string name="photo_movie_module_finish">Τα Κλίπ φορτώθηκαν επιτυχώς</string>
     <string name="photo_movie_module_loading">Φόρτωση Κλίπ…</string>
     <string name="photo_movie_select_image_range">Το Κλιπ μπορεί να περιέχει 3-20 φωτογραφίες</string>
+    <string name="photo_page_lock_screen">Κλείδωμα προσανατολισμού</string>
     <string name="photo_page_rotate_screen">Περιστροφή οθόνης</string>
     <string name="photo_page_save_uri_image_fail">Αποτυχία αποθήκευσης.</string>
     <string name="photo_page_save_uri_image_ok">Αποθήκευση φωτογραφίας στον φάκελο της κάμερας.</string>
@@ -1851,6 +1861,7 @@
     <string name="to_enable_sync_dialog_title">Συγχρονισμός</string>
     <string name="toast_invalid_char">"Τα ονόματα αρχείων να μην περιέχουν \"%s\""</string>
     <string name="toast_invalid_prefix">"Τα ονόματα αρχείων να μην ξεκινούν με \".\" ή \"_\""</string>
+    <string name="toast_orientation_locked">Ο προσανατολισμός κλειδώθηκε με επιτυχία</string>
     <string name="toast_rename_exit">Αυτό το αρχείο υπάρχει ήδη</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Tomorrow</string>
@@ -2181,6 +2192,7 @@
     <string name="vlog_video_selected_not_support">Αδύνατη η επεξεργασία του επιλεγμένου βίντεο</string>
     <string name="vlog_video_trans_code_cons">Επεξεργασία αρχείου υψηλής ανάλυσης…</string>
     <string name="voice_assistant">Είσοδος φωνής</string>
+    <string name="watch_all_photo">Συλλογή</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
