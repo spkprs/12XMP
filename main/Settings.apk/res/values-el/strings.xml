@@ -2280,7 +2280,7 @@
     <string name="dual_wifi_switching_prompt">Εναλλαγή μεταξύ δικτύων</string>
     <string name="dual_wifi_switching_summary">Η ενίσχυση ταχύτητας WiFi δύο ζωνών απαιτεί δύο διαφορετικές ζώνες WiFi. Εάν συνδεθείτε σε διαφορετικό κύριο δίκτυο, η βοηθητική σύνδεση θα χαθεί.</string>
     <string name="dump_log">Καταγραφή σχετικών θεμάτων</string>
-    <string name="dump_log_summary">Αυτή η δυνατότητα έχει σχεδιαστεί για τη δημιουργία 284 αρχείων καταγραφής σε εκδόσεις Alpha και Beta του MIUI. Χρησιμοποιήστε το με προσοχή.\nΜπορείτε να προβάλετε την καταγραφή που δημιουργήθηκε στη Διαχείριση αρχείων.</string>
+    <string name="dump_log_summary">Αυτή η δυνατότητα έχει σχεδιαστεί για τη δημιουργία του αρχείου καταγραφής 284 στην έκδοση Beta του MIUI. Χρησιμοποιήστε το με προσοχή.\nΜπορείτε να δείτε τα δημιουργημένα αρχεία καταγραφής στη Διαχείριση αρχείων.</string>
     <string name="dump_log_title">Σχετικά με αυτή τη λειτουργία</string>
     <string name="eab_provisioned_switch_string">EAB/Προβλέψιμη παρουσία</string>
     <string name="easymode_hint">Άγγιγμα για απενεργοποίηση λειτουργίας Lite</string>
@@ -2830,6 +2830,8 @@
     <string name="gxzw_dialog_ok">Τέλος</string>
     <string name="gxzw_dialog_title">Σχετικά του Αισθητητήρα Οθόνης</string>
     <string name="gxzw_enroll_again">Σηκώστε το δάχτυλό σας και πατήστε ξανά το σαρωτή δακτ. αποτυπωμάτων</string>
+    <string name="gxzw_lowlight_open_summary">Μειώστε τη φωτεινότητα του εικονιδίου δακτυλικού αποτυπώματος σε συνθήκες χαμηλού φωτισμού. Η συσκευή σας ενδέχεται να ξεκλειδώσει πιο αργά όταν αυτή η δυνατότητα είναι ενεργοποιημένη.</string>
+    <string name="gxzw_lowlight_open_title">Ξεκλείδωμα δακτ. αποτυπώματος με χαμηλό φωτισμό</string>
     <string name="gxzw_quick_open_enable_summary">Σύρετε σε συντομεύσεις για να ανοίξετε εφαρμογές ή λειτουργίες όταν η συσκευή σας είναι ξεκλείδωτη</string>
     <string name="gxzw_quick_open_enable_title">Συντομεύσεις Δακτυλικών αποτυπωμάτων</string>
     <string name="gxzw_quick_open_fast_summary">Σύρετε για χρήση μιάς συντόμευσης όταν η συσκευή σας ξεκλειδωθεί.</string>

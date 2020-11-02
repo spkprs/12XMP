@@ -547,8 +547,8 @@
     <string name="passport_use_generated_pwd_message">Βεβαιωθείτε ότι θυμάστε τον κωδικό πρόσβασής σας. Μπορείτε να το χρησιμοποιήσετε για να συνδεθείτε σε άλλες υπηρεσίες της Mi.</string>
     <string name="passport_use_generated_pwd_title">Θυμηθείτε τον κωδικό σας</string>
     <string name="passport_user_agreement">Συμφωνία Χρήστη</string>
-    <string name="passport_user_agreement_link">"&lt;Data>Διάβασα και συμφωνώ με Xiaomi's &lt;a href=\"%1$s\">Σύμβαση χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Έχω διαβάσει και αποδέχομαι τα ακόλουθα έγγραφα: Xiaomi's &lt;a href=\"%1$s\">Σύμβαση χρήστη&lt;/a> and &lt;a href=\"%4$s\">Πολιτική απορρήτου&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Διάβασα και συμφωνώ με Xiaomi's &lt;a href="%1$s">Σύμβαση χρήστη&lt;/a> και &lt;a href="%2$s">Πολιτική απορρήτου&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Έχω διαβάσει και αποδέχομαι τα ακόλουθα έγγραφα: Xiaomi's &lt;a href="%1$s">Σύμβαση χρήστη&lt;/a> and &lt;a href="%4$s">Πολιτική απορρήτου&lt;/a>, &lt;a href="%2$s">"%3$s"&lt;/a>.&lt;/Data>"</string>
     <string name="passport_user_agreement_p1">Συμφωνώ να</string>
     <string name="passport_user_agreement_p2">Συμφωνία Χρήστη</string>
     <string name="passport_user_agreement_p3"> and </string>

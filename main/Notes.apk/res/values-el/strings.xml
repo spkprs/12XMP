@@ -112,6 +112,9 @@
     <string name="dlg_title_set_password">Ορισμός κωδικού</string>
     <string name="dlg_title_use_privacy_password">Χρήση κωδικού Απορρήτου</string>
     <string name="dlg_unhide_message">Επανεμφάνιση…</string>
+    <string name="dlg_update_cancel">Οχι τώρα</string>
+    <string name="dlg_update_checkbox_title">Παράβλεψη αυτής της έκδοσης</string>
+    <string name="dlg_update_title">Υπάρχει διαθέσιμη ενημέρωση</string>
     <string name="done">Ολοκληρώθηκε</string>
     <string name="doodle_feature">Doodles</string>
     <string name="doodle_palette">Παλέτα χρωμάτων</string>
@@ -596,6 +599,6 @@
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Οχι τώρα</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">%s νέα έκδοση</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Διαθέσιμη νέα έκδοση</string>
     <string name="yesterday">Yesterday</string>
 </resources>
