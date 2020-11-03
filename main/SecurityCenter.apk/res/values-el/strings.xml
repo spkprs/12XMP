@@ -2778,6 +2778,13 @@
     <string name="privacy_special_permission_summary">Παρακολουθήστε τον τρόπο με τον οποίο οι εφαρμογές χρησιμοποιούν ευαίσθητες Άδειες</string>
     <string name="privacy_special_permission_title">Ειδικές Άδειες</string>
     <string name="privacy_summary">Μάθετε σχετικά με την προστασία της ιδιωτικής ζωής στο MIUI 12</string>
+    <string name="privacy_thumbnail_blur_category_financial">Χρηματοοικονομικά</string>
+    <string name="privacy_thumbnail_blur_category_other">Άλλα</string>
+    <string name="privacy_thumbnail_blur_category_photography">Φωτογραφία &amp; βίντεο</string>
+    <string name="privacy_thumbnail_blur_category_tip">Συνιστάται</string>
+    <string name="privacy_thumbnail_blur_search_empty">"Δεν ήταν δυνατή η εύρεση αποτελεσμάτων"</string>
+    <string name="privacy_thumbnail_blur_title">Θόλωση προεπισκοπήσεων</string>
+    <string name="privacy_thumbnail_blur_top_tip">Επιλέξτε εφαρμογές για τις οποίες οι προεπισκοπήσεις θα είναι θολές στα Πρόσφατα</string>
     <string name="privacy_type_open">On</string>
     <string name="privacy_using_camera">Χρήση κάμερας</string>
     <string name="privacy_using_location">Πρόσβαση στην τοποθεσία</string>

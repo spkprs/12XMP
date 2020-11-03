@@ -1088,6 +1088,10 @@
     <string name="miui_ringer_total">Μην Ενοχλείτε</string>
     <string name="miui_ringer_total_description">Σίγαση ήχων και απενεργοποίηση δόνησης εκτός από την Αφύπνιση</string>
     <string name="miui_screen_rotation_freeze_message">Κλείδωμα περιστροφής οθόνης σε οριζόντια λειτουργία</string>
+    <string name="miui_toast_zen_dnd_to_off_version_R">Το DND είναι απενεργοποιημένο. Οι ήχοι ειδοποίησης και δόνηση ενεργοποιούνται ξανά.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Η αθόρυβη λειτουργία είναι απενεργοποιημένη. Οι ειδοποιήσεις, οι ήχοι πολυμέσων και δόνηση ενεργοποιούνται ξανά.</string>
+    <string name="miui_toast_zen_to_dnd_version_R">Το DND είναι ενεργοποιημένο. Οι ειδοποιήσεις θα σιγήσουν και θα απενεργοποιηθεί η δόνηση.</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Η αθόρυβη λειτουργία είναι ενεργοποιημένη. Οι ειδοποιήσεις και οι ήχοι πολυμέσων θα σιγάσουν και δόνηση θα απενεργοποιηθούν.</string>
     <string name="miui_toast_zen_dnd_to_off">Ανενεργό Μην Ενοχλείτε. Ήχοι και Δόνηση επανήλθαν κανονικά</string>
     <string name="miui_toast_zen_standard_to_off">Ανενεργή Αθόρυβη λειτουργία. Οι ήχοι επανήλθαν κανονικά.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Ανενεργή Αθόρυβη λειτουργία. Οι ήχοι κλήσης, καθώς οι ειδοποιήσεις και πολυμέσα, θα αναπαράγονται.</string>

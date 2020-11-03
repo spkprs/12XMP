@@ -8,4 +8,12 @@
     <item quantity="other">%d άδειες</item>
     <item quantity="one">%d άδεια</item>
   </plurals>
+    <plurals name="miui_app_all_permission_number">
+        <item quantity="other">%d άδειες</item>
+        <item quantity="one">%d άδεια</item>
+    </plurals>
+    <plurals name="miui_app_privacy_permission_number">
+        <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> δικαιώματα που σχετίζονται με το απόρρητο&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> δικαιώματα που σχετίζονται με το απόρρητο&lt;/Data></item>
+    </plurals>
 </resources>
