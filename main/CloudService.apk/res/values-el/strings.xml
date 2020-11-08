@@ -225,7 +225,7 @@
     <string name="micloud_dspt_provision_china">Χρησιμοποιήστε το Xiaomi Cloud για να συγχρονίσετε δεδομένα, να εντοπίσετε τη συσκευή σας και να μοιραστείτε πράγματα με φίλους.</string>
     <string name="micloud_dspt_provision_xms">Χρήση του Xiaomi Cloud για συγχρονισμό δεδομένων.</string>
     <string name="micloud_dspt_provision_xms_china">Χρησιμοποιήστε το Xiaomi Cloud για συγχρονισμό δεδομένων.</string>
-    <string name="micloud_find_device_close_alert_content">Εάν απενεργοποιήσετε τη λειτουργία Εύρεση Συσκευής, δεν θα μπορείτε να εντοπίσετε το τηλέφωνό σας όταν χαθεί. Εάν υποστηρίζει τη λειτουργία NFC, όλες οι τραπεζικές και άλλες κάρτες σας θα διαγραφούν από τη Mi Pay.</string>
+    <string name="micloud_find_device_close_alert_content">Αν απενεργοποιήσετε την Εύρεση συσκευής, δεν θα μπορείτε να εντοπίσετε τη συσκευή σας χρησιμοποιώντας αυτήν τη δυνατότητα. Αν η συσκευή σας υποστηρίζει NFC, όλες οι τραπεζικές κάρτες και οι κάρτες-κλειδιά θα διαγραφούν από το Mi Pay. Τα άτομα με τα οποία μοιράζεστε την τοποθεσία δεν θα μπορούν να λαμβάνουν ενημερώσεις και για το πού βρίσκεστε.</string>
     <string name="micloud_find_device_close_alert_negtive">Απενεργοποίηση</string>
     <string name="micloud_find_device_close_alert_positive">Διατήρηση</string>
     <string name="micloud_find_device_close_alert_title">Απενεργοποίηση Εύρεση συσκευής;</string>
