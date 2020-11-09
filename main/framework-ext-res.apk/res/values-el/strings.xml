@@ -37,6 +37,7 @@
   <string name="bluetooth_enable_notification_content">%s ενεργοποίησε το B/T</string>
   <string name="bluetooth_enable_notification_title">Το B/T είναι ενεργό</string>
   <string name="bluetooth_open">Αυτή η εφαρμογή ενεργοποίησε το B/T</string>
+  <string name="bottom_bar_smallwindow_text">Απελευθέρωση για προσθήκη</string>
   <string name="btn_cancel">Ακύρωση</string>
   <string name="btn_sure">OK</string>
   <string name="button_text_cancel">Ακύρωση</string>

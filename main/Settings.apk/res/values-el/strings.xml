@@ -1454,7 +1454,7 @@
     <string name="clear_adb_keys">Ανάκληση αδειών εντοπισμού σφαλμάτων USB</string>
     <string name="clear_all_data">Διαγραφή όλων των δεδομένων</string>
     <string name="clear_cache_btn_text">Διαγρ. cache</string>
-    <string name="clear_data_alert_info">Όλα τα αντίγραφα ασφαλείας που είναι αποθηκευμένα σε αυτήν τη συσκευή θα διαγραφούν οριστικά. Δημιουργήστε αντίγραφα ασφαλείας σημαντικών στοιχείων στον υπολογιστή σας και στο Xiaomi Cloud πριν συνεχίσετε.</string>
+    <string name="clear_data_alert_info">Όλα τα αντίγραφα ασφαλείας που είναι αποθηκευμένα σε αυτή τη συσκευή θα διαγραφούν μόνιμα. Δημιουργήστε αντίγραφο ασφαλείας σημαντικών στοιχείων στον υπολογιστή σας και στο Xiaomi Cloud πριν εκτελέσετε μια εργοστασιακή επαναφορά.</string>
     <string name="clear_data_dlg_text">Όλα τα στοιχεία αυτής της εφαρμογής θα διαγραφούν μόνιμα. Αυτό περιλαμβάνει όλα τα αρχεία, ρυθμίσεις λογαριασμών, βάσεις δεδομένων κλπ</string>
     <string name="clear_data_dlg_title">Διαγραφή δεδομένων</string>
     <string name="clear_failed_dlg_text">Αδύνατη η εκκαθ. Αποθ/σης των εφαρμογών</string>
@@ -2039,7 +2039,7 @@
     <string name="device_oaid_desc">Αντί του μοναδικού αναγνωριστικού σας, το MIUI θα παρέχει ένα εικονικό αναγνωριστικό (OAID) στις εγκατεστημένες εφαρμογές. Αποτρέπει τις εφαρμογές από την παρακολούθηση της συμπεριφοράς και των προτιμήσεών σας και προστατεύει τα προσωπικά σας δεδομένα.</string>
     <string name="device_oaid_title">Virtual ID</string>
     <string name="device_of_someone">%1$s\'s %2$s</string>
-    <string name="device_opcust_version">Προσαρμοσμένη έκδοση</string>
+    <string name="device_opcust_version">Έκδοση χειριστή</string>
     <string name="device_picker">Επιλέξτε συσκευή Bluetooth</string>
     <string name="device_rear_camera">Οπίσθια κάμερα</string>
     <string name="device_screen_resolution">Ανάλυση οθόνης</string>
@@ -2059,7 +2059,7 @@
     <string name="dialog_background_check_message">Το τηλέφωνό σας δεν μπορεί να διαχειριστεί την μπαταρία κανονικά επειδή %1$s συνεχίζει να ξυπνά το τηλέφωνό σας.\n\nΓια να προσπαθήσετε να επιλύσετε αυτό το ζήτημα, μπορείτε να σταματήσετε %1$s και αποτρέψτε το να τρέξει στο παρασκήνιο.</string>
     <string name="dialog_background_check_ok">Απενεργοποίηση</string>
     <string name="dialog_background_check_title">Απενεργοποίηση χρήσης παρασκηνίου και διακοπής της εφαρμογής;</string>
-    <string name="dialog_backup_title">Αντίγραφο πριν την επαναφορά;</string>
+    <string name="dialog_backup_title">Δημιουργία αντιγράφων στοιχείων πρώτα;</string>
     <string name="dialog_check_button_negative">Επανάληψη</string>
     <string name="dialog_check_button_positive">Σύνδεση με Wi-Fi</string>
     <string name="dialog_check_context">Η συσκευή σας δεν μπορεί να συνδεθεί στο Internet τώρα.n\1. Πατήστε \"Σύνδεση σε Wi-Fi\" για να επιλέξετε ένα από τα διαθέσιμα δίκτυα.n\2. Εάν θέλετε να χρησιμοποιήσετε δεδομένα, πατήστε \"Επανάληψη\" ή αφαιρέστε και εισάγετε ξανά την κάρτα SIM."</string>

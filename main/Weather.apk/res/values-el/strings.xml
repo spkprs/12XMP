@@ -117,7 +117,7 @@
     <string name="button_not_allow">Ακύρωση</string>
     <string name="button_settings_cancel">Ακύρωση</string>
     <string name="button_settings_confirm">Ανάκληση</string>
-    <string name="button_settings_confirm_to_revoke_msg">Δεν θα έχετε δυνατότητα χρήσης του Καιρού μετά την ανάκληση εξουσιοδότησης.</string>
+    <string name="button_settings_confirm_to_revoke_msg">Απενεργοποιώντας το διακόπτη, αποσύρετε τη συγκατάθεσή σας για την πολιτική απορρήτου του καιρού. Θα πάψουμε να συλλέγουμε τα προσωπικά σας στοιχεία. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και κρατηθεί θα διαγραφούν εντός της συγκεκριμένης περιόδου, όπως απαιτείται από την ισχύουσα νομοθεσία. Ο καιρός πρέπει να συλλέξει τα απαραίτητα προσωπικά στοιχεία για να σας παρέχει βασικές υπηρεσίες. Η ανάκληση της συναίνεσής σας στην Πολιτική Απορρήτου θα θεωρηθεί ότι αρνείται να αποδεχθεί τις υπηρεσίες της βάσει συλλεγόμενων προσωπικών πληροφοριών.</string>
     <string name="button_settings_confirm_to_revoke_title">Ανάκληση εξουσιοδότησης;</string>
     <string name="button_sure_abandon">Απόρριψη αλλαγών;</string>
     <string name="card_vote_item_vs">VS</string>
@@ -169,11 +169,14 @@
     <string name="daily_forecast_no_data">Αδυναμία απόκτησης πληροφοριών καιρού\nΤραβήξτε προς τα κάτω για ανανέωση ή ελέγξτε τις ρυθμίσεις δικτύου.</string>
     <string name="data_provided_by">Δεδομένα που παρέχονται εν μέρει από</string>
     <string name="data_source_timezone">GMT%1$s</string>
+    <string name="dialog_internet_error_title">Παρουσιάστηκε σφάλμα</string>
     <string name="dialog_msg_score_midrop">Πώς νιώθεις για τον καιρό;</string>
     <string name="dialog_msg_score_not_good">Θα μπορούσατε να μας δώσετε και τα σχόλιά σας;</string>
     <string name="dialog_msg_score_perfect">Ωραία! Αξιολόγηση καιρού και στο Play Store;</string>
     <string name="dialog_title_score">Αξιολόγηση καιρού</string>
     <string name="dislike_alert_dialog_title">Γιατί δεν θέλετε να δείτε αυτό το περιεχόμενο;</string>
+    <string name="download_rsc_tips">Φόρτωση ήχου φόντου…</string>
+    <string name="dynamic_weather">Καιρός</string>
     <string name="edit_city">Διαχείριση πόλεων</string>
     <string name="empty">" "</string>
     <string name="empty_view_net_loading">Γίνεται ενημέρωση…</string>
@@ -218,9 +221,9 @@
     <string name="indices_desc_humidity">Υγρασία %1$s%%</string>
     <string name="indices_desc_humidity_without_pic">%1$s%%</string>
     <string name="indices_desc_pressure">%1$smb</string>
+    <string name="indices_title_chance_of_rain">Πιθανότητα βροχής</string>
     <string name="indices_title_feel">Αίσθηση</string>
     <string name="indices_title_pressure">Πίεση</string>
-    <string name="indices_title_chance_of_rain">Πιθανότητα βροχής</string>
     <string name="indices_title_wind_speed">Ταχύτητα ανέμου</string>
     <string name="information_settings_title">Πληροφορίες Καιρού</string>
     <string name="install">Εγκατάσταση</string>
@@ -274,8 +277,10 @@
     <string name="night_not_disturb_settings_summary">Αποκλεισμός ειδοποιήσεων μεταξύ 23:00 έως 07:00</string>
     <string name="night_not_disturb_settings_title">Μην ενοχλείτε την νύχτα</string>
     <string name="no_data">Δεν υπάρχουν δεδομένα</string>
+    <string name="no_internet_message">Η συσκευή σας πρέπει να συνδεθεί στο δίκτυο για να μπορείτε να αποσύρετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά.</string>
     <string name="no_network_btn">Προσπαθήστε ξανά</string>
     <string name="no_vote_ratio">Κατά %1$s%%</string>
+    <string name="non_wifi_environment">Σύνδεση στο Wi-Fi για λήψη των ηχητικών εφέ</string>
     <string name="not_set">Δεν ορίστηκε</string>
     <string name="notif_aqi_title">ΔΠΑ είναι %1$d σε %2$s σήμερα</string>
     <string name="notif_weather_title">%1$s σε %2$s σήμερα</string>
@@ -305,9 +310,11 @@
     <string name="pressure_connect">%1$s mb</string>
     <string name="pressure_content">%1$s%2$s</string>
     <string name="privacy_grant_failed">Αδυναμία παραχώρησης εξουσιοδότησης. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
-    <string name="privacy_grant_or_revoke_settings">Γίνεται παραχώρηση &amp; ανάκληση εξουσιοδότησης</string>
+    <string name="privacy_grant_or_revoke_settings">Ανάκληση συγκατάθεσης</string>
     <string name="privacy_grant_success">Επιτυχής παραχώρηση εξουσιοδότησης</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_msg"><Data>Αυτή η εφαρμογή περιέχει τις ακόλουθες δυνατότητες:&lt;br/>• Μετεωρολογικές πληροφορίες για την τοποθεσία σας&lt;br/>• Πρόγνωση καιρού&lt;br/>• Προειδοποιήσεις καιρού&lt;br/>&lt;br/>Ο καιρός πρέπει να συλλέξει τα απαραίτητα προσωπικά στοιχεία για να σας παρέχει βασικές υπηρεσίες. Μπορείτε να μάθετε πώς χειριζόμαστε τις πληροφορίες που συλλέγουμε στο &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a>. Διαβάστε και συμφωνήστε με &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και &lt;a href=\"%3$s\">Πολιτική απορρήτου&lt;/a> πριν χρησιμοποιήσετε τον Καιρό. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική απορρήτου του Καιρού στις Ρυθμίσεις ανά πάσα στιγμή.</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>Αυτή η εφαρμογή περιέχει τις ακόλουθες δυνατότητες:&lt;br/>• Μετεωρολογικές πληροφορίες για την τοποθεσία σας&lt;br/>• Πρόγνωση καιρού&lt;br/>• Προειδοποιήσεις καιρού&lt;br/>&lt;br/>Ο καιρός πρέπει να συλλέξει τις απαραίτητες προσωπικές πληροφορίες, συμπεριλαμβανομένων δεδομένων τοποθεσίας, για να καταστήσει αυτές τις δυνατότητες διαθέσιμες, ακόμα και όταν η εφαρμογή είναι κλειστή ή δεν χρησιμοποιείται. Μπορείτε να μάθετε πώς χειριζόμαστε τις πληροφορίες που συλλέγουμε σε &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a>. Διαβάστε και συμφωνήστε με &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και &lt;a href=\"%3$s\">Πολιτική απορρήτου&lt;/a> πριν χρησιμοποιήσετε τον Καιρό. Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας για την Πολιτική απορρήτου του Καιρού στις Ρυθμίσεις ανά πάσα στιγμή.</Data></string>
     <string name="privacy_revoke_failed">Αδυναμία ανάκλησης εξουσιοδότησης. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="privacy_revoke_success">Επιτυχής ανάκληση εξουσιοδότησης</string>
     <string name="privacy_settings">Πολιτική Απορρήτου</string>
@@ -338,6 +345,11 @@
     <string name="request_permission_storage_dialog_content">Για κοινή χρήση μετεωρολογικών πληροφοριών σε μορφή εικόνας</string>
     <string name="required_permissions">;</string>
     <string name="retry">Προσπαθήστε ξανά</string>
+    <string name="revoke_fail">"Δεν είναι δυνατή η σύνδεση στο δίκτυο"</string>
+    <string name="revoke_privacy_policy_title">Ανάκληση συγκατάθεσης</string>
+    <string name="save_to_gallery_failure_message">"Δεν ήταν δυνατή η αποθήκευση στη Συλλογή"</string>
+    <string name="save_to_gallery_icon_name">Αποθήκευση στη Συλλογή</string>
+    <string name="save_to_gallery_success_message">Η αποθήκευση στη Συλλογή ολοκληρώθηκε με επιτυχία</string>
     <string name="search_menu_title">Search</string>
     <string name="search_weather">Καιρός</string>
     <string name="search_weather_keywords">Θερμοκρασία;Πρόβλεψη Καιρού;Καιρός;Ποιότητα αέρος;Βαθμός Μόλυνσης;Υγρασία</string>
@@ -442,12 +454,15 @@
     <string name="warning_weather_day_and_night_settings_summary">Λάβετε ημερήσιες περιλήψεις πληροφοριών καιρικών συνθηκών από 7:00 έως 19:00</string>
     <string name="warning_weather_day_and_night_settings_title">Καθημερινές περιλήψεις</string>
     <string name="weather_alert_channel_name">Ειδοποιήσεις</string>
+    <string name="weather_aqi_full_air_quality_forcast">Πλήρεις προβλέψεις για την ποιότητα του αέρα</string>
     <string name="weather_introduce">Πάντα μαζί σας, στην βροχή ή στον ήλιο.</string>
     <string name="weather_main_aqi_desc">ΔΠΑ</string>
     <string name="weather_main_minute_hour">%dώρ υετός</string>
     <string name="weather_main_speak_tips">Κάντε κλικ για μετάδοση καιρού μέσω φωνής</string>
+    <string name="weather_more_air_quality">Περισσότερα για την ποιότητα του αέρα</string>
     <string name="weather_permission_agree">Αποδοχή</string>
     <string name="weather_service_channel_name">Υπηρεσίες παρασκηνίου</string>
+    <string name="welcome_app_title">Καλώς ήρθατε στον Καιρό!</string>
     <string name="widget_cta_not_agree">Πατήστε για να λάβετε πληροφορίες καιρού</string>
     <string name="wind_direction_no_data">Άνεμος</string>
     <string name="wind_power_unit_default">0</string>

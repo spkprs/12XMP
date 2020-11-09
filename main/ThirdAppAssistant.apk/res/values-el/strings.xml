@@ -40,12 +40,18 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Προβλήματα εφαρμ. τρίτων</string>
+    <string name="dialog_content_message2_auto_update">Αυτόματη ενημέρωση εφαρμογών για την αποφυγή τέτοιων προβλημάτων στο μέλλον.</string>
     <string name="dialog_content_message2_feedback">"Θα ειδοποιήσουμε τον προγραμματιστή για αυτό το ζήτημα. Παραμείνετε συντονισμένοι για ενημερώσεις."</string>
     <string name="dialog_content_message2_update">"Φαίνεται ότι χρησιμοποιείτε μια παλιά έκδοση αυτής της εφαρμογής. Ενημέρωση τώρα?"</string>
+    <string name="dialog_content_message_auto_update_path">Μπορείτε να ενεργοποιήσετε τις αυτόματες ενημερώσεις στις ρυθμίσεις του GetApps.</string>
     <string name="dialog_content_message_func_path">Διαδρομή: Ρυθμίσεις > Εφαρμογές > Διαχείριση εφαρμογών > Ρυθμίσεις > %s</string>
+    <string name="dialog_content_message_oom_update_low_bit">Ενημερώστε την εφαρμογή μόλις η νέα έκδοση είναι διαθέσιμη στο GetApps.</string>
     <string name="dialog_content_message_other">"%s επιβολή κλεισίματος λόγω εσωτερικού σφάλματος. "</string>
     <string name="dialog_content_message_shell">"%s επιβολή κλεισίματος λόγω εσωτερικού σφάλματος. "</string>
     <string name="dialog_content_message_unknown">"%s τερματισμός. "</string>
+    <string name="dialog_content_message_update_low_bit">%s έκλεισε. Δοκιμάστε να ενημερώσετε την εφαρμογή για να επιλύσετε αυτό το πρόβλημα.</string>
+    <string name="dialog_title_message_auto_update">Αυτόματη ενημέρωση εφαρμογών</string>
+    <string name="go_open">Ενεργοποίηση</string>
     <string name="go_update">Ενημέρωση</string>
     <string name="i_know">Κατάλαβα</string>
     <string name="no_reminder">"Να μην γίνεται ειδοποίηση για θέματα στην τρέχουσα έκδοση"</string>
@@ -54,6 +60,7 @@
     <string name="notification_title_message_other">%s επιβολή κλεισίματος λόγω εσωτερικού σφάλματος</string>
     <string name="notification_title_message_shell">%s επιβολή κλεισίματος λόγω εσωτερικού σφάλματος</string>
     <string name="notification_title_message_unknown">%s τερματισμός</string>
+    <string name="open_success">Ενεργοποιήθηκε με επιτυχία</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
