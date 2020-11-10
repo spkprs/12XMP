@@ -29,11 +29,15 @@
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="actionbar_button_up_description">Back</string>
     <string name="afternoon">Απόγευμα</string>
+    <string name="aggregate_title">Κανόνες ομαδοποίησης ειδοποιήσεων</string>
     <string name="am">AM</string>
     <string name="app_name">Ειδοποιήσεις</string>
     <string name="back">Πίσω</string>
     <string name="cancel">Ακύρωση</string>
     <string name="category_other">Άλλο</string>
+    <string name="channel_keyguard_hide_content">Εμφάνιση όλων των ειδοποιήσεων αλλά απόκρυψη περιεχομένων</string>
+    <string name="channel_keyguard_show_content">Εμφάνιση όλων των ειδοποιήσεων και των περιεχομένων τους</string>
+    <string name="channel_keyguard_show_nothing">"Να μην εμφανίζεται καμία ειδοποίηση"</string>
     <string name="channel_name_aggregation">Ομαδοποιημένες ειδοποιήσεις</string>
     <string name="channel_name_notification">Ειδοποιήσεις εφαρμογών</string>
     <string name="channel_name_recovered">Ανακτημένες ειδοποιήσεις</string>
@@ -68,6 +72,10 @@
     <string name="float_notifications">Αναδυόμενες</string>
     <string name="float_notifications_short">Αναδυώμενη</string>
     <string name="fmt_date">D</string>
+    <string name="fold_importance_default">Συνιστάται</string>
+    <string name="fold_importance_important">Σημαντική</string>
+    <string name="fold_importance_unimportant">Ασήμαντη</string>
+    <string name="fold_title">Κανόνες για ομαδοποιημένες ειδοποιήσεις</string>
     <string name="function_description">Πληροφορίες για αυτήν τη λειτουργία</string>
     <string name="hint_search_all">Αναζήτηση εφαρμογών</string>
     <string name="hint_search_in_disabled_apps">Αναζήτηση χωρίς εμφάνιση ειδοπ/σεων</string>
@@ -187,6 +195,9 @@
     <string name="notification_display_style">Τύπος ειδοποιήσεων</string>
     <string name="notification_fold_summary">Όλες οι ασήμαντες ειδοπ/σεις θα εμφανίζονται σε έναν ξεχωριστό φάκελο</string>
     <string name="notification_fold_title">Φάκελος ειδοποιήσεων</string>
+    <string name="notification_keyguard_hide_content">Εμφάνιση ειδοποιήσεων αλλά απόκρυψη περιεχομένου</string>
+    <string name="notification_keyguard_show_content">Εμφάνιση ειδοποίησης και περιεχομένου</string>
+    <string name="notification_keyguard_show_nothing">"Να μην εμφανίζονται ειδοποιήσεις σε κλειδωμένη οθόνη"</string>
     <string name="notification_manager">Ειδοποιήσεις εφαρμογών</string>
     <string name="notification_setting_menu_feedback_text">Αυτή η ειδοποίηση δεν πρέπει να βρίσκεται εδώ;\nΑναφορά αυτού του θέματος</string>
     <string name="notification_style_android">Android</string>
@@ -196,6 +207,7 @@
     <string name="password_toggle_content_description">Εμφάνιση κωδικού</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="rule_keyguard_display">Τύπος</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
@@ -230,6 +242,8 @@
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Γραμμή κατάστασης</string>
+    <string name="summary_aggregate_default">Οι προωθητικές ειδοποιήσεις που σχετίζονται με το περιεχόμενο θα ομαδοποιηθούν</string>
+    <string name="summary_aggregate_home">"Οι προωθητικές ειδοποιήσεις δεν θα ομαδοποιηθούν"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">Χωρίς αναδυόμενες ειδοπ/σεις</string>
     <string name="summary_disable_lockscreen_notification">Χωρίς ειδοπ/σεις Οθόνης Κλειδώματος</string>
@@ -238,6 +252,9 @@
     <string name="summary_enable_lockscreen_notification">Επιτρέπονται ειδοπ. στην Οθ. Κλειδ.</string>
     <string name="summary_enable_show_badge_notification">Επιτρέπονται οι ενδείξεις ειδοπ.</string>
     <string name="summary_float_enable_notification_first">Επιτρέψτε την ενεργ. αναδ. ειδοπ.</string>
+    <string name="summary_fold_importance_default">MIUI θα αποφασίσει ποιες κοινοποιήσεις θα πρέπει να εμφανίζονται άμεσα</string>
+    <string name="summary_fold_importance_important">Η ειδοποίηση θα εμφανίζεται στον πίνακα ειδοποιήσεων</string>
+    <string name="summary_fold_importance_unimportant">Η ειδοποίηση θα εμφανίζεται σε ξεχωριστό φάκελο</string>
     <string name="summary_lock_screen_enable_notification_first">Επιτρέψτε την ενεργ. ειδοπ. Οθ Κλειδ.</string>
     <string name="summary_show_badge_enable_notification_first">Επιτρέψτε την ενεργ. ενδειξ. ειδοπ.</string>
     <string name="sunday">Sunday</string>
@@ -293,6 +310,8 @@
     <string name="tip_feedback_success">Υποβλήθηκε με επιτυχία</string>
     <string name="tip_feedback_thanks">Σας ευχαριστούμε για τα σχόλιά σας!</string>
     <string name="tip_select_category">Επιλογή κατηγορίας ειδοποιήσεων</string>
+    <string name="title_aggregate_default">Ομαδικές ειδοποιήσεις</string>
+    <string name="title_aggregate_home">"Να μην ομαδοποιούνται οι ειδοποιήσεις"</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="tuesday">Tuesday</string>

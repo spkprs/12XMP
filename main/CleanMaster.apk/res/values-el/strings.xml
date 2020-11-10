@@ -135,6 +135,8 @@
     <string name="auto_clean_time_three_day">Κάθε 3 μέρες</string>
     <string name="auto_cleaner_open">Ενεργοποίηση</string>
     <string name="back">Πίσω</string>
+    <string name="browser_scan_history_desc">Ιστορικό περιήγησης</string>
+    <string name="browser_search_history_desc">Αναζήτηση στοιχείων</string>
     <string name="btn_text_done">Ολοκλήρωση</string>
     <string name="btn_text_quick_cleanup">Εκκαθάριση</string>
     <string name="btn_text_quick_cleanup_apk">Διαγραφή επιλεγμένων αρχείων APK %1$s</string>
@@ -179,6 +181,7 @@
     <string name="cache_title_empty_folder2">Αδειος φάκελος</string>
     <string name="cache_title_system_cache">Cache Δεδομένων</string>
     <string name="cached_garbage">Μνήμη cache</string>
+    <string name="call_log">Αρχεία κλήσεων</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cd_back">πίσω</string>
     <string name="cd_check_box_checked">ελέγχονται</string>
@@ -208,6 +211,8 @@
     <string name="clear_bigfiles">Διαγραφή μεγάλων αρχείων, διπλών φωτό και παρωχημένα στοιχεία</string>
     <string name="clear_immediately">Καθαρισμός τώρα</string>
     <string name="clear_safe_notify">Κοινοποίηση στο widget</string>
+    <string name="clip_board_history_desc">Περιεχόμενα αντ/αποκομμένα</string>
+    <string name="clipboard">Πρόχειρο</string>
     <string name="close">Κλείστε</string>
     <string name="confirm_auto_cleaner">OK</string>
     <string name="conn_of_function_safe">Σύνδεση δικτύου για ασφάλεια</string>
@@ -671,6 +676,7 @@
     <string name="permission_dialog_storage_content">Ο \"Εκκαθαριστής\" χρειάζεται άδεια πρόσβασης στον εσωτερικό χώρο αποθήκευσης για να μπορεί να λειτουργεί κανονικά.  Πατήστε \"Ρυθμίσεις \" για να διαχειριστείτε τα δικαιώματα αποθήκευσης.</string>
     <string name="permission_dialog_storage_title">Απαιτούνται δικαιώματα</string>
     <string name="petabyteShort">PB</string>
+    <string name="phone_search">Αναζήτηση στο Google</string>
     <string name="positive_confirm">Εντάξει</string>
     <string name="pref_about_privacy_title">Πολιτική Απορρήτου</string>
     <string name="pref_category_title_auto_clean_settings">Υπενθύμιση καθαρισμού</string>
@@ -734,6 +740,7 @@
     <string name="privacy_app_desc_message">Λογαριασμός, κωδικοί πρόσβασης και μηνύματα</string>
     <string name="privacy_app_desc_search">Λογαριασμός, κωδικοί πρόσβασης και ιστορικό αναζήτησης</string>
     <string name="privacy_app_desc_setting">Λογαριασμός, κωδικοί πρόσβασης και ρυθμίσεις</string>
+    <string name="privacy_appdata_chrome_history_des">Τοποθεσίες Web που επισκεφτήκατε</string>
     <string name="privacy_browser_desc">Στοιχεία αναζήτησης</string>
     <string name="privacy_cache_desc">Λογαριασμός, κωδικός πρόσβασης, ιστορικό, ρυθμίσεις και πολλά άλλα</string>
     <string name="privacy_cache_empty">Δεν υπάρχουν ιδιωτικά δεδομένα</string>
@@ -765,6 +772,7 @@
     <string name="sc_allow_network_dialog_button">Αποδοχή</string>
     <string name="sc_allow_network_dialog_message">Να επιτρέπεται σε αυτή την εφαρμογή να συνδεθεί στο Internet για λήψη ενημερώσεων;</string>
     <string name="scanning">Σάρωση…</string>
+    <string name="search_history">Ιστορικό αναζήτησης</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="security_center_slogan">Ασφάλεια. Πάντα σε επιφυλακή.</string>
     <string name="see_more">Περισσότερα</string>

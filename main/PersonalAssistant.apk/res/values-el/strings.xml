@@ -639,6 +639,7 @@
     <string name="card_expand_note_dialog_title">Αποθήκευση σημείωσης</string>
     <string name="card_expand_note_sure_clear_all">Εκκαθάριση τώρα</string>
     <string name="card_expand_note_toast_clear_null">Επιτυχής Καθαρισμός</string>
+    <string name="card_expand_note_toast_install">Εγκαταστήστε τις \"Σημειώσεις\" για να μπορείτε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
     <string name="card_expand_note_toast_save_done">Η σημείωση αποθηκεύτηκε</string>
     <string name="card_expand_note_toast_save_dup">Επιτυχής αποθήκευση</string>
     <string name="card_expand_note_toast_share_null">Αυτή η σημείωση είναι κενή</string>

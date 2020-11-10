@@ -109,6 +109,8 @@
     <string name="cloud_backup">Αντίγραφα Xiaomi Cloud</string>
     <string name="cloud_backup_derail_size_summary">Μέγεθος: %s</string>
     <string name="cloud_backup_detail_frequence">Χρονοδιάγραμμα αντιγράφων</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">Αντιγράφα ασφαλείας κάθε %d ημέρες</string>
+    <string name="cloud_backup_detail_frequence_every_day">Αντιγράφα ασφαλείας κάθε ημέρα</string>
     <string name="cloud_backup_detail_manage">"Διαχείριση αντιγράφων "</string>
     <string name="cloud_backup_detail_state">Αντίγραφα Ασφαλείας στο Xiaomi Cloud</string>
     <string name="cloud_backup_detail_state_summary">Εφαρμογές, Αρχική οθόνη και ρυθμίσεις συστήματος</string>

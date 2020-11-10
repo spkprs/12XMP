@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_service_description">Έξυπνη εξοικονόμηση ενέργειας</string>
     <string name="about_extreme_mode">Μέγιστη εξοικονόμηση</string>
     <string name="about_hide_mode">Σχετικά</string>
     <string name="active_classify">Ταξινόμ. κατά δραστηριότητα</string>
