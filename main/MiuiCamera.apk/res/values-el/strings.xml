@@ -416,6 +416,7 @@
     <string name="config_name_super_resolution">Σούπερ ανάλυση</string>
     <string name="config_name_tilt">Θάμπωμα</string>
     <string name="config_name_timer">Χρονόμετρο</string>
+    <string name="confirm_fastmotion_reset_manually_parameter_message">Επαναφορά παραμέτρων τώρα;</string>
     <string name="confirm_install_scanner_message">Ο Σαρωτής σας επιτρέπει να σαρώσετε κωδικούς QR, γραμμικούς κώδικες, και άλλα. Δεν χρειάζεται να συνδεθείτε στο internet για να εγκατασταθεί.</string>
     <string name="confirm_install_scanner_title">Εγκατάσταση σαρωτή</string>
     <string name="confirm_location_alert">Αποτύπωση τοποθεσίας</string>
@@ -913,7 +914,7 @@
     <string name="pref_camera_auto_capture_when_stable_title">Καταγραφή επιλεγμένων αντικειμένων όταν είναι ακίνητα</string>
     <string name="pref_camera_auto_chroma_flash_title">Χρώμα Φλάς</string>
     <string name="pref_camera_auto_hibernation">Λήψη με ανενεργή οθόνη</string>
-    <string name="pref_camera_auto_hibernation_description">Απενεργοποίηση οθόνης μετά από %d λεπτά λήψης για εξοικονόμηση ενέργειας</string>
+    <string name="pref_camera_auto_hibernation_description">Κατά τη λήψη, απενεργοποίηση οθόνης μετά από %d λεπτά αδράνειας για εξοικονόμηση ενέργειας</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Σταθμισμένο Κέντρο</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Μέσος όρος πλαισίου</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Σημειακή μέτρηση</string>

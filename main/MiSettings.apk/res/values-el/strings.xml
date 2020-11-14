@@ -77,9 +77,6 @@
     <string name="focus_mode_timer_pick_dialog_title">Εισάγετε διάρκεια</string>
     <string name="focus_time_exception_tip">Φαίνεται ότι ο χρόνος συστήματος άλλαξε. Απενεργοποιήθηκε η λειτουργία Εστίασης.</string>
     <string name="follow_sim1">Εφαρμογή ρυθμίσεων SIM 1</string>
-    <string name="friday">Παρασκευή</string>
-    <string name="friday_short">Παρ</string>
-    <string name="friday_shortest">Π</string>
     <string name="fps_nature_summary">Ο υψηλός ρυθμός ανανέωσης διατηρεί τα πάντα ευκρινή και καθαρά</string>
     <string name="fps_nature_title">Υψηλός</string>
     <string name="fps_smooth_summary">Ο μεσαίος ρυθμός ανανέωσης προσθέτει μεγαλύτερη σαφήνεια στις λεπτομέρειες</string>
@@ -87,6 +84,9 @@
     <string name="fps_standard_summary">Ο τυπικός ρυθμός ανανέωσης εξοικονομεί μπαταρία</string>
     <string name="fps_standard_title">Τυπικός</string>
     <string name="fps_user_tip">Αυτά τα εφέ κίνησης επίδειξης αναπαράγονται σε χαμηλή ταχύτητα για την αναφορά σας. Η πραγματική απόδοση μπορεί να φαίνεται διαφορετική με βάση διάφορους παράγοντες.</string>
+    <string name="friday">Παρασκευή</string>
+    <string name="friday_short">Παρ</string>
+    <string name="friday_shortest">Π</string>
     <string name="gamma">Γάμμα</string>
     <string name="healthy_use_phone">Διαχείριση Χρόνου οθόνης</string>
     <string name="high_fps_description">Υψηλός ρυθμός ανανέωσης οθόνης. Μεγαλύτερη κατανάλωση ενέργειας.</string>
@@ -398,11 +398,16 @@
     <string name="usage_new_home_unused">Χωρίς χρήση</string>
     <string name="usage_new_home_update">Αλλάξετε</string>
     <string name="usage_new_home_usage_detail">Λεπτομέρειες χρήσης</string>
+    <string name="usage_new_home_week_average_count">Μέσος όρος %s</string>
     <string name="usage_new_home_week_category_title">Κατηγορίες εφαρμογών</string>
     <string name="usage_new_home_week_compare_text1">%.2f περισ. από την προηγ. εβδομάδα</string>
+    <string name="usage_new_home_week_compare_text1_new">(%s%% περισ. από την προηγ. εβδομ.)</string>
     <string name="usage_new_home_week_compare_text2">%.2f λιγότ. από την προηγ. εβδομάδα</string>
+    <string name="usage_new_home_week_compare_text2_new">(%s%% λιγ. από την προηγ. εβδομ.)</string>
     <string name="usage_new_home_week_equals_text">Ίδια με την προηγ. εβδομάδα</string>
     <string name="usage_new_home_week_title">Εβδομάδα</string>
+    <string name="usage_new_home_week_unlock_compare_decrease">(%.2f λιγ. από την προηγ. εβδομ.)</string>
+    <string name="usage_new_home_week_unlock_compare_increase">(%.2f περισ. από την προηγ. εβδομ.)</string>
     <string name="usage_new_home_week_unlock_equals_text">Ίδια με την προηγ. εβδομάδα</string>
     <string name="usage_new_home_week_usage_title">Μεμονωμένες εφαρμογές</string>
     <string name="usage_new_home_which_week">%dΕβδ</string>
@@ -521,8 +526,10 @@
     <string name="usage_stats_experience_text">Πατήστε για δοκιμή (1 λ)</string>
     <string name="usage_stats_limit_time_accuracy_title">Υπολειπόμενη εκτίμηση χρόνου</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">Εμφάνιση του χρόνου που απομένει με ακρίβεια λεπτού. Αυτό αυξάνει την κατανάλωση ενέργειας.</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary_new">Ακρίβεια λεπτoύ (καταναλώνει περισσότερη ισχύ)</string>
     <string name="usage_stats_limit_time_high_accuracy_title">Υψηλή</string>
     <string name="usage_stats_limit_time_low_accuracy_summary">Εμφάνιση του χρόνου που απομένει με ακρίβεια λεπτού των τελευταίων 2 ωρών που απομένουν για εξοικονόμηση μπαταρίας</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary_new">Ακρίβεια λεπτoύ εντός %d ωρών που απομένουν (εξοικονομεί ενέργεια)</string>
     <string name="usage_stats_limit_time_low_accuracy_title">Χαμηλή</string>
     <string name="usage_stats_limit_time_warn">Προειδοποιήσεις Χρόνου Οθόνης</string>
     <string name="usage_stats_limit_time_warn_summary">Εμφάνιση του Χρόνου Οθόνης που απομένει στον Πίνακα Ειδοποιήσεων</string>
