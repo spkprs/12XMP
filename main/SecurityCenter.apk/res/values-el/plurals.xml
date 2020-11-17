@@ -625,4 +625,64 @@
         <item quantity="other">Διαγραφή %d πακέτων εγκατάστασης</item>
         <item quantity="one">Διαγραφή %d πακέτου εγκατάστασης</item>
     </plurals>
+    <plurals name="image_protect_del_tips">
+        <item quantity="other">Οριστική διαγραφή %d εικόνων;</item>
+        <item quantity="one">Οριστική διαγραφή %d εικόνας;</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d εικόνες θα διαγραφούν μόνιμα μετά την αποχώρησή σας από αυτήν τη σελίδα. Διαγραφή οπωσδήποτε;</item>
+        <item quantity="one">%d εικόνα θα διαγραφούν μόνιμα μετά την αποχώρησή σας από αυτήν τη σελίδα. Διαγραφή οπωσδήποτε;</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Διαγραφή %d εικόνων</item>
+        <item quantity="one">Διαγραφή %d εικόνας</item>
+    </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s φορές</item>
+        <item quantity="one">%s φορά</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d εφαρμ.</item>
+        <item quantity="one">%d εφαρμ.</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d εκχωρημένα δικαιώματα υψηλού κινδύνου</item>
+        <item quantity="one">%d εκχωρημένο δικαίωμα υψηλού κινδύνου</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">βρέθηκαν %d επικίνδυνες εφαρμογές</item>
+        <item quantity="one">βρέθηκε %d επικίνδυνη εφαρμογή</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">Εντοπίστηκαν %d κίνδυνοι αποκάλυψης πληροφοριών τοποθεσίας</item>
+        <item quantity="one">Εντοπίστηκε %d  κίνδυνος αποκάλυψης πληροφοριών τοποθεσίας</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d κίνδυνοι εντοπίστηκαν</item>
+        <item quantity="one">%d κίνδυνος εντοπίστηκε</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d εντοπίσιμοι κίνδυνοι</item>
+        <item quantity="one">%d εντοπίσιμος κίνδυνος</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d φωτο ενδέχεται να περιέχουν ιδιωτικές ή ευαίσθητες πληροφορίες</item>
+        <item quantity="one">%d φωτο ενδέχεται να περιέχουν ιδιωτικές ή ευαίσθητες πληροφορίες</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d features that protect your privacy are turned off</item>
+        <item quantity="one">%d feature that protects your privacy is turned off</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d ευαίσθητα δικαιώματα εκχωρήθηκαν</item>
+        <item quantity="one">%d ευαίσθητο δικαίωμα εκχωρήθηκε</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Απεγκατάσταση %d εφαρμ.</item>
+        <item quantity="one">Απεγκατάσταση %d εφαρμ.</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d στοιχεία χρειάζονται πρόσθετη προστασία</item>
+        <item quantity="one">%d στοιχείο χρειάζεται πρόσθετη προστασία</item>
+    </plurals>
 </resources>

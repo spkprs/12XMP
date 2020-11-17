@@ -1894,6 +1894,7 @@
     <string name="unpublishing">Ακύρωση δημοσίευσης, παρακαλώ περιμένετε…</string>
     <string name="unrecognized_manufacture">Άγνωστος</string>
     <string name="unrecognized_model">Άγνωστη συσκευή</string>
+    <string name="unsupport_type">"Αυτός ο τύπος αρχείου δεν υποστηρίζεται"</string>
     <string name="unsupport_raw">%s δεν λειτουργεί με εικόνες RAW</string>
     <string name="unsupport_raw_and_video">%s δεν λειτουργεί με βίντεο και εικόνες RAW</string>
     <string name="unsupport_video">%s δεν λειτουργεί με βίντεο</string>

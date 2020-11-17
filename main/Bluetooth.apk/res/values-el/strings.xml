@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="bt_audio_share_notification_content">Πατήστε για προβολή επιλογών</string>
+    <string name="bt_audio_share_notification_title">Κοινή χρήση ήχου</string>
+    <string name="notice_audio_share_disconnected">Δεν γίνεται πλέον κοινή χρήση ήχου λόγω διακοπής της σύνδεσης</string>
     <string name="ErrorTooManyRequests">Πολλές αιτήσεις προς επεξεργασία. Παρακαλώ δοκιμάστε αργότερα.</string>
     <string name="a2dp_sink_mbs_label">Bluetooth Ήχος</string>
     <string name="ack_record">Εγγραφή Ack</string>
