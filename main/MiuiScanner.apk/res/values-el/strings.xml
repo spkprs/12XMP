@@ -234,6 +234,7 @@
     <string name="history">Ιστορικό</string>
     <string name="history_empty">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
     <string name="hold_down">Πατήστε παρατεταμένα για να πάρετε τη λέξη</string>
+    <string name="identify_the_results">Προσδιορισμός αποτελεσμάτων</string>
     <string name="if_open_result">Αποτέλεσμα σάρωσης όταν επιστρέψετε στην εφαρμογή</string>
     <string name="if_to_open_milogo_scanning">Αναγνώριση λογότυπου Xiaomi</string>
     <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
@@ -334,6 +335,7 @@
     <string name="pdf_saved_successfully">pdf αποθηκεύτηκε με επιτυχία</string>
     <string name="phone">Τηλέφωνο:</string>
     <string name="phone_storage">Εσωτερικός Χώρος</string>
+    <string name="picture_is_being_saved">Γίνεται αποθήκευση της εικόνας</string>
     <string name="place_barcode_into_rectangle">Βάλτε τον κωδικό μέσα στο πλαίσιο</string>
     <string name="plant_fail">"Αδύνατη η αναγνώριση"</string>
     <string name="plant_loading">Προσδιορισμός…</string>

@@ -135,6 +135,12 @@
     <string name="accessibility_portrait_depth_effect_panel_on">Κατακόρυφος πίνακας</string>
     <string name="accessibility_preview_button">Προεπισκόπηση</string>
     <string name="accessibility_preview_effect_button">Προεπισκόπηση εφέ</string>
+    <string name="accessibility_preview_expand">Μεγέθυνση</string>
+    <string name="accessibility_preview_front">Προεπισκόπηση εμπρός κάμερας</string>
+    <string name="accessibility_preview_select_tip">Θέση %1$d</string>
+    <string name="accessibility_preview_selected">Επιλεγμένα</string>
+    <string name="accessibility_preview_shrink">Σμίκρυνση</string>
+    <string name="accessibility_preview_zoom_tip">%1$.1fX προεπισκόπηση</string>
     <string name="accessibility_pro_video_simple_mode">Λειτουργία Lite</string>
     <string name="accessibility_protrait">Πορτρέτο</string>
     <string name="accessibility_pull_down_to_open_camera">Σύρετε κάτω για άνοιγμα Κάμερας</string>
@@ -592,11 +598,9 @@
     <string name="lighting_rainbow">Rainbow</string>
     <string name="live_draft_continue">Συνέχεια</string>
     <string name="live_draft_empty">Δεν υπάρχουν στοιχεία εδώ</string>
-    <string name="live_edit_exit_message_draft">Αποθήκευση ως πρόχειρου</string>
-    <string name="live_workspace_title">Πρόχειρα</string>
-    <string name="live_workspace_title_edit">Επιλογή στοιχείων για διαγραφή</string>
     <string name="live_edit_exit_confirm">Έξοδος</string>
     <string name="live_edit_exit_message">Παύση λήψης τώρα;</string>
+    <string name="live_edit_exit_message_draft">Αποθήκευση ως πρόχειρου</string>
     <string name="live_edit_share_title">Κοινή χρήση</string>
     <string name="live_error_confirm">Προσαρμ. χρόνου</string>
     <string name="live_error_message">Σφάλμα λειτουργίας λόγω εσφαλμένης ώρας συστήματος.</string>
@@ -624,6 +628,8 @@
     <string name="live_sticker_network_error_hint">Σφάλμα δικτύου</string>
     <string name="live_sticker_tab_name">TikTok Μαγικό αυτοκόλλητο</string>
     <string name="live_sticker_updating">Ενημέρωση...</string>
+    <string name="live_workspace_title">Πρόχειρα</string>
+    <string name="live_workspace_title_edit">Επιλογή στοιχείων για διαγραφή</string>
     <string name="location_access_allow">Αποδοχή</string>
     <string name="location_permission_des">Απομνημόνευση τοποθεσιών για φωτογραφίες και βίντεο</string>
     <string name="location_permission_not_ask_again">Να επιτρέπεται στην κάμερα η πρόσβαση στη θέση σας στις Ρυθμίσεις.</string>
@@ -1334,6 +1340,7 @@
     <string name="timbre_normal">Αρχικό</string>
     <string name="timbre_robot">Robot</string>
     <string name="time_lapse_error">Αδύνατη η χρήση αυτού του μεγέθους βίντεο για εγγραφή με χρονική καθυστέρηση</string>
+    <string name="time_stamp_date_format">dd/MM/yyyy</string>
     <string name="timer_burst">Χρον/πτης Συνεχόμενων</string>
     <string name="timer_burst_manu_param_interval">Χρονικό διάστημα (δεν περιέχει χρόνο έκθεσης)</string>
     <string name="timer_burst_param_interval">Χρονικό διάστημα</string>
