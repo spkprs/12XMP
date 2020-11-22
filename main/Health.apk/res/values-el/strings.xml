@@ -537,6 +537,7 @@
     <string name="hr_detect_state_regular_desc">Εργάζεστε ή σπουδάζετε ως συνήθως.</string>
     <string name="hr_detect_state_reseting">Ανάπαυση</string>
     <string name="hr_detect_state_reseting_desc">Είσαι τελείως χαλαρός ή μόλις ξύπνησες.</string>
+    <string name="hr_disable_in_split_screen">"Αδυναμία μέτρησης παλμών σε Διαίρεση οθόνης"</string>
     <string name="hr_disturb_detect">Η μέτρηση διακόπηκε</string>
     <string name="hr_disturb_detect_desc">Ξεκινήστε από την αρχή. Προσπαθήστε να μην μετακινήσετε το δάχτυλό σας κατά τη διάρκεια της μέτρησης.</string>
     <string name="hr_finger_permission_desc">Για τη μέτρηση του καρδιακού σας ρυθμού, αυτό το χαρακτηριστικό πρέπει να έχει πρόσβαση στον σαρωτή δακτυλικών αποτυπωμάτων για να μπορεί να ανιχνεύει αλλαγές στη ροή του αίματός σας. Να επιτραπεί;</string>
