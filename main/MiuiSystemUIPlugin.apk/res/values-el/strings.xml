@@ -111,7 +111,7 @@
     <string name="volume_dialog_accessibility_dismissed_message">Απόκρυψη στοιχείων ελέγχου έντασης</string>
     <string name="volume_dialog_accessibility_shown_message">%s στοιχεία ελέγχου έντασης εμφανίζονται. Σαρώστε προς τα επάνω για κλείσιμο.</string>
     <string name="wireless_charging_connected_message">"Δεν είναι δυνατή η χρήση αντίστροφης ασύρματης φόρτισης όταν η συσκευή σας φορτίζεται ασύρματα."</string>
-    <string name="wireless_charging_low_battery_level_message">"Δεν είναι δυνατή η χρήση αντίστροφης ασύρματης φόρτισης όταν η μπαταρία είναι λιγότερο από 30%."</string>
+    <string name="wireless_charging_low_battery_level_message">"Δεν είναι δυνατή η χρήση αντίστροφης ασύρματης φόρτισης όταν η μπαταρία είναι λιγότερο απο %d%% φορτισμένη."</string>
     <string name="wireless_charging_ok">Κατανοητό</string>
     <string name="wireless_charging_saver_cancel">Απενεργοποίηση</string>
     <string name="wireless_charging_saver_message">Η εξοικονόμηση μπαταρίας είναι ενεργή τώρα. Να διατεθεί αντίστροφη ασύρματη φόρτιση;</string>

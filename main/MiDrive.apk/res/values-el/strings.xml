@@ -200,6 +200,7 @@
     <string name="exception_move_file_exist">Το στοιχείο που μετακινείτε βρίσκεται ήδη στο φάκελο προορισμού</string>
     <string name="exception_move_sub_path">Δεν είναι δυνατή η μετακίνηση στοιχείων μέσα στον ίδιο φάκελο</string>
     <string name="exception_net_not_available">Δεν ήταν δυνατή η σύνδεση στο δίκτυο</string>
+    <string name="exception_not_support_modify_for_overseas_user">"Αυτή η δυνατότητα δεν είναι διαθέσιμη εκτός της ηπειρωτικής Κίνας"</string>
     <string name="exception_param_error">Παρουσιάστηκε σφάλμα. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="exception_rename_conflict">Δεν ήταν δυνατή η μετονομασία. Υπάρχει ήδη ένα στοιχείο με αυτό το όνομα.</string>
     <string name="exception_rename_illegal_char">Τα ονόματα αρχείων δεν μπορούν να περιέχουν ειδικούς χαρακτήρες</string>
@@ -310,6 +311,7 @@
     <string name="no_account">Δεν έχετε συνδεθεί</string>
     <string name="no_phone">Χωρίς αριθμό τηλεφώνου</string>
     <string name="not_set">Δεν ρυθμίστηκε</string>
+    <string name="not_support_upload_file_for_overseas_users">"Η αποστολή δεν είναι διαθέσιμη εκτός της Ηπειρωτικής Κίνας"</string>
     <string name="notification_channel_remind">Υπενθυμίσεις</string>
     <string name="notification_channel_service">Υπηρεσίες</string>
     <string name="ok">OK</string>
@@ -518,6 +520,8 @@
     <string name="start_download">Έναρξη λήψης…</string>
     <string name="start_upload">Έναρξη μεταφόρτωσης…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stay_tuned">Μείνετε συντονισμένοι</string>
+    <string name="stay_tuned_sub_desc">Αυτή η υπηρεσία είναι διαθέσιμη μόνο στην ηπειρωτική Κίνα</string>
     <string name="storage_internal">Εσωτερική αποθήκευση</string>
     <string name="storage_manage_list_title">Xiaomi Cloud</string>
     <string name="storage_manage_list_title_action">Περισσότερα</string>

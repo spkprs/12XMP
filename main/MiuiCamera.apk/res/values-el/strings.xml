@@ -1190,7 +1190,7 @@
     <string name="pref_groupshot_with_primitive_title">Αποθήκευση αρχικών φωτό, επίσης.</string>
     <string name="pref_hdr10_video_mode_description">Βελτιστοποιεί τα χρώματα &amp; την αντίθεση για βίντεο 4K &amp; 8K αυτόματα. Τα βελτιστοποιημένα βίντεο μπορούν να αναπαραχθούν μόνο σε συσκευές συμβατές με HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
-    <string name="pref_hdr10plus_video_mode_description">Βελτιστοποιεί χρώμα και αντίθεση βίντεο 4K/8K. Χρειάζεται υποστήριξη HDR10 + για να λειτουργήσει σωστά</string>
+    <string name="pref_hdr10plus_video_mode_description">Βελτιστοποιεί τα χρώματα &amp; την αντίθεση για βίντεο 4K και 8K. Αυτή η δυνατότητα λειτουργεί μόνο σε συσκευές συμβατές με HDR10+.</string>
     <string name="pref_lens_dirty_detect_summary">Λήψη ειδοποίησης όταν ο φακός είναι βρώμικος</string>
     <string name="pref_lens_dirty_detect_title">Ειδοποίηση για βρώμικο φακό</string>
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>

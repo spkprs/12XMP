@@ -69,8 +69,8 @@
     <item quantity="one">Απομένει %1$d ώρ. %2$d λεπ.</item>
   </plurals>
   <plurals name="kg_password_default_pin_message">
-    <item quantity="other">Εισαγάγετε το PIN SIM, έχετε %d υπόλοιπες προσπάθειες.</item>
-    <item quantity="one">Εισάγετε το PIN της κάρτας SIM, %d προσπάθεια απέμεινε πριν να επικοινωνήσετε με το φορέα σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+    <item quantity="other">Εισάγετε PIN SIM. Απομένουν %d προσπάθειες.</item>
+    <item quantity="one">Εισάγετε PIN SIM. Απομένει %d προσπάθεια για να επικοινωνήσετε με το φορέα σας για να ξεκλειδώσετε τη συσκευή σας.</item>
   </plurals>
   <plurals name="kg_password_default_puk_message">
     <item quantity="other">Η SIM είναι τώρα ανενεργή. Εισάγετε τον κωδικό PUK για να συνεχίσετε. Απομένουν %d προσπάθειες πριν η SIM γίνει μόνιμα ανενεργή. Επικοινωνήστε με το φορέα σας για λεπτομέρειες.</item>
@@ -140,4 +140,51 @@
     <item quantity="other">%1$d συνδεδεμένες συσκευές</item>
     <item quantity="one">%1$d συνδεδεμένη συσκευή</item>
   </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d μέρες πριν</item>
+        <item quantity="one">%d ημέρα πριν</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d λεπ. πριν</item>
+        <item quantity="one">%d λεπ. πριν</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d χρ. πριν </item>
+        <item quantity="one">%d χρ. πριν</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s στοιχεία ελέγχου προστέθηκαν.</item>
+        <item quantity="one">%s στοιχείο ελέγχου προστέθηκε.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="other">Εισαγάγετε SIM%1$d PIN, απομένουν %2$d προσπάθειες.</item>
+        <item quantity="one">Εισαγάγετε SIM%1$d PIN, απομένει %2$d προσπάθεια για να επικοινωνήσετε με το φορέα σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Εσφαλμένος κωδικός PIN SIM%1$d, απομένουν %2$d προσπάθειες.</item>
+        <item quantity="one">Εσφαλμένος κωδικός PIN SIM%1$d, απομένει %2$d προσπάθεια για να επικοινωνήσετε με το φορέα σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Δοκιμάστε ξανά σε %d δευτ.</item>
+        <item quantity="one">Δοκιμάστε ξανά σε %d δευτ.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d συσκευές</item>
+        <item quantity="one">%d συσκευή</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d ώρ.</item>
+        <item quantity="one">%d ώρ.</item>
+        <item quantity="two">%d ώρ.</item>
+        <item quantity="few">%d ώρ.</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d λεπ.</item>
+        <item quantity="one">%d λεπ.</item>
+        <item quantity="few">%d λεπ.</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Μπορείτε να προσθέσετε έως %d χρήστες.</item>
+        <item quantity="one">Μόνο ένας χρήστης μπορεί να δημιουργηθεί.</item>
+    </plurals>
 </resources>

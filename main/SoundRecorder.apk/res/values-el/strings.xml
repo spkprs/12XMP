@@ -359,6 +359,8 @@
     <string name="trash_box">Διαγράφηκαν πρόσφατα</string>
     <string name="trash_box_close_tip">Κλείσιμο προτροπής</string>
     <string name="trash_box_delete_all">Οριστική διαγραφή όλων των στοιχείων από τα απορρίμματα;</string>
+    <string name="uninstall_warning_content">"Η Εγγραφή είναι εφαρμογή συστήματος. Δεν θα μπορείτε να καταγράψετε και να μεταγράψετε κλήσεις ήχου και φωνής μετά την απεγκατάστασή της."</string>
+    <string name="uninstall_warning_title">Απεγκατάσταση της Εγγραφής?</string>
     <string name="usage_description">Μεταφορά ήχου και συγχρονισμό αντικειμένων με το cloud</string>
     <string name="user_feedback">Σχόλια</string>
     <string name="v7_preference_off">OFF</string>

@@ -685,4 +685,60 @@
         <item quantity="other">%d στοιχεία χρειάζονται πρόσθετη προστασία</item>
         <item quantity="one">%d στοιχείο χρειάζεται πρόσθετη προστασία</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d πρόβλημα χρήσης μπαταρίας</item>
+        <item quantity="one">%d πρόβλημα χρήσης μπαταρίας</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Βελτιστοποίηση %d στοιχείων για εξοικ. μπαταρίας</item>
+        <item quantity="one">Βελτιστοποίηση %d στοιχείου για εξοικ. μπαταρίας</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">φορές</item>
+        <item quantity="one">φορά</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d θέματα χρήσης μπαταρίας</item>
+        <item quantity="one">%d θέμα χρήσης μπαταρίας</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" ώρ."</item>
+        <item quantity="one">" ώρ."</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" λεπ."</item>
+        <item quantity="one">" λεπ."</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Φορτίστε πλήρως τη συσκευή σας τουλάχιστον %2$d φορές για να έχετε ακριβή στατιστικά στοιχεία</item>
+        <item quantity="one">Φορτίστε πλήρως τη συσκευή σας τουλάχιστον %2$d φορα για να έχετε ακριβή στατιστικά στοιχεία</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Επιδιόρθωση %d ζητημάτων χρήσης μπαταρίας</item>
+        <item quantity="one">Επιδιόρθωση %d ζητήματος χρήσης μπαταρίας</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Μπορείτε να διορθώσετε %d ζητήματα χρήσης μπαταρίας</item>
+        <item quantity="one">Μπορείτε να διορθώσετε %d ζητήμα χρήσης μπαταρίας</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d είναι δυνατή η βελτιστοποίηση στοιχείων"</item>
+        <item quantity="one">" %d είναι δυνατή η βελτιστοποίηση  στοιχείου"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Βελτιστοποίηση %d στοιχ. για εξοικ. μπαταρίας</item>
+        <item quantity="one">Βελτιστοποίηση %d στοιχ. για εξοικ. μπαταρίας</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Μπορείτε να βελτιστοποιήσετε %d στοιχ. για εξοικ. μπαταρίας</item>
+        <item quantity="one">Μπορείτε να βελτιστοποιήσετε %d στοιχ. για εξοικ. μπαταρίας</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d εφαρμ. ξεκινούν συχνά</item>
+        <item quantity="one">%d εφαρμ. ξεκινούν συχνά</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d εφαρμ. καταναλώνουν μπατ.</item>
+        <item quantity="one">%d εφαρμ. καταναλώνουν μπατ.</item>
+    </plurals>
 </resources>
