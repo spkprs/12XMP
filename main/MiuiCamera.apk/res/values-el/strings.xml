@@ -472,6 +472,7 @@
     <string name="download_cancel_hint">Ακύρωση λήψης %1$s;</string>
     <string name="download_confirm">Λήψη</string>
     <string name="download_hint">%1$s MB δεδομένων θα χρησιμοποιηθούν για τη λήψη στοιχείων. Λήψη οπωσδήποτε;</string>
+    <string name="download_in_progress">Λήψη…</string>
     <string name="download_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="dual_camera_lens_covered_toast">Ο φακός είναι καλυμμένος.</string>
     <string name="dual_camera_lowlight_toast">Φαίνεται ότι είναι πολύ σκοτεινά.</string>

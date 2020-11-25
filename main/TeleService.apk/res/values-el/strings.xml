@@ -2154,6 +2154,8 @@
     <string name="volte_switch_title">Χρήση VoLTE</string>
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">Οι υπηρεσίες της China Telecom VoLTE παρέχονται μόνο στις περιοχές με κάλυψη δικτύου VoLTE. Οι υπηρεσίες VoLTE παρέχονται από τον φορέα.</string>
+    <string name="vonr_switch_summary">Χρησιμοποιήστε το VoNR για να βελτιώσετε την ποιότητα των φωνητικών κλήσεων</string>
+    <string name="vonr_switch_title">Χρήση VoNR</string>
     <string name="vowifi_emergency_notification_channel">WiFi Κλήση προειδοποίησης έκτακτης ανάγκης</string>
     <string name="vowifi_emergency_notification_content">Οι κλήσεις έκτακτης ανάγκης διατίθενται μόνο σε κυψελοειδή κάλυψη.</string>
     <string name="vowifi_emergency_notification_title">Vodafone WiFi Κλήση</string>

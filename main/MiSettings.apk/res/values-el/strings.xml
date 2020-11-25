@@ -476,6 +476,8 @@
     <string name="usage_state_focus_weak_summary">Αφήστε το τηλέφωνό σας μακριά</string>
     <string name="usage_state_friday">Παρ</string>
     <string name="usage_state_go_more">Περισσότερες εφαρμογές</string>
+    <string name="usage_state_holiday_day_hour_minute">Ημέρες άδειας: %1$s %2$s</string>
+    <string name="usage_state_holiday_time">Ημέρες άδειας: %s</string>
     <string name="usage_state_hour_minute">%1$dΩρ. %2$dΛεπ.</string>
     <string name="usage_state_less_one_minute">&lt; από 1 λεπτό</string>
     <string name="usage_state_monday">Δευτ</string>

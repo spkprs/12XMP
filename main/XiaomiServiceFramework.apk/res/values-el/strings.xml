@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accept">OK</string>
-     <string name="app_name">Πλαίσιο υπηρεσιών Xiaomi</string>
-     <string name="error_device_id_message">"Μη έγκυρο ID συσκευής: %s
-Το ID της συσκευής πρέπει να είναι έγκυρο IMEI ή MAC address. Χωρίς το ID, κάποιοι λογαριασμοί και cloud λειτουργίες δεν θα είναι διαθέσιμα."</string>
-     <string name="error_device_id_title">Αδυναμία λήψης έγκυρου ID συσκευής</string>
-     <string name="explain_send_sms_permission_button">Επαλήθευση</string>
-     <string name="explain_send_sms_permission_msg">Για να ενεργοποιήσετε το %s, το πλαίσιο υπηρεσιών Xiaomi θα στείλει SMS για επαλήθευση του τηλεφωνικού σας αριθμού. Θα χρεωθείτε για κανονικό SMS από τον φορέα σας.</string>
-     <string name="explain_send_sms_permission_title">Επαλήθευση τηλεφωνικού αριθμού</string>
-     <string name="pop_up_allow_notify_dialog">Αποδοχή</string>
-     <string name="pop_up_deny_notify_dialog">Απόρριψη</string>
-     <string name="sync_notification_title_format">Τρέχον στοιχείο συγχρονισμού: %1$s</string>
-     <string name="xiaomi_cloud_service">Mi Cloud</string>
-     <string name="xmsf_activate_info">XMSF πληροφορίες ενεργοποίησης</string>
+    <string name="accept">OK</string>
+    <string name="activate_feature_find_device">"Η Εύρεση συσκευής δεν μπορεί να συνδεθεί στο δίκτυο"</string>
+    <string name="activate_phone_failed_notif_title_sim">"Αδύνατη η ενεργοποίηση %2$s με χρήση SIM %1$d"</string>
+    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Δημιουργήθηκε λογαριασμός με χρήση SIM %d με επιτυχία</string>
+    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"Δεν ήταν δυνατή η δημιουργία λογαριασμού με χρήση SIM %d"</string>
+    <string name="activate_phone_server_failed_notif_title">"Δεν ήταν δυνατή η ενεργοποίηση %s"</string>
+    <string name="activate_phone_server_success_notif_title">Η ενεργοποίηση %s ολοκληρώθηκε με επιτυχία</string>
+    <string name="activate_phone_success_notif_title_sim">Η ενεργοποίηση %2$s με χρήση SIM %1$d ολοκληρώθηκε με επιτυχία</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg">Για ενεργοποίηση %2$s, θα σταλεί %1$d διεθνές SMS. Ο φορέας σας θα σας χρεώσει για αυτό.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg">Για ενεργοποίηση %2$s, θα σταλεί %1$d διεθνές SMS. Ο μεταφορέας σας θα σας χρεώσει για αυτά τα μηνύματα.</string>
+    <string name="activate_popup_desc_error_device">Μη έγκυρο IMEI. Πατήστε για να δοκιμάσετε ξανά.</string>
+    <string name="activate_popup_desc_failed_query_info_msg">"Δεν ήταν δυνατός ο έλεγχος του αριθμού τηλεφώνου. Βεβαιωθείτε ότι η κάρτα SIM %d λειτουργεί σωστά και δοκιμάστε ξανά."</string>
+    <string name="activate_popup_desc_failed_server_msg">Παρουσιάστηκε σφάλμα διακομιστή. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Για ενεργοποίηση %3$s, πληκτρολογήστε τον αριθμό τηλεφώνου της SIM %2$d. Εάν αντικαταστήσετε αυτή την κάρτα SIM, θα σταλεί ένα άλλο SMS ενεργοποίησης.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg">Για ενεργοποίηση %2$s, θα σταλεί %1$d διεθνές SMS. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
+    <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Ανατρέξτε στο &lt;a href=https://account.xiaomi.com/helpcenter/faq>Εγχειρίδιο χρήστη Mi&lt;/a> αν έχετε ερωτήσεις.</Data></string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg">Για ενεργοποίηση %3$s, θα αποστέλλονται %1$d κανονικά και %2$d διεθνή SMS. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
+    <string name="activate_popup_desc_sim_card_downlink_msg">Για ενεργοποίηση %2$s, πληκτρολογήστε τον αριθμό τηλεφώνου της SIM %1$d.</string>
+    <string name="activate_popup_desc_sim_card_msg">Για ενεργοποίηση %2$s, θα σταλεί κανονικό SMS %1$d. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Για ενεργοποίηση %3$s, πληκτρολογήστε τον αριθμό τηλεφώνου της SIM %2$d. Η τεχνική υποστήριξη παρέχεται εν μέρει από την Weihuitel. Για λεπτομέρειες, ανατρέξτε στην Πολιτική απορρήτου της Weihuitel.</string>
+    <string name="activate_popup_failed_send_sms_desc">"Δεν ήταν δυνατή η αποστολή SMS ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM %d λειτουργεί σωστά και δοκιμάστε ξανά."</string>
+    <string name="activate_progress_status_title">Ενεργοποίηση %s…</string>
+    <string name="activate_registered_xiaomi_account_failed_notif_title">"Δεν ήταν δυνατή η δημιουργία  MI λογαριασμού"</string>
+    <string name="activate_registered_xiaomi_account_success_notif_title">Ο MI λογαριασμός δημιουργήθηκε με επιτυχία</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">"Δεν ήταν δυνατή η επαλήθευση του αριθμού τηλεφώνου. Βεβαιωθείτε ότι η κάρτα SIM %d λειτουργεί σωστά και δοκιμάστε ξανά."</string>
+    <string name="activate_status_desc_completed_with_sms_sent_for_activate_server">%d εστάλη κανονικό SMS για την ενεργοποίηση αυτής της υπηρεσίας.</string>
+    <string name="activate_status_desc_query_activation_server_info">Λήψη πληροφοριών…</string>
+    <string name="activate_status_desc_request_activation_sms_server_error_tip">"Δεν ήταν δυνατή η λήψη SMS ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM %d λειτουργεί σωστά και δοκιμάστε ξανά."</string>
+    <string name="activate_status_title_activating_sim">Ενεργοποίηση %2$s με χρήση SIM %1$d…</string>
+    <string name="activate_status_title_registering_xiaomi_account">Δημιουργία Mi λογαριασμού…</string>
+    <string name="activate_status_title_registering_xiaomi_account_sim">Δημιουργία Mi λογαριασμού με χρήση SIM %d…</string>
+    <string name="app_name">Πλαίσιο υπηρεσιών Xiaomi</string>
+    <string name="error_checking_client_tip">"Δεν ήταν δυνατός ο έλεγχος του περιβάλλοντος ενεργοποίησης. Πατήστε για να δοκιμάσετε ξανά."</string>
+    <string name="error_device_id_message">++Μη έγκυρο ID συσκευής: %s\nΤο ID της συσκευής πρέπει να είναι έγκυρο IMEI ή MAC address. Χωρίς το ID, κάποιοι λογαριασμοί και cloud λειτουργίες δεν θα είναι διαθέσιμα.</string>
+    <string name="error_device_id_title">Αδυναμία λήψης έγκυρου ID συσκευής</string>
+    <string name="error_network_io_tip">Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά</string>
+    <string name="error_no_get_send_sms_permission">Επιτρέψτε στην SIM %d να στείλει πρώτα SMS.</string>
+    <string name="error_sim_not_in_service_tip">"SIM %d δεν είναι δυνατή η σύνδεση στο δίκτυο. Βεβαιωθείτε ότι η κάρτα SIM λειτουργεί σωστά και δοκιμάστε ξανά."</string>
+    <string name="explain_activate_feature_server_title">Ενεργοποίηση %s</string>
+    <string name="explain_activate_register_xiaomi_account_title">Δημιουργία Mi λογαριασμού</string>
+    <string name="explain_activate_send_sms_permission_msg">Για ενεργοποίηση %s, η συσκευή σας χρειάζεται δικαιώματα για την αποστολή SMS ενεργοποίησης. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
+    <string name="explain_send_sms_permission_button">Επαλήθευση</string>
+    <string name="explain_send_sms_permission_msg">Για να ενεργοποιήσετε το %s, το πλαίσιο υπηρεσιών Xiaomi θα στείλει SMS για επαλήθευση του τηλεφωνικού σας αριθμού. Θα χρεωθείτε για κανονικό SMS από τον φορέα σας.</string>
+    <string name="explain_send_sms_permission_title">Επαλήθευση τηλεφωνικού αριθμού</string>
+    <string name="pop_up_allow_notify_dialog">Αποδοχή</string>
+    <string name="pop_up_deny_notify_dialog">Απόρριψη</string>
+    <string name="privacy_revoke_failed_msg_tip">Επιτρέψτε σε αυτήν την υπηρεσία την πρόσβαση στον αριθμό τηλεφώνου σας πρώτα.</string>
+    <string name="sim_activated_failed_msg">"Δεν ήταν δυνατή η ενεργοποίηση της υπηρεσίας. Δοκιμάστε ξανά."</string>
+    <string name="sim_unactivated_feature_title">"%s δεν ενεργοποιήθηκε"</string>
+    <string name="sim_unactivated_msg">"Αυτή η υπηρεσία δεν έχει ενεργοποιηθεί. Δοκιμάστε ξανά."</string>
+    <string name="sim_unactivated_register_xiaomi_account_feature_title">"Ο Mi λογαριασμος δεν ενεργοποιήθηκε"</string>
+    <string name="sync_notification_title_format">Τρέχον στοιχείο συγχρονισμού: %1$s</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xmsf_activate_info">XMSF πληροφορίες ενεργοποίησης</string>
 </resources>

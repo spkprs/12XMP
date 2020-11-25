@@ -792,6 +792,8 @@
     <string name="user_name_null">Το Apple ID δεν μπορεί να είναι κενό</string>
     <string name="video">Βίντεο</string>
     <string name="view_password_description">Εμφάνιση κωδικού</string>
+    <string name="waiting_restore_aod">Επαναφορά Πάντα στην Οθόνη…</string>
+    <string name="waiting_restore_desktop">Επαναφορά διάταξης Αρχικής Οθόνης…</string>
     <string name="web_sso_login_fail">Πρέπει να συνδεθείτε ξανά</string>
     <string name="web_sso_login_message">Σύνδεση…</string>
     <string name="website">Δικτυακός τόπος</string>

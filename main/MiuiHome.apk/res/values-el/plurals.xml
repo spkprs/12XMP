@@ -15,6 +15,10 @@
     <item quantity="other">Επιλεγμένο %1$d στοιχεία</item>
     <item quantity="one">Επιλεγμένο %1$d στοιχείο</item>
   </plurals>
+  <plurals name="remove_dialog_title_multi_format">
+    <item quantity="one">Κατάργηση της εφαρμ. %1$d;</item>
+    <item quantity="other">Κατάργηση των εφαρμ. %1$d;</item>
+  </plurals>
   <plurals name="scroll_tip_format_when_announce_accessibility">
     <item quantity="other">Σελίδα %1$d, %2$d εφαρμογές.</item>
     <item quantity="one">Σελίδα %1$d, %2$d εφαρμογή.</item>

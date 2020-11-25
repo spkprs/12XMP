@@ -97,6 +97,7 @@
     <string name="reboot_info_shutdown_alarm">Τερματισμού ξυπνητηριού: %s</string>
     <string name="reset">Επαναφορά</string>
     <string name="restart">Επανεκκίνηση</string>
+    <string name="safe_media_volume_warning">"Αύξηση έντασης πάνω από το συνιστώμενο επίπεδο;\nΗ ακρόαση σε υψηλή ένταση για μεγάλα χρονικά διαστήματα μπορεί να βλάψει την ακοή σας.</string>
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Σάβ</string>
     <string name="saturday_shortest">Σάβ</string>
