@@ -290,7 +290,7 @@
     <string name="noon">PM</string>
     <string name="not_now">Όχι τώρα</string>
     <string name="not_set">Δεν ορίστηκε</string>
-    <string name="note_description_content">Η εφαρμογή Notes είναι ένα εξαιρετικό εργαλείο για την καταγραφή των ιδεών σας. Διαθέτει ενσωματωμένες υπενθυμίσεις και συγχρονίζει τα στοιχεία σας με το cloud, ώστε να μπορείτε να έχετε πρόσβαση σε αυτά οπουδήποτε, οποτεδήποτε. Βεβαιωθείτε ότι μπορείτε να το κάνετε χωρίς αυτές τις λειτουργίες προτού διαγράψετε την εφαρμογή.</string>
+    <string name="note_description_content">Η εφαρμογή Σημειώσεις είναι ένα εξαιρετικό εργαλείο για την καταγραφή των ιδεών σας. Διαθέτει ενσωματωμένες υπενθυμίσεις και συγχρονίζει τα στοιχεία σας με το cloud, ώστε να μπορείτε να έχετε πρόσβαση σε αυτά οπουδήποτε, οποτεδήποτε. Βεβαιωθείτε ότι μπορείτε να το κάνετε χωρίς αυτές τις λειτουργίες προτού διαγράψετε την εφαρμογή.</string>
     <string name="note_description_title">Σχετικά με τις σημειώσεις</string>
     <string name="note_gesture_guide_step1">Κρατήστε πατημένα το κουμπί + για δημιουργία φωνητικής σημείωσης</string>
     <string name="note_gesture_guide_step2">Κρατήστε παρατεταμένα μια σημείωση και έπειτα σύρετέ την πάνω από μια άλλη για να δημιουργήσετε ένα φάκελο</string>
@@ -304,6 +304,8 @@
     <string name="note_mindnote_entrance_hint">"Ξεκινήστε να πληκτρολογείτε "</string>
     <string name="note_mindnote_entrance_icon_text">Δημιουργήστε έναν χάρτη mind</string>
     <string name="note_sort_way">Ταξινόμηση σημειώσεων</string>
+    <string name="notes_description_content">"Η Σημειώσεις είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε."</string>
+    <string name="notes_description_title">Απεγκατάσταση εφαρμ. Σημειώσεις?</string>
     <string name="notealert_enter">Ρίξτε μια ματιά</string>
     <string name="notealert_ok">Το κατάλαβα</string>
     <string name="notelist_string_info">…</string>
@@ -403,10 +405,10 @@
     <string name="sns_choose_quality_high">Υψηλή (%1$s)</string>
     <string name="sns_choose_quality_low">Χαμηλή</string>
     <string name="sns_choose_quality_title">Επιλέξτε την ποιότητα της εικόνας</string>
-    <string name="sns_content_default">Share photo</string>
+    <string name="sns_content_default">Κοινοποίηση φωτογραφίας</string>
     <string name="sns_desc_image_preview">Προεπισκόπηση μηνύματος</string>
     <string name="sns_desc_preview_weibo">Προεπισκόπηση μηνύματος Weibo</string>
-    <string name="sns_footer_text">Δημιουργήθηκε με Mi Notes</string>
+    <string name="sns_footer_text">Δημιουργήθηκε με Mi Σημειώσεις</string>
     <string name="sns_hint_content">Τι έχεις στο μυαλό σου;</string>
     <string name="sns_hint_title">Θέμα (Προαιρετικό)</string>
     <string name="sns_message_disconnect">Αδυναμία σύνδεσης στο δίκτυο. Παρακαλώ ελέγξτε τη σύνδεσή σας και προσπαθήστε ξανά.</string>
@@ -581,11 +583,11 @@
     <string name="todo_time_picker_title">Ορισμός υπενθύμισης</string>
     <string name="todo_user_guide_fw_pop">Προσθήκη συντόμευσης στην Αρχική Οθόνη</string>
     <string name="todo_user_guide_tip1">Καλωσορίσατε στις Εργασίες!</string>
-    <string name="todo_user_guide_tip2">Εδώ μπορείτε να προσθέσετε εργασίες κειμένου και φωνής.</string>
-    <string name="todo_user_guide_tip3">Για να επεξεργαστείτε μια εργασία κειμένου, απλώς αγγίξτε.</string>
+    <string name="todo_user_guide_tip2">Προσθ. εργ. κειμ. και φωνής.</string>
+    <string name="todo_user_guide_tip3">Επεξεργ. εργασίας κειμένου.</string>
     <string name="todo_user_guide_tip4">Μην ξεχάσετε να δημιουργήσετε μια συντόμευση στην αρχική οθόνη για τις Εργασίες.</string>
     <string name="todo_user_guide_tip5">Μείνετε στην κορυφή του παιχνιδιού σας και μην χάσετε ποτέ τίποτα σημαντικό!</string>
-    <string name="todo_user_guide_tip6">Πατήστε \"Enter\" για να δημιουργήσετε μια λίστα ελέγχου με δευτερεύουσες εργασίες</string>
+    <string name="todo_user_guide_tip6">Πατήστε \"Enter\" για να δημιουργ.  λίστας ελέγχου με δευτερεύουσες εργασίες</string>
     <string name="todoalert_done">OK</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="toolbar_check_description">Προσθήκη πλαίσιου επιλογής</string>

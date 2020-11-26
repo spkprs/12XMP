@@ -53,6 +53,7 @@
     <string name="account_settings_notifications">Ρυθμίσεις ειδοποιήσεων</string>
     <string name="account_settings_notify_label">Ειδοποιήσεις email</string>
     <string name="account_settings_notify_summary">Αποστολή ειδοποίησης όταν ληφθεί email</string>
+    <string name="account_settings_only_notify_inbox">Μόνο αλληλογραφία εισερχομένων Προώθησης</string>
     <string name="account_settings_param">Ρυθμίσεις λογαριασμού</string>
     <string name="account_settings_policies">Πολιτικές ασφάλειας</string>
     <string name="account_settings_preference_att_save_path">Προεπιλεγμένη τοποθεσία για συνημμένα</string>
@@ -196,6 +197,8 @@
     <string name="appraise_good">Ναι</string>
     <string name="appraise_ignore">Δεν λέω τώρα</string>
     <string name="appraise_negative">Όχι</string>
+    <string name="app_uninstall_content">Το Email είναι εφαρμογή συστήματος MIUI. Μετά την απεγκατάσταση, δεν θα μπορείτε να προσθέσετε λογαριασμούς, να στείλετε και να λάβετε μηνύματα η και να συγχρονίσετε τα email σας.</string>
+    <string name="app_uninstall_title">απεγκατάσταση \"Email\"?</string>
     <string name="archive">Αρχείο</string>
     <string name="archived">Στο Αρχείο</string>
     <string name="att_download_failed_content">Η λήψη απέτυχε</string>

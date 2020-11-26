@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MediaControlView_ad_remaining_time">Προσθήκη ・ Απομένουν %1$s</string>
+    <string name="MediaControlView_ad_skip_wait_time">Παράλειψη προσθήκης %1$ds</string>
+    <string name="MediaControlView_ad_text">Επίσκεψη διαφημιστή</string>
+    <string name="MediaControlView_audio_track_none_text">Χωρίς</string>
+    <string name="MediaControlView_audio_track_number_text">Κομμάτι %1$d</string>
+    <string name="MediaControlView_audio_track_text">Κομμάτι ήχου</string>
+    <string name="MediaControlView_custom_playback_speed_text">%1$.2fx</string>
+    <string name="MediaControlView_playback_speed_normal">Κανονική</string>
+    <string name="MediaControlView_playback_speed_text">Ταχύτητα αναπ/γής</string>
+    <string name="MediaControlView_subtitle_off_text">Off</string>
+    <string name="MediaControlView_subtitle_track_number_and_lang_text">Κομμάτι %1$d - %2$s</string>
+    <string name="MediaControlView_subtitle_track_number_text">Κομμάτι %1$d</string>
+    <string name="MediaControlView_video_quality_auto_text">Αυτόματα</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
@@ -66,6 +79,7 @@
     <string name="allergic_drugs_hint">Εισάγετε φάρμακα-αντιδράσεις σε αυτά</string>
     <string name="allow_notice_periods">Διάστημα υπενθύμισης</string>
     <string name="altitude">Ύψος</string>
+    <string name="altitude_pressure_hint">*Υπολογιζόμενη από την πίεση του αέρα, υπάρχουν ορισμένα σφάλματα</string>
     <string name="altitude_range">Υψόμετρο</string>
     <string name="am">ΠΜ</string>
     <string name="app_name">Δέντρο παρακολούθησης</string>
@@ -255,6 +269,7 @@
     <string name="deep_sleep_duration_description">"Όταν οι άνθρωποι κοιμούνται, συμβαίνουν περιοδικές γρήγορες κινήσεις των ματιών. Ο ύπνος μπορεί να διαιρεθεί σε ταχεία κίνηση των οφθαλμών (REM) και μη ταχεία κίνηση των οφθαλμών (NREM). Ο βαθύς ύπνος συμβαίνει κατά τη διάρκεια περιόδων ύπνου NREM, που αντιστοιχούν περίπου στο 20 έως 25%% της συνολικής διάρκειας ύπνου. Ο εγκέφαλός σας αναπαύεται κατά τη διάρκεια του βαθύ ύπνου, δείχνοντας χαμηλά επίπεδα συνειδητής δραστηριότητας, έτσι η αφύπνιση δεν είναι εύκολη."</string>
     <string name="deep_sleep_duration_increase_description">Ο βαθύς ύπνος σας είναι πολύ μεγάλος</string>
     <string name="deep_sleep_duration_normal_description">Έχετε αρκετό βαθύ ύπνο</string>
+    <string name="default_notification_channel_name">Αναπαραγωγή</string>
     <string name="delete">Διαγραφή</string>
     <string name="delete_aid_file">Διαγραφή</string>
     <string name="delete_aid_file_desc">Η ιατρική σας ταυτότητα έκτακτης ανάγκης θα διαγραφεί μόνιμα από αυτή τη συσκευή, εάν συνεχίσετε.</string>
@@ -365,6 +380,12 @@
     <string name="enable_right_now">Ενεργό</string>
     <string name="enough">Αρκετά</string>
     <string name="enter_mi_health">Έναρξη Xiaomi Health</string>
+    <string name="environment_detection_again">Δοκιμάστε ξανά</string>
+    <string name="environment_detection_fail">"Φαίνεται ότι κάνει πολύ θόρυβο εδώ"</string>
+    <string name="environment_detection_fail_hint">Μετακινηθείτε σε ένα ήσυχο μέρος και προσπαθήστε ξανά.</string>
+    <string name="environment_detection_hint_one">Αποφύγετε θορυβώδη μέρη για να κάνετε τα στατιστικά πιο ακριβή.</string>
+    <string name="environment_detection_hint_two">Η γυμναστική σας θα διακοπεί και θα συνεχιστεί αυτόματα με βάση τους ήχους που παράγετε.</string>
+    <string name="environment_detection_ing">Έλεγχος περιβάλλοντος προπόνησης…</string>
     <string name="equivalent_exercise">≈%1$s χλμ περπάτημα (%2$s kcal)</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
@@ -500,6 +521,8 @@
     <string name="health_score">Βαθμός υγείας</string>
     <string name="health_score_tips">Ο βαθμός υγείας υπολογίζεται με βάση το ΔΜΣ σας (δείκτης μάζας σώματος), καθώς και τον ύπνο σας και τα βήματα δραστηριότητας. Όσο πιο κοντά βρίσκεστε στους στόχους σας, τόσο υψηλότερος είναι ο βαθμός υγείας.</string>
     <string name="health_setting">Ρυθμίσεις Υγείας</string>
+    <string name="health_uninstall_dialog_content">"Το Xiaomi Health είναι μια εφαρμογή συστήματος. Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μετρήσετε τα βήματα, να παρακολουθήσετε τον ύπνο, τις περιόδους και το βάρος, καθώς και να συγχρονίσετε τα στατιστικά σας στο cloud. Δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε."</string>
+    <string name="health_uninstall_dialog_title">Απεγκατάσταση της Xiaomi Health;</string>
     <string name="heart_rate">Καρδιακός παλμός</string>
     <string name="height">Ύψος</string>
     <string name="high">Υψηλή</string>
@@ -557,7 +580,18 @@
     <string name="hr_pre_detect_finger_desc">Έλεγχος αν το φλάς &amp; η κάμερα είναι πλήρως καλυμμένα. Μην κουνάτε το δάχτυλό σας.</string>
     <string name="hr_re_detect_title">Επανελέξτε</string>
     <string name="hr_report_active_desc">Ο καρδιακός ρυθμός αμέσως μετά την άσκηση είναι η κατάσταση καρδιακού ρυθμού του ανθρώπινου σώματος μετά την άσκηση.</string>
+    <string name="hr_report_active_high_desc">Ο τρέχων καρδιακός σας ρυθμός είναι ένας καρδιακός ρυθμός άσκησης υψηλής έντασης. Η καρδιοπνευμονική λειτουργία θα διεγερθεί.</string>
+    <string name="hr_report_active_higher_desc">Ο τρέχων καρδιακός σας ρυθμός είναι ένας καρδιακός ρυθμός άσκησης υψηλής έντασης. Η λειτουργία της καρδιάς και των πνευμόνων γίνεται ισχυρή διέγερση, ταυτόχρονα προσέξτε τη φυσική κατάσταση, εάν υπάρχει δυσφορία, θα πρέπει να σταματήσετε την άσκηση το συντομότερο δυνατό.</string>
+    <string name="hr_report_active_lower_mid_desc">Ο τρέχων καρδιακός σου ρυθμός είναι χαμηλότερης έντασης καρδιακός ρυθμός. Μπορεί να επιταχυνθεί. Προτείνεται τα άτομα με κακή υγεία να ασκούν σε χαμηλή έως μέτρια ένταση.</string>
+    <string name="hr_report_active_lowest_desc">Ο τρέχων καρδιακός σας ρυθμός είναι ένας καρδιακός ρυθμός άσκησης χαμηλής έντασης. Μπορεί να προκαλέσει κάποια διέγερση στο σώμα, αλλά η ένταση της άσκησης είναι μικρή.</string>
+    <string name="hr_report_active_mid_desc">Ο τρέχων καρδιακός σας ρυθμός είναι ένας μέτριος ρυθμός άσκησης. Συνιστάται οι περισσότεροι υγιείς ενήλικες να ασκούν μέτρια έως υψηλή ένταση για 150 λεπτά την εβδομάδα.</string>
     <string name="hr_report_common_desc">Η κατάσταση του καρδιακού ρυθμού που διατηρείται από το ανθρώπινο σώμα κατά τη διάρκεια των καθημερινών δραστηριοτήτων.</string>
+    <string name="hr_report_regular_fast_desc">Η τρέχουσα ταχυκαρδία σας. Τα σοβαρά αθλήματα, το πόσιμο, η έντονη σωματική εργασία, η ένταση, το άγχος ή η λήψη ορισμένων φαρμάκων μπορεί να προκαλέσουν φυσιολογική ταχυκαρδία, ενώ καρδιαγγειακές παθήσεις, αναιμία, υπερθυρεοειδισμός, υποξία, καρδιακή ανεπάρκεια και άλλες ασθένειες μπορεί να προκαλέσουν παθολογική ταχυκαρδία. Εάν αισθάνεστε αδιαθεσία, συμβουλευτείτε το γιατρό σας.</string>
+    <string name="hr_report_regular_normal_desc">Ο καρδιακός σας ρυθμός βρίσκεται στο φυσιολογικό εύρος. Η καρδιά σας είναι ικανή να αντιμετωπίσει το άγχος και το σώμα σας μπορεί να αντισταθεί στο εξωτερικό στρες. Η αλλαγή του καρδιακού ρυθμού σχετίζεται στενά με τις καρδιακές παθήσεις. Δώστε προσοχή στην αλλαγή του καρδιακού ρυθμού ανά πάσα στιγμή, ειδικά κατά τη διάρκεια της άσκησης.</string>
+    <string name="hr_report_regular_slow_desc">Ο τρέχων καρδιακός σας ρυθμός είναι πολύ αργός. Ο ρυθμός βραδυκαρδίας ήταν χαμηλότερος από τον κανονικό καρδιακό ρυθμό (περίπου 60%). Εάν η βραδυκαρδία δεν προκαλεί ζάλη, αμαύρωση, ζάλη, συγκοπή και άλλα συμπτώματα, δεν μπορεί να παρέμβει, μπορεί να γίνει τακτική παρακολούθηση. Αλλά εάν έχετε σφίξιμο στο στήθος, ζάλη και άλλα συμπτώματα, συμβουλευτείτε το γιατρό σας εγκαίρως.</string>
+    <string name="hr_report_resting_fast_desc">Ο καρδιακός ρυθμός ανάπαυσης είναι υψηλότερος από το κανονικό εύρος, το οποίο μπορεί να οδηγήσει σε κόπωση ή ταχυκαρδία. Συνιστάται να βελτιώσετε τον τρόπο ζωής σας, όπως δίαιτα με χαμηλή περιεκτικότητα σε αλάτι και λιγότερα έλαια, απώλεια βάρους, διακοπή του καπνίσματος και αλκοόλ, ψυχολογική και συναισθηματική προσαρμογή, ειδικά σταδιακή αύξηση της σωματικής άσκησης, η οποία μπορεί να συμβάλει στην επιβράδυνση του καρδιακού ρυθμού ανάπαυσης.</string>
+    <string name="hr_report_resting_normal_desc">Ο καρδιακός σου ρυθμός είναι στο φυσιολογικό εύρος. Ο καρδιακός ρυθμός σε ηρεμία αναφέρεται στον αριθμό καρδιακών παλμών ανά λεπτό των φυσιολογικών ατόμων σε κατάσταση ηρεμίας. Η καλύτερη στιγμή για τη μέτρηση του καρδιακού ρυθμού ηρεμίας ξυπνάτε το πρωί, ξαπλώνετε στο κρεβάτι χωρίς σωματική δραστηριότητα. Πριν μετρήσετε τον καρδιακό ρυθμό ηρεμίας, πάρτε μια βαθιά ανάσα για να χαλαρώσετε τελείως το σώμα.</string>
+    <string name="hr_report_resting_slow_desc">Ο καρδιακός σου ρυθμός σε ηρεμία είναι κάτω από το φυσιολογικό εύρος και μπορεί να παρουσιαστεί βραδυκαρδία. Εάν ο καρδιακός ρυθμός είναι πολύ αργός για μεγάλο χρονικό διάστημα, είναι εύκολο να προκληθεί ισχαιμία και υποξία οργάνων, ειδικά των εγκεφαλικών αγγείων του καρδίου. Ο καρδιακός ρυθμός σε ηρεμία σχετίζεται στενά με τη διατροφή, την άσκηση, το άγχος, τον ύπνο και τη φυσική κατάσταση. Συνιστάται να διατηρείτε έναν υγιή και καλό τρόπο ζωής και να δίνετε προσοχή στις σωματικές αντιδράσεις εγκαίρως. Εάν έχετε συμπτώματα όπως ζάλη, κόπωση, λιποθυμία και σφίξιμο στο στήθος, παρακαλούμε ζητήστε ιατρική συμβουλή εγκαίρως.</string>
     <string name="hr_see_report">Προβολή αναφοράς</string>
     <string name="hr_start_detect">Έναρξη</string>
     <string name="hr_state">Κατάσταση</string>
@@ -648,6 +682,7 @@
     <string name="low_intensity">Χαμηλή</string>
     <string name="low_intensity_description">Τακτικός ρυθμός αναπνοής που σας επιτρέπει να διατηρήσετε τη συνομιλία</string>
     <string name="low_pressure">Διαστολική (χαμηλή)</string>
+    <string name="lowest_freq">Χαμηλότερη συχνότητα</string>
     <string name="lowest_jump">Χαμηλότερο άλμα</string>
     <string name="manage_home">Διαχείριση αρχικής σελίδας</string>
     <string name="manual_add">Προσθήκη χειροκίνητα</string>
@@ -665,6 +700,28 @@
     <string name="max_low_pressure">Μέγιστη διαστολική (χαμηλή)</string>
     <string name="maximum">Μέγιστη</string>
     <string name="maximum_pace">Υψηλότερος ρυθμός</string>
+    <string name="mcv2_back_button_desc">Πίσω</string>
+    <string name="mcv2_cc_is_off">Ο υπότιτλος είναι απενεργοποιημένος. Κάντε κλικ για εμφάνιση.</string>
+    <string name="mcv2_cc_is_on">Ο υπότιτλος είναι ενεργοποιημένος. Κάντε κλικ για απόκρυψη.</string>
+    <string name="mcv2_error_dialog_button">OK</string>
+    <string name="mcv2_ffwd_button_desc">Προώθηση κατά 30 δευτ.</string>
+    <string name="mcv2_full_screen_button_desc">Πλήρης οθόνη</string>
+    <string name="mcv2_launch_button_desc">Εκκίνηση σύνδεσης</string>
+    <string name="mcv2_music_artist_unknown_text">Άγνωστος καλλιτέχνης</string>
+    <string name="mcv2_music_title_unknown_text">Άγνωστος τίτλος</string>
+    <string name="mcv2_next_button_desc">Επόμενο πολυμέσο</string>
+    <string name="mcv2_non_music_title_unknown_text">Άγνωστος τίτλος βίντεο</string>
+    <string name="mcv2_overflow_left_button_desc">Επιστροφή στην προηγούμενη λίστα κουμπιών</string>
+    <string name="mcv2_overflow_right_button_desc">Εμφάνιση περισσότερων κουμπιών</string>
+    <string name="mcv2_pause_button_desc">Παύση</string>
+    <string name="mcv2_play_button_desc">Αναπαραγωγή</string>
+    <string name="mcv2_playback_error_text">"Δεν ήταν δυνατή η αναπαραγωγή του στοιχείου που ζητήσατε"</string>
+    <string name="mcv2_previous_button_desc">Προηγούμενο πολυμέσο</string>
+    <string name="mcv2_replay_button_desc">Επανάληψη</string>
+    <string name="mcv2_rewind_button_desc">Επαναφορά κατά 10 δευτ.</string>
+    <string name="mcv2_seek_bar_desc">Πρόοδος αναπαραγωγής</string>
+    <string name="mcv2_settings_button_desc">Ρυθμίσεις</string>
+    <string name="mcv2_video_quality_button_desc">Επιλογή ποιότητας βίντεο</string>
     <string name="measure_date">Ώρα μέτρησης</string>
     <string name="measure_time">Ώρα μέτρησης</string>
     <string name="medical_file_desc1">Ιατρικές πληρ. σε έκτακτη ανάγκη</string>
@@ -756,6 +813,11 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Αυτα για τωρα</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μισό λεπτό…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδύνατη η φόρτωση στοιχείων</string>
+    <string name="miuix_search_action_mode_cancel">Ακύρωση</string>
+    <string name="miuix_search_history_clear">Καθαρισμός ιστορικού αναζήτησης</string>
+    <string name="miuix_search_history_default_title">Ιστορικό αναζήτησης</string>
+    <string name="miuix_search_recommendation_default_title">Μπορεί να σας ενδιαφέρουν αυτά</string>
+    <string name="miuix_search_recommendation_item_del_des">Διαγραφή</string>
     <string name="model_card_setting">Ρυθμίσεις κάρτας</string>
     <string name="moderately_abnormal">Στάδιο 2 υπέρταση</string>
     <string name="moderately_abnormal_tip">Κάθε ημ. την εβδομάδα μετά το ξύπνημα και πριν ξαπλώσετε</string>
@@ -874,6 +936,7 @@
     <string name="passport_oauth_sucess_tip">Εγκεκριμένη επιτυχία</string>
     <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
     <string name="pause">Παύση</string>
+    <string name="pause_button_content_description">Παύση</string>
     <string name="per_count_minutes1">%d SPM</string>
     <string name="per_time_minutes">%d ανά λεπτό</string>
     <string name="per_time_minutes1">" ανά λεπτό"</string>
@@ -897,6 +960,7 @@
     <string name="placement_tips_warn">Δεν συνιστάται</string>
     <string name="placement_tips_warn_1">Ηλ. Διάδρομος</string>
     <string name="play">Αναπαραγωγή</string>
+    <string name="play_button_content_description">Αναπαραγωγή</string>
     <string name="please_choose">Επιλογή</string>
     <string name="pm">ΜΜ</string>
     <string name="pool_swimming">Πισίνα κολύμπι</string>
@@ -979,6 +1043,8 @@
     <string name="retry">Δοκιμάστε ξανά</string>
     <string name="revert_to_default">Επαναφορά προεπιλογών</string>
     <string name="rope_skipping">Σχοινακι</string>
+    <string name="rope_skipping_environment_warning">Παρακαλώ αποφύγετε το θορυβώδες περιβάλλον</string>
+    <string name="rope_skipping_ways">Αναγνώριση παράλειψης σχοινιού με φωνή</string>
     <string name="rowing_machine">Rower</string>
     <string name="run">Εκτέλεση</string>
     <string name="saturday">Σάββατο</string>
@@ -1023,6 +1089,26 @@
     <string name="severe_abnormal_tip">Κάθε ημέρα μετά το ξύπνημα, μετά το γεύμα και πριν ξαπλώσετε</string>
     <string name="share">Μοιραστείτε</string>
     <string name="skip">Παράλειψη</string>
+    <string name="skip_to_next_item_button_content_description">Μετάβαση στο επόμενο</string>
+    <string name="skip_to_previous_item_button_content_description">Μετάβαση στο προηγούμενο</string>
+    <string name="skipping_count">Άλματα</string>
+    <string name="skipping_detection_no">"Δεν ήταν δυνατή η ανίχνευση της προπόνησής σας."</string>
+    <string name="skipping_detection_no_hint">Αποφύγετε θορυβώδη μέρη και κρατήστε αυτήν τη συσκευή κοντά.</string>
+    <string name="skipping_kcal">Θερμίδες</string>
+    <string name="skipping_pause">Παράλειψη χρονικού ορίου</string>
+    <string name="skipping_pause_tips">Σε παύση | Συνεχίστε την προπόνησή σας για παρακολούθηση αυτόματα</string>
+    <string name="skipping_ready">Μπορείτε να ξεκινήσετε την προπόνησή σας τώρα</string>
+    <string name="skipping_ready_hint_one">Κρατήστε αυτήν τη συσκευή σε απόσταση μικρότερη από 1 μέτρο.</string>
+    <string name="skipping_ready_hint_two">Η προπόνησή σας θα σταματήσει και θα συνεχιστεί αυτόματα με βάση τους ήχους που παράγετε.</string>
+    <string name="skipping_ready_toast">"Αυξήσαμε την ένταση, ώστε να ακούτε καλύτερα τις οδηγίες."</string>
+    <string name="skipping_reset_time">Ανάπαυση</string>
+    <string name="skipping_start_counting">Έναρξη</string>
+    <string name="skipping_time">Διάρκεια</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Συμφωνώ και ανεβάζω</string>
+    <string name="skipping_upload_dialog_msg">Για να παρέχει μια πιο ακριβή εμπειρία μέτρησης παράλειψης, η Xiaomi Health θα αποστείλει το αρχείο καταγραφής του σχοινιού παράλειψης υπό συνθήκες Wi-Fi για τη βελτιστοποίηση του αποτελέσματος αναγνώρισης παράλειψης της σύνδεσης σχοινιού. Για την προστασία των προσωπικών δεδομένων σας, η αποστολή και η αποθήκευση των αρχείων καταγραφής θα κρυπτογραφούνται αυστηρά.</string>
+    <string name="skipping_upload_dialog_reject_not_remind">Απόρριψη και χωρίς επανάληψη ερώτησης</string>
+    <string name="skipping_upload_dialog_title">Ανεβάστε σχοινί παρακάμπτοντας την εγγραφή για τη βελτιστοποίηση της αναγνώρισης</string>
+    <string name="skipping_upload_tips">Ανεβάστε αυτό το σχοινί παρακάμπτοντας την εγγραφή για να βοηθήσει στη βελτίωση του αποτελέσματος αναγνώρισης</string>
     <string name="sleep">Ύπνος</string>
     <string name="sleep_and_get_up_time">Χρονοδιάγραμμα ύπνου</string>
     <string name="sleep_auto_start_perm_grant">Χορηγήθηκαν άδειες</string>
@@ -1198,6 +1284,9 @@
     <string name="solar_term_white_dews">Λευκές Δροσοσταλίδες</string>
     <string name="solar_term_winter_begins">Ο χειμώνας αρχίζει</string>
     <string name="solar_term_winter_solstice">Χειμερινό Ηλιοστάσιο</string>
+    <string name="sport_audio_permission_dialog_content">Αυτή η εφαρμογή χρειάζεται δικαιώματα για την εγγραφή ήχου, ώστε να είναι δυνατή η παρακολούθηση των προγραμμάτων με βάση τους ήχους που παράγετε.</string>
+    <string name="sport_audio_permission_dialog_desc">Για παρακολούθηση προπονήσεων με βάση τους ήχους που παράγετε</string>
+    <string name="sport_audio_permission_dialog_title">Απαιτούνται δικαιώματα</string>
     <string name="sport_btn_continue">Συνέχισε</string>
     <string name="sport_btn_finish">Τέλος</string>
     <string name="sport_btn_lock">Κλείδωμα</string>
@@ -1211,6 +1300,7 @@
     <string name="sport_invalid_dialog_title">Πολύ γρήγορα!</string>
     <string name="sport_menu_share">Κοινή χρήση</string>
     <string name="sport_no_internet_toast">"Δεν είναι δυνατή η πρόσβαση στην ακριβή τοποθεσία σας λόγω ανεπαρκούς σήματος δικτύου."</string>
+    <string name="sport_outdoor_running">Τρέξιμο</string>
     <string name="sport_pace_chart_last_km">Λιγότερο από 1 km</string>
     <string name="sport_pace_step_unit">Βήμ/λεπ</string>
     <string name="sport_pref_category_voice">Ήχος</string>
@@ -1314,6 +1404,8 @@
     <string name="sustain_title">"Δεν έχετε κινηθεί "</string>
     <string name="swim">Κολύμπι</string>
     <string name="swim_type">Στυλ</string>
+    <string name="swipe_right_to_end">Σύρετε δεξιά για τέλος</string>
+    <string name="swipe_up_to_end">Σύρετε προς για τέλος</string>
     <string name="sync_health_data">Συγχρ/μός δεδομένων Υγείας</string>
     <string name="sync_immediately">Συγχρονισμός</string>
     <string name="sync_is_not_closed">Ο συγχρονισμός είναι ενεργός τώρα</string>
@@ -1554,6 +1646,7 @@
     <string name="total_slip">Αριθμός strokes</string>
     <string name="total_time_label">Συνολικός χρόνος</string>
     <string name="treadmill">Διάδρομος</string>
+    <string name="try_again">Προσπάθησε ξανά</string>
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>
     <string name="tuesday_shortest">Τ</string>
@@ -1591,6 +1684,7 @@
     <string name="value_error_correct">Επεξεργασία εγγραφής</string>
     <string name="visceral_fat">Εσωτ. Οργάνα</string>
     <string name="visceral_fat_descripe_content">Το σπλαχνικό λίπος είναι απαραίτητο για τη σταθεροποίηση και την προστασία των εσωτερικών οργάνων. Ωστόσο, το υψηλό σπλαχνικό λίπος αυξάνει τον κίνδυνο καρδιαγγειακών και μεταβολικών ασθενειών.</string>
+    <string name="voice_remind">"Αυξήσαμε την ένταση, ώστε να ακούτε καλύτερα τις οδηγίες."</string>
     <string name="walk">Περπάτημα</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>
@@ -1624,16 +1718,15 @@
 
 Για να σας παρέχουμε προτάσεις, θα μοιραστούμε τα δεδομένα υγείας σας με έναν τρίτο πάροχο υπηρεσιών. Τα αντικείμενα που θα μοιραστούμε περιλαμβάνουν προσωπικά στοιχεία (ηλικία, φύλο), καταστάσεις υγείας (ύψος, βάρος, ρουτίνα γυμναστικής), δεδομένα συμπεριφοράς (χρόνος έναρξης και λήξης, καθώς και διάρκεια των μαθημάτων σας).
 
-Θα επεξεργαστούμε αυτά τα στοιχεία πριν τα μοιραστούμε για να αποτρέψουμε τρίτους παρόχους υπηρεσιών να σας αναγνωρίσουν προσωπικά με βάση τα δεδομένα που λαμβάνουν.
+Θα διατηρήσουμε την ανωνυμία αυτών των στοιχείων πριν τα μοιραστούμε, προκειμένου να αποτρέψουμε τρίτους παρόχους υπηρεσιών να σας αναγνωρίσουν προσωπικά με βάση τα δεδομένα που λαμβάνουν.
 
 Εάν δεν θέλετε να αποκτήσετε πρόσβαση στις συνιστώμενες τάξεις, μπορείτε να χρησιμοποιήσετε τις τακτικές ασκήσεις."</string>
     <string name="hr_fp_detect_principle_desc">"Το αίμα δεν είναι εντελώς αδιαφανές. Επομένως, το φως μπορεί να περάσει μέσα από αυτό. Με κάθε καρδιακό παλμό, το αίμα ρέει στα δάχτυλά σας, εμποδίζοντας περισσότερο φως από ό, τι μεταξύ των καρδιακών παλμών. Το έντονο φως στην περιοχή του σαρωτή δακτυλικών αποτυπωμάτων κάτω από την οθόνη μας επιτρέπει να παρακολουθούμε τις αλλαγές στη ροή του αίματός σας, να αναλύουμε τα μοτίβα και να τις μετατρέπουμε σε τιμές καρδιακού ρυθμού.
 
 Οι δοκιμές μας δείχνουν ότι αυτή η μέθοδος μετρά τον καρδιακό σας ρυθμό με σφάλμα μόνο ≤3 BPM."</string>
    <string name="hr_fp_detect_principle_desc_2">"Σημείωση: Βεβαιωθείτε ότι το δάχτυλό σας καλύπτει πλήρως το εικονίδιο δακτυλικών αποτυπωμάτων κατά τη διάρκεια της μέτρησης. Μην ασκείτε δύναμη, καθώς μπορεί να εμποδίσει τη ροή του αίματος στο δάχτυλό σας και να κάνει τα αποτελέσματα ανακριβή. Αυτή η μέτρηση παρέχεται μόνο για την αναφορά σας. Δεν μπορεί να αντικαταστήσει τις ιατρικές εξετάσεις."</string>
-   <string name="hr_fp_detect_start_desc">"Πατήστε ελαφρά το εικονίδιο δακτυλικών αποτυπωμάτων.
-Μην κουνάτε το δάχτυλό σας."</string>
-    <string name="hr_fp_detecting">Μέτρηση…</string>
+   <string name="hr_fp_detect_start_desc">Καλύψτε το εικονίδιο με το δάχτυλό σας</string>
+    <string name="hr_fp_detecting">"Μην κουνάτε το δάχτυλό σας"</string>
     <string name="hr_fp_not_put_well">"Το δάχτυλό σου κουνήθηκε.
 Έναρξη από την αρχή."</string>
 </resources>
