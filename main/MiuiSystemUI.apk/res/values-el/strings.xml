@@ -1749,7 +1749,7 @@
     <string name="quick_settings_rotation_locked_landscape_label">Τοπίο</string>
     <string name="quick_settings_rotation_locked_portrait_label">Πορτρέτο</string>
     <string name="quick_settings_rotation_unlocked_label">Αυτόματη περιστροφή</string>
-    <string name="quick_settings_rotationlock_label">Περιστροφή ανενεργή<string>
+    <string name="quick_settings_rotationlock_label">Περιστροφή ανενεργή</string>
     <string name="quick_settings_rssi_emergency_only">Μόνο κλήσεις έκτακτης ανάγκης</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">Εγγραφή οθόνης</string>
