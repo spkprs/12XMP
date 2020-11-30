@@ -1095,7 +1095,7 @@
     <string name="skipping_detection_no">"Δεν ήταν δυνατή η ανίχνευση της προπόνησής σας."</string>
     <string name="skipping_detection_no_hint">Αποφύγετε θορυβώδη μέρη και κρατήστε αυτήν τη συσκευή κοντά.</string>
     <string name="skipping_kcal">Θερμίδες</string>
-    <string name="skipping_pause">Παράλειψη χρονικού ορίου</string>
+    <string name="skipping_pause">Παράλειψη παύσης</string>
     <string name="skipping_pause_tips">Σε παύση | Συνεχίστε την προπόνησή σας για παρακολούθηση αυτόματα</string>
     <string name="skipping_ready">Μπορείτε να ξεκινήσετε την προπόνησή σας τώρα</string>
     <string name="skipping_ready_hint_one">Κρατήστε αυτήν τη συσκευή σε απόσταση μικρότερη από 1 μέτρο.</string>
@@ -1105,7 +1105,7 @@
     <string name="skipping_start_counting">Έναρξη</string>
     <string name="skipping_time">Διάρκεια</string>
     <string name="skipping_upload_dialog_agree_and_upload">Συμφωνώ και ανεβάζω</string>
-    <string name="skipping_upload_dialog_msg">Για να παρέχει μια πιο ακριβή εμπειρία μέτρησης παράλειψης, η Xiaomi Health θα αποστείλει το αρχείο καταγραφής του σχοινιού παράλειψης υπό συνθήκες Wi-Fi για τη βελτιστοποίηση του αποτελέσματος αναγνώρισης παράλειψης της σύνδεσης σχοινιού. Για την προστασία των προσωπικών δεδομένων σας, η αποστολή και η αποθήκευση των αρχείων καταγραφής θα κρυπτογραφούνται αυστηρά.</string>
+    <string name="skipping_upload_dialog_msg">Για να παρέχει μια πιο ακριβή εμπειρία μέτρησης παράλειψης, η Xiaomi Health θα αποστείλει το αρχείο καταγραφής του σχοινιού παράλειψης υπό συνθήκες %s για τη βελτιστοποίηση του αποτελέσματος αναγνώρισης παράλειψης της σύνδεσης σχοινιού. Για την προστασία των προσωπικών δεδομένων σας, η αποστολή και η αποθήκευση των αρχείων καταγραφής θα κρυπτογραφούνται αυστηρά.</string>
     <string name="skipping_upload_dialog_reject_not_remind">Απόρριψη και χωρίς επανάληψη ερώτησης</string>
     <string name="skipping_upload_dialog_title">Ανεβάστε σχοινί παρακάμπτοντας την εγγραφή για τη βελτιστοποίηση της αναγνώρισης</string>
     <string name="skipping_upload_tips">Ανεβάστε αυτό το σχοινί παρακάμπτοντας την εγγραφή για να βοηθήσει στη βελτίωση του αποτελέσματος αναγνώρισης</string>

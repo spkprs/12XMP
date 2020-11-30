@@ -5142,9 +5142,9 @@
     <string name="resetting_second_space_passwd">Επαναφορά κωδικού Δεύτερου προφίλ…</string>
     <string name="resident_timezone_summary">Δεύτερο ρολόι</string>
     <string name="resolution_fhd">FHD+ (Full HD)</string>
-    <string name="resolution_fhd_summary">2400×1080</string>
+    <string name="resolution_fhd_summary">2400×1080 (εξοικονομεί μπαταρία)</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
-    <string name="resolution_qhd_summary">3200×1440 (καταναλώνει περισσότερη ενέργεια)</string>
+    <string name="resolution_qhd_summary">3200×1440  (προσθέτει σαφήνεια)</string>
     <string name="resolver_settings_label">Ταξινόμηση</string>
     <string name="restore_default_apn">Επαναφορά προεπιλεγμένων ρυθμίσεων APN.</string>
     <string name="restore_default_apn_completed">Ολοκλήρωση επαναφοράς προεπιλεγμένων ρυθμίσεων APN.</string>
@@ -5240,7 +5240,7 @@
     <string name="rx_wifi_speed">Λήψη ταχύτητας σύνδεσης</string>
     <string name="safety_and_regulatory_info">Εγχειρίδιο ασφάλειας και κανονισμών</string>
     <string name="save">Αποθήκευση</string>
-    <string name="save_battery_mode">Εξοικονομήστε ενέργεια με QHD+</string>
+    <string name="save_battery_mode">Εξοικονομήστε ενέργεια με WQHD+</string>
     <string name="save_battery_mode_summary">Αυτόματη εναλλαγή ανάλυσης για εξοικονόμηση ενέργειας</string>
     <string name="saved_network">Αποθηκεύτηκε από %1$s</string>
     <string name="saved_wifi">Αποθηκευμένο δίκτυο</string>
@@ -8140,4 +8140,15 @@
     <string name="zone_menu_by_region">Επιλογή ανά περιοχή</string>
     <string name="zone_time_type_dst">Θερινή ώρα</string>
     <string name="zone_time_type_standard">Επίσημη ώρα</string>
+    <string name="adjust_font_size_answer_cn">Δοκιμάστε να προσαρμόσετε το μέγεθος και το πάχος της γραμ/σειράς με τα παρακάτω ρυθμιστικά!</string>
+    <string name="adjust_font_size_answer_global">Δοκιμάστε να προσαρμόσετε το μέγεθος του κειμένου με το ρυθμιστικό παρακάτω!</string>
+    <string name="font_settings_jump">Προσβασιμότητα > Μέγεθος προβολής</string>
+    <string name="font_settings_recommend_title">"Το μέγεθος του κειμένου δεν είναι αρκετά μεγάλο;"</string>
+    <string name="font_settings_summary_cn">Γραμ/σειρές και μέγεθος κειμένου</string>
+    <string name="how_adjust_font_size">Πώς μπορώ να ρυθμίσω το μέγεθος του κειμένου;</string>
+    <string name="miheadset_local_ota">local ota</string>
+    <string name="personalize_title">Ταπετσαρία &amp; εξατομίκευση</string>
+    <string name="title_font_settings">Ρυθμίσεις γραμμ/σειράς</string>
+    <string name="toast_apply_font_fail">"Αδυναμία ρύθμισης γραμματοσειράς"</string>
+    <string name="resolution_sub_title">Το MIUI ενδέχεται να κλείσει τις εφαρμογές που εκτελούνται στο παρασκήνιο ενώ αλλάζει ανάλυση</string>
 </resources>
