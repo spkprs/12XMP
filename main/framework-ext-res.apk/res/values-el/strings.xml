@@ -142,6 +142,7 @@
     <string name="lockscreen_access_pattern_cleared">Το μοτίβο ακυρώθηκε</string>
     <string name="lockscreen_access_pattern_detected">Το μοτίβο ολοκληρώθηκε</string>
     <string name="lockscreen_access_pattern_start">Έναρξη μοτίβου</string>
+    <string name="magic_window_toast">Ο Πολλαπλασιαστής εφαρμογών ενεργοποιήθηκε.</string>
     <string name="maml_component_customization_title">Ρυθμίσεις</string>
     <string name="memory_clear_nothing_result">Κενή μνήμη Cache</string>
     <string name="memory_clear_result">%1$sB εκκαθαρίστηκαν</string>

@@ -120,6 +120,8 @@
      <string name="download">Λήψεις</string>
      <string name="download_auth">Λήψη άδειας…</string>
      <string name="download_complete">Ολοκληρώθηκαν</string>
+     <string name="download_description_content">"Οι \"Λήψεις\" είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να διαχειριστείτε τις \"Λήψεις\" σας αφού τις καταργήσετε."</string>
+     <string name="download_description_title">Κατάργηση του \"Λήψεις\" από την αρχική οθόνη;</string>
      <string name="download_detail">Λεπτομέρειες</string>
      <string name="download_error">Αδυναμία λήψης</string>
      <string name="download_error_download_file_not_exists">Δεν υπάρχει αρχείο</string>

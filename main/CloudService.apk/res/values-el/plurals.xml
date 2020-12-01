@@ -104,4 +104,8 @@
         <item quantity="other">%1$s λεπ.</item>
         <item quantity="one">%1$s λεπ.</item>
     </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Δοκιμάστε ξανά σε %d δευτ.</item>
+        <item quantity="one">Δοκιμάστε ξανά σε %d δευτ.</item>
+    </plurals>
 </resources>
