@@ -8151,4 +8151,6 @@
     <string name="title_font_settings">Ρυθμίσεις γραμμ/σειράς</string>
     <string name="toast_apply_font_fail">"Αδυναμία ρύθμισης γραμματοσειράς"</string>
     <string name="resolution_sub_title">Το MIUI ενδέχεται να κλείσει τις εφαρμογές που εκτελούνται στο παρασκήνιο ενώ αλλάζει ανάλυση</string>
+    <string name="font_setting_weight_toast">"Η τρέχουσα γραμ/σειρά δεν υποστηρίζει την προσαρμογή του πάχους της."</string>
+    <string name="face_unlock_prompt">Προτροπή ξεκλειδώματος προσώπου</string>
 </resources>

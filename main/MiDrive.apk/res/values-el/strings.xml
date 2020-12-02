@@ -592,7 +592,7 @@
     <string name="warning_bar_title_cloud_space_full">Ο χώρος αποθήκευσης στο cloud είναι πλήρης. Δεν είναι δυνατός ο συγχρονισμός φωτογραφιών, ιστορικού κλήσεων ή άλλων στοιχείων.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Όχι τώρα</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">%s νέα έκδοση</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
     <string name="year_month_day_format">MMMM dd, yyyy</string>
     <string name="yesterday">Εχθές</string>
 </resources>

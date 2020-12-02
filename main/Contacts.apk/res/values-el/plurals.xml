@@ -93,8 +93,8 @@
     <item quantity="other">Πριν από μισή ώρα</item>
   </plurals>
   <plurals name="hint_account_contacts">
-    <item quantity="other">Βρέθηκαν %1$d στοιχεία</item>
-    <item quantity="one">Βρέθηκε %1$d στοιχείο</item>
+    <item quantity="other">%1$d στοιχεία</item>
+    <item quantity="one">%1$d στοιχείο</item>
   </plurals>
   <plurals name="hint_search_contacts">
     <item quantity="other">%1$d επαφές</item>

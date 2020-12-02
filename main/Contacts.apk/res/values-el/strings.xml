@@ -158,6 +158,10 @@
     <string name="call_record_text_auto_delete_never">Ποτέ</string>
     <string name="call_record_text_auto_delete_one_month">Μετά από %d μήνα</string>
     <string name="call_record_whitelist_custom">Επιλεγμένες κλήσεις</string>
+    <string name="call_record_user_notice_all_purpose">Εύρεση των κλήσεων κατά τις οποίες αναφέρθηκαν ορισμένες λέξεις</string>
+    <string name="call_record_user_notice_permission_desc_microphone">Για την εγγραφή κλήσεων</string>
+    <string name="call_record_user_notice_permission_desc_storage">Για αποθήκευση εγγραφών</string>
+    <string name="call_record_user_notice_title">Φωνητική αναζήτηση κλήσεων</string>
     <string name="call_recording_notification_summary">Λήψη ειδοποίησης μετά την εγγραφή μιας κλήσης</string>
     <string name="call_recording_notification_title">Ειδοποίηση για καταγεγραμμένες κλήσεις</string>
     <string name="call_recording_notification_title_error">"Δεν ήταν δυνατή η εγγραφή της κλήσης"</string>

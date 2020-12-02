@@ -374,4 +374,7 @@
     <string name="webview_try_again">Δοκιμάστε ξανά</string>
     <string name="wifi_recommended_body" formatted="false">Χρήση δεδομένων κινητής για λήψη του αρχείου (%s) θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα. Αναμονή σύνδεσης Wi‑Fi για τη λήψη αυτού του αρχείου, πατήστε %s.</string>
     <string name="wifi_recommended_title">Προειδοποίηση χρήσης δεδομένων</string>
+    <string name="clear_data_dialog_content">Τα προσωρινά αποθηκευμένα στοιχεία, τα δεδομένα εφαρμογής και οι προσαρμοσμένες ρυθμίσεις θα διαγραφούν, αλλά οι εγγραφές σας θα παραμείνουν στη θέση τους.</string>
+    <string name="clear_data_dialog_title">Εκκαθάριση δεδομένων τώρα;</string>
+    <string name="preference_clear_data">Εκκαθάριση δεδομένων</string>
 </resources>

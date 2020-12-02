@@ -247,6 +247,7 @@
     <string name="app_behavior_key_camera">Λήψη φωτογραφιών</string>
     <string name="app_behavior_key_location">Καθορισμός θέσης</string>
     <string name="app_behavior_key_protect">Προστασία των προσωπικών σας πληροφοριών</string>
+    <string name="app_behavior_link_start">Ενεργοποίηση εκκίνησης</string>
     <string name="app_behavior_list_load_more">" Φόρτωση..."</string>
     <string name="app_behavior_location">%1s πρόσβαση στη θέση σας</string>
     <string name="app_behavior_location_bg">%1s πρόσβαση στη θέση σας στο παρασκήνιο</string>
@@ -308,6 +309,8 @@
     <string name="app_behavior_settings_category_privacy">Προστασία προσωπικών σας στοιχείων</string>
     <string name="app_behavior_settings_perm_tips">Εμφάνιση ειδοποίησης στη γραμμή κατάστασης, όταν οι εφαρμογές έχουν πρόσβαση στην τοποθεσία, ηχογραφούν ή τραβούν φωτογραφίες</string>
     <string name="app_behavior_settings_privacy_tips">Λήψη ειδοποιήσεων όταν οι εφαρμογές αποκτούν πρόσβαση στις επαφές σας, στο ιστορικό κλήσεων ή εκτελούν άλλες ευαίσθητες ενέργειες</string>
+    <string name="app_behavior_share_file">Κοινή χρήση αρχείου</string>
+    <string name="app_behavior_share_picture">Κοινή χρήση εικόνας</string>
     <string name="app_behavior_sms_read">%1s ανάγνωση SMS</string>
     <string name="app_behavior_sms_read_single">Αυτή η εφαρμογή διαβάζει SMS</string>
     <string name="app_behavior_sms_send">%1s αποστολή SMS</string>
@@ -2940,7 +2943,7 @@
     <string name="privacy_revoke_dialog_positive_text">Ανάκληση</string>
     <string name="privacy_revoke_dialog_title">Ανάκληση συγκατάθεσης</string>
     <string name="privacy_risk_app">Επικίνδυνες εφαρμογές</string>
-    <string name="privacy_risk_app_fuzzy">Εφαρμογές με χωρίς θολές προεπισκοπήσεις</string>
+    <string name="privacy_risk_app_fuzzy">Εφαρμογές χωρίς θολές προεπισκοπήσεις</string>
     <string name="privacy_risk_dangerous_bar_title">Δικαιώματα υψηλού κινδύνου</string>
     <string name="privacy_risk_dangerous_manager">Συσκευή ελέγχου</string>
     <string name="privacy_risk_dangerous_manager_msg">Να επιτρέπεται στις εφαρμογές να ελέγχουν μερικώς τη συσκευή σας</string>
@@ -2984,7 +2987,7 @@
     <string name="privacy_risk_result_uninstall_btn">Απεγκατάσταση</string>
     <string name="privacy_risk_sensitive">Ευαίσθητα δικαιώματα</string>
     <string name="privacy_risk_sensitive_bar_title">Ευαίσθητα δικαιώματα</string>
-    <string name="privacy_risk_sensitive_call_records">Να επιτρέπεται η πρόσβαση σε εφαρμογές ή το ιστορικό κλήσεων</string>
+    <string name="privacy_risk_sensitive_call_records">Να επιτρέπεται στις εφαρμ. η πρόσβαση ή η επεξεργασία του ιστορικού κλήσεων</string>
     <string name="privacy_risk_sensitive_contact">Να επιτρέπεται στις εφαρμογές η πρόσβαση ή η επεξεργασία επαφών</string>
     <string name="privacy_risk_sensitive_location">Να επιτρέπεται στις εφαρμογές να εντοπίζουν τη συσκευή σας χρησιμοποιώντας διαθέσιμα δίκτυα ή δορυφόρους</string>
     <string name="privacy_risk_sensitive_permissions">Ευαίσθητα δικαιώματα</string>

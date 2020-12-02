@@ -135,6 +135,7 @@
   <string name="vip_not_login">Δεν έχετε συνδεθεί</string>
   <string name="vip_sign">Υπογραφή:</string>
   <string name="wallpaper_group_black_white_title">Μαύρο και άσπρο</string>
+  <string name="wallpaper_group_color_move_title">Υγρά χρώματα</string>
   <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
   <string name="wallpaper_group_dynamic_nebula_title">Δυναμικό νεφέλωμα</string>
   <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
@@ -145,6 +146,7 @@
   <string name="wallpaper_group_natural_texture_title">Φύση μοτίβα</string>
   <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Πανεπιστήμιο Αριζόνας</string>
   <string name="wallpaper_group_red_mars_title">Άρης</string>
+  <string name="wallpaper_group_sgn_mountain_title">Όρος Σιγκουνγιάνγκ</string>
   <string name="waterdrop_preview">Φύση - Σταγονίδια</string>
   <string name="windchime">Κτύποι ανέμου</string>
   <string name="winter_solstice">Ηλιοστάσιο</string>
