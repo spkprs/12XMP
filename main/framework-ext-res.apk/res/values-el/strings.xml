@@ -37,7 +37,7 @@
     <string name="bluetooth_enable_notification_content">%s ενεργοποίησε το B/T</string>
     <string name="bluetooth_enable_notification_title">Το B/T είναι ενεργό</string>
     <string name="bluetooth_open">Αυτή η εφαρμογή ενεργοποίησε το B/T</string>
-    <string name="bottom_bar_smallwindow_text">Απελευθέρωση για προσθήκη</string>
+    <string name="bottom_bar_smallwindow_text">Αφήστε για καρφίτσωμα</string>
     <string name="btn_cancel">Ακύρωση</string>
     <string name="btn_sure">OK</string>
     <string name="button_text_cancel">Ακύρωση</string>
@@ -72,10 +72,14 @@
     <string name="device_status_success">Απεστάλη επιτυχώς</string>
     <string name="device_status_waiting">Αναμονή…</string>
     <string name="device_type_pc">PC</string>
+    <string name="disable_nfc">Απενεργοποίηση NFC για ασύρματη φόρτιση</string>
+    <string name="disable_nfc_reverse">Απενεργοποίηση NFC για αντίστροφη ασύρματη φόρτιση</string>
     <string name="eighthours">8 ώρες</string>
     <string name="enable_livetalk_summary">Εξοικονομήστε 70% στις χρεώσεις σας</string>
     <string name="enable_livetalk_title">Ενεργοποίηση πακέτου Top-up</string>
     <string name="enable_midrop">Ενεργοποίηση</string>
+    <string name="enable_nfc">Δεν φορτίζεται πλέον. Το NFC είναι ξανά ενεργοποιημένο.</string>
+    <string name="enable_nfc_reverse">Χωρίς αντίστροφη φόρτιση. Το NFC είναι ξανά ενεργοποιημένο.</string>
     <string name="fc_dialog_body">Αποστολή αναφοράς σφάλματος στη Mi για ανάλυση; Αυτή η αναφορά μπορεί να περιέχει προσωπικά αναγνωρίσιμες πληροφορίες. Η αναφορά σας θα χρησιμοποιηθεί για να διορθωθεί αυτό το σφάλμα και δεν πρόκειται ποτέ να μοιραστεί σε εμπορικό πλαίσιο.</string>
     <string name="fc_dialog_jump_to_preview">Δείτε την περίληψη</string>
     <string name="file_cannot_print">Αδυναμία εκτύπωσης του στοιχείου.</string>

@@ -142,6 +142,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Ενημερώθηκε χθες στις %s</string>
     <string name="adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
     <string name="after_the_lock_screen">Η εφαρμογή κλειδώνει μαζί με την οθόνη. Μπορείτε να το αλλάξετε αυτό στις ρυθμίσεις του Κλειδώματος Εφαρμογής.</string>
+    <string name="ai_allow_all">Ειδοποίηση όταν χρησιμοποιείται το δικαίωμα για όλους</string>
     <string name="alarm_headsup_bottom">χάρι κόκκινο φάκελο αρπαγή τηλέφωνο είναι γρήγορη</string>
     <string name="alarm_lock_screen_summary">...</string>
     <string name="alarm_lockscreen_btn">έναρξη πιάσε ένα κόκκινο φάκελο</string>
