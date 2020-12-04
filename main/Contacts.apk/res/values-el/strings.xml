@@ -157,11 +157,11 @@
     <string name="call_record_text_auto_delete_half_year">Μετά από %d μήνες</string>
     <string name="call_record_text_auto_delete_never">Ποτέ</string>
     <string name="call_record_text_auto_delete_one_month">Μετά από %d μήνα</string>
-    <string name="call_record_whitelist_custom">Επιλεγμένες κλήσεις</string>
     <string name="call_record_user_notice_all_purpose">Εύρεση των κλήσεων κατά τις οποίες αναφέρθηκαν ορισμένες λέξεις</string>
     <string name="call_record_user_notice_permission_desc_microphone">Για την εγγραφή κλήσεων</string>
     <string name="call_record_user_notice_permission_desc_storage">Για αποθήκευση εγγραφών</string>
     <string name="call_record_user_notice_title">Φωνητική αναζήτηση κλήσεων</string>
+    <string name="call_record_whitelist_custom">Επιλεγμένες κλήσεις</string>
     <string name="call_recording_notification_summary">Λήψη ειδοποίησης μετά την εγγραφή μιας κλήσης</string>
     <string name="call_recording_notification_title">Ειδοποίηση για καταγεγραμμένες κλήσεις</string>
     <string name="call_recording_notification_title_error">"Δεν ήταν δυνατή η εγγραφή της κλήσης"</string>
@@ -612,6 +612,8 @@
     <string name="group_sms_progress_msg">Ομαδοποίηση…</string>
     <string name="groupsLabel">Ομάδες</string>
     <string name="groups_list_empty">Δεν υπάρχουν ομάδες</string>
+    <string name="hide_app_description_content">"Οι Επαφές είναι εφαρμογή συστήματος. Θα εξακολουθείτε να μπορείτε να τη χρησιμοποιήσετε μέσω της εφαρμογής τηλεφώνου, αφού καταργήσετε τη συντόμευση στην αρχική οθόνη."</string>
+    <string name="hide_app_description_title">Κατάργηση \"Επαφές\" από την αρχική οθόνη;</string>
     <string name="hint_findContacts">Εύρεση επαφών</string>
     <string name="hint_more_contact">Συγχώνευση διπλών επαφών</string>
     <string name="hybrid_check_network">Ρυθμίσεις δικτύου</string>
@@ -1142,6 +1144,10 @@
     <string name="remove_blacklist_dialog_title">Αφαίρεση από την λίστα γραφών</string>
     <string name="remove_duplicate">Η MIUI θα σας βοηθήσει να βρείτε και να συγχωνεύσετε τις διπλές επαφές.\n\nΓια να ξεκινήσετε, πατήστε το εικονίδιο συγχώνευσης στο κάτω μέρος της οθόνης σας.</string>
     <string name="report_inquiry_mms">Αναφορά SMS</string>
+    <string name="restore_app_btn_cancel">Ακύρωση</string>
+    <string name="restore_app_btn_restore">OK</string>
+    <string name="restore_app_description_content">Προσθέστε μια συντόμευση στην Αρχική οθόνη για ταχύτερη πρόσβαση στις επαφές σας.</string>
+    <string name="restore_app_description_title">Προσθήκη \"Επαφές\" στην αρχική οθόνη;</string>
     <string name="restore_nickname">Επαναφορά</string>
     <string name="ret_sign">\n</string>
     <string name="returnCall">Επιστροφή κλήσης</string>

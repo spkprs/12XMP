@@ -343,7 +343,7 @@
     <string name="app_accessed_mic">%1$s πρόσβαση στο μικρόφωνό σας</string>
     <string name="app_info">Πληροφορίες Εφαρμ.</string>
     <string name="app_label">System UI</string>
-    <string name="app_name">Κλείδωμα Οθόνης</string>
+    <string name="app_name">Ασφ. Κλειδί</string>
     <string name="app_process_limit_title">Όριο διαδικασών παρασκηνίου</string>
     <string name="appops_camera">Αυτή η εφαρμογή χρησιμοποιεί την κάμερα.</string>
     <string name="appops_camera_mic">Αυτή η εφαρμογή χρησιμοποιεί το μικρόφωνο και την κάμερα.</string>
@@ -1091,9 +1091,9 @@
     <string name="keyguard_password_wrong_pin_code">Λανθασμένος κωδικός PIN.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">Η κάρτα SIM έχει απενεργοποιηθεί μόνιμα.\n Επικοινωνήστε με τον πάροχο ασύρματων υπηρεσιών για άλλη κάρτα SIM.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Μη χρησιμοποιήσιμη κάρτα SIM.</string>
-    <string name="keyguard_plugged_in">"Φορτίζεται "</string>
-    <string name="keyguard_plugged_in_charging_fast">Φορτίζεται γρήγορα</string>
-    <string name="keyguard_plugged_in_charging_slowly">Φορτίζεται αργά</string>
+    <string name="keyguard_plugged_in">%s • Φορτίζεται</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Ταχεία φόρτιση</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Αργή φόρτιση</string>
     <string name="keyguard_plugged_in_wireless">%s • Ασύρματη φόρτιση</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Γρήγορη φόρτιση. Πατήστε για λεπτομέρειες.</string>
     <string name="keyguard_sim_error_message_short">Μη έγκυρη κάρτα.</string>

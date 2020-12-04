@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+    <string name="cancel">Ακύρωση</string>
     <string name="doc_photo_adjust_section_title">Σύρετε για προσαρμογή</string>
     <string name="doc_photo_cancel">Ακύρωση</string>
     <string name="doc_photo_confirm">Έξοδος</string>
@@ -14,6 +15,8 @@
     <string name="doc_photo_idcard_portrait">Εμπρός</string>
     <string name="doc_photo_not_support">"Αδύνατη η επεξεργασία αυτής της εικόνας ως εγγράφου"</string>
     <string name="doc_photo_view_effect">Προεπισκόπηση</string>
+    <string name="exit_alert_msg">Όλες οι μη αποθηκευμένες αλλαγές θα χαθούν.</string>
+    <string name="exit_alert_title">Απόρριψη αλλαγών;</string>
     <string name="extra_photo_common_permission_name">Θόλωση</string>
     <string name="extra_photo_common_save_fail">Αδυναμία αποθήκευσης</string>
     <string name="extra_photo_common_saving">Αποθήκευση…</string>
@@ -31,6 +34,7 @@
     <string name="motion_photo_toast_default">Προεπιλογή</string>
     <string name="motion_photo_toast_long_press_play">Αγγίξτε παρατεταμένα τη φωτογραφία για αναπαραγωγή</string>
     <string name="motion_photo_toast_suggest">Συνιστάται</string>
+    <string name="ok">OK</string>
     <string name="refocus_discard_confirm_message">Αποθήκευση αλλαγών;</string>
     <string name="refocus_discard_negative_btn">Απόρριψη</string>
     <string name="refocus_discard_positive_btn">Αποθήκευση</string>

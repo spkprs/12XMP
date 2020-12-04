@@ -152,6 +152,7 @@
     <string name="alert_back_milink_hangup_tips_content">Η Μετάδοση δεν θα διακοπεί κατά τη λήξη μιας κλήσης. Μπορείτε να πατήσετε το κουμπί POWER για ενεργοποίηση οθόνης.</string>
     <string name="alert_back_milink_hangup_tips_content_vb">Η Μετάδοση δεν θα διακοπεί όταν η οθόνη είναι ανενεργή και η εφαρμογή λειτουργεί στο παρασκήνιο. Μπορείτε να πατήσετε το κουμπί λειτουργίας για να ενεργοποιήσετε ξανά την οθόνη.</string>
     <string name="all_address_choose_hint">Όλοι οι αριθμοί σε αυτή την τοποθεσία</string>
+    <string name="allow_all">Να επιτρέπονται όλες</string>
     <string name="already_close_gamebooster">Η ενίσχυση Game Turbo είναι απενεργοποιημένη</string>
     <string name="anti_disturb_msg_detail">Απενεργοποίηση όλων των ειδοποιήσεων εκτός από τις εισερχόμενες κλήσεις</string>
     <string name="anti_disturb_msg_title">Μην Ενοχλείτε</string>
@@ -874,6 +875,7 @@
     <string name="cmcc_app_check_dialog_positive">Επανεκκίνηση τώρα</string>
     <string name="cmcc_app_check_dialog_title">Το σύστημα επιδιορθώθηκε</string>
     <string name="comprehensive_protection_measures">Ολοκληρωμένη προστασία</string>
+    <string name="confirm_allow_all_permission">Να επιτρέπεται σε όλες τις εφαρμογές αυτή η δυνατότητα;</string>
     <string name="confirmSecondSpacePassword">Επιβεβαίωση κωδικού Δεύτερου προφίλ</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Προσθήκη λογαριασμού Mi…</string>
     <string name="confirm_fingerprint_msg">Τοποθετήστε το δάχτυλό σας στον αναγνώστη δακτυλικών αποτυπωμάτων</string>

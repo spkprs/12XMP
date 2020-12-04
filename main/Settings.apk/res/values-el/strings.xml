@@ -2828,8 +2828,8 @@
     <string name="gxzw_anim_aurora">Aurora</string>
     <string name="gxzw_anim_dialog_cancel_enroll">Ακύρωση</string>
     <string name="gxzw_anim_dialog_enroll">OK</string>
-    <string name="gxzw_anim_dialog_message">Προσθέστε το δακτυλικό σας αποτύπωμα για να μπορείτε να δείτε την κινούμενη εικόνα του. Προσθήκη τώρα;</string>
-    <string name="gxzw_anim_dialog_title">Προσθήκη δακτ. αποτυπώματος</string>
+    <string name="gxzw_anim_dialog_message">Προσθέστε το Δακτυλικό σας αποτύπωμα για να δείτε την κινούμενη εικόνα. Προσθήκη τώρα;</string>
+    <string name="gxzw_anim_dialog_title">Προσθήκη Δακτ. αποτυπώματος</string>
     <string name="gxzw_anim_light">Νέον</string>
     <string name="gxzw_anim_pulse">Παλμός</string>
     <string name="gxzw_anim_rhythm">Ρυθμός</string>
@@ -3042,6 +3042,7 @@
     <string name="instruction_privacy_password">Αυτός ο κωδικός προστατεύει τα ακόλουθα στοιχεία</string>
     <string name="instruction_title">Σημαντικές πληροφορίες ασφαλείας</string>
     <string name="insufficient_storage">Δεν υπάρχει αρκετός χώρος</string>
+    <string name="intelligence_suppression_title">Αυτόματα (Προτείνεται)</string>
     <string name="intent_sender_account_label">Λογαριασμός:</string>
     <string name="intent_sender_action_label">Ενέργεια:</string>
     <string name="intent_sender_data_label">Δεδομένα:</string>
@@ -5142,9 +5143,9 @@
     <string name="resetting_second_space_passwd">Επαναφορά κωδικού Δεύτερου προφίλ…</string>
     <string name="resident_timezone_summary">Δεύτερο ρολόι</string>
     <string name="resolution_fhd">FHD+ (Full HD)</string>
-    <string name="resolution_fhd_summary">2400×1080 (εξοικονομεί μπαταρία)</string>
+    <string name="resolution_fhd_summary" formatted="false">%d×%d (εξοικονομεί μπαταρία)</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
-    <string name="resolution_qhd_summary">3200×1440  (προσθέτει σαφήνεια)</string>
+    <string name="resolution_qhd_summary" formatted="false">%d×%d (προσθέτει σαφήνεια)</string>
     <string name="resolver_settings_label">Ταξινόμηση</string>
     <string name="restore_default_apn">Επαναφορά προεπιλεγμένων ρυθμίσεων APN.</string>
     <string name="restore_default_apn_completed">Ολοκλήρωση επαναφοράς προεπιλεγμένων ρυθμίσεων APN.</string>
@@ -5274,6 +5275,7 @@
     <string name="screen_enhance_engine_ai_pic_summary">Προσδιορισμός αντικειμένων (π.χ. φυτά, ζώα, κτίρια) και δυναμική προσαρμογή των εφέ εμφάνισης. Αυτό το χαρακτηριστικό αυξάνει ελαφρώς την κατανάλωση ενέργειας.</string>
     <string name="screen_enhance_engine_ai_title">AI βελτίωση εικόνας</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
+    <string name="screen_enhance_engine_memc_note">"Δεν είναι δυνατή η βελτίωση βίντεο όταν είναι ενεργή η υπερανάλυση. Ενεργοποιώντας τη βελτίωση βίντεο, θα απενεργοποιήσετε την υπερανάλυση."</string>
     <string name="screen_enhance_engine_memc_pic_summary">Προσθέστε επιπλέον καρέ στα βίντεο για να κάνετε το περιεχόμενο να φαίνεται ομαλό και τις μεταβάσεις ζωηρά.</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
     <string name="screen_enhance_engine_s2h_open">AI HDR βελτίωση</string>
@@ -5281,7 +5283,9 @@
     <string name="screen_enhance_engine_s2h_title">AI HDR βελτίωση</string>
     <string name="screen_enhance_engine_sr_for_pic">Βελτίωση εικόνων</string>
     <string name="screen_enhance_engine_sr_for_video">Βελτίωση βίντεο</string>
+    <string name="screen_enhance_engine_sr_for_video_note">"Η Υπέρ-ανάλυση δεν λειτουργεί με βελτιωμένα βίντεο. Ενεργοποιώντας την Υπερ-ανάλυση, θα απενεργοποιήσετε τα βελτιωμένα βίντεο."</string>
     <string name="screen_enhance_engine_sr_pic_summary">Αναβαθμίστε την ανάλυση εικόνων ή βίντεο έως και 1440p. Αυτό το χαρακτηριστικό υποστηρίζεται από επιλεγμένες εφαρμογές και αυξάνει ελαφρώς την κατανάλωση ενέργειας.</string>
+    <string name="screen_enhance_engine_sr_pic_summary_video_only">Αναβαθμίστε την ανάλυση των βίντεο έως και 1440p. Αυτή η δυνατότητα υποστηρίζεται από επιλεγμένες εφαρμογές και αυξάνει ελαφρώς την κατανάλωση ενέργειας.</string>
     <string name="screen_enhance_engine_sr_title">Υπερανάλυση</string>
     <string name="screen_enhance_engine_title">AI μηχανή εικόνων</string>
     <string name="screen_enhance_status_disable">Off</string>
