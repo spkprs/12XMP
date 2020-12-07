@@ -92,7 +92,9 @@
     <string name="album_from_format">Από %s</string>
     <string name="album_hidden_item_button_title">Εμφανή</string>
     <string name="album_hidden_page_title">Κρυφό</string>
+    <string name="album_homepage_show_all_photos">Προβολή όλων των φωτογραφιών</string>
     <string name="album_jump_failed">Περιμένετε μέχρι να συγχρονιστούν τα άλμπουμ με το Cloud και δοκιμάστε ξανά</string>
+    <string name="album_lockscreen_wallpapers">Ταπετσαρίες Κλειδώματος οθόνης</string>
     <string name="album_member">Αριθμός άλμπουμ %s</string>
     <string name="album_midrop">Mi Drop</string>
     <string name="album_name">Όνομα άλμπουμ</string>
@@ -1046,9 +1048,20 @@
     <string name="messagelist_sender_self">Εγώ</string>
     <string name="micloud_introduce">Αυτόματος συγχρονισμός φωτογραφιών και βίντεο (απαιτείται λογαριασμός Xiaomi)</string>
     <string name="midnight">Night</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Περισσότερα</string>
+    <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
     <string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το cloud είναι απενεργοποιημένος</string>
     <string name="miuix_appcompat_cloud_state_finished">Συγχρονισμός με το cloud με επιτυχία</string>
     <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το σύννεφο…</string>
+    <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
+    <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
+    <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -1398,6 +1411,7 @@
     <string name="pic_to_pdf_not_support_video">"Δεν είναι δυνατή η αποθήκευση βίντεο ως PDF"</string>
     <string name="pic_to_pdf_preview_loading">Φόρτωση προεπισκόπησης…</string>
     <string name="pic_to_pdf_save_in">Αποθηκεύτηκε το PDF σε %s</string>
+    <string name="pic_to_pdf_saved_in_fileexplorer">Αποθηκεύτηκε με επιτυχία. Προβολή του στοιχείου στη Διαχείριση αρχείων.</string>
     <string name="pick_from_contact">Επιλέξτε από τις επαφές</string>
     <string name="pick_people_cover_fail">An error occurred. Try again.</string>
     <string name="pick_people_cover_page_title">Επιλογή φωτογραφίας εξωφύλλου</string>
@@ -1862,6 +1876,7 @@
     <string name="toast_invalid_char">"Τα ονόματα αρχείων να μην περιέχουν \"%s\""</string>
     <string name="toast_invalid_prefix">"Τα ονόματα αρχείων να μην ξεκινούν με \".\" ή \"_\""</string>
     <string name="toast_orientation_locked">Ο προσανατολισμός κλειδώθηκε με επιτυχία</string>
+    <string name="toast_orientation_unlock">Ο προσανατολισμός οθόνης είναι ξεκλείδωτος</string>
     <string name="toast_rename_exit">Αυτό το αρχείο υπάρχει ήδη</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Tomorrow</string>
@@ -1894,9 +1909,9 @@
     <string name="unpublishing">Ακύρωση δημοσίευσης, παρακαλώ περιμένετε…</string>
     <string name="unrecognized_manufacture">Άγνωστος</string>
     <string name="unrecognized_model">Άγνωστη συσκευή</string>
-    <string name="unsupport_type">"Αυτός ο τύπος αρχείου δεν υποστηρίζεται"</string>
     <string name="unsupport_raw">%s δεν λειτουργεί με εικόνες RAW</string>
     <string name="unsupport_raw_and_video">%s δεν λειτουργεί με βίντεο και εικόνες RAW</string>
+    <string name="unsupport_type">"Αυτός ο τύπος αρχείου δεν υποστηρίζεται"</string>
     <string name="unsupport_video">%s δεν λειτουργεί με βίντεο</string>
     <string name="unsupported_media_downloading_tip_common">Η προβολή πρωτότυπων εικόνων σε αυτήν τη μορφή δεν υποστηρίζεται σε αυτήν την έκδοση του Android. Λήψη οπωσδήποτε;</string>
     <string name="unsupported_media_downloading_tip_format">Η προβολή των αρχικών εικόνων %s δεν υποστηρίζεται σε αυτή την έκδοση του Android. Λήψη οπωσδήποτε;</string>

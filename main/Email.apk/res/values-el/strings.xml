@@ -897,6 +897,7 @@
     <string name="open_external_storage_and_contacts_and_calendar_permission">Να επιτρέπεται στο Mail η πρόσβαση στο χώρο αποθήκευσης, στις επαφές και στις πληροφορίες ημερολογίου από τις Ρυθμίσεις</string>
     <string name="open_external_storage_and_contacts_permission">Να επιτρέπεται στο Mail η πρόσβαση στο χώρο αποθήκευσης και στις επαφές από τις Ρυθμίσεις</string>
     <string name="open_notification_kingagent">Ανοίξτε την ειδοποίηση για το σημείο ταφής</string>
+    <string name="open_pdf_error">Το άνοιγμα του αρχείου Pdf απέτυχε. Πραγματοποιήστε λήψη άλλων εργαλείων ανοίγματος PDF και δοκιμάστε ξανά αργότερα.</string>
     <string name="optimization_suggestion">Προτάσεις βελτιστοποιήσεων</string>
     <string name="others_mail">Άλλοι Λογαριασμοί</string>
     <string name="others_mail_des">Άλλες ιδιωτικές ή εταιρικές υπηρεσίες Email</string>

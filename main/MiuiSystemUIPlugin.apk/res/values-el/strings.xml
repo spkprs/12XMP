@@ -93,7 +93,7 @@
     <string name="quick_settings_pcmode_ok_button">OK</string>
     <string name="quick_settings_scanner_label">Σαρωτής</string>
     <string name="quick_settings_wireless_label">Αντίστροφη ασύρματη φόρτιση</string>
-    <string name="reboot_info_auto_boot">Η συσκευή έχει προγραμματιστεί να ενεργοποιείται σε %s</string>
+    <string name="reboot_info_auto_boot">Επερχόμενος συναγερμός: %s</string>
     <string name="reboot_info_shutdown_alarm">Τερματισμού ξυπνητηριού: %s</string>
     <string name="reset">Επαναφορά</string>
     <string name="restart">Επανεκκίνηση</string>
@@ -120,4 +120,6 @@
     <string name="wireless_charging_tips_disable">"Να μην εμφανιστεί ξανά"</string>
     <string name="wireless_charging_tips_message">Τοποθετήστε συσκευές που υποστηρίζουν ασύρματη φόρτιση Qi (τηλέφωνα, βοηθητικός εξοπλισμός κ.λπ.) στο πίσω μέρος αυτής της συσκευής.</string>
     <string name="wireless_charging_tips_title">Αντίστροφη ασύρματη φόρτιση</string>
+    <string name="accessibility_back">Πίσω</string>
+    <string name="slider_view_content_description">Σάρωση επάνω για απενεργοποίηση ή σάρωση κάτω για επανεκκίνηση</string>
 </resources>

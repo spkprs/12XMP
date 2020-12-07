@@ -6988,9 +6988,10 @@
     <string name="user_exit_guest_confirm_message">Όλες οι εφαρμογές και δεδομένα αυτής της περιόδου θα διαγραφούν.</string>
     <string name="user_exit_guest_confirm_title">Διαγραφή επισκέπτη;</string>
     <string name="user_exit_guest_dialog_remove">Διαγραφή</string>
+    <string name="user_experience_open_url">Περισσότερες πληροφορίες για το πρόγραμμα εμπειρίας χρηστών</string>
     <string name="user_exit_guest_title">Διαγραφή επισκέπτη</string>
     <string name="user_experience_program">Πρόγραμμα Εμπειρίας Χρηστών</string>
-    <string name="user_experience_program_summary">Βοηθήστε την βελτίωση του MIUI αποστέλλοντας ανώνυμα δεδομένα χρήσης</string>
+    <string name="user_experience_program_summary">Να επιτρέπεται στη Xiaomi να συλλέγει και να αναλύει δεδομένα χρήστη προκειμένου να βελτιώνει τα προϊόντα και τις υπηρεσίες μας. Διαβάστε τους όρους και τις προϋποθέσεις του Προγράμματος εμπειρίας χρηστών για να μάθετε περισσότερα.</string>
     <string name="user_experience_program_title">Πρόγραμμα Εμπειρίας Χρηστών</string>
     <string name="user_guest">Επισκέπτης</string>
     <string name="user_image_choose_photo">Επιλέξτε φωτογραφία από το Άλμπουμ</string>

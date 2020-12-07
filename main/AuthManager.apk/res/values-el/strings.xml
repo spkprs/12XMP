@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_Perm_tencentControl">Πρόσβαση σε μηνύματα σε εφαρμογές κοινωνικών μέσων</string>
-    <string name="HIPS_Perm_tencentControl_Desc">Επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση στα μηνύματα WeChat και QQ</string>
-    <string name="HIPS_SecurityPrompt_Reject_Never">"Deny and don't ask again (%d)"</string>
-    <string name="HIPS_Perm_Access_Gallery">Πρόσβαση στη Συλλογή</string>
-    <string name="HIPS_Perm_Access_Gallery_Desc">Επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση σε στοιχεία της Συλλογής σας</string>
     <string name="HIPS_ACTION_REJECT_CLEAR">Περιορισμός και απαλοιφή προχείρου</string>
     <string name="HIPS_Action_Accept">Αποδοχή</string>
     <string name="HIPS_Action_Accept_Once">Αποδοχή μία φορά</string>
@@ -12,6 +7,8 @@
     <string name="HIPS_Action_Reject">Απόρριψη</string>
     <string name="HIPS_Action_Reject_Once">Απόρριψη μια φορά</string>
     <string name="HIPS_Action_Reject_This">Περιορισμός μία φορά</string>
+    <string name="HIPS_Perm_Access_Gallery">Πρόσβαση στη Συλλογή</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση σε στοιχεία της Συλλογής σας</string>
     <string name="HIPS_Perm_AudioRecorder">Εγγραφή ήχου</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">να καταγράφει ήχους &amp; τηλεφωνικές κλήσεις</string>
     <string name="HIPS_Perm_AutoStart">Εκτέλεση κατά την εκκίνηση</string>
@@ -107,6 +104,8 @@
     <string name="HIPS_Perm_service_foreground_Desc">υπηρεσίες προσκηνίου</string>
     <string name="HIPS_Perm_show_when_locked">Εμφάνιση στην Οθόνη κλειδώματος</string>
     <string name="HIPS_Perm_show_when_locked_Desc">να εμφανίζεται στην Οθόνη κλειδώματος</string>
+    <string name="HIPS_Perm_tencentControl">Πρόσβαση σε μηνύματα σε εφαρμογές κοινωνικών μέσων</string>
+    <string name="HIPS_Perm_tencentControl_Desc">Επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση στα μηνύματα WeChat και QQ</string>
     <string name="HIPS_Perm_use_sip">Υπηρεσίες Βίντεο</string>
     <string name="HIPS_Perm_use_sip_Desc">να κάνει χρήση υπηρεσιών SIP για ροή βίντεο</string>
     <string name="HIPS_Perm_write_clipboard">Αποθήκευση στοιχείων στο πρόχειρο</string>
@@ -114,6 +113,7 @@
     <string name="HIPS_SecurityPrompt_Caption">Προειδοποίηση ασφαλείας</string>
     <string name="HIPS_SecurityPrompt_Reject">Απόρριψη (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Clear_This">Περιορισμός και απαλοιφή προχείρου (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Never">"Deny and don't ask again (%d)"</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Απόρριψη μία φορά (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_This">Περιορισμός μία φορά (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">Το %1$s ζητάει %2$s</string>
@@ -122,15 +122,19 @@
     <string name="background_location_access_reminder_notification_content">Αυτή η εφαρμογή μπορεί να έχει πάντα πρόσβαση στην τοποθεσία σας. Πατήστε για αλλαγή.</string>
     <string name="background_location_access_reminder_notification_title">%s χρησιμοποίησαν την τοποθεσία σας</string>
     <string name="clipboard_ai_allow_once">Επιτράπηκε %1$s η αυτόματη πρόσβαση σε στοιχεία στο πρόχειρο</string>
-    <string name="clipboard_data">Στοιχεία του Προχείρου</string>
+    <string name="clipboard_data">"Περιεχόμενο: "</string>
     <string name="clipboard_data_request">%1$s προσπαθεί να αποκτήσει πρόσβαση σε στοιχεία στο πρόχειρο</string>
     <string name="clipboard_deny_notification_content">Αυτή η προσπάθεια αποκλείστηκε. Πατήστε για διαχείριση δικαιωμάτων.</string>
     <string name="clipboard_deny_notification_operation">Διαχείριση</string>
     <string name="clipboard_deny_notification_title">%1$s προσπαθεί να αποκτήσει πρόσβαση σε στοιχεία στο πρόχειρο</string>
     <string name="clipboard_may_sensitive">Πιθανώς ευαίσθητες πληροφορίες</string>
+    <string name="clipboard_read_ai_deny_once">Περιορισμένη πρόσβαση στο πρόχειρο σε %1$s</string>
     <string name="clipboard_read_allow_once">%1$s πρόσβαση σε στοιχεία στο πρόχειρο</string>
+    <string name="clipboard_read_deny_dialog_title">Περιορισμένη πρόσβαση στο πρόχειρο σε %1$s</string>
     <string name="current_permission_template">%1$s(%2$d/%3$d)</string>
     <string name="default_permission_description">επιτρέπει την εκτέλεση μιας άγνωστης ενέργειας</string>
+    <string name="forbid_notice_me">Διακοπή ειδοποίησης</string>
+    <string name="go_behavior_record">Ιστορικό συμπεριφοράς εφαρμογής</string>
     <string name="go_perm_manager">Διαχείριση δικαιωμάτων</string>
     <string name="grant_dialog_button_allow">Αποδοχή</string>
     <string name="grant_dialog_button_allow_always">Αποδοχή πάντα</string>
@@ -144,10 +148,12 @@
     <string name="grant_dialog_storage_category_title">Αυτή η εφαρμογή απαιτεί δικαιώματα για πρόσβαση στη συλλογή και τα μηνύματα στις εφαρμογές μέσων κοινωνικής δικτύωσης</string>
     <string name="grant_dialog_storage_gallery_title">Συλλογή</string>
     <string name="grant_dialog_storage_sociality_title">Μηνύματα στις εφαρμογές μέσων κοινωνικής δικτύωσης</string>
+    <string name="keep_notice_me">Συνέχιση ειδοποίησης</string>
     <string name="location_settings">Υπηρεσίας τοποθεσίας</string>
     <string name="location_warning">Ο %1$s είναι ο πάροχος των υπηρεσιών τοποθεσίας για τη συγκεκριμένη συσκευή. Η πρόσβαση στην τοποθεσία μπορεί να τροποποιηθεί από τις ρυθμίσεις της τοποθεσίας.</string>
     <string name="never_ask_again">Να μην ερωτηθώ ξανά μετά τον περιορισμό</string>
     <string name="no">Όχι</string>
+    <string name="notification_click_tip">Πατήστε για λεπτομέρειες</string>
     <string name="ok">OK</string>
     <string name="perm_action_allow">Αποδοχή</string>
     <string name="perm_action_deny">Ποτέ Αποδοχή</string>
