@@ -798,10 +798,13 @@
     <string name="face_unlock_fail_retry_global">Αγγίξτε παραπάνω για χρήση Δεδομένων Προσώπου</string>
     <string name="face_unlock_not_found">Δεν μπορώ να σας αναγνωρίσω</string>
     <string name="face_unlock_open_eye">Ανοίξτε τα μάτια σας λίγο πιο πολύ</string>
+    <string name="face_unlock_password_and_fingerprint">Εισαγάγετε κωδικό ή χρησιμοποιήστε αποτύπωμα για ξεκλείδωμα</string>
     <string name="face_unlock_passwork">Χρήση κωδικού</string>
     <string name="face_unlock_passwork_and_fingerprint">Χρήση κωδικού ή Δακτ. αποτυπώματος</string>
     <string name="face_unlock_passwork_and_fingerprint_v11">Εισάγετε κωδικό ή χρήση δακτ. αποτύπωματος για ξεκλείδωμα</string>
+    <string name="face_unlock_pattern_and_fingerprint">Μοτίβο ή χρήση δακτυλικού αποτυπώματος για ξεκλείδωμα</string>
     <string name="face_unlock_pattern_and_fingerprint_v11">Σχεδιάστε μοτίβο ή χρήση δακτ. αποτύπωματος για ξεκλείδωμα</string>
+    <string name="face_unlock_pin_and_fingerprint">Εισάγετε PIN ή χρησιμοποιήστε δακτυλικό αποτύπωμα για ξεκλείδωμα</string>
     <string name="face_unlock_pin_and_fingerprint_v11">Εισάγετε PIN ή χρήση δακτ. αποτύπωματος για ξεκλείδωμα</string>
     <string name="face_unlock_reveal_eye">Δείξτε τα μάτια σας</string>
     <string name="face_unlock_reveal_mouth">Δείξτε τα χείλη σας</string>
@@ -952,6 +955,9 @@
     <string name="inline_stop_button">Διακοπή ειδοποιήσεων</string>
     <string name="inline_turn_off_notifications">Απενεργοποίηση ειδοποιήσεων</string>
     <string name="inline_undo">Αναίρεση</string>
+    <string name="input_lockscreen_password_hint_text">Εισαγωγή κωδικού</string>
+    <string name="input_lockscreen_pattern_hint_text">Σχεδίαση μοτίβου</string>
+    <string name="input_lockscreen_pin_hint_text">Εισαγωγή PIN</string>
     <string name="input_password_after_boot_msg">Για να ξεκλειδώσετε τη συσκευή, εισάγετε τον κωδικό ή το μοτίβο σας</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Δεν είναι δυνατή η εναλλαγή μεταξύ των προφίλ κατά τη διάρκεια μιας κλήσης</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Αδύνατη η εναλλαγή μεταξύ Χώρων με τον Γονικό έλεγχο ενεργό</string>

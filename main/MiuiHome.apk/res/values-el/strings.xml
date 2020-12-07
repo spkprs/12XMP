@@ -525,8 +525,8 @@
     <string name="recommend_loading">Φόρτωση</string>
     <string name="recommend_refresh">Ανανέωση</string>
     <string name="recommend_xout">Χωρίς εμφάνιση</string>
-    <string name="remove_dialog_message">Η εφαρμογή περιέχει απαραίτητες λειτουργίες συστήματος και υποστηρίζει μόνο την αφαίρεση των εικονιδίων επιφάνειας εργασίας.</string>
-    <string name="remove_dialog_title_format">Αφαίρεση %s?</string>
+    <string name="remove_dialog_message">Οι επιλεγμένες εφαρμογές περιέχουν βασικά χαρακτηριστικά του συστήματος. Μπορείτε να καταργήσετε μόνο τις συντομεύσεις της αρχικής οθόνης.</string>
+    <string name="remove_dialog_title_format">Κατάργηση της \"%s\" από την αρχική οθόνη;</string>
     <string name="remove_invalidate_gadget_tips">Ένα από τα widgets που χρησιμοποιείτε δεν είναι πλέον διαθέσιμο. Μπορείτε να προσθέσετε ένα άλλο.</string>
     <string name="reset_cate_tip_content">Εάν συνεχίσετε, θα γίνει επαναφορά των προεπιλεγμένων ομάδων εφαρμογών. Συνέχεια οπωσδήποτε;</string>
     <string name="reset_cate_tip_title">Επαναφορά προεπιλεγμένων ομάδων</string>

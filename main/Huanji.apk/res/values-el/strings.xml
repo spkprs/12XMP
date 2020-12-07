@@ -332,6 +332,7 @@
     <string name="launcher">Διάταξη αρχικής οθόνης</string>
     <string name="less_than_1_minute">Λιγότερο από 1 λεπτό</string>
     <string name="loading_data">Μισό λεπτό…</string>
+    <string name="location_permission_request">Για σύνδεση με άλλες κοντινές συσκευές</string>
     <string name="login">Συνδεθείτε</string>
     <string name="login_failed">Αδύνατη η σύνδεση. Προσπάθησε ξανά.</string>
     <string name="logining">Σύνδεση…</string>
@@ -350,7 +351,7 @@
     <string name="manual_connection_content3">3. Εισάγετε αυτό τον κωδικό πρόσβασης στην παλιά συσκευή για σύνδεση.</string>
     <string name="manual_connection_summary2">"Εάν δεν μπορείτε να βρείτε αυτό το ενεργό σημείο, ανανεώστε τη λίστα των διαθέσιμων δικτύων WI-Fi και δοκιμάστε ξανά."</string>
     <string name="manual_connection_title">Μη αυτόματη σύνδεση στην παλιά συσκευή</string>
-    <string name="message_request_package_stats_perm">Πατήστε \"Συνέχεια\" για να ανοίξετε τις Ρυθμίσεις και δώστε στο Mi Mover τις απαιτούμενες Άδειες.</string>
+    <string name="message_request_package_stats_perm">Το Mi Mover χρειάζεται αυτήν την άδεια για να δεί ποιες εφαρμογές είναι εγκατεστημένες σε μια συσκευή και να τις μεταφέρει αυτές τις εφαρμογές σε μια άλλη.</string>
     <string name="midnight">ΜΜ</string>
     <string name="miui_need_location_permission_summary">\"Επιτρέψτε στο Mi Mover να αποκτήσει πρόσβαση στη τοποθεσία σας, προκειμένου να εντοπίσει κοντινές συσκευές. Θα είναι αδύνατη η χρήση του Mi Mover αν δεν το επιτρέψετε\".</string>
     <string name="miui_need_location_permission_title">Πρόσβαση στην τοποθεσία</string>
@@ -661,6 +662,9 @@
     <string name="solar_term_winter_solstice">Winter Solstice</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="succ_description">Τέλος</string>
+    <string name="summary_open_wlan">Το Mi Mover χρειάζεται την άδεια αυτή για να διασφαλίσει τη σταθερότητα της διαδικασίας μεταφοράς.</string>
+    <string name="summary_request_alert_window_prem">Το Mi Mover χρειάζεται την άδεια αυτή για να διασφαλίσει τη σταθερότητα της διαδικασίας μεταφοράς.</string>
+    <string name="summary_request_write_settings_prem">Το Mi Mover needs this permission to turn on WLAN and create a hotspot for transferring files.</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κ</string>
@@ -727,8 +731,10 @@
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
     <string name="time_spent">Χρόνος: &lt;g id=\"time\"&gt;%1$s&lt;/g&gt;</string>
+    <string name="title_open_wlan">Ενεργοποίηση WIFI</string>
+    <string name="title_request_alert_window_perm">Αποδοχή αιωρούμενων παραθύρων</string>
     <string name="title_request_package_stats_perm">Απαιτούνται Άδειες</string>
-    <string name="title_request_write_settings_perm">Απαιτείται άδεια αλλαγής των ρυθμίσεων συστήματος</string>
+    <string name="title_request_write_settings_perm">Δυνατότητα αλλαγής ρυθμίσεων συστήματος</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
     <string name="trans_detail_item_app_data_skip_data">Δεν είναι δυνατή η μεταφορά δεδομένων εφαρμογής</string>
