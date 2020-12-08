@@ -104,6 +104,7 @@
     <string name="description_image_button_two">δύο</string>
     <string name="description_image_button_video_answer">Κλήση βίντεο</string>
     <string name="description_image_button_zero">μηδέν</string>
+    <string name="description_incoming_video">Βίντεο προφίλ για εισερχόμενες κλήσεις</string>
     <string name="description_message_list_title">Λίστα γρήγορων απαντήσεων</string>
     <string name="description_target_answer">Απάντηση</string>
     <string name="dialpad_abc">ABC</string>

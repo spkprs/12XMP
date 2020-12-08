@@ -151,6 +151,8 @@
   <string name="music_headset_calibrate_wrong_key">Λάθος κουμπί</string>
   <string name="music_headset_control_setting">Στοιχεία ελέγχου ακουστικών</string>
   <string name="music_headset_effect_settings">Ηχητικά εφέ</string>
+  <string name="music_headset_effect_harman_kardon">Harman Kardon</string>
+  <string name="music_headset_effect_harman_kardon_summary">Πιστοποιημένος επαγγελματικός ήχος</string>
   <string name="music_headset_improve_sound">Ρύθμιση ήχου σε ακουστικά</string>
   <string name="music_headset_is_open">On</string>
   <string name="music_headset_mode_music">Ρύθμιση αναπαραγωγής</string>

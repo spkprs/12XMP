@@ -247,6 +247,8 @@
   <string name="delete_file_start">Διαγραφή επιλεγμένων αρχείων</string>
   <string name="delete_single_fm_history">Διαγραφή αυτής της καρτέλας ιστορικού αναπαραγωγής;</string>
   <string name="delete_the_downloaded_file">Τα ληφθέντα αρχεία θα διαγραφούν.</string>
+  <string name="description_content">"Το FM Radio είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να ακούσετε τους τοπικούς και online σταθμούς μετά την απεγκατάσταση."</string>
+  <string name="description_title">Απεγκατάσταση \"FM Radio\"?</string>
   <string name="deselect_all">Αποεπιλογή όλων</string>
   <string name="desktop_lyric_lock_toast">Κλειδωμένο. Μπορείτε να ξεκλειδώσετε μουσική στον πίνακα ειδοποιήσεων.</string>
   <string name="desktop_lyric_setting_title">Στίχοι αρχικής οθόνης</string>
@@ -779,6 +781,7 @@
   <string name="payment_virtual_coin">支付余额%s听币</string>
   <string name="payment_wechat">wechat πληρωμη</string>
   <string name="pending_apk">Εκκρεμείς…</string>
+  <string name="permission_runtime_perm_desc_location">Για πρόσβαση σε τοπικούς ραδιοφωνικούς σταθμούς</string>
   <string name="personal_radio_favorite">Αγαπημένα, προτείνουμε παρόμοια τραγούδια</string>
   <string name="phone_bind_too_many">Αυτό το τηλέφωνο έχει συσχετιστεί με αρκετούς λογαριασμούς mi σε σύντομο χρονικό διάστημα. Δοκιμάστε να χρησιμοποιήσετε έναν άλλο αριθμό τηλεφώνου.</string>
   <string name="phone_hint">Αριθμός τηλεφώνου</string>

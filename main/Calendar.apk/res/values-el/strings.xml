@@ -551,7 +551,11 @@
     <string name="hotel_event_title">入住酒店：</string>
     <string name="huangli_bad_type">Αποφύγετε</string>
     <string name="huangli_good_type">Σε περίπτωση</string>
+    <string name="icon_add_description">Προσθήκη συντόμευσης στην αρχική οθόνη</string>
     <string name="icon_content_description">Εικονίδιο Διαλόγου</string>
+    <string name="icon_remove_confirm">Αφαίρεση</string>
+    <string name="icon_remove_description_content">"Το Ημερολόγιο είναι εφαρμογή συστήματος. Σας επιτρέπει να δημιουργείτε συμβάντα και να τα διαχειρίζεστε. Θα μπορείτε να χρησιμοποιείτε το Ημερολόγιο μέσω του widget στην αρχική οθόνη ή μέσω Προσ. Βοηθού , αφού καταργήσετε τη συντόμευση στην αρχική οθόνη."</string>
+    <string name="icon_remove_description_title">Κατάργηση του \"Ημερολογίου\" από την αρχική οθόνη;</string>
     <string name="ics_file_not_found">Το αρχείο ics δεν βρέθηκε</string>
     <string name="ics_import_from_local_file">Εισαγωγή αρχείου ics</string>
     <string name="ics_import_from_url">Εγγραφή από διεύθυνση url</string>
