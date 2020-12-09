@@ -590,8 +590,8 @@
         <item quantity="one">Μπορείτε να προστατεύσετε %d στοιχείο</item>
     </plurals>
     <plurals name="applock_app_suggest_lock">
-        <item quantity="other">Μπορείτε να χρησιμ/ετε το Κλείδωμα εφαρμογής με %1$s εφαρμ.</item>
-        <item quantity="one">Μπορείτε να χρησιμ/ετε το Κλείδωμα εφαρμογής με %1$s εφαρμ.</item>
+        <item quantity="other">Χρήση του Κλείδωμα εφαρμογής σε %1$s εφαρμ.</item>
+        <item quantity="one">Χρήση  του Κλείδωμα εφαρμογής σε %1$s εφαρμ.</item>
     </plurals>
     <plurals name="applock_one_key_lock">
         <item quantity="other">%s εφαρμ. θα προστατεύονται με Κλείδωμα εφαρμογής</item>
@@ -698,8 +698,8 @@
         <item quantity="one">φορά</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d θέματα χρήσης μπαταρίας</item>
-        <item quantity="one">%d θέμα χρήσης μπαταρίας</item>
+        <item quantity="other">%d θέματα μπαταρίας</item>
+        <item quantity="one">%d θέμα μπαταρίας</item>
     </plurals>
     <plurals name="power_center_battery_duration_hour_time_format">
         <item quantity="other">" ώρ."</item>
@@ -722,8 +722,8 @@
         <item quantity="one">Μπορείτε να διορθώσετε %d ζητήμα χρήσης μπαταρίας</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
-        <item quantity="other">" %d είναι δυνατή η βελτιστοποίηση στοιχείων"</item>
-        <item quantity="one">" %d είναι δυνατή η βελτιστοποίηση  στοιχείου"</item>
+        <item quantity="other">" %d για βελτιστοποίηση"</item>
+        <item quantity="one">" %d για βελτιστοποίηση"</item>
     </plurals>
     <plurals name="power_center_battery_suggest">
         <item quantity="other">Βελτιστοποίηση %d στοιχ. για εξοικ. μπαταρίας</item>

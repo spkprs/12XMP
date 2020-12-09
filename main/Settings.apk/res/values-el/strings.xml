@@ -2858,12 +2858,12 @@
     <string name="gxzw_enroll_again">Σηκώστε το δάχτυλό σας και πατήστε ξανά το σαρωτή δακτ. αποτυπωμάτων</string>
     <string name="gxzw_lowlight_open_summary">Μειώστε τη φωτεινότητα του εικονιδίου δακτυλικού αποτυπώματος σε συνθήκες χαμηλού φωτισμού. Η συσκευή σας ενδέχεται να ξεκλειδώσει πιο αργά όταν αυτή η δυνατότητα είναι ενεργοποιημένη.</string>
     <string name="gxzw_lowlight_open_title">Ξεκλείδωμα δακτ. αποτυπώματος με χαμηλό φωτισμό</string>
-    <string name="gxzw_quick_open_enable_summary">Σύρετε σε συντομεύσεις για να ανοίξετε εφαρμογές ή λειτουργίες όταν η συσκευή σας είναι ξεκλείδωτη</string>
-    <string name="gxzw_quick_open_enable_title">Συντομεύσεις Δακτυλικών αποτυπωμάτων</string>
+    <string name="gxzw_quick_open_enable_summary">Σύρετε τις συντομεύσεις για να ανοίξετε εφαρμογές ή λειτουργίες όταν η συσκευή σας είναι ξεκλείδωτη</string>
+    <string name="gxzw_quick_open_enable_title">Συντομεύσεις Δακτυλικού αποτυπώματος</string>
     <string name="gxzw_quick_open_fast_summary">Σύρετε για χρήση μιάς συντόμευσης όταν η συσκευή σας ξεκλειδωθεί.</string>
     <string name="gxzw_quick_open_fast_title">Γρήγορη σάρωση (για προχωρημένους)</string>
-    <string name="gxzw_quick_open_slow_summary">Αγγίξτε παρατεταμένα το εικονίδιο αποτυπωμάτων για άνοι μενού συντομεύσεων. Σύρετε για χρήση μιάς συντόμευσης.</string>
-    <string name="gxzw_quick_open_slow_title">Άγγιγμα παρατ.</string>
+    <string name="gxzw_quick_open_slow_summary">Αγγίξτε παρατεταμένα το εικονίδιο αποτυπώματος για άνοιγμα μενού συντομεύσεων. Σύρετε για χρήση μιάς συντόμευσης.</string>
+    <string name="gxzw_quick_open_slow_title">Παρατεταμένο άγγιγμα.</string>
     <string name="gxzw_quick_open_title">Συντομεύσεις</string>
     <string name="handy_mode">Λειτουργία με ένα χέρι</string>
     <string name="handy_mode_enable">Λειτουργία με ένα χέρι</string>
@@ -3417,7 +3417,7 @@
     <string name="lock_profile_wipe_warning_content_password">Εάν εισαγάγετε έναν εσφαλμένο κωδικό πρόσβασης εργασίας σε αυτήν την προσπάθεια, το προφίλ εργασίας και τα σχετικά δεδομένα θα καταργηθούν από αυτήν τη συσκευή.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Αν εισαγάγετε ένα λανθασμένο σχέδιο εργασίας σε αυτήν την προσπάθεια, το προφίλ εργασίας και τα σχετικά δεδομένα θα καταργηθούν από αυτήν τη συσκευή.</string>
     <string name="lock_profile_wipe_warning_content_pin">Αν εισαγάγετε έναν εσφαλμένο κωδικό PIN εργασίας σε αυτήν την προσπάθεια, το προφίλ εργασίας και τα σχετικά δεδομένα θα καταργηθούν από αυτήν τη συσκευή.</string>
-    <string name="lock_screen_action">Προβολή στοιχείων σε κάτω σάρωση στην Οθόνη Κλειδώματος</string>
+    <string name="lock_screen_action">Προβολή στοιχείων με κάτω σάρωση στην Οθόνη Κλειδώματος</string>
     <string name="lock_screen_display_category_name">Οθόνη Κλειδώματος</string>
     <string name="lock_screen_intro_skip_dialog_text">Οι λειτουργίες προστασίας συσκευής δεν θα ενεργοποιηθούν. Δεν θα μπορείτε να αποτρέψετε άλλους από τη χρήση αυτού του τηλεφώνου, αν χαθεί ή κλαπεί.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Οι λειτουργίες προστασίας συσκευής δεν θα ενεργοποιηθούν. Δεν θα μπορείτε να αποτρέψετε άλλους από τη χρήση αυτού του τηλεφώνου εάν χαθεί, κλαπεί ή υποστεί ολική επαναφορά.</string>
@@ -3617,6 +3617,7 @@
     <string name="low_label">Χαμηλή</string>
     <string name="low_storage_summary">Η αποθήκευση είναι χαμηλή. %1$s χρησιμοποιείται - %2$s ελεύθερος</string>
     <string name="macaddr_label">MAC διεύθ.:</string>
+    <string name="magic_window_name">Διαιρούμενο παράθυρο</string>
     <string name="mah">%d mAh</string>
     <string name="main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύωσης</string>
     <string name="main_running_process_description">Κύρια διαδικασία σε χρήση.</string>
@@ -6590,6 +6591,8 @@
     <string name="traffic_none">Χωρίς</string>
     <string name="transition_animation_scale_title">Μετάβασης κίνησης</string>
     <string name="trigger_carrier_provisioning">Προμήθεια φορέα ενεργ/σης</string>
+    <string name="truetone_summary">Ρύθμιση χρωμάτων στο φως περιβάλλοντος</string>
+    <string name="truetone_title">Προσαρμογή χρωμάτων</string>
     <string name="trust_agents_extend_unlock_summary">Αν ενεργοποιηθεί, οι παράγοντες αξιοπιστίας θα διατηρούν τη συσκευή σας ξεκλείδωτη για μεγαλύτερο χρονικό διάστημα, αλλά δεν μπορούν πλέον να ξεκλειδώνουν μια κλειδωμένη συσκευή.</string>
     <string name="trust_agents_extend_unlock_title">Οι πράκτορες εμπιστοσύνης επεκτείνουν το ξεκλείδωμα</string>
     <string name="trust_lost_locks_screen_summary">Εάν ενεργοποιηθεί, η συσκευή θα κλειδώσει όταν ο τελευταίος παράγοντας αξιοπιστίας χάσει την αξιοπιστία</string>

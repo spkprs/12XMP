@@ -356,6 +356,8 @@
     <string name="cannot_connect_camera_twice">Ακόμα δεν μπορεί να συνδεθεί η κάμερα. Δοκιμάστε να επανεκκινήσετε τη συσκευή σας.</string>
     <string name="cannot_move_warning_message">Λήψη φωτογραφίας, εστιάστε περισσότερο</string>
     <string name="capture_back_pressed_hint">Αγγίξτε ξανά για Έξοδο</string>
+    <string name="capture_shortcut_long">Selfie</string>
+    <string name="capture_shortcut_short">Selfie</string>
     <string name="ccc_temperature_warning_msg">Η συσκευή σας έχει υπερθερμανθεί. Η κάμερα θα κλείσει σε %d δευτερόλεπτα. Οι φωτογραφίες ή τα βίντεό σας θα αποθηκευτούν αυτόματα.</string>
     <string name="ccc_temperature_warning_title">Η συσκευή έχει υπερθερμανθεί</string>
     <string name="clone_do_not_move_phone">Μην μετακινείτε τη συσκευή σας</string>
@@ -463,8 +465,11 @@
     <string name="dialog_ok_time">OK (%ds)</string>
     <string name="dirty_tip_toast">Ο φακός είναι βρώμικος. Καθαρίστε τον.</string>
     <string name="do_not_remind_me">Να μην εμφανιστεί ξανά</string>
+    <string name="doc_shortcut_long">Έγγραφα</string>
+    <string name="doc_shortcut_short">Έγγραφα</string>
     <string name="document_blackwhite">Μ/Α</string>
     <string name="document_blur_warn">Θαμπό κείμενο</string>
+    <string name="document_blur_warn">Το κείμενο είναι θολό</string>
     <string name="document_mode_use_hint_text_body">Ευθυγράμμιση και βελτίωση\nσαρωμένων εγγράφων αυτόματα</string>
     <string name="document_mode_use_hint_text_title">Σάρωση εγγράφων</string>
     <string name="document_origin">Αρχική εικόνα</string>
@@ -1265,6 +1270,8 @@
     <string name="preparing_sd">Έλεγχος SD card…</string>
     <string name="preview_back_pressed_hint">Πατήστε ξανά για να επιστρέψετε στην προεπισκόπηση</string>
     <string name="pro_color_mode">Χρώμα Pro</string>
+    <string name="professional_shortcut_long">Pro</string>
+    <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Δοκιμάστε τη λειτουργία Macro</string>
     <string name="recommend_portrait">Δοκιμάστε τη λειτουργία πορτρέτου</string>
     <string name="recommend_soft_light_tip">Ενεργοποίηση Φλάς</string>
@@ -1411,6 +1418,8 @@
     <string name="video_effect_entry_summer_day">Καλοκαίρι</string>
     <string name="video_effect_entry_wind_sing">Άνεμος</string>
     <string name="video_reach_size_limit">Μέγιστο όριο μεγέθους.</string>
+    <string name="video_shortcut_long">Βίντεο</string>
+    <string name="video_shortcut_short">Βίντεο</string>
     <string name="video_tag_flag_title">Σήμανση</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
