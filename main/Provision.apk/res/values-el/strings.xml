@@ -210,6 +210,7 @@
     <string name="service_policy"><Data>Διαβάστε και συμφωνήστε με την &lt;a href=%1$s>Πολιτική Απορρήτου&lt;/a> μας.</Data></string>
     <string name="service_policy_download"><Data>Πριν χρησιμοποιήσετε τις υπηρεσίες μας, διαβάστε και αποδεχτείτε την &lt;a href=%1$s>Xunlei Πολιτική Απορρήτου&lt;/a>.</Data></string>
     <string name="service_privacy_index">Πολιτική Απορρήτου</string>
+    <string name="service_security_over_r"><Data>Διαβάστε και συμφωνήστε με την &lt;a href=%1$s>Πολιτική απορρήτου&lt;/a >πριν χρησιμοποιήσετε την Ασφάλεια.&lt;br/>&lt;br/>Σύμφωνα με τα πρότυπα του Android 11, θα ανακληθεί μια εφάπαξ άδεια εντός 5 δευτερολέπτων από τη διακοπή της εκτέλεσης της αντίστοιχης εφαρμογής. Εάν ανοίξετε την εφαρμογή κατά τη διάρκεια αυτής της σύντομης χρονικής περιόδου, η άδεια θα ανακληθεί τότε.</Data></string>
     <string name="servicestate_title">Δήλωση σχετικά με τις βασικές υπηρεσίες</string>
     <string name="setting_locale">Ρύθμιση τοποθεσίας…</string>
     <string name="shut_down">Απενεργοποίηση συσκευής</string>

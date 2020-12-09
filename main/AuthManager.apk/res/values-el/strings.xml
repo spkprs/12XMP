@@ -121,6 +121,7 @@
     <string name="app_name">Άδειες</string>
     <string name="background_location_access_reminder_notification_content">Αυτή η εφαρμογή μπορεί να έχει πάντα πρόσβαση στην τοποθεσία σας. Πατήστε για αλλαγή.</string>
     <string name="background_location_access_reminder_notification_title">%s χρησιμοποίησαν την τοποθεσία σας</string>
+    <string name="blur_location_now_tip">Η κατά προσέγγιση τοποθεσία είναι ενεργή</string>
     <string name="clipboard_ai_allow_once">Επιτράπηκε %1$s η αυτόματη πρόσβαση σε στοιχεία στο πρόχειρο</string>
     <string name="clipboard_data">"Περιεχόμενο: "</string>
     <string name="clipboard_data_request">%1$s προσπαθεί να αποκτήσει πρόσβαση σε στοιχεία στο πρόχειρο</string>
@@ -210,4 +211,7 @@
     <string name="virtual_reject_notice_title_phonestate">%1$s πρόσβαση στις πληροφορίες συσκευής</string>
     <string name="virtual_reject_notice_title_sms">%1$s πρόσβαση σε μηνύματα</string>
     <string name="yes">Ναι</string>
+    <string name="go_setting">Ρυθμίσεις</string>
+    <string name="real_location_off">Η κατά προσέγγιση τοποθεσία είναι ενεργή</string>
+    <string name="real_location_on">Η κατά προσέγγιση τοποθεσία είναι ανεργή</string>
 </resources>
