@@ -124,4 +124,12 @@
     <item quantity="other">%d χαρακτήρες</item>
     <item quantity="one">%d χαρακτήρας</item>
   </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">Βρέθηκαν %1$s σημειώσεις</item>
+        <item quantity="one">Βρέθηκε %1$s σημείωση</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Βρέθηκαν %1$s εργασίες</item>
+        <item quantity="one">Βρέθηκε %1$s εργασία</item>
+    </plurals>
 </resources>

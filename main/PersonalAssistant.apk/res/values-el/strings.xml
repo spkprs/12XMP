@@ -636,11 +636,15 @@
     <string name="card_expand_note_clear_all">Εκκαθάριση</string>
     <string name="card_expand_note_dialog_button">Το έπιασα</string>
     <string name="card_expand_note_dialog_message">Μια νέα σημείωση δημιουργείται κάθε φορά που πατάτε το πλήκτρο \"Αποθήκευση\" στον Προσωπικό Βοηθό.</string>
+    <string name="card_expand_note_dialog_message_new">Κάθε φορά που πατάτε το κουμπί \"Αποθήκευση\" στον Προσ. Βοηθό δημιουργείται μια νέα σημείωση.</string>
     <string name="card_expand_note_dialog_title">Αποθήκευση σημείωσης</string>
+    <string name="card_expand_note_dialog_title_new">Αποθήκευση σημειώσεων</string>
     <string name="card_expand_note_sure_clear_all">Εκκαθάριση τώρα</string>
     <string name="card_expand_note_toast_clear_null">Επιτυχής Καθαρισμός</string>
     <string name="card_expand_note_toast_install">Εγκαταστήστε τις \"Σημειώσεις\" για να μπορείτε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
+    <string name="card_expand_note_toast_install_new">Εγκαταστήστε τις Σημειώσεις για να μπορείτε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
     <string name="card_expand_note_toast_save_done">Η σημείωση αποθηκεύτηκε</string>
+    <string name="card_expand_note_toast_save_done_new">Αποθηκεύτηκε στις Σημειώσεις</string>
     <string name="card_expand_note_toast_save_dup">Επιτυχής αποθήκευση</string>
     <string name="card_expand_note_toast_share_null">Αυτή η σημείωση είναι κενή</string>
     <string name="card_hint_noteboard">Γράψτε μια σημείωση εδώ.</string>
@@ -1908,9 +1912,10 @@
     <string name="saturday_shortest">Σαβ</string>
     <string name="save">Αποθήκευση</string>
     <string name="save_edit">Αποθήκευση αλλαγών</string>
-    <string name="save_to_note">Εξαγωγή σε Σημείωση</string>
+    <string name="save_to_note">Αποθήκευση στις Σημειώσεις</string>
+    <string name="save_to_note_new">Αποθήκευση στις σημειώσεις</string>
     <string name="scan">Σάρωση</string>
-    <string name="scan_app">Scanner</string>
+    <string name="scan_app">Σαρωτής</string>
     <string name="scan_card">Κάρτα Business</string>
     <string name="scan_code">QR Code</string>
     <string name="scan_doc">Εγγραφο</string>
@@ -2209,6 +2214,7 @@
     <string name="toast_function_add_limit">Μπορείτε να προσθέσετε έως %d συντομεύσεις</string>
     <string name="toast_function_remove_not_allowed">Θα πρέπει να προσθέσετε τουλάχιστον 1 συντόμευση</string>
     <string name="toast_reach_text_limit_truncate">Σας σημείωση είναι υπερβολικά μεγάλη. Το υπερβολικό περιεχόμενο ήταν περικοπεί.</string>
+    <string name="toast_reach_text_limit_truncate_new">Η σημείωσή σας είναι πολύ μεγάλη. Έγινε περικοπή του πλεονάζοντος περιεχομένου.</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
     <string name="total_month_desc_text">Αυτο το μηνα</string>
