@@ -180,11 +180,19 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="one">Video</item>
      </plurals>
      <plurals name="video_play_count">
-        <item quantity="other">%1$s views</item>
-        <item quantity="one">%1$s view</item>
+        <item quantity="other">%1$s προβολές</item>
+        <item quantity="one">%1$s προβολή</item>
      </plurals>
      <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d days remaining</item>
-        <item quantity="one">%d day remaining</item>
+        <item quantity="other">%d ημέρες απομένουν</item>
+        <item quantity="one">%d ημέρα απομένει</item>
      </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">%d ακόλουθοι</item>
+        <item quantity="one">%d ακόλουθος</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">Ακολουθείτε %d άτομα</item>
+        <item quantity="one">Ακολουθείτε %d άτομο</item>
+    </plurals>
 </resources>

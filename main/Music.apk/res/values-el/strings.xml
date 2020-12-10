@@ -66,6 +66,7 @@
     <string name="ad_setting">Πρόσθετες ρυθμίσεις</string>
     <string name="add_music">Προσθήκη τραγουδιών</string>
     <string name="add_to_last_of_playlist">Προσθήκη στο τέλος της λίστας</string>
+    <string name="add_to_playlist">Προσθήκη στην ουρά</string>
     <string name="add_to_playlist_successful">Επιτυχής προσθήκη</string>
     <string name="added_next_play">Προστέθηκε για επόμενη αναπαραγωγή</string>
     <string name="afternoon">PM</string>
@@ -131,6 +132,7 @@
     <string name="banner_op">Mi Music</string>
     <string name="bluetooth_device">Bluetooth συσκευή ήχου</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="btn_text_edit">Επεξεργασία</string>
     <string name="buffering">Φόρτωση…</string>
     <string name="button_cancel_download">Ακύρωση</string>
     <string name="button_download_now">Λήψη τώρα</string>
@@ -232,6 +234,7 @@
     <string name="dialog_insufficient_space_on_cache">Αδυναμία ολοκλήρωσης λήψης, ανεπαρκής αποθηκευτικός χώρος στην εσωτερική μνήμη.</string>
     <string name="dialog_insufficient_space_on_external">Αδυναμία ολοκλήρωσης λήψης. Δεν υπάρχει αρκετός χώρος στην κάρτα SD.</string>
     <string name="dialog_media_not_found">Αδυναμία λήψης. Η κάρτα SD δεν είναι διαθέσιμη.</string>
+    <string name="dialog_message_unfollow">Κατάργηση παρακολούθησης αυτού του ατόμου;</string>
     <string name="dialog_my_playlist_online_changed_merge">Διατήρηση</string>
     <string name="dialog_my_playlist_online_changed_message">Φαίνεται ότι αυτή η λίστα αναπαραγωγής άλλαξε. Μπορείτε να την αντικαταστήσετε με νέα ή να διατηρήσετε την παλιά.</string>
     <string name="dialog_my_playlist_online_changed_replace">Αντικατάσταση</string>
@@ -254,6 +257,7 @@
     <string name="dialog_song_view_type_artist">Κατά καλλιτέχνη</string>
     <string name="dialog_song_view_type_folder">Κατά φάκελο</string>
     <string name="dialog_song_view_type_song">Κατά τραγούδι</string>
+    <string name="dialog_subtitle_make_playlist_public">Οι δημόσιες λίστες αναπαραγωγής είναι διαθέσιμες σε άλλα άτομα. Οι ιδιωτικές λίστες αναπαραγωγής είναι ορατές μόνο σε εσάς σε όλες τις συγχρονισμένες συσκευές.</string>
     <string name="dialog_title_clearlist_tracks">Κατάργηση από την ουρά</string>
     <string name="dialog_title_delete_tracks">Διαγραφή</string>
     <string name="dialog_title_name_playlist">Όνομα λίστας αναπαραγωγής</string>
@@ -421,11 +425,13 @@
     <string name="fail_to_play">Αδυναμία αναπαραγωγής τραγουδιού</string>
     <string name="failed_not_access_sd_card">Επιτρέψτε την πρόσβαση στην SD card πρώτα</string>
     <string name="failed_obtain_permissions">Αδυναμία λήψης πρόσβασης</string>
+    <string name="fans">Ακόλουθοι</string>
     <string name="fav_login_msg">Συνδεθείτε στο λογαριασμό Mi για να κατεβάσετε τραγούδια</string>
     <string name="favorite_canceled">Αφαιρέθηκε από τα αγαπημένα</string>
     <string name="favorite_playlist">Αγαπημένα</string>
     <string name="favorite_singer">Αγαπημένοι καλλιτέχνες</string>
     <string name="favorite_succeed">Προστέθηκε στα αγαπημένα</string>
+    <string name="favorite_to_playlist">Προσθήκη στη λίστα</string>
     <string name="favorite_tracks">Αγαπημένα</string>
     <string name="favorites">Αγαπημένα</string>
     <string name="fcm_fallback_notification_channel_label">Διάφορα</string>
@@ -777,8 +783,10 @@
     <string name="no_album_info">Δεν υπάρχουν πληροφορίες άλμπουμ</string>
     <string name="no_artist_info">Δεν υπάρχουν πληροφορίες καλλιτέχνη</string>
     <string name="no_downloads">Δεν υπάρχουν λήψεις</string>
+    <string name="no_fans_empty_title">"Δεν έχετε κανέναν ακόλουθο ακόμα"</string>
     <string name="no_favorites_songs">Κενό</string>
     <string name="no_file_picker_find">Η Διαχείριση Αρχείων δεν έχει εγκατασταθεί.</string>
+    <string name="no_follow_empty_title">"Δεν παρακολουθείτε κανέναν ακόμα"</string>
     <string name="no_local_songs">Κενό</string>
     <string name="no_local_songs_selected">Αδυναμία αποστολής τραγουδιών που δεν έχετε κατεβάσει</string>
     <string name="no_local_source_find">Αδυναμία εύρεσης τραγουδιού</string>
@@ -1013,6 +1021,7 @@
     <string name="share_end_note">Από Mi Μουσική</string>
     <string name="share_failed">Δεν ήταν δυνατή η κοινή χρήση</string>
     <string name="share_image_error">Αδυναμία κοινοποίησης εικόνας λόγω σφάλματος λήψης</string>
+    <string name="share_song">Κοινή χρήση</string>
     <string name="share_text_list">"Λίστα αναπαραγωγής από Mi Μουσική: "</string>
     <string name="share_text_song">"Τραγούδι από Mi Μουσική: "</string>
     <string name="show_float_first_hint">Ελαχιστοποίηση</string>
@@ -1171,10 +1180,13 @@
     <string name="title_online_recommend">Προτεινόμενες λίστες αναπαραγωγής</string>
     <string name="title_search_history">Αναζήτηση ιστορικού</string>
     <string name="title_search_hot">Δημοφιλής</string>
+    <string name="toast_cant_collect_mine_playlist">"Δεν είναι δυνατή η προσθήκη των δικών σας λιστών αναπαραγωγής στα αγαπημένα"</string>
     <string name="toast_download_error_by_count_limit">Έχετε χρησιμοποιήσει όλο τον αριθμό λήψεων για αυτό το μήνα.</string>
     <string name="toast_download_error_by_not_login">Σύνδεση στο Mi Λογαριασμό και προσπαθήστε ξανά.</string>
     <string name="toast_download_error_by_vip_required">Για την λήψη του τραγουδιού, αποκτήστε το Premium Πακέτο Τραγουδιών.</string>
     <string name="toast_download_in_process">Λήψη σε εξέλιξη</string>
+    <string name="toast_favorite_has_been_added">Προστέθηκε στη λίστα αναπαραγωγής με επιτυχία</string>
+    <string name="toast_follow_success">Η παρακολούθηση ολοκληρώθηκε με επιτυχία</string>
     <string name="toast_is_pro">Είστε ήδη μέλος του PRO.</string>
     <string name="toast_my_playlist_illegal_name">Ο τίτλος αυτής της λίστας αναπαραγωγής δεν είναι έγκυρος. Μετονομάστε αυτήν τη λίστα αναπαραγωγής.</string>
     <string name="toast_my_playlist_set_to_private">Αυτή η λίστα αναπαραγωγής είναι ιδιωτική τώρα. Οι άλλοι δεν μπορούν να το δουν.</string>
@@ -1185,6 +1197,9 @@
     <string name="toast_normal_songs_for_download">Η ποιότητα λήψης ορίστηκε σε Κανονική</string>
     <string name="toast_normal_songs_for_stream">Η ποιότητα αναπαραγωγής ορίστηκε σε Κανονική</string>
     <string name="toast_not_pro">Αυτή η δυνατότητα είναι διαθέσιμη μόνο στα μέλη του PRO.</string>
+    <string name="toast_playlist_has_been_added">Προστέθηκε στην ουρά με επιτυχία</string>
+    <string name="toast_playlist_has_been_private">Αυτή η λίστα είναι ιδιωτική</string>
+    <string name="toast_playlist_has_been_public">Αυτή η λίστα είναι δημόσια</string>
     <string name="toast_uhd_songs_for_download">Η ποιότητα λήψης ορίστηκε σε Υψηλή</string>
     <string name="toast_uhd_songs_for_stream">Η ποιότητα αναπαραγωγής ορίστηκε σε Υψηλή</string>
     <string name="today">Σήμερα</string>
@@ -1212,11 +1227,15 @@
     <string name="upload_playlist_to_hungama_toast">Online τραγούδια θα συγχρονιστούν με Hungama</string>
     <string name="user_agreement">Συμφωνία χρήστη</string>
     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
+    <string name="user_playlist_plaza">Λίστες αναπαραγωγής</string>
     <string name="user_privacy_dialog_negative_text">Ακυρώσετε</string>
     <string name="user_privacy_dialog_positive_count_down_text">Ανακαλώ (%ss)</string>
     <string name="user_privacy_dialog_positive_text">Ανακαλώ</string>
     <string name="user_privacy_setting_group_title">Εξουσιοδότηση</string>
     <string name="user_privacy_setting_title">Εναλλαγή του διακόπτη για εκχώρηση ή ανάκληση της εξουσιοδότησής σας</string>
+    <string name="user_profile_created_playlist_title">Προσαρμοσμένες λίστες αναπαραγωγής</string>
+    <string name="user_profile_fans_count">Ακόλουθοι: %s</string>
+    <string name="user_profile_follow_count">Παρακολούθηση: %s</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="version_info">Έκδοση</string>
