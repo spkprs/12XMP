@@ -468,7 +468,6 @@
     <string name="doc_shortcut_long">Έγγραφα</string>
     <string name="doc_shortcut_short">Έγγραφα</string>
     <string name="document_blackwhite">Μ/Α</string>
-    <string name="document_blur_warn">Θαμπό κείμενο</string>
     <string name="document_blur_warn">Το κείμενο είναι θολό</string>
     <string name="document_mode_use_hint_text_body">Ευθυγράμμιση και βελτίωση\nσαρωμένων εγγράφων αυτόματα</string>
     <string name="document_mode_use_hint_text_title">Σάρωση εγγράφων</string>
