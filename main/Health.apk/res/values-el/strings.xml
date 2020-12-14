@@ -79,7 +79,7 @@
     <string name="allergic_drugs_hint">Εισάγετε φάρμακα-αντιδράσεις σε αυτά</string>
     <string name="allow_notice_periods">Διάστημα υπενθύμισης</string>
     <string name="altitude">Ύψος</string>
-    <string name="altitude_pressure_hint">*Υπολογιζόμενη από την πίεση του αέρα, υπάρχουν ορισμένα σφάλματα</string>
+    <string name="altitude_pressure_hint">*Το υψόμετρο που υπολογίζεται με βάση την ατμοσφαιρική πίεση είναι κατά προσέγγιση</string>
     <string name="altitude_range">Υψόμετρο</string>
     <string name="am">ΠΜ</string>
     <string name="app_name">Δέντρο παρακολούθησης</string>
@@ -1095,7 +1095,7 @@
     <string name="skipping_detection_no">"Δεν ήταν δυνατή η ανίχνευση της προπόνησής σας."</string>
     <string name="skipping_detection_no_hint">Αποφύγετε θορυβώδη μέρη και κρατήστε αυτήν τη συσκευή κοντά.</string>
     <string name="skipping_kcal">Θερμίδες</string>
-    <string name="skipping_pause">Παράλειψη παύσης</string>
+    <string name="skipping_pause">Παύση γυμναστικής</string>
     <string name="skipping_pause_tips">Σε παύση | Συνεχίστε την προπόνησή σας για παρακολούθηση αυτόματα</string>
     <string name="skipping_ready">Μπορείτε να ξεκινήσετε την προπόνησή σας τώρα</string>
     <string name="skipping_ready_hint_one">Κρατήστε αυτήν τη συσκευή σε απόσταση μικρότερη από 1 μέτρο.</string>
@@ -1104,11 +1104,11 @@
     <string name="skipping_reset_time">Ανάπαυση</string>
     <string name="skipping_start_counting">Έναρξη</string>
     <string name="skipping_time">Διάρκεια</string>
-    <string name="skipping_upload_dialog_agree_and_upload">Συμφωνώ και ανεβάζω</string>
-    <string name="skipping_upload_dialog_msg">Για να παρέχει μια πιο ακριβή εμπειρία μέτρησης παράλειψης, η Xiaomi Health θα αποστείλει το αρχείο καταγραφής του σχοινιού παράλειψης υπό συνθήκες %s για τη βελτιστοποίηση του αποτελέσματος αναγνώρισης παράλειψης της σύνδεσης σχοινιού. Για την προστασία των προσωπικών δεδομένων σας, η αποστολή και η αποθήκευση των αρχείων καταγραφής θα κρυπτογραφούνται αυστηρά.</string>
-    <string name="skipping_upload_dialog_reject_not_remind">Απόρριψη και χωρίς επανάληψη ερώτησης</string>
-    <string name="skipping_upload_dialog_title">Ανεβάστε σχοινί παρακάμπτοντας την εγγραφή για τη βελτιστοποίηση της αναγνώρισης</string>
-    <string name="skipping_upload_tips">Ανεβάστε αυτό το σχοινί παρακάμπτοντας την εγγραφή για να βοηθήσει στη βελτίωση του αποτελέσματος αναγνώρισης</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Ανέβασμα</string>
+    <string name="skipping_upload_dialog_msg">Όταν η συσκευή σας είναι συνδεδεμένη στο %s, μπορείτε να επιλέξετε να αποστείλετε τον ήχο που έχει καταγραφεί κατά τη διάρκεια της γυμναστικής προκειμένου να βελτιώσετε την ακρίβεια των στατιστικών της γυμναστικής. Για την προστασία των προσωπικών δεδομένων σας, τα αρχεία ήχου θα κρυπτογραφηθούν.</string>
+    <string name="skipping_upload_dialog_reject_not_remind">Όχι ευχαριστώ</string>
+    <string name="skipping_upload_dialog_title">Αποστολή ήχου</string>
+    <string name="skipping_upload_tips">Αποστολή ήχου για μεγαλύτερη ακρίβεια στατιστικών</string>
     <string name="sleep">Ύπνος</string>
     <string name="sleep_and_get_up_time">Χρονοδιάγραμμα ύπνου</string>
     <string name="sleep_auto_start_perm_grant">Χορηγήθηκαν άδειες</string>
@@ -1121,7 +1121,7 @@
     <string name="sleep_deep">Βαθύς ύπνος</string>
     <string name="sleep_deep_light_analysis">Ελαφρύς και βαθύς ύπνος</string>
     <string name="sleep_deep_light_close_tip">Η βαθιά ανάλυση ύπνου είναι ανενεργή</string>
-    <string name="sleep_deep_light_no_data">Τοποθετώντας την κινητή συσκευή σας δίπλα στο μαξιλάρι, τα δεδομένα για τον ύπνο θα είναι πιο ακριβή</string>
+    <string name="sleep_deep_light_no_data">"Δεν ήταν δυνατή η παρακολούθηση του ύπνου. Η τοποθέτηση της κινητής συσκευής σας δίπλα στο μαξιλάρι θα κάνει τα δεδομένα ύπνου πιο ακριβή."</string>
     <string name="sleep_deep_light_no_data_improvement">"Αδυναμία εντοπισμού φάσεων ύπνου. Βελτιώνουμε τους αλγόριθμους μας. Μείνετε συντονισμένοι!"</string>
     <string name="sleep_detection_enable">Ανάλυση κύκλου ύπνου</string>
     <string name="sleep_detection_feedback">Ανατροφοδότηση</string>
