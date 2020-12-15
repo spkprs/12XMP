@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_reference_line_text">Πίνακας ρύθμισης γραμμής αναφοράς</string>
+    <string name="camcorder_tip_current_max_video_duration">Μπορείτε να εγγράψετε έως %d λεπτά στην τρέχουσα ανάλυση</string>
+    <string name="center_mark">Σημάδι κέντρου</string>
+    <string name="pref_camera_reference_capture_title">Γραμμή αναφοράς</string>
+    <string name="pref_camera_reference_capture_title_golden_section">Χρυσή τομή</string>
+    <string name="pref_camera_reference_capture_title_jiugongge">Jiugongge</string>
+    <string name="pref_camera_reference_capture_title_left_golden_spiral">Αριστερή χρυσή σπείρα</string>
+    <string name="pref_camera_reference_capture_title_right_golden_spiral">Δεξιά χρυσή σπείρα</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>

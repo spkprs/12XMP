@@ -1679,8 +1679,8 @@
     <string name="quick_settings_cellular_detail_data_usage">Χρήση δεδομένων</string>
     <string name="quick_settings_cellular_detail_data_used">%s χρησιμοποιήθηκαν</string>
     <string name="quick_settings_cellular_detail_data_warning">%s προειδοποίηση</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">"Εάν απενεργοποιήσετε τα δεδομένα κινητής τηλεφωνίας, δεν θα μπορείτε να χρησιμοποιήσετε το Internet εκτός εάν συνδεθείτε στο WiFi. Θα μπορείτε ακόμα να στείλετε MMS. Να απενεργοποιηθούν τα δεδομένα κινητής οπωσδήποτε;"</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Η χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να προκαλέσει πρόσθετες χρεώσεις ανάλογα με το πρόγραμμα πληρωμής σας. Να επιτρέπεται η χρήση δεδομένων κινητής συσκευής οπωσδήποτε;</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Τα δεδομένα κινητής (WCDMA/LTE) θα απενεργοποιηθούν. Εάν δεν χρησιμοποιείτε WiFi, δεν θα μπορείτε πλέον να χρησιμοποιείτε εφαρμογές που απαιτούν σύνδεση δεδομένων. Η αποστολή ή η λήψη μηνυμάτων πολυμέσων θα περιοριστεί.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Τα δεδομένα κινητής θα ενεργοποιηθούν. Η σύνδεση σε δίκτυα κινητής μπορεί να έχει ως αποτέλεσμα πρόσθετες χρεώσεις ανάλογα με το πρόγραμμα σας.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Ακύρωση</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Αποδοχή</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Απενεργοποίηση</string>
