@@ -622,8 +622,8 @@
         <item quantity="one">Λήψη δωρεάν δοκιμαστικής έκδοσης %d ημ.</item>
     </plurals>
     <plurals name="notification_checker_installed_apk_text">
-        <item quantity="other">Διαγραφή %d πακέτων εγκατάστασης</item>
-        <item quantity="one">Διαγραφή %d πακέτου εγκατάστασης</item>
+        <item quantity="other">Διαγρ. %d πακ. εγκατ.</item>
+        <item quantity="one">Διαγρ. %d πακ. εγκατ.</item>
     </plurals>
     <plurals name="image_protect_del_tips">
         <item quantity="other">Οριστική διαγραφή %d εικόνων;</item>

@@ -1624,13 +1624,13 @@
     <string name="secret_album_card_description">Το καλύτερο μέρος για όλα τα μικρά μυστικά σας</string>
     <string name="secret_album_card_title">Δοκιμάστε το Ιδιωτικό άλμπουμ</string>
     <string name="secret_album_display_name">Ιδιωτικό άλμπουμ</string>
-    <string name="secret_album_password_first_use_msg">Θα χρησιμοποιηθεί κωδικός πρόσβασης προστασίας προσωπικών δεδομένων. Λειτουργεί για φωτογραφίες, σημειώσεις, κρυμμένους φακέλους κ.λπ.</string>
-    <string name="secret_album_password_first_use_title">Κωδικός πρόσβασης προστασίας προσωπικών δεδομένων</string>
+    <string name="secret_album_password_first_use_msg">Θα χρησιμοποιηθεί κωδικός πρόσβασης Απορρήτου. Λειτουργεί για φωτογραφίες, σημειώσεις, κρυμμένους φακέλους κ.λπ.</string>
+    <string name="secret_album_password_first_use_title">Κωδικός πρόσβασης Απορρήτου</string>
     <string name="secret_album_password_update_dialog_msg">Ο κωδικός προστασίας ιδιωτικού απορρήτου λειτουργεί για φωτογραφίες, σημειώσεις, κρυμμένους φακέλους κ.λπ.</string>
     <string name="secret_album_password_update_dialog_title">Αναβαθμίστε τον κωδικό πρόσβασης</string>
     <string name="secret_album_password_update_first_user_dialog_msg">Ο κωδικός προστασίας ιδιωτικού απορρήτου λειτουργεί για φωτογραφίες, σημειώσεις, κρυμμένους φακέλους κ.λπ.</string>
     <string name="secret_album_password_update_first_user_dialog_title">Αναβαθμίστε τον κωδικό πρόσβασης</string>
-    <string name="secret_album_set_pc_password_dialog_msg">Θα χρησιμοποιηθεί κωδικός πρόσβασης προστασίας προσωπικών δεδομένων. Λειτουργεί για φωτογραφίες, σημειώσεις, κρυμμένους φακέλους κ.λπ.</string>
+    <string name="secret_album_set_pc_password_dialog_msg">Θα χρησιμοποιηθεί κωδικός πρόσβασης Απορρήτου. Λειτουργεί για φωτογραφίες, σημειώσεις, κρυμμένους φακέλους κ.λπ.</string>
     <string name="secret_album_set_pc_password_dialog_ok">Ορίστε έναν νέο κωδικό πρόσβασης</string>
     <string name="secret_album_set_pc_password_dialog_title">Ορίστε κωδικό</string>
     <string name="secret_reason_space_full">Τα άλμπουμ Cloud είναι γεμάτα</string>
@@ -1647,6 +1647,7 @@
     <string name="select_item_face">Στις φωτογραφίες μπορεί να είναι \'%s\'</string>
     <string name="select_origin_tip">Αρχικό αρχείο (%s)</string>
     <string name="send_file_beautify_failed">Αδύνατη η Κοινή χρήση</string>
+    <string name="send_files_by">Αποστολή αρχείων μέσω</string>
     <string name="send_files_to">Αποστολή στοιχείων προς</string>
     <string name="send_heif_summary">Μετατροπή εικόνων HEIF σε JPEG για εξασφάλιση συμβατότητας</string>
     <string name="send_heif_title">Μετατροπή HEIF σε JPEG πριν την αποστολή</string>
@@ -1709,7 +1710,7 @@
     <string name="slim_cost_time_minute_and_second">%1$dλ %2$dδ απομένουν</string>
     <string name="slim_cost_time_second">%dδ απομένουν</string>
     <string name="slim_description_dialog_detail">Μειώστε το μέγεθος των τοπικών φωτογραφιών. Τα πρωτότυπα αρχεία θα αποθηκευτούν στο Xiaomi Cloud.</string>
-    <string name="slim_description_dialog_ok">Εντάξει</string>
+    <string name="slim_description_dialog_ok">Διακοπή</string>
     <string name="slim_description_dialog_slim_after">Μετά:  167KB</string>
     <string name="slim_description_dialog_slim_before">Πρίν:  3.07MB</string>
     <string name="slim_exit_dialog_positive">Διακοπή</string>
@@ -2151,8 +2152,8 @@
     <string name="vlog_float_view_ratio">Λόγος διαστάσεων</string>
     <string name="vlog_improt_encode_video_error">Παρουσιάστηκε σφάλμα κωδικοποίησης. Δοκιμάστε ξανά.</string>
     <string name="vlog_load_data_fail">Δεν ήταν δυνατή η φόρτωση δεδομένων</string>
-    <string name="vlog_mi_clip">Επεξ/στής βίντεο</string>
-    <string name="vlog_mi_clip_cn">Επεξ/στής βίντεο</string>
+    <string name="vlog_mi_clip">Επεξ/βίντεο</string>
+    <string name="vlog_mi_clip_cn">Επεξ/βίντεο</string>
     <string name="vlog_nav_title_audio">Ηχητικά</string>
     <string name="vlog_nav_title_caption">Λεζάντες</string>
     <string name="vlog_nav_title_clip">Επεξεργαστής</string>

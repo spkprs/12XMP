@@ -195,4 +195,16 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">Ακολουθείτε %d άτομα</item>
         <item quantity="one">Ακολουθείτε %d άτομο</item>
     </plurals>
+     <plurals name="Nsleep_quit_warning_custom">
+        <item quantity="other">Προσαρμογή:%d λεπ. απομένουν</item>
+        <item quantity="one">Προσαρμογή:%d λεπ. απομένει</item>
+     </plurals>
+     <plurals name="Nsleep_quit_warning_custom_second">
+        <item quantity="other">Προσαρμογή:%d δευτ.</item>
+        <item quantity="one">Προσαρμογή:%d δευτ.</item>
+     </plurals>
+     <plurals name="Nsleep_quit_warning">
+        <item quantity="other">%d λεπ. απομένουν</item>
+        <item quantity="one">%d λεπ. απομένει</item>
+     </plurals>
 </resources>
