@@ -153,8 +153,8 @@
     <item quantity="one">Η διαφήμιση θα ξεκινήσει %1$d δευτ</item>
   </plurals>
   <plurals name="vp_video_tencent_loading">
-    <item quantity="other">Ξεκινώντας να παίζετε %2$s σε %1$d δευτ</item>
-    <item quantity="one">Ξεκινώντας να παίζετε %2$s σε %1$d δεύτ</item>
+    <item quantity="other">Ξεκινήστε να παίζετε %2$s σε %1$d δευτ</item>
+    <item quantity="one">Ξεκινήστε να παίζετε %2$s σε %1$d δεύτ</item>
   </plurals>
   <plurals name="year_ago">
     <item quantity="other">%1$d χρόνια πριν</item>

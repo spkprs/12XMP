@@ -311,12 +311,12 @@
     <string name="high_quality_author">Κορυφαίο κανάλι</string>
     <string name="history_check_nothing">Επιλογή στοιχείων προς διαγραφή</string>
     <string name="history_early_play_video">Πρόσφατα</string>
-    <string name="history_empty1">Δεν υπάρχουν αντικείμενα εδώ ακόμα.</string>
+    <string name="history_empty1">Δεν υπάρχουν αρχεία εδώ ακόμα.</string>
     <string name="history_empty2">Έλεγχος νέων βίντεο σε απευθείας σύνδεση!</string>
     <string name="history_film">Βίντεο</string>
     <string name="history_filter_short_video">Απόκρυψη σύντομων βίντεο</string>
     <string name="history_finish_view">Τελειώσει</string>
-    <string name="history_left_time">%1$s υπόλοιπα</string>
+    <string name="history_left_time">%1$s υπόλοιπο</string>
     <string name="history_less_minute">Λιγότερο από ένα λεπτό</string>
     <string name="history_local">Τοπικά</string>
     <string name="history_local_record">Τοπικά</string>
@@ -360,7 +360,7 @@
     <string name="loading_video_netplay_label_v5">Φόρτωση ροής, παρακαλώ περιμένετε…</string>
     <string name="local_favorite_empty_login_title">Συνδεθείτε για να συγχρονίσετε τα αγαπημένα στις συσκευές</string>
     <string name="local_favorite_empty_sub_title">Τα βίντεο που προσθέτετε στα αγαπημένα θα εμφανίζονται εδώ.</string>
-    <string name="local_favorite_empty_title">Δεν υπάρχουν στοιχεία εδώ.</string>
+    <string name="local_favorite_empty_title">Δεν υπάρχουν αρχεία εδώ.</string>
     <string name="local_favorite_login_title">Συνδεθείτε για να συγχρονίσετε τα αγαπημένα στις συσκευές</string>
     <string name="local_media_empty_sub_title">Αποθηκεύστε και δείτε τα βίντεο εκτός σύνδεσης</string>
     <string name="local_player">τοπικός παίκτης</string>
@@ -395,9 +395,9 @@
     <string name="message_praise_item_praised">άρεσε το σχόλιό σας</string>
     <string name="message_setting">Διαχείριση μηνυμάτων</string>
     <string name="message_setting_clear_message_dialog_clear_all">Όλα τα μηνύματα</string>
-    <string name="message_setting_clear_message_dialog_clear_comment">Μηνύματα σχετικά με σχόλια</string>
+    <string name="message_setting_clear_message_dialog_clear_comment">Σχετικά με Σχόλια</string>
     <string name="message_setting_clear_message_dialog_clear_notification">Ειδοποιήσεις</string>
-    <string name="message_setting_clear_message_dialog_clear_prasie">Μηνύματα σχετικά που Αρέσουν</string>
+    <string name="message_setting_clear_message_dialog_clear_prasie">Σχετικά που Άρεσαν</string>
     <string name="message_setting_clear_message_dialog_title">Διαγραφή μηνυμάτων</string>
     <string name="message_setting_clear_message_title">Διαγραφή μηνυμάτων</string>
     <string name="message_setting_clear_message_toast_fail">Αδύνατη η διαγραφή μηνυμάτων</string>
@@ -741,8 +741,8 @@
     <string name="show_source_select_desc">Ενεργοποιήστε το για να επιλέξετε τον πάροχο περιεχομένου</string>
     <string name="single_cyclic">μονή κυκλική</string>
     <string name="single_pay">Αγοράστε μεμονωμένα αντικείμενα</string>
-    <string name="skip_play_time_summary">Παράκαμψη ανοίγματος και κλεισίματος πιστώσεων κατά την αναπαραγωγή βίντεο</string>
-    <string name="skip_play_time_title">Παράκαμψη πιστώσεων</string>
+    <string name="skip_play_time_summary">Παράκαμψη ευσήμων κατά την αναπαραγωγή βίντεο</string>
+    <string name="skip_play_time_title">Παράκαμψη πόντων</string>
     <string name="slid_fail_message">Δεν ήταν δυνατή η αποθήκευση βίντεο</string>
     <string name="slide_save_message">Δημιουργία βίντεο…</string>
     <string name="sliding_on_unlock">Σύρετε προς τα πάνω για να ξεκλειδώσετε</string>
@@ -777,7 +777,7 @@
     <string name="storage_internal_sdcard">Εσωτερική αποθήκευση</string>
     <string name="storage_remain">"Διαθέσιμα: "</string>
     <string name="storage_root_dir">Βρίσκεστε ήδη στον ριζικό φάκελο</string>
-    <string name="storage_total">"Συνολικός χώρος: "</string>
+    <string name="storage_total">"Συνολικά: "</string>
     <string name="storage_unused">Διαθέσιμα %1$s</string>
     <string name="storage_used">Χρησιμοποιείται %1$s</string>
     <string name="subscribe">Εγγραφείτε</string>
@@ -931,8 +931,8 @@
     <string name="v_cache_download_null">Δεν είναι δυνατή η λήψη αυτού του βίντεο λόγω περιορισμών πνευματικών δικαιωμάτων.</string>
     <string name="v_cache_downloaded">Αυτό το βίντεο αποθηκεύεται προσωρινά</string>
     <string name="v_cache_downloading">Προστέθηκε στις λήψεις</string>
-    <string name="v_cache_remainder">Διαθέσιμα</string>
-    <string name="v_cache_total">Σύνολο&lt;font color=#808080>%s&lt;/font></string>
+    <string name="v_cache_remainder">"&lt;font color=#808080>%s&lt;/font> Διαθέσιμα | "</string>
+    <string name="v_cache_total">" Σύνολο &lt;font color=#808080>%s&lt;/font>"</string>
     <string name="v_cancel">Ακύρωση</string>
     <string name="v_canceled">Ακυρώθηκε</string>
     <string name="v_category">Κατηγορίες</string>
@@ -1033,7 +1033,7 @@
     <string name="v_my_coin">Τα νομίσματα μου</string>
     <string name="v_my_favorite">Αγαπημένα</string>
     <string name="v_my_local_favorite">Τοπικά αγαπημένα</string>
-    <string name="v_my_offline">Τοπικά βίντεό μου</string>
+    <string name="v_my_offline">Ληφθέντα βίντεο</string>
     <string name="v_my_online_live">Οι συνεδρίες μου</string>
     <string name="v_my_wallet">Το πορτοφόλι μου</string>
     <string name="v_mycamera">Τα βίντεό μου</string>
@@ -1269,7 +1269,7 @@
     <string name="vp_no_longer_tips">Μην ξαναεμφανιστεί</string>
     <string name="vp_notify_apk_installed">Επιτυχής εγκατάσταση εφαρμογής</string>
     <string name="vp_offline">Αποσυνδεδεμένος</string>
-    <string name="vp_offline_space_total">Σύνολο&lt;font color=#808080>%s&lt;/font></string>
+    <string name="vp_offline_space_total">" Σύνολο &lt;font color=#808080>%s&lt;/font>"</string>
     <string name="vp_offline_status_done">Ολοκληρώθηκε</string>
     <string name="vp_offline_status_dowloading">Λήψη…</string>
     <string name="vp_offline_status_fail">Απέτυχε</string>
