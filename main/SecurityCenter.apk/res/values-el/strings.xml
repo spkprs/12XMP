@@ -2157,8 +2157,8 @@
     <string name="notification_qq_clean_hint">Τα απορρίμματα επιβραδύνουν τη συσκευή σας</string>
     <string name="notification_qq_clean_text">"Καθαρισμός απορριμμάτων του QQ"</string>
     <string name="notification_summary_cmcc_app_check">Πατήστε για να δείτε λεπτομέρειες.</string>
-    <string name="notification_uninstall_clean_hint">Καθαρισμός απορριμμάτων για την απελευθέρωση χώρου αποθήκευσης</string>
-    <string name="notification_uninstall_clean_text">Οι απεγκατεστημένες εφαρμογές αφήνουν απορρίμματα στη συσκευή σας</string>
+    <string name="notification_uninstall_clean_hint">Καθαρ. για ελευθ/ση χώρου αποθήκ.</string>
+    <string name="notification_uninstall_clean_text">Κατάλοιπα απεγκ/μένων εφαρ.</string>
     <string name="notification_wechat_clean_high_level_hint">Καθαρίστε τα απορρίμματα για να επιταχύνετε τη συσκευή σας</string>
     <string name="notification_wechat_clean_high_level_text_a">Το WeChat δημιούργησε πολλά αρχεία απορριμμάτων</string>
     <string name="notification_wechat_clean_high_level_text_b">"Τα απορρίμματα του WeChat επιβραδύνουν τη συσκευή σας"</string>

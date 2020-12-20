@@ -15,4 +15,19 @@
         <item>Ταπετσαρίες/Super Ταπετσαρίες</item>
         <item>Super Ταπετσαρίες;Ταπετσαρίες;Δυναμικές Ταπετσαρίες;3D Ταπετσαρίες</item>
     </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Γεωμετρία</item>
+        <item>Ταπετσαρία/Υπερταπετσαρίες/Γεωμετρία</item>
+        <item>Γεωμετρία;Αφηρημένη;Υπερταπετσαρία;Ταπετσαρία</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Όρος Σινιάνγκ</item>
+        <item>Ταπετσαρία/Υπέρταπετσαρίες/Όρος Siguniang</item>
+        <item>Γη;Βουνά;Υπερταπετσαρία;Ταπετσαρία</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Καιρός</item>
+        <item>Ταπετσαρία/Υπέρ ταπετσαρίες/Καιρός</item>
+        <item>Καιρός;Πληροφορίες καιρού;Υπερ-ταπετσαρία;Ταπετσαρία</item>
+    </string-array>
 </resources>
