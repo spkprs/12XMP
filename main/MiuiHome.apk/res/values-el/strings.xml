@@ -338,6 +338,7 @@
     <string name="key_shortcut_settings_title">Συντομεύσεις κουμπιών</string>
     <string name="launcher_global_search_mode_title">Καθολική αναζήτηση</string>
     <string name="launcher_global_search_provider_title">Παγκόσμιος πάροχος αναζήτησης</string>
+    <string name="launcher_icon_management">Διαχείριση συντομέυσεων Αρχικής Οθόνης</string>
     <string name="launcher_not_exist">Παρουσιάστηκε σφάλμα. Πηγαίνετε πίσω στην Αρχική οθόνη και δοκιμάστε ξανά.</string>
     <string name="launcher_pull_down_title">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
     <string name="launcher_search_bar_title">Γραμμή Αναζήτησης Αρχικής οθόνης</string>
@@ -535,6 +536,7 @@
     <string name="reset_fail">Αδύνατη η Επαναφορά</string>
     <string name="reset_scene_prompt">H διάταξη θα επανέλθει στην προεπιλογή</string>
     <string name="reset_title">Επαναφορά</string>
+    <string name="restore_icon_successful">Προστέθηκε επιτυχώς</string>
     <string name="screen_cells_config_title">Διάταξη Αρχικής οθόνης</string>
     <string name="screen_locked_toast">Η διάταξη Αρχική οθόνης είναι κλειδωμένη</string>
     <string name="screen_number">Η %d οθόνη</string>
