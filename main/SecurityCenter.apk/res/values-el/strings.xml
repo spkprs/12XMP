@@ -69,10 +69,11 @@
     <string name="ac_firstUseApplock_subTitle">Ενεργοποιήστε τον για επιπλέον προστασία</string>
     <string name="ac_firstUseApplock_title">Ορίστε κωδικό για επιλεγμένες εφαρμογές</string>
     <string name="ac_mask_all_apps">Απόκρυψη για όλες</string>
-    <string name="ac_notification_contentText">Αγγίξτε για ενεργοποίηση</string>
-    <string name="ac_notification_contentTitle">Προστατέψτε τις εφαρμογές με κωδικό</string>
-    <string name="ac_post_notification_contentText">Αποκτήστε προστασία σε επίπεδο συστήματος</string>
-    <string name="ac_post_notification_contentTitle">Ενεργοποιήστε το Κλείδωμα εφαρμογής</string>
+    <string name="ac_notification_action_text">Ενεργοποίηση</string>
+    <string name="ac_notification_contentText">Απόκρυψη ευαίσθητων πληροφοριών χρησιμοποιώντας έναν κωδικό πρόσβασης</string>
+    <string name="ac_notification_contentTitle">Δοκιμάστε το Κλείδωμα εφαρμογής!</string>
+    <string name="ac_post_notification_contentText">Μπορεί να προστατεύσει κάθε είδους ευαίσθητες εφαρμογές</string>
+    <string name="ac_post_notification_contentTitle">Προστασία εφαρμογών με Κλείδωμα εφαρμογών</string>
     <string name="ac_pre_notification_contentText">Προστατεύστε τις προσωπικές σας πληροφορίες</string>
     <string name="ac_pre_notification_contentTitle">Δοκιμάστε το κλείδωμα εφαρμογής</string>
     <string name="ac_recommend_guide_dialog_app_content">Χρησιμοποιήστε το Κλείδωμα εφαρμογής με αυτήν την εφαρμογή για να προστατεύσετε τα προσωπικά σας στοιχεία και να αποφύγετε τις διαρροές δεδομένων.</string>
@@ -142,7 +143,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Ενημερώθηκε χθες στις %s</string>
     <string name="adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
     <string name="after_the_lock_screen">Η εφαρμογή κλειδώνει μαζί με την οθόνη. Μπορείτε να το αλλάξετε αυτό στις ρυθμίσεις του Κλειδώματος Εφαρμογής.</string>
-    <string name="ai_allow_all">Ειδοποίηση όταν χρησιμοποιείται το δικαίωμα για όλους</string>
+    <string name="ai_allow_all">Αποφασίστε για μένα σε όλες τις περιπτώσεις</string>
     <string name="alarm_headsup_bottom">χάρι κόκκινο φάκελο αρπαγή τηλέφωνο είναι γρήγορη</string>
     <string name="alarm_lock_screen_summary">...</string>
     <string name="alarm_lockscreen_btn">έναρξη πιάσε ένα κόκκινο φάκελο</string>
@@ -204,6 +205,10 @@
     <string name="app_behavior_about_content_no_link">"\"Το MIUI μπορεί να εμφανίσει πότε οι εφαρμογές εκκίνησαν άλλες εφαρμογές, αυτόματα, χρησιμοποίησαν Άδειες, και εκτέλεσαν ευαίσθητες ενέργειες. Λόγω προβλημάτων συμβατότητας εκδόσεων Android, ορισμένες από αυτές τις εγγραφές ενδέχεται να μην είναι ακριβείς. Εάν βρείτε μια εγγραφή που δεν είναι ακριβής, αναφέρετε την σε εμάς μέσω της εφαρμογής \"Υπηρεσίες &amp; Σχόλια \". "</string>
     <string name="app_behavior_about_negative">Αναφορά ανακριβειών</string>
     <string name="app_behavior_about_positive">Κατανοητό</string>
+    <string name="app_behavior_access_gallery">%1s πρόσβαση στη Συλλογή</string>
+    <string name="app_behavior_access_gallery_single">Αυτή η εφαρμογή απέκτησε πρόσβαση στη Συλλογή</string>
+    <string name="app_behavior_access_sociality">%1s πρόσβαση σε μηνύματα σε εφαρμογές κοινωνικής δικτύωσης</string>
+    <string name="app_behavior_access_sociality_single">Αυτή η εφαρμογή απέκτησε πρόσβαση σε μηνύματα των εφαρμογών κοινωνικής δικτύωσης</string>
     <string name="app_behavior_allowed">Αποδοχή</string>
     <string name="app_behavior_audio">%1s ηχογράφησε</string>
     <string name="app_behavior_audio_bg">%1s ηχογράφησε στο παρασκήνιο</string>
@@ -237,6 +242,8 @@
     <string name="app_behavior_contacts_bg">%1s πρόσβαση στις επαφές στο παρασκήνιο</string>
     <string name="app_behavior_contacts_bg_single">Είχε πρόσβαση στις επαφές σας στο παρασκήνιο</string>
     <string name="app_behavior_contacts_single">Είχε πρόσβαση στις επαφές σας</string>
+    <string name="app_behavior_delete_pic">%1s διαγραμμένα στοιχεία από τη Συλλογή</string>
+    <string name="app_behavior_delete_pic_single">Αυτή η εφαρμογή διέγραψε στοιχεία από τη Συλλογή</string>
     <string name="app_behavior_denied">Απόρριψη</string>
     <string name="app_behavior_desc_allow_once">Επιτράπηκε στις %1$s</string>
     <string name="app_behavior_desc_deny_once">Απορρίφθηκε στις %1$s</string>
@@ -445,7 +452,7 @@
     <string name="app_manager_system_mobile_disable">Απενεργοποίηση δεδομένων</string>
     <string name="app_manager_thumbnail_blur_summary">Θολή προεπισκόπηση εφαρμογών στα Πρόσφατα</string>
     <string name="app_manager_thumbnail_blur_title">Θολή προεπισκόπηση εφαρμογών</string>
-    <string name="app_manager_title">Διαχείριση εφαρμογών</string>
+    <string name="app_manager_title">Διαχείριση εφαρμ</string>
     <string name="app_manager_total_size">Σύνολο</string>
     <string name="app_manager_uninstall">Απεγκατάσταση</string>
     <string name="app_manager_uninstall_protected_dlg_msg">Η απεγκατάσταση εφαρμογών συστήματος ενδέχεται να προκαλέσει την δυσλειτουργία ορισμένων στοιχείων του MIUI. Απεγκατάσταση οπωσδήποτε;</string>
@@ -875,8 +882,8 @@
     <string name="cmcc_app_check_dialog_positive">Επανεκκίνηση τώρα</string>
     <string name="cmcc_app_check_dialog_title">Το σύστημα επιδιορθώθηκε</string>
     <string name="comprehensive_protection_measures">Ολοκληρωμένη προστασία</string>
-    <string name="confirm_allow_all_permission">Να επιτρέπεται σε όλες τις εφαρμογές αυτή η δυνατότητα;</string>
     <string name="confirmSecondSpacePassword">Επιβεβαίωση κωδικού Δεύτερου προφίλ</string>
+    <string name="confirm_allow_all_permission">Να επιτρέπεται σε όλες τις εφαρμογές αυτή η δυνατότητα;</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Προσθήκη λογαριασμού Mi…</string>
     <string name="confirm_fingerprint_msg">Τοποθετήστε το δάχτυλό σας στον αναγνώστη δακτυλικών αποτυπωμάτων</string>
     <string name="confirm_leave">Όχι, ευχαριστώ</string>
@@ -1119,7 +1126,7 @@
     <string name="ew_emergency_delete_all">Διαγράψτε όλες τις ιατρικές πληροφορίες</string>
     <string name="ew_emergency_delete_text">Διαγράψτε όλες τις ιατρικές πληροφορίες τώρα;</string>
     <string name="ew_emergency_delete_title">Διαγράφω</string>
-    <string name="ew_emergency_detail_info">Λεπτομέριες</string>
+    <string name="ew_emergency_detail_info">Λεπτομέρειες</string>
     <string name="ew_emergency_edit_text">Επεξεργασία</string>
     <string name="ew_emergency_edit_title">Ιατρική κάρτα</string>
     <string name="ew_emergency_idcard">Ταυτότητα</string>
@@ -1286,6 +1293,7 @@
     <string name="face_unlock_verity_dialog_summary">Επαλήθευση δεδομένων προσώπου</string>
     <string name="face_unlock_verity_dialog_title_failed">Αδυναμία αναγνώρισης</string>
     <string name="face_unlock_verity_dialog_title_succeed">Επαληθεύτηκε με επιτυχία</string>
+    <string name="file_confirm_start_activity">"%s δεν επιτρέπεται η πρόσβαση στη συλλογή και τις εφαρμογές μέσων κοινωνικής δικτύωσης. Αυτή η εφαρμογή θέλει να έχει πρόσβαση σε αρχεία που είναι αποθηκευμένα σε αυτήν τη συσκευή για κοινή χρήση στοιχείων. Να επιτραπεί;"</string>
     <string name="finger_remind_message">Το Κλείδωμα Εφαρμογής υποστηρίζει ξεκλείδωμα με δακτυλικό αποτύπωμα. Προσθήκη δακτυλικού αποτυπώματος;</string>
     <string name="fingerprint_identify_msg">Σάρωση δακτυλικού αποτυπώματος…</string>
     <string name="fingerprint_not_identified_msg">Για να ξεκλειδώσετε τη συσκευή σας, εισάγετε τον κωδικό σας.</string>
@@ -1419,7 +1427,7 @@
     <string name="fw_blocked_join">και</string>
     <string name="fw_oversea">Αποκλεισμός κλήσεων από το εξωτερικό</string>
     <string name="fw_oversea_content">Αποκλεισμός εισερχόμενων κλήσεων απο άγνωστους αριθμούς</string>
-    <string name="gallery_confirm_start_activity">Η %s προσπαθεί να αποκτήσει πρόσβαση σε εικόνες μέσω άλλης εφαρμογής. Να επιτραπεί;</string>
+    <string name="gallery_confirm_start_activity">"Στην %s δεν επιτρέπεται η πρόσβαση στις Συλλογή σας και στις εφαρμογές κοινωνικών μέσων. Αυτή η εφαρμογή θέλει να έχει πρόσβαση σε εικόνες που είναι αποθηκευμένες σε αυτήν τη συσκευή για κοινή χρήση στοιχείων. Επιτρέπετε?"</string>
     <string name="game_ad_recommendation">Όλοι παίζουν</string>
     <string name="game_anti_disturb_msg">Παιχνίδι &amp; Μην Ενοχλείτε</string>
     <string name="game_booster">Game Turbo</string>
@@ -1516,6 +1524,11 @@
     <string name="gb_description_image_button_answer">Απάντηση</string>
     <string name="gb_description_image_button_reject">Απόρριψη</string>
     <string name="gb_description_image_button_video_answer">Κλήση Βίντεο</string>
+    <string name="gb_dialog_game_uninstall_deleting">Απεγκατάσταση…</string>
+    <string name="gb_dialog_game_uninstall_loading">Φόρτωση παιχνιδιών…</string>
+    <string name="gb_dialog_game_uninstall_tips_message">Όλα τα δεδομένα της εφαρμογής θα διαγραφούν.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">Όλα τα δεδομένα εφαρμογών και οι σχετικές διπλές εφαρμογές θα διαγραφούν.</string>
+    <string name="gb_dialog_game_uninstall_tips_title">Απεγκατάσταση %s</string>
     <string name="gb_dialog_record_way_ai">Οι εγγραφές AI αποθηκεύονται στο gamebox και αποθηκεύονται εκεί για 7 ημέρες.</string>
     <string name="gb_dialog_record_way_finish">Ολοκληρώθηκε</string>
     <string name="gb_dialog_record_way_manual">Καταγραφή βίντεο έως 30 δευτ. με μη αυτόματο τρόπο</string>
@@ -2026,6 +2039,20 @@
     <string name="miui_master_clear_prompt_battery_low">"Δεν είναι δυνατή η εκτέλεση επαναφοράς εργοστασιακών ρυθμίσεων όταν έχει απομείνει λιγότερο από %1$s μπαταρίας. Φορτίστε τη συσκευή σας πριν συνεχίσετε."</string>
     <string name="miui_optimization_close_final_tip">Να απενεργοποιήσετε τη βελτιστοποίηση MIUI;</string>
     <string name="miui_optimization_close_title">Αυτή η δυνατότητα προορίζεται για προγραμματιστές και ενδέχεται να μην είναι κατάλληλη για τους γενικούς χρήστες. Η απενεργοποίηση της βελτιστοποίησης MIUI ενδέχεται να επιφέρει τις ακόλουθες αλλαγές:</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Περισσότερα</string>
+    <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
+    <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
+    <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
+    <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -2118,6 +2145,8 @@
     <string name="notification_abnormal_consume_app_title">%s αδειάζει την μπαταρία</string>
     <string name="notification_abnormal_consume_cpu">CPU κατάχρηση πόρων στο παρασκήνιο</string>
     <string name="notification_abnormal_consume_wakelock">Το σύστημα παραμένει ενεργό στο παρασκήνιο</string>
+    <string name="notification_antivirus_button_text">Σάρωση</string>
+    <string name="notification_antivirus_message">Άμεση σάρωση για την εξουδετέρωση των κινδύνων</string>
     <string name="notification_battery_consume_abnormal_title">Η μπαταρία αδειάζει πολύ γρήγορα</string>
     <string name="notification_battery_scan_consume_abnormal_summary">Πατήστε για να διορθώσετε το πρόβλημα</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s αδειάζει μπαταρία</string>
@@ -2138,6 +2167,15 @@
     <string name="notification_garbage_clean_size_new">Αποδέσμευση %s χώρου αποθήκευσης</string>
     <string name="notification_garbage_cleanup_summary">Εκκαθ. (%s) για επιτάχυνση συσκευής</string>
     <string name="notification_garbage_cleanup_title">Εκκαθάριση άχρηστων αρχείων</string>
+    <string name="notification_link_cleaner_2001">Εκκαθάριση %s απορριμμάτων τώρα</string>
+    <string name="notification_link_cleaner_2002">Καθαρίστε τα απορρίμματα για να επιταχύνετε τη συσκευή σας</string>
+    <string name="notification_link_cleaner_2003">Απομένουν λιγότερα από %s χώρου αποθήκευσης. Ελευθερώστε χώρο τώρα.</string>
+    <string name="notification_link_cleaner_2004">Απομένουν μόνο %s χώρου αποθήκευσης. Ελευθερώστε χώρο τώρα.</string>
+    <string name="notification_link_cleaner_2005">Εκκαθαρίστε τη μνήμη για να επιταχύνετε τη συσκευή σας</string>
+    <string name="notification_link_cleaner_3001">Εκκαθαρίστε το WeChat για να επιταχύνετε τη συσκευή σας</string>
+    <string name="notification_link_cleaner_3002">Εκκαθάριση απορριμμάτων WeChat</string>
+    <string name="notification_link_cleaner_4000">Εκκαθάριση  απορριμμάτων QQ</string>
+    <string name="notification_link_optimizemanage_1011">%d%% της μνήμης είναι κατειλημμένη. Εκκαθάριση τώρα.</string>
     <string name="notification_low_battery_action_btn">Ενεργοποίηση</string>
     <string name="notification_low_battery_need_charge">Φορτίστε τη συσκευή σας</string>
     <string name="notification_low_battery_open_save_mode">Ενεργοποίηση εξοικον. μπαταρίας</string>
@@ -2150,8 +2188,11 @@
     <string name="notification_low_storage_size_1p5_gb_hint">Καθαρίστε τα απορρίμματα για να επιταχύνετε τη συσκευή σας</string>
     <string name="notification_mask_summary">Απόκρυψη περιεχομένου ειδοποίησης σε προστατευμένες εφαρμογές.</string>
     <string name="notification_mask_title">Απόκρυψη περιεχομένου ειδοποιήσεων</string>
-    <string name="notification_masked_item">Πώς αποκρύπτω το περιεχόμενο;</string>
-    <string name="notification_masked_subtitle">Χρήση απόκρ περιεχ ειδοπ επιλ εφαρμ</string>
+    <string name="notification_masked_item">Θέλετε να αποκρύψετε περιεχόμενο ειδοποίησης;</string>
+    <string name="notification_masked_subtitle">Το \"Κλείδωμα εφαρμογών\" μπορεί να κάνει τη δουλειά</string>
+    <string name="notification_optimize_button_text">Εκκαθάριση</string>
+    <string name="notification_optimize_message">Καθαρισμός μνήμης για ενίσχυση της ταχύτητας</string>
+    <string name="notification_optimize_title">%d%% μνήμης χρησιμοποιείται</string>
     <string name="notification_power_consume_issue_summary">Υψηλή κατανάλωση ενέργειας</string>
     <string name="notification_power_consume_suggest_summary">Διόρθωση προβλημάτων εξοικ. μπαταρίας</string>
     <string name="notification_qq_clean_hint">Τα απορρίμματα επιβραδύνουν τη συσκευή σας</string>
@@ -2305,7 +2346,7 @@
     <string name="pc_activity_title">Βελτιστοποίηση μπαταρίας</string>
     <string name="pc_battery_detail_curve_reference_now">Τώρα</string>
     <string name="pc_battery_detail_device_item_title">Στατιστικά χρήσης μπαταρίας</string>
-    <string name="pc_battery_history_battery_detail_menu_item">Λεπτομέριες</string>
+    <string name="pc_battery_history_battery_detail_menu_item">Λεπτομέρειες</string>
     <string name="pc_battery_history_battery_software_menu_item">Λογισμικό</string>
     <string name="pc_battery_history_consume_all_menu_item">Όλα</string>
     <string name="pc_battery_history_consume_hardware_menu_item">Υλικό</string>
@@ -2365,7 +2406,7 @@
     <string name="permgroupdesc_sms">Ανάγνωση ή αποστολή SMS</string>
     <string name="permgroupdesc_storage">Πρόσβαση σε φωτογραφίες ή αρχεία</string>
     <string name="permission_action_accept">Αποδοχή</string>
-    <string name="permission_action_ai_prompt">Ειδοποίηση όταν χρησιμοποιείται άδεια</string>
+    <string name="permission_action_ai_prompt">Αποφασίστε για μένα</string>
     <string name="permission_action_always">Πάντα αποδοχή</string>
     <string name="permission_action_desc">Παραχώρηση Αδειών, αλλά επιστροφή κενών μηνυμάτων στην εφαρμογή για προστασία του απορρήτου</string>
     <string name="permission_action_desc_always">Αυτό το δικαίωμα μπορεί να χρησιμοποιηθεί ανά πάσα στιγμή</string>
@@ -2888,11 +2929,11 @@
     <string name="privacy_dialog_open">Ενεργοποίηση</string>
     <string name="privacy_dialog_revoking">Ανάκληση συγκατάθεσης…</string>
     <string name="privacy_dialog_title">Όροι και προϋποθέσεις</string>
-    <string name="privacy_empty_call">Δεν είχε πρόσβαση στο ιστορικό κλήσεων σήμερα</string>
-    <string name="privacy_empty_contact">Δεν είχε πρόσβαση σε επαφές σήμερα</string>
-    <string name="privacy_empty_location">Δεν είχε πρόσβαση στην τοποθεσία σήμερα</string>
-    <string name="privacy_empty_record">Δεν ηχογραφούσε ήχο σήμερα</string>
-    <string name="privacy_empty_storage">Δεν είχε πρόσβαση στο χώρο αποθήκευσης σήμερα</string>
+    <string name="privacy_empty_call">Καμιά πρόσβαση στο ιστορικό κλήσεων σήμερα</string>
+    <string name="privacy_empty_contact">Καμιά πρόσβαση σε επαφές σήμερα</string>
+    <string name="privacy_empty_location">Καμιά πρόσβαση στην τοποθεσία σήμερα</string>
+    <string name="privacy_empty_record">Καμιά πρόσβαση ηχογράφηση ήχου σήμερα</string>
+    <string name="privacy_empty_storage">Καμιά πρόσβαση στο χώρο αποθήκευσης σήμερα</string>
     <string name="privacy_guide_permission_guide_text">Μπορείτε να λαμβάνετε μια ειδοποίηση στη γραμμή κατάστασης όταν οι εφαρμογές έχουν πρόσβαση στην τοποθεσία σας, καταγράφουν ήχο ή λήψη φωτογραφιών.</string>
     <string name="privacy_guide_permission_use_text">Το MIUI θα μετρήσει και θα εμφανίσει τον αριθμό που μια εφαρμογή χρησιμοποιεί ευαίσθητες Άδειες, όπως τοποθεσία, επαφή, ιστορικό κλήσεων και πρόσβαση αποθήκευσης, καθώς και εγγραφή ήχου. Μπορείτε να μάθετε πόσες φορές κάθε εφαρμογή χρησιμοποιεί αυτές τις Άδειες και να καθορίσει εάν πρέπει να προσαρμόσετε τις ρυθμίσεις άδειας.</string>
     <string name="privacy_informed_title">Στατιστικά</string>
@@ -3060,13 +3101,16 @@
     <string name="reach_daily_limit_value_title">Καθορίστηκε ημερήσιο όριο δεδομένων</string>
     <string name="read_all_sms">Σήμανση όλων ως αναγνωσμένα</string>
     <string name="read_and_write_clipboard">Πρόσβαση και αποθήκευση στοιχείων στο πρόχειρο</string>
+    <string name="read_clipboard_ai_action_desc">Λήψη ειδοποιήσεων κάθε φορά που επιτρέπεται ή περιορίζεται η πρόσβαση</string>
     <string name="read_clipboard_ai_close_no">Όχι τώρα</string>
     <string name="read_clipboard_ai_close_tip">"Δεν θα λαμβάνετε πλέον ειδοποιήσεις όταν οι εφαρμογές αποκτούν πρόσβαση στο πρόχειρο. Αντιθέτως, θα τους επιτραπεί να χρησιμοποιήσουν αυτό το δικαίωμα μόνο όσο χρησιμοποιείτε την εφαρμογή. Ρύθμιση δικαιωμάτων;"</string>
     <string name="read_clipboard_ai_close_yes">Ρύθμιση</string>
-    <string name="read_clipboard_op_content">"Αντί να παραχωρείτε την άδεια μόνο όταν χρησιμοποιείτε την εφαρμογή, θα λαμβάνετε ειδοποίηση κάθε φορά που οι εφαρμογές αποκτούν πρόσβαση στο πρόχειρό σας."</string>
+    <string name="read_clipboard_op_content">Λήψη ειδοποιήσεων κάθε φορά που επιτρέπεται ή περιορίζεται η πρόσβαση</string>
     <string name="read_clipboard_op_title">Ειδοποίηση όταν οι εφαρμογές αποκτούν πρόσβαση σε στοιχεία στο πρόχειρο</string>
     <string name="read_clipboard_tip_content">Αυτή η άδεια επιτρέπει στις εφαρμογές να διαβάζουν οποιοδήποτε περιεχόμενο αντιγράψετε, το οποίο μπορεί να περιλαμβάνει ιδιωτικές πληροφορίες (π.χ. λεπτομέρειες λογαριασμών, αριθμούς τραπεζικών καρτών και κωδικούς πρόσβασης).</string>
     <string name="read_clipboard_tip_title">Πρόσβαση σε στοιχεία στο πρόχειρο</string>
+    <string name="real_location_off">Η προσέγγιση θέσης είναι ενεργή</string>
+    <string name="real_location_on">Η προσέγγιση θέσης είναι ανενεργή</string>
     <string name="receive_now">Λήψη</string>
     <string name="recently_reject_message">Απορρίφθηκε η εγκατάσταση του %1$s και %2$d άλλων εφαρμογών</string>
     <string name="recently_reject_message_one">Απορρίφθηκαν %1$s αιτήσεις εγκατάστασης</string>
@@ -3996,6 +4040,9 @@
     <string name="vb_video_effects_settings_liquid">Σαφήνεια</string>
     <string name="vb_video_effects_settings_stereo">Ένταση</string>
     <string name="vb_video_effects_srs_premium_sound">Ήχος</string>
+    <string name="version_can_update">Μπορείτε να ενημερώσετε το %s στην πιο πρόσφατη έκδοση Beta για να αποκτήσετε πρόσβαση πρώτοι σε νέες δυνατότητες.</string>
+    <string name="version_check_update">Έλεγχος για ενημερώσεις</string>
+    <string name="version_update_title">Ενημέρωση %s</string>
     <string name="video_repeat">Παίξτε ξανά</string>
     <string name="videobox_hangup_tips_content">Αυτή η δυνατότητα επιτρέπει στην εφαρμογή να εκτελείται στο παρασκήνιο όταν η οθόνη είναι απενεργοποιημένη. Να ενεργοποιηθεί τώρα;</string>
     <string name="videobox_hangup_tips_title">Προσοχή</string>
@@ -4163,5 +4210,11 @@
     <string name="xunyou_server_expired">Χωρίς</string>
     <string name="yuan">CNY</string>
     <string name="zhifubao_not_found">H έκδοση της εφαρμογής σας είναι πολύ παλιά ή δεν έχει εγκατασταθεί</string>
+    <string name="ew_guide_statement_text_new">"Αυτή η αποποίηση ευθυνών ισχύει για όλους τους χρήστες (στο εξής \"εσείς\") που ενεργοποιούν τη δυνατότητα προειδοποίησης σεισμού. Συμφωνώντας με αυτή την αποποίηση ευθυνών, συνάπτετε μια νομικά δεσμευτική σύμβαση με την Xiaomi Inc. και τους συνεργάτες της (εφεξής καλούμενη \"Xiaomi\"). Αναγνωρίζετε ότι έχετε διαβάσει όλα τα περιεχόμενα αυτής της αποποίησης ευθυνών και κατανοείτε πλήρως και συμφωνείτε με όλους τους όρους και τις προϋποθέσεις αυτής της αποποίησης ευθυνών. διαφορετικά, θα πρέπει να απενεργοποιήσετε αμέσως τη λειτουργία προειδοποίησης σεισμού.
+Σύμφωνα με τους σχετικούς νόμους και κανονισμούς, η Xiaomi θα σας παρέχει υπηρεσίες έγκαιρης προειδοποίησης με βάση το πεδίο εφαρμογής της περιοχής έγκαιρης προειδοποίησης για τον σεισμό που καλύπτεται από τους σχετικούς οργανισμούς. Δηλαδή, όταν ενεργοποιήσετε τη λειτουργία προειδοποίησης σεισμού, θα μπορείτε να λαμβάνετε προειδοποιήσεις σεισμού που εκδίδονται για συγκεκριμένες περιοχές. Μπορείτε να βρείτε συγκεκριμένες περιοχές κάλυψης στις Ρυθμίσεις.
+Αυτή η δυνατότητα σας παρέχει λειτουργικότητα προειδοποίησης σεισμού. Πρέπει να κατανοήσετε ότι οι πληροφορίες προειδοποίησης για τον σεισμό παρέχονται από το Ινστιτούτο Υψηλής Τεχνολογίας Μείωσης Καταστροφών του Chengdu. Η Xiaomi δεν εποπτεύει αυτόν τον οργανισμό και δεν έχει κανέναν έλεγχο πάνω του.
+Η Xiaomi δεν υπόσχεται ή δεν εγγυάται την ακρίβεια, την εγκυρότητα και την εγκυρότητα των πληροφοριών προειδοποίησης σεισμού, ούτε εγγυάται ότι η υπηρεσία προειδοποίησης σεισμού θα καλύψει όλες τις ανάγκες σας.
+Η λήψη πληροφοριών προειδοποίησης σεισμού απαιτεί να διατηρήσετε τη συσκευή σας συνδεδεμένη στο δίκτυο κινητής τηλεφωνίας. Βλάβες γραμμής επικοινωνίας τρίτων μερών, τεχνικά προβλήματα, βλάβες δικτύου ή τερματικού εξοπλισμού, αστάθεια συστήματος και άλλα διάφορα περιστατικά ανωτέρας βίας μπορεί να σας αποτρέψουν από τη λήψη πληροφοριών προειδοποίησης σεισμού. Η Xiaomi δεν φέρει καμία ευθύνη για τυχόν ζημίες που προκαλούνται από τέτοια γεγονότα.
+Πρέπει να κατανοήσετε ότι αυτή η δυνατότητα παρέχεται μόνο για την αναφορά σας. Η προειδοποίηση που λαμβάνετε μπορεί να έρθει λίγα δευτερόλεπτα πριν την έναρξη ενός σεισμού. Είστε αποκλειστικά υπεύθυνοι για τους κινδύνους και τις συνέπειες των ενεργειών που εκτελείτε με βάση τις πληροφορίες που παρέχονται από αυτό το χαρακτηριστικό."</string>
 </resources>
 
