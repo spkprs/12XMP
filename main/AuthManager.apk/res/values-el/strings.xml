@@ -121,7 +121,9 @@
     <string name="app_name">Άδειες</string>
     <string name="background_location_access_reminder_notification_content">Αυτή η εφαρμογή μπορεί να έχει πάντα πρόσβαση στην τοποθεσία σας. Πατήστε για αλλαγή.</string>
     <string name="background_location_access_reminder_notification_title">%s χρησιμοποίησαν την τοποθεσία σας</string>
+    <string name="blur_location_is_on_tip">%1$s έχει ξεκινήσει την κατά προσέγγιση υπηρεσία τοποθεσίας. Θέλετε να την διατηρήσετε;</string>
     <string name="blur_location_now_tip">Η κατά προσέγγιση τοποθεσία είναι ενεργή</string>
+    <string name="blur_location_title">Κατά προσέγγιση τοποθεσία</string>
     <string name="clipboard_ai_allow_once">Επιτράπηκε %1$s η αυτόματη πρόσβαση σε στοιχεία στο πρόχειρο</string>
     <string name="clipboard_data">"Περιεχόμενο: "</string>
     <string name="clipboard_data_request">%1$s προσπαθεί να αποκτήσει πρόσβαση σε στοιχεία στο πρόχειρο</string>
@@ -137,6 +139,9 @@
     <string name="forbid_notice_me">Διακοπή ειδοποίησης</string>
     <string name="go_behavior_record">Ιστορικό συμπεριφοράς εφαρμογής</string>
     <string name="go_perm_manager">Διαχείριση δικαιωμάτων</string>
+    <string name="go_setting">Ρυθμίσεις</string>
+    <string name="gold_master_dialog_reject">Απόρριψη (%d)</string>
+    <string name="gold_master_dialog_title">%1$s θέλει να διαβάσει το πρόχειρο</string>
     <string name="grant_dialog_button_allow">Αποδοχή</string>
     <string name="grant_dialog_button_allow_always">Αποδοχή πάντα</string>
     <string name="grant_dialog_button_allow_background">Αποδοχή πάντα</string>
@@ -149,9 +154,13 @@
     <string name="grant_dialog_storage_category_title">Αυτή η εφαρμογή απαιτεί δικαιώματα για πρόσβαση στη συλλογή και τα μηνύματα στις εφαρμογές μέσων κοινωνικής δικτύωσης</string>
     <string name="grant_dialog_storage_gallery_title">Συλλογή</string>
     <string name="grant_dialog_storage_sociality_title">Μηνύματα στις εφαρμογές μέσων κοινωνικής δικτύωσης</string>
+    <string name="keep_blur_location">Συνέχεια</string>
     <string name="keep_notice_me">Συνέχιση ειδοποίησης</string>
     <string name="location_settings">Υπηρεσίας τοποθεσίας</string>
     <string name="location_warning">Ο %1$s είναι ο πάροχος των υπηρεσιών τοποθεσίας για τη συγκεκριμένη συσκευή. Η πρόσβαση στην τοποθεσία μπορεί να τροποποιηθεί από τις ρυθμίσεις της τοποθεσίας.</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="never_ask_again">Να μην ερωτηθώ ξανά μετά τον περιορισμό</string>
     <string name="no">Όχι</string>
     <string name="notification_click_tip">Πατήστε για λεπτομέρειες</string>
@@ -195,10 +204,13 @@
     <string name="permission_warning_template">Επιτρέπετε στην %1$s να %2$s;</string>
     <string name="permission_warning_template_ask">Επιτρέπετε στην %1$s τις ακόλουθες Άδειες;</string>
     <string name="permisson_reject_notice_toast_text2">δεν έχει δικαίωμα να %1$s.</string>
+    <string name="real_location_off">Η κατά προσέγγιση τοποθεσία είναι ενεργή</string>
+    <string name="real_location_on">Η κατά προσέγγιση τοποθεσία είναι ανεργή</string>
     <string name="screen_overlay_button">Άνοιγμα ρυθμίσεων</string>
     <string name="screen_overlay_message">Για να αλλάξετε αυτή τη ρύθμιση της άδειας, πρέπει πρώτα να απενεργοποιήσετε την επικάλυψη της οθόνης από το Ρυθμίσεις&gt;Εφαρμογές</string>
     <string name="screen_overlay_title">Ανιχνεύτηκε επικάλυψη οθόνης</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_blur_location">Απενεργοποίηση</string>
     <string name="storage_policy_notify_both_title">"%1$s δεν επιτρέπεται η πρόσβαση στη συλλογή και τα μηνύματα στις εφαρμογές μέσων κοινωνικής δικτύωσης"</string>
     <string name="storage_policy_notify_content">Πατήστε για να προσαρμόσετε τα δικαιώματα</string>
     <string name="storage_policy_notify_gallery_title">"%1$s δεν επιτρέπεται η πρόσβαση στη συλλογή"</string>
@@ -211,7 +223,4 @@
     <string name="virtual_reject_notice_title_phonestate">%1$s πρόσβαση στις πληροφορίες συσκευής</string>
     <string name="virtual_reject_notice_title_sms">%1$s πρόσβαση σε μηνύματα</string>
     <string name="yes">Ναι</string>
-    <string name="go_setting">Ρυθμίσεις</string>
-    <string name="real_location_off">Η κατά προσέγγιση τοποθεσία είναι ενεργή</string>
-    <string name="real_location_on">Η κατά προσέγγιση τοποθεσία είναι ανεργή</string>
 </resources>

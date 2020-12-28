@@ -95,6 +95,8 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Όχι ευχαριστώ</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ενεργοποίηση</string>
     <string name="fp_nav_center_action_choose_dlg_title">Προσαρμογή πλήκτρου Home</string>
+    <string name="freeform_exchange_tip">Απελευθέρωση για άνοιγμα εφαρμογής</string>
+    <string name="freeform_exchange_tip2">Σύρετε προς τη γωνία για ακύρωση</string>
     <string name="frequent_email">Συχνά χρησιμοποιούμενα email</string>
     <string name="frequent_phrases">Συχνές φράσεις</string>
     <string name="functions_are_being_developed">Αυτή η λειτουργία θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>

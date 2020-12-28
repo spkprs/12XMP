@@ -902,6 +902,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Κυριακή</string>
     <string name="super_wallpaper">Σούπερ ταπετσαρίες</string>
+    <string name="super_wallpaper_list_footer_text">Μείνετε συντονισμένοι για τις νέες μας κυκλοφορίες!</string>
     <string name="super_wallpaper_list_label">Super ταπετσαρίες</string>
     <string name="super_wallpaper_setting_apply_success_toast">Εφαρμόστηκε με επιτυχία</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Εφαρμογή</string>

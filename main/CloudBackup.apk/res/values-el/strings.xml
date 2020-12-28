@@ -211,11 +211,14 @@
     <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="process_whole_recovery">Επαναφορά του \"%s\"</string>
+    <string name="provision_back">Πίσω</string>
     <string name="provision_background_restore_more_data">Επαναφορά περισσότερων στοιχείων στο παρασκήνιο</string>
     <string name="provision_error_connect_msg">Ελέξτε το δίκτυο και προσπαθήσετε ξανά. Η λειτουργία δημιουργίας αντιγράφων δεν θα είναι διαθέσιμη χωρίς δίκτυο.</string>
     <string name="provision_error_connect_title">Δεν μπορείτε να συνδεθείτε</string>
+    <string name="provision_next">Επόμενο</string>
     <string name="provision_restore_data">Επαναφορά στοιχείων</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
+    <string name="provision_skip_underline">Παράλειψη</string>
     <string name="query_restore_description">Επαναφέρετε τις εφαρμογές και τις ρυθμίσεις της αρχικής οθόνης χρησιμοποιώντας αυτό το αντίγραφο. Αυτό θα αντικαταστήσει τα δεδομένα για διπλές εφαρμογές που έχουν ήδη εγκατασταθεί σε αυτήν τη συσκευή. Οι εφαρμογές που δεν περιλαμβάνονται στο αντίγραφο ασφαλείας θα μετακινηθούν στην τελευταία Αρχική οθόνη.</string>
     <string name="query_restore_summary">Βρέθηκε ένα αντίγραφο ασφαλείας Xiaomi Cloud για αυτή τη συσκευή. Επαναφορά εφαρμογών Αρχικής οθόνης και ρυθμίσεων ή θα την χρησιμοποιήσετε ως μια νέα συσκευή και θα διαγράψετε τα προηγούμενα αντίγραφα ασφαλείας Xiaomi Cloud;</string>
     <string name="recover_home_settings">Επαναφορά ρυθμίσεων Αρχικής οθόνης</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_service_description">Έξυπνη εξοικονόμηση ενέργειας</string>
     <string name="about_extreme_mode">Μέγιστη εξοικονόμηση</string>
     <string name="about_hide_mode">Σχετικά</string>
+    <string name="accessibility_service_description">Έξοικονόμηση μπαταρίας</string>
     <string name="active_classify">Ταξινόμ. κατά δραστηριότητα</string>
     <string name="adaptive_battery_summary">Περιορισμός μπαταρίας σε εφαρμογές με σπάνια χρήση</string>
     <string name="adaptive_battery_title">Χρήση Προσαρμοσμένης Μπαταρίας</string>

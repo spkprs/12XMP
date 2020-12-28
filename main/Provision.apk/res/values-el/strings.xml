@@ -76,6 +76,7 @@
     <string name="install_preinstall_app">Φόρτωση εφαρμογών…</string>
     <string name="item_fingerprint">Δακτυλικό αποτύπωμα</string>
     <string name="item_lock_screen_password">Μόνο κλείδωμα οθόνης</string>
+    <string name="item_lock_screen_password_only">Κλείδωμα οθόνης</string>
     <string name="language_picker_other_languages_title">Περισσότερες γλώσσες</string>
     <string name="language_settings">Επιλογή γλώσσας</string>
     <string name="locale_picker_other_locale_title">Περισσότερες περιοχές</string>
@@ -96,6 +97,8 @@
     <string name="move_data_dialog_cancel">Ακύρωση</string>
     <string name="move_data_dialog_title">Μπορείτε αργότερα να περιορίσετε τη σύνδεση δεδομένων στις Ρυθμίσεις</string>
     <string name="move_data_dialog_use">Χρήση</string>
+    <string name="msim_setting_default_data">Δεδομένα SIM</string>
+    <string name="msim_setting_default_voice">Προεπιλεγμένη SIM για κλήσεις</string>
     <string name="multisim_settings_category">Ρυθμίσεις κάρτας SIM</string>
     <string name="multisim_settings_title">Βρέθηκαν 2 κάρτες SIM</string>
     <string name="navigation_picker_gesture_guide">Οδηγός χειρονομίας</string>
@@ -106,8 +109,8 @@
     <string name="note_introduction">Αυτή η εφαρμογή σάς επιτρέπει να δημιουργείτε, να προβάλλετε και να επεξεργάζεστε σημειώσεις.</string>
     <string name="other_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="other_settings_ad_dialog_agree">Ενεργοποίηση</string>
-    <string name="other_settings_ad_dialog_disagree">Απενεργοποίηση</string>
     <string name="other_settings_ad_dialog_content">"Όταν οι εξατομικευμένες και προτάσεις είναι απενεργοποιημένες, θα εξακολουθείτε να βλέπετε την ίδια ποσότητα διαφημίσεων όπως όταν η δυνατότητα είναι ενεργοποιημένη. Ωστόσο, οι διαφημίσεις δεν θα είναι πλέον σχετικές καθώς δεν θα βασίζονται στις προσωπικές προτιμήσεις σας".</string>
+    <string name="other_settings_ad_dialog_disagree">Απενεργοποίηση</string>
     <string name="other_settings_ad_disable_summary">Ενεργοποίηση εξατομικευμένων διαφημίσεων</string>
     <string name="other_settings_ad_enable">Εξατομικευμένες διαφημίσεις</string>
     <string name="other_settings_ad_enable_summary">Εξατομικευμένες διαφημίσεις βάσει των ενδιαφερόντων σας</string>
@@ -177,8 +180,11 @@
     <string name="pref_title_voice_slot">SIM Κλήσεων</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="protect_persoanl_info_statement">Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.</string>
+    <string name="provision_back">Πίσω</string>
     <string name="provision_inputmethod_policy_description">"\nΠροβολή Πολιτικής Απορρήτου επιλεγμένου πληκτρολογίου."</string>
     <string name="provision_inputmethod_policy_description1">Πολιτική Απορρήτου</string>
+    <string name="provision_next">Επόμενο</string>
+    <string name="provision_skip_underline">Παράλειψη</string>
     <string name="recorder_introduction">Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να εγγράψετε ήχο και να δημιουργήσετε εφεδρικές εγγραφές στο cloud.</string>
     <string name="require_authority_statement">Για να μπορέσουμε να σας παρέχουμε βασικές υπηρεσίες, πρέπει να δώσετε τις ακόλουθες Άδειες προκειμένου να συλλέξουμε τα προσωπικά σας στοιχεία:</string>
     <string name="require_network_authority_statement">Για να μπορέσουμε να σας παρέχουμε βασικές υπηρεσίες, πρέπει να συνδεθείτε στο διαδίκτυο και να δώσετε τις ακόλουθες Άδειες προκειμένου να συλλέξουμε τα προσωπικά σας στοιχεία:</string>
@@ -217,7 +223,7 @@
     <string name="sim_card_detecting">Έλεγχος για κάρτα SIM…</string>
     <string name="sim_card_detecting_check">Δεν βρέθηκε κάρτα SIM. Βεβαιωθείτε ότι η κάρτα SIM έχει εγκατασταθεί σωστά και ότι έχετε διαθέσιμο υπόλοιπο κεφάλαιο.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Να επιτρέπεται η σύνδεση δεδομένων κινητής τηλεφωνίας; Αν το κάνετε, η κάρτα SIM που εισάγετε θα χρησιμοποιηθεί για σύνδεση σε δίκτυα δεδομένων κινητής τηλεφωνίας</string>
-    <string name="sim_card_detecting_title">Έλεγχος για κάρτα SIM</string>
+    <string name="sim_card_detecting_title">Έλεγχος για κάρτα SIM...</string>
     <string name="sim_card_detection">Τοποθετήστε την κάρτα SIM</string>
     <string name="sim_card_detection_info">Για να τοποθετήσετε την κάρτα SIM, διαβάστε τις οδηγίες που παραλάβατε με την συσκευή σας.</string>
     <string name="sim_card_detection_mobile_not_available">Η κάρτα SIM δεν μπόρεσε να συνδεθεί στο δίκτυο</string>

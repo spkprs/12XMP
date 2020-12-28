@@ -108,4 +108,9 @@
         <item quantity="other">Δοκιμάστε ξανά σε %d δευτ.</item>
         <item quantity="one">Δοκιμάστε ξανά σε %d δευτ.</item>
     </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d σημειώσεις</item>
+        <item quantity="one">%d σημείωση</item>
+    </plurals>
 </resources>
+

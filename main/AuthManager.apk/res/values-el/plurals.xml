@@ -36,4 +36,8 @@
         <item quantity="other">Αποκλείστηκαν %2$d προσπάθειες πρόσβασης στο πρόχειρο σε %1$s</item>
         <item quantity="one">Αποκλείστηκε %2$d προσπάθεια πρόσβασης στο πρόχειρο σε %1$s</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
+    </plurals>
 </resources>

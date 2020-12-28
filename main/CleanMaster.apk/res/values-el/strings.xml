@@ -334,6 +334,8 @@
     <string name="function_app_lock_title">%d επικίνδυνες εφαρμογές  απορρήτου σας</string>
     <string name="garbage_clean_detail">Λεπτομέριες</string>
     <string name="garbage_month">Καθαρίστηκαν %s αυτό τον μήνα</string>
+    <string name="gb_global_icon_ad_card_btn">ΛΗΨΗ</string>
+    <string name="gb_global_icon_ad_card_title">Προτείνεται για εσάς</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_audio">Ήχος</string>
     <string name="global_wa_audio_item_title">Φωνητικά μηνύματα</string>

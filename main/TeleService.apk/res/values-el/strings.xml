@@ -975,8 +975,8 @@
     <string name="fiveg_sa_switch_open_dialog_title">Προσοχή</string>
     <string name="fiveg_sa_switch_summary">Επιτρέψτε τη σύνδεση σε δίκτυα 5G σε αυτόνομη λειτουργία</string>
     <string name="fiveg_sa_switch_title">Κατάσταση λειτουργίας SA</string>
-    <string name="fiveg_sa_switch_title_slot0">Λειτουργία SIM 1 SA</string>
-    <string name="fiveg_sa_switch_title_slot1">Λειτουργία SIM 2 SA</string>
+    <string name="fiveg_sa_switch_title_slot0">SIM %d SA λειτουργία</string>
+    <string name="fiveg_sa_switch_title_slot1">SIM %d SA λειτουργία</string>
     <string name="fiveg_sa_switch_warning_toast">Επανεκκινήστε το τηλέφωνο για να τεθεί σε ισχύ.</string>
     <string name="fiveg_sa_vice_switch_title">SA σε δευτερεύουσα κάρτα SIM</string>
     <string name="fiveg_signal_strength1">"Ισχύς σήματος 5G : "</string>
@@ -2293,4 +2293,5 @@
     <string name="zen_mode_forever">Μέχρι να απενεργοποιήσετε</string>
     <string name="zen_mode_settings_summary_off">Ποτέ</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση \"Μην ενοχλείτε\"</string>
+    <string name="stk_name">USIM εργαλειοθήκη</string>
 </resources>

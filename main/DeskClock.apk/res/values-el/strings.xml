@@ -505,4 +505,7 @@
     <string name="worldcolock_timezone_date">MMM dd</string>
     <string name="worldcolock_timezone_gap">%s Ω</string>
     <string name="worldcolock_timezone_local">Ίδια με την τοπική</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Όχι τώρα</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
 </resources>

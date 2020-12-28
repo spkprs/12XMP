@@ -6,7 +6,7 @@
     <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
     <string name="frequent_phrases_des">Εισαγάγετε συχνές φράσεις με λίγα μόνο πατήματα κατά την επεξεργασία κειμένου</string>
     <string name="frequent_phrases_size_exceeded">Μπορεί να προσθέσει έως και %1$d συχνές φράσεις. Διαγράψτε τις περιττές για να προσθέσετε περισσότερες.</string>
-    <string name="input_method_clipboard_add_to_phrase_success">Προσθήκη στις συχνές φράσεις</string>
+    <string name="input_method_clipboard_add_to_phrase_success">Προστέθηκε στις συχνές φράσεις</string>
     <string name="input_method_clipboard_check_more_add_to_phrase">Προσθήκη συχνής φράσης</string>
     <string name="input_method_clipboard_check_more_copy">Αντιγραφή</string>
     <string name="input_method_clipboard_check_more_delete">Διαγραφή</string>

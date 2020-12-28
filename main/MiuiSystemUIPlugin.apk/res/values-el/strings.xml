@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_back">Πίσω</string>
     <string name="accessibility_desc_close">Κλείστε</string>
     <string name="accessibility_menu">Μενού</string>
     <string name="accessibility_quick_settings_page">Σελίδα %1$d από %2$d</string>
@@ -49,6 +50,7 @@
     <string name="early_morning">Πρωί</string>
     <string name="loading">Άγνωστη κατάσταση</string>
     <string name="midnight">Νύχτα</string>
+    <string name="mind_note_first_enter_guide">Πατήστε για να δημιουργήσετε έναν χάρτη μυαλού</string>
     <string name="miui_dnd_count_down">DND χρονόμετρο</string>
     <string name="miui_dnd_count_down_time">DND χρονόμετρο\n%s</string>
     <string name="miui_guide_dialog_button_negative_text">Ρυθμίσεις</string>
@@ -75,8 +77,11 @@
     <string name="no_avaliable_application">Δεν υπάρχουν διαθέσιμες εφαρμογές</string>
     <string name="noon">Μεσημέρι</string>
     <string name="not_set">Δεν έχει οριστεί</string>
+    <string name="note_header_first_enter_guide">Σύρετε προς τα κάτω για περισσότερα</string>
     <string name="notification_control_center">Ειδοποιήσεις &amp; Κέντρο Ελέγχου</string>
     <string name="online">Σε σύνδεση</string>
+    <string name="pc_todo_fast_create_hint">Εισάγετε  Τεστ και πατήστε \"Enter\" για να προσθέσετε μια ημιτελή εργασία</string>
+    <string name="permission_storage_desc_v12">Για προσθήκη εικόνων σε σημειώσεις και αποθήκευση σημειώσεων ως εικόνες</string>
     <string name="pm">ΜΜ</string>
     <string name="power_off">Απενεργοποίηση</string>
     <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
@@ -91,6 +96,8 @@
     <string name="quick_settings_pcmode_dialog_remember_text">"Χωρίς επανεμφάνιση"</string>
     <string name="quick_settings_pcmode_label">Λειτουργία PC</string>
     <string name="quick_settings_pcmode_ok_button">OK</string>
+    <string name="quick_settings_pcmode_turn_off_description">Μετά την έξοδο από τη λειτουργία υπολογιστή, θα χρησιμοποιήσετε την επιφάνεια εργασίας Mi στη μεγαλύτερη οθόνη. Είστε βέβαιοι ότι θα εξέλθετε;</string>
+    <string name="quick_settings_pcmode_turn_on_description">Μετά την είσοδο στη λειτουργία υπολογιστή, θα χρησιμοποιήσετε την επιφάνεια εργασίας του υπολογιστή στη μεγαλύτερη οθόνη. Είστε βέβαιοι για είσοδο;</string>
     <string name="quick_settings_scanner_label">Σαρωτής</string>
     <string name="quick_settings_wireless_label">Αντίστροφη ασύρματη φόρτιση</string>
     <string name="reboot_info_auto_boot">Επερχόμενος συναγερμός: %s</string>
@@ -103,12 +110,14 @@
     <string name="saturday_shortest">Σάβ</string>
     <string name="save">Αποθήκευση</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="slider_view_content_description">Σάρωση επάνω για απενεργοποίηση ή σάρωση κάτω για επανεκκίνηση</string>
     <string name="status_bar_setting_title">Κέντρο ελέγχου και γραμμή κατάστασης</string>
     <string name="timer_1_hour">%d ώρ.</string>
     <string name="timer_2_hours">%d ώρ.</string>
     <string name="timer_30_minutes">%d λεπ.</string>
     <string name="timer_8_hours">%d ώρ.</string>
     <string name="timer_off">Off</string>
+    <string name="toast_refuse_to_use_storage_in_excerpt">Επιτρέψτε στις Σημειώσεις να έχουν πρόσβαση στο χώρο αποθήκευσης για να μπορούν να προσθέτουν εικόνες στις σημειώσεις σας</string>
     <string name="volume_dialog_accessibility_dismissed_message">Απόκρυψη στοιχείων ελέγχου έντασης</string>
     <string name="volume_dialog_accessibility_shown_message">%s στοιχεία ελέγχου έντασης εμφανίζονται. Σαρώστε προς τα επάνω για κλείσιμο.</string>
     <string name="wireless_charging_connected_message">"Δεν είναι δυνατή η χρήση αντίστροφης ασύρματης φόρτισης όταν η συσκευή σας φορτίζεται ασύρματα."</string>
@@ -120,6 +129,5 @@
     <string name="wireless_charging_tips_disable">"Να μην εμφανιστεί ξανά"</string>
     <string name="wireless_charging_tips_message">Τοποθετήστε συσκευές που υποστηρίζουν ασύρματη φόρτιση Qi (τηλέφωνα, βοηθητικός εξοπλισμός κ.λπ.) στο πίσω μέρος αυτής της συσκευής.</string>
     <string name="wireless_charging_tips_title">Αντίστροφη ασύρματη φόρτιση</string>
-    <string name="accessibility_back">Πίσω</string>
-    <string name="slider_view_content_description">Σάρωση επάνω για απενεργοποίηση ή σάρωση κάτω για επανεκκίνηση</string>
 </resources>
+

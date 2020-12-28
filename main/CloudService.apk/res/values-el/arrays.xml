@@ -159,4 +159,21 @@
         <item>Ενεργοποίηση συγχρονισμού</item>
         <item>WiFi;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Συγχρονισμός επαφών, μηνυμάτων, σημειώσεων, ημερολογίου και άλλων</item>
+        <item>Δημιουργία αντιγράφων εφαρμογών, διάταξη αρχικής οθόνης και ταπετσαρία</item>
+        <item>Δημιουργία αντιγράφων σημαντικών ρυθμίσεων, συμπεριλαμβανομένου του WIFI και της οθόνης</item>
+        <item>"Απομακρυσμένο κλείδωμα της συσκευής σας εάν χαθεί"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Συγχρονισμός επαφών, μηνυμάτων, σημειώσεων, ημερολογίου και άλλων</item>
+        <item>Δημιουργία αντιγράφων εφαρμογών, διάταξη αρχικής οθόνης και ταπετσαρία</item>
+        <item>Δημιουργία αντιγράφων σημαντικών ρυθμίσεων, συμπεριλαμβανομένου του WIFI και της οθόνης</item>
+        <item>"Απομακρυσμένο κλείδωμα της συσκευής σας εάν χαθεί"</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Συγχρονισμός σημειώσεων με Xiaomi Cloud</item>
+        <item>Ενεργοποίηση συγχρονισμού</item>
+        <item>Σημειώσεις;Cloud;Συγχρονισμός;Υπηρεσίες cloud;Cloud Xiaomi</item>
+    </string-array>
 </resources>

@@ -175,6 +175,7 @@
     <string name="device_name">Όνομα συσκευής</string>
     <string name="diagnosis_log_send_failed">Το αρχείο καταγραφής διαγνωστικών απέτυχε.</string>
     <string name="diagnosis_log_sent_format">Η καταγραφής διαγνωστικών στάλθηκε.\nID:%s\nΣτείλτε αυτόν τον κωδικό στον τεχνικό.</string>
+    <string name="download_file">Λήψη %s…</string>
     <string name="empty_device_list_notice">Δεν υπάρχουν συσκευές</string>
     <string name="ep_unsupported">Αδυναμία σύνδεσης της συσκευής στο λογαριασμό Mi</string>
     <string name="error_dup_binded_email">Αυτή η διεύθυνση email έχει ήδη συσχετιστεί με κάποιον άλλο λογαριασμό Mi.</string>
@@ -400,6 +401,7 @@
     <string name="passport_login_instead_reg">Χρήση αυτού του αριθμού</string>
     <string name="passport_login_instead_reg_with_email">Χρήση αυτού του email</string>
     <string name="passport_login_other_account">Μέσω άλλου λογαριασμού</string>
+    <string name="passport_login_other_phone">Χρήση άλλου λογαριασμού</string>
     <string name="passport_login_prompt">Όλες οι υπηρεσίες Mi. Ένας λογαριασμός Mi.</string>
     <string name="passport_login_recycle_account_no">Όχι</string>
     <string name="passport_login_recycle_account_yes">Ναί</string>
@@ -417,6 +419,8 @@
     <string name="passport_prev">Πίσω</string>
     <string name="passport_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="passport_privacy_policy_required">Πολιτική Απορρήτου (υποχρεωτικό)</string>
+    <string name="passport_provision_input_email_register_prompt">Τα προσωπικά σας δεδομένα θα αποθηκεύονται σύμφωνα με τους νόμους και τους κανονισμούς της περιοχής που επιλέγετε.</string>
+    <string name="passport_provision_password_req_notice">%1$d-%2$d χαρακτήρες τουλάχιστον %3$d από τους ακόλουθους τύπους: γράμματα, ψηφία, ειδικά σύμβολα</string>
     <string name="passport_pwd_generate_failure">Αδυναμία παραγωγής κωδικού</string>
     <string name="passport_pwd_generating">Παραγωγή…</string>
     <string name="passport_querying_phone_info">Αίτηση πληροφοριών λογαριασμού…</string>
@@ -453,6 +457,7 @@
     <string name="passport_register_restricted_title">Αδυναμία χρήσης αυτού του αριθμού</string>
     <string name="passport_register_using_other_ways">Άλλοι τρόποι εγγραφής</string>
     <string name="passport_registered_phone_num">Τηλέφωνο: %s</string>
+    <string name="passport_registered_phone_num_v2">Αριθμός τηλεφώνου</string>
     <string name="passport_registered_phone_user_ID">ID χρήστη:%s</string>
     <string name="passport_registered_phone_user_name">Όνομα χρήστη:%s</string>
     <string name="passport_reject_recycle_account">Όχι</string>
@@ -537,6 +542,9 @@
     <string name="phone_num_use_for">Ο αριθμός τηλεφώνου χρησιμοποιείται για:</string>
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="provision_back">Πίσω</string>
+    <string name="provision_next">Επόμενο</string>
+    <string name="provision_skip_underline">Παράλειψη</string>
     <string name="push_notification_content">Αποκτήστε τον κωδικό επαλήθευσης</string>
     <string name="push_notification_title">Έχετε συνδεθεί στον λογαριασμό σας Mi σε μια άγνωστη συσκευή</string>
     <string name="push_notify_dialog_message">Μια άγνωστη συσκευή χρησιμοποιείται για να συνδεθείτε στο Λογαριασμό Mi. Εισαγάγετε αυτόν τον κωδικό επαλήθευσης στη συσκευή. Εάν δεν είστε εσείς, αλλάξτε τον κωδικό πρόσβασης Λογαριασμού Mi αμέσως. Μην αποκαλύπτετε τον κωδικό επαλήθευσης σε άλλα άτομα.</string>
