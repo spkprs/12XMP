@@ -25,7 +25,7 @@
     <string name="config_mode_title">Ρυθμίσεις παρασκηνίου</string>
     <string name="config_no_restrict_description">Η εξοικονόμηση μπαταρίας δεν περιορίζει τη δραστηριότητα των εφαρμογών</string>
     <string name="config_no_restrict_title">Χωρίς περιορισμούς</string>
-    <string name="config_restrict_function_description">Μερικές λειτουργίες (π.χ. ειδοποιήσεις push) μπορεί να επηρεαστούν, αλλά οι εφαρμογές δεν θα κλείσουν</string>
+    <string name="config_restrict_function_description">Κλείσιμο εφαρμογών μετά από 10 λεπτά δραστηριότητας στο παρασκήνιο</string>
     <string name="config_restrict_function_title">Περιορισμός εφαρμογών</string>
     <string name="config_restrict_running_description">Οι εφαρμογές θα κλείσουν για εξοικονόμηση ενέργειας</string>
     <string name="config_restrict_running_title">Περιορισμός δραστηριότητας</string>

@@ -252,4 +252,128 @@
         <item>Καθημερινά γεγονότα</item>
         <item>Συνήθη και Έκτακτα</item>
      </string-array>
+    <string-array name="acc_category_color_description">
+        <item>Λευκό</item>
+        <item>Σκούρο μπλε</item>
+        <item>Ανοιχτό μπλε</item>
+        <item>Κόκκινο</item>
+        <item>Πράσινο</item>
+        <item>Ροζ</item>
+        <item>Καφέ</item>
+        <item>Γκρι</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Επιλογή εικόνας</item>
+        <item>Διαφανές φόντο</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Ανάπαυση</item>
+        <item>Αεράκι</item>
+        <item>Όνειρα</item>
+        <item>Clouds</item>
+        <item>Σκέψεις</item>
+        <item>Μπουμπούκια</item>
+        <item>Μεταμόρφωση</item>
+        <item>Βάθος</item>
+        <item>Αντανακλάσεις</item>
+        <item>Μινιμαλιστικό</item>
+        <item>Μυστήριο</item>
+        <item>Ομίχλη</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Μετατροπή φόντου σε σκίτσα</item>
+        <item>Φόντα στυλ υδάτινων χρωμάτων</item>
+        <item>Κυβερνο-πανκ ρετρό</item>
+        <item>Λανθασμένα κατακόρυφα τμήματα</item>
+        <item>Θόλωμα</item>
+        <item>Φουτουριστική αίσθηση</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Σχέδιο</item>
+        <item>Υδατογραφία</item>
+        <item>RGB</item>
+        <item>Περσίδες</item>
+        <item>Ομιχλώδες παράθυρο</item>
+        <item>Τεχνολογία</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Έγχρωμο περίγραμμα</item>
+        <item>Διακεκομμένο περίγραμμα</item>
+        <item>Φθορίζον περίγραμμα</item>
+        <item>Έγχρωμη σκιά</item>
+        <item>Ηλεκτρικό κύμα</item>
+        <item>Τρέχον</item>
+        <item>Κείμενο</item>
+        <item>Φτερά</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Γενικά</item>
+        <item>Ταξίδι</item>
+        <item>Εργασία</item>
+        <item>Έγγραφα</item>
+        <item>Εκπαίδευση</item>
+        <item>Εξετάσεις</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Κοινωνική ασφάλιση</item>
+        <item>Δήλωση υγείας</item>
+        <item>Ιατρική ασφάλιση</item>
+        <item>ID</item>
+        <item>Αδεια παραμονής</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>Ένα cun</item>
+        <item>Teo cuns</item>
+        <item>Μικρό ένα cun</item>
+        <item>Δύο μικρά cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Αίτηση εισδοχής</item>
+        <item>Δίκτυο φοιτητών</item>
+        <item>Δίκτυο μαθητών για δημοτικά σχολεία</item>
+        <item>Προφίλ δικτύου σπουδαστών</item>
+        <item>Πανεπιστημιακή είσοδος</item>
+        <item>NCEE</item>
+        <item>Συνέχεια</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Πιστοποίηση εκπαιδευτικών στην πρωτο- δευτεροβάθμια εκπαίδευση</item>
+        <item>Πιστοποίηση εκπαιδευτικών</item>
+        <item>"Άδεια οδήγησης"</item>
+        <item>Άδεια οδηγού</item>
+        <item>Ηλεκτρονική άδεια οδηγού</item>
+        <item>Εθνική δικαστική εξέταση</item>
+        <item>Ηλεκτρονικό πιστοποιητικό κατασκευαστή πρώτης κατηγορίας</item>
+        <item>Πιστοποιητικό κατασκευαστή δεύτερης κατηγορίας</item>
+        <item>Εξέταση τίτλου κατώτερης λογιστικής</item>
+        <item>Εγκεκριμένος λογιστής</item>
+        <item>Οδηγός για το Πεκίνο</item>
+        <item>Εξέταση ενδιάμεσου λογιστικού τίτλου</item>
+        <item>Εξέταση τίτλου ανώτερης λογιστικής</item>
+        <item>Πιστοποιητικό λογιστικής προεπιλογής</item>
+        <item>Εξέταση πιστοποιημένου δημόσιου λογιστή</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>ΗΠΑ</item>
+        <item>Βιετνάμ</item>
+        <item>Ιαπωνία</item>
+        <item>Χονγκ Κονγκ και Μακάο</item>
+        <item>Νότια Κορέα</item>
+        <item>Ταϊλάνδη (τουριστικά)</item>
+        <item>Ταϊλάνδη (κατά την άφιξη)</item>
+        <item>Ινδία</item>
+        <item>Ισραήλ</item>
+        <item>Ταϊβάν</item>
+        <item>Μαλαισία</item>
+        <item>Νέα Ζηλανδία</item>
+        <item>Ιταλία</item>
+        <item>Αργεντίνη</item>
+        <item>Βραζιλία</item>
+        <item>Ισλανδία</item>
+        <item>Κένυα</item>
+    </string-array>
 </resources>
