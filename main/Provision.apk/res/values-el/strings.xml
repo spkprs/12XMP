@@ -20,6 +20,7 @@
     <string name="application_permissions">Δικαιώματα εφαρμογής</string>
     <string name="back">Πίσω</string>
     <string name="backup_introduction">Χρησιμοποιήσετε αυτήν την εφαρμογή για να δημιουργήσετε αντίγραφα ασφαλείας και να επαναφέρετε στοιχεία στη συσκευή σας.</string>
+    <string name="boot_video_desc">Δείτε τον κόσμο σε 2K</string>
     <string name="boot_video_replay">Επανάληψη αναπαραγωγής</string>
     <string name="boot_video_skip">Παράλειψη</string>
     <string name="calculator_introduction">Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για υπολογισμούς, μετατροπή μονάδων και νομισμάτων και εκτίμηση των αποπληρωμών υποθηκών σας.</string>

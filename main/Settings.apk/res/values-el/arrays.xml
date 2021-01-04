@@ -1637,4 +1637,9 @@
     <item>Κλίμακα κίνησης 5.0x</item>
     <item>Κλίμακα κίνησης 10x</item>
   </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>Crisp</item>
+        <item>Βασική</item>
+        <item>Pop</item>
+    </string-array>
 </resources>

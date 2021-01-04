@@ -546,6 +546,7 @@
     <string name="no_block_button_msg">Άρση φραγής</string>
     <string name="no_conversations">Δεν υπάρχουν συνομιλίες</string>
     <string name="no_delivery_report">Δεν υπάρχει αναφορά παράδοσης</string>
+    <string name="no_dialogue_yet">Επιλογή συνομιλίας</string>
     <string name="no_longer_recommend">"Χωρίς επανεμφάνιση"</string>
     <string name="no_network_description">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
     <string name="no_subject">(Δεν υπάρχει θέμα)</string>

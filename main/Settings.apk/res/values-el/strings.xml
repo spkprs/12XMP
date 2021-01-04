@@ -1319,7 +1319,9 @@
     <string name="button_confirm_convert_fbe">Καθαρισμός και μετατροπή</string>
     <string name="button_convert_fbe">Καθαρισμός και μετατροπή…</string>
     <string name="button_disconnect_network">Αποσύνδεση από το δίκτυο</string>
+    <string name="button_height_text">Κουμπί γενικής επιβεβαίωσης (π.χ. \"OK\", \"Ολοκληρώθηκε\")</string>
     <string name="button_light_timeout">Χρόνος φωτισμού πλήκτρων</string>
+    <string name="button_normal_text">Κανονικό κουμπί</string>
     <string name="button_text_accept">Αποδοχή</string>
     <string name="button_text_accept_timer">Αποδοχή (%d)</string>
     <string name="button_text_cancel">Άκυρο</string>
@@ -1455,6 +1457,7 @@
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_update">Έλεγχος για ενημερώσεις</string>
     <string name="checkbox_notification_same_as_incoming_call">Χρήση έντασης κουδουνίσματος και για τις ειδοποιήσεις</string>
+    <string name="checkbox_text">Διακόπτης</string>
     <string name="checking_decryption">Έλεγχος…</string>
     <string name="checking_find_device_status">Έλεγχος κατάστασης του Εύρεση συσκευής…</string>
     <string name="checking_for_updates">Έλεγχος για ενημερώσεις…</string>
@@ -1775,6 +1778,7 @@
     <string name="custom_color">Προσαρμογή</string>
     <string name="custom_gesture_title">Προσαρμοσμένες Χειρονομίες</string>
     <string name="custom_wifi_name_title">Επεξεργασία ονόματος WiFi</string>
+    <string name="customize_knock_gesture">Προσαρμοσμένη σάρωση συνδιασμού</string>
     <string name="cutout_mode_always">Εμφάνιση πάντα εγκοπής</string>
     <string name="cutout_mode_default">Αυτόματα</string>
     <string name="cutout_mode_settings_title">Ορισμένες εφαρμογές ενδέχεται να εμφανίζονται λανθασμένα εάν προσαρμόσετε τον τρόπο εμφάνισης της εγκοπής.</string>
@@ -2261,7 +2265,7 @@
     <string name="done_button">Τέλος</string>
     <string name="double_click_power_key">Διπλό πάτημα πλήκτρου Power</string>
     <string name="double_click_volume_down_when_lock">Πατήστε δύο φορές το πλήκτρο μείωσης Έντασης όταν η οθόνη είναι κλειδωμένη</string>
-    <string name="double_knock">Διπλό πάτημα Knuckle</string>
+    <string name="double_knock">Διπλό πάτημα συνδιασμού</string>
     <string name="double_tap_power_for_camera_suggestion_title">Ανοίξτε γρήγορα την κάμερα</string>
     <string name="double_tap_power_for_camera_summary">Για να ανοίξετε γρήγορα την κάμερα, πατήστε δύο φορές το κουμπί λειτουργίας. Αυτή η ενέργεια μπορεί να πραγματοποιηθεί από οποιαδήποτε οθόνη.</string>
     <string name="double_tap_power_for_camera_title">Μετάβαση στην κάμερα</string>
@@ -2822,6 +2826,8 @@
     <string name="game_driver_dashboard_title">Προτιμήσεις οδηγού παιχνιδιού</string>
     <string name="game_driver_footer_text">Όταν το Game Driver είναι ενεργοποιημένο, μπορείτε να επιλέξετε να χρησιμοποιήσετε το ενημερωμένο πρόγραμμα οδήγησης γραφικών για εφαρμογές που είναι εγκατεστημένες στη συσκευή.</string>
     <string name="game_storage_settings">Παιχνίδια</string>
+    <string name="general_text">Πεδίο κειμένου</string>
+    <string name="general_time">"Ώρα: %1$d:%2$d. Η μακριά δόνηση αντιπροσωπεύει ώρες, η μικρή δόνηση λεπτά. Θα υπάρξει μια σύντομη παύση πριν από ώρες και λεπτά. Πατήστε δύο φορές για δοκιμή."</string>
     <string name="gentle_notifications_also_display">Επίσης, εμφάνιση σε</string>
     <string name="gentle_notifications_display_lock">Κλείδωμα οθόνης</string>
     <string name="gentle_notifications_display_status">Γραμμή κατάστασης</string>
@@ -2913,6 +2919,8 @@
     <string name="handy_mode_tips_full_screen">Όταν χρησιμοποιείτε Χειρονομίες πλήρους οθόνης, μπορείτε να ενεργοποιήσετε τη Λειτουργία με ένα χέρι χρησιμοποιώντας τον Βοηθό Αφής. Μπορείτε επίσης να μεταβείτε στη χρήση Κουμπιών αντί για Χειρονομίες πλήρους οθόνης.</string>
     <string name="haptic_agent_completion_01_content_description">Ολοκλήρωση εργασίας</string>
     <string name="haptic_cursor_movement_07_content_description">Ρύθμιση φωτεινότητας</string>
+    <string name="haptic_experience">Επίδειξη</string>
+    <string name="haptic_experience_details">Σχόλια Αφής &amp; Προσβασιμότητα</string>
     <string name="haptic_feedback_enable_title">Δόνηση κατά το άγγιγμα</string>
     <string name="haptic_feedback_level">Επίπεδο δόνησης</string>
     <string name="haptic_feedback_progress">Επίπεδο σχολίων</string>
@@ -2930,6 +2938,8 @@
     <string name="haptic_return_gesture_05_content_description">Επιστροφή</string>
     <string name="haptic_shutdown_menu_06_content_description">Μενού τερματισμού</string>
     <string name="haptic_single_selection_02_content_description">Επιλεγμένο στοιχείο</string>
+    <string name="haptic_switch_summary">Λήψη σχολίων σχετικά με τα επιλεγμένα στοιχεία όταν είναι ενεργό το πρόγραμμα Ανάγνωσης οθόνης</string>
+    <string name="haptic_switch_title">Σχόλια Αφής</string>
     <string name="haptic_text_edit_popup_13_content_description">Αναδυόμενο μενού</string>
     <string name="haptic_upper_right_menu_15_content_description">Αναπτυσσόμενο μενού</string>
     <string name="haptic_volume_adjustment_14_content_description">Ρύθμιση έντασης</string>
@@ -2965,6 +2975,7 @@
     <string name="headset_unsaved_devices">Χωρίς αποθήκευση, σύνδεση στο λογαριασμό σας με άλλο τηλέφωνο</string>
     <string name="hearing_aids_category">Βοηθητικά εργαλεία ακοής</string>
     <string name="heavy_weight_stop_description">Αυτή η εφαρμογή δεν μπορεί να σταματήσει με ασφάλεια. Αν τη σταματήσετε, μπορεί να χάσετε κάποια από την τρέχουσα εργασία σας.</string>
+    <string name="height_light_list_text">Κατάλογος σημαντικών στοιχείων</string>
     <string name="help_and_feedback_title">Βοήθεια και σχόλια</string>
     <string name="help_feedback_label">Βοήθεια και σχόλια</string>
     <string name="help_label">Βοήθεια</string>
@@ -3099,6 +3110,7 @@
     <string name="input_methods_settings_title">Εισαγωγή κειμένου</string>
     <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
     <string name="input_settings">Ρυθμίσεις εισόδου</string>
+    <string name="input_text">Γραμμή εισόδου κειμένου</string>
     <string name="install_all_warning">Το τηλέφωνό σας και τα προσωπικά δεδομένα είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές από άγνωστες πηγές. Συμφωνείτε ότι είστε αποκλειστικά υπεύθυνοι για κάθε ζημιά στο τηλέφωνο ή απώλεια δεδομένων που μπορεί να προκύψουν από τη χρήση αυτών των εφαρμογών.</string>
     <string name="install_applications">Άγνωστες πηγές</string>
     <string name="install_applications_title">Να επιτρέπονται όλες οι πηγές εφαρμογών</string>
@@ -3115,6 +3127,7 @@
     <string name="instruction_privacy_password">Αυτός ο κωδικός προστατεύει τα ακόλουθα στοιχεία</string>
     <string name="instruction_title">Σημαντικές πληροφορίες ασφαλείας</string>
     <string name="insufficient_storage">Δεν υπάρχει αρκετός χώρος</string>
+    <string name="intelligence_suppression_summary">Ρυθμίστε δυναμικά το μέγεθος της περιοχής κοντά στα άκρα όπου η τυχαία αφή θα αγνοηθεί με βάση το κράτημα</string>
     <string name="intelligence_suppression_title">Αυτόματα (Προτείνεται)</string>
     <string name="intent_sender_account_label">Λογαριασμός:</string>
     <string name="intent_sender_action_label">Ενέργεια:</string>
@@ -3286,6 +3299,17 @@
     <string name="kid_space_settings">Παιδικός Χώρος</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">KB/δ</string>
+    <string name="knock_edge_area_invalid">"Αυτή η σάρωση δεν λειτουργεί κοντά στα άκρα της οθόνης"</string>
+    <string name="knock_guide_dialog_title">Επιλέξτε μια ενέργεια για αυτήν την σάρωση. Μπορείτε να το αλλάξετε αργότερα στις Ρυθμίσεις > Πρόσθετες ρυθμίσεις > Συντομεύσεις κουμπιών.</string>
+    <string name="knock_guide_drive_desc">Λήψη στιγμιοτύπων οθόνης κατά την οδήγηση</string>
+    <string name="knock_guide_launch_desc">Ενεργοποίηση Mi AI όταν το τηλέφωνό σας βρίσκεται στο τραπέζι</string>
+    <string name="knock_guide_set_screenshot">Στιγμιότυπο οθόνης</string>
+    <string name="knock_guide_set_voiceassist">Mi AI</string>
+    <string name="knock_guide_sub_title">Μπορείτε να ενεργοποιήσετε τη λειτουργία Mi AI ή να τραβήξετε στιγμιότυπα οθόνης πατώντας την οθόνη τον σύνδιασμό σας</string>
+    <string name="knock_guide_title">Διπλό πάτημα συνδέσμου</string>
+    <string name="knock_long_press_horizontal_slid">Πιέστε και σύρετε οριζόντια με ένα συνδιασμό</string>
+    <string name="knock_slide_shape">Σχεδιάστε έναν κύκλο με ένα συνδιασμό</string>
+    <string name="knock_slide_v">Σχεδιάστε το V με ένα συνδιασμό</string>
     <string name="label_available">Διαθέσιμα δίκτυα</string>
     <string name="label_mi_stats">Mi αναλύσεις</string>
     <string name="language_and_input_for_work_category_title">Πληκτρολόγια &amp; εργαλεία προφίλ εργασίας</string>
@@ -3863,6 +3887,11 @@
     <string name="miheadset_enhence_high">Αύξηση</string>
     <string name="miheadset_enhence_low">Αύξηση χαμηλή συχνότητα</string>
     <string name="miheadset_equalizer">Ισοσταθμιστής</string>
+    <string name="miheadset_fitness_check">Έλεγχος φυσικής κατάστασης</string>
+    <string name="miheadset_fitness_check_result_not_ok">Κακή φυσική κατάσταση</string>
+    <string name="miheadset_fitness_check_result_ok">Καλή φυσική κατάσταση</string>
+    <string name="miheadset_fitness_check_result_unkown">fΆγνωστη φυσική κατάσταση</string>
+    <string name="miheadset_fitness_check_start">Έναρξη ελέγχου φυσικής κατάστασης, περιμένετε</string>
     <string name="miheadset_formal">Βάση</string>
     <string name="miheadset_game_mode">Λειτουργία παιχνιδιών</string>
     <string name="miheadset_game_mode_summary">Μείωση καθυστέρησης ήχου κατά την αναπαραγωγή παιχνιδιών</string>
@@ -4348,6 +4377,7 @@
     <string name="none">Χωρίς</string>
     <string name="normal">Κανονικό</string>
     <string name="normal_info">Όλοι οι ήχοι θα λειτουργούν κανονικά</string>
+    <string name="normal_list_text">Λίστα</string>
     <string name="normal_smartcover_title">Χωρίς παράθυρο μπροστά</string>
     <string name="not_allowed">Η κάρτα SIM σας δεν επιτρέπει σύνδεση σε αυτό το δίκτυο.</string>
     <string name="not_battery_optimizing">Δεν χρησιμοποιεί βελτιστοποίηση μπαταρίας</string>
@@ -4706,6 +4736,7 @@
     <string name="photo_data">Φωτογραφίες και βίντεο</string>
     <string name="physical_keyboard_title">Φυσικό πληκτρολόγιο</string>
     <string name="pick_up_gesture_wakeup_title">Ανασηκώστε για ενεργοποίηση</string>
+    <string name="picker_text">Επιλογέας ώρας</string>
     <string name="picture_color_mode">Λειτουργία χρώματος εικόνας</string>
     <string name="picture_color_mode_desc">Χρησιμοποιήστε το sRGB</string>
     <string name="picture_in_picture_app_detail_summary">Να επιτρέπεται σε αυτήν την εφαρμογή να δημιουργεί ένα παράθυρο picture-in-picture ενώ η εφαρμογή είναι ανοικτή ή αφού αποχωρήσετε από αυτή (για παράδειγμα, για να συνεχίσετε να παρακολουθείτε ένα βίντεο). Αυτό το παράθυρο εμφανίζεται στο επάνω μέρος άλλων εφαρμογών που χρησιμοποιείτε.</string>
@@ -5708,6 +5739,7 @@
     <string name="search_sync_settings">Συγχρονισμός, Αυτόματα, Μόνο με Wi-Fi</string>
     <string name="search_system_app_settings">Εφαρμογές συστήματος</string>
     <string name="search_theme_settings_title">Θέματα, Θέμα, Εξατομίκευση</string>
+    <string name="search_title_font_settings">μέγεθος γραμματοσειράς;πάχος γραμματοσειράς;στυλ γραμματοσειράς</string>
     <string name="search_touch_assistant">Βοηθός Αφής</string>
     <string name="search_touch_sensitive_title">Λειτουργία γαντιού</string>
     <string name="search_trusted_credentials">Ασφαλή πιστοποιητικά</string>
@@ -5864,6 +5896,7 @@
     <string name="see_less">Δείτε λιγότερο</string>
     <string name="see_more">Δείτε περισσότερα</string>
     <string name="seek_bar_info">Ρύθμιση μεγέθους</string>
+    <string name="seekbar_text">Ρυθμιστικό</string>
     <string name="select_all">Επιλογή όλων</string>
     <string name="select_application">Επιλογή εφαρμογής</string>
     <string name="select_automatically">Αυτόματη επιλογή δικτύου</string>
@@ -6512,6 +6545,9 @@
     <string name="switchNetworkToast">Η σύνδεση σε δίκτυα κινητής μπορεί να δημιουργήσει πρόσθετες χρεώσεις</string>
     <string name="switch_access_service_on">Εναλλαγή Πρόσβασης</string>
     <string name="switch_bootup_sound">Ήχος εκκίνησης</string>
+    <string name="switch_headset_anti_lost">耳机防丢提醒</string>
+    <string name="switch_headset_anti_lost_summary">耳机离耳离盒一分钟后手机弹出防丢提醒</string>
+    <string name="switch_headset_anti_lost_title">耳机防丢</string>
     <string name="switch_off_text">Ανενεργό</string>
     <string name="switch_on_text">Ενεργό</string>
     <string name="switch_screen_button_order">Αντίθετα Πλήκτρα</string>
@@ -6560,6 +6596,7 @@
     <string name="system_touch">Απτική ανάδραση</string>
     <string name="system_ui_settings">Εμφάνιση ρυθμίσεων SystemUI</string>
     <string name="system_update_settings_list_item_title">SuperSU</string>
+    <string name="tab_text">Καρτέλα</string>
     <string name="take_call_on_title">Καλέστε το</string>
     <string name="talkback_summary">Ο αναγνώστης οθόνης κυρίως για άτομα με τύφλωση και χαμηλή όραση</string>
     <string name="talkback_title">TalkBack</string>
@@ -7313,6 +7350,7 @@
     <string name="wake_suppression_title">Μικρή περιοχή</string>
     <string name="wakeup_and_sleep_settings_category_name">Ρυθμίσεις Οθόνης Κλειδώματος</string>
     <string name="wakeup_for_keyguard_notification_title">Ενεργοποίηση οθόνης με κάθε νέα ειδοποίηση</string>
+    <string name="wallet_header_title">Πορτοφόλι &amp; Πληρωμές</string>
     <string name="wallpaper_attributions">Ταπετσαρίες</string>
     <string name="wallpaper_attributions_values">Παροχείς δορυφορικών εικόνων:\n© 2014 CNES / Astrium, DigitalGlobe, Bluesky</string>
     <string name="wallpaper_desktop">Αρχική οθόνη</string>

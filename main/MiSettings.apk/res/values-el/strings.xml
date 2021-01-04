@@ -40,6 +40,7 @@
     <string name="animal_branch">Οικογένεια</string>
     <string name="animal_class">Κατηγορία</string>
     <string name="animal_item">Σειρά</string>
+    <string name="animal_select_alert_info">Μπορείτε να επιλέξετε έως 5 στοιχεία</string>
     <string name="anti_flicker_mode">Anti-flicker (Αντι-τρεμοπαίξιμο)</string>
     <string name="anti_flicker_mode_categroy">Λειτουργίες</string>
     <string name="anti_flicker_mode_summary">Μειώνει εκτεταμένο τρεμόπαιγμα και καταπόνηση των ματιών σε χαμηλό φωτισμό</string>
@@ -83,6 +84,7 @@
     <string name="branch_platypus">Ornithorhynchidae</string>
     <string name="branch_quollidae">Dasyuridae</string>
     <string name="branch_raccoon">Procyonidae</string>
+    <string name="branch_ramphastos">Ραμφαστίδες</string>
     <string name="branch_rhinoceros">Rhinocerotidae</string>
     <string name="branch_seal">Phocidae</string>
     <string name="branch_toucan">Τουκάν</string>
@@ -181,6 +183,7 @@
     <string name="item_chick">Galliformes</string>
     <string name="item_crane_form">Gruiformes</string>
     <string name="item_hayabusa">Falconidae</string>
+    <string name="item_liebird">Πικιφόρες</string>
     <string name="item_long_nose">Proboscidea</string>
     <string name="item_marsupial">Marsupials</string>
     <string name="item_meat">Carnivora</string>
@@ -313,6 +316,7 @@
     <string name="primary_color_region_summary">Αυτόματη αναγνώριση χρωματικής γκάμας μέσω της βαθμονόμησης χρώματος</string>
     <string name="privacy_policy">Πολιτική απορρήτου</string>
     <string name="puffin">Atlantic puffin</string>
+    <string name="random_play_sound_alert">"Θα ακούτε τους ήχους των ζώων από αυτήν την περιοχή όταν λαμβάνετε ειδοποιήσεις"</string>
     <string name="red_billed_hornbill">Red-billed hornbill</string>
     <string name="reset_edit">Απόρριψη αλλαγών</string>
     <string name="restore_default">Επαναφορά προεπιλογών</string>

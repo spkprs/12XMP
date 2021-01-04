@@ -451,6 +451,7 @@
     <string name="hints_quick_cleanning">Καθαρισμός…</string>
     <string name="hints_quick_cleanuping">Βελτιστοποίηση…</string>
     <string name="hints_quick_deep_clean">Καθαρισμός τώρα</string>
+    <string name="hints_quick_deep_clean2">Ελευθερώστε %s</string>
     <string name="hints_quick_deep_scanning">Σάρωση</string>
     <string name="hints_quick_deep_uninstall">Διαγραφή τώρα</string>
     <string name="hints_quick_prepare">Προετοιμασία…</string>
@@ -680,6 +681,19 @@
     <string name="petabyteShort">PB</string>
     <string name="phone_search">Αναζήτηση στο Google</string>
     <string name="positive_confirm">Εντάξει</string>
+    <string name="powerful_acceleration">Ανασυγκρότηση</string>
+    <string name="powerful_acceleration_after">Μετά</string>
+    <string name="powerful_acceleration_before">Πριν</string>
+    <string name="powerful_acceleration_enable_summary">"Η Ανασυγκρότηση θα εκτελεστεί αυτόματα ενώ δεν χρησιμοποιείτε τη συσκευή"</string>
+    <string name="powerful_acceleration_enable_title">Εκτέλεση Ανασυγκρότησης στο παρασκήνιο</string>
+    <string name="powerful_acceleration_item_button">Ενεργοποίηση</string>
+    <string name="powerful_acceleration_item_tip_normal">Ο χώρος αποθήκευσής σας φαίνεται εντάξει!</string>
+    <string name="powerful_acceleration_notification_summary">Πατήστε για να ελευθερώσετε περισσότερο χώρο</string>
+    <string name="powerful_acceleration_notification_title">Η Ανασυγκρότηση ολοκληρώθηκε</string>
+    <string name="powerful_acceleration_tip">Η εσωτερική αποθήκευση χρειάζεται κατακερματισμό, γεγονός που μπορεί να επιβραδύνει σημαντικά τη συσκευή σας. Με την ανασυγκρότηση οργανώνονται τα αρχεία σας με τον μικρότερο δυνατό αριθμό τμημάτων που μειώνουν την καθυστέρηση.</string>
+    <string name="powerful_acceleration_tip_high"><Data>Ο χώρος αποθήκευσης είναι &lt;font color=#ff0000 >σοβαρά&lt;/font> κατακερματισμένος. Ο κατακερματισμός μπορεί να λύσει το πρόβλημα.</Data></string>
+    <string name="powerful_acceleration_tip_middle"><Data>Ο χώρος αποθήκευσης είναι &lt;font color=#ff0000 >ελαφρώς&lt;/font> κατακερματισμένος. Ο κατακερματισμός μπορεί να λύσει το πρόβλημα.</Data></string>
+    <string name="powerful_acceleration_toast">"Η ανασυγκρότηση θα πραγματοποιηθεί όταν δεν χρησιμοποιείτε τη συσκευή"</string>
     <string name="pref_about_privacy_title">Πολιτική Απορρήτου</string>
     <string name="pref_category_title_auto_clean_settings">Υπενθύμιση καθαρισμού</string>
     <string name="pref_category_title_auto_update_cleanup_db">Πρόσθετες ρυθμίσεις</string>
@@ -728,6 +742,8 @@
     <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
     <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>
     <string name="preference_key_scan_engine">key_scan_engine</string>
+    <string name="preference_key_video_clean_auto_clean">key_video_clean_auto_clean</string>
+    <string name="preference_key_video_clean_create_desktop_icon">key_video_clean_create_desktop_icon</string>
     <string name="preference_key_wechat_garbage_clean_alert">key_wechat_clean_switch_state</string>
     <string name="preference_key_wechat_garbage_cleanup_auto_check_size">key_wechat_timed_auto_scan_notify_size</string>
     <string name="preference_key_wechat_garbage_cleanup_auto_check_time">key_wechat_timed_auto_scan_interval</string>
@@ -771,6 +787,9 @@
     <string name="resutl_function_deep_clean_summary">"\"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; περισσότερα αρχεία μπορούν να διαγραφούν. Απελευθερώστε περισσότερο χώρο.\" "</string>
     <string name="resutl_function_qq_clean_summary">" \"Καθαρίστε &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; της προσωρινής μνήμης που δημιουργείται από το QQ\" "</string>
     <string name="resutl_function_wechat_clean_summary">"\"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt;  WeChat cache. Απελευθερώστε περισσότερο χώρο.\" "</string>
+    <string name="rs_clean_size_free_space">Ελευθερώστε %s</string>
+    <string name="rs_clean_size_storage_size">Κατειλημμένα %1$s/%2$s</string>
+    <string name="rs_clean_size_storage_title">Αποθήκευση</string>
     <string name="sc_allow_network_dialog_button">Αποδοχή</string>
     <string name="sc_allow_network_dialog_message">Να επιτρέπεται σε αυτή την εφαρμογή να συνδεθεί στο Internet για λήψη ενημερώσεων;</string>
     <string name="scanning">Σάρωση…</string>
@@ -914,6 +933,26 @@
     <string name="update_date_format">MM/dd/yyyy</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="video_clean">Διαγραφή προσωρινά αποθηκευμένων βίντεο</string>
+    <string name="video_clean_auto_clean">Εκκαθάριση αυτόματα</string>
+    <string name="video_clean_auto_clean_summary">Εκκαθάριση προσωρινά αποθηκευμένων βίντεο μετά τη σάρωση</string>
+    <string name="video_clean_cache_tip">Τα εκκαθαρισμένα βίντεο μπορούν να φορτωθούν ξανά μετά</string>
+    <string name="video_clean_create_desktop_icon">Συντόμευση στην αρχική οθόνης</string>
+    <string name="video_clean_create_desktop_icon_summary">Προσθέστε μια συντόμευση στην αρχική οθόνη για να διαγράψετε τα προσωρινά αποθηκευμένα βίντεο με ένα πάτημα</string>
+    <string name="video_clean_desktop_icon_created">Προστέθηκε με επιτυχία η συντόμευση στην αρχική οθόνη</string>
+    <string name="video_clean_garbage">Προσωρινά αποθηκευμένα βίντεο</string>
+    <string name="video_clean_garbage_cleared">Διαγράφηκαν επιτυχώς τα προσωρινά αποθηκευμένα βίντεο</string>
+    <string name="video_clean_notification_summary">Διαγράψτε τα βίντεο που αποθηκεύονται στην κρυφή μνήμη από εφαρμογές</string>
+    <string name="video_clean_notification_title">Ελευθερώστε %s</string>
+    <string name="video_clean_personal_settings_title">Πρόσθετες ρυθμίσεις</string>
+    <string name="video_clean_qq_clean_summary">Καθαρισμός απορριμμάτων για την απελευθέρωση αποθήκευσης</string>
+    <string name="video_clean_qq_clean_title">QQ εκκαθαριστής</string>
+    <string name="video_clean_remind_settings_title">Υπενθύμιση για καθαρισμό</string>
+    <string name="video_clean_scan_app_tip">Σάρωση εφαρμογών %1$d/%2$d</string>
+    <string name="video_clean_video_manager_summary">Διαχείριση όλων των βίντεο που είναι αποθηκευμένα στη συσκευή σας</string>
+    <string name="video_clean_video_manager_title">Διαχείριση βίντεο</string>
+    <string name="video_clean_wechat_clean_summary">Καθαρισμός απορριμμάτων για ενίσχυση της ταχύτητας</string>
+    <string name="video_clean_wechat_clean_title">WeChat εκκαθαριστής</string>
     <string name="virus_scan">Ελεγχος Ασφαλείας</string>
     <string name="vungle_ad_name">Βανγκλ</string>
     <string name="wechat_chat_data_type_cache">Μνήμη cache WeChat</string>

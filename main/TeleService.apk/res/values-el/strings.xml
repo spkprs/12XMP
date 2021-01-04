@@ -977,7 +977,7 @@
     <string name="fiveg_sa_switch_title">Κατάσταση λειτουργίας SA</string>
     <string name="fiveg_sa_switch_title_slot0">SIM %d SA λειτουργία</string>
     <string name="fiveg_sa_switch_title_slot1">SIM %d SA λειτουργία</string>
-    <string name="fiveg_sa_switch_warning_toast">Επανεκκινήστε το τηλέφωνο για να τεθεί σε ισχύ.</string>
+    <string name="fiveg_sa_switch_warning_toast">Επανεκκινήστε τη συσκευή σας για εφαρμογή αλλαγών.</string>
     <string name="fiveg_sa_vice_switch_title">SA σε δευτερεύουσα κάρτα SIM</string>
     <string name="fiveg_signal_strength1">"Ισχύς σήματος 5G : "</string>
     <string name="fiveg_switch_status1">"Κατάσταση διακόπτη 5G : "</string>
@@ -985,7 +985,7 @@
     <string name="fiveg_upperlayer_indication1">"Κατάσταση ένδειξης ανώτερου επιπέδου  : "</string>
     <string name="flash_when_ring_summary">Χρήση του LED για ειδοποίηση εισερχόμενων κλήσεων</string>
     <string name="flash_when_ring_title">Φωτισμός LED στις Κλήσεις</string>
-    <string name="forbidden_network">(forbidden)</string>
+    <string name="forbidden_network">(απαγορεύεται)</string>
     <string name="force_allow_on_external">Επιβολή δυνατότητας σε εφαρμογές εξωτερικού</string>
     <string name="force_allow_on_external_summary">Μετατρέπει οποιαδήποτε εφαρμογή είναι κατάλληλη για εγγραφή σε εξωτερικό χώρο αποθήκευσης, ανεξάρτητα από τις τιμές διακήρυξης</string>
     <string name="force_msaa">Δύναμη 4x MSAA</string>

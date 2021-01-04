@@ -376,7 +376,7 @@
     <string name="cast_devices_unavailable_desc">Σιγουρευτείτε οτι Συσκευή και ο Projector είναι συνδεδεμένοι στο ίδιο δίκτυο Wi-Fi</string>
     <string name="cast_devices_unavailable_title">Αδύνατη η εύρεση Projector</string>
     <string name="cd_back">Επαναφορά</string>
-    <string name="cd_btn_back">Το κουμπί "Πίσω"</string>
+    <string name="cd_btn_back">Το κουμπί "\Πίσω\"</string>
     <string name="cd_revoke">Αναίρεση</string>
     <string name="cd_zidingyianniu">Το κουμπί για την προσαρμογή του μεγέθους της εικόνας</string>
     <string name="change_to_face_mode">Ταξινόμηση κατά άτομα</string>

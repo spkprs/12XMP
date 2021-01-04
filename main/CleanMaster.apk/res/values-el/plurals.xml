@@ -169,4 +169,16 @@
         <item quantity="other">Διαγραφή %d πακέτων εγκατάστασης</item>
         <item quantity="one">Διαγραφή %d πακέτου εγκατάστασης</item>
     </plurals>
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Αρκετό για %d φωτογραφίες</item>
+        <item quantity="one">Αρκετό για %d φωτογραφία</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Αρκετό για %d τραγούδια</item>
+        <item quantity="one">Αρκετό για %d τραγούδι</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d εφαρμ. με προσωρινά αποθηκ. βίντεο</item>
+        <item quantity="one">%d εφαρμ. με προσωρινό αποθηκ. βίντεο</item>
+    </plurals>
 </resources>
