@@ -899,6 +899,7 @@
     <string name="gxzw_use_password_to_unlock">Εισαγωγή κωδικού</string>
     <string name="hdcp_checking_dialog_title">Ρύθμιση συμπεριφοράς ελέγχου HDCP</string>
     <string name="hdcp_checking_title">Έλεγχος HDCP</string>
+    <string name="heads_up_snooze_toast">"Οι ειδοποιήσεις από αυτήν την εφαρμογή δεν θα εμφανίζονται μέχρι να ξεκλειδώσετε ξανά τη συσκευή σας"</string>
     <string name="headset">Ακουστικά</string>
     <string name="help_feedback_label">Βοήθεια και σχόλια</string>
     <string name="hidden_notifications_cancel">Οχι ευχαριστώ</string>

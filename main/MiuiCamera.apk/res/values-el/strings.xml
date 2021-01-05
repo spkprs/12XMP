@@ -659,6 +659,12 @@
     <string name="macro_mode_tip">Η απόσταση μεταξύ φακού και αντικειμένου δεν πρέπει να υπερβαίνει τα 10εκ</string>
     <string name="macro_mode_use_hint_text_body">Ενεργοποιήστε τη λειτουργία Macro για να καταγράψετε έναν πιο μικροσκοπικό κόσμο για εσάςΕξερευνήστε την ομορφιά περισσότερων λεπτομερειών</string>
     <string name="macro_mode_use_hint_text_title">Λειτουργία Macro</string>
+    <string name="makeup_effect_entry_apricot_white">Αλάβαστρο</string>
+    <string name="makeup_effect_entry_dusk_night">Σκοτεινό</string>
+    <string name="makeup_effect_entry_neutral">Ουδέτερο</string>
+    <string name="makeup_effect_entry_palm">Φοίνικας</string>
+    <string name="makeup_effect_entry_taro">Taro</string>
+    <string name="makeup_effect_entry_vitality">Ζωντάνια</string>
     <string name="makeup_reset_toast">Εκκαθαρίστηκαν επιτυχώς τα εφέ μακιγιάζ</string>
     <string name="manual_picture_style">Παράμετροι</string>
     <string name="message_snap_double_confirm">Με το πάτημα του κουμπιού έντασης ενεργοποιείται το NFC. Αντικατάσταση αυτής της λειτουργίας;</string>
