@@ -1146,6 +1146,8 @@
     <string name="pref_camera_tilt_shift_entry_circle">Κύκλος</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Παράλληλα</string>
     <string name="pref_camera_tilt_shift_title">Θάμπωμα</string>
+    <string name="pref_camera_tip_doc">Σαρωτής εγγράφων</string>
+    <string name="pref_camera_tip_id_card">Σαρωτής Ταυτότητας</string>
     <string name="pref_camera_touch_focus_delay_title">延长触摸对焦超时时间</string>
     <string name="pref_camera_touchafaec_entry_off">Off</string>
     <string name="pref_camera_touchafaec_entry_on">On</string>
@@ -1252,6 +1254,7 @@
     <string name="pref_skin_beautify_intelligent_title">Έξυπνη</string>
     <string name="pref_skin_beautify_slim_title">Λεπτή</string>
     <string name="pref_skin_beautify_smooth_title">Δέρμα</string>
+    <string name="pref_smart_guide_title">Έξυπνες προτάσεις</string>
     <string name="pref_userdefine_watermark_title">Υδατογράφημα χρήστη</string>
     <string name="pref_video_captrue_ability_title">Λήψη φωτογραφιών κατά την εγγραφή</string>
     <string name="pref_video_denoise_off">Ανενεργό</string>
@@ -1309,6 +1312,8 @@
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="search_settings">Ρυθμίσεις κάμερας;Ποιότητα;Ποιότητα εικόνας;Θέση εικόνας;Θέση εικόνας;Ανίχνευση προσώπου;Ήχος κάμερας</string>
     <string name="see_qrcode_detals">Προβολή QR κώδικα</string>
+    <string name="settings_camera_detect_card_description">Εμφάνιση συντόμευσης κάθε φορά που η κάμερα AI εντοπίζει μια ταυτότητα</string>
+    <string name="settings_camera_detect_description_doc">Εμφάνιση συντόμευσης κάθε φορά που η κάμερα AI εντοπίζει ένα έγγραφο ή μια διαφάνεια παρουσίασης</string>
     <string name="settings_camera_near_range_description">Αφαίρεση θολώματος όταν εστιάζετε σε επίπεδες επιφάνειες πολύ κοντά</string>
     <string name="settings_camera_near_range_title">Κλείσιμο εστίασης</string>
     <string name="share">Κοινή χρήση</string>

@@ -2827,7 +2827,7 @@
     <string name="game_driver_footer_text">Όταν το Game Driver είναι ενεργοποιημένο, μπορείτε να επιλέξετε να χρησιμοποιήσετε το ενημερωμένο πρόγραμμα οδήγησης γραφικών για εφαρμογές που είναι εγκατεστημένες στη συσκευή.</string>
     <string name="game_storage_settings">Παιχνίδια</string>
     <string name="general_text">Πεδίο κειμένου</string>
-    <string name="general_time">"Ώρα: %1$d:%2$d. Η μακριά δόνηση αντιπροσωπεύει ώρες, η μικρή δόνηση λεπτά. Θα υπάρξει μια σύντομη παύση πριν από ώρες και λεπτά. Πατήστε δύο φορές για δοκιμή."</string>
+    <string name="general_time">"Ώρα: %1$d:%2$d. Η μακριά δόνηση αντιπροσωπεύει ώρες, η μικρή δόνηση λεπτά. Θα υπάρξει μια σύντομη παύση μεταξύ ωρών και λεπτών. Πατήστε δύο φορές για δοκιμή."</string>
     <string name="gentle_notifications_also_display">Επίσης, εμφάνιση σε</string>
     <string name="gentle_notifications_display_lock">Κλείδωμα οθόνης</string>
     <string name="gentle_notifications_display_status">Γραμμή κατάστασης</string>
