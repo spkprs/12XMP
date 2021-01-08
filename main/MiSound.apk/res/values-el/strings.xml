@@ -215,6 +215,7 @@
     <string name="sound_transmission_dialog_message">Βοηθός ήχου</string>
     <string name="sound_transmission_dialog_title">Ενεργοποίηση B/Τ</string>
     <string name="sound_transmission_end">Διακοπή</string>
+    <string name="sound_transmission_function_generalize">"Μετάδοση ήχου από το μικρόφωνο του τηλεφώνου σας σε εξωτερική συσκευή Bluetooth"</string>
     <string name="sound_transmission_processing">Μικρόφωνο</string>
     <string name="sound_transmission_prompt">Επιτρέψτε σε αυτό το χαρακτηριστικό να ενεργοποιήσει το Bluetooth για να μπορείτε να χρησιμοποιήσετε ασύρματο μικρόφωνο.</string>
     <string name="sound_transmission_scenes">Σκηνή</string>

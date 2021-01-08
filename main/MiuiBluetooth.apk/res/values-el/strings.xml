@@ -266,8 +266,13 @@
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Παρατεταμένα το επάνω κουμπί για %1$s δευτ. κατά την απενεργοποίηση</string>
     <string name="fast_connect_reset_common">Επαναφορά αυτής της συσκευής ώστε να είναι δυνατή η σύζευξη</string>
+    <string name="fast_connect_same_accout_devices_title">Αυτή είναι η άλλη συνδεδεμένη συσκευή σας: %1$s</string>
     <string name="fast_connect_wbs_name">Ασύρματο ηχείο φορτιστή Mi</string>
     <string name="fast_connect_wbs_reset">Παρατεταμένα το επάνω κουμπί για %1$s δευτ. κατά την απενεργοποίηση</string>
+    <string name="fast_connect_new_feture_anti_lost">Προστασία από απώλεια</string>
+    <string name="fast_connect_new_feture_same_account">Ίδιος λογαριασμός Χωρίς Ζεύγος</string>
+    <string name="fast_connect_new_feture_sound_normalizer">Ισοσταθμιση ήχου</string>
+    <string name="fast_connect_new_feture_title">Νέες λειτουργίες</string>
     <string name="feiyu_vlog_name">Τσέπη Feiyu VLOG</string>
     <string name="force_allow_on_external">Επιβολή δυνατότητας εγγραφής εφαρμογών σε εξωτερικό χώρο αποθήκευσης</string>
     <string name="force_allow_on_external_summary">Μετατρέπει οποιαδήποτε εφαρμογή είναι κατάλληλη για εγγραφή σε εξωτερικό χώρο αποθήκευσης, ανεξάρτητα από τις τιμές διακήρυξης</string>

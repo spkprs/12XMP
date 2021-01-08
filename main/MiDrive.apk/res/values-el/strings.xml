@@ -136,6 +136,8 @@
     <string name="delete_file_success">Διαγράφηκε με επιτυχία</string>
     <string name="delete_record_only">Τα στοιχεία στα οποία αναφέρονται επιλεγμένες εγγραφές δεν θα διαγραφούν.</string>
     <string name="delete_success">Διαγράφηκε με επιτυχία</string>
+    <string name="detail_download_path">"Τοποθεσία: "</string>
+    <string name="detail_download_time">"Λήφθησαν: "</string>
     <string name="diagnosis_log_send_failed">Δεν ήταν δυνατή η αποστολή αρχείων καταγραφής. Δοκίμασε ξανά.</string>
     <string name="diagnosis_log_sent_format">Στάλθηκαν αρχεία καταγραφής με επιτυχία.\nID:%s\nΣτείλτε αυτόν τον κωδικό στον επόπτη.</string>
     <string name="dialog_content_delete_pdf_content">Θέλετε να διαγράψετε αυτό το PDF τώρα;</string>

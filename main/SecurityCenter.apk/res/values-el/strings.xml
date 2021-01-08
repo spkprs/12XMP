@@ -116,6 +116,7 @@
     <string name="activity_title_virus_settings">Ρυθμίσεις</string>
     <string name="activity_title_white_list">Εξαιρέσεις</string>
     <string name="ad_btn_default_text">Μάθετε περισσότερα</string>
+    <string name="ad_floating_window_title">Κλείσιμο αιωρούμενου παραθύρου για ξεκλείδωμα</string>
     <string name="ad_split_screen_title">Έξοδος απο Διαίρεση οθόνης για να ξεκλειδώσετε</string>
     <string name="ad_update_time">Ενημερώθηκε: %s</string>
     <string name="ad_update_time_unKnown">Ενημερώθηκε: άγνωστο</string>
@@ -1034,6 +1035,10 @@
     <string name="dlg_no_block_ok">Άρση αποκλεισμού</string>
     <string name="dlg_not_block_call">Άρση αποκλεισμού των επιλεγμένων αριθμών; Θα προστεθούν στις εξαιρέσεις, αλλά τα στοιχεία που έχουν αποκλειστεί στο παρελθόν δεν θα εμφανίζονται στο ιστορικό κλήσεων.</string>
     <string name="dlg_not_block_sms">Άρση αποκλεισμού των επιλεγμένων αριθμών; Θα προστεθούν στις εξαιρέσεις, αλλά τα στοιχεία που έχουν αποκλειστεί στο παρελθόν δεν θα εμφανίζονται στα Εισερχόμενα μηνύματα.</string>
+    <string name="dlg_onlie_service_summary">Η απενεργοποίηση των διαδικτυακών υπηρεσιών θα καταστήσει μη διαθέσιμες ορισμένες δυνατότητες της εφαρμογής. Απενεργοποίηση ούτως ή άλλως;</string>
+    <string name="dlg_open_online_service_pos_text">Ενεργοποίηση</string>
+    <string name="dlg_open_online_service_summary">"Ορισμένες δυνατότητες δεν θα είναι διαθέσιμες όταν οι ηλεκτρονικές υπηρεσίες είναι απενεργοποιημένες. Να ενεργοποιηθούν τώρα;"</string>
+    <string name="dlg_open_online_service_title">Ηλεκτρονικές υπηρεσίες</string>
     <string name="dlg_remove_address_blacklist">Διαγραφή αυτής της τοποθεσίας από τις αποκλεισμένες;</string>
     <string name="dlg_remove_address_whitelist">Διαγραφή αυτής της τοποθεσίας από τις εξαιρέσεις;</string>
     <string name="dlg_remove_blacklist">Διαγραφή αυτών των αριθμών από την λίστα;</string>
@@ -1766,6 +1771,8 @@
     <string name="image_protect_recover_success">Η επαναφορά ολοκληρώθηκε με επιτυχία</string>
     <string name="image_protect_tips_title">Διαγραφή φωτογραφιών</string>
     <string name="image_protect_total_activity_label">Λήψη ειδοποιήσεων για διαγραμμένες φωτογραφίες</string>
+    <string name="in_delete">Διαγραφή…</string>
+    <string name="in_recover">Επαναφορά…</string>
     <string name="info_and_call">Κλήσεις και μηνύματα</string>
     <string name="info_antispam_close">AntiSpam ανενεργό</string>
     <string name="info_antispam_current_mode">%s</string>
@@ -3060,7 +3067,7 @@
     <string name="privacy_show_password_summary">Διατηρήστε τους κωδικούς πρόσβασης ορατούς για μικρό χρονικό διάστημα</string>
     <string name="privacy_special_permission_summary">Παρακολουθήστε τον τρόπο με τον οποίο οι εφαρμογές χρησιμοποιούν ευαίσθητες Άδειες</string>
     <string name="privacy_special_permission_title">Ειδικές Άδειες</string>
-    <string name="privacy_summary">Μάθετε σχετικά με την προστασία της ιδιωτικής ζωής στο MIUI 12</string>
+    <string name="privacy_summary">Πληροφορίες σχετικά με το απόρρητο MIUI</string>
     <string name="privacy_thumbnail_blur_category_financial">Χρηματοοικονομικά</string>
     <string name="privacy_thumbnail_blur_category_other">Άλλα</string>
     <string name="privacy_thumbnail_blur_category_photography">Φωτογραφία &amp; βίντεο</string>
@@ -3241,6 +3248,7 @@
     <string name="set_pattern_password_name">Εισαγωγή μοτίβου</string>
     <string name="set_traffic_tips">Ορίστε το πρόγραμμα δεδομένων σας για διαχείριση της χρήσης δεδομένων και αποφυγή πρόσθετων χρεώσεων φορέα</string>
     <string name="setting">Ρυθμίσεις</string>
+    <string name="setting_online_service">Ηλεκτρονικές υπηρεσίες</string>
     <string name="setting_privacy_password">Ορισμός κωδικού Προσωπικής προστασίας</string>
     <string name="settings">Ρυθμίσεις χρήσης δεδομένων</string>
     <string name="settings_battery_consume_abnormal_summary">Ειδοποίηση όταν η μπαταρία εξαντλείται γρήγορα</string>

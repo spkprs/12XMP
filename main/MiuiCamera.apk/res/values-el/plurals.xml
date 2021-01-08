@@ -45,4 +45,8 @@
         <item quantity="other">%1$s φωτογρ.</item>
         <item quantity="one">%1$s φωτογρ.</item>
     </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="one">Μπορείτε να τραβήξετε βίντεο παγώματος χρόνου μόνο με %d θέμα.</item>
+        <item quantity="other">Μπορείτε να τραβήξετε βίντεο παγώματος χρόνου μέχρι και %d θέματα.</item>
+    </plurals>
 </resources>
