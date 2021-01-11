@@ -847,6 +847,7 @@
     <string name="fs_gesture_switch_recents_summary">Σύρετε από κάτω και σταματήστε</string>
     <string name="fsg_demo_back">Πίσω</string>
     <string name="fsg_demo_go_on">Εκμάθηση</string>
+    <string name="garbage_count">Υπάρχουν %1$s παλιές περιπτώσεις</string>
     <string name="global_action_lock_message">Ξεκλειδώστε το τηλέφωνό σας για περισσότερες επιλογές</string>
     <string name="global_action_screenshot">Στιγμιότυπο οθόνης</string>
     <string name="go_to_web">Πηγαίνετε στο διαδίκτυο</string>
@@ -1284,6 +1285,7 @@
     <string name="megabyte_per_second">M/s</string>
     <string name="memory_clear_result_giga">Καθαρισμός %1$s GB</string>
     <string name="memory_clear_result_mega">Καθαρισμός %1$s MB</string>
+    <string name="memory_leak">Διαρροή μνήμης</string>
     <string name="menu_ime">Διακόπτης πληκτρολογίου</string>
     <string name="mic_active">Ενεργό μικρόφωνο</string>
     <string name="miui_guide_dialog_button_negative_text">Ρυθμίσεις</string>

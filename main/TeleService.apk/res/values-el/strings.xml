@@ -2136,7 +2136,7 @@
     <string name="voicemail_provider">Υπηρεσία τηλεφωνητή</string>
     <string name="voicemail_provider_summary">Επιλογή υπηρεσίας τηλεφωνητή</string>
     <string name="voicemail_set_pin_dialog_title">Ορισμός PIN</string>
-    <string name="voicemail_settings">Ρυθμίσεις αυτόματου τηλεφωνητή</string>
+    <string name="voicemail_settings">Ρυθμίσεις φωνητικού ταχυδρομείου</string>
     <string name="voicemail_settings_number_hint">Εισαγωγή αριθμού αυτόμ τηλεφωνητή</string>
     <string name="voicemail_settings_number_label">Αριθμός αυτόματου τηλεφωνητή</string>
     <string name="voicemail_settings_number_title">Αριθμός αυτόματου τηλεφωνητή</string>

@@ -182,6 +182,7 @@
     <string name="change_wallpaper">Αλλαγή</string>
     <string name="choose_wallpaper">Επιλογή ταπετσαρίας</string>
     <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
+    <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="cloud_app_restore_title">Σε αναμονή</string>
     <string name="common_home_search_delete">Διαγραφή Αναζήτ. Αρχ. Οθόνης</string>
     <string name="common_home_search_delete_cancle">Ακύρωση</string>

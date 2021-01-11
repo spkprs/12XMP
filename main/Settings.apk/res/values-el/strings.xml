@@ -3343,6 +3343,7 @@
     <string name="launch_wechat_scanner">WeChat σαρωτής</string>
     <string name="launch_wifi_text">Δείτε λεπτομέρειες</string>
     <string name="launcher_icon">Εικονίδια</string>
+    <string name="launcher_icon_management">Διαχείριση συντομεύσεων Αρχικής Οθόνης</string>
     <string name="launcher_title">Αρχική Οθόνη &amp; Πρόσφατα</string>
     <string name="launching_cit">Έναρξη cit, παρακαλώ περιμένετε.</string>
     <string name="launching_pho">Έναρξη πληροφ.τηλεφώνου, παρακαλώ περιμένετε.</string>
