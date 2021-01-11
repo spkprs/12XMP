@@ -74,6 +74,11 @@
     <string name="device_type_pc">PC</string>
     <string name="disable_nfc">Απενεργοποίηση NFC για ασύρματη φόρτιση</string>
     <string name="disable_nfc_reverse">Απενεργοποίηση NFC για αντίστροφη ασύρματη φόρτιση</string>
+    <string name="dock_tip_floatwindow">Κρατήστε τη μπάρα και σύρετέ την στην άκρη της οθόνης για είσοδο σε προβολή διαχωρισμού οθόνης</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Σύρετε τη μπάρα οριζόντια για να αλλάξετε τις θέσεις των δύο παραθύρων της εφαρμογής.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Κρατήστε την και σύρετε την προς τα κάτω για μετάβαση σε ένα κινούμενο παράθυρο.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Σύρετε την κάθετα για να αλλάξετε τις θέσεις των δύο παραθύρων της εφαρμογής.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Κρατήστε την και σύρετε την αριστερά ή δεξιά στην άκρη της οθόνης για μετάβαση σε ένα κινούμενο παράθυρο.</string>
     <string name="eighthours">8 ώρες</string>
     <string name="enable_livetalk_summary">Εξοικονομήστε 70% στις χρεώσεις σας</string>
     <string name="enable_livetalk_title">Ενεργοποίηση πακέτου Top-up</string>
@@ -155,7 +160,8 @@
     <string name="mi_drop">Mi Share</string>
     <string name="miaudiovisual_notification_summary">Ενεργοποίηση για εμφάνιση εφέ στην οθόνη κλειδώματος</string>
     <string name="miaudiovisual_notification_title">Ήχος και οπτικά εφέ</string>
-    <string name="miui_forbid_poweroff_when_device_locked">Αδύνατηη απενεργοποίηση, η συσκευή είναι κλειδωμένη.</string>
+    <string name="miui_forbid_poweroff_when_device_locked">Αδύνατη η απενεργοποίηση, η συσκευή είναι κλειδωμένη.</string>
+    <string name="miui_multiwindow_not_support_split">%1$s δεν υποστηρίζει την Προβολή Διαχωρισμού Οθόνης.</string>
     <string name="miui_screen_ratio_hint">Θέμα αναλογίας οθόνης</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Να μην εμφανιστεί ξανά</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Ρυθμίσεις</string>
