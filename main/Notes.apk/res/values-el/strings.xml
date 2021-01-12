@@ -705,4 +705,8 @@
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Διαθέσιμη νέα έκδοση</string>
     <string name="yesterday">Yesterday</string>
+    <string name="blackboard_note">Έξυπνος πίνακας</string>
+    <string name="default_update_documents">Διατίθεται ενημέρωση. Ενημέρωση τώρα?</string>
+    <string name="note_mindnote_entrance_hint_newversion">"Ξεκινήστε να πληκτρολογείτε "</string>
+    <string name="note_mindnote_entrance_icon_text_newversion">Δημιουργία χάρτη μυαλού</string>
 </resources>

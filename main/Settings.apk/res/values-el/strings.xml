@@ -6548,9 +6548,6 @@
     <string name="switchNetworkToast">Η σύνδεση σε δίκτυα κινητής μπορεί να δημιουργήσει πρόσθετες χρεώσεις</string>
     <string name="switch_access_service_on">Εναλλαγή Πρόσβασης</string>
     <string name="switch_bootup_sound">Ήχος εκκίνησης</string>
-    <string name="switch_headset_anti_lost">耳机防丢提醒</string>
-    <string name="switch_headset_anti_lost_summary">耳机离耳离盒一分钟后手机弹出防丢提醒</string>
-    <string name="switch_headset_anti_lost_title">耳机防丢</string>
     <string name="switch_off_text">Ανενεργό</string>
     <string name="switch_on_text">Ενεργό</string>
     <string name="switch_screen_button_order">Αντίθετα Πλήκτρα</string>
@@ -8294,4 +8291,9 @@
     <string name="zone_menu_by_region">Επιλογή ανά περιοχή</string>
     <string name="zone_time_type_dst">Θερινή ώρα</string>
     <string name="zone_time_type_standard">Επίσημη ώρα</string>
+    <string name="switch_headset_anti_lost">Λείπει η ειδοποίηση ακουστικών</string>
+    <string name="switch_headset_anti_lost_summary">Λάβετε μια ειδοποίηση κάθε φορά που ένα από τα ακουστικά σας βρίσκεται μακριά από το αυτί ή τη θήκη φόρτισης για περισσότερο από ένα λεπτό</string>
+    <string name="switch_headset_anti_lost_title">Ειδοποίηση ακουστικών</string>
+    <string name="wifi_enhanced_handover">Βελτιωμένη παράδοση</string>
+    <string name="wifi_enhanced_handover_summary">Γρήγορη εναλλαγή μεταξύ AP με την ίδια μέθοδο κρυπτογράφησης</string>
 </resources>

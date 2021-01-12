@@ -302,6 +302,8 @@
     <string name="headset_fw_error_failed">"Δεν είναι δυνατή η ενημέρωση. Οι πληροφορίες υλικολογισμικού είναι εσφαλμένες."</string>
     <string name="headset_fw_file_position_failed">"Δεν ήταν δυνατή η πρόσβαση στο αρχείο"</string>
     <string name="headset_fw_file_readfailed">"Δεν ήταν δυνατή η λήψη πληροφοριών ενημέρωσης"</string>
+    <string name="headset_loss_notify_summary">Φαίνεται ότι τουλάχιστον ένα από τα ακουστικά σας δεν είναι στην υπδοχή φόρτισης. Ρίξτε μια ματιά!</string>
+    <string name="headset_loss_notify_title">Λείπει η ειδοποίηση ακουστικών</string>
     <string name="headset_read_fw_state">"Δεν ήταν δυνατή η λήψη πληροφοριών ενημέρωσης"</string>
     <string name="headset_update_failed">"Δεν ήταν δυνατή η ενημέρωση"</string>
     <string name="headset_update_ok">Τέλος</string>

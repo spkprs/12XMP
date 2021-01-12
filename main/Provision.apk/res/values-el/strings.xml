@@ -182,7 +182,7 @@
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="protect_persoanl_info_statement">Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.</string>
     <string name="provision_back">Πίσω</string>
-    <string name="provision_inputmethod_policy_description">"\nΠροβολή Πολιτικής Απορρήτου επιλεγμένου πληκτρολογίου."</string>
+    <string name="provision_inputmethod_policy_description"><Data>Δείτε την &lt;a href=%1$s>Πολιτική απορρήτου&lt;/a > του επιλεγμένου πληκτρολογίου.</Data></string>
     <string name="provision_inputmethod_policy_description1">Πολιτική Απορρήτου</string>
     <string name="provision_next">Επόμενο</string>
     <string name="provision_skip_underline">Παράλειψη</string>

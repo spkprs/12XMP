@@ -581,7 +581,7 @@
     <string name="user_avatar_update_title">Αλλαγή φωτογραφίας προφίλ</string>
     <string name="user_avatar_uploading">Μισό λεπτό…</string>
     <string name="user_id_hint">Αναγνωριστικό λογαριασμού email/τηλεφώνου/Mi</string>
-    <string name="user_protocol_and_privacy_protocol">Έχω διαβάσει και συμφωνήσει με τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου.</string>
+    <string name="user_protocol_and_privacy_protocol"><Data>"Διάβασα και συμφώνησα με &lt;a href=\"%1$s\">Σύμβαση χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>."</Data></string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="v_code_title">Εισαγωγή κωδικού επαλήθευσης</string>

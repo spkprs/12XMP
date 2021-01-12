@@ -395,6 +395,8 @@
     <string name="clone_video_mode">Βίντεο</string>
     <string name="close_back_flash_toast">Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση φλας τώρα.</string>
     <string name="close_front_flash_toast">Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση φλας τώρα.</string>
+    <string name="close_night_algo_toast_low_power">Φορτίστε τη συσκευή σας για να μπορείτε να ρυθμίσετε την έκθεση</string>
+    <string name="close_night_algo_toast_thermal">Κρυώστε τη συσκευή σας για να μπορέσετε να ρυθμίσετε την έκθεση</string>
     <string name="color_effect_entry_berry">Berries</string>
     <string name="color_effect_entry_blackgold">Rhodium</string>
     <string name="color_effect_entry_blackgold_describe">Αυτό το φίλτρο υψηλής αντίθεσης διατηρεί μόνο κίτρινα και σκούρα μπλε χρώματα. Χρησιμοποιήστε το σε καλά φωτισμένους δρόμους μιας νυχτερινής πόλης.</string>
@@ -1079,7 +1081,7 @@
     <string name="pref_camera_heic_image_format_description2">"Η μορφή αρχείων εικόνας υψηλής απόδοσης εξοικονομεί χώρο αποθήκευσης, αλλά δεν υποστηρίζεται από ορισμένες εφαρμογές τρίτων. Δεν μπορείτε να κάνετε λήψη ζωντανές φωτογραφίες και να αφαιρέσετε υδατογραφήματα σε HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Μορφή HEIC</string>
     <string name="pref_camera_hfr_entry_off">Off</string>
-    <string name="pref_camera_high_quality_preferred_description">Βελτιώστε την ποιότητα εικόνας χρησιμοποιώντας τον έξυπνο αλγόριθμο. Η ταχύτητα αποτύπωσης εικόνας μπορεί να μειωθεί όταν αυτό το χαρακτηριστικό είναι ενεργοποιημένο.</string>
+    <string name="pref_camera_high_quality_preferred_description">Βελτίωση εφέ απεικόνισης μέσω αλγορίθμων με χρόνο λήψης μεγαλύτερο. Εάν αναγνωριστεί ένα περιβάλλον σκοτεινού φωτός, θα ενεργοποιηθεί η λήψη νυχτερινής σκηνής</string>
     <string name="pref_camera_high_quality_preferred_title">Βελτίωση ποιότητας εικόνας</string>
     <string name="pref_camera_histogram_entry_disable">Κλείσιμο</string>
     <string name="pref_camera_histogram_entry_enable">On</string>
@@ -1312,6 +1314,8 @@
     <string name="pref_skin_beautify_slim_title">Λεπτή</string>
     <string name="pref_skin_beautify_smooth_title">Δέρμα</string>
     <string name="pref_smart_guide_title">Έξυπνες προτάσεις</string>
+    <string name="pref_super_night_se_summary">Η αναγνώριση ενός περιβάλλοντος σκοτεινού φωτός θα ενεργοποιήσει αυτόματα τη νυχτερινή λήψη και θα βελτιώσει το εφέ εικόνας μέσω αλγορίθμων</string>
+    <string name="pref_super_night_se_title">Αυτόματη Νυχτερινή προβολή</string>
     <string name="pref_userdefine_watermark_title">Υδατογράφημα χρήστη</string>
     <string name="pref_video_ai_audio_single">Μετωπικός ήχος</string>
     <string name="pref_video_captrue_ability_title">Λήψη φωτογραφιών κατά την εγγραφή</string>

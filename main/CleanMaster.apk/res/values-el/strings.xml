@@ -942,6 +942,8 @@
     <string name="video_clean_desktop_icon_created">Προστέθηκε με επιτυχία η συντόμευση στην αρχική οθόνη</string>
     <string name="video_clean_garbage">Προσωρινά αποθηκευμένα βίντεο</string>
     <string name="video_clean_garbage_cleared">Διαγράφηκαν επιτυχώς τα προσωρινά αποθηκευμένα βίντεο</string>
+    <string name="video_clean_image_clean_summary">Διαγράψτε τις διπλότυπες φωτογραφίες για να ελευθερώσετε χώρο αποθήκευσης</string>
+    <string name="video_clean_image_clean_title">Διαγραφή διπλότυπων φωτογραφιών</string>
     <string name="video_clean_notification_summary">Διαγράψτε τα βίντεο που αποθηκεύονται στην κρυφή μνήμη από εφαρμογές</string>
     <string name="video_clean_notification_title">Ελευθερώστε %s</string>
     <string name="video_clean_personal_settings_title">Πρόσθετες ρυθμίσεις</string>
