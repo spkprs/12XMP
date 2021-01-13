@@ -46,6 +46,7 @@
     <string name="aod_show_date_and_time">Εμφάνιση ημερ/νίας και ώρας</string>
     <string name="aod_show_style_title">Εμφάνιση στοιχείων</string>
     <string name="aod_style">Θέμα</string>
+    <string name="aod_theme_store">Θέματα Πάντα στην Οθόνη</string>
     <string name="aod_to_close">Απενεργοποίηση</string>
     <string name="apply">Εφαρμογή</string>
     <string name="apply_succeed">Εφαρμόστηκε με επιτυχία</string>

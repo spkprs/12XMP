@@ -434,6 +434,8 @@
     <string name="bluetooth_disconnecting">Αποσύνδεση…</string>
     <string name="bluetooth_dun_profile_summary_connected">Συνδεδεμένο σε διακομιστή Dun</string>
     <string name="bluetooth_dun_profile_summary_use_for">Χρήση για dial-up πρόσβαση δικτύου</string>
+    <string name="bluetooth_enable_page_scan">Ενεργοποίηση Β/Τ σάρωσης σελίδας</string>
+    <string name="bluetooth_enable_page_scan_summary">Ενεργ/Απενεργοποίηση Β/Τ δοκιμή σάρωσης σελίδας</string>
     <string name="bluetooth_headset_profile_summary_connected">Συνδεδεμένο με ήχο τηλεφώνου</string>
     <string name="bluetooth_headset_profile_summary_use_for">Χρήση για ήχο τηλεφώνου</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Συνδέεται με ακουστικό βαρηκοΐας</string>

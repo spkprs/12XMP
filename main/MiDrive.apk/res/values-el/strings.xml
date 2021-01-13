@@ -100,6 +100,15 @@
     <string name="category_video_title">Βίντεο</string>
     <string name="change_activate_email">Αλλαγή διεύθυνσης email</string>
     <string name="change_password">Αλλαγή κωδικού</string>
+    <string name="channel_pc_edit">Έγινε επεξεργασία στον υπολογιστή</string>
+    <string name="channel_pc_upload">Αποστολή από τον υπολογιστή</string>
+    <string name="channel_pc_view">Προβλήθηκε στον υπολογιστή</string>
+    <string name="channel_phone_edit">Επεξεργασία στο τηλέφωνο</string>
+    <string name="channel_phone_upload">Αποστολή από το τηλέφωνο</string>
+    <string name="channel_phone_view">Προβλήθηκε στο τηλέφωνο</string>
+    <string name="channel_web_edit">Επεξεργασία στο πρόγραμμα περιήγησης</string>
+    <string name="channel_web_upload">Αποστολή απο πρόγραμμα περιήγησης</string>
+    <string name="channel_web_view">Προβλήθηκε στο πρόγραμμα περιήγησης</string>
     <string name="character_counter_content_description">Έγινε υπέρβαση του ορίου χαρακτήρων %1$d απο %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="choose_to_signin">Ναι</string>
@@ -134,6 +143,8 @@
     <string name="create_pdf_manual">Νέο PDF</string>
     <string name="current_speed_content">Τρέχουσα ταχύτητα: %1$s</string>
     <string name="delete_file_success">Διαγράφηκε με επιτυχία</string>
+    <string name="delete_operation_record">Διαγραφή αυτής της εγγραφής;</string>
+    <string name="delete_operation_record_timeout">"Δεν ήταν δυνατή η διαγραφή της εγγραφής. Δοκιμάστε ξανά."</string>
     <string name="delete_record_only">Τα στοιχεία στα οποία αναφέρονται επιλεγμένες εγγραφές δεν θα διαγραφούν.</string>
     <string name="delete_success">Διαγράφηκε με επιτυχία</string>
     <string name="detail_download_path">"Τοποθεσία: "</string>
@@ -256,6 +267,7 @@
     <string name="input_email_address_notice">Θα χρησιμοποιήσουμε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου για να επαληθεύσουμε τον λογαριασμό σας</string>
     <string name="input_new_pwd">Εισάγετε το νέο κωδικό πρόσβασης</string>
     <string name="isornot_your_mi_account">Αυτός είναι ο λογαριασμός σας Mi;</string>
+    <string name="jump_to_directory">Άνοιγμα φακέλου</string>
     <string name="just_a_second">Μισό λεπτό…</string>
     <string name="just_now">Μόλις τώρα</string>
     <string name="license_host_unreachable">Η συσκευή σας δεν είναι συνδεδεμένη σε υπηρεσίες cloud. Για να δείτε αυτό το αντικείμενο, επισκεφθείτε %s σε οποιαδήποτε συνδεδεμένη συσκευή.</string>
@@ -312,6 +324,7 @@
     <string name="nick_name">Ψευδώνυμο</string>
     <string name="no_account">Δεν έχετε συνδεθεί</string>
     <string name="no_phone">Χωρίς αριθμό τηλεφώνου</string>
+    <string name="no_recent_activity">Δεν υπάρχουν πρόσφατα στοιχεία εδώ</string>
     <string name="not_set">Δεν ρυθμίστηκε</string>
     <string name="not_support_upload_file_for_overseas_users">"Η αποστολή δεν είναι διαθέσιμη εκτός της Ηπειρωτικής Κίνας"</string>
     <string name="notification_channel_remind">Υπενθυμίσεις</string>
@@ -328,6 +341,7 @@
     <string name="operation_dialog_copy_message">Αντιγραφή…</string>
     <string name="operation_dialog_create_folder_message">Δημιουργία φακέλου…</string>
     <string name="operation_dialog_delete_message">Διαγραφή…</string>
+    <string name="operation_dialog_jump_message">Άνοιγμα φακέλου…</string>
     <string name="operation_dialog_move_message">Μετακίνηση…</string>
     <string name="operation_dialog_rename_message">Μετονομασία…</string>
     <string name="operation_download">Κατεβάστε το</string>
@@ -337,6 +351,7 @@
     <string name="operation_save">Αποθήκευση</string>
     <string name="operation_sure_to_delete">Διαγραφή τώρα;</string>
     <string name="operation_transport_success">Προστέθηκε με επιτυχία στις μεταφορές</string>
+    <string name="operation_will_not_show_after_delete">Η εγγραφή δεν θα εμφανίζεται πλέον εδώ εάν τη διαγράψετε.</string>
     <string name="passport_access_denied">Δεν επιτρέπεται η πρόσβαση</string>
     <string name="passport_account_label">Mi λογαριασμός</string>
     <string name="passport_account_name">Λογαριασμός: %1$s</string>
@@ -460,6 +475,8 @@
     <string name="psw_sign_in">Συνδεθείτε χρησιμοποιώντας τον κωδικό πρόσβασης</string>
     <string name="ptp_ai_recommend_empty_page">Δεν υπάρχουν PDF αυτόματης δημιουργίας εδώ</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
+    <string name="recent_file">Πρόσφατα</string>
+    <string name="recent_jump_to_privacy_fail_notice">Αυτό το αρχείο είναι ιδιωτικό. Επιστροφή στην αρχική σελίδα και τραβήξτε προς τα κάτω για προβολή.</string>
     <string name="refresh_label_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="refresh_label_refreshed">Η ανανέωση ολοκληρώθηκε με επιτυχία</string>
     <string name="refresh_label_refreshing">Ανανέωση…</string>

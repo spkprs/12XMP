@@ -1014,6 +1014,8 @@
     <string name="bluetooth_empty_list_user_restricted">Δεν έχετε άδεια για να αλλάξετε τις ρυθμίσεις Bluetooth.</string>
     <string name="bluetooth_enable">Bluetooth</string>
     <string name="bluetooth_enable_alphanumeric_pin">Το PIN περιέχει γράμματα ή σύμβολα</string>
+    <string name="bluetooth_enable_page_scan">Ενεργοποίηση Β/Τ σάρωσης σελίδας</string>
+    <string name="bluetooth_enable_page_scan_summary">Ενεργ/Απενεργοποίηση Β/Τ δοκιμή σάρωσης σελίδας</string>
     <string name="bluetooth_enter_passkey_msg">Πληκτρολογήστε τον κωδικό σύζευξης και στη συνέχεια πατήστε Επιστροφή ή Είσοδος</string>
     <string name="bluetooth_enter_passkey_other_device">Μπορεί επίσης να χρειαστεί να πληκτρολογήσετε αυτόν τον κωδικό στην άλλη συσκευή.</string>
     <string name="bluetooth_enter_pin_other_device">Μπορεί επίσης να χρειαστεί να πληκτρολογήσετε αυτόν τον κωδικό στην άλλη συσκευή.</string>
@@ -8295,5 +8297,5 @@
     <string name="switch_headset_anti_lost_summary">Λάβετε μια ειδοποίηση κάθε φορά που ένα από τα ακουστικά σας βρίσκεται μακριά από το αυτί ή τη θήκη φόρτισης για περισσότερο από ένα λεπτό</string>
     <string name="switch_headset_anti_lost_title">Ειδοποίηση ακουστικών</string>
     <string name="wifi_enhanced_handover">Βελτιωμένη παράδοση</string>
-    <string name="wifi_enhanced_handover_summary">Γρήγορη εναλλαγή μεταξύ AP με την ίδια μέθοδο κρυπτογράφησης</string>
+    <string name="wifi_enhanced_handover_summary">Γρήγορη εναλλαγή μεταξύ διαφορετικών σημείων πρόσβασης</string>
 </resources>

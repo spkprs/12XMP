@@ -96,6 +96,8 @@
     <string name="bluetooth_disconnecting">Αποσύνδεση…</string>
     <string name="bluetooth_dun_profile_summary_connected">Συνδέθηκε με διακομιστή DUN</string>
     <string name="bluetooth_dun_profile_summary_use_for">Χρήση για πρόσβαση δικτύου μέσω τηλεφώνου</string>
+    <string name="bluetooth_enable_page_scan">Ενεργοποίηση Β/Τ σάρωσης σελίδας</string>
+    <string name="bluetooth_enable_page_scan_summary">Ενεργ/Απενεργοποίηση Β/Τ δοκιμή σάρωσης σελίδας</string>
     <string name="bluetooth_headset_profile_summary_connected">Συνδέθηκε με ήχο τηλεφώνου</string>
     <string name="bluetooth_headset_profile_summary_use_for">Χρήση για ήχο τηλεφώνου</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Συνδέθηκε με ακουστικό βαρηκοΐας</string>

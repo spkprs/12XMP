@@ -74,11 +74,11 @@
     <string name="miui_ringer_status_open">On</string>
     <string name="miui_ringer_total">DND</string>
     <string name="miui_ringer_total_description">Σίγαση ήχου και απενεργοποίηση δόνησης για όλα εκτός από το ξυπνητήρι</string>
-    <string name="miui_toast_zen_dnd_to_off">DND είναι εκτός τώρα. Οι ήχοι και οι δόνησης επανέρχονται στο φυσιολογικό επίπεδο.</string>
-    <string name="miui_toast_zen_standard_to_off">Η αθόρυβη λειτουργία είναι τώρα ανενεργή. Οι ήχοι κλήσης επανέρχονται στο φυσιολογικό.</string>
+    <string name="miui_toast_zen_dnd_to_off">"Οι κλήσεις και οι ειδοποιήσεις δεν θα τίθενται πλέον σε σίγαση"</string>
+    <string name="miui_toast_zen_standard_to_off">Η Αθόρυβη λειτουργία είναι ανενεργή</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Η αθόρυβη λειτουργία είναι τώρα ανενεργή. Θα αναπαράγονται ήχοι κλήσης, καθώς ειδοποίησης και πολυμέσων.</string>
-    <string name="miui_toast_zen_to_dnd">Εναλλαγή σε DND. Οι ήχοι και η δόνηση είναι απενεργοποιημένοι τώρα.</string>
-    <string name="miui_toast_zen_to_standard">Αλλαγή σε αθόρυβη λειτουργία. Οι ήχοι για κλήσεις και ειδοποιήσεις σε σίγαση τώρα.</string>
+    <string name="miui_toast_zen_to_dnd">Οι κλήσεις και οι ειδοποιήσεις θα σιγήσουν</string>
+    <string name="miui_toast_zen_to_standard">Η Αθόρυβη λειτουργία είναι ενεργή</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Αλλαγή σε αθόρυβη λειτουργία. Οι ήχοι για κλήσεις,  κοινοποίησεις και πολυμέσων, σε σίγαση τώρα.</string>
     <string name="miuix_appcompat_cloud_state_disabled">Ανενεργός συγχ/μός με το cloud</string>
     <string name="miuix_appcompat_cloud_state_finished">Συγχρονισμένο με το cloud</string>
@@ -164,7 +164,11 @@
     <string name="wireless_charging_saver_message">Η εξοικονόμηση μπαταρίας είναι ενεργή τώρα. Να διατεθεί αντίστροφη ασύρματη φόρτιση;</string>
     <string name="wireless_charging_saver_ok">Διατήρηση</string>
     <string name="wireless_charging_tips_disable">"Να μην εμφανιστεί ξανά"</string>
-    <string name="wireless_charging_tips_message">Τοποθετήστε συσκευές που υποστηρίζουν ασύρματη φόρτιση Qi (τηλέφωνα, βοηθητικός εξοπλισμός κ.λπ.) στο πίσω μέρος αυτής της συσκευής.</string>
+    <string name="wireless_charging_tips_message">Τοποθετήστε τη συσκευή που θέλετε να φορτίζετε ασύρματα (π.χ. τηλέφωνο, smartwatch, ακουστικά) στο πίσω μέρος αυτού του τηλεφώνου. Βεβαιωθείτε ότι αυτό το τηλέφωνο έχει φορτιστεί τουλάχιστον %d%% πριν χρησιμοποιήσετε αντίστροφη ασύρματη φόρτιση.</string>
     <string name="wireless_charging_tips_title">Αντίστροφη ασύρματη φόρτιση</string>
+    <string name="dnd_popup_close_message">Κατανοητό</string>
+    <string name="dnd_popup_message">Μπορείτε να ενεργοποιήσετε το \"Μην Ενοχλείτε\" για απενεργοποίηση κλήσεων και ειδοποιήσεων εκτός των ήχων πολυμέσων.</string>
+    <string name="miui_toast_zen_to_dnd_when_lock">Οι κλήσεις και οι ειδοποιήσεις θα σιγήσουν όταν η συσκευή είναι κλειδωμένη</string>
+    <string name="wireless_charging_tips_sub_message">Η άλλη συσκευή πρέπει να υποστηρίζει το πρότυπο ασύρματης φόρτισης Qi.</string>
 </resources>
 
