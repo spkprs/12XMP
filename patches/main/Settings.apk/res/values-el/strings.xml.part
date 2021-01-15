@@ -240,7 +240,7 @@
   <string name="percent_mi9_title">Μικρή ένδειξη ποσοστού</string>
   <string name="percent_show_size_title">Μέγεθος εικονιδίου ποσοστού</string>
   <string name="set_text_lines_title">Τίτλοι εφαρμ. κάτω από τα εικονίδια</string>
-  <string name="set_font_type_title">Απενεργ/ση γραμ/σειρας MiLanPro</string>
+  <string name="set_font_type_title">Ενεργ/ση γραμ/σειρας MiLanPro</string>
   <string name="vibrate_skip_title">Δόνηση στην εναλλαγή</string>
   <string name="miuipro_anim_title">Απενεργοποίηση κίνησης εικονιδίου</string>
   <string name="miuipro_anim_summary">Ανενεργή κίνηση εικονιδίου επιφάνειας μετά το ξεκλείδωμα</string>

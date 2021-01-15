@@ -332,7 +332,7 @@
     <string name="icon_form">Εικονίδια</string>
     <string name="icon_reorganize_channel">Τακτοποίηση εικονιδίων</string>
     <string name="icon_size">Μέγεθος εικονιδίου</string>
-    <string name="icon_style">Τύπο εμφάνισης</string>
+    <string name="icon_style">Τύπος εμφάνισης</string>
     <string name="image_too_small_message">Η αρχική εικόνα δεν είναι αρκετά μεγάλη</string>
     <string name="install">Εγκατάσταση</string>
     <string name="invalid_contact_shortcut">Λανθασμένη συντόμευση επαφής</string>
@@ -343,11 +343,11 @@
     <string name="launcher_global_search_provider_title">Παγκόσμιος πάροχος αναζήτησης</string>
     <string name="launcher_icon_management">Διαχείριση συντομέυσεων Αρχικής Οθόνης</string>
     <string name="launcher_not_exist">Παρουσιάστηκε σφάλμα. Πηγαίνετε πίσω στην Αρχική οθόνη και δοκιμάστε ξανά.</string>
-    <string name="launcher_pull_down_title">Σύρετε προς τα κάτω στην Αρχική οθόνη</string>
-    <string name="launcher_search_bar_title">Γραμμή Αναζήτησης Αρχικής οθόνης</string>
+    <string name="launcher_pull_down_title">Κάτω σάρωση στην Αρχική οθόνη</string>
+    <string name="launcher_search_bar_title">Γραμμή Αναζήτησης  στην Αρχική οθόνη</string>
     <string name="launcher_search_bar_value_disable">Ανενεργή</string>
     <string name="launcher_search_bar_value_enable">Ενεργή</string>
-    <string name="launcher_slide_up_title">Σύρετε προς τα πάνω στην Αρχική οθόνη</string>
+    <string name="launcher_slide_up_title">Πάνω σάρωση στην Αρχική οθόνη</string>
     <string name="launcher_sliding_up_gesture">Σάρωση επάνω στην Αρχική οθόνη για εκκίνηση Αναζήτησης</string>
     <string name="launcher_title">Αρχ. Οθόνη &amp; Πρόσφατα</string>
     <string name="like">Αγαπημένο</string>

@@ -670,8 +670,8 @@
         <item quantity="one">%d φωτο ενδέχεται να περιέχουν ιδιωτικές ή ευαίσθητες πληροφορίες</item>
     </plurals>
     <plurals name="privacy_risk_result_protection_tip">
-        <item quantity="other">%d features that protect your privacy are turned off</item>
-        <item quantity="one">%d feature that protects your privacy is turned off</item>
+        <item quantity="other">%d λειτουργίες που προστατεύουν το απόρρητό σας είναι ανενεργές</item>
+        <item quantity="one">%d λειτουργία που προστατεύει το απόρρητό σας είναι ανενεργή</item>
     </plurals>
     <plurals name="privacy_risk_sensitive_permissions_tip">
         <item quantity="other">%d ευαίσθητα δικαιώματα εκχωρήθηκαν</item>
@@ -686,7 +686,7 @@
         <item quantity="one">%d στοιχείο χρειάζεται πρόσθετη προστασία</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d πρόβλημα χρήσης μπαταρίας</item>
+        <item quantity="other">%d προβλήματα χρήσης μπαταρίας</item>
         <item quantity="one">%d πρόβλημα χρήσης μπαταρίας</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">

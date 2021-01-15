@@ -127,7 +127,7 @@
     <string name="add_shortcut">Προσθήκη στην αρχική οθόνη</string>
     <string name="add_shortcut_succeed">Αυτή η συντόμευση αρχικής οθόνης υπάρχει ήδη</string>
     <string name="add_shortcut_success">Η συντόμευση αρχικής οθόνης δημιουργήθηκε με επιτυχία</string>
-    <string name="add_to_favorite">Προσθήκη στα αγαπημένα</string>
+    <string name="add_to_favorite">Στα αγαπημένα</string>
     <string name="add_to_last_of_playlist">Προσθήκη στο τέλος της λίστας</string>
     <string name="add_to_playlist">Προσθήκη στην ουρά</string>
     <string name="add_to_playlist_successful">Επιτυχής προσθήκη</string>
@@ -778,7 +778,7 @@
     <string name="eq_jazz">Τζάζ</string>
     <string name="eq_metal">Μέταλ</string>
     <string name="eq_pop">Ποπ</string>
-    <string name="eq_preset_create">Δημιουργήσετε</string>
+    <string name="eq_preset_create">Δημιουργία</string>
     <string name="eq_preset_format">Προεπιλογή χρήστη %d</string>
     <string name="eq_preset_hint">Όνομα εφέ</string>
     <string name="eq_preset_rename">Μετονομάσετε</string>
@@ -1239,7 +1239,7 @@
     <string name="local_cloud_state_cloud_space_full">Ο χώρος αποθήκευσης στο cloud είναι πλήρης</string>
     <string name="local_cloud_state_do_not_open_backup">Τα αυτόματα αντίγραφα ασφαλείας είναι απενεργοποιημένη</string>
     <string name="local_cloud_state_some_music_not_backup">Αναμονή…</string>
-    <string name="local_create">Δημιουργήσετε</string>
+    <string name="local_create">Δημιουργία</string>
     <string name="local_create_playlist">Δημιουργία λίστας</string>
     <string name="local_download_song_guide">Τα τραγούδια που κατεβάζετε σε Kugou Μουσική, NetEase Μουσική, QQ Μουσική, και άλλες εφαρμογές μουσικής θα εμφανιστεί εδώ.\nΜπορείτε να βρείτε όλα τα τραγούδια σας σε ένα μέρος τώρα!</string>
     <string name="local_download_song_guide_title">Όλες οι λήψεις πηγαίνουν εδώ τώρα</string>
@@ -1252,7 +1252,7 @@
     <string name="local_music_tab_album">Άλμπουμ</string>
     <string name="local_music_tab_artist">Καλλιτέχνες</string>
     <string name="local_music_tab_dialog_title">Επιλογή στοιχείων για εμφάνιση</string>
-    <string name="local_music_tab_folder">Φακέλους</string>
+    <string name="local_music_tab_folder">Φακέλοι</string>
     <string name="local_music_tab_song">Τραγούδια</string>
     <string name="local_page_album_more">Εμφάνιση όλων</string>
     <string name="local_page_app_recommend">Προτείνετε την εφαρμογή</string>
@@ -2280,7 +2280,7 @@
     <string name="tab_folder">Φάκελοι</string>
     <string name="tab_like">Αρέσει</string>
     <string name="tab_local">Τοπικά</string>
-    <string name="tab_local_folder_list">Φακέλους</string>
+    <string name="tab_local_folder_list">Φάκελοι</string>
     <string name="tab_local_more">Περισσότερα τοπικά αποτελέσματα</string>
     <string name="tab_local_track_list">Τραγούδια</string>
     <string name="tab_notification">Ειδοποιήσεις</string>

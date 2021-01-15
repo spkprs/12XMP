@@ -38,6 +38,7 @@
     <string name="dialog_select_tv">Επιλογή Συσκευής (%d)</string>
     <string name="dialog_show_help">Βοήθεια</string>
     <string name="disconnect">Παύση</string>
+    <string name="enable_screen_projection_summary">Προβολή της οθόνης σας σε μια εξωτερική οθόνη</string>
     <string name="hang_up">Μετάδοση σε ανενεργή οθόνη</string>
     <string name="hang_up_alert_dialog_content">Η Μετάδοση δεν θα διακοπεί όταν η οθόνη του τηλεφώνου σας απενεργοποιηθεί. Πατήστε το κουμπί POWER στο τηλέφωνό σας για να ενεργοποιηθεί.</string>
     <string name="hang_up_alert_dialog_neg">Ακύρωση</string>

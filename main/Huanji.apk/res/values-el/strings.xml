@@ -593,7 +593,7 @@
     <string name="searching_for_new_device">Αναζήτηση νέων συσκευών...</string>
     <string name="select_all">Επιλογή όλων</string>
     <string name="select_all_description">Επιλογή όλων</string>
-    <string name="select_android_summary">Huawei, OPPO, vivo, και άλλα</string>
+    <string name="select_android_summary">Huawei, OPPO, Vivo, και άλλα</string>
     <string name="select_empty">Επιλέξτε πρώτα τα στοιχεία για εισαγωγή</string>
     <string name="select_item">Επιλέξτε στοιχεία</string>
     <string name="select_item_calendar">Ημερολόγιο</string>

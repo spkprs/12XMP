@@ -459,7 +459,7 @@
     <string name="time_picker_label_minute">M</string>
     <string name="title_activity_easy_mode">Λειτουργία Lite</string>
     <string name="title_mix_match_sound">Μίγμα φύσης</string>
-    <string name="title_mix_match_tips">Πατήστε τα ζώα για να ακούσετε επιδείξεις. Μπορείτε να προσθέσετε μέχρι 5 ζώα στο μίγμα.</string>
+    <string name="title_mix_match_tips">Επιλέξτε &amp; προσθέστε έως 5 ήχους ζώων.</string>
     <string name="title_submit_mix_match">Πατήστε \"Εφαρμογή\" για να ορίσετε ένα γενικό ήχο κλήσης.</string>
     <string name="to_authorize">Απόδοση αδειών</string>
     <string name="toco_toucan">Toco toucan</string>

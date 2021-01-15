@@ -499,11 +499,11 @@
     <string name="pay_info_dialog_mibi_balance_prefix">Χρήση υπόλοιπων Mi Coins: %s</string>
     <string name="pay_info_dialog_title">Επιλέξτε τρόπο πληρωμής</string>
     <string name="phone_number_required_dspt_provision">"Αυτή η υπηρεσία απαιτεί τον αριθμό τηλεφώνου σας. "</string>
-    <string name="picker_list_empty">No contacts here</string>
+    <string name="picker_list_empty">Χωρίς επαφές εδώ</string>
     <string name="picker_search_empty">Δεν ήταν δυνατή η εύρεση επαφών</string>
-    <string name="picker_search_hint">Search</string>
+    <string name="picker_search_hint">Αναζήτηση</string>
     <string name="power_off_locate_summary">Αναφέρετε τις πληροφορίες θέσης πατώντας το κουμπί Power.\nΟι πληροφορίες θέσης ενδέχεται να μην αναφέρονται όταν η σύνδεση δικτύου είναι ανεπαρκής.</string>
-    <string name="power_off_locate_title">Θέση αναφοράς πριν την απενεργοποίηση</string>
+    <string name="power_off_locate_title">Αναφορά Θέσης πριν την απενεργοποίηση</string>
     <string name="pre_privacy_policy">Πολιτική απορρήτου</string>
     <string name="pre_user_agreement">Συμφωνία χρήστη</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Συγχρονισμός φωτογραφιών επαφών μόνο όταν είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi</string>

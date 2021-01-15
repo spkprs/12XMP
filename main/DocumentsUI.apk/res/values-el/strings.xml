@@ -94,7 +94,7 @@
     <string name="sort_dimension_size">Μέγεθος</string>
     <string name="sort_name">Κατά όνομα</string>
     <string name="sort_size">Κατά μέγεθος</string>
-    <string name="title_open">Άνοιγμα από</string>
+    <string name="title_open">Άνοιγμα μέσω</string>
     <string name="title_save">Αποθήκευση σε</string>
     <string name="toast_failed_delete">Αδυναμία διαγραφής μερικών εγγράφων</string>
     <string name="toast_no_application">Αδυναμία ανοίγματος αρχείου</string>

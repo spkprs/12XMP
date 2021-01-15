@@ -160,4 +160,8 @@
     <item quantity="other">%1$d χρόνια πριν</item>
     <item quantity="one">%1$d χρόνο πριν</item>
   </plurals>
+     <plurals name="videoplus_serval_videos">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+     </plurals>
 </resources>

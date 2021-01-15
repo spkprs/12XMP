@@ -136,8 +136,8 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">Just now</item>
      </plurals>
      <plurals name="multichoice_title">
-        <item quantity="other">%d στοιχεία επιλέχθηκαν</item>
-        <item quantity="one">%d στοιχείο επιλέχθηκε</item>
+        <item quantity="other">%d στοιχ. επιλέχθηκαν</item>
+        <item quantity="one">%d στοιχ. επιλέχθηκε</item>
      </plurals>
      <plurals name="notif_title_multiple_downloading">
         <item quantity="other">Λήψη %1$d αρχεία</item>

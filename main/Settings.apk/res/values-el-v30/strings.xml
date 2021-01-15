@@ -367,7 +367,7 @@
     <string name="nfc_payment_set_default">Σε ανεπαφικά τερματικά, πληρωμή με την εφαρμογή %1$s</string>
     <string name="nfc_payment_set_default_instead_of">Σε ανεπαφικά τερματικά, πληρωμή με την εφαρμογή %1$s.\n\nΑυτή η ενέργεια αντικαθιστά την εφαρμογή %2$s ως την προεπιλεγμένη εφαρμογή πληρωμών.</string>
     <string name="nfc_payment_set_default_label">Ορισμός προεπιλεγμένης εφαρμογής πληρωμών</string>
-    <string name="nfc_payment_settings_title">Ανεπαφικές πληρωμές</string>
+    <string name="nfc_payment_settings_title">Ανέπαφες πληρωμές</string>
     <string name="nfc_payment_update_default_label">Ενημέρωση προεπιλεγμένης εφαρμογής πληρωμών</string>
     <string name="nfc_repair_confirm_desc">Αντιμετωπίσατε κάποιο από αυτά τα θέματα;\n%1$d. Δεν ήταν δυνατή η προσθήκη ή η συμπλήρωση μιας κάρτας NFC.\n%2$d. Η κάρτα NFC δεν λειτούργησε.\n%3$d. Δεν έγινε φόρτωση άλλων δυνατοτήτων NFC.</string>
     <string name="nfc_secure_settings_title">Να απαιτείται ξεκλείδωμα της συσκευής για το NFC</string>
@@ -568,6 +568,7 @@
     <string name="wifi_advanced_randomized_mac_address_title">Τυχαιοποιημένη διεύθυνση MAC</string>
     <string name="wifi_advanced_toggle_description">Σύνθετες επιλογές αναπτυσσόμενης λίστας</string>
     <string name="wifi_advanced_toggle_description_collapsed">ανάπτυξη</string>
+    <string name="wifi_ap_hidden_ssid">Απόκρυψη του SSID</string>
     <string name="wifi_auto_connect_summary">Επιτρέψτε στο τηλέφωνο να συνδέεται αυτόματα όταν βρίσκεται κοντά σε αυτό το δίκτυο.</string>
     <string name="wifi_auto_connect_title">Αυτόματη σύνδεση</string>
     <string name="wifi_band_60ghz">60 GHz</string>
