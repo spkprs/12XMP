@@ -205,6 +205,9 @@
   <string name="mobile_no_internet">Το δίκτυο κινητής τηλεφωνίας δεν έχει πρόσβαση στο διαδίκτυο.</string>
   <string name="not_checked">Μη επιλεγμένο</string>
   <string name="notification_channel_developer_important">Σημαντικά μηνύματα προγραμματιστή</string>
+  <string name="notification_channel_network_alerts">Ειδοπ. Δικτύου</string>
+  <string name="notification_channel_network_available">Διαθέσιμο Δίκτυο</string>
+  <string name="notification_channel_network_status">Κατάσταση Δικτύου</string>
   <string name="notification_history_title_placeholder">Προσαρμοσμένη ειδοποίηση εφαρμογής</string>
   <string name="other_networks_no_internet">Το δίκτυο δεν έχει πρόσβαση στο διαδίκτυο.</string>
   <string name="permdesc_accessBackgroundLocation">Αυτή η εφαρμογή μπορεί να αποκτήσει πρόσβαση στην τοποθεσία ανά πάσα στιγμή, ακόμη και όταν συσκευή δεν χρησιμοποιείται.</string>

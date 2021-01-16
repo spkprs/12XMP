@@ -819,11 +819,11 @@
   <string name="notification_channel_heavy_weight_app">Εκτέλεση εφαρμογής</string>
   <string name="notification_channel_mobile_data_status">Κατάσταση δεδομένων κινητής</string>
   <string name="notification_channel_network_alert">Ειδοποιήσεις</string>
-  <string name="notification_channel_network_alerts">Ειδοποιήσεις δικτύου</string>
-  <string name="notification_channel_network_available">Το δίκτυο είναι διαθέσιμο</string>
-  <string name="notification_channel_network_status">Κατάσταση δικτύου</string>
+  <string name="notification_channel_network_alerts">Ειδοπ. Δικτύου</string>
+  <string name="notification_channel_network_available">Διαθέσιμο Δίκτυο</string>
+  <string name="notification_channel_network_status">Κατάσταση Δικτύου</string>
   <string name="notification_channel_physical_keyboard">Φυσικό πληκτρολόγιο</string>
-  <string name="notification_channel_retail_mode">Επίδειξη λιανικής</string>
+  <string name="notification_channel_retail_mode">Επίδειξη πώλησης</string>
   <string name="notification_channel_security">Ασφάλεια</string>
   <string name="notification_channel_sim">Κατάσταση SIM</string>
   <string name="notification_channel_sms">Μηνύματα SMS</string>

@@ -5360,6 +5360,7 @@
     <string name="runningservicedetails_stop_dlg_title">Σταματάτε την υπηρεσία συστήματος;</string>
     <string name="runningservices_settings_summary">Προβολή και ελέγχος λειτουργίας των υπηρεσιών που εκτελούνται</string>
     <string name="runningservices_settings_title">Υπηρεσίες που εκτελούνται</string>
+    <string name="runtime_permissions_summary_control_app_access">Έλεγχος πρόσβασης εφαρμογής στα δεδομένα σας</string>
     <string name="runtime_permissions_summary_no_permissions_granted">Δεν έχουν δοθεί Άδειες</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Δεν έχουν ζητηθεί Άδειες</string>
     <string name="rx_link_speed">%1$d Mbps</string>
