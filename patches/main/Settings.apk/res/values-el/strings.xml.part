@@ -265,5 +265,8 @@
   <string name="behavior_icon_title">Απόκρυψη εικονιδίου \"Ευαίσθητες ενέργειες\"</string>
   <string name="show_cards_title">Απενεργοποίηση πλακιδίου</string>
   <string name="show_cards_summary">Αντικατάσταση πλακιδίου καρτών Υγείας, Χρόνου Οθόνης και Δεδομένων με το Φακό</string>
+  <string name="miuipro_anim_title">Ενεργοποίηση συντόμευσης κίνησης</string>
+  <string name="miuipro_anim_summary">Ενεργοποίηση συντόμευσης κίνησης μετά το ξεκλείδωμα</string>
+  <string name="expand_notification_title">Ανάπτυξη πρώτης ειδοποίησης</string>
 </resources>
 

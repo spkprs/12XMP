@@ -331,9 +331,9 @@
     <string name="alarm_sound_title">Αφύπνιση</string>
     <string name="alarm_stop">Απενεργοποίηση Αθόρυβης λειτουργίας όταν η Αφύπνιση κλείσει</string>
     <string name="alarm_stop_info">Η Αθόρυβη λειτουργία θα απενεργοποιηθεί όταν η Αφύπνιση κλείσει</string>
-    <string name="alarm_template">at %1$s</string>
-    <string name="alarm_template_far">on %1$s</string>
-    <string name="alarm_volume_option_title">Ένταση αφύπνισης</string>
+    <string name="alarm_template">στις %1$s</string>
+    <string name="alarm_template_far">την %1$s</string>
+    <string name="alarm_volume_option_title">Αφύπνιση</string>
     <string name="alarm_volume_title">Αφύπνιση</string>
     <string name="all_volume_title">Ένταση ήχων</string>
     <string name="allow">Αποδοχή</string>
@@ -3795,7 +3795,7 @@
     <string name="media_output_summary_unavailable">Μη διαθέσιμο</string>
     <string name="media_output_title">Αναπαραγωγή πολυμέσων σε</string>
     <string name="media_transfer_this_device_name">Αυτή η συσκευή</string>
-    <string name="media_volume_option_title">Μουσική, παιχνίδια, πολυμέσα</string>
+    <string name="media_volume_option_title">Πολυμέσα</string>
     <string name="media_volume_summary">Ορισμός έντασης για μουσική και βίντεο</string>
     <string name="media_volume_title">Πολυμέσα</string>
     <string name="megabyteShort">MB</string>
@@ -4166,6 +4166,7 @@
     <string name="music_equalizer">Ισοσταθμιστής</string>
     <string name="musicfx_title">Μουσικά εφέ</string>
     <string name="mute">Αθόρυβη λειτουργία</string>
+    <string name="mute_media_sound_summary">Παιχνίδια, μουσική, βίντεο και άλλες εφαρμογές</string>
     <string name="mute_music_stream">Σίγαση ροής μουσικής</string>
     <string name="mute_voiceassist_stream">Σίγαση Φωνητ/Βοηθού</string>
     <string name="mvno_match_data">MVNO τιμή</string>
@@ -5227,7 +5228,7 @@
     <string name="remove_managed_profile_label">Αφαίρεση προφίλ εργασίας</string>
     <string name="repeat">Επανάληψη</string>
     <string name="repeat_call">Ειδοποίηση για επαναλαμβανόμενες κλήσεις</string>
-    <string name="repeat_call_info">Επιτρέπεται ήχος για επαναλαμβανόμενες κλήσεις εντός 15 λεπτών σε Αθόρυβη λειτουργία</string>
+    <string name="repeat_call_info">Κατά τη λήψη δεύτερης κλήσης από τον ίδιο αριθμό τηλεφώνου κατά τη διάρκεια εντός %d λεπτών</string>
     <string name="repeat_never">Ποτέ</string>
     <string name="repeat_title">Επανάληψη</string>
     <string name="requires_modern_control_center">Λειτουργεί με τη νέα έκδοση του Κέντρου ελέγχου</string>
@@ -5316,7 +5317,8 @@
     <string name="ring_to_you">Προσαρμοσμένος ήχος κλήσης</string>
     <string name="ring_to_you_address">http://ringtoyou.kt.com</string>
     <string name="ring_to_you_info">Ορίστε έναν προσαρμοσμένο τόνο που θα ακούσουν άλλα άτομα πριν από την παραλαβή</string>
-    <string name="ring_volume_option_title">Κλήσεις, υπενθυμίσεις, ειδοποιήσεις</string>
+    <string name="ring_volume_option_title">Ήχος κουδουνίσματος</string>
+    <string name="ringer_mode_setting_summary">Σίγαση κλήσεων και ειδοποιήσεων</string>
     <string name="ring_volume_title">Ένταση κουδουνίσματος</string>
     <string name="ringtone_slot_setting_title">Ρυθμίσεις μονής SIM</string>
     <string name="ringtone_title">Ήχος κλήσης</string>
@@ -7190,7 +7192,7 @@
     <string name="vibrate_when_ringing_title">Δόνηση με ήχο</string>
     <string name="video_calling_settings_title">Βιντεοκλήσεις μέσω κινητού τηλεφώνου</string>
     <string name="video_tool_box_title">Εργαλεία Video</string>
-    <string name="vip_list">Επιτρέπονται εισερχόμενες κλήσεις</string>
+    <string name="vip_list">Ειδοποίηση σχετικά με κλήσεις</string>
     <string name="virtual_keyboard_category">Εικονικό πληκτρολόγιο</string>
     <string name="virtual_keyboards_for_work_title">Εικονικό πληκτρολόγιο για εργασία</string>
     <string name="virtual_sim_category_title">Εικονική SIM</string>

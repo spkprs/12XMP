@@ -454,7 +454,7 @@
     <string name="reset_dashboard_summary_onlyApps">Μπορεί να γίνει επαναφορά των εφαρμογών</string>
     <string name="right_edge">Δεξιά άκρη</string>
     <string name="ring_volume_title">Ένταση ήχου κουδουνίσματος και ειδοποιήσεων</string>
-    <string name="ringer_mode_setting_summary">Σίγαση εισερχόμενων κλήσεων και ειδοποιήσεων</string>
+    <string name="ringer_mode_setting_summary">Σίγαση κλήσεων και ειδοποιήσεων</string>
     <string name="ringer_mode_setting_title">Λειτουργία Σίγασης</string>
     <string name="roaming_warning">Ενδέχεται να ισχύουν χρεώσεις περιαγωγής.</string>
     <string name="roaming_warning_multiuser">Όταν επιτρέπετε την περιαγωγή δεδομένων, ενδέχεται να ισχύουν χρεώσεις περιαγωγής.\n\nΑυτή η ρύθμιση επηρεάζει όλους τους χρήστες αυτού του τηλεφώνου.</string>
@@ -680,7 +680,7 @@
     <string name="zen_mode_settings_summary_off">Κανένα</string>
     <string name="zen_mode_settings_title">Μην ενοχλείτε</string>
     <string name="zen_mode_summary">Σίγαση εισερχόμενων κλήσεων, ειδοποιήσεων, πολυμέσων και απενεργοποίηση δόνησης</string>
-    <string name="zen_mode_summary2">Σίγαση κλήσεων και ειδοποιήσεων, απενεργοποίηση δόνησης</string>
+    <string name="zen_mode_summary2">"Δεν θα υπάρχουν υπενθυμίσεις για εισερχόμενες κλήσεις και ειδοποιήσεις"</string>
     <string name="zen_mode_system">Ήχοι αφής</string>
     <string name="zen_mode_system_list_first">Ήχοι αφής</string>
     <string name="zen_mode_system_summary">Ήχοι από το πληκτρολόγιο και από άλλα κουμπιά</string>

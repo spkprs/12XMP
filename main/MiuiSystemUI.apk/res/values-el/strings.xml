@@ -1787,7 +1787,7 @@
     <string name="quick_settings_vowifi_sim2_label">Κλήση WiFi SIM2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Ενίσχυση της ταχύτητας</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Ακύρωση</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Επιβεβαιώσετε</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Επιβεβαίωση</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Να μην εμφανιστεί ξανά</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Εναλλαγή μεταξύ δικτύων</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Η αύξηση ταχύτητας WiFi διπλής ζώνης πρέπει να χρησιμοποιεί δύο διαφορετικές ζώνες WiFi. Εάν συνδεθείτε σε διαφορετικό κύριο δίκτυο, η βοηθητική σύνδεση θα χαθεί.</string>
