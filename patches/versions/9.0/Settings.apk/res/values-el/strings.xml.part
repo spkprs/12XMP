@@ -293,12 +293,12 @@
   <string name="keywords_hotspot_tethering">σύνδεση usb, σύνδεση bluetooth, σημείο πρόσβασης wifi</string>
   <string name="keywords_imei_info">αριθμός imei, meid, min, έκδοση prl, sv αριθμού imei</string>
   <string name="keywords_model_and_hardware">σειριακός αριθμός, έκδοση εξοπλισμού</string>
-  <string name="keywords_ring_vibration">απτική, δόνηση, τηλέφωνο, κλήση, ευαισθησία</string>
+  <string name="keywords_ring_vibration">αφή, δόνηση, τηλέφωνο, κλήση, ευαισθησία</string>
   <string name="keywords_screen_timeout">οθόνη, χρόνος κλειδώματος, λήξη ορίου χρόνου, οθόνη κλειδώματος</string>
   <string name="keywords_sim_status">δίκτυο, κατάσταση δικτύου κινητής τηλεφωνίας, κατάσταση υπηρεσίας, ισχύς σήματος, τύπος δικτύου κινητής τηλεφωνίας, περιαγωγή, iccid</string>
   <string name="keywords_storage_settings">μνήμη, δεδομένα, διαγραφή, απαλοιφή, δωρεάν, χώρος</string>
   <string name="keywords_system_update_settings">αναβάθμιση, android</string>
-  <string name="keywords_touch_vibration">απτική, δόνηση, οθόνη, ευαισθησία</string>
+  <string name="keywords_touch_vibration">αφή, δόνηση, οθόνη, ευαισθησία</string>
   <string name="keywords_wallpaper">φόντο, οθόνη, οθόνη κλειδώματος, θέμα</string>
   <string name="keywords_zen_mode_settings">dnd, χρονοδιάγραμμα, ειδοποιήσεις, αποκλεισμός, σίγαση, δόνηση, αδράνεια, εργασία, εστίαση, ήχος, σίγαση, ημέρα, καθημερινή, σαββατοκύριακο, νύχτα καθημερινής, συμβάν</string>
   <string name="language_empty_list_user_restricted">Δεν έχετε άδεια να αλλάξετε τη γλώσσα της συσκευής.</string>

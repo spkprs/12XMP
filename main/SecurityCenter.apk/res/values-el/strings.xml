@@ -2567,7 +2567,7 @@
     <string name="power_center_list_item_close_bluetooth">Απενεργ. Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Προηγμένες ρυθμίσεις</string>
     <string name="power_center_list_item_haptic_feedback">Απενεργοποίηση απτικών σχολίων</string>
-    <string name="power_center_list_item_haptic_feedback_summary">"Οι χειρονομίες και οι έλεγχοι του συστήματος δεν θα συνοδεύονται από απτικά σχόλια"</string>
+    <string name="power_center_list_item_haptic_feedback_summary">"Οι χειρονομίες και οι έλεγχοι του συστήματος δεν θα συνοδεύονται από δόνηση αφής"</string>
     <string name="power_center_list_item_set_lockscreen_time">Απενεργ. οθόνης σε 30δευτ. αδράνειας</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Κλείδωμα συσκευής μετά από %d δευτ. αδράνειας</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Το ταχύτερο κλείδωμα της συσκευής σας εξοικονομεί μπαταρία</string>
@@ -2641,7 +2641,7 @@
     <string name="power_optimize_close_bluetooth_summary">Το Bluetooth καταναλώνει μεγάλη ισχύ στο παρασκήνιο</string>
     <string name="power_optimize_close_consume_app">Κλείστε εφαρμογές που εξαντλούν μπαταρία</string>
     <string name="power_optimize_close_gps">Απενεργοποιήστε τις υπηρεσίες τοποθεσίας</string>
-    <string name="power_optimize_close_haptic_feedback">Απενεργοποιήστε τα απτικά σχόλια</string>
+    <string name="power_optimize_close_haptic_feedback">Απενεργοποιήστε την δόνηση αφής</string>
     <string name="power_optimize_close_wake_notification">"Μην ενεργ. η οθόνη για ειδοποιήσεις"</string>
     <string name="power_optimize_close_wlan">Απενεργοποίηση φορητού ενεργού σημείου</string>
     <string name="power_optimize_close_wlan_summary">Εξοικονομήστε ενέργεια όταν δεν υπάρχουν συνδεδεμένες συσκευές</string>

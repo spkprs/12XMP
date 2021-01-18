@@ -767,7 +767,7 @@
     <string name="cit_vibrator_check_summary">Δείτε εάν οι δονήσεις (μακρύς και βραχύς) λειτουργούν κανονικά</string>
     <string name="cit_vibrator_check_title">Δόνηση</string>
     <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
-    <string name="cit_vibrator_haptic">Απτική</string>
+    <string name="cit_vibrator_haptic">Αφή</string>
     <string name="cit_vibrator_load_down_pattern">Κάτω Μοτίβο</string>
     <string name="cit_vibrator_load_up_pattern">Μοτίβο</string>
     <string name="cit_vibrator_long">Μεγάλη δόνηση</string>

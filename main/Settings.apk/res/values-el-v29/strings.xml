@@ -85,11 +85,11 @@
     <string name="asst_capabilities_actions_replies_summary">Αυτόματη εμφάνιση προτεινόμενων ενεργειών και απαντήσεων</string>
     <string name="asst_capabilities_actions_replies_title">Προτεινόμενες ενέργειες και απαντήσεις</string>
     <string name="asst_capability_prioritizer_summary">Αυτόματος ορισμός των ειδοποιήσεων χαμηλότερης προτεραιότητας ως διακριτικών</string>
-    <string name="asst_capability_prioritizer_title">Προτεραιότητα προσαρμοστικής ειδοποίησης</string>
+    <string name="asst_capability_prioritizer_title">Προτεραιότ. ειδοπ.</string>
     <string name="auto_brightness_summary">Η φωτεινότητα της οθόνης προσαρμόζεται στο περιβάλλον</string>
     <string name="auto_brightness_summary_on">Ενεργή</string>
     <string name="autofill_logging_level_title">Επίπεδο καταγραφής</string>
-    <string name="autofill_max_partitions">Μέγιστος αριθμός αιτημάτων ανά περίοδο σύνδεσης</string>
+    <string name="autofill_max_partitions">Μέγιστες αιτήσεις ανά περίοδο λειτουργίας</string>
     <string name="autofill_max_visible_datasets">Μέγιστα ορατά σύνολα δεδομένων</string>
     <string name="autofill_reset_developer_options">Επαναφορά στις προεπιλεγμένες τιμές</string>
     <string name="autofill_reset_developer_options_complete">Έγινε επαναφορά των επιλογών προγραμματιστή αυτόματης συμπλήρωσης</string>
@@ -241,8 +241,8 @@
     <string name="face_unlock_title">Μπορείτε να ξεκλειδώνετε το τηλέφωνό σας χρησιμοποιώντας το πρόσωπό σας. Για λόγους ασφάλειας, αυτή η επιλογή απαιτεί εφεδρικό κλείδωμα οθόνης.</string>
     <string name="fingerprint_lock_screen_setup_skip_dialog_text">Προστατεύστε το τηλέφωνό σας με μια επιλογή κλειδώματος οθόνης, έτσι ώστε κανείς να μην μπορεί να το χρησιμοποιήσει σε περίπτωση απώλειας ή κλοπής. Θα χρειαστείτε επίσης μια επιλογή κλειδώματος οθόνης για να ρυθμίσετε το δακτυλικό αποτύπωμα. Πατήστε Ακύρωση και έπειτα ορίστε ένα PIN, μοτίβο ή κωδικό πρόσβασης.</string>
     <string name="forbidden_network">(απαγορευμένο)</string>
-    <string name="force_desktop_mode">Αναγκαστική λειτουργία επιτραπέζιου υπολογιστή</string>
-    <string name="force_desktop_mode_summary">Αναγκαστική πειραματική λειτουργία επιτραπέζιου υπολογιστή σε δευτερεύουσες οθόνες</string>
+    <string name="force_desktop_mode">Αναγκαστική λειτουργία PC</string>
+    <string name="force_desktop_mode_summary">Αναγκαστική πειραματική λειτουργία επιτραπέζιου υπολογιστή σε δεύτερες οθόνες</string>
     <string name="forget_passpoint_dialog_message">Μπορεί να χάσετε την πρόσβαση σε τυχόν υπόλοιπο χρόνο ή δεδομένα. Επικοινωνήστε με τον πάροχο της υπηρεσίας πριν από την κατάργηση.</string>
     <string name="game_driver_all_apps_preference_title">Ενεργοποίηση για όλες τις εφαρμογές</string>
     <string name="game_driver_app_preference_default">Προεπιλογή</string>
@@ -296,7 +296,7 @@
     <string name="keywords_flashlight">Φακός, λυχνία, φως</string>
     <string name="keywords_global_actions_panel">κάρτες, πάσα</string>
     <string name="keywords_lock_screen_notif">ειδοποίηση οθόνης κλειδώματος, ειδοποιήσεις</string>
-    <string name="keywords_notification_vibration">απτική, δόνηση, ευαισθησία</string>
+    <string name="keywords_notification_vibration">αφή, δόνηση, ευαισθησία</string>
     <string name="keywords_sim_status">δίκτυο, κατάσταση δικτύου κινητής τηλεφωνίας, κατάσταση υπηρεσίας, ισχύς σήματος, τύπος δικτύου κινητής τηλεφωνίας, περιαγωγή, iccid, eid</string>
     <string name="keywords_storage_files">Λήψη</string>
     <string name="keywords_system_navigation">πλοήγηση συστήματος, πλοήγηση με δύο κουμπιά, πλοήγηση με τρία κουμπιά, πλοήγηση με κινήσεις</string>

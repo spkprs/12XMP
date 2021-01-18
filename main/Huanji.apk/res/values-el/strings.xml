@@ -270,6 +270,7 @@
     <string name="host_dialog_message">Βεβαιωθείτε ότι η πιο πρόσφατη έκδοση του Mi Mover είναι εγκατεστημένη στην άλλη συσκευή. διαφορετικά, ενδέχεται να μην είναι δυνατή η σύνδεση δύο συσκευών.</string>
     <string name="host_dialog_title">Δεν είναι δυνατή η σύνδεση για μεγάλο χρονικό διάστημα</string>
     <string name="host_install_hint">"Ο Mi Mover δεν έχει εγκατασταθεί?"</string>
+    <string name="host_new_device_hint">Αυτή η συσκευή</string>
     <string name="host_manual_connect_link_text">Εάν η εύρεση του ενεργού σημείου από την παλιά σας συσκευή διαρκεί πολύ, δοκιμάστε να συνδεθείτε μη αυτόματα.</string>
     <string name="host_memory_insuff_cancel">Ακύρωση</string>
     <string name="host_memory_insuff_confirm">Επιλέξτε ξανά</string>
