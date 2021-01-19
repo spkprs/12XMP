@@ -1081,7 +1081,7 @@
     <string name="pref_camera_heic_image_format_description2">"Η μορφή αρχείων εικόνας υψηλής απόδοσης εξοικονομεί χώρο αποθήκευσης, αλλά δεν υποστηρίζεται από ορισμένες εφαρμογές τρίτων. Δεν μπορείτε να κάνετε λήψη ζωντανές φωτογραφίες και να αφαιρέσετε υδατογραφήματα σε HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Μορφή HEIC</string>
     <string name="pref_camera_hfr_entry_off">Off</string>
-    <string name="pref_camera_high_quality_preferred_description">Βελτίωση εφέ απεικόνισης μέσω αλγορίθμων με χρόνο λήψης μεγαλύτερο. Εάν αναγνωριστεί ένα περιβάλλον σκοτεινού φωτός, θα ενεργοποιηθεί η λήψη νυχτερινής σκηνής</string>
+    <string name="pref_camera_high_quality_preferred_description">Βελτιώστε την ποιότητα εικόνας χρησιμοποιώντας τον έξυπνο αλγόριθμο. Η ταχύτητα λήψης εικόνας ενδέχεται να μειωθεί όταν είναι ενεργοποιημένη αυτή η λειτουργία. Η νυχτερινή λειτουργία θα ενεργοποιηθεί αυτόματα όταν εντοπίζονται συνθήκες χαμηλού φωτισμού.</string>
     <string name="pref_camera_high_quality_preferred_title">Βελτίωση ποιότητας εικόνας</string>
     <string name="pref_camera_histogram_entry_disable">Κλείσιμο</string>
     <string name="pref_camera_histogram_entry_enable">On</string>
@@ -1314,8 +1314,8 @@
     <string name="pref_skin_beautify_slim_title">Λεπτή</string>
     <string name="pref_skin_beautify_smooth_title">Δέρμα</string>
     <string name="pref_smart_guide_title">Έξυπνες προτάσεις</string>
-    <string name="pref_super_night_se_summary">Η αναγνώριση ενός περιβάλλοντος σκοτεινού φωτός θα ενεργοποιήσει αυτόματα τη νυχτερινή λήψη και θα βελτιώσει το εφέ εικόνας μέσω αλγορίθμων</string>
-    <string name="pref_super_night_se_title">Αυτόματη Νυχτερινή προβολή</string>
+    <string name="pref_super_night_se_summary">Εντοπισμός συνθηκών χαμηλού φωτισμού και αυτόματη βελτίωση της ποιότητας της εικόνας</string>
+    <string name="pref_super_night_se_title">Αυτόματη λειτουργία νύχτας</string>
     <string name="pref_userdefine_watermark_title">Υδατογράφημα χρήστη</string>
     <string name="pref_video_ai_audio_single">Μετωπικός ήχος</string>
     <string name="pref_video_captrue_ability_title">Λήψη φωτογραφιών κατά την εγγραφή</string>

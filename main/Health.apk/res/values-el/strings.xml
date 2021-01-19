@@ -1104,7 +1104,7 @@
     <string name="share_card_title_free_training">Ελεύθερη γυμναστική</string>
     <string name="share_card_title_high_interval_training">HIIT</string>
     <string name="share_card_title_indoor_rinding">Στατικό ποδήλατο %s</string>
-    <string name="share_card_title_indoor_running">Τρέξιμο %s</string>
+    <string name="share_card_title_indoor_running">Εσωτερικό τρέξιμο %s</string>
     <string name="share_card_title_open_swimming">Κολύμβηση ανοιχτής θάλασσας %s</string>
     <string name="share_card_title_outdoor_hiking">Πεζοπορία %s</string>
     <string name="share_card_title_outdoor_riding">Ποδηλασία %s</string>
@@ -1750,6 +1750,11 @@
     <string name="yoga">Γιόγκα</string>
     <string name="hr_fp_detect_principle_desc_2">"Σημείωση: Βεβαιωθείτε ότι το δάχτυλό σας καλύπτει πλήρως το εικονίδιο δακτυλικών αποτυπωμάτων κατά τη διάρκεια της μέτρησης. Μην ασκείτε δύναμη, καθώς μπορεί να εμποδίσει τη ροή του αίματος στο δάχτυλό σας και να κάνει τα αποτελέσματα ανακριβή. Αυτή η μέτρηση παρέχεται μόνο για την αναφορά σας. Δεν μπορεί να αντικαταστήσει τις ιατρικές εξετάσεις."</string>
     <string name="hr_fp_detect_start_desc">Καλύψτε το εικονίδιο με το δάχτυλό σας</string>
+    <string name="dialog_new_version_title">Διατίθεται ενημέρωση</string>
+    <string name="discard_update">Οχι ευχαριστώ</string>
+    <string name="find_new_verision">Η έκδοση %s είναι διαθέσιμη τώρα</string>
+    <string name="immediately_experience">Ενημέρωση</string>
+    <string name="location_perm_description">Για παρακολούθηση υπαίθριων προπονήσεων και καταγραφής διαδρομών</string>
     <string name="auth_dialog_description">"Ενεργοποίηση προτάσεων;
 
 Για να σας παρέχουμε προτάσεις, θα μοιραστούμε τα δεδομένα υγείας σας με έναν τρίτο πάροχο υπηρεσιών. Τα αντικείμενα που θα μοιραστούμε περιλαμβάνουν προσωπικά στοιχεία (ηλικία, φύλο), καταστάσεις υγείας (ύψος, βάρος, ρουτίνα γυμναστικής), δεδομένα συμπεριφοράς (χρόνος έναρξης και λήξης, καθώς και διάρκεια των μαθημάτων σας).

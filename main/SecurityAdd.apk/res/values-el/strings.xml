@@ -411,4 +411,16 @@
     <string name="vertical_text_divider">|</string>
     <string name="xunyou_pay_webview">Υπηρεσίες Xunyou</string>
     <string name="yesterday">Χθες</string>
+    <string name="gb_adv_touch_adv_title">Κλασική λειτουργία (προεπιλογή)</string>
+    <string name="gb_adv_touch_custom1">Απόκριση σάρωσης</string>
+    <string name="gb_adv_touch_custom2">Ευαισθησία σε συνεχή αγγίγματα</string>
+    <string name="gb_adv_touch_custom3">Ακρίβεια στόχευσης</string>
+    <string name="gb_adv_touch_custom4">Σταθερότητα αγγίγματος</string>
+    <string name="gb_adv_touch_custom_tip1">Η υψηλότερη απόκριση σάρωσης αυξάνει την ταχύτητα αντίδρασης σε αυτή την κίνηση, ενώ η χαμηλότερη απόκριση σάρωσης κάνει την κίνηση πιο σταθερή.</string>
+    <string name="gb_adv_touch_custom_tip2">Η μεγαλύτερη ευαισθησία σε συνεχή αγγίγματα αυξάνει την ταχύτητα αντίδρασης σε αυτή την κίνηση, ενώ η μικρότερη ευαισθησία κάνει την κίνηση πιο σταθερή.</string>
+    <string name="gb_adv_touch_custom_tip3">Η μεγαλύτερη ακρίβεια στόχευσης καθιστά τις μικρότερες σαρώσεις πιο ακριβείς, ενώ η χαμηλότερη ακρίβεια στόχευσης καθιστά αυτή τη σάρωση πιο σταθερή.</string>
+    <string name="gb_adv_touch_custom_tip4">Η μεγαλύτερη σταθερότητα καθιστά τα αγγίγματα πιο σταθερά, ενώ η χαμηλότερη σταθερότητα αυξάνει την ακρίβεια των μικρότερων σαρώσεων.</string>
+    <string name="gb_adv_touch_custom_title">Προσαρμογή</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Αυτή η λειτουργία είναι σχεδιασμένη για επαγγελματίες παίκτες. Οι κανονικοί παίκτες μπορεί να θεωρούν αυτή τη λειτουργία ενοχλητική.</string>
+    <string name="gb_adv_touch_pro_title">Λειτουργία Pro</string>
 </resources>

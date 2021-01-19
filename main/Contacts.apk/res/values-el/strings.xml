@@ -1529,4 +1529,20 @@
     <string name="yesterday">Χθές</string>
     <string name="zero_items_selected">Επιλέξτε στοιχεία</string>
     <string name="zero_letter">+</string>
+    <string name="bh_business_hall_is_here">Οι μεταφορικές υπηρεσίες βρίσκονται εδώ</string>
+    <string name="bh_business_style">Επιλογή διασύνδεσης</string>
+    <string name="bh_business_style_new">Νέα</string>
+    <string name="bh_business_style_old">Παλιά</string>
+    <string name="bh_system_recommend">Συστάσεις συστήματος</string>
+    <string name="bh_system_recommend_des">Επιτρέψτε μας να αναλύσουμε τις κινήσεις σας για να προτείνουμε ψηφιακά προϊόντα με βάση τα αποτελέσματα</string>
+    <string name="contacts_trash_activity_hint">Επιλογή επαφών για επαναφορά</string>
+    <string name="contacts_trash_activity_title">Επαφές που διαγράφηκαν πρόσφατα</string>
+    <string name="contacts_trash_delete">Διαγραφή</string>
+    <string name="contacts_trash_delete_dialog_continue">Διαγραφή</string>
+    <string name="contacts_trash_delete_dialog_hint">"Δεν θα μπορείτε να το επαναφέρετε."</string>
+    <string name="contacts_trash_delete_dialog_loading">Διαγραφή…</string>
+    <string name="contacts_trash_delete_dialog_title">Διαγραφή επιλεγμένων επαφών;</string>
+    <string name="contacts_trash_restore">Επαναφορά</string>
+    <string name="contacts_trash_restore_loading">Επαναφορά…</string>
+    <string name="ensure">OK</string>
 </resources>

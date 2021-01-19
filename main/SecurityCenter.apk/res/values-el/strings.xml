@@ -208,8 +208,8 @@
     <string name="app_behavior_about_positive">Κατανοητό</string>
     <string name="app_behavior_access_gallery">%1s πρόσβαση στη Συλλογή</string>
     <string name="app_behavior_access_gallery_single">Αυτή η εφαρμογή απέκτησε πρόσβαση στη Συλλογή</string>
-    <string name="app_behavior_access_sociality">%1s πρόσβαση σε μηνύματα σε εφαρμογές κοινωνικής δικτύωσης</string>
-    <string name="app_behavior_access_sociality_single">Αυτή η εφαρμογή απέκτησε πρόσβαση σε μηνύματα των εφαρμογών κοινωνικής δικτύωσης</string>
+    <string name="app_behavior_access_sociality">%1s πρόσβαση σε εφαρμογές κοινωνικής δικτύωσης</string>
+    <string name="app_behavior_access_sociality_single">Αυτή η εφαρμογή απέκτησε πρόσβαση σε εφαρμογές κοινωνικής δικτύωσης</string>
     <string name="app_behavior_allowed">Αποδοχή</string>
     <string name="app_behavior_audio">%1s ηχογράφησε</string>
     <string name="app_behavior_audio_bg">%1s ηχογράφησε στο παρασκήνιο</string>
@@ -2021,7 +2021,7 @@
     <string name="menu_summary_power_manager_4">%s απομένουν</string>
     <string name="menu_text_antispam">Λίστα αποκλεισμών</string>
     <string name="menu_text_antivirus">Anti-virus</string>
-    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s κατειλημμένα</string>
+    <string name="menu_text_deepclean_summary">%1s/%2s κατειλημμένα</string>
     <string name="menu_text_garbage_cleanup">Καθαρισμός</string>
     <string name="menu_text_license_manager">Άδειες</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
@@ -2764,8 +2764,8 @@
     <string name="pp_hide_app_form_desktop">Κατάργηση εικονιδίων εφαρμογών από την αρχική οθόνη</string>
     <string name="pp_icon_layout_status_bg_content_enable">Προστατεύεται</string>
     <string name="pp_icon_layout_status_bg_content_unable">Off</string>
-    <string name="pp_interception_net_visit_content_manager">Προστασία συλλογής και εφαρμογών μέσων κοινωνικής δικτύωσης</string>
-    <string name="pp_interception_net_visit_content_manager_detail">Επιλέξτε ποιες εφαρμογές επιτρέπεται να έχουν πρόσβαση στις φωτογραφίες, τα βίντεο και το ιστορικό συνομιλίας σας</string>
+    <string name="pp_interception_net_visit_content_manager">Προστασία συλλογής και αρχείων εφαρμογών μέσων κοινωνικής δικτύωσης</string>
+    <string name="pp_interception_net_visit_content_manager_detail">Επιλέξτε ποιες εφαρμογές επιτρέπεται να έχουν πρόσβαση στη συλλογή και τα αρχεία από τις εφαρμογές μέσων κοινωνικής δικτύωσης</string>
     <string name="pp_local_msg">Πληροφορίες θέσης</string>
     <string name="pp_manage_apps_location_information">Να επιτρέπεται στις εφαρμογές η πρόσβαση στη θέση σας</string>
     <string name="pp_one_app_two_use">Χρήση δύο λογαριασμών χωρίς έξοδο</string>
@@ -2788,7 +2788,7 @@
     <string name="pp_prohibit_use_camera_in_background_detail">"Από προεπιλογή, οι εφαρμογές δεν θα μπορούν να χρησιμοποιούν την κάμερα στο παρασκήνιο"</string>
     <string name="pp_record_msg">Εγγραφή ήχου</string>
     <string name="pp_safe_box">Ιδιωτικός χώρος</string>
-    <string name="pp_safe_box_detail">Για την προστασία του απορρήτου σας, το MIUI σάς επιτρέπει να ελέγχετε τον τρόπο με τον οποίο οι εφαρμογές αποκτούν πρόσβαση στις φωτογραφίες σας και στο ιστορικό συνομιλιών στα μέσα κοινωνικής δικτύωσης.</string>
+    <string name="pp_safe_box_detail">"Τα ιδιωτικά στοιχεία κρυπτογραφούνται και αποθηκεύονται μόνο σε αυτήν τη συσκευή. Τα άλλα άτομα δεν θα μπορούν να έχουν πρόσβαση σε αυτά ενώ χρησιμοποιούν αυτή τη συσκευή και η ίδια η συσκευή δεν θα μπορεί να έχει πρόσβαση σε κρυπτογραφημένα στοιχεία και να τα χρησιμοποιεί με οποιονδήποτε τρόπο."</string>
     <string name="pp_safe_box_summary">Προστασία προσωπικών δεδομένων</string>
     <string name="pp_safe_input_pwd">Προστασία των κωδικών πρόσβασης</string>
     <string name="pp_safe_keyboard">Ασφαλές πληκτρολόγιο</string>
@@ -4222,11 +4222,39 @@
     <string name="xunyou_server_expired">Χωρίς</string>
     <string name="yuan">CNY</string>
     <string name="zhifubao_not_found">H έκδοση της εφαρμογής σας είναι πολύ παλιά ή δεν έχει εγκατασταθεί</string>
+    <string name="gb_adv_touch_adv_title">Κλασική λειτουργία (προεπιλογή)</string>
+    <string name="gb_adv_touch_custom1">Απόκριση σάρωσης</string>
+    <string name="gb_adv_touch_custom2">Ευαισθησία σε συνεχή αγγίγματα</string>
+    <string name="gb_adv_touch_custom3">Ακρίβεια στόχευσης</string>
+    <string name="gb_adv_touch_custom4">Σταθερότητα αγγίγματος</string>
+    <string name="gb_adv_touch_custom_tip1">Η υψηλότερη απόκριση σάρωσης αυξάνει την ταχύτητα αντίδρασης σε αυτή την κίνηση, ενώ η χαμηλότερη απόκριση σάρωσης κάνει την κίνηση πιο σταθερή.</string>
+    <string name="gb_adv_touch_custom_tip2">Η μεγαλύτερη ευαισθησία σε συνεχή αγγίγματα αυξάνει την ταχύτητα αντίδρασης σε αυτή την κίνηση, ενώ η μικρότερη ευαισθησία κάνει την κίνηση πιο σταθερή.</string>
+    <string name="gb_adv_touch_custom_tip3">Η μεγαλύτερη ακρίβεια στόχευσης καθιστά τις μικρότερες σαρώσεις πιο ακριβείς, ενώ η χαμηλότερη ακρίβεια στόχευσης καθιστά αυτή τη σάρωση πιο σταθερή.</string>
+    <string name="gb_adv_touch_custom_tip4">Η μεγαλύτερη σταθερότητα καθιστά τα αγγίγματα πιο σταθερά, ενώ η χαμηλότερη σταθερότητα αυξάνει την ακρίβεια των μικρότερων σαρώσεων.</string>
+    <string name="gb_adv_touch_custom_title">Προσαρμογή</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Αυτή η λειτουργία είναι σχεδιασμένη για επαγγελματίες παίκτες. Οι κανονικοί παίκτες μπορεί να θεωρούν αυτή τη λειτουργία ενοχλητική.</string>
+    <string name="gb_adv_touch_mode_select_title">Χειρονομίες</string>
+    <string name="gb_adv_touch_pro_title">Λειτουργία Pro</string>
+    <string name="gtb_spring_festival_back_game">Επιστροφή στο παιχνίδι</string>
+    <string name="gtb_spring_festival_goto_gameturbo">Προβολή</string>
+    <string name="summary_password_manager">Η Διαχείριση κωδικών σας επιτρέπει να κρυπτογραφείτε τους κωδικούς πρόσβασής σας και να τους αποθηκεύετε στο cloud</string>
+    <string name="title_password_manager">Ενεργοποίηση Διαχείριση κωδικών</string>
+    <string name="vb_video_super_division">Αναβάθμιση</string>
     <string name="ew_guide_statement_text_new">"Αυτή η αποποίηση ευθυνών ισχύει για όλους τους χρήστες (στο εξής \"εσείς\") που ενεργοποιούν τη δυνατότητα προειδοποίησης σεισμού. Συμφωνώντας με αυτή την αποποίηση ευθυνών, συνάπτετε μια νομικά δεσμευτική σύμβαση με την Xiaomi Inc. και τους συνεργάτες της (εφεξής καλούμενη \"Xiaomi\"). Αναγνωρίζετε ότι έχετε διαβάσει όλα τα περιεχόμενα αυτής της αποποίησης ευθυνών και κατανοείτε πλήρως και συμφωνείτε με όλους τους όρους και τις προϋποθέσεις αυτής της αποποίησης ευθυνών. διαφορετικά, θα πρέπει να απενεργοποιήσετε αμέσως τη λειτουργία προειδοποίησης σεισμού.
 Σύμφωνα με τους σχετικούς νόμους και κανονισμούς, η Xiaomi θα σας παρέχει υπηρεσίες έγκαιρης προειδοποίησης με βάση το πεδίο εφαρμογής της περιοχής έγκαιρης προειδοποίησης για τον σεισμό που καλύπτεται από τους σχετικούς οργανισμούς. Δηλαδή, όταν ενεργοποιήσετε τη λειτουργία προειδοποίησης σεισμού, θα μπορείτε να λαμβάνετε προειδοποιήσεις σεισμού που εκδίδονται για συγκεκριμένες περιοχές. Μπορείτε να βρείτε συγκεκριμένες περιοχές κάλυψης στις Ρυθμίσεις.
 Αυτή η δυνατότητα σας παρέχει λειτουργικότητα προειδοποίησης σεισμού. Πρέπει να κατανοήσετε ότι οι πληροφορίες προειδοποίησης για τον σεισμό παρέχονται από το Ινστιτούτο Υψηλής Τεχνολογίας Μείωσης Καταστροφών του Chengdu. Η Xiaomi δεν εποπτεύει αυτόν τον οργανισμό και δεν έχει κανέναν έλεγχο πάνω του.
 Η Xiaomi δεν υπόσχεται ή δεν εγγυάται την ακρίβεια, την εγκυρότητα και την εγκυρότητα των πληροφοριών προειδοποίησης σεισμού, ούτε εγγυάται ότι η υπηρεσία προειδοποίησης σεισμού θα καλύψει όλες τις ανάγκες σας.
 Η λήψη πληροφοριών προειδοποίησης σεισμού απαιτεί να διατηρήσετε τη συσκευή σας συνδεδεμένη στο δίκτυο κινητής τηλεφωνίας. Βλάβες γραμμής επικοινωνίας τρίτων μερών, τεχνικά προβλήματα, βλάβες δικτύου ή τερματικού εξοπλισμού, αστάθεια συστήματος και άλλα διάφορα περιστατικά ανωτέρας βίας μπορεί να σας αποτρέψουν από τη λήψη πληροφοριών προειδοποίησης σεισμού. Η Xiaomi δεν φέρει καμία ευθύνη για τυχόν ζημίες που προκαλούνται από τέτοια γεγονότα.
 Πρέπει να κατανοήσετε ότι αυτή η δυνατότητα παρέχεται μόνο για την αναφορά σας. Η προειδοποίηση που λαμβάνετε μπορεί να έρθει λίγα δευτερόλεπτα πριν την έναρξη ενός σεισμού. Είστε αποκλειστικά υπεύθυνοι για τους κινδύνους και τις συνέπειες των ενεργειών που εκτελείτε με βάση τις πληροφορίες που παρέχονται από αυτό το χαρακτηριστικό."</string>
+    <string name="vb_video_super_division_desc">"Αυτόματη αναβάθμιση της ανάλυσης όταν είναι ≤720p.
+
+Η χρήση αυτής της δυνατότητας αυξάνει την κατανάλωση ενέργειας.
+
+Αυτή η δυνατότητα δεν λειτουργεί με την ομαλοποίηση κίνησης.
+Η ενεργοποίηση ενός από τα χαρακτηριστικά θα απενεργοποιήσει το άλλο."</string>
+    <string name="vb_video_super_division_tips">"Δεν είναι αρκετά καθαρό?
+Δοκιμάστε την αναβάθμιση της ανάλυσης!"</string>
+    <string name="videobox_settings_timing">Ειδοποίηση binge</string>
+    <string name="videobox_settings_timing_desc">Λάβετε μια ωριαία ειδοποίηση binge υπενθυμίζοντάς σας να κάνετε ένα διάλειμμα</string>
 </resources>
 

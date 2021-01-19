@@ -197,4 +197,12 @@
     <item quantity="other">%1$d άτομα</item>
     <item quantity="one">%d άτομο</item>
   </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">Διαγράφηκαν μόνιμα %d επαφές</item>
+        <item quantity="one">Διαγράφηκε μόνιμα %d επαφές</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">Επιτυχής επαναφορά %d επαφών</item>
+        <item quantity="one">Επιτυχής επαναφορά %d επαφής</item>
+    </plurals>
 </resources>

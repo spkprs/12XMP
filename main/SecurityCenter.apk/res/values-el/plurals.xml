@@ -771,4 +771,14 @@
     <plurals name="simlock_set_puk_tips">
         <item quantity="other">Εισάγετε το PUK της SIM, απομένουν %d προσπάθειες</item>
     </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Συγχαρητήρια! Έχετε ξεκλειδώσει %s πασχαλινά αυγά."</item>
+        <item quantity="one">"Συγχαρητήρια! Έχετε ξεκλειδώσει %s πασχαλινό αυγό."</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Παρακολουθείτε βίντεο ήδη εδώ και %d ώρες.
+Κάντε ένα διάλειμμα!"</item>
+        <item quantity="one">"Παρακολουθείτε βίντεο ήδη εδώ και %d ώρα.
+Κάντε ένα διάλειμμα!"</item>
+    </plurals>
 </resources>

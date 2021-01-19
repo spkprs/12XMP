@@ -2307,7 +2307,7 @@
     <string name="talkback_download">Λήψη</string>
     <string name="talkback_enabled">ενεργοποιημένη</string>
     <string name="talkback_favorite">Αγαπημένο τραγούδι</string>
-    <string name="talkback_favorite_prompt">Όπως αυτό το τραγούδι για να το προσθέσετε στα αγαπημένα</string>
+    <string name="talkback_favorite_prompt">Μου αρέσει για προσθήκη στα αγαπημένα</string>
     <string name="talkback_follow">Ακολουθήστε</string>
     <string name="talkback_followed">Unfollow</string>
     <string name="talkback_frame_list">Λίστα αναπαραγωγής</string>
