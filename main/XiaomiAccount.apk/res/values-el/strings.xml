@@ -536,6 +536,8 @@
     <string name="passport_wx_bind_account_limit">"Αδύνατη η δημιουργία λογαριασμού τώρα. Δοκιμάστε άλλες μεθόδους σύνδεσης."</string>
     <string name="passport_yes">Ναί</string>
     <string name="password_toggle_content_description">Προβολή κωδικού</string>
+    <string name="password_view_hide_password">Απόκρυψη κωδικού</string>
+    <string name="password_view_show_password">Εμφάνιση κωδικού</string>
     <string name="permission_group_contacts">Επαφές</string>
     <string name="permission_group_phone">Τηλέφωνο</string>
     <string name="permission_group_sms">SMS</string>
@@ -629,5 +631,6 @@
     <string name="vip_account_settings">Ρυθμίσεις VIP</string>
     <string name="vip_settings_info">Ρυθμίσεις VIP</string>
     <string name="weixin">WeChat</string>
+    <string name="weixin_login">Είσοδος μέσω WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

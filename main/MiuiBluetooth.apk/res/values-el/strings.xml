@@ -262,6 +262,7 @@
     <string name="fast_connect_device_headset_l">Αριστερό</string>
     <string name="fast_connect_device_headset_r">Δεξιό</string>
     <string name="fast_connect_device_headset_reset">Παρατετ. πάτημα κουμπιού στο box</string>
+    <string name="fast_connect_same_accout_ok">Κατανοητό</string>
     <string name="fast_connect_device_title_connect_fail">Αποτυχία σύνδεσης του %1$s</string>
     <string name="fast_connect_device_title_connecting">Σύνδεση...</string>
     <string name="fast_connect_device_title_find_headset">Βρέθηκαν %1$s</string>

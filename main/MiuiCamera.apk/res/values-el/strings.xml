@@ -1034,7 +1034,7 @@
     <string name="pref_camera_device_watermark_title">Υδατογράφημα συσκευής</string>
     <string name="pref_camera_dual_enable_title">Ενεργοποίηση διπλής κάμερας</string>
     <string name="pref_camera_dual_sat_enable_title">Ενεργοποίηση διπλής κάμερας SAT</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Μείωση του ρυθμού καρέ σε συνθήκες χαμηλού φωτισμού από %1$d σε %2$d FPS για βελτίωση της ποιότητας βίντεο</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">Ο ρυθμός καρέ μειώνεται αυτόματα σε συνθήκες χαμηλού φωτισμού για να βελτιωθεί η ποιότητα του βίντεο</string>
     <string name="pref_camera_dynamic_frame_rate_title">Προσαρμογή ρυθμού καρέ σε χαμηλό φως</string>
     <string name="pref_camera_eis_entry_normal">Σταθερό βίντεο</string>
     <string name="pref_camera_eis_entry_off">Ανενεργή</string>
@@ -1133,6 +1133,8 @@
     <string name="pref_camera_portrait_mode_entry_on">Η λειτουργία Πορτρέτου είναι ενεργή</string>
     <string name="pref_camera_portrait_mode_title">Λειτουργία Πορτρέτου</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Αισθητική σε λειτουργία Πορτρέτου</string>
+    <string name="pref_camera_predictive_shutter_description">Παρακολούθηση κίνησης για την ελαχιστοποίηση του θολώματος στις φωτογραφίες παιδιών, κατοικίδιων και άλλων ενεργών αντικειμένων</string>
+    <string name="pref_camera_predictive_shutter_title">Παρακολούθηση κίνησης</string>
     <string name="pref_camera_proximity_lock_summary">Η αφή κλειδώνει όταν τοποθετηθεί σε μια τσέπη</string>
     <string name="pref_camera_proximity_lock_title">Λειτουργία τσέπης</string>
     <string name="pref_camera_quick_settings">Γρήγορες ρυθμίσεις</string>

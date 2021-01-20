@@ -130,6 +130,7 @@
     <string name="accessibility_display_daltonizer_preference_title">Διόρθωση χρώματος</string>
     <string name="accessibility_divider">Διαχωριστικό Διαιρούμενης οθόνης</string>
     <string name="accessibility_drag_hint_message">Μεταφέρετε στοιχεία στην κορυφή της οθόνης</string>
+    <string name="accessibility_enter_lock_setting">Πατήστε για να ανοίξετε τις ρυθμίσεις ταπετσαρίας Καρουσέλ</string>
     <string name="accessibility_enter_lock_wallpaper">Πατήστε για άνοιγμα Καθημερινών Ταπετσαρίων</string>
     <string name="accessibility_ethernet_connected">Το Ethernet συνδέθηκε.</string>
     <string name="accessibility_ethernet_disconnected">Το Ethernet αποσυνδέθηκε.</string>
@@ -143,6 +144,14 @@
     <string name="accessibility_home">Αρχική</string>
     <string name="accessibility_ime_switch_button">Κουμπί εναλλαγής μεθόδου εισαγωγής.</string>
     <string name="accessibility_key">Πλήκτρο προσαρμογής πλοήγησης</string>
+    <string name="accessibility_keyboard_delete_button">Διαγραφή</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Κλείδωμα κεφαλαίων</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Αριθμοί</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Σύμβολα</string>
+    <string name="accessibility_keyboard_ok_button">Εισαγωγή</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Γράμματα</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Κλείδωμα συμβόλων</string>
+    <string name="accessibility_keyguard_face_unlock_view">Ξεκλείδωμα προσώπου</string>
     <string name="accessibility_left_control_center_button">Συντόμευση</string>
     <string name="accessibility_left_lock_screen_magazine_button">Ταπετσαρίες Καρουζέλ</string>
     <string name="accessibility_location_active">Αιτήσεις θέσης ενεργές</string>

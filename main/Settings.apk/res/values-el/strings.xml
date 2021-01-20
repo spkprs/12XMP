@@ -77,10 +77,12 @@
     <string name="accessibility_autoclick_delay_preference_title">Καθυστέρηση πριν κάνετε κλικ</string>
     <string name="accessibility_autoclick_description">Εάν χρησιμοποιείτε ποντίκι, μπορείτε να ρυθμίσετε το δρομέα να ενεργεί αυτόματα όταν σταματήσει να κινείται για ένα συγκεκριμένο χρονικό διάστημα.</string>
     <string name="accessibility_autoclick_preference_title">Κλικ όταν ο δείκτης σταματήσει</string>
+    <string name="accessibility_back">Πίσω</string>
     <string name="accessibility_caption_master_switch_title">Χρησιμοποιήστε λεζάντες</string>
     <string name="accessibility_captioning_title">Υπότιτλοι</string>
     <string name="accessibility_category_personal">Λογαριασμοί προσωπικού προφίλ</string>
     <string name="accessibility_category_work">Λογαριασμοί προφίλ εργασίας - %s</string>
+    <string name="accessibility_clear">Εκκαθάριση</string>
     <string name="accessibility_close_tab">Κλείσιμο τρέχουσας καρτέλας</string>
     <string name="accessibility_control_timeout_preference_summary">Επιλέξτε το χρονικό διάστημα εμφάνισης μηνυμάτων που σας ζητούν να προβείτε σε ενέργειες, αλλά είναι ορατά μόνο προσωρινά.\n\nΔεν υποστηρίζουν όλες οι εφαρμογές αυτήν τη ρύθμιση.</string>
     <string name="accessibility_control_timeout_preference_title">Ώρα να αναλάβουμε δράση</string>

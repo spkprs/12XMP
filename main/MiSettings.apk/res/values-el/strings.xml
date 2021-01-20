@@ -152,10 +152,10 @@
     <string name="focus_mode_timer_pick_dialog_title">Εισάγετε διάρκεια</string>
     <string name="focus_time_exception_tip">Φαίνεται ότι ο χρόνος συστήματος άλλαξε. Απενεργοποιήθηκε η λειτουργία Εστίασης.</string>
     <string name="follow_sim1">Εφαρμογή ρυθμίσεων SIM 1</string>
-    <string name="fps_nature_summary">Ο υψηλός ρυθμός ανανέωσης διατηρεί τα πάντα ευκρινή και καθαρά</string>
-    <string name="fps_nature_title">Υψηλός</string>
-    <string name="fps_smooth_summary">Ο μεσαίος ρυθμός ανανέωσης προσθέτει μεγαλύτερη σαφήνεια στις λεπτομέρειες</string>
-    <string name="fps_smooth_title">Μεσαίος</string>
+    <string name="fps_nature_summary">Ο μέγιστος ρυθμός ανανέωσης διατηρεί τα πάντα ευκρινή και καθαρά</string>
+    <string name="fps_nature_title">Μέγιστος</string>
+    <string name="fps_smooth_summary">Ο υψηλός ρυθμός ανανέωσης προσθέτει μεγαλύτερη σαφήνεια στις λεπτομέρειες</string>
+    <string name="fps_smooth_title">Υψηλός</string>
     <string name="fps_standard_summary">Ο τυπικός ρυθμός ανανέωσης εξοικονομεί μπαταρία</string>
     <string name="fps_standard_title">Τυπικός</string>
     <string name="fps_user_tip">Αυτά τα εφέ κίνησης επίδειξης αναπαράγονται σε χαμηλή ταχύτητα για την αναφορά σας. Η πραγματική απόδοση μπορεί να φαίνεται διαφορετική με βάση διάφορους παράγοντες.</string>

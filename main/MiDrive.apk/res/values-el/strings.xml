@@ -255,6 +255,7 @@
     <string name="goto_sign_up">Δημιουργήστε λογαριασμό</string>
     <string name="h5_ppt_to_pdf_introduce_title">Πληροφορίες για τη μετατροπή διαφανειών σε PDF</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="home_action_up">Πίσω</string>
     <string name="i_know">Το έπιασα</string>
     <string name="identity">Ταυτοποίηση</string>
     <string name="image_picker_title">Επιλέξτε εικόνες</string>

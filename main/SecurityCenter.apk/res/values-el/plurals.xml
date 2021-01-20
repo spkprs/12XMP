@@ -781,4 +781,20 @@
         <item quantity="one">"Παρακολουθείτε βίντεο ήδη εδώ και %d ώρα.
 Κάντε ένα διάλειμμα!"</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="one">Απεγκατάσταση %d εφαρμ.</item>
+        <item quantity="other">Απεγκατάσταση %d εφαρμ.</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="one">Διαθέσιμες ενημ. %d εφαρμ.</item>
+        <item quantity="other">Διαθέσιμη ενημ. %d εφαρμ.</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Μπορείτε την απεγκατάσταση &lt;font color=#F22424>%d&lt;/font> εφαρμ.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Μπορείτε την απεγκατάσταση &lt;font color=#F22424>%d&lt;/font> εφαρμ.&lt;/Data></item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Ενημέρωση &lt;font color=#F22424>%d&lt;/font> εφαρμ.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ενημέρωση &lt;font color=#F22424>%d&lt;/font> εφαρμ.&lt;/Data></item>
+    </plurals>
 </resources>
