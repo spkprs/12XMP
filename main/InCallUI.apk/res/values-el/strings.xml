@@ -46,7 +46,7 @@
     <string name="call_recording_error_sd_unmounted">Η εγγραφή έχει διακοπεί: Η κάρτα SD δεν είναι συνδεδεμένη</string>
     <string name="call_recording_error_start_failed">Η Ηχογράφηση χρησιμοποιείται από άλλη εφαρμογή</string>
     <string name="call_recording_error_unknown">Προέκυψε ένα άγνωστο σφάλμα</string>
-    <string name="call_recording_notification_message">Πατήστε για να την ακούσετε.</string>
+    <string name="call_recording_notification_message">Αγγίξτε για να την ακούσετε.</string>
     <string name="call_recording_notification_message_low_storage">Η κάρτα SD είναι γεμάτη.</string>
     <string name="call_recording_notification_message_sd_unmounted">Η κάρτα SD card έχει αφαιρεθεί.</string>
     <string name="call_recording_notification_title">Η Κλήση καταγράφηκε</string>
