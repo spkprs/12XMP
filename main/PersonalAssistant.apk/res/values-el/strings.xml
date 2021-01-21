@@ -372,6 +372,15 @@
     <string name="app_health_card_completion">Ολοκλήρωση</string>
     <string name="app_health_card_energy">Cal</string>
     <string name="app_health_card_step">Σημερινά βήματα</string>
+    <string name="app_health_setting_music_name_fire">Φωτιά</string>
+    <string name="app_health_setting_music_name_forest">Δάσος</string>
+    <string name="app_health_setting_music_name_night">Καλοκαιρινή νύχτα</string>
+    <string name="app_health_setting_music_name_ocean">Παραλία</string>
+    <string name="app_health_setting_music_name_rain">Ψιλόβροχο</string>
+    <string name="app_health_setting_text_default_duration">Διάρκεια</string>
+    <string name="app_health_setting_text_download_alert_message">"Φαίνεται ότι δεν είστε συνδεδεμένοι σε WIFI. Να χρησιμοποιηθούν %1$s δεδομένων για τη λήψη στοιχείων;"</string>
+    <string name="app_health_setting_text_sleep_aid_settings">Sleep</string>
+    <string name="app_health_setting_text_title">Υγεία</string>
     <string name="app_label">Προσωπικός βοηθός</string>
     <string name="app_memory_free">Διαθέσιμα</string>
     <string name="app_memory_title">Βελτιστοποίηση μνήμης</string>
@@ -511,6 +520,7 @@
     <string name="app_sports_fav_cancel">Αφαιρέστε αυτήν την ομάδα</string>
     <string name="app_sports_fav_cancel_club">Αφαιρέστε αυτό το κλαμπ</string>
     <string name="app_sports_fav_cancel_league">Αφαιρέστε αυτό το πρωτάθλημα</string>
+    <string name="app_sports_fav_cancel_multi_league_content" formatted="false">"Το πρόγραμμα του συλλόγου σε %s και %s δεν θα προωθηθεί πλέον σε εσάς"</string>
     <string name="app_sports_fav_club">Ενδιαφέρον λέσχη</string>
     <string name="app_sports_fav_league">Ενδιαφέρον πρωτάθλημα</string>
     <string name="app_sports_fav_mine">Πρόσθεσε ομάδα</string>
@@ -519,6 +529,7 @@
     <string name="app_sports_title">αθλητικοί.</string>
     <string name="app_sports_title_add_team">προσθέστε προσοχή.</string>
     <string name="app_sports_title_all_leagues">Όλοι οι αγώνες</string>
+    <string name="app_sports_title_tip">Αντιστοίχιση σχετικών δεδομένων που παρέχονται από τρίτο μέρος</string>
     <string name="app_stock_more_add_stock">προσθέστε το δικό σας απόθεμα.</string>
     <string name="app_stock_name_hszs">δείκτης hang seng.</string>
     <string name="app_stock_name_nsdk">Nasdaq</string>
@@ -539,6 +550,7 @@
     <string name="app_switch_minus_flavor_to_old">βεβαιωθείτε ότι έχετε μεταβεί σε μια παλαιότερη έκδοση;</string>
     <string name="app_travel_btn_all_travel">όλα τα ταξίδια.</string>
     <string name="app_travel_btn_flight_detail">λεπτομέρειες πτήσης</string>
+    <string name="app_travel_card_none">Χωρίς δεδομένα</string>
     <string name="app_travel_card_title">βοηθός δρομολογίου</string>
     <string name="app_travel_card_title_add">προσθέστε ένα ταξίδι.</string>
     <string name="app_travel_card_title_no_arr">το ταξίδι που πρόκειται να ξεκινήσει.</string>

@@ -38,4 +38,10 @@
     <item>Κόκκινο - επάνω, πράσινο - κάτω</item>
     <item>Πράσινο - πάνω, κόκκινο - κάτω</item>
   </string-array>
+  <string-array name="app_health_setting_text_array_duration">
+    <item>10 λεπ.</item>
+    <item>20 λεπ.</item>
+    <item>30 λεπ.</item>
+    <item>60 λεπ.</item>
+  </string-array>
 </resources>

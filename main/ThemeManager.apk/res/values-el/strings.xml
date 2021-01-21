@@ -122,6 +122,8 @@
     <string name="both_all_apply_success">Ταπετσαρία εφαρμόστηκε</string>
     <string name="browser_local_resource">Τοπικές πηγές</string>
     <string name="can_not_apply">Δεν μπορεί να εφαρμοστεί</string>
+    <string name="can_not_apply_error">"Αυτή η μορφή βίντεο δεν υποστηρίζεται"</string>
+    <string name="can_not_apply_size_invalid">Αυτό το βίντεο είναι πολύ μεγάλο</string>
     <string name="cancel_download">Η λήψη ακυρώθηκε</string>
     <string name="card_data_request_error">Παρουσιάστηκε σφάλμα. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
     <string name="card_loading">Μισό λεπτό…</string>
@@ -266,7 +268,7 @@
     <string name="exo_controls_fullscreen_enter_description">Είσοδος σε πλήρη οθόνη</string>
     <string name="exo_controls_fullscreen_exit_description">Έξοδος από την πλήρη οθόνη</string>
     <string name="exo_controls_hide">Απόκρυψη στοιχείων ελέγχου Αναπ/γης</string>
-    <string name="exo_controls_next_description">Επόμενο</string>
+    <string name="exo_controls_next_description">Επόμενο κομμάτι</string>
     <string name="exo_controls_overflow_hide_description">Απόκρυψη πρόσθετων ρυθμίσεων</string>
     <string name="exo_controls_overflow_show_description">Εμφάνιση πρόσθετων ρυθμίσεων</string>
     <string name="exo_controls_pause_description">Παύση</string>
@@ -322,6 +324,14 @@
     <string name="find_more_theme">Μάθετε περισσότερα</string>
     <string name="find_more_wallpapers">Μάθετε περισσότερα</string>
     <string name="first_page_recommend">Συνιστάται</string>
+    <string name="font_compat_dialog_buy_confirm">Αγορά</string>
+    <string name="font_compat_dialog_buy_content">Οι γραμματοσειρές τρίτων ενδέχεται να μην υποστηρίζονται από ορισμένες εφαρμογές. Αυτό το ζήτημα συμβατότητας θα επιλυθεί με επερχόμενη ενημέρωση συστήματος. Να αγοραστεί οπωσδήποτε;</string>
+    <string name="font_compat_dialog_cancel">Ακύρωση</string>
+    <string name="font_compat_dialog_download_confirm">Λήψη</string>
+    <string name="font_compat_dialog_download_content">Οι γραμματοσειρές τρίτων ενδέχεται να μην υποστηρίζονται από ορισμένες εφαρμογές. Αυτό το ζήτημα συμβατότητας θα επιλυθεί με επερχόμενη ενημέρωση συστήματος. Λήψη οπωσδήποτε;</string>
+    <string name="font_compat_dialog_title">Ζητήματα συμβατότητας</string>
+    <string name="font_compat_dialog_trial_confirm">Δοκιμή</string>
+    <string name="font_compat_dialog_trial_content">Οι γραμματοσειρές τρίτων ενδέχεται να μην υποστηρίζονται από ορισμένες εφαρμογές. Αυτό το ζήτημα συμβατότητας θα επιλυθεί με επερχόμενη ενημέρωση συστήματος. Θέλετε να την δοκιμάσετε;</string>
     <string name="font_trial_end_purchase">Αγορά γραμ/σειράς</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Εφαρμογή πρώτα διαφανής ταπετσαρίας στον Πρώτο χώρο.</string>
     <string name="forbid_video_wallpaper_by_second_space">Εφαρμογή δυναμικής ταπετσαρίας πρώτα στον Πρώτο χώρο.</string>
@@ -377,6 +387,7 @@
     <string name="hide_pull_down_message">Απόκρυψη κοσμήματος?</string>
     <string name="hide_pull_down_negative">Χωρίς απόκρυψη</string>
     <string name="hide_pull_down_positive">Απόκρυψη</string>
+    <string name="hide_retract_button">Απόκρυψη</string>
     <string name="home_apply_failured">Αδύνατη η εφαρμογή ταπετσαρίας στην Αρχική οθόνη</string>
     <string name="home_apply_success">Ταπετσαρία στην Αρχική οθόνη εφαρμόστηκε</string>
     <string name="home_daily">Καθημερινές καλύτερες στιγμές</string>
@@ -846,6 +857,8 @@
     <string name="restore_icon_later">Μπορείτε να προσθέσετε ξανά τη συντόμευση στην Αρχική οθόνη στις "Ρυθμίσεις"</string>
     <string name="ringtone_set_success">Ορίστηκε με επιτυχία</string>
     <string name="saturday">Σάββατο</string>
+    <string name="scrollable_wallpaper_close">Απενεργοποίηση κύλισης</string>
+    <string name="scrollable_wallpaper_open">Ενεργοποίηση κύλισης</string>
     <string name="sdcard_not_mounted_dialog_message">Τοποθετήστε την κάρτα SD τώρα</string>
     <string name="sdcard_not_mounted_dialog_title">Δεν εντοπίστηκε κάρτα SD</string>
     <string name="search_filter_name">Φίλτρο</string>
@@ -864,6 +877,7 @@
     <string name="server_internal_error">Παρουσιάστηκε σφάλμα διακομιστή. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
     <string name="service_btn_text_know">Γνωρίστε το</string>
     <string name="service_btn_text_try">Δοκιμάστε το</string>
+    <string name="set_as_colorring">Ορισμός ως προσαρμοσμένου τόνου κουδουνίσματος</string>
     <string name="set_color_ring_back_tone">Ορισμός προσαρμοσμένου τόνου επιστροφής</string>
     <string name="set_home_wallpaper_failed">%s. Δεν είναι δυνατή η εφαρμογή ταπετσαρίας στην Αρχική οθόνη.</string>
     <string name="set_wallpaper_group_success">%1$s εφαρμόστηκε.\nΘα βλέπετε μια νέα εικόνα κάθε ώρα.</string>
