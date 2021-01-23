@@ -2021,7 +2021,7 @@
     <string name="menu_summary_power_manager_4">%s απομένουν</string>
     <string name="menu_text_antispam">Λίστα αποκλεισμών</string>
     <string name="menu_text_antivirus">Anti-virus</string>
-    <string name="menu_text_deepclean_summary">%1s/%2s κατειλημμένα</string>
+    <string name="menu_text_deepclean_summary">%1$s/%2$s κατειλημμένα</string>
     <string name="menu_text_garbage_cleanup">Καθαρισμός</string>
     <string name="menu_text_license_manager">Άδειες</string>
     <string name="menu_text_networkassistants">Χρήση δεδομένων</string>
