@@ -544,6 +544,7 @@
     <string name="junk_tag_junk_big_name_thumbnails">εικόνα μικρογραφίας τηλεφώνου</string>
     <string name="junk_tag_junk_big_name_whatsapp_media_video">whatsapp Αρχείο βίντεο</string>
     <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">GDC 推 日志</string>
+    <string name="junk_temporary_file">Προσωρινά αρχεία</string>
     <string name="just_now">Μόλις τώρα</string>
     <string name="kilobyteShort">KB</string>
     <string name="label_image_list_none">Χωρίς</string>

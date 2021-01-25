@@ -27,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="access_limit">Περιορισμοί πρόσβασης</string>
+    <string name="access_tips">"Δεν είναι δυνατή η πρόσβαση στα στοιχεία. Δοκιμάστε να χρησιμοποιήσετε το Android Storage Access Framework."</string>
     <string name="action_mode_deselect_all">Αποεπιλογή όλων</string>
     <string name="action_mode_select_all">Επιλογή όλων</string>
     <string name="ad_download">Λήψη</string>
@@ -86,6 +88,7 @@
     <string name="click_to_switch_volume">Πατήστε για εναλλαγή μεταξύ volumes</string>
     <string name="click_to_switch_volume_pad">Πατήστε για εναλλαγή μεταξύ Εσωτερικού χώρου και Κάρτας SD</string>
     <string name="clock_in">Σύνδεση…</string>
+    <string name="close">Κλείστε</string>
     <string name="compress_fail">Αδυναμία συμπίεσης. Υπάρχει ήδη ένα αρχείο με ίδιο όνομα.</string>
     <string name="compress_fail_unknown">Αδυναμία συμπίεσης. Ο χώρος αποθήκευσης είναι πλήρης ή παρουσιάστηκε άγνωστο σφάλμα.</string>
     <string name="compress_message">Συμπίεση σε…</string>
@@ -210,6 +213,7 @@
     <string name="gbk_summary">Απλοποιημένη Κινέζικη κωδικοποίηση Windows</string>
     <string name="gbk_title">GBK</string>
     <string name="gigabyteShort">GB</string>
+    <string name="go_ahead">Άνοιγμα</string>
     <string name="grid_mode">Εμφάνιση Πλακιδίων</string>
     <string name="group_title">%2$s από %1$s</string>
     <string name="group_title_extra_backup">Αντίγραφα ασφαλείας</string>
@@ -269,6 +273,9 @@
     <string name="mirror_can_not_drag_mask">Σύρετε για χρήση Mi Share</string>
     <string name="mirror_new_name">Δημιουργία φακέλου (%s)</string>
     <string name="mirror_new_name_first">Δημιουργία φακέλου</string>
+    <string name="mirror_no_recommended_app">Δεν υπάρχουν προτεινόμενες εφαρμογές</string>
+    <string name="mirror_open_mode_error">"Δεν ήταν δυνατή η φόρτωση των στοιχείων"</string>
+    <string name="mirror_open_mode_loading">Μισό λεπτό…</string>
     <string name="mirror_paste_no_file">"Αυτό το αρχείο δεν υπάρχει"</string>
     <string name="mirror_progress_copy">Αντιγραφή…</string>
     <string name="mirror_side_bar_tab_app_name">Εφαρμογές</string>
@@ -343,6 +350,7 @@
     <string name="operation_moving">Μετακίνηση…</string>
     <string name="operation_new_folder">Δημιουργία φακέλου</string>
     <string name="operation_open">Άνοιγμα</string>
+    <string name="operation_open_mode">Άνοιγμα με</string>
     <string name="operation_other_apps">Άνοιγμα σε μια άλλη εφαρμογή</string>
     <string name="operation_paste">Επικόλληση</string>
     <string name="operation_paste_to_folder">Επικόλληση σε φάκελο</string>
@@ -400,6 +408,8 @@
     <string name="promot_enctypt_password">Εισάγετε τον κωδικό που χρησιμοποιείτε για το ξεκλείδωμα της συσκευής σας</string>
     <string name="pull_to_enter_private">Τραβήξτε προς τα κάτω για να ανοίξετε τον ιδιωτικό φάκελο</string>
     <string name="pull_to_refresh">下拉刷新</string>
+    <string name="qq_msg">"Λόγω των περιορισμών του Android 11, ο Διαχειριστής αρχείων δεν έχει πρόσβαση να εμφανίζει έγγραφα QQ."</string>
+    <string name="qq_title">"Δεν είναι δυνατή η πρόσβαση στα έγγραφα QQ"</string>
     <string name="refresh_fail">刷新失败</string>
     <string name="refresh_success">Η ανανέωση ολοκληρώθηκε</string>
     <string name="refreshing">正在刷新</string>
@@ -451,6 +461,7 @@
     <string name="select_music">Αρχεία μουσικής</string>
     <string name="select_video">Αρχεία βίντεο</string>
     <string name="select_volume">Επιλέξτε τοποθεσία αποθήκευσης</string>
+    <string name="send">Αποστολή</string>
     <string name="server_control_advanced_settings">Ρυθμίσεις FTP</string>
     <string name="server_control_charset">Κωδικοποίηση μεταφοράς</string>
     <string name="server_control_settings">Ρυθμίσεις</string>
@@ -523,6 +534,8 @@
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="view_type">Θέαση</string>
+    <string name="wechat_msg">"Λόγω των περιορισμών του Android 11, η Διαχείριση αρχείων δεν έχει πρόσβαση να εμφανίζει τα έγγραφα των οποίων η προεπισκόπηση γίνεται στο WeChat. Ανοίξτε και αποθηκεύστε έγγραφα στο WeChat για να εμφανιστούν εδώ."</string>
+    <string name="wechat_title">"Δεν είναι δυνατή η πρόσβαση στα έγγραφα WeChat"</string>
     <string name="wechat_video">Βίντεο %s</string>
     <string name="wifi_state">Δίκτυο Wi‑Fi</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>

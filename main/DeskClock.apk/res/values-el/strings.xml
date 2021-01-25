@@ -480,6 +480,7 @@
     <string name="v7_preference_on">ON</string>
     <string name="vibrate_pref_summary">Δόνηση κατά την Αφύπνιση</string>
     <string name="vibrate_when_ringing">Ενεργή δόνηση</string>
+    <string name="voice_add_alarm">Προσθήκη ειδοποίησης με φωνητική εντολή</string>
     <string name="volume_button_setting_desc">Εκχωρίστε λειτουργίες για τα κουμπιά Power και Volume +/-</string>
     <string name="volume_button_setting_summary">Ρύθμιση κουμπιών, στην διάρκεια αφύπνισης</string>
     <string name="volume_button_setting_title">Κουμπιά έντασης ήχου</string>
