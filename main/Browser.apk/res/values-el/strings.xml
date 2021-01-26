@@ -529,7 +529,7 @@
   <string name="keep_queued_download">Διατήρηση</string>
   <string name="leto_permission_rationale_ask">Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τα απαιτούμενα δικαιώματα.</string>
   <string name="leto_permission_rationale_ask_again">Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τα απαιτούμενα δικαιώματα. Ανοίξτε την οθόνη ρυθμίσεων εφαρμογής για να τροποποιήσετε τα δικαιώματα εφαρμογής.</string>
-  <string name="leto_permission_title_settings_dialog">Απαιτούνται δικαιώματα</string>
+  <string name="leto_permission_title_settings_dialog">Απαιτούνται Άδειες</string>
   <string name="load_error_tip">Δεν ήταν δυνατή η φόρτωση στοιχείων. Πατήστε για να προσπαθήσετε ξανά.</string>
   <string name="load_more_footer_status_msg_error_load">Δεν ήταν δυνατή η φόρτωση. Δοκίμασε ξανά.</string>
   <string name="load_more_footer_status_msg_error_no_network">Δεν ήταν δυνατή η σύνδεση με το δίκτυο.</string>

@@ -168,7 +168,7 @@
     <string name="error_widget_exist_for_send_to_desktop">Η σημείωση υπάρχει ήδη στην Αρχική Οθόνη</string>
     <string name="evening">PM</string>
     <string name="exceed_todo_text_limitation">Η περιγραφή της εργασίας είναι πολύ μεγάλη.</string>
-    <string name="excerpt">Δημιουργία αποσπάσματος</string>
+    <string name="excerpt">Αποσπάσματα</string>
     <string name="excerpt_bubble_tips">Το αντιγραμμένο κείμενο και οι αποθηκευμένες εικόνες θα αποθηκευτούν στις Σημειώσεις</string>
     <string name="excerpt_link_bubble_tips">Πατήστε για αποθήκευση στις Σημειώσεις</string>
     <string name="excerpt_note">Τα αποσπάσματα μου</string>

@@ -341,7 +341,7 @@
     <string name="dialog_ok">OK</string>
     <string name="dialog_open">Αποδοχή</string>
     <string name="dialog_permission_loading_msg">Γίνεται έλεγχος…</string>
-    <string name="dialog_permission_title">Απαιτούνται δικαιώματα</string>
+    <string name="dialog_permission_title">Απαιτούνται Άδειες</string>
     <string name="dialog_privacy_policy_statement">Δήλωση Πολιτικής Απορρήτου</string>
     <string name="dialog_privacy_title">Όροι και προϋποθέσεις</string>
     <string name="dialog_read_phone_perm_desc">Για ταυτοποίηση λειτουργιών συσκευής με χρήση OAID ή Android ID</string>
@@ -397,9 +397,6 @@
     <string name="exercise_consume_description">Σύμφωνα με τις Διατροφικές Κατευθυντήριες Γραμμές για τους Κινέζους Κατοίκους, η καθημερινή σωματική δραστηριότητα θα πρέπει να καταναλώνει περισσότερο από το 15% των συνολικών ενεργειακών καταναλώσεων. Η ενέργεια που δαπανάται στην καθημερινή σωματική σας δραστηριότητα συνοψίζεται εδώ, αλλά δεν περιλαμβάνει βασικές μεταβολές κατανάλωσης. Εάν έχετε προβλήματα διαχείρισης βάρους, πρέπει να επικεντρωθείτε και στην κατανάλωση ενέργειας.</string>
     <string name="exercise_consume_exercise_description">Η διάρκεια άσκησης είναι ο χρόνος που αφιερώνεται σε δραστηριότητες μεσαίας και υψηλής έντασης. Σύμφωνα με τις κινεζικές υγειονομικές αρχές, η εβδομαδιαία διάρκεια άσκησης πρέπει να είναι τουλάχιστον 150 λεπτά. Ο χρόνος που αφιερώνεται σε δραστηριότητες υψηλής έντασης όπως γρήγορο περπάτημα (ρυθμός μεγαλύτερο από 100 βήματα ανά λεπτό), τρέξιμο και σκάλες αναρρίχησης θα προστεθούν στη διάρκεια της άσκησης σας.</string>
     <string name="exercise_correct">Διόρθωση</string>
-    <string name="exercise_detail_no_consume_hint">Επιλεγμένη πηγή δεδομένων (%1$s) δεν παρέχει πληροφορίες για την μέτρηση θερμίδων.\nΜπορείτε να επιλέξετε μια διαφορετική πηγή δεδομένων σε Περισσότερα &gt; Πηγές δεδομένων.</string>
-    <string name="exercise_detail_no_exercise_hint">Επιλεγμένη πηγή δεδομένων (%1$s) δεν παρέχει πληροφορίες για τη διάρκεια της άσκησης.\nΜπορείτε να επιλέξετε μια διαφορετική πηγή δεδομένων σε Περισσότερα &gt; Πηγές δεδομένων.</string>
-    <string name="exercise_detail_no_steps_hint">Επιλεγμένη πηγή δεδομένων (%1$s) δεν παρέχει πληροφορίες μέτρησης βημάτων.\nΜπορείτε να επιλέξετε μια διαφορετική πηγή δεδομένων σε Περισσότερα &gt;  Πηγές δεδομένων.</string>
     <string name="exercise_duration">Διάρκεια άσκησης</string>
     <string name="exercise_duration_consume">Διάρκεια: %1$s λεπ. %2$s Cal</string>
     <string name="exercise_goal">Στόχος δραστηριότητας</string>
@@ -417,7 +414,6 @@
     <string name="exercise_notification_content">%1$d λεπτά άσκησης (%2$d Cal)</string>
     <string name="exercise_notification_meet_title">Σήμερα βήματα: %d. Στόχος επιτεύχθει!</string>
     <string name="exercise_notification_no_meet_title">Σήμερα βήματα: %d. Συνεχίστε να φτάσετε στο στόχο σας!</string>
-    <string name="exercise_question_answer_one">1. Ορισμένες συσκευές δεν έχουν εξοπλιστεί με αισθητήρες χαμηλής κατανάλωσης ενέργειας. Η Xiaomi Health δεν παρακολουθεί δεδομένα δραστηριότητας για να εξοικονομήσει μπαταρία στις ακόλουθες συσκευές: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.\nΕάν η συσκευή σας δεν συμπεριλαμβάνεται στη λίστα, μπορείτε να προσθέσετε τα δεδομένα χειροκίνητα στην Xiaomi Health  > Μενού  > Πηγές δεδομένων  > Προσθήκη δεδομένων πηγών.</string>
     <string name="exercise_question_answer_two">2. Περιστασιακά, οι αισθητήρες κίνησης ενδέχεται να αποτύχουν. Πραγματοποιήστε επανεκκίνηση του τηλεφώνου σας και ελέγξτε εάν η παρακολούθηση αρχίζει κανονικά σε τέτοιες περιπτώσεις.</string>
     <string name="exercise_question_title">Γιατί δεν μπορείτε να δείτε τα στατιστικά σας;</string>
     <string name="exercise_recog_confirm_ridding">Ποδηλατούσατε μεταξύ %1$s έως %2$s;</string>
@@ -453,7 +449,6 @@
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
     <string name="fall_sleep_hard">Δυσκολία στον ύπνο</string>
     <string name="falling_duration">Αποκοιμιέμαι</string>
-    <string name="falling_duration_hard_description">Ο ύπνος είναι η περίοδος μεταξύ της έναρξης του ύπνου σας και του ύπνου σας εντελώς. Αν σας πάρει περισσότερο από 30 λεπτά για να κοιμηθείτε, αυτό μπορεί να είναι ένα σημάδι της αϋπνίας.\nΕάν είναι ακόμα δύσκολο για σας να κοιμηθείτε μετά από 30 λεπτά στο κρεβάτι, μειώστε τους παράγοντες που συμβάλλουν σε αυτό το φαινόμενο. Πίνετε λιγότερο καφέ; μην overstimulate νευρικό σύστημα σας οπτικά και συναισθηματικά παρακολουθώντας βίντεο ή διαβάζοντας πριν από το κρεβάτι? κρατήστε την κρεβατοκάμαρά σας σκοτεινή, ήρεμη, και άνετη. Εάν αυτά τα μέτρα δεν φέρνουν οποιαδήποτε ανακούφιση, συμβουλευθείτε το παθολόγο σας.</string>
     <string name="falling_duration_normal_description">Ο ύπνος είναι η περίοδος μεταξύ της έναρξης του ύπνου σας και του ύπνου σας εντελώς. Γνωρίζοντας πόσο καιρό σας παίρνει για να κοιμηθείτε είναι σημαντική για τη θεραπεία της αϋπνίας και άλλων ύπνου που σχετίζονται με τις συνθήκες.</string>
     <string name="fast">Γρήγορα</string>
     <string name="fat_rate">Λίπος</string>
@@ -498,7 +493,7 @@
     <string name="goal_title">Παραμείνετε υγιείς</string>
     <string name="goto_setting_auto_start">Ρυθμίσεις</string>
     <string name="gps_no_signal_hint">Σύμφωνα με το τρέχον σήμα GPS, είναι αδύνατο να καταγραφούν με ακρίβεια τα δεδομένα κίνησης και η πορεία. Για να λάβετε καλύτερα το δορυφορικό σήμα θέσης, μεταβείτε στον ανοιχτό δρόμο.</string>
-    <string name="gps_unauthorized">Απαιτούνται δικαιώματα GPS</string>
+    <string name="gps_unauthorized">Απαιτείται Άδεια στο GPS</string>
     <string name="gps_unopened">Το GPS είναι απενεργοποιημένο</string>
     <string name="group">Κύκλοι</string>
     <string name="guide_data_cloud_sync_tip">Μπορείτε να απενεργοποιήσετε το συγχρονισμό στις ρυθμίσεις , υπηρεσίες cloud.</string>
@@ -575,7 +570,7 @@
     <string name="hr_input_heart_rate">Καταγραφή καρδιακών παλμών</string>
     <string name="hr_measure_heart_rate">Μέτρηση</string>
     <string name="hr_open_permission_desc">"Η Υγεία Xiaomi πρέπει να έχει πρόσβαση στην κάμερα του τηλεφώνου σας για να μπορεί να μετρά τον καρδιακό ρυθμό. Να επιτρέπεται;"</string>
-    <string name="hr_open_permission_title">Απαιτούνται δικαιώματα</string>
+    <string name="hr_open_permission_title">Απαιτούνται Άδειες</string>
     <string name="hr_phone_detect_records">Ιστορικό μετρήσεων τηλεφώνου</string>
     <string name="hr_pre_detect">Καλύψτε πλήρως φλάς &amp; κάμερα με ένα δάχτυλο</string>
     <string name="hr_pre_detect_finger">Έλεγχος...</string>
@@ -671,7 +666,7 @@
     <string name="location_permission_dialog_content">Να επιτρέπεται στο Xiaomi Health να έχει πρόσβαση στην τοποθεσία σας στο \"Xiaomi Health\" &gt; \"Διαχείριση δικαιωμάτων\" για να μπορείτε να παρακολουθείτε τις εξωτερικές προπονήσεις.</string>
     <string name="location_permission_dialog_negative">Όχι τώρα</string>
     <string name="location_permission_dialog_positive">Επιτρέπεται</string>
-    <string name="location_permission_dialog_title">Απαιτούνται δικαιώματα τοποθεσίας</string>
+    <string name="location_permission_dialog_title">Απαιτούνται Άδειες τοποθεσίας</string>
     <string name="location_service_dialog_content">Ενεργοποιήστε τις υπηρεσίες τοποθεσίας στις Ρυθμίσεις για να μπορείτε να παρακολουθείτε τα προγράμματα εξωτερικών χώρων σας.</string>
     <string name="location_service_dialog_negative">Όχι τώρα</string>
     <string name="location_service_dialog_positive">Ενεργοποίηση</string>
@@ -1003,7 +998,7 @@
     <string name="rb_gender_male">Φύλο: Άνδρας</string>
     <string name="reach_standard">Πληροί τα πρότυπα</string>
     <string name="recog_permission_dialog_content">Επιτρέψτε στο Xiaomi Health να έχει πρόσβαση στις πληροφορίες δραστηριότητας για να μπορεί να δει τον αριθμό βημάτων.</string>
-    <string name="recog_permission_dialog_title">Απαιτούνται δικαιώματα</string>
+    <string name="recog_permission_dialog_title">Απαιτούνται Άδειες</string>
     <string name="recommand_body_weight_msg">Συνιστώμενο βάρος-στόχος: %1$.1f kg. Απήχηση στον ΔΜΣ %2$.1f για τη μείωση του κινδύνου καρδιαγγειακών και ηπατικών παθήσεων.</string>
     <string name="recommend_sleep_goal">21:00-11:00</string>
     <string name="record_blood_pressure">Καταγραφή μέτρησης</string>
@@ -1173,7 +1168,6 @@
     <string name="sleep_detection_hint">Παρέχονται στατιστικά στοιχεία μόνο για την αναφορά σας. Δεν μπορούν να χρησιμοποιηθούν ως λόγοι για ιατρική διάγνωση.</string>
     <string name="sleep_detection_question_four_answer">Διαφορετικοί τύποι κινητών συσκευών είναι εξοπλισμένοι με διαφορετικούς αισθητήρες. Οι τιμές κατανάλωσης ενέργειας ενδέχεται να διαφέρουν για διαφορετικά εξαρτήματα υλικού.</string>
     <string name="sleep_detection_question_four_title">Γιατί διαφορετικές συσκευές καταναλώνουν διαφορετικές ποσότητες ενέργειας για την παρακολούθηση του ύπνου;</string>
-    <string name="sleep_detection_question_one_answer">Όταν η συσκευή σας είναι απενεργοποιημένη, επανεκκίνηση ή η μπαταρία είναι χαμηλή, η παρακολούθηση ύπνου θα διακοπεί, επειδή οι αισθητήρες δεν μπορούν να συλλέξουν και να αναλύσουν δεδομένα. Σε τέτοιες περιπτώσεις, τα στατιστικά για τον ύπνο θα εμφανίζονται ελλιπή.\nΕάν αυτό το πρόβλημα παρουσιάζεται συχνά, ελέγξτε τη συσκευή σας για προγραμματισμένες εργασίες τερματισμού ή ενημερώσεις συστήματος κατά τη διάρκεια της νύχτας.</string>
     <string name="sleep_detection_question_one_title">Γιατί τα στατιστικά μου είναι ελλιπή;</string>
     <string name="sleep_detection_question_one_title_1">"Γιατί δεν βλέπω στατιστικά του κύκλου του ύπνου;"</string>
     <string name="sleep_detection_question_three_answer">Η συσκευή σας παρακολουθεί την κίνηση του σώματός σας κατά τη διάρκεια του ύπνου χρησιμοποιώντας ενσωματωμένους αισθητήρες. Για να κάνετε τα στατιστικά πιο ακριβή, τοποθετήστε τη συσκευή σε μια μαλακή επιφάνεια κοντά στο σώμα σας. Αποφύγετε την τοποθέτησή του σε κομοδίνα ή πολύ μακριά από το στρώμα.</string>
@@ -1317,7 +1311,7 @@
     <string name="solar_term_winter_solstice">Χειμερινό Ηλιοστάσιο</string>
     <string name="sport_audio_permission_dialog_content">Αυτή η εφαρμογή χρειάζεται δικαιώματα για την εγγραφή ήχου, ώστε να είναι δυνατή η παρακολούθηση των προγραμμάτων με βάση τους ήχους που παράγετε.</string>
     <string name="sport_audio_permission_dialog_desc">Για παρακολούθηση προπονήσεων με βάση τους ήχους που παράγετε</string>
-    <string name="sport_audio_permission_dialog_title">Απαιτούνται δικαιώματα</string>
+    <string name="sport_audio_permission_dialog_title">Απαιτούνται Άδειες</string>
     <string name="sport_btn_continue">Συνέχισε</string>
     <string name="sport_btn_finish">Τέλος</string>
     <string name="sport_btn_lock">Κλείδωμα</string>
@@ -1704,7 +1698,6 @@
     <string name="unknown_gender">Άγνωστο</string>
     <string name="unknown_state">Άγνωστη κατάσταση</string>
     <string name="update_notify_dialog_ignore">Αργότερα</string>
-    <string name="update_notify_dialog_msg">Υπάρχει διαθέσιμη ενημέρωση: %1$s\nΤι νέο υπάρχει:\n%2$s\nΕνημέρωση τώρα;</string>
     <string name="update_notify_dialog_msg2">Υπάρχει διαθέσιμη μια ενημέρωση: %1$s. Ενημέρωση τώρα?</string>
     <string name="update_notify_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
     <string name="update_notify_no_update_log">Δεν υπάρχει τίποτα ακόμη εδώ.</string>
@@ -1741,8 +1734,6 @@
     <string name="well">Καλά</string>
     <string name="write_strorage_perm_description">Καταγράψτε τα προβλήματα που αντιμετωπίσατε κατά τη χρήση</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Η σύνδεση του Διαχειριστή λήψης απέτυχε, ελέγξτε την κατάσταση Διαχείρισης λήψεων στη Διαχείριση εφαρμογών.</string>
-    <string name="xiaomi_update_sdk_dialog_message">Εισαγωγή έκδοσης %1$s\nΜέγεθος: %2$s</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">Εισαγωγή έκδοσης %1$s\nΜέγεθος ενημέρωσης Delta: %2$s</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s ενημερωμένη έκδοση!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Η αποθήκευση δεν είναι διαθέσιμη, ελέγξτε την κάρτα SD.</string>
     <string name="year">Έτος</string>
@@ -1764,7 +1755,27 @@
 Εάν δεν θέλετε να αποκτήσετε πρόσβαση στις συνιστώμενες τάξεις, μπορείτε να χρησιμοποιήσετε τις τακτικές ασκήσεις."</string>
     <string name="hr_fp_not_put_well">"Το δάχτυλό σας μετακινήθηκε.
 Έναρξη από την αρχή."</string>
-    <string name="sleep_detection_question_one_answer_1">Οι φάσεις ύπνου και ύπνου ανιχνεύονται με βάση τα δεδομένα κίνησης σώματος που συλλέγονται από τους αισθητήρες της συσκευής σας. Να γιατί μπορεί να μην μπορείτε να δείτε τα στατιστικά:
+    <string name="sleep_detection_question_one_answer_1">"Οι φάσεις ύπνου και ύπνου ανιχνεύονται με βάση τα δεδομένα κίνησης σώματος που συλλέγονται από τους αισθητήρες της συσκευής σας. Να γιατί μπορεί να μην μπορείτε να δείτε τα στατιστικά:
 1. Δεν ήταν δυνατή η συλλογή δεδομένων από την υπηρεσία εύρυθμης λειτουργίας Xiaomi. Αυτό μπορεί να συμβεί όταν η συσκευή σας απενεργοποιείται ενώ κοιμάστε, η μπαταρία του είναι πολύ χαμηλή ή η εφαρμογή δεν επιτρέπεται να λειτουργεί στο παρασκήνιο. Να επιτρέπεται η αυτόματη εκκίνηση της λειτουργίας Xiaomi, να προστίθεται στις εξαιρέσεις της εξοικονόμησης μπαταρίας και να κλειδώνεται στο παρασκήνιο για την αποτροπή αυτού του συμβάντος.
 2. Δεν μπόρεσε να αναλύσει τα δεδομένα που συλλέχθηκαν. Αυτό μπορεί να συμβεί όταν το τηλέφωνό σας είναι τοποθετημένο πολύ μακριά από το σώμα σας όταν κοιμάστε. Εναλλακτικά, η κίνηση του σώματός σας μπορεί να είναι πολύ λεπτή για να κάνετε υποθέσεις σχετικά με τις αλλαγές στον κύκλο του ύπνου σας. Βελτιώνουμε συνεχώς τους αλγόριθμους μας για να κάνουμε την Xiaomi Health να αναλύει τον ύπνο σας καλύτερα."</string>
+    <string name="falling_duration_hard_description">"Ο ύπνος είναι η περίοδος μεταξύ της έναρξης του ύπνου σας και του ύπνου σας εντελώς. Αν σας πάρει περισσότερο από 30 λεπτά για να κοιμηθείτε, αυτό μπορεί να είναι ένα σημάδι της αϋπνίας.
+Εάν είναι ακόμα δύσκολο για σας να κοιμηθείτε μετά από 30 λεπτά στο κρεβάτι, μειώστε τους παράγοντες που συμβάλλουν σε αυτό το φαινόμενο. Πίνετε λιγότερο καφέ; μην overstimulate νευρικό σύστημα σας οπτικά και συναισθηματικά παρακολουθώντας βίντεο ή διαβάζοντας πριν από το κρεβάτι? κρατήστε την κρεβατοκάμαρά σας σκοτεινή, ήρεμη, και άνετη. Εάν αυτά τα μέτρα δεν φέρνουν οποιαδήποτε ανακούφιση, συμβουλευθείτε το παθολόγο σας."</string>
+    <string name="exercise_detail_no_consume_hint">"Επιλεγμένη πηγή δεδομένων (%1$s) δεν παρέχει πληροφορίες για την μέτρηση θερμίδων.
+Μπορείτε να επιλέξετε μια διαφορετική πηγή δεδομένων σε Περισσότερα > Πηγές δεδομένων."</string>
+    <string name="exercise_detail_no_exercise_hint">"Επιλεγμένη πηγή δεδομένων (%1$s) δεν παρέχει πληροφορίες για τη διάρκεια της άσκησης.
+Μπορείτε να επιλέξετε μια διαφορετική πηγή δεδομένων σε Περισσότερα > Πηγές δεδομένων."</string>
+    <string name="exercise_detail_no_steps_hint">"Επιλεγμένη πηγή δεδομένων (%1$s) δεν παρέχει πληροφορίες μέτρησης βημάτων.
+Μπορείτε να επιλέξετε μια διαφορετική πηγή δεδομένων σε Περισσότερα > Πηγές δεδομένων."</string>
+    <string name="exercise_question_answer_one">"1. Ορισμένες συσκευές δεν έχουν εξοπλιστεί με αισθητήρες χαμηλής κατανάλωσης ενέργειας. Η Xiaomi Health δεν παρακολουθεί δεδομένα δραστηριότητας για να εξοικονομήσει μπαταρία στις ακόλουθες συσκευές: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+Εάν η συσκευή σας δεν συμπεριλαμβάνεται στη λίστα, μπορείτε να προσθέσετε τα δεδομένα χειροκίνητα στην Xiaomi Health  > Μενού  > Πηγές δεδομένων  > Προσθήκη δεδομένων πηγών."</string>
+    <string name="sleep_detection_question_one_answer">"Όταν η συσκευή σας είναι απενεργοποιημένη, επανεκκίνηση ή η μπαταρία είναι χαμηλή, η παρακολούθηση ύπνου θα διακοπεί, επειδή οι αισθητήρες δεν μπορούν να συλλέξουν και να αναλύσουν δεδομένα. Σε τέτοιες περιπτώσεις, τα στατιστικά για τον ύπνο θα εμφανίζονται ελλιπή.
+Εάν αυτό το πρόβλημα παρουσιάζεται συχνά, ελέγξτε τη συσκευή σας για προγραμματισμένες εργασίες τερματισμού ή ενημερώσεις συστήματος κατά τη διάρκεια της νύχτας."</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Εισαγωγή έκδοσης %1$s
+Μέγεθος: %2$s"</string>
+    <string name="update_notify_dialog_msg">"Υπάρχει διαθέσιμη ενημέρωση: %1$s
+Τι νέο υπάρχει:
+%2$s
+Ενημέρωση τώρα;"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Εισαγωγή έκδοσης %1$s
+Μέγεθος ενημέρωσης Delta: %2$s"</string>
 </resources>

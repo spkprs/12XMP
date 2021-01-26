@@ -3880,7 +3880,7 @@
     <string name="miheadset_Box">Box</string>
     <string name="miheadset_LeftEar">Αριστερό</string>
     <string name="miheadset_RightEar">Δεξιό</string>
-    <string name="miheadset_active">Ενεργητικό</string>
+    <string name="miheadset_active">Ενεργό</string>
     <string name="miheadset_bright">Φωτεινό</string>
     <string name="miheadset_call_assist">Mi AI</string>
     <string name="miheadset_cancel_device">Ακύρωση</string>
@@ -3888,6 +3888,7 @@
     <string name="miheadset_closeAnc">Off</string>
     <string name="miheadset_connectHeadsetForFw">Σύνδεση ακουστικών για προβολή της έκδοσης υλικολογισμικού</string>
     <string name="miheadset_connect_play_music">Αυτόματη εκκίνηση αναπαραγωγής όταν τα ακουστικά είναι συνδεδεμένα</string>
+    <string name="miheadset_connect_toast_tips">Σύνδεση ακουστικών πρώτα</string>
     <string name="miheadset_define_self">Ορίστε τον εαυτό σας</string>
     <string name="miheadset_disconnect">Αποσύνδεση</string>
     <string name="miheadset_disconnect_device">Αποσύνδεση αυτής της συσκευής;</string>
@@ -3918,6 +3919,7 @@
     <string name="miheadset_rename_device">Μετονομασία</string>
     <string name="miheadset_soft">Απαλό</string>
     <string name="miheadset_transparent">Διαφάνεια</string>
+    <string name="miheadset_unpair_device_text">%1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν το λογαριασμό Mi.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Διάφορα αρχεία</string>
     <string name="misc_files_selected_count">επιλεγμένα %1$d από %2$d</string>

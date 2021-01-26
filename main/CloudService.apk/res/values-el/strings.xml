@@ -364,7 +364,7 @@
     <string name="micloud_manual_request_permission_confirm">Ρυθμίσεις</string>
     <string name="micloud_manual_request_permission_content">Για να μπορείτε να χρησιμοποιήσετε τις υπηρεσίες μας, δώστε στο Xiaomi Cloud τα ακόλουθα δικαιώματα στις Ρυθμίσεις: \"%s\".</string>
     <string name="micloud_manual_request_permission_content_on_provision">Δώστε πρώτα τα απαιτούμενα δικαιώματα στην Ασφάλεια</string>
-    <string name="micloud_manual_request_permission_title">Απαιτούνται δικαιώματα</string>
+    <string name="micloud_manual_request_permission_title">Απαιτούνται Άδειες</string>
     <string name="micloud_manual_sync_all">Συγχρ. όλων των στοιχείων</string>
     <string name="micloud_manual_sync_now">Συγχρονισμός</string>
     <string name="micloud_manual_sync_now_retry">Προσπαθήστε ξανά</string>

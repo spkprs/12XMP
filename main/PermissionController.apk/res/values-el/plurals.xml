@@ -16,16 +16,8 @@
         <item quantity="other">%s λεπτά</item>
         <item quantity="one">1 λεπτό</item>
     </plurals>
-    <plurals name="permission_usage_bar_label">
-        <item quantity="other">%s εφαρμογές</item>
-        <item quantity="one">1 εφαρμογή</item>
-    </plurals>
-    <plurals name="permission_usage_permission_filter_subtitle">
-        <item quantity="other">%s εφαρμογές</item>
-        <item quantity="one">1 εφαρμογή</item>
-    </plurals>
     <plurals name="seconds">
-        <item quantity="other">%s δευτερόλεπτα</item>
-        <item quantity="one">1 δευτερόλεπτο</item>
+        <item quantity="other">%s δευτ.</item>
+        <item quantity="one">1 δευτ.</item>
     </plurals>
 </resources>

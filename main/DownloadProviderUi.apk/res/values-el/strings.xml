@@ -98,7 +98,7 @@
      <string name="dialog_btn_ok_disabled_net">Ρυθμίσεις δικτύου</string>
      <string name="dialog_cannot_resume">Η λήψη σταμάτησε. Προσπαθήστε ξανά.</string>
      <string name="dialog_clipboard_permission_message">Να επιτρέπεται στις λήψεις η πρόσβαση σε στοιχεία του προχείρου για την αυτόματη προσθήκη αντιγραμμένων διευθύνσεων URL;</string>
-     <string name="dialog_clipboard_permission_title">Απαιτούνται δικαιώματα</string>
+     <string name="dialog_clipboard_permission_title">Απαιτούνται Άδειες</string>
      <string name="dialog_confirm_delete_checkbox_message">Διαγραφή και των τοπικών αρχείων</string>
      <string name="dialog_confirm_delete_the_download_item_message">Διαγραφή αυτού του στοιχείου;</string>
      <string name="dialog_content_limit0">Περιορισμός λήψεων</string>

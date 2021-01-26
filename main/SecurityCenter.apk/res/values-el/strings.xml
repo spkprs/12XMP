@@ -2749,7 +2749,7 @@
     <string name="pp_app_warning_permission_tips">Λάβετε ειδοποιήσεις σχετικά με τη συμπεριφορά της εφαρμογής</string>
     <string name="pp_app_warning_permission_tips_detail">Λήψη ειδοποιήσεων όταν οι εφαρμογές αποκτούν πρόσβαση στη θέση σας, εγγράφουν ήχο ή χρησιμοποιούν φωτογραφική μηχανή</string>
     <string name="pp_call_phone_msg">Ιστορικό κλήσεων</string>
-    <string name="pp_capability_approved_title">"Τα μέτρα προστασίας της ιδιωτικής ζωής μας δοκιμάστηκαν και πιστοποιήθηκαν από τους κορυφαίους εμπειρογνώμονες του κλάδου."</string>
+    <string name="pp_capability_approved_title">"Τα μέτρα προστασίας του απορρήτου μας δοκιμάστηκαν και πιστοποιήθηκαν από τους κορυφαίους ειδικούς του κλάδου."</string>
     <string name="pp_chain_start_is_prohibited">Περιορισμός αλυσιδωτής έναρξης</string>
     <string name="pp_chain_start_is_prohibited_detail">Ελέγξτε τις περιπτώσεις κατά τις οποίες οι εφαρμογές τρίτων μερών ξεκινούν η μία την άλλη και λαμβάνουν τα προσωπικά σας στοιχεία χωρίς να τα γνωρίζετε</string>
     <string name="pp_clipboard">Πρόχειρο</string>
