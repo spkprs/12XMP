@@ -1783,6 +1783,8 @@
     <string name="select_webview_provider_toast_text">Αυτή η επιλογή δεν είναι πλέον έγκυρη. Δοκίμασε ξανά.</string>
     <string name="send_button">Αποστολή</string>
     <string name="send_keepalive_title">Αποστολή KeepAlive</string>
+    <string name="sensor_answer_summary">Πλησιάστε το τηλέφωνο στο αυτί σας για να απαντήσετε αυτόματα σε μια εισερχόμενη κλήση</string>
+    <string name="sensor_answer_title">Σηκώστε για απάντηση</string>
     <string name="set_primary_summary">Χρησιμοποιείται για εξερχόμενες κλήσεις</string>
     <string name="set_primary_title">Ορισμός ως κύριος λογαριασμός</string>
     <string name="set_smsc_address_error">Αποτυχία ορισμού αριθμού</string>
