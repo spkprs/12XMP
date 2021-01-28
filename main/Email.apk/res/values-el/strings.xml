@@ -760,16 +760,11 @@
     <string name="me_object_pronun">εγώ</string>
     <string name="me_subject_pronun">εγώ</string>
     <string name="meeting_accepted">" Αποδεκτό: %s "</string>
-    <string name="meeting_allday">" Πότε: %s  (όλη μέρα) "</string>
-    <string name="meeting_allday_recurring">" Πότε: %s (Όλη την ημέρα, επαναλαμβανόμενα)"</string>
     <string name="meeting_canceled">" Ακυρώθηκε: %s "</string>
     <string name="meeting_declined">" Απορρίφθηκε: %s "</string>
-    <string name="meeting_recurring">" Πότε: %s (επαναλαμβανόμενα)"</string>
     <string name="meeting_responded_failed">Καμία ανταπόκριση</string>
     <string name="meeting_tentative">" Ενδεικτικό: %s "</string>
     <string name="meeting_updated">" Ανανεώθηκε: %s "</string>
-    <string name="meeting_when">" Πότε: %s "</string>
-    <string name="meeting_where">" Που: %s "</string>
     <string name="megabytes">%s mb</string>
     <string name="menu_att_mgr">Συνημμένα</string>
     <string name="menu_att_mgr_order_default">Πρόσφατες προβολές</string>
@@ -1420,6 +1415,7 @@
     <string name="webview_sslerror_handle_cancel">Ακύρωση</string>
     <string name="webview_sslerror_handle_continue">Συνέχεια</string>
     <string name="webview_sslerror_handle_hitmessage">Παρουσιάστηκε ένα σφάλμα πιστοποιητικού, θέλετε να συνεχίσετε ούτως ή άλλως;</string>
+    <string name="web_view_load_error_tip">Παρουσιάστηκαν ορισμένα προβλήματα, και το σώμα αυτού του μηνύματος email δεν μπορεί να εμφανιστεί σωστά. Εάν αντιμετωπίσετε αυτό το πρόβλημα, προσθέστε την ομάδα QQ 952315061 για να μας δώσετε τα σχόλιά σας.</string>
     <string name="widget_all_mail">όλα τα μηνύματα</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Άλλο</string>
@@ -1438,4 +1434,27 @@
     <string name="you_are_in_mobile_network">Αυτή την στιγμή χρησιμοποιείτε δίκτυο κινητής. Παρακαλώ δώστε προσοχή στην κίνηση δεδομένων!</string>
     <string name="youfuli">Προσφορά</string>
     <string name="zip_viewer_no_file">Χωρίς αρχεία!</string>
+    <string name="meeting_allday">"
+        Πότε:
+        %s  
+        (όλη μέρα) 
+        "</string>
+    <string name="meeting_allday_recurring">" 
+        Πότε:
+        %s 
+        (Όλη την ημέρα, επαναλαμβανόμενα)
+        "</string>
+    <string name="meeting_recurring">" 
+        Πότε: 
+        %s 
+        (επαναλαμβανόμενα)
+        "</string>
+    <string name="meeting_when">" 
+        Πότε: 
+        %s 
+        "</string>
+    <string name="meeting_where">" 
+        Που: 
+        %s 
+        "</string>
 </resources>

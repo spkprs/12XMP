@@ -142,8 +142,8 @@
     <item quantity="one">%d βίντεο</item>
   </plurals>
   <plurals name="collage_select_image_dynamic_range">
-    <item quantity="other">Τα κολάζ μπορούν να περιέχουν 1-%d φωτό</item>
-    <item quantity="one">Το κολάζ μπορεί να περιέχει 1-%d φωτό</item>
+    <item quantity="other">Τα κολάζ μπορούν να περιέχουν %1$d-%2$d φωτό</item>
+    <item quantity="one">Το κολάζ μπορεί να περιέχει %1$d-%2$d φωτό</item>
   </plurals>
   <plurals name="creation_max_image">
     <item quantity="other">Επιλέξτε έως %d εικόνες</item>
@@ -353,8 +353,8 @@
     <item quantity="one">Παράλειψη %d φωτογραφίας που δεν είναι στη συσκευή.</item>
   </plurals>
   <plurals name="quickly_discovery_message_format">
-    <item quantity="other">Βρέθηκαν %1$d νέες φωτογραφίες</item>
-    <item quantity="one">Βρέθηκε %1$d νέα φωτογραφία</item>
+    <item quantity="other">Βρέθηκαν %1$d νέες φωτο</item>
+    <item quantity="one">Βρέθηκε %1$d νέα φωτο</item>
   </plurals>
   <plurals name="remind_face_recommend_confirm_text">
     <item quantity="other">Σύνολο %d φωτογραφίες</item>

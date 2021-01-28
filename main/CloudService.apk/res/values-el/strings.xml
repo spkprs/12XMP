@@ -680,9 +680,9 @@
     <string name="storage_manage_full_summary">Ο χώρος αποθήκευσης στο cloud είναι πλήρης. Αναβαθμίστε το σχέδιό σας.</string>
     <string name="storage_manage_list_title">Δεδομένα Cloud</string>
     <string name="storage_manage_list_title_action">Περισσότερα</string>
-    <string name="storage_manage_normal_summary">Αλλαγή σχεδίου αποθήκευσης cloud</string>
+    <string name="storage_manage_normal_summary">Αναβάθμιση αποθήκ. cloud</string>
     <string name="storage_manage_renewal">Ανανέωση</string>
-    <string name="storage_manage_title">Αλλαγή σχεδίου αποθήκευσης στο cloud</string>
+    <string name="storage_manage_title">Αναβάθμιση αποθήκ. cloud</string>
     <string name="storage_manage_upgrade">Αναβάθμιση</string>
     <string name="storage_upgrade_card_summary">Αποκτήστε περισσότερο χώρο αποθήκευσης στο cloud</string>
     <string name="storage_upgrade_card_title">Αναβάθμιση</string>

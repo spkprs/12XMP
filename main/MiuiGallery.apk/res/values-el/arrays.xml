@@ -306,8 +306,11 @@
         <item>Έγχρωμη σκιά</item>
         <item>Ηλεκτρικό κύμα</item>
         <item>Τρέχον</item>
+        <item>Κύματα</item>
+        <item>Σωματίδια</item>
         <item>Κείμενο</item>
         <item>Φτερά</item>
+         <item>Άγγελος</item>
     </string-array>
     <string-array name="magic_idp_size_category">
         <item>Γενικά</item>
