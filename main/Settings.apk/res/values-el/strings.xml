@@ -7216,6 +7216,7 @@
     <string name="users_summary">Συνδέθηκε ως %1$s</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="var_font_switch_title">Μεταβλητή ευρεία γραμ/σειρά Συστήματος</string>
     <string name="verify_apps_over_usb_summary">Έλεγχος εγκατεστημένων εφαρμογών μέσω ADB / ADT για επιβλαβή συμπεριφορά.</string>
     <string name="verify_apps_over_usb_title">Επαλήθευση εφαρ μέσω USB</string>
     <string name="version_text">έκδοση %1$s</string>

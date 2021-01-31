@@ -522,10 +522,10 @@
     <string name="performance_mode">Λειτουργία Εκτέλεσης</string>
     <string name="performance_mode_desc">Προτεραιότητα Επιδόσεων</string>
     <string name="permission_content">Δεν μπορείτε να χρησιμοποιήσετε βίντεο έως ότου εκχωρήσετε Άδειες</string>
-    <string name="permission_content2">Το Mi Video χρειάζεται άδεια για κανονική εργασία. Μεταβείτε στις Ρυθμίσεις &gt; Εγκατεστημένες εφαρμογές &gt; Mi Video &gt; Δικαιώματα εφαρμογής και δώστε στο Mi Video τις απαιτούμενες Άδειες σχετικά με τα εξής:\n\n1. Αποθήκευση\n2. Τηλέφωνο</string>
+    <string name="permission_content2">Το Mi Video χρειάζεται άδεια για σωστή λειτουργία . Μεταβείτε στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές > Mi Video > Δικαιώματα εφαρμογής και δώστε στο Mi Video τις απαιτούμενες Άδειες σχετικά με τα εξής:\n\n1. Αποθήκευση\n2. Τηλέφωνο\n2. Λογαριαμός</string>
     <string name="permission_open_settings">Ρυθμίσεις</string>
-    <string name="permission_refuse">αρνηση</string>
-    <string name="permission_retry">ξαναδοκιμάσετε</string>
+    <string name="permission_refuse">Άρνηση</string>
+    <string name="permission_retry">Ξαναδοκιμάσετε</string>
     <string name="permission_title">Συμβουλές</string>
     <string name="personal_dialog_content">Δεν θα λαμβάνετε πλέον εξατομικευμένες προτάσεις περιεχομένου με βάση τις προτιμήσεις σας, εάν την απενεργοποιήσετε. Απενεργοποίηση;</string>
     <string name="personal_recommendation">Εξατομικευμένες προτάσεις</string>

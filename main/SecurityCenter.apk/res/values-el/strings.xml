@@ -191,6 +191,7 @@
     <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast και AVL. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
     <string name="antivirus_privacy_dialog_title">Πολιτική Απορρήτου</string>
     <string name="antivirus_sec_network_unavailable">Η Ασφαλεία δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο Internet. Να επιτρέπετε στην Ασφάλεια η σύνδεση στο Internet;</string>
+    <string name="antivirus_third_privacy_title">Πολιτικές απορρήτου τρίτων</string>
     <string name="antivirus_toast_already_update">Ενημερωμένο</string>
     <string name="antivirus_toast_network_unavailable">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="antivirus_toast_update_failed">Αδυναμία ενημέρωσης</string>
@@ -1481,6 +1482,7 @@
     <string name="gamebox_immersion_tips_title">Προσοχή</string>
     <string name="gamebox_immerson_open">Ενεργοποιείται η λειτ. Καθήλωσης  μην αλλάξετε δίκτυο…</string>
     <string name="gamebox_manual_record">Εγγραφή</string>
+    <string name="gamebox_macro">Συνδυασμοί</string>
     <string name="gamebox_milink">Μετάδοση</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Εγκαταστήστε QQ και δοκιμάστε ξανά.</string>
@@ -1556,6 +1558,8 @@
     <string name="gb_first_window_summary">Αυξήστε την ταχύτητα και απόδοση σε επίπεδο συστήματος</string>
     <string name="gb_first_window_title">Game Turbo</string>
     <string name="gb_game_end_toast">Επανεπισκεφτείτε τις βασικές στιγμές των παιχνιδιών σας</string>
+    <string name="gb_game_macro_bubble_tips">Δοκιμάστε συνδυασμούς</string>
+    <string name="gb_game_macro_toast_tips">Δοκιμάστε συνδυασμούς!\nΚαταγράψτε ακολουθίες και χρησιμοποιήστε τις ανά πάσα στιγμή!</string>
     <string name="gb_game_video_bottom_tips">Επανεξετάστε σημαντικές στιγμές από τις συνεδρίες παιχνιδιού σας στο Game Turbo. Τα βίντεο θα διαγραφούν αυτόματα μετά από 7 ημέρες.</string>
     <string name="gb_game_video_item_tag">Βασικές στιγμές</string>
     <string name="gb_game_video_page_delete_success">Διαγράφηκε με επιτυχία</string>
@@ -4250,7 +4254,7 @@
     <string name="card_uninstall_button_text">Διαχείριση</string>
     <string name="card_uninstall_summary">Απεγκατάσταση σπάνιας χρήσης εφαρμ. για την απελευθέρωση χώρου αποθήκευσης</string>
     <string name="card_uninstall_title_1">Απεγκατάσταση σπάνιας χρήσης εφαρμ.</string>
-    <string name="power_center_battery_health_poor_tip">Φαίνεται ότι η κατάσταση της μπαταρίας είναι χαμηλή. Ελέγξτε την σε ένα εξουσιοδοτημένο κέντρο</string>
+    <string name="power_center_battery_health_poor_tip">Φαίνεται ότι η κατάσταση της μπαταρίας είναι χαμηλή. Ελέγξτε την σε ένα εξουσιοδοτημένο κέντρο.</string>
     <string name="power_center_battery_health_summary">Πλήρης φόρτιση και αποφόρτιση της συσκευής σας %1$d-%2$d φορές για ακρίβεια στατιστικών κατάστασης της μπαταρίας</string>
     <string name="summary_app_update_new">Ενημέρωση εφαρμογών για πρόσβαση σε νέες λειτουργίες</string>
     <string name="ew_guide_statement_text_new">"Αυτή η αποποίηση ευθυνών ισχύει για όλους τους χρήστες (στο εξής \"εσείς\") που ενεργοποιούν τη δυνατότητα προειδοποίησης σεισμού. Συμφωνώντας με αυτή την αποποίηση ευθυνών, συνάπτετε μια νομικά δεσμευτική σύμβαση με την Xiaomi Inc. και τους συνεργάτες της (εφεξής καλούμενη \"Xiaomi\"). Αναγνωρίζετε ότι έχετε διαβάσει όλα τα περιεχόμενα αυτής της αποποίησης ευθυνών και κατανοείτε πλήρως και συμφωνείτε με όλους τους όρους και τις προϋποθέσεις αυτής της αποποίησης ευθυνών. διαφορετικά, θα πρέπει να απενεργοποιήσετε αμέσως τη λειτουργία προειδοποίησης σεισμού.
