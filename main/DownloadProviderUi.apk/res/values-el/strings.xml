@@ -39,8 +39,8 @@
      <string name="ad_title_other">Με αυτή την εικόνα άλλοι κατέβασαν επίσης</string>
      <string name="add_download_download">Λήψη</string>
      <string name="add_download_error_not_support">"Αυτή η σύνδεση δεν υποστηρίζεται"</string>
-     <string name="add_download_title">Εισάγετε URL</string>
      <string name="add_download_text_hint">Εισάγετε ένα HTTP/HTTPS link</string>
+     <string name="add_download_title">Εισάγετε URL</string>
      <string name="add_flow_fail_haveget_msg">Η δοκιμαστική περίοδος έληξε.</string>
      <string name="add_flow_fail_vip_msg">Η επιτάχυνση λήψεων της Xunlei είναι ενεργή</string>
      <string name="add_flow_success_msg">%s προστέθηκαν αυτό το μήνα</string>
@@ -71,12 +71,12 @@
      <string name="cancle">Ακύρωση</string>
      <string name="check_new_downloaded_action">Προβολή</string>
      <string name="check_new_downloaded_file">Βρέθηκε ένα νέο αρχείο</string>
-     <string name="columbus_player_close_desc">Θα χάσετε την ανταμοιβή σας</string>
      <string name="choose_open_picture">Επιλογές</string>
      <string name="choose_open_time">Επιλέξτε πότε θέλετε να αρχίσει</string>
      <string name="clear_data">Καθαρισμός</string>
      <string name="close">Κλείστε</string>
      <string name="close_ad">Κλείστε τις Διαφ/σεις</string>
+     <string name="columbus_player_close_desc">Θα χάσετε την ανταμοιβή σας</string>
      <string name="complete_time">Ολοκληρώθηκε:</string>
      <string name="confirm">OK</string>
      <string name="confirm_delete_downloads_message">%d λήψεις θα διαγραφούν.</string>
@@ -179,6 +179,7 @@
      <string name="downloads_operating">Σε λειτουργία…</string>
      <string name="dredge_xunlei_account">Δημιουργία λογαριασμού Xunlei</string>
      <string name="edit_hint">Εισάγετε http, torrent, ή διεύθυνση eMule</string>
+     <string name="edit_hint2">Εισαγάγετε μια σύνδεση HTTP, FTP, magnet ή ed2k</string>
      <string name="editmode_menu_delete">Διαγραφή</string>
      <string name="editmode_menu_share">Κοινή χρήση</string>
      <string name="engine_open">Άνοιγμα</string>
@@ -209,8 +210,8 @@
      <string name="gigabyteShort">GB</string>
      <string name="goto_global_search">Αναζήτηση στο διαδίκτυο για \"%1$s\"</string>
      <string name="guess_like">Μπορεί επίσης να σας αρέσει</string>
-     <string name="h5_net_error" formatted="false">"Couldn't load %s (%s)"</string>
-     <string name="h5_net_error_tip">"Couldn't open URL"</string>
+     <string name="h5_net_error" formatted="false">"Αδυναμία φόρτωσης %s (%s)"</string>
+     <string name="h5_net_error_tip">"Δεν ήταν δυνατό το άνοιγμα URL"</string>
      <string name="high_speed_channel">Επιτάχυνση Xunlei (επί πληρωμή)</string>
      <string name="high_speed_tryout">Η ταχύτητα λήψης είναι χαμηλή. Γίνετε μέλος στην Xunlei</string>
      <string name="high_speed_tryout_percent">Η ταχύτητα ενισχύθηκε κατά %1$s. Γίνετε μέλος στην Xunlei</string>
@@ -277,10 +278,11 @@
      <string name="network_error">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="new_add">Νέα Λήψη</string>
      <string name="new_add_bt">Προσθήκη torrent</string>
+     <string name="new_add_bt2">Προσθήκη εργασίας torrent</string>
      <string name="new_file_notification_title_image">Εικόνα</string>
      <string name="no_downloads">Χωρίς αρχεία</string>
      <string name="no_file_hint">Αυτό το αρχείο είναι ήδη σε αναμονή για λήψη</string>
-     <string name="no_net">"Couldn't connect to the network"</string>
+     <string name="no_net">"Αδυναμία σύνδεσης στο δίκτυο"</string>
      <string name="no_result_for_keyword">Αδυναμία εύρεσης του \"%1$s\"</string>
      <string name="no_share_file">Αδυναμία διαμοιρασμού αυτού του αρχείου</string>
      <string name="no_share_file_content">Το αρχείο που επιλέξατε έχει ήδη διαγραφεί</string>
@@ -326,7 +328,7 @@
      <string name="pref_summary_any_bytes_popup">Πάντα αναμονή για σύνδεση Wi‑Fi για λήψη αρχείων</string>
      <string name="pref_summary_enable_max_bytes_popup">Εμφάνιση αναδυόμενης ειδοποίησης όταν χρησιμοποιείτε σύνδεση δεδομένων κινητής για να κατεβάσετε περιεχόμενο</string>
      <string name="pref_summary_max_bytes_limit_format">Αναμονή για δίκτυο Wi‑Fi εάν το μέγεθος αρχείου ξεπερνάει τα %s</string>
-     <string name="pref_summary_no_limit_popup">Απεριόριστο</string>
+     <string name="pref_summary_no_limit_popup">Απεριόριστα</string>
      <string name="pref_title_enable_max_bytes_popup">Εμφάνιση προτροπής χρήσης δεδομένων</string>
      <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
      <string name="preferences_title">Ρυθμίσεις</string>
@@ -503,6 +505,7 @@
      <string name="subbt_wait">Σε αναμονή…</string>
      <string name="subfile_list">Αρχεία</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+     <string name="task_add">Προσθήκη εργασίας…</string>
      <string name="task_detail">Εργασίες</string>
      <string name="task_detail_notfound_confirm">OK</string>
      <string name="task_fail">Αδύνατη η ολοκλήρωση της λειτουργίας</string>

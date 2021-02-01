@@ -148,6 +148,7 @@
     <string name="save">Αποθήκευση</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="slider_view_content_description">Σάρωση επάνω για απενεργοποίηση ή σάρωση κάτω για επανεκκίνηση</string>
+    <string name="smart_home_title">Έξυπνες συσκευές</string>
     <string name="status_bar_setting_title">Κέντρο ελέγχου και γραμμή κατάστασης</string>
     <string name="timer_1_hour">%d ώρ.</string>
     <string name="timer_2_hours">%d ώρ.</string>

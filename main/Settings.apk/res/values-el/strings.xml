@@ -2952,6 +2952,7 @@
     <string name="haptic_switch_title">Σχόλια Αφής</string>
     <string name="haptic_text_edit_popup_13_content_description">Αναδυόμενο μενού</string>
     <string name="haptic_upper_right_menu_15_content_description">Αναπτυσσόμενο μενού</string>
+    <string name="haptic_video_content_description">Αναδυόμενο Σχόλιο σε βίντεο επίδειξης</string>
     <string name="haptic_volume_adjustment_14_content_description">Ρύθμιση έντασης</string>
     <string name="hardkeyboard_category">Ρυθμίσεις φυσικού πληκτρολογίου</string>
     <string name="hardware_info">Μοντέλο &amp; εξοπλισμός</string>
@@ -8040,6 +8041,7 @@
     <string name="wizard_back">Πίσω</string>
     <string name="wizard_finish">Τέλος</string>
     <string name="wizard_next">Επόμενο</string>
+    <string name="wlan_scanner_unresizeble">"Αδύνατη η εμφάνιση ρυθμίσεων WIFI σε λειτουργία Διαίρεσης οθόνης"</string>
     <string name="words_title">Κείμενο</string>
     <string name="work_alarm_ringtone_title">Προεπιλεγμένος ήχος ξυπνητηριού εργασίας</string>
     <string name="work_mode_label">Λειτουργία εργασίας</string>

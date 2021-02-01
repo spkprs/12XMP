@@ -610,6 +610,7 @@
     <string name="connected_via_network_scorer_default">Αυτόματη σύνδεση μέσω παροχέα αξιολόγησης δικτύου</string>
     <string name="connected_via_passpoint">Συνδεδεμένο μέσω %1$s</string>
     <string name="content_description_menu_button">Μενού</string>
+    <string name="control_center_notification_switch_guide">Σάρωση για εναλλαγή μεταξύ Κέντρου Ελέγχου και Πίνακα ειδοποιήσεων</string>
     <string name="controls_added_tooltip">Κρατήστε πατημένο το κουμπί λειτουργίας για να δείτε τα νέα στοιχεία ελέγχου</string>
     <string name="controls_confirmation_confirming">Επιβεβαίωση…</string>
     <string name="controls_confirmation_message">Επιβεβαίωση αλλαγής για %s</string>

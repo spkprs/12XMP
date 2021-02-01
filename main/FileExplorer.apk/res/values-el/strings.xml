@@ -84,6 +84,8 @@
     <string name="category_type_other">Άλλα</string>
     <string name="category_video">Βίντεο</string>
     <string name="category_zip">Συμπιεσμένα</string>
+    <string name="cdd_message">"Λόγω των περιορισμών του Android 11, δεν θα μπορείτε να προβάλετε μερικά από τα αρχεία που δημιουργήθηκαν μέσω εφαρμογών τρίτων κατασκευαστών στη Διαχείριση αρχείων."</string>
+    <string name="cdd_title">Προσοχή</string>
     <string name="clean_hint">Πατήστε για να ελευθερώσετε χώρο</string>
     <string name="click_to_switch_volume">Πατήστε για εναλλαγή μεταξύ volumes</string>
     <string name="click_to_switch_volume_pad">Πατήστε για εναλλαγή μεταξύ Εσωτερικού χώρου και Κάρτας SD</string>
@@ -271,6 +273,7 @@
     <string name="midrop_msg_2">Όταν το Mi Drop είναι ενεργό, μπορείτε να αναζητήσετε συσκευές σε κοντινή απόσταση και να στείλετε αρχεία</string>
     <string name="midrop_send_files">Επιλέξτε αρχεία για αποστολή</string>
     <string name="mirror_can_not_drag_mask">Σύρετε για χρήση Mi Share</string>
+    <string name="mirror_can_not_drag_mask_new">Σύρετε στοιχεία σε %s</string>
     <string name="mirror_new_name">Δημιουργία φακέλου (%s)</string>
     <string name="mirror_new_name_first">Δημιουργία φακέλου</string>
     <string name="mirror_no_recommended_app">Δεν υπάρχουν προτεινόμενες εφαρμογές</string>
@@ -282,6 +285,7 @@
     <string name="mirror_side_bar_tab_mine_name">Mi Share</string>
     <string name="mirror_side_bar_tab_phone_name">Χώρος αποθ. τηλεφώνου</string>
     <string name="mirror_side_bar_tab_recent_name">Πρόσφατα</string>
+    <string name="mirror_side_bar_tab_tranfer_name">Μεταφορές &amp; Λήψεις</string>
     <string name="mirror_side_bar_tab_type_name">Αρχεία</string>
     <string name="mirror_storage_internal_desc">Χώρος αποθ. τηλεφώνου</string>
     <string name="mirror_tip_add_file">Δημιουργία φακέλου</string>
@@ -513,8 +517,10 @@
     <string name="title_select_volume">Επιλέξτε φάκελο</string>
     <string name="toast_file_not_can_read">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
     <string name="tools">ΕΡΓΑΛΕΙΑ</string>
+    <string name="transfer">Μεταφορές &amp; Λήψεις</string>
     <string name="transfer_done">Επιτυχής μεταφορά αρχείων.</string>
     <string name="transfer_private_data">Μεταφορά κρυφών φακέλων από την κάρτα SD…</string>
+    <string name="transfer_summary">Λήψεις και στοιχεία που μεταφέρθηκαν μέσω Mi Share</string>
     <string name="type_not_support">Αυτή η μορφή αρχείου δεν υποστηρίζεται. Αποσυμπιέστε το αρχείο και δοκιμάστε ξανά.</string>
     <string name="ui_main_toast_favorite_added">Προστέθηκε στα αγαπημένα</string>
     <string name="ui_main_toast_favorite_removed">Κατάργηση αγαπημένου</string>
