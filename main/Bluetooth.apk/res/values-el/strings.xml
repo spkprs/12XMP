@@ -129,6 +129,7 @@
     <string name="remote_phonebook_feature_downgrade">Υποβάθμιση δυνατότητας απομακρυσμένου τηλεφωνικού καταλόγου</string>
     <string name="repair_for_adv_phonebook_feature">Επανασύνδεση για προηγμένη δυνατότητα τηλεφωνικού καταλόγου</string>
     <string name="repair_for_phonebook_access_version_comp">Επανασύνδεση για συμβατότητα εκδόσεων πρόσβασης τηλεφωνικού καταλόγου</string>
+    <string name="snapdragon_sound_notification_content">Η συσκευή αυτή υποστηρίζει την τεχνολογία Qualcomm® Snapdragon Sound™</string>
     <string name="start_server">Εκκίνηση διακομιστή TCP</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_canceled">Η μεταφορά ακυρώθηκε από το χρήστη.</string>

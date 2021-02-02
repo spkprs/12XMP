@@ -131,6 +131,7 @@
     <string name="ew_detail_receive_time_title">Χρόνος έναρξης</string>
     <string name="ew_detail_receive_warn_time_message">%ss</string>
     <string name="ew_detail_receive_warn_time_title">Χρόνος πριν την έναρξη</string>
+    <string name="ew_save_title">Αποθήκευση</string>
     <string name="ew_share_logo_title">Προειδοποίηση σεισμού</string>
     <string name="ew_share_save_tips">Αποθηκεύτηκε σε %s</string>
     <string name="ew_share_title">Κοινή χρήση</string>
