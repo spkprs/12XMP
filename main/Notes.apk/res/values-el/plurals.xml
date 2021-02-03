@@ -132,4 +132,8 @@
         <item quantity="other">Βρέθηκαν %1$s εργασίες</item>
         <item quantity="one">Βρέθηκε %1$s εργασία</item>
     </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s στοιχεία</item>
+        <item quantity="one">%1$s στοιχείο</item>
+    </plurals>
 </resources>

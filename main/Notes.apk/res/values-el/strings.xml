@@ -626,10 +626,10 @@
     <string name="todo_edit_btn_today">Σήμερα</string>
     <string name="todo_edit_btn_tomorrow">Αύριο</string>
     <string name="todo_edit_text_hint">Εισαγωγή περιγραφής εργασίας</string>
-    <string name="todo_event_description_a_week_ago">1 βδομάδα πριν</string>
-    <string name="todo_event_description_a_week_later">Σε 1 βδομάδα</string>
-    <string name="todo_event_description_day_after_tomorrow">Σε 2 dμέρες</string>
-    <string name="todo_event_description_day_before_yesterday">2 μέρες πρίν</string>
+    <string name="todo_event_description_a_week_ago">%1$d εβδομ. πριν</string>
+    <string name="todo_event_description_a_week_later">Σε %1$d εβδομ.</string>
+    <string name="todo_event_description_day_after_tomorrow">Σε %1$d ημέρ.</string>
+    <string name="todo_event_description_day_before_yesterday">%1$d ημέρ. πριν</string>
     <string name="todo_event_description_today">Σήμερα</string>
     <string name="todo_event_description_tomorrow">Αύριο</string>
     <string name="todo_event_description_yesterday">Χθές</string>
@@ -684,7 +684,7 @@
     <string name="toolbar_undo_description">Αναίρεση</string>
     <string name="toolbar_voice_description">Φωνή</string>
     <string name="trash_folder_name">Διαγραμμένες</string>
-    <string name="trash_folder_reminder">Σημειώσεις που διαγράφετε θα διαγραφούν οριστικά σε 30 ημέρες.</string>
+    <string name="trash_folder_reminder">Οι σημειώσεις που διαγράφετε θα διαγραφούν μόνιμα σε %1$d ημέρ.</string>
     <string name="trash_folder_reminder_new">Οι σημειώσεις διατηρούνται στον κάδο για %d ημ. πριν διαγραφούν οριστικά</string>
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>

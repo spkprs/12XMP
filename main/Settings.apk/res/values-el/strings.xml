@@ -3790,7 +3790,7 @@
     <string name="master_clear_final_desc">"Διαγραφή όλων των προσωπικών δεδομένων και των ληφθέντων εφαρμογών Αδύνατη η αναστροφή αυτής της ενέργειας "</string>
     <string name="master_clear_final_desc_esim">Όλες οι προσωπικές σας πληροφορίες, συμπεριλαμβανομένων των εφαρμογών και των SIM που έχετε κατεβάσει, θα διαγραφούν. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.</string>
     <string name="master_clear_not_available">Η επαναφορά εργοστασιακών ρυθμίσεων δεν είναι διαθέσιμη για αυτόν τον χρήστη</string>
-    <string name="master_clear_other_users_present">\n\nΥπάρχουν και άλλοι χρήστες σε αυτή τη συσκε\n</string>
+    <string name="master_clear_other_users_present">\n\nΥπάρχουν και άλλοι χρήστες σε αυτή τη συσκευή\n</string>
     <string name="master_clear_personal_data">Είστε σίγουροι ότι θέλετε να διαγράψετε τα προσωπικά σας δεδομένα. Αυτή η λειτουργία δεν μπορεί να αναιρεθεί</string>
     <string name="master_clear_personal_data_application">Είστε σίγουροι ότι θέλετε να διαγράψετε τα προσωπικά σας δεδομένα. Αυτή η λειτουργία δεν μπορεί να αναιρεθεί</string>
     <string name="master_clear_personal_data_sdcard">Είστε σίγουροι ότι θέλετε να διαγράψετε τα δεδομένα προσωπικού χαρακτήρα και τη μορφή SD κάρτα σας. Αυτή η λειτουργία δεν μπορεί να αναιρεθεί</string>
