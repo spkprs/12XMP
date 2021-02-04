@@ -22,6 +22,12 @@
     <string name="accessibility_battery_level_charging">Φόρτιση μπαταρίας, ποσοστό %d.</string>
     <string name="add_custom_image">Προσαρμογή εικόνας</string>
     <string name="add_from_album">Προσθήκη από την Συλλογή</string>
+    <string name="align_center_horizontally">Οριζόντια και στο κέντρο στοίχιση</string>
+    <string name="align_center_vertically">Σε στοίβα και στοίχιση στο κέντρο</string>
+    <string name="align_left_horizontally">Οριζόντια και αριστερή στοίχιση</string>
+    <string name="align_left_vertically">Σε στοίβα και στοίχιση αριστερά</string>
+    <string name="align_right_horizontally">Οριζόντια και δεξιά στοίχιση</string>
+    <string name="align_right_vertically">Σε στοίβα και στοίχιση δεξιά</string>
     <string name="align_type">Στοίχιση</string>
     <string name="always_style">Πάντα</string>
     <string name="always_style_symmary">Καταναλώνει περισσότερη ενέργεια</string>

@@ -288,8 +288,8 @@
     <string name="micloud_find_device_guide_alert_positive">OK</string>
     <string name="micloud_find_device_guide_alert_title">Θυμηθείτε τον κωδικό σας</string>
     <string name="micloud_find_device_guide_button">Ενεργοποίηση της Εύρεση συσκευής</string>
-    <string name="micloud_find_device_guide_desc_pad">Αν η συσκευή σας χαθεί, συνδεθείτε στο &lt;font color=#0097FF>%s&lt;/font> σε οποιαδήποτε άλλη συσκευή για να εντοπίσετε, να κλειδώσετε απομακρυσμένα ή να διαγράψετε δεδομένα σε χαμένη συσκευή. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Προβολή λεπτομερειών&lt;/a>.</string>
-    <string name="micloud_find_device_guide_desc_phone">Αν η συσκευή σας χαθεί, συνδεθείτε στο &lt;font color=#0097FF>%s&lt;/font> σε οποιαδήποτε άλλη συσκευή για να εντοπίσετε, να κλειδώσετε απομακρυσμένα ή να διαγράψετε δεδομένα σε χαμένη συσκευή. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Προβολή λεπτομερειών&lt;/a>.</string>
+    <string name="micloud_find_device_guide_desc_pad">Αν η συσκευή σας χαθεί, συνδεθείτε στο &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> σε οποιαδήποτε άλλη συσκευή για να εντοπίσετε, να κλειδώσετε απομακρυσμένα ή να διαγράψετε δεδομένα σε χαμένη συσκευή. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Λεπτομέρειες&lt;/a>.</string>
+    <string name="micloud_find_device_guide_desc_phone">Αν η συσκευή σας χαθεί, συνδεθείτε στο &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> σε οποιαδήποτε άλλη συσκευή για να εντοπίσετε, να κλειδώσετε απομακρυσμένα ή να διαγράψετε δεδομένα σε χαμένη συσκευή. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Λεπτομέρειες&lt;/a>.</string>
     <string name="micloud_find_device_guide_fail_reopen">Ενεργοποίηση του Εύρεση συσκευής στο Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Ελέγξτε τη σύνδεση δικτύου σας και δοκιμάστε ξανά.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Συγχρονίστε επαφές, φωτογραφίες, σημειώσεις και άλλα πολλά με το Xiaomi Cloud</string>
