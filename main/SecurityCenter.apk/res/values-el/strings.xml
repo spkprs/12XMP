@@ -2157,7 +2157,7 @@
     <string name="notification_abnormal_consume_cpu">CPU κατάχρηση πόρων στο παρασκήνιο</string>
     <string name="notification_abnormal_consume_wakelock">Το σύστημα παραμένει ενεργό στο παρασκήνιο</string>
     <string name="notification_antivirus_button_text">Σάρωση</string>
-    <string name="notification_antivirus_message">Άμεση σάρωση για την εξουδετέρωση των κινδύνων</string>
+    <string name="notification_antivirus_message">Σάρωση επικίνδ. στοιχ.</string>
     <string name="notification_battery_consume_abnormal_title">Η μπαταρία αδειάζει πολύ γρήγορα</string>
     <string name="notification_battery_scan_consume_abnormal_summary">Πατήστε για να διορθώσετε το πρόβλημα</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s αδειάζει μπαταρία</string>

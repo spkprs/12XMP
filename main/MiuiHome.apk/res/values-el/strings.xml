@@ -569,7 +569,7 @@
     <string name="small_window_edit_title">Τρέχουσες εφαρμογές</string>
     <string name="small_window_empty">Επιλέξτε από τις διαθέσιμες εφαρμογές</string>
     <string name="small_window_select_title">Διαθέσιμες εφαρμογές</string>
-    <string name="small_window_title_text">Ανοίξτε σε ένα αιωρούμενο παράθυρο</string>
+    <string name="small_window_title_text">Άνοιγμα σε ένα αιωρούμενο παράθυρο</string>
     <string name="small_window_toast">Προσθέστε έως %d εφαρμογές</string>
     <string name="sort_by_abc">Ταξινόμ. ανά όνομα</string>
     <string name="sort_by_frequency">Ταξινόμ. ανά χρήση</string>

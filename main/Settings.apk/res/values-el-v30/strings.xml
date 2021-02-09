@@ -300,7 +300,7 @@
     <string name="interact_across_profiles_summary_not_allowed">Δεν συνδέθηκε</string>
     <string name="interact_across_profiles_switch_disabled">Σύνδεση αυτών των εφαρμογών</string>
     <string name="interact_across_profiles_switch_enabled">Συνδέθηκε</string>
-    <string name="interact_across_profiles_title">Συνδεδεμένες προσωπ. εφαρμογές και εφαρμ. εργασίας</string>
+    <string name="interact_across_profiles_title">Συνδεδεμένες εφαρμογές Προσωπ. &amp; Εργασίας</string>
     <string name="keyboard_shortcuts_helper">Συντομεύσεις πληκτρολογίου</string>
     <string name="keywords_accounts">Λογαριασμός, προσθέστε έναν λογαριασμό, προφίλ εργασίας, προσθήκη λογαριασμού</string>
     <string name="keywords_adb_wireless">adb, εντοπισμός σφαλμάτων, προγραμματιστής</string>

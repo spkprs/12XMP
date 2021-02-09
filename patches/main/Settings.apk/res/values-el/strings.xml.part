@@ -268,5 +268,11 @@
   <string name="miuipro_anim_title">Ενεργοποίηση συντόμευσης κίνησης</string>
   <string name="miuipro_anim_summary">Ενεργοποίηση συντόμευσης κίνησης μετά το ξεκλείδωμα</string>
   <string name="expand_notification_title">Ανάπτυξη πρώτης ειδοποίησης</string>
+  <string name="show_type_name_mobile_title">Τύπος δικτύου (Δεδομένα)</string>
+  <string name="show_type_name_mobile_summary">Εμφάνιση τύπου δικτύου με ανενεργά δεδομένα</string>
+  <string name="show_type_name_wifi_title">Τύπος δικτύου (Wi-Fi)</string>
+  <string name="show_type_name_wifi_summary">Εμφάνιση τύπου δικτύου με ενεργό Wi-Fi</string>
+  <string name="show_blur_folder_title">Θόλωση παρασκηνίου Φακέλων</string>
+  <string name="show_blur_recent_title">Θόλωση παρασκηνίου Προσφάτων</string>
 </resources>
 

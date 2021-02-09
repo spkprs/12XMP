@@ -750,8 +750,8 @@
         <item quantity="other">%d επιλεγμένα στοιχεία</item>
     </plurals>
     <plurals name="notification_antivirus_title">
-        <item quantity="one">%d ημ. χωρίς σαρώσεις ασφαλείας</item>
-        <item quantity="other">%d ημ. χωρίς σαρώσεις ασφαλείας</item>
+        <item quantity="one">%d ημ. χωρίς σάρωση</item>
+        <item quantity="other">%d ημ. χωρίς σάρωση</item>
     </plurals>
     <plurals name="notification_link_cleaner_2006">
         <item quantity="one">Διαγραφή %d υπολειμμάτος APK</item>
