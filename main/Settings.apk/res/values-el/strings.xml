@@ -8121,7 +8121,7 @@
     <string name="zen_access_revoke_warning_dialog_summary">Όλοι οι κανόνες \"Μην Ενοχλείτε\" δημιουργίας από αυτήν την εφαρμογή θα καταργηθούν.</string>
     <string name="zen_access_revoke_warning_dialog_title">Να γίνει ανάκληση της πρόσβασης στη λειτουργία \"Μην ενοχλείτε\" για την εφαρμογή %1$s;</string>
     <string name="zen_access_warning_dialog_summary">Η εφαρμογή θα μπορεί να ενεργοποιεί/απενεργοποιεί το Μην Ενοχλείτε και να πραγματοποιήσει αλλαγές στις σχετικές ρυθμίσεις.</string>
-    <string name="zen_access_warning_dialog_title">Αποδοχή πρόσβασης %1$s στο Μην Ενοχλείτε?</string>
+    <string name="zen_access_warning_dialog_title">Πρόσβαση %1$s στο DND?</string>
     <string name="zen_alarm_warning">Δεν θα ακούσετε τον επόμενο συναγερμό σας %1$s</string>
     <string name="zen_alarm_warning_indef">Δεν θα ακούσετε τον επόμενο συναγερμό σας %1$s εκτός αν το απενεργοποιήσετε πριν από αυτό</string>
     <string name="zen_calls_summary_contacts_repeat">Από επαφές και επαναλαμβανόμενους καλούντες</string>

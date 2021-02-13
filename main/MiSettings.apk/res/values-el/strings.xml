@@ -510,6 +510,7 @@
     <string name="unlock_times_per_hour">"Ξεκλειδώματα ανά ώρα: "</string>
     <string name="usage_agree">Αποδοχή</string>
     <string name="usage_app_get_it">Τέλος</string>
+    <string name="usage_app_holiday_limit">Αργίες</string>
     <string name="usage_app_limit_alter_summary">Φαίνεται ότι αυτό το χρονικό όριο είναι μικρότερο από το χρόνο που χρησιμοποιείτε αυτήν την εφαρμογή σήμερα. Ορισμός ορίου οπωσδήποτε?</string>
     <string name="usage_app_limit_alter_title">Ελέγξτε το χρονικό όριο της οθόνης</string>
     <string name="usage_app_limit_prelong">Επέκταση χρόνου</string>
@@ -611,7 +612,7 @@
     <string name="usage_permisison_agree_desc_p">Για να σας παρέχει στατιστικά στοιχεία για τον χρόνο οθόνης και τη λειτουργία εστίασης, αυτή η εφαρμογή πρέπει να συλλέξει τα ακόλουθα δεδομένα: πόσες φορές ξεκλειδώνετε τη συσκευή, τη λίστα των εφαρμογών σας μαζί με την αντίστοιχη διάρκεια χρήσης, πόσες φορές ανάβει η οθόνη σας , και ρυθμίσεις λειτουργίας εστίασης.</string>
     <string name="usage_permission_double_link" formatted="false"><Data>"Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο και να συλλέξει τα απαιτούμενα προσωπικά δεδομένα για να είναι σε θέση να λειτουργήσει κανονικά. Για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστη, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνήστε με την &lt;a href='%1s'>Συμφωνία χρήστη&lt;/a> και &lt;a href='%2s'>Πολιτική απορρήτου&lt;/a>."</Data></string>
     <string name="usage_permission_main_desc">Καλώς ήρθατε στον Χρόνο οθόνης!\nΑυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τις ακόλουθες Άδειες για να είναι σε θέση να λειτουργήσει κανονικά:</string>
-    <string name="usage_permission_title">Attention</string>
+    <string name="usage_permission_title">Προσοχή</string>
     <string name="usage_reach_device_limit">Ο χρόνος τελείωσε! Φτάσατε στο όριό σας.</string>
     <string name="usage_reach_device_limit_warning_text">Έχετε συμπληρώσει το χρονικό όριο οθόνης για σήμερα</string>
     <string name="usage_refresh">Δοκιμάστε ξανά</string>

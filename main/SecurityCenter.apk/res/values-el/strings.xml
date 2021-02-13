@@ -3817,7 +3817,7 @@
     <string name="title_app_lock_disable">Κλείδωμα εφαρμογών</string>
     <string name="title_app_update">Διαθέσιμες ενημερώσεις</string>
     <string name="title_auto_update">Αυτόματη ενημέρωση</string>
-    <string name="title_background_connection">Αδύνατη η χρήση του %s στο παρασκήνιο?</string>
+    <string name="title_background_connection">Χρήση %s στο παρασκήνιο?</string>
     <string name="title_block_calls_from_cantacts">Χαμένες κλήσεις απο επαφές?</string>
     <string name="title_block_calls_from_strangers">Χαμένες σημαντικές κλήσεις?</string>
     <string name="title_chain_start">Περιορίστε την αλυσιδωτή έναρξη</string>

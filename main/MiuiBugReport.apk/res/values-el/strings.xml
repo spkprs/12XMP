@@ -188,7 +188,7 @@
     <string name="feedback_delete_images">Διαγράψτε τις εικόνες</string>
     <string name="feedback_description">Περιγραφή</string>
     <string name="feedback_description_bugreport_hint">Σε ορισμένες περιπτώσεις (…) το τηλέφωνο δεν συμπεριφέρεται σωστά (…).</string>
-    <string name="feedback_description_hint">Περιγράψτε το πρόβλημα που αντιμετωπίσατε εδώ.\n%1$d. Σε ποια εφαρμογή ή σε ποια σελίδα αντιμετωπίσατε το πρόβλημα;\n%2$d. Μετά από ποιες ενέργειες εκτελέσατε εμφανίστηκε το ζήτημα;\n%3$d. Δώστε μας τις πρόσθετες πληροφορίες που ενδέχεται να μας βοηθήσουν να επιδιορθώσουμε το πρόβλημα.</string>
+    <string name="feedback_description_hint">Περιγράψτε το πρόβλημα που αντιμετωπίσατε εδώ.\n%1$d. Σε ποια εφαρμογή ή σε ποια σελίδα αντιμετωπίσατε το πρόβλημα;\n%2$d. Μετά από ποιες ενέργειες εκτελέσατε εμφανίστηκε το ζήτημα;\n%3$d. Δώστε μας πρόσθετες πληρ. που θα βοηθήσουν να το επιδιορθώσουμε.</string>
     <string name="feedback_description_hint_suggestion">Πείτε μας πώς θέλετε να βελτιώσουμε το MIUI.</string>
     <string name="feedback_description_label">Περιγραφή</string>
     <string name="feedback_description_suggest_hint">Θα ήθελα να προσθέσετε μια νέα λειτουργία () επειδή χρειάζομαι ().</string>
