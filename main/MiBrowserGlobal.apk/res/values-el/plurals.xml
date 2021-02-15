@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">1 hour ago</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">1 hour ago</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Half an hour ago</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">In 1 hour</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">In half an hour</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Immediately</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">in %d mins</item>
+    <item quantity="one">in 1 min</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Just now</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d mins ago</item>
+    <item quantity="one">1 min ago</item>
+  </plurals>
+  <plurals name="adblock_notification">
+    <item quantity="other">Αποκλεισμένα %d ads</item>
+    <item quantity="one">Αποκλεισμένα %d ad</item>
+  </plurals>
+  <plurals name="adblock_rules_number_text">
+    <item quantity="other">%d Αποκλεισμένα στοιχ.</item>
+    <item quantity="one">%d Αποκλεισμένα στοιχ.</item>
+  </plurals>
+  <plurals name="adblock_total_counts">
+    <item quantity="other">Αποκλεισμός %d διαφημ. μέχρι στιγμής</item>
+    <item quantity="one">Αποκλεισμός %d διαφημ. μέχρι στιγμής</item>
+  </plurals>
+  <plurals name="articles_updated_amount">
+    <item quantity="other">Δείτε %1$d νέα άρθρα</item>
+    <item quantity="one">Δείτε %1$d νέα άρθρα</item>
+    <item quantity="few">Δείτε %1$d νέα άρθρα</item>
+  </plurals>
+  <plurals name="auto_play_next_tips">
+    <item quantity="other">Playing next video in %d seconds</item>
+    <item quantity="one">Playing next video in %d second</item>
+  </plurals>
+  <plurals name="days_ago">
+    <item quantity="other">%1$d ημ. πριν</item>
+    <item quantity="one">%1$d ημ. πριν</item>
+  </plurals>
+  <plurals name="download_business_v5_edit_mode_title">
+    <item quantity="other">%1$d selected</item>
+    <item quantity="one">%1$d selected</item>
+  </plurals>
+  <plurals name="download_dialog_confirm_delete_downloads_message">
+    <item quantity="other">Delete %d tasks?</item>
+    <item quantity="one">Delete %d task?</item>
+  </plurals>
+  <plurals name="file_count">
+    <item quantity="other">%1$d items</item>
+    <item quantity="one">%1$d item</item>
+  </plurals>
+  <plurals name="find_on_page_matches">
+    <item quantity="other">%d matches</item>
+    <item quantity="one">%d match</item>
+  </plurals>
+  <plurals name="found_new_files">
+    <item quantity="other">Found %1$d new files</item>
+    <item quantity="one">Found %1$d new file</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Half an hour ago</item>
+  </plurals>
+  <plurals name="hashtag_followers">
+    <item quantity="other">%d ακόλουθοι</item>
+    <item quantity="one">%d ακόλουθος</item>
+  </plurals>
+  <plurals name="hours_ago">
+    <item quantity="other">%1$d ώρ. πριν</item>
+    <item quantity="one">%1$d ώρ. πριν</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">Σε 1 ώρα</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">In half an hour</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Immediately</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">in %d λεπ</item>
+    <item quantity="one">in 1 λεπ</item>
+  </plurals>
+  <plurals name="le_notification_download_completed">
+    <item quantity="other">Η λήψη %d στοιχ. ολοκληρώθηκε με επιτυχία</item>
+    <item quantity="one">Η λήψη %d στοιχ. ολοκληρώθηκε με επιτυχία</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">τώρα</item>
+  </plurals>
+  <plurals name="mins_ago">
+    <item quantity="other">%1$d λεπ. πριν</item>
+    <item quantity="one">%1$d λεπ. πριν</item>
+  </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="other">%d επιλεγμένα</item>
+    <item quantity="one">%d επιλεγμένο</item>
+  </plurals>
+  <plurals name="mw_last_num_days">
+    <item quantity="other">Τελευταίες %d ημέρες</item>
+    <item quantity="one">Τελευταία %d ημέρα</item>
+  </plurals>
+  <plurals name="mw_matches_found">
+    <item quantity="other">%1$d από %2$d</item>
+    <item quantity="one">%d αντιστοιχία</item>
+  </plurals>
+  <plurals name="nav_screen_incognito_time">
+    <item quantity="other">Αυτόματη δημιουργία νέας σελίδας μετά από %d δευτερόλεπτα</item>
+    <item quantity="one">Αυτόματη δημιουργία νέας σελίδας μετά από %d δευτερόλεπτο</item>
+  </plurals>
+  <plurals name="nf_item_like">
+    <item quantity="other">%s likes</item>
+    <item quantity="one">%s like</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d λεπ. πριν</item>
+    <item quantity="one">1 λεπ. πριν</item>
+  </plurals>
+  <plurals name="numSelectedFile">
+    <item quantity="other">Επιλεγμένα %1$d στοιχεία</item>
+    <item quantity="one">Επιλεγμένα %1$d στοιχείο</item>
+  </plurals>
+  <plurals name="players">
+    <item quantity="other">%d players</item>
+    <item quantity="one">%d player</item>
+  </plurals>
+  <plurals name="pref_adblock_counts">
+    <item quantity="other">Blocked %d ads</item>
+    <item quantity="one">Blocked %d ad</item>
+  </plurals>
+  <plurals name="search_trending_views">
+    <item quantity="other">%s αναζήτηση αιτήσεων</item>
+    <item quantity="one">%s αναζήτηση αιτήσεων</item>
+  </plurals>
+  <plurals name="sku_price">
+    <item quantity="other">%2$s every %1$s months</item>
+    <item quantity="one">%2$s every %1$s month</item>
+  </plurals>
+  <plurals name="suggest_access_item_album_songs">
+    <item quantity="other">%d songs</item>
+    <item quantity="one">%d song</item>
+  </plurals>
+  <plurals name="suggest_access_item_singer_albums">
+    <item quantity="other">%d albums</item>
+    <item quantity="one">%d album</item>
+  </plurals>
+  <plurals name="suggest_access_item_singer_pop">
+    <item quantity="other">%d popular songs</item>
+    <item quantity="one">%d popular song</item>
+  </plurals>
+  <plurals name="transfer_prompt">
+    <item quantity="other">Αναπαραγωγή βίντεο σε %1$d δευτερόλεπτα</item>
+    <item quantity="one">Αναπαραγωγή βίντεο σε %1$d δευτερόλεπτο</item>
+  </plurals>
+  <plurals name="v5_edit_mode_title">
+    <item quantity="other">%1$d επιλέχθηκαν</item>
+    <item quantity="one">%1$d επιλέχθηκε</item>
+  </plurals>
+  <plurals name="video_collection_reminder_view">
+    <item quantity="other">Δεν έχεις παρακολουθήσει. %d από τα αγαπημένα σας βίντεο για μεγάλο χρονικό διάστημα.</item>
+    <item quantity="one">Δεν έχεις παρακολουθήσει. %d αγαπημένο βίντεο εδώ και πολύ καιρό.</item>
+  </plurals>
+  <plurals name="video_download_clear_info">
+    <item quantity="other">%1$d βίντεο αφαιρέθηκαν επιτυχώς.</item>
+    <item quantity="one">%1$d βίντεο αφαιρέθηκε επιτυχώς.</item>
+  </plurals>
+  <plurals name="video_download_clear_prompt">
+    <item quantity="other">Εκκαθάριση %1$d βίντεων;</item>
+    <item quantity="one">Εκκαθάριση %1$d βίντεου;</item>
+  </plurals>
+  <plurals name="video_history_clear_info">
+    <item quantity="other">%1$d αντικείμενα αφαιρέθηκαν από ιστορικό.</item>
+    <item quantity="one">%1$d αντικείμενο αφαιρέθηκε από ιστορικό.</item>
+  </plurals>
+  <plurals name="video_history_clear_prompt">
+    <item quantity="other">Διαγραφή %1$d αντικειμένων από ιστορικό;</item>
+    <item quantity="one">Διαγραφή %1$d αντικειμένου από ιστορικό;</item>
+  </plurals>
+  <plurals name="video_push_multi_message">
+    <item quantity="other">%1$d διαθέσιμες ενημερώσεις.</item>
+    <item quantity="one">%1$d διαθέσιμη ενημέρωση.</item>
+  </plurals>
+  <plurals name="video_subtitle_last_message">
+    <item quantity="other">%d λεπτά απομένουν</item>
+    <item quantity="one">%d λεπτό απομένει</item>
+  </plurals>
+  <plurals name="videos_updated_amount">
+    <item quantity="other">Δες %1$d νέα βίντεο</item>
+    <item quantity="one">Δες %1$d νέο βίντεο</item>
+  </plurals>
+  <plurals name="view_count">
+    <item quantity="other">%1$d views</item>
+    <item quantity="one">%1$d view</item>
+  </plurals>
+  <plurals name="views">
+    <item quantity="other">%dk προβολές</item>
+    <item quantity="one">%dk προβολή</item>
+  </plurals>
+  <plurals name="vote_all_people">
+    <item quantity="other">%d people have voted</item>
+    <item quantity="one">%d person has voted</item>
+    <item quantity="few">%d people have voted</item>
+  </plurals>
+</resources>

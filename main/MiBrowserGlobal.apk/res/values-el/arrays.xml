@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="account_user_gender_name">
+    <item>Άνδρας</item>
+    <item>Γυναίκα</item>
+  </string-array>
+  <string-array name="alphabet_table">
+    <item>\#</item>
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>H</item>
+    <item>I</item>
+    <item>J</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+  </string-array>
+  <string-array name="alphabet_table_with_starred">
+    <item>!</item>
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>H</item>
+    <item>I</item>
+    <item>J</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+    <item>\#</item>
+  </string-array>
+  <string-array name="language_name_list">
+    <item>Azərbaycan</item>
+    <item>Melayu</item>
+    <item>Bosanski</item>
+    <item>Català</item>
+    <item>Čeština</item>
+    <item>Dansk</item>
+    <item>Deutsch</item>
+    <item>Eesti</item>
+    <item>English</item>
+    <item>Español</item>
+    <item>Euskara</item>
+    <item>Français</item>
+    <item>Galego</item>
+    <item>Hausa</item>
+    <item>Hrvatski</item>
+    <item>Indonesia</item>
+    <item>Italiano</item>
+    <item>Latviešu</item>
+    <item>Lietuvių</item>
+    <item>Magyar</item>
+    <item>Malti</item>
+    <item>Nederlands</item>
+    <item>Norsk bokmål</item>
+    <item>O\'zbek</item>
+    <item>Polski</item>
+    <item>Português</item>
+    <item>Română</item>
+    <item>Shqip</item>
+    <item>Slovenčina</item>
+    <item>Slovenščina</item>
+    <item>Suomi</item>
+    <item>Svenska</item>
+    <item>Tiếng Việt</item>
+    <item>Türkçe</item>
+    <item>Eλληνικά</item>
+    <item>Беларуская</item>
+    <item>български</item>
+    <item>Қазақ тілі</item>
+    <item>Македонски</item>
+    <item>Русский</item>
+    <item>Српски</item>
+    <item>Українська</item>
+    <item>ქართული</item>
+    <item>հայերեն</item>
+    <item>עברית</item>
+    <item>اردو</item>
+    <item>العربية</item>
+    <item>فارسی</item>
+    <item>नेपाली</item>
+    <item>मराठी</item>
+    <item>हिंदी</item>
+    <item>অসমীয়া</item>
+    <item>বাংলা</item>
+    <item>ਪੰਜਾਬੀ</item>
+    <item>ગુજરાતી</item>
+    <item>தமிழ்</item>
+    <item>తెలుగు</item>
+    <item>ಕನ್ನಡ</item>
+    <item>മലയാളം</item>
+    <item>ไทย</item>
+    <item>မြန်မာ</item>
+    <item>ខ្មែរ</item>
+    <item>한국어</item>
+    <item>日本語</item>
+    <item>简体中文</item>
+    <item>繁體中文</item>
+  </string-array>
+  <string-array name="menu_theme_setting">
+    <item>Άσπρο</item>
+    <item>Κίτρινο</item>
+    <item>Γκρί</item>
+    <item>Καφέ</item>
+    <item>Πράσινο</item>
+    <item>Μπλέ</item>
+  </string-array>
+  <string-array name="pref_fling_on_border_gesture_entries">
+    <item>Πίσω/Εμπρός</item>
+    <item>Εναλλαγή καρτελών</item>
+    <item>Χωρίς</item>
+  </string-array>
+  <string-array name="pref_fling_on_border_gesture_values">
+    <item>back_forward</item>
+    <item>switch_tabs</item>
+    <item>none</item>
+  </string-array>
+  <string-array name="pref_homepage_choices">
+    <item>Προεπιλογή</item>
+    <item>Προσαρμογή</item>
+  </string-array>
+  <string-array name="pref_nav_mode_summary">
+    <item>Τηλέφωνο</item>
+    <item>Pad</item>
+  </string-array>
+  <string-array name="pref_navscreen_layoutstate_values">
+    <item>0</item>
+    <item>1</item>
+  </string-array>
+  <string-array name="pref_security_do_not_track_keys">
+    <item>On</item>
+    <item>Μόνο σε λειτουργία Ανώνυμη</item>
+    <item>Off</item>
+  </string-array>
+  <string-array name="pref_text_zoom_choices">
+    <item>Πολύ μικρό</item>
+    <item>Μικρό</item>
+    <item>Κανονικό</item>
+    <item>Μεγάλο</item>
+    <item>Τεράστιο</item>
+  </string-array>
+  <string-array name="pref_ua_choices">
+    <item>Android</item>
+    <item>PC</item>
+    <item>iPhone</item>
+    <item>iPad</item>
+  </string-array>
+  <string-array name="protection_name">
+    <item>Αυτόματα</item>
+    <item>Χωρίς</item>
+    <item>Νέος χρήστης</item>
+  </string-array>
+  <string-array name="protection_value">
+    <item>-1</item>
+    <item>0</item>
+    <item>1</item>
+  </string-array>
+  <string-array name="search_bar_search_engines_only_google">
+    <item>google</item>
+  </string-array>
+  <string-array name="shortcut_dialog_delete">
+    <item>Διαγραφή</item>
+    <item>Όχι ευχαριστώ</item>
+  </string-array>
+  <string-array name="shortcut_dialog_keep">
+    <item>OK</item>
+    <item>Ακολουθήστε</item>
+  </string-array>
+  <string-array name="shortcut_dialog_title">
+    <item>Μύνημα απο Browser</item>
+    <item>Ακολούθησε Olympics με Mi</item>
+  </string-array>
+  <string-array name="speed_result_tips">
+    <item>Η τρέχουσα σύνδεση δικτύου είναι πολύ αργή. Φαίνεται ότι είστε σε μια περιοχή με κακή κάλυψη δικτύου.</item>
+    <item>Η τρέχουσα σύνδεση δικτύου είναι αργή.</item>
+    <item>Δεν βρέθηκαν προβλήματα με τη σύνδεση δικτύου.</item>
+    <item>Η τρέχουσα σύνδεση δικτύου είναι γρήγορη. Είναι αρκετό για ταινίες ροής!</item>
+    <item>Η τρέχουσα σύνδεση δικτύου είναι πολύ γρήγορη! Είστε στην κορυφή του παιχνιδιού σας.</item>
+  </string-array>
+  <string-array name="user_guide_info_array">
+    <item>Λήψη βίντεο και φωτογραφιών από τα μέσα κοινωνικής δικτύωσης</item>
+    <item>Αποθήκευση εικόνων και βίντεο από καταστάσεις του WhatsApp</item>
+    <item>Διαχειριστείτε αρχεία στη συσκευή σας και κάντε τα ιδιωτικά</item>
+  </string-array>
+  <string-array name="user_guide_title_array">
+    <item>Λήψη βίντεο</item>
+    <item>Κατάστ. WhatsApp</item>
+    <item>Ιδιωτικά αρχεία</item>
+  </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Καθετη προβολή</item>
+        <item>Οριζόντια προβολή</item>
+    </string-array>
+</resources>
