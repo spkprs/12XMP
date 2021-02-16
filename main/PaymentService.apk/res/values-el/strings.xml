@@ -259,7 +259,7 @@
   <string name="mibi_license_title">Οροι και Προϋποθέσεις</string>
   <string name="mibi_list_item_bottom_hint">Φτάσατε στο κάτω μέρος αυτής της λίστας</string>
   <string name="mibi_login">Σύνδεση</string>
-  <string name="mibi_memu_refresh">Φρεσκάρω</string>
+  <string name="mibi_memu_refresh">Ανανέωση</string>
   <string name="mibi_menu_feedback">Ανατροφοδότηση</string>
   <string name="mibi_menu_lock">Προσθήκη κλειδώματος εφαρμογής</string>
   <string name="mibi_menu_qa">Συχνές ερωτήσεις</string>

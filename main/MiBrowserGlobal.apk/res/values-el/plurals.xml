@@ -142,16 +142,16 @@
     <item quantity="one">%d player</item>
   </plurals>
   <plurals name="pref_adblock_counts">
-    <item quantity="other">Blocked %d ads</item>
-    <item quantity="one">Blocked %d ad</item>
+    <item quantity="other">Αποκλειμένες %d διαφημ.</item>
+    <item quantity="one">Αποκλειμένη %d διαφημ.</item>
   </plurals>
   <plurals name="search_trending_views">
     <item quantity="other">%s αναζήτηση αιτήσεων</item>
     <item quantity="one">%s αναζήτηση αιτήσεων</item>
   </plurals>
   <plurals name="sku_price">
-    <item quantity="other">%2$s every %1$s months</item>
-    <item quantity="one">%2$s every %1$s month</item>
+    <item quantity="other">%2$s κάθε %1$s μήνες</item>
+    <item quantity="one">%2$s κάθε %1$s μήνα</item>
   </plurals>
   <plurals name="suggest_access_item_album_songs">
     <item quantity="other">%d songs</item>
