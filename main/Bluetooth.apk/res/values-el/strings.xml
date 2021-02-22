@@ -19,6 +19,8 @@
     <string name="bluetooth_advanced_feat_description">Προηγμένη Λειτουργία Περιήγησης Bluetooth</string>
     <string name="bluetooth_connected">Bluetooth ήχος συνδέθηκε</string>
     <string name="bluetooth_disconnected">Bluetooth ήχος αποσυνδέθηκε</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Συνδέθηκε στο LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Χρήση για LE_AUDIO</string>
     <string name="bluetooth_map_remote_advance_feature_support">Υποστηρίζονται προηγμένες λειτουργίες πρόσβασης μηνυμάτων</string>
     <string name="bluetooth_map_remote_message_access_feature_downgrade">Υποβάθμιση των λειτουργιών απομακρυσμένης πρόσβασης μηνυμάτων</string>
     <string name="bluetooth_map_repair_for_adv_message_access_feature">Επανασύζευξη για χρήση των προηγμένων λειτουργιών πρόσβασης μηνυμάτων</string>

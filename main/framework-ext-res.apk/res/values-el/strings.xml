@@ -10,6 +10,8 @@
     <string name="application_cannot_open_alipay_scanner">"Δεν ήταν δυνατό το άνοιγμα του σαρωτή Alipay"</string>
     <string name="application_cannot_open_weixin_payment_code">"Δεν ήταν δυνατό το άνοιγμα του κωδικού πληρωμής WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"Δεν ήταν δυνατό το άνοιγμα του σαρωτή WeChat"</string>
+    <string name="application_cannot_open_alipay_health_code">"Δεν ήταν δυνατό το άνοιγμα του κωδικού υγείας Alipay"</string>
+    <string name="application_cannot_open_weixin_health_code">"Δεν ήταν δυνατό το άνοιγμα του κωδικού υγείας WeChat"</string>
     <string name="application_not_install_content">"Φαίνεται ότι η εφαρμογή που εκτελεί αυτήν την ενέργεια δεν είναι εγκατεστημένη στη συσκευή σας. Μπορείτε να εγκαταστήσετε αυτήν την εφαρμογή ή να αντιστοιχίσετε μια διαφορετική ενέργεια για αυτήν την σάρωση."</string>
     <string name="apply_password_action">OK</string>
     <string name="apply_password_confirm_dlg_msg">Απαίτηση κωδικού πρόσβασης για %s​;</string>

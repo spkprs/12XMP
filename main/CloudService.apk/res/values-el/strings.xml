@@ -411,6 +411,7 @@
     <string name="micloud_request_sync_too_frequent">Πάρα πολλά αιτήματα. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>
     <string name="micloud_setting_antispam_summary">Εξαιρέσεις για Μην Ενοχλείτε και μπλοκαρισμένους αριθμούς τηλεφώνου.</string>
     <string name="micloud_setting_browser_summary">Σελιδοδείκτες, ιστορικό και ετικέτες</string>
+    <string name="micloud_setting_bluetooth_summary">Συγχρονίστε τις πληροφορίες σχετικά με τις συζευγμένες συσκευές σας με το cloud</string>
     <string name="micloud_setting_calendar_summary">Εκδηλώσεις</string>
     <string name="micloud_setting_calllog_summary">Ιστορικό κλήσεων</string>
     <string name="micloud_setting_contact_summary">Πληροφορίες επαφών και φωτογραφίες προφίλ</string>

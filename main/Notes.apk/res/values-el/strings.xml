@@ -527,6 +527,10 @@
     <string name="sync_folder_todo">%1$s και %2$s</string>
     <string name="sync_note_folder">%1$s και %2$s</string>
     <string name="sync_note_todo">%1$s και %2$s</string>
+    <string name="sync_desc_state_complete">Συγχρονίστηκε με το cloud</string>
+    <string name="sync_desc_state_complete_china">Όλα τα %1$s έχουν συγχρονιστεί</string>
+    <string name="sync_desc_state_disable">Ενεργοποιήστε το συγχρονισμό με το cloud</string>
+    <string name="sync_desc_state_running">Συγχρονισμός με το cloud</string>
     <string name="sync_tips">Πατήστε για συγχρονισμό σημειώσεων με το Mi Cloud.</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-aggression Day</string>

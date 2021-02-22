@@ -138,6 +138,7 @@
     <string name="accessibility_preview_effect_button">Προεπισκόπηση εφέ</string>
     <string name="accessibility_preview_expand">Μεγέθυνση</string>
     <string name="accessibility_preview_front">Προεπισκόπηση εμπρός κάμερας</string>
+    <string name="accessibility_preview_remote">Προεπισκόπηση εγγραφής διπλού τηλεφώνου</string>
     <string name="accessibility_preview_select_tip">Θέση %1$d</string>
     <string name="accessibility_preview_selected">Επιλεγμένα</string>
     <string name="accessibility_preview_shrink">Σμίκρυνση</string>
@@ -810,6 +811,7 @@
     <string name="mimoji_eyebrow_shape">Σχήμα Φρυδιού</string>
     <string name="mimoji_eyeglass">Γυαλιά</string>
     <string name="mimoji_eyelash">Βλεφαρίδες</string>
+    <string name="mimoji_eyelid">Βλέφαρα</string>
     <string name="mimoji_featured_face">Πρόσωπο</string>
     <string name="mimoji_fragment_tab_name">Mimoji</string>
     <string name="mimoji_freckle">Φακίδες</string>
@@ -1323,6 +1325,7 @@
     <string name="pref_module_settings">Λειτουργίες</string>
     <string name="pref_more_mode_style_title">Λειτουργίες Κάμερας</string>
     <string name="pref_multi_camera_dual_video_front">Εμπρός κάμερα</string>
+    <string name="pref_multi_camera_dual_video_remote">Εγγραφή διπλού τηλεφώνου</string>
     <string name="pref_n_s_a">Ρυθμίσεις Ήχου</string>
     <string name="pref_n_s_o_l">Ενεργό</string>
     <string name="pref_n_s_o_m">Ανενεργό</string>
@@ -1409,14 +1412,14 @@
     <string name="recommend_soft_light_tip">Ενεργοποίηση Φλάς</string>
     <string name="recommend_super_night">Δοκιμάστε τη Νυχτερινή λειτουργία</string>
     <string name="record_back_pressed_hint">Αγγίξτε ξανά για παύση εγγραφής</string>
-    <string name="remote_online_connecting">Διαθέσιμες συσκευές</string>
+    <string name="remote_online_connecting">Επιλογή συσκευής για σύνδεση</string>
     <string name="remote_online_disconnect_confirmation">Ακύρωση σύνδεσης με %1$s?</string>
     <string name="remote_online_exit_confirmation">Απενεργοποίηση εγγραφής Διπλού τηλεφώνου τώρα;</string>
     <string name="remote_online_exit_connecting">Αποσύνδεση και έξοδος από την εγγραφή Διπλού τηλεφώνου τώρα;</string>
-    <string name="remote_online_guide">Ενεργοποίηση εγγραφής Διπλού τηλεφώνου στην άλλη συσκευή με χρήση του διακόπτη στον Πίνακα ειδοποιήσεων.</string>
+    <string name="remote_online_guide">Ενεργοποίηση εγγραφής Διπλού τηλεφώνου στην άλλη συσκευή με χρήση του διακόπτη στο Κέντρο Ελέγχου.</string>
     <string name="remote_online_interrupted">Σε αποσύνδεση. Συνδεθείτε ξανά για να συνεχίσετε.</string>
     <string name="remote_online_introduction_i">"Η εγγραφή Διπλού τηλεφώνου επιτρέπει το συνδυασμό τροφοδοσιών από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση τόσο των ροών όσο και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγραφεί μόνο από αυτή τη συσκευή."</string>
-    <string name="remote_online_introduction_ii">Για να λειτουργήσει αυτή η δυνατότητα, η άλλη συσκευή Mi ή Redmi πρέπει να υποστηρίζει εγγραφή Διπλού τηλεφώνου. Μπορεί να ενεργοποιηθεί χρησιμοποιώντας τον διακόπτη στον Πίνακα ειδοποιήσεων.</string>
+    <string name="remote_online_introduction_ii">Για να λειτουργήσει αυτή η δυνατότητα, η άλλη συσκευή Mi ή Redmi πρέπει να υποστηρίζει εγγραφή Διπλού τηλεφώνου. Μπορεί να ενεργοποιηθεί χρησιμοποιώντας τον διακόπτη στο Κέντρο Ελέγχου.</string>
     <string name="remote_online_searching">Αναζήτηση συσκευών…</string>
     <string name="remote_online_service_name">Εγγραφή Διπλού τηλεφώνου</string>
     <string name="remote_online_unavailable">"Δεν ήταν δυνατή η εύρεση κοντινών συσκευών"</string>
@@ -1505,6 +1508,7 @@
     <string name="timbre_robot">Robot</string>
     <string name="time_lapse_error">Αδύνατη η χρήση αυτού του μεγέθους βίντεο για εγγραφή με χρονική καθυστέρηση</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>
+    <string name="timerburst_pressed_hint">Πατήστε ξανά για διακοπή</string>
     <string name="timefreeze_guide_tip2">Μπορείτε να παγώσετε και να ξεπαγώσετε το φόντο οποιαδήποτε στιγμή πριν ή κατά τη λήψη.</string>
     <string name="timefreeze_guide_tip3">Ζητήστε από το θέμα σας να παραμείνει στο κέντρο του πλαισίου.</string>
     <string name="timefreeze_guide_tip4">Σταματήστε την κίνηση.</string>

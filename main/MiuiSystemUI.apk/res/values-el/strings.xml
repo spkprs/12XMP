@@ -455,6 +455,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">Σύζευξη σωστού ακουστικού βαρηκοΐας…</string>
     <string name="bluetooth_hid_profile_summary_connected">Συνδεδεμένο με συσκευή εισόδου</string>
     <string name="bluetooth_hid_profile_summary_use_for">Χρήση για εισαγωγή</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Συνδέθηκε στο LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Χρήση για LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Συνδεδεμένο με MAP</string>
     <string name="bluetooth_map_profile_summary_use_for">Χρησιμοποιήστε το για το MAP</string>
     <string name="bluetooth_opp_profile_summary_connected">Συνδεδεμένο με διακομιστή μεταφοράς αρχείων</string>
