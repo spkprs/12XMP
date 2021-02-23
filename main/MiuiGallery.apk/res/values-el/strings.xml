@@ -463,8 +463,8 @@
     <string name="cloud_guide_welcome_title">MiCloud</string>
     <string name="cloud_login_ok">Κατανοητό</string>
     <string name="cloud_login_settings_title">Ρυθμίσεις συγχρονισμού</string>
-    <string name="cloud_privacy_with_ai_album">Δήλωση απορρήτου σχετικά με τον αυτόματο συγχ/σμό και την επεξεργασία εικόνων</string>
-    <string name="cloud_privacy_with_face">Δήλωση απορρήτου σχετικά με τον αυτόματο συγχ/σμό και την αναγνώριση προσώπου</string>
+    <string name="cloud_privacy_with_ai_album">Χαρακτηριστικά και απόρρητο</string>
+    <string name="cloud_privacy_with_face">Χαρακτηριστικά και απόρρητο</string>
     <string name="cloud_screenshots_display_name">Στιγμιότυπα</string>
     <string name="cloud_settings">Συγχρονισμός</string>
     <string name="cloud_storage_extend">Επέκταση χώρου Xiaomi Cloud</string>
