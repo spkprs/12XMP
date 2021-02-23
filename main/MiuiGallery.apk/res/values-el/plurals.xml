@@ -489,16 +489,16 @@
     <item quantity="one">Βελτιστοποιήθηκε %d φωτογραφία</item>
   </plurals>
   <plurals name="slim_exit_dialog_message">
-    <item quantity="other">%d φωτογραφίες δεν μπόρεσαν να βελτιστοποιηθούν. Διακοπή τώρα?</item>
-    <item quantity="one">%d φωτογραφία δεν μπόρεσε να βελτιστοποιηθεί. Διακοπή τώρα?</item>
+    <item quantity="other">%d φωτο χωρίς βελτιστοποίηση. Διακοπή τώρα?</item>
+    <item quantity="one">%d φωτο χωρίς βελτιστοποίηση. Διακοπή τώρα?</item>
   </plurals>
   <plurals name="slim_remain_photo_count">
     <item quantity="other">%d φωτογραφίες απομένουν</item>
     <item quantity="one">%d φωτογραφία απομένει</item>
   </plurals>
   <plurals name="sync_error_title">
-    <item quantity="other">Δεν έχουν δημιουργηθεί αντίγραφα για %d φωτογραφίες και βίντεο</item>
-    <item quantity="one">Δεν έχουν δημιουργηθεί αντίγραφα για %d φωτογραφία ή βίντεο</item>
+    <item quantity="other">Χωρίς αντίγραφα %d φωτο &amp; βίντεο</item>
+    <item quantity="one">Χωρίς αντίγραφα %d φωτο &amp; βίντεο</item>
   </plurals>
   <plurals name="sync_oversized_count">
     <item quantity="other">%d στοιχεία είναι πολύ μεγάλα για αντίγραφα</item>
