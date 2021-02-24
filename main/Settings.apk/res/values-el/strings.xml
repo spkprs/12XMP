@@ -3902,6 +3902,12 @@
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Κεντρική περιοχή</string>
     <string name="miheadet_up_music">Προηγούμενο κομμάτι</string>
+    <string name="miheadset_ancBalance">Μεσαία</string>
+    <string name="miheadset_ancClosed">Off</string>
+    <string name="miheadset_ancDecrease">Χαμηλή</string>
+    <string name="miheadset_ancIncrease">Υψηλή</string>
+    <string name="miheadset_transparentMode">Διαφάνεια</string>
+    <string name="miheadset_voiceIncrease">Βελτίωση φωνής</string>
     <string name="miheadset_Box">Box</string>
     <string name="miheadset_LeftEar">Αριστερό</string>
     <string name="miheadset_RightEar">Δεξιό</string>

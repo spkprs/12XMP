@@ -172,6 +172,8 @@
     <string name="android_sdk_too_low">Ενημερώστε το Android για να μπορείτε να ενημερώσετε τη μουσική.</string>
     <string name="apk_filter">APK</string>
     <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
+    <string name="app_description_content">"Η μουσική είναι μια εφαρμογή συστήματος που περιέχει ένα πρόγραμμα αναπαραγωγής ήχου και σας επιτρέπει να διαχειριστείτε αρχεία ήχου. Θα εξακολουθείτε να μπορείτε να αναπαράγετε αρχεία ήχου μετά την κατάργηση της συντόμευσης στην αρχική οθόνη."</string>
+    <string name="app_description_title">Κατάργηση της \"Μουσικής\" από την αρχική οθόνη;</string>
     <string name="app_downloads">%s λήψεις</string>
     <string name="app_label">Λήψεις</string>
     <string name="app_name">sdk</string>
@@ -2301,6 +2303,7 @@
     <string name="talkback_cloud_setting">Ρυθμίσεις</string>
     <string name="talkback_comment">Σχόλια</string>
     <string name="talkback_comment_like">Όπως</string>
+    <string name="talkback_cut">Επεξεργαστής ήχου κουδουν/τος</string>
     <string name="talkback_delete">κουμπί \"Διαγραφή\"</string>
     <string name="talkback_device">Αναπαραγωγή σε άλλες συσκευές</string>
     <string name="talkback_disabled">απενεργοποιημένη</string>

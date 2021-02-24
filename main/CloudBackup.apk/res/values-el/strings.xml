@@ -66,6 +66,7 @@
     <string name="btn_continue">Συνέχεια</string>
     <string name="btn_restore_abort">Ακύρωση</string>
     <string name="btn_restore_cancel">Ακύρωση</string>
+    <string name="btn_restore_cancel_app_app">"Να μην γίνει επαναφορά των δεδομένων WeChat"</string>
     <string name="btn_restore_continue">Επαναφορά</string>
     <string name="btn_restore_resume">Συνέχεια</string>
     <string name="btn_restore_retry">Προσπαθήστε ξανά</string>
@@ -108,6 +109,8 @@
     <string name="cloud_back_up_task">Δημ. αντιγράφου…</string>
     <string name="cloud_backup">Αντίγραφα Xiaomi Cloud</string>
     <string name="cloud_backup_derail_size_summary">Μέγεθος: %s</string>
+    <string name="cloud_backup_detail_app_data">Δημιουργία αντιγράφων δεδομένων WeChat</string>
+    <string name="cloud_backup_detail_app_data_summary">Δημιουργία αντιγράφων συνομιλιών, αρχείων και άλλων στοιχείων</string>
     <string name="cloud_backup_detail_frequence">Χρονοδιάγραμμα αντιγράφων</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Αντιγράφα ασφαλείας κάθε %d ημέρες</string>
     <string name="cloud_backup_detail_frequence_every_day">Αντιγράφα ασφαλείας κάθε ημέρα</string>
@@ -128,6 +131,8 @@
     <string name="confirm_cancel_restore_positive">Συνέχεια</string>
     <string name="confirm_cancel_restore_title">Ακύρωση επαναφοράς;</string>
     <string name="confirm_restore">Επαναφορά</string>
+    <string name="confirm_restore_app_data">Αντικατάσταση δεδομένων εφαρμογής</string>
+    <string name="confirm_restore_app_data_summary">Η επαναφορά δεδομένων WeChat θα αντικαταστήσει την τρέχουσα έκδοση των δεδομένων εφαρμογής σε αυτήν τη συσκευή. Να γίνει επαναφορά οπωσδήποτε;</string>
     <string name="confirm_restore_summary">Η Αρχική οθόνη θα επανεκκινήσει και τα αντίγραφα των εφαρμογών θα ληφθούν αυτόματα.</string>
     <string name="confirm_restore_title">Επαναφορά</string>
     <string name="copy">Copy</string>
@@ -140,14 +145,17 @@
     <string name="desktop_wait_network">Αναμονή...</string>
     <string name="desktop_waiting">Αναμονή</string>
     <string name="device_delete_prompt">Διαγραφή αντ.ασφαλείας του %s;</string>
+    <string name="dialog_backup_failed">"Δεν ήταν δυνατή η δημιουργία αντιγράφου"</string>
     <string name="dialog_btn_cancel_backup">Ακύρωση</string>
     <string name="dialog_btn_next">Επόμενο</string>
     <string name="dialog_btn_overwrite_backup">Αντικατάσταση</string>
     <string name="dialog_btn_restore_skip">Επαναφορά αργότερα</string>
+    <string name="dialog_buy_cloud_space">Αναβάθμιση</string>
     <string name="dialog_cancel_backup_cancel">Ακύρωση</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
     <string name="dialog_cancel_backup_msg">Η εναλλαγή του διακόπτη τερματίζει τα τρέχοντα αντίγραφα.</string>
     <string name="dialog_cancel_backup_title">Ακύρωση του τρέχοντος αντιγράφου;</string>
+    <string name="dialog_cloud_space_not_enough">Αυτό το αντίγραφο ασφάλειας απαιτεί %1$s ελεύθερο χώρο αποθήκευσης στο cloud. Αναβαθμίστε το πρόγραμμα αποθήκευσης για να δημιουργήσετε αντίγραφα των στοιχείων.</string>
     <string name="dialog_msg_overwrite_backup">Το τοπικό αντίγραφο είναι διαφορετικό απο του Xiaomi Cloud. Αν συνεχίσετε, το τρέχον θα αντικαταστήσει το προηγούμενο .</string>
     <string name="dialog_msg_restore_require_wlan">Για Επαναφορά αρχείων απαιτείται Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Η επαναφορά αντιγράφων ασφαλείας απαιτεί σύνδεση σε WiFi.</string>
@@ -168,6 +176,7 @@
     <string name="expand_button_title">Προχωρημένες</string>
     <string name="get_device_id_error">Το αναγνωριστικό συσκευής απέτυχε</string>
     <string name="help_and_feedback">Βοήθεια και σχόλια</string>
+    <string name="hint_restore_wechat_data">Σημείωση: Ενδέχεται να μην γίνει επαναφορά των δεδομένων WeChat λόγω προβλημάτων συμβατότητας σε ορισμένες περιπτώσεις.</string>
     <string name="home_hint_global_launcher">Εκκινητής POCO</string>
     <string name="home_hint_other_launcher">Άλλος Εκκινητής</string>
     <string name="home_restore_error">Η επαναφορά αρχικής οθόνης απέτυχε</string>
@@ -190,11 +199,11 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Αυτα για τωρα</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μισό λεπτό…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδύνατη η φόρτωση στοιχείων</string>
-    <string name="msg_alert_cancel_restore">Επαναφορά στοιχείων. Διακοπή τώρα?</string>
+    <string name="msg_alert_cancel_restore">Πραγματοποιείται επαναφορά στοιχείων από το Xiaomi Cloud. Ακύρωση τώρα;</string>
     <string name="msg_alert_restore_error">"Αδυναμία επαναφοράς απο το Xiaomi Cloud. Προσπαθήστε ξανά."</string>
     <string name="msg_restore_start_with_metered_network">"Η αρχική οθόνη σας θα επανεκκινήθηκε. Οι αντίγραφα ασφαλείας των εφαρμογών θα ληφθούν αυτόματα. &lt;br />&lt;b>&lt;font color='red'>%s των αρχείων θα γίνει λήψη.&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Εάν προχωρήσετε στην επαναφορά αυτών των στοιχείων, τα δεδομένα κινητής  θα χρησιμοποιηθούν για λήψη.</string>
-    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> των αρχείων θα γίνει λήψη."</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> αρχείων θα γίνει λήψη."</string>
     <string name="network_error">Συνδεθείτε στο δίκτυο</string>
     <string name="no_account">Δεν έχετε συνδεθεί στο Λογαριασμό Mi.</string>
     <string name="no_backup">Δεν υπάρχουν αντίγραφα στο Xiaomi Cloud.</string>
@@ -242,6 +251,8 @@
     <string name="restore_cloud_backup_to_phone">Επαναφορά στοιχείων από Xiaomi Cloud</string>
     <string name="restore_data_summary">Αυτή η λειτουργία απαιτεί μια σύνδεση στο Internet.</string>
     <string name="restore_data_title">Επαναφορά δεδομένων</string>
+    <string name="restore_detail_category_app_data">Δεδομένα WeChat</string>
+    <string name="restore_detail_category_app_data_summary">Ιστορικό συνομιλιών, αρχεία και άλλα στοιχεία (%s)</string>
     <string name="restore_detail_category_apps">Διάταξη αρχικής οθόνης και εφαρμ.</string>
     <string name="restore_detail_category_settings">Ρυθμίσεις</string>
     <string name="restore_detail_more">Περισσότερα</string>
@@ -256,14 +267,15 @@
     <string name="restore_home_failed">"Αδύνατη η επαναφορά της Αρχικής οθόνης."</string>
     <string name="restore_home_screen_apps">Επαναφορά από αντίγραφο Xiaomi Cloud</string>
     <string name="restore_init_description">Έναρξη Επαναφοράς</string>
-    <string name="restore_network_pause">%s (Αγγίξτε για συνέχεια)</string>
+    <string name="restore_network_pause">Έγινε παύση αποθήκευσης δεδομένων κινητής. Πατήστε για συνέχιση.</string>
     <string name="restore_network_unconnect">%s (Αναμονή για σύνδεση)</string>
     <string name="restore_task_cancelling">Ακύρωση…</string>
     <string name="restore_task_in_process">Επαναφορά…</string>
     <string name="restore_task_unfinished">"Αδυναμία επαναφοράς"</string>
     <string name="restore_unfinished">Επαναφορά, δοκιμάστε ξανά αργότερα</string>
+    <string name="restoring_app_data_title_no_progress">Επαναφορά δεδομένων WeChat…</string>
     <string name="restoring_data">Επαναφορά δεδομένων…</string>
-    <string name="restoring_file_title_no_progress">Επαναφορά αρχείων…</string>
+    <string name="restoring_file_title_no_progress">Επαναφορά εφαρμογών…</string>
     <string name="restoring_home_screen_apps">Επαναφορά από το Xiaomi Cloud…</string>
     <string name="restoring_settings">Επαναφορά ρυθμίσεων…</string>
     <string name="retry">Δοκιμάστε ξανά</string>
