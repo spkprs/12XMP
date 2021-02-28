@@ -260,6 +260,7 @@
     <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
     <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_picker_lunar">Σεληνιακό ημερολόγιο</string>
+    <string name="date_time_picker_dialog_title">Ορίστε ημέρα και ώρα</string>
     <string name="day">Ημέρα</string>
     <string name="deep_light_detection_open_prompt">Ο κύκλος του ύπνου σας θα αναλυθεί την επόμενη φορά που θα πάτε για ύπνο</string>
     <string name="deep_sleep">Βαθύς ύπνος</string>
@@ -794,10 +795,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">Συγχρονίζεται με το cloud...</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλέξτε αντ/μενα</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -1066,6 +1070,7 @@
     <string name="select_recog_question">Επιλογή ενέργειας</string>
     <string name="select_swim_posture">Επιλογή στυλ</string>
     <string name="select_target">Επιλογή προορισμού</string>
+    <string name="send">Αποστολή</string>
     <string name="send_diagnosis_log">Αποστολή διαγνωστικού αρχείου καταγραφής</string>
     <string name="sending">Αποστολή…</string>
     <string name="set_emergency_contact">Επαφή έκτακτης ανάγκης</string>

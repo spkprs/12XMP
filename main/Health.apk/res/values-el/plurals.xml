@@ -368,4 +368,8 @@
         <item quantity="one">%1$d δευτ</item>
         <item quantity="other">%1$d δευτ</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="one">%d επιλεγμένο αντ/μενο</item>
+        <item quantity="other">%d επιλεγμένα αντ/μενα</item>
+    </plurals>
 </resources>
