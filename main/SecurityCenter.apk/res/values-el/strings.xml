@@ -194,7 +194,7 @@
     <string name="antivirus_third_privacy_title">Πολιτικές απορρήτου τρίτων</string>
     <string name="antivirus_toast_already_update">Ενημερωμένο</string>
     <string name="antivirus_toast_network_unavailable">Αδυναμία σύνδεσης στο δίκτυο</string>
-    <string name="antivirus_toast_update_failed">Αδυναμία ενημέρωσης</string>
+    <string name="antivirus_toast_update_failed">Οι διακομιστές μας είναι απασχολημένοι. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
     <string name="antivirus_toast_update_success">Επιτυχής ενημέρωση</string>
     <string name="antivirus_toast_updating">Ενημέρωση…</string>
     <string name="antivirus_update_btn_contiue">Συνέχεια</string>
@@ -452,17 +452,24 @@
     <string name="app_manager_show_detail_infos">Προβολή όλων</string>
     <string name="app_manager_start_by">Ξεκίνησε από %s</string>
     <string name="app_manager_system_mobile_disable">Απενεργοποίηση δεδομένων</string>
+    <string name="app_manager_tab_app">Εφαρμογές</string>
+    <string name="app_manager_tab_manager">Διαχείριση</string>
     <string name="app_manager_thumbnail_blur_summary">Θολή προεπισκόπηση εφαρμογών στα Πρόσφατα</string>
     <string name="app_manager_thumbnail_blur_title">Θολή προεπισκόπηση εφαρμογών</string>
     <string name="app_manager_title">Διαχείριση εφαρμ</string>
+    <string name="app_manager_to_appstore">Ανακαλύψτε περισσότερες εφαρμογές</string>
     <string name="app_manager_total_size">Σύνολο</string>
     <string name="app_manager_uninstall">Απεγκατάσταση</string>
+    <string name="app_manager_uninstall_button_text">Απεγκατάσταση</string>
+    <string name="app_manager_uninstall_notify_title">Απεγκατάσταση σπάνιας χρήσης εφαρμ.</string>
     <string name="app_manager_uninstall_protected_dlg_msg">Η απεγκατάσταση εφαρμογών συστήματος ενδέχεται να προκαλέσει την δυσλειτουργία ορισμένων στοιχείων του MIUI. Απεγκατάσταση οπωσδήποτε;</string>
     <string name="app_manager_uninstall_protected_dlg_title">Απεγκατ. εφαρμ. συστήματος</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Οι αντίστοιχες διπλές εφαρμογές θα διαγραφούν μαζί με τα δεδομένα τους.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Η απεγκατάσταση της διπλής εφαρμογής θα διαγράψει όλα τα δεδομένα της.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">Απεγκατάσταση διπλής εφαρμογής;</string>
     <string name="app_manager_unstall_application">Απεγκατάσταση</string>
+    <string name="app_manager_update">Ενημέρωση</string>
+    <string name="app_manager_updater_notify_message">Ενημέρωση εφαρμογών για πρόσβαση σε νέες δυνατότητες</string>
     <string name="app_managere_not_have_app">Κενό</string>
     <string name="app_manger_des_separator">", "</string>
     <string name="app_mobile">Δεδομένα Κινητής</string>
@@ -611,6 +618,7 @@
     <string name="auto_task_edit_choose_new_operation">Προσθήκη ενέργειας</string>
     <string name="auto_task_edit_choose_operation_title">Επιλέξτε ενέργεια</string>
     <string name="auto_task_edit_condition_summary">Για παράδειγμα, \"Στις 23:00\"</string>
+    <string name="auto_task_edit_condition_summary_new">Για παράδειγμα, \"Σε %s\"</string>
     <string name="auto_task_edit_condition_title">Προσθήκη κατάστασης</string>
     <string name="auto_task_edit_my_custom_task">Όνομα</string>
     <string name="auto_task_edit_operation_summary">Για παράδειγμα, \"Ενεργοποίηση λειτουργίας πτήσης\"</string>
@@ -625,6 +633,7 @@
     <string name="auto_task_notify_do_task_title">Η αυτοματοποιημένη εργασία ξεκίνησε</string>
     <string name="auto_task_notify_exit_task_title">Η αυτοματοποιημένη εργασία έκλεισε</string>
     <string name="auto_task_notify_task_cancel_count_down">Η αυτοματοποιημένη ενέργεια θα ακυρωθεί σε 5 δευτ.</string>
+    <string name="auto_task_notify_task_cancel_count_down_new">Η αυτοματοποιημένη ενέργεια θα ακυρωθεί σε %d δευτ.</string>
     <string name="auto_task_notify_task_cancel_do">Ακύρωση ενέργειας</string>
     <string name="auto_task_notify_task_canceled_summary">Μπορείτε να κάνετε και να λαμβάνετε κλήσεις</string>
     <string name="auto_task_notify_task_canceled_summary2">Φαίνεται ότι παίζεις τώρα ένα παιχνίδι.</string>
@@ -633,6 +642,7 @@
     <string name="auto_task_notify_task_canceled_title">Η ενέργεια ακυρώθηκε</string>
     <string name="auto_task_notify_task_continue_do">Έναρξη ενέργειας</string>
     <string name="auto_task_notify_task_count_down">Η αυτοματοποιημένη ενέργεια θα ξεκινήσει σε 5 δευτ.</string>
+    <string name="auto_task_notify_task_count_down_new">Η αυτοματοποιημένη ενέργεια θα ξεκινήσει σε %d δευτ.</string>
     <string name="auto_task_notify_task_exit_task">Ακύρωση εργασίας</string>
     <string name="auto_task_operation_airplane_mode">Λειτουργία πτήσης</string>
     <string name="auto_task_operation_auto_brightness">Αυτόματη φωτεινότητα</string>
@@ -849,7 +859,10 @@
     <string name="card_main_xspace_summary">Δημιουργήστε διπλούς λογαριασμούς για κάθε εφαρμογή</string>
     <string name="card_main_xspace_title">Διπλές</string>
     <string name="card_tc_failed">Δεν ήταν δυνατή η βαθμονόμηση</string>
-    <string name="cd_back">Back</string>
+    <string name="card_uninstall_button_text">Διαχείριση</string>
+    <string name="card_uninstall_summary">Απεγκατάσταση σπάνιας χρήσης εφαρμ. για την απελευθέρωση χώρου αποθήκευσης</string>
+    <string name="card_uninstall_title_1">Απεγκατάσταση σπάνιας χρήσης εφαρμ.</string>
+    <string name="cd_back">Πίσω</string>
     <string name="celcius_symbol">℃</string>
     <string name="cellular_data_auto_check">Αυτόματος έλεγχος</string>
     <string name="cellular_package_daily_input">Εισαγωγή</string>
@@ -965,6 +978,7 @@
     <string name="deep_power_save_item_summary_auto_brightness">Ρυθμίστε τη φωτεινότητα οθόνης αυτόματα για εξοικονόμηση μπαταρίας</string>
     <string name="deep_power_save_item_summary_bluetooth">Απενεργοποιήστε το Bluetooth για να εξοικονομήσετε μπαταρία</string>
     <string name="deep_power_save_item_summary_lock_screen_time">Θέστε την οθόνη σε κατάσταση αναμονής μετά από 15 δευτ αδράνειας για εξοικονόμηση μπαταρίας</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">Θέστε την οθόνη σε αδράνεια μετά από %d δευτ. αδράνειας για την αποθήκευση της μπαταρίας</string>
     <string name="deep_power_save_item_title_auto_brightness">Ενεργοποιήστε την αυτόματη φωτεινότητα</string>
     <string name="deep_power_save_item_title_bluetooth">Απενεργοποιήστε το Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Τοποθετήστε την οθόνη σε αναμονή</string>
@@ -1481,8 +1495,8 @@
     <string name="gamebox_immersion_tips_content">Η λειτουργία Καθήλωσης περιορίζει όλες τις λειτουργίες της κάρτας SIM εκτός από τη σύνδεση δεδομένων κινητής τηλεφωνίας. Δεν θα διακοπεί ούτε από κλήσεις ούτε θα λάβετε ειδοποιήσεις για αναπάντητες κλήσεις. Όλες οι λειτουργίες της κάρτας SIM θα αποκατασταθούν όταν η λειτουργία Καθήλωσης είναι απενεργοποιημένη. Ενεργοποιήστε τη λειτουργία Καθήλωσης;</string>
     <string name="gamebox_immersion_tips_title">Προσοχή</string>
     <string name="gamebox_immerson_open">Ενεργοποιείται η λειτ. Καθήλωσης  μην αλλάξετε δίκτυο…</string>
-    <string name="gamebox_manual_record">Εγγραφή</string>
     <string name="gamebox_macro">Συνδυασμοί</string>
+    <string name="gamebox_manual_record">Εγγραφή</string>
     <string name="gamebox_milink">Μετάδοση</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Εγκαταστήστε QQ και δοκιμάστε ξανά.</string>
@@ -1502,6 +1516,19 @@
     <string name="gb_ad_game_size">MB</string>
     <string name="gb_add_game_hint">Προσθήκη στοιχείων από την λίστα εφαρμογών</string>
     <string name="gb_add_game_loading_tips">Μισό λεπτό...</string>
+    <string name="gb_adv_touch_adv_title">Κλασική λειτουργία (προεπιλογή)</string>
+    <string name="gb_adv_touch_custom1">Απόκριση σάρωσης</string>
+    <string name="gb_adv_touch_custom2">Ευαισθησία σε συνεχή αγγίγματα</string>
+    <string name="gb_adv_touch_custom3">Ακρίβεια στόχευσης</string>
+    <string name="gb_adv_touch_custom4">Σταθερότητα αγγίγματος</string>
+    <string name="gb_adv_touch_custom_tip1">Η υψηλότερη απόκριση σάρωσης αυξάνει την ταχύτητα αντίδρασης σε αυτή την κίνηση, ενώ η χαμηλότερη απόκριση σάρωσης κάνει την κίνηση πιο σταθερή.</string>
+    <string name="gb_adv_touch_custom_tip2">Η μεγαλύτερη ευαισθησία σε συνεχή αγγίγματα αυξάνει την ταχύτητα αντίδρασης σε αυτή την κίνηση, ενώ η μικρότερη ευαισθησία κάνει την κίνηση πιο σταθερή.</string>
+    <string name="gb_adv_touch_custom_tip3">Η μεγαλύτερη ακρίβεια στόχευσης καθιστά τις μικρότερες σαρώσεις πιο ακριβείς, ενώ η χαμηλότερη ακρίβεια στόχευσης καθιστά αυτή τη σάρωση πιο σταθερή.</string>
+    <string name="gb_adv_touch_custom_tip4">Η μεγαλύτερη σταθερότητα καθιστά τα αγγίγματα πιο σταθερά, ενώ η χαμηλότερη σταθερότητα αυξάνει την ακρίβεια των μικρότερων σαρώσεων.</string>
+    <string name="gb_adv_touch_custom_title">Προσαρμογή</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Αυτή η λειτουργία είναι σχεδιασμένη για επαγγελματίες παίκτες. Οι κανονικοί παίκτες μπορεί να θεωρούν αυτή τη λειτουργία ενοχλητική.</string>
+    <string name="gb_adv_touch_mode_select_title">Χειρονομίες</string>
+    <string name="gb_adv_touch_pro_title">Λειτουργία Pro</string>
     <string name="gb_advance_settings_edge_gear1">Χωρίς</string>
     <string name="gb_advance_settings_edge_gear2">Μικρή</string>
     <string name="gb_advance_settings_edge_gear3">Μεσαία</string>
@@ -1589,6 +1616,20 @@
     <string name="gb_new_feature">Νέο χαρακτηριστικό</string>
     <string name="gb_operat_frequently">Όχι τόσο γρήγορα!</string>
     <string name="gb_shortcut_pref_title">Συντόμευση στην Αρχική Οθόνη</string>
+    <string name="gb_shoulder_key">Κουμπιά Ώμου</string>
+    <string name="gb_shoulder_key_add_show_btn">Εμφάνιση εικονικών κουμπιών κατά τη διάρκεια παιχνιδιών</string>
+    <string name="gb_shoulder_key_add_tips">Μετακινήστε τα κουμπιά [Α] και [Δ] σε οποιαδήποτε λειτουργική θέση και χρησιμοποιήστε τα μέσω των κουμπιών ώμου</string>
+    <string name="gb_shoulder_key_btn_cancel">Ακύρωση</string>
+    <string name="gb_shoulder_key_btn_save_exit">Αποθήκευση</string>
+    <string name="gb_shoulder_key_circle_left">Α</string>
+    <string name="gb_shoulder_key_circle_right">Δ</string>
+    <string name="gb_shoulder_key_dialog_txt">Μπορείτε να ενεργοποιήσετε το Game Turbo χρησιμοποιώντας κουμπιά Ώμου.</string>
+    <string name="gb_shoulder_key_guide_btn_done">Κατάλαβα</string>
+    <string name="gb_shoulder_key_guide_btn_next">Επόμενο</string>
+    <string name="gb_shoulder_key_guide_tips">Ρυθμίστε τα κουμπιά ώμου για να παίξετε σαν επαγγελματίας!</string>
+    <string name="gb_shoulder_key_guide_tips1">Άνοιγμα εργαλειοθήκης και ρύθμιση κουμπιών ώμου</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">Μετακινήστε τα κουμπιά [Α] και [Δ] σε οποιαδήποτε λειτουργική θέση για να ολοκληρώσετε τη διαμόρφωση</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Χρησιμοποιήστε κουμπιά ώμου για τα χαρακτηριστικά που τους έχετε εκχωρήσει κατά τη διάρκεια παιχνιδιών</string>
     <string name="gb_sign_gift">Κάντε check-in για να λάβετε ανταμοιβές</string>
     <string name="gb_sign_gift_button_text">Λάβετε</string>
     <string name="gb_sign_notification_summary">Αναπαραγωγή παιχνιδιών χωρίς καθυστέρηση δικτύου</string>
@@ -1722,6 +1763,8 @@
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Αύξηση της ταχύτητας σύνδεσης κατά 10%-20% όταν γίνεται σύνδεση σε δρομολογητές Mi/Redmi</string>
     <string name="gtb_setting_item_title_smart_5g">Βελτιστοποίηση δικτύου 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi ενίσχυση ταχύτητας</string>
+    <string name="gtb_spring_festival_back_game">Επιστροφή στο παιχνίδι</string>
+    <string name="gtb_spring_festival_goto_gameturbo">Προβολή</string>
     <string name="gtb_wlan_speed_tips">Χρήση Mi WiFi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Εσφαλμένος πάροχος;&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">Ο τρέχων φορέας σας:</string>
@@ -2139,6 +2182,7 @@
     <string name="networkchanged_exception_summary">Η σύνδεση δικτύου έχει αλλάξει. Παρακαλώ ελέγξτε ξανά.</string>
     <string name="networkchanged_exception_title">Η σύνδεση άλλαξε</string>
     <string name="never">Μόνο μια φορά</string>
+    <string name="never_new">%d χρόνος</string>
     <string name="news_change">Αλλαγή</string>
     <string name="nickname">Ψευδώνυμο</string>
     <string name="no_game">Δεν ήταν δυνατή η εύρεση παιχνιδιών</string>
@@ -2542,6 +2586,8 @@
     <string name="power_center_battery_duration">Χρόνος που απομένει</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
     <string name="power_center_battery_hardware">Υλικό %s</string>
+    <string name="power_center_battery_health_poor_tip">Φαίνεται ότι η κατάσταση της μπαταρίας είναι χαμηλή. Ελέγξτε την σε ένα εξουσιοδοτημένο κέντρο.</string>
+    <string name="power_center_battery_health_summary">Πλήρης φόρτιση και αποφόρτιση της συσκευής σας %1$d-%2$d φορές για ακρίβεια στατιστικών κατάστασης της μπαταρίας</string>
     <string name="power_center_battery_last">%s απομένει</string>
     <string name="power_center_battery_level">%s φορτισμένη</string>
     <string name="power_center_battery_level_general">Κανονικη</string>
@@ -2574,6 +2620,7 @@
     <string name="power_center_list_item_haptic_feedback_summary">"Οι χειρονομίες και οι έλεγχοι του συστήματος δεν θα συνοδεύονται από δόνηση αφής"</string>
     <string name="power_center_list_item_set_lockscreen_time">Απενεργ. οθόνης σε 30δευτ. αδράνειας</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Κλείδωμα συσκευής μετά από %d δευτ. αδράνειας</string>
+    <string name="power_center_list_item_set_lockscreen_time_new">Θέστε την οθόνη σε αδράνεια μετά από %d δευτ.</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Το ταχύτερο κλείδωμα της συσκευής σας εξοικονομεί μπαταρία</string>
     <string name="power_center_list_item_wake_notification">Να μην γίνεται αφύπνιση της οθόνης για ειδοποιήσεις</string>
     <string name="power_center_list_item_wake_notification_summary">Οι εισερχόμενες ειδοποιήσεις θα εμφανίζονται μόνο όταν ενεργοποιείτε την οθόνη</string>
@@ -2680,6 +2727,7 @@
     <string name="power_phone">Φωνητικές κλήσεις</string>
     <string name="power_save_mode">Εξοικονόμηση</string>
     <string name="power_save_mode_auto_exit_summary">Απενεργοποίηση εξοικονόμησης όταν είναι 60% ή είναι πλήρως φορτισμένη</string>
+    <string name="power_save_mode_auto_exit_summary_new">Απενεργοποίηση όταν η μπαταρία είναι %s ή πλήρως φορτισμένη ​</string>
     <string name="power_save_mode_auto_exit_title">Απενεργοποίηση όταν φορτίζει</string>
     <string name="power_save_mode_close_aod_display_summary">Απενεργοποίηση της εμφάνισης πάντα όταν η εξοικονόμηση μπαταρίας είναι ενεργοποιημένη</string>
     <string name="power_save_mode_close_aod_display_title">Απενεργοποίηση εμφάνισης πάντα</string>
@@ -3633,6 +3681,7 @@
     <string name="suggest_app_tolock_unmasked">Ορατές ειδοποιήσεις</string>
     <string name="suggest_scan_again">Ολοκλήρωστε τη σάρωση για αποφυγή κινδύνων ασφαλείας.</string>
     <string name="summary_app_lock_disable">Κλειδώστε εφαρμογές για την προστασία απορρήτου σας</string>
+    <string name="summary_app_update_new">Ενημέρωση εφαρμογών για πρόσβαση σε νέες λειτουργίες</string>
     <string name="summary_auto_update">Το MIUI θα επιλέγει την πιο κατάλληλη στιγμή για να κατεβάζει και να εγκαθιστά ενημερώσεις.</string>
     <string name="summary_background_connection">Περιορίσατε τη σύνδεση παρασκηνίου για αυτήν την εφαρμογή.</string>
     <string name="summary_block_calls_from_cantacts">Οι κλήσεις από τις Επαφές αποκλείονται.</string>
@@ -3664,6 +3713,7 @@
     <string name="summary_mms">Αποκλεισμός ανεπιθύμητων μηνυμάτων (πωλήσεις, αγγελίες, κ.λπ.)</string>
     <string name="summary_network_switch">Επιτρέψτε στην Ασφάλεια την πρόσβαση στο Internet</string>
     <string name="summary_never_flow_verify">Αυτός ο αριθμός δεν έχει επιβεβαιωθεί με τον φορέα σας</string>
+    <string name="summary_password_manager">Η Διαχείριση κωδικών σας επιτρέπει να κρυπτογραφείτε τους κωδικούς πρόσβασής σας και να τους αποθηκεύετε στο cloud</string>
     <string name="summary_payment_risk">Φαίνεται ότι το περιβάλλον πληρωμών δεν είναι ασφαλές</string>
     <string name="summary_permission">Προστασία απορρήτου από εφαρμογές</string>
     <string name="summary_permission_root">Η συσκευή σας και τα προσωπικά δεδομένα είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές που έχουν πρόσβαση root</string>
@@ -3685,6 +3735,7 @@
     <string name="superpower_notification_new_title">Λιγότερο από %d%% της μπαταρίας που απομένει</string>
     <string name="superpower_notification_summary">Ενεργοποίηση Υπέρ εξοικ/σης μπαταρίας</string>
     <string name="superpower_notification_title">Λιγότερο από 10% μπαταρίας απομένει</string>
+    <string name="superpower_notification_title_new">Λιγότερο από %s μπαταρίας απομένει</string>
     <string name="superpower_progress_content">Ενεργοποίηση Υπέρ εξοικ/σης…</string>
     <string name="superpower_progress_left_time">%1$d ω %2$d λ</string>
     <string name="superpower_progress_switch_home">Μετάβαση σε Σκοτεινό θέμα</string>
@@ -3699,8 +3750,10 @@
     <string name="superpower_savemode_limit4">Επιτρέψτε στις επιλεγμένες εφαρμογές την κανονική λειτουργία</string>
     <string name="superpower_settings">Υπέρ Εξοικ. μπαταρίας</string>
     <string name="superpower_settins_autoenter_summary">Αυτόματη ενεργοποίηση Υπέρ εξοικ/σης μπαταρίας όταν είναι μόνο 10% φορτισμένη</string>
+    <string name="superpower_settins_autoenter_summary_new">Ενεργοποιήστε την προστασία της μπαταρίας Ultra Battery αυτόματα όταν η μπαταρία είναι φορτισμένη μόνο %s</string>
     <string name="superpower_settins_autoenter_title">Αυτόματη ενεργοποίηση</string>
     <string name="superpower_settins_autoleave_summary">Αυτόματη απεν/ποίηση Υπέρ εξοικ/σης μπαταρίας όταν είναι κατά 50% φορτισμένη</string>
+    <string name="superpower_settins_autoleave_summary_new">Αυτόματη απενεργοποίηση της προστασίας μπαταρίας Ultra Battery όταν η μπαταρία φορτίζεται %s</string>
     <string name="superpower_settins_autoleave_title">Αυτόματη απενεργοποίηση</string>
     <string name="superpower_settins_other">Πρόσθετες ρυθμίσεις</string>
     <string name="superpower_settins_switch_summary">Περιορίζει τις πιο απαιτητικές λειτουργίες ώστε να παραμείνουν διαθέσιμες περισσότερες βασικές λειτουργίες (π.χ. κλήσεις, SMS και επιλεγμένες εφαρμογές)</string>
@@ -3860,6 +3913,7 @@
     <string name="title_network_switch">Πρόσβαση στο Internet</string>
     <string name="title_of_app_manage">Εφαρμογές</string>
     <string name="title_of_auto_launch_manage">Αυτόματη εκκίνηση</string>
+    <string name="title_password_manager">Ενεργοποίηση Διαχείριση κωδικών</string>
     <string name="title_payment_protection">Οι πληρωμές είναι ασφαλισμένες</string>
     <string name="title_payment_risk">Βρέθηκαν κίνδυνοι πληρωμών</string>
     <string name="title_permission_no">Ανενεργή η χορήγηση άδειας</string>
@@ -3957,6 +4011,7 @@
     <string name="traffic_setting_fragment_sms_content_tips">Γράψτε το μήνυμά σας εδώ</string>
     <string name="traffic_setting_fragment_title">Ερώτηση χρήσης δεδομένων</string>
     <string name="traffic_setting_fragment_title_guide">Φορείς και σχέδια δεδομένων</string>
+    <string name="traffic_to_limit_warning">"Έχετε εξαντλήσει το %s του ορίου δεδομένων σας"</string>
     <string name="traffic_usage_warning_body">Έχετε ήδη χρησιμοποιήσει %s δεδομένα κινητής αυτό το μήνα.</string>
     <string name="traffic_usage_warning_limit">Προειδοποίηση ορίου χρήσης δεδομένων</string>
     <string name="traffic_usage_warning_title">Προειδοποίηση χρήσης δεδομένων</string>
@@ -4037,6 +4092,10 @@
     <string name="vb_ve_settings_pic_border_stronger">Βελτιωμένα περιγράμματα</string>
     <string name="vb_ve_settings_picture_stronger">Βελτιωμένα κινούμενα γραφικά</string>
     <string name="vb_video_effects_display_style">Στυλ</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">Βελτιωμένος διάλογος</string>
+    <string name="vb_video_effects_dolby_headset">" (Μόνο ακουστικά)"</string>
+    <string name="vb_video_effects_dolby_open">Dolby Atmos ενεργό</string>
+    <string name="vb_video_effects_dolby_stereo_expansion">Εκτεταμένο στερεοφωνικό</string>
     <string name="vb_video_effects_setting_black_white">B&amp;W</string>
     <string name="vb_video_effects_setting_cinema">Cinema</string>
     <string name="vb_video_effects_setting_girl">Κόκκινο</string>
@@ -4055,6 +4114,7 @@
     <string name="vb_video_effects_settings_liquid">Σαφήνεια</string>
     <string name="vb_video_effects_settings_stereo">Ένταση</string>
     <string name="vb_video_effects_srs_premium_sound">Ήχος</string>
+    <string name="vb_video_super_division">Αναβάθμιση</string>
     <string name="version_can_update">Μπορείτε να ενημερώσετε το %s στην πιο πρόσφατη έκδοση Beta για να αποκτήσετε πρόσβαση πρώτοι σε νέες δυνατότητες.</string>
     <string name="version_check_update">Έλεγχος για ενημερώσεις</string>
     <string name="version_update_title">Ενημέρωση %s</string>
@@ -4071,6 +4131,7 @@
     <string name="videobox_settings_switch_title">Εργαλειοθήκη βίντεο</string>
     <string name="videobox_settings_title">Εργαλειοθήκη βίντεο</string>
     <string name="view_traffic_detail">Προβολή λεπτομερειών</string>
+    <string name="view_traffic_details">Προβολή στατιστικών χρήσης δεδομένων</string>
     <string name="virus_auto_update_engine">Αυτόματες ενημερώσεις: %s</string>
     <string name="virus_update_tips_title">Προειδοποίηση</string>
     <string name="virus_wait_network_dialog_message">Το τηλέφωνό σας δεν είναι συνδεδεμένο σε δίκτυο Wi-Fi τώρα. Θα χρεωθείτε δεδομένα κινητής τηλεφωνίας. Συνέχεια ?</string>
@@ -4190,6 +4251,22 @@
     <string name="warningcenter_mijia_page_title">Ειδοποιήσεις</string>
     <string name="warningcenter_mijia_search_keywords">Mi Home ειδοποιήσεις</string>
     <string name="warningcenter_mijia_title">Ειδοποιήσεις από έξυπνες οικιακές συσκευές</string>
+    <string name="warningcenter_policeassist_charge_tips">*Ενδέχεται να χρεωθείτε για τα εξερχόμενα μηνύματα κειμένου. Επικοινωνήστε με το φορέα σας για να μάθετε σχετικά με τις χρεώσεις.</string>
+    <string name="warningcenter_policeassist_close_btn">Απενεργοποίηση</string>
+    <string name="warningcenter_policeassist_flow_locating">Λήψη πληροφοριών…</string>
+    <string name="warningcenter_policeassist_flow_locfailed">"Δεν ήταν δυνατή η κοινή χρήση της θέσης"</string>
+    <string name="warningcenter_policeassist_flow_privacy">Πολιτική απορρήτου</string>
+    <string name="warningcenter_policeassist_flow_send">Κοινή τοποθεσία με την αστυνομία</string>
+    <string name="warningcenter_policeassist_flow_tips">Κοινή χρήση της τοποθεσίας σας</string>
+    <string name="warningcenter_policeassist_noti_content">Αυτόματη αποστολή μηνύματος κειμένου με τη θέση σας</string>
+    <string name="warningcenter_policeassist_noti_privacy">Πατήστε για να ελέγξετε την Πολιτική απορρήτου</string>
+    <string name="warningcenter_policeassist_noti_send">Μοιράστηκε την τοποθεσία σας με την αστυνομία</string>
+    <string name="warningcenter_policeassist_noti_title">Κοινή χρήση θέσης κατά τη διάρκεια κλήσεων έκτακτης ανάγκης</string>
+    <string name="warningcenter_policeassist_open_btn">Ενεργοποίηση</string>
+    <string name="warningcenter_policeassist_open_content">"Στείλτε τα στοιχεία της τοποθεσίας σας στην αστυνομία χρησιμοποιώντας SMS ή δεδομένα κινητού αυτόματα κατά την κλήση 110, 120, 119, 122, ή 12122."</string>
+    <string name="warningcenter_policeassist_open_title">Μοιραστείτε την τοποθεσία σας με την αστυνομία κατά τη διάρκεια κλήσεων έκτακτης ανάγκης</string>
+    <string name="warningcenter_policeassist_privacy"><Data>"Διάβασα και συμφώνησα... &lt;a href=\"%1$s\">Σύμβαση χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>."</Data></string>
+    <string name="warningcenter_policeassist_title">Τοποθεσία έκτακτης ανάγκης</string>
     <string name="warningcenter_smarthome">Mi Home</string>
     <string name="warningcenter_title">Κέντρο προειδοποίησης MIUI</string>
     <string name="website">Ιστοσελίδα</string>
@@ -4226,37 +4303,6 @@
     <string name="xunyou_server_expired">Χωρίς</string>
     <string name="yuan">CNY</string>
     <string name="zhifubao_not_found">H έκδοση της εφαρμογής σας είναι πολύ παλιά ή δεν έχει εγκατασταθεί</string>
-    <string name="gb_adv_touch_adv_title">Κλασική λειτουργία (προεπιλογή)</string>
-    <string name="gb_adv_touch_custom1">Απόκριση σάρωσης</string>
-    <string name="gb_adv_touch_custom2">Ευαισθησία σε συνεχή αγγίγματα</string>
-    <string name="gb_adv_touch_custom3">Ακρίβεια στόχευσης</string>
-    <string name="gb_adv_touch_custom4">Σταθερότητα αγγίγματος</string>
-    <string name="gb_adv_touch_custom_tip1">Η υψηλότερη απόκριση σάρωσης αυξάνει την ταχύτητα αντίδρασης σε αυτή την κίνηση, ενώ η χαμηλότερη απόκριση σάρωσης κάνει την κίνηση πιο σταθερή.</string>
-    <string name="gb_adv_touch_custom_tip2">Η μεγαλύτερη ευαισθησία σε συνεχή αγγίγματα αυξάνει την ταχύτητα αντίδρασης σε αυτή την κίνηση, ενώ η μικρότερη ευαισθησία κάνει την κίνηση πιο σταθερή.</string>
-    <string name="gb_adv_touch_custom_tip3">Η μεγαλύτερη ακρίβεια στόχευσης καθιστά τις μικρότερες σαρώσεις πιο ακριβείς, ενώ η χαμηλότερη ακρίβεια στόχευσης καθιστά αυτή τη σάρωση πιο σταθερή.</string>
-    <string name="gb_adv_touch_custom_tip4">Η μεγαλύτερη σταθερότητα καθιστά τα αγγίγματα πιο σταθερά, ενώ η χαμηλότερη σταθερότητα αυξάνει την ακρίβεια των μικρότερων σαρώσεων.</string>
-    <string name="gb_adv_touch_custom_title">Προσαρμογή</string>
-    <string name="gb_adv_touch_mode_pro_tips">*Αυτή η λειτουργία είναι σχεδιασμένη για επαγγελματίες παίκτες. Οι κανονικοί παίκτες μπορεί να θεωρούν αυτή τη λειτουργία ενοχλητική.</string>
-    <string name="gb_adv_touch_mode_select_title">Χειρονομίες</string>
-    <string name="gb_adv_touch_pro_title">Λειτουργία Pro</string>
-    <string name="gtb_spring_festival_back_game">Επιστροφή στο παιχνίδι</string>
-    <string name="gtb_spring_festival_goto_gameturbo">Προβολή</string>
-    <string name="summary_password_manager">Η Διαχείριση κωδικών σας επιτρέπει να κρυπτογραφείτε τους κωδικούς πρόσβασής σας και να τους αποθηκεύετε στο cloud</string>
-    <string name="title_password_manager">Ενεργοποίηση Διαχείριση κωδικών</string>
-    <string name="vb_video_super_division">Αναβάθμιση</string>
-    <string name="app_manager_tab_app">Εφαρμογές</string>
-    <string name="app_manager_tab_manager">Διαχείριση</string>
-    <string name="app_manager_to_appstore">Ανακαλύψτε περισσότερες εφαρμογές</string>
-    <string name="app_manager_uninstall_button_text">Απεγκατάσταση</string>
-    <string name="app_manager_uninstall_notify_title">Απεγκατάσταση σπάνιας χρήσης εφαρμ.</string>
-    <string name="app_manager_update">Ενημέρωση</string>
-    <string name="app_manager_updater_notify_message">Ενημέρωση εφαρμογών για πρόσβαση σε νέες δυνατότητες</string>
-    <string name="card_uninstall_button_text">Διαχείριση</string>
-    <string name="card_uninstall_summary">Απεγκατάσταση σπάνιας χρήσης εφαρμ. για την απελευθέρωση χώρου αποθήκευσης</string>
-    <string name="card_uninstall_title_1">Απεγκατάσταση σπάνιας χρήσης εφαρμ.</string>
-    <string name="power_center_battery_health_poor_tip">Φαίνεται ότι η κατάσταση της μπαταρίας είναι χαμηλή. Ελέγξτε την σε ένα εξουσιοδοτημένο κέντρο.</string>
-    <string name="power_center_battery_health_summary">Πλήρης φόρτιση και αποφόρτιση της συσκευής σας %1$d-%2$d φορές για ακρίβεια στατιστικών κατάστασης της μπαταρίας</string>
-    <string name="summary_app_update_new">Ενημέρωση εφαρμογών για πρόσβαση σε νέες λειτουργίες</string>
     <string name="ew_guide_statement_text_new">"Αυτή η αποποίηση ευθυνών ισχύει για όλους τους χρήστες (στο εξής \"εσείς\") που ενεργοποιούν τη δυνατότητα προειδοποίησης σεισμού. Συμφωνώντας με αυτή την αποποίηση ευθυνών, συνάπτετε μια νομικά δεσμευτική σύμβαση με την Xiaomi Inc. και τους συνεργάτες της (εφεξής καλούμενη \"Xiaomi\"). Αναγνωρίζετε ότι έχετε διαβάσει όλα τα περιεχόμενα αυτής της αποποίησης ευθυνών και κατανοείτε πλήρως και συμφωνείτε με όλους τους όρους και τις προϋποθέσεις αυτής της αποποίησης ευθυνών. διαφορετικά, θα πρέπει να απενεργοποιήσετε αμέσως τη λειτουργία προειδοποίησης σεισμού.
 Σύμφωνα με τους σχετικούς νόμους και κανονισμούς, η Xiaomi θα σας παρέχει υπηρεσίες έγκαιρης προειδοποίησης με βάση το πεδίο εφαρμογής της περιοχής έγκαιρης προειδοποίησης για τον σεισμό που καλύπτεται από τους σχετικούς οργανισμούς. Δηλαδή, όταν ενεργοποιήσετε τη λειτουργία προειδοποίησης σεισμού, θα μπορείτε να λαμβάνετε προειδοποιήσεις σεισμού που εκδίδονται για συγκεκριμένες περιοχές. Μπορείτε να βρείτε συγκεκριμένες περιοχές κάλυψης στις Ρυθμίσεις.
 Αυτή η δυνατότητα σας παρέχει λειτουργικότητα προειδοποίησης σεισμού. Πρέπει να κατανοήσετε ότι οι πληροφορίες προειδοποίησης για τον σεισμό παρέχονται από το Ινστιτούτο Υψηλής Τεχνολογίας Μείωσης Καταστροφών του Chengdu. Η Xiaomi δεν εποπτεύει αυτόν τον οργανισμό και δεν έχει κανέναν έλεγχο πάνω του.
