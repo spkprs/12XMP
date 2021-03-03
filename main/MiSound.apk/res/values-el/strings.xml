@@ -39,6 +39,11 @@
     <string name="customization_continue">Συνεχίστε</string>
     <string name="customization_pause_tip">Σταματάτε τώρα τη δοκιμασία; Συνδέστε τα ακουστικά για να συνεχίσετε.</string>
     <string name="customization_quit">Εξοδος</string>
+    <string name="dolby_dax_geq_select_title">Προεπιλογές</string>
+    <string name="dolby_dax_geq_title">Γραφικός ισοσταθμιστής</string>
+    <string name="dolby_dax_profile_dynamic">Δυναμικό</string>
+    <string name="dolby_dax_setting">Dolby εφέ</string>
+    <string name="dolby_dax_title">Περιφεριακός ήχος</string>
     <string name="eq_auto">Προσαρμογή</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_cancel">Ακύρωση</string>
@@ -74,6 +79,7 @@
     <string name="input_hint_prefix">Εισαγωγή %1$s</string>
     <string name="keep_sound">Αποθήκευση προεπιλεγμένου</string>
     <string name="low_pitch">Χαμηλό βήμα</string>
+    <string name="misound_effect_setting">Mi Sound</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>

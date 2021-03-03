@@ -104,4 +104,8 @@
     <item quantity="other">%s ώρες πίσω</item>
     <item quantity="one">%s ώρα πίσω</item>
   </plurals>
+   <plurals name="miuix_appcompat_items_selected">
+     <item quantity="other">%d επιλεγμένα στοιχεία</item>
+     <item quantity="one">%d επιλεγμένο στοιχείο</item>
+   </plurals>
 </resources>
