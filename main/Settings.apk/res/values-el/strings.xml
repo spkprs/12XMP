@@ -5062,7 +5062,7 @@
     <string name="privacy_close_dlg_msg">Όταν ο κωδικός προστασίας απορρήτου είναι απενεργοποιημένος, τα στοιχεία σας δεν θα προστατεύονται πλέον.</string>
     <string name="privacy_close_dlg_title">Προσοχή</string>
     <string name="privacy_dashboard_summary">Άδειες, δραστηριότητα λογαριασμού, προσωπικά δεδομένα</string>
-    <string name="privacy_dashboard_title">Απορρήτου</string>
+    <string name="privacy_dashboard_title">Απόρρητο</string>
     <string name="privacy_delete_space_dlg_message">Για να αλλάξετε τον κωδικό Δεύτερου χώρου, θα πρέπει να διαγράψετε τον τρέχοντα Δεύτερο χώρο και να δημιουργήσετε ένα νέο.</string>
     <string name="privacy_dlg_button_cancel">Ακύρωση</string>
     <string name="privacy_factory_reset_dlg_button_text">Επαναφορά</string>
@@ -6145,6 +6145,7 @@
     <string name="sim_call_back_title">Επιστροφή κλήσης από την προεπιλεγμένη SIM</string>
     <string name="sim_calls_always_use">Πάντα ίδια επιλογή για κλήσεις</string>
     <string name="sim_calls_ask_first_prefs_title">Ερώτηση κάθε φορά</string>
+    <string name="sim_card_lock">Κατάσταση κάρτας SIM</string>
     <string name="sim_card_number_title">SIM %1$d</string>
     <string name="sim_card_select_title">Επιλέξτε κάρτα SIM</string>
     <string name="sim_cards_changed_message">Οι κάρτες SIM άλλαξαν</string>
@@ -7862,7 +7863,7 @@
     <string name="wifi_priority_settings_title">Ρυθμίσεις προτεραιότητας AP</string>
     <string name="wifi_priority_type_summary">Χειροκίνητη ρύθμιση προτεραιότητας για κάθε σημείο πρόσβασης</string>
     <string name="wifi_priority_type_title">Χειροκίνητη ρύθμιση προτεραιότητας AP</string>
-    <string name="wifi_privacy_settings">Απορρήτου</string>
+    <string name="wifi_privacy_settings">Απόρρητο</string>
     <string name="wifi_privacy_settings_ephemeral_summary">Τυχαιοποιημένο MAC</string>
     <string name="wifi_property">Ιδιότητες Wi-Fi</string>
     <string name="wifi_protection_on">Ενεργό</string>

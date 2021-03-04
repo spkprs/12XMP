@@ -1293,6 +1293,7 @@
     <string name="pref_custom_feature_layout_title">Διάταξη Λειτουργιών</string>
     <string name="pref_custom_shutter_sound_title">Ήχος</string>
     <string name="pref_custom_tint_title">Χρωματισμός</string>
+    <string name="pref_customization_style">Προσαρμοσμένο στυλ</string>
     <string name="pref_customization_title">Προσαρμογή</string>
     <string name="pref_document_mode">Έγγραφα</string>
     <string name="pref_dual_camera_video">Διπλό βίντεο</string>
@@ -1510,7 +1511,6 @@
     <string name="timbre_robot">Robot</string>
     <string name="time_lapse_error">Αδύνατη η χρήση αυτού του μεγέθους βίντεο για εγγραφή με χρονική καθυστέρηση</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>
-    <string name="timerburst_pressed_hint">Πατήστε ξανά για διακοπή</string>
     <string name="timefreeze_guide_tip2">Μπορείτε να παγώσετε και να ξεπαγώσετε το φόντο οποιαδήποτε στιγμή πριν ή κατά τη λήψη.</string>
     <string name="timefreeze_guide_tip3">Ζητήστε από το θέμα σας να παραμείνει στο κέντρο του πλαισίου.</string>
     <string name="timefreeze_guide_tip4">Σταματήστε την κίνηση.</string>
@@ -1523,6 +1523,7 @@
     <string name="timer_burst_param_interval">Χρονικό διάστημα</string>
     <string name="timer_burst_param_total_count">Συνολικές Λήψεις</string>
     <string name="timer_burst_setting_total_count">Σύνολο: %1$s</string>
+    <string name="timerburst_pressed_hint">Πατήστε ξανά για διακοπή</string>
     <string name="title_snap_double_confirm">Επιβεβαιώστε ξανά</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Αδύνατη η πολλαπλή λήψη ενώ είναι ενεργοποιημένη η λήψη ήχου</string>
     <string name="toast_saving">Αποθήκευση φωτογραφιών…</string>

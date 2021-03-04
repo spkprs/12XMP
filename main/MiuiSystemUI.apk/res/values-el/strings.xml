@@ -527,8 +527,8 @@
     <string name="bubble_accessibility_action_move_top_left">Μετακίνηση επάνω αριστερά</string>
     <string name="bubble_accessibility_action_move_top_right">Μετακίνηση επάνω δεξιά</string>
     <string name="bubble_content_description_single">%1$s από %2$s</string>
-    <string name="bubble_content_description_stack">%1$s από %2$s και %3$d περισσότερο</string>
-    <string name="bubble_dismiss_text">Απορρίψει</string>
+    <string name="bubble_content_description_stack">%1$s από %2$s και %3$d ακόμη</string>
+    <string name="bubble_dismiss_text">Απόρριψη</string>
     <string name="bubble_overflow_button_content_description">Υπερπλήρωση</string>
     <string name="bubble_overflow_empty_subtitle">Εδώ θα εμφανιστούν οι πρόσφατες φυσαλίδες και οι φυσαλίδες που απορρίφθηκαν</string>
     <string name="bubble_overflow_empty_title">Δεν υπάρχουν πρόσφατες φυσαλίδες</string>
@@ -1276,7 +1276,7 @@
     <string name="magnification_controls_title">Χειριστήρια παραθύρου μεγέθυνσης</string>
     <string name="magnification_overlay_title">Παράθυρο επικάλυψης μεγέθυνσης</string>
     <string name="magnification_window_title">Παράθυρο μεγέθυνσης</string>
-    <string name="manage_bubbles_text">Διαχειρίζονται</string>
+    <string name="manage_bubbles_text">Διαχείριση</string>
     <string name="manage_notifications_history_text">Ιστορικό</string>
     <string name="manage_notifications_text">Διαχείριση</string>
     <string name="managed_profile_foreground_toast">Χρησιμοποιείτε το προφίλ εργασίας σας</string>
@@ -1548,7 +1548,7 @@
     <string name="overview">Επισκόπηση</string>
     <string name="owner_info_settings_edit_text_hint">π.χ  Γιάννης Γιαννόπουλος</string>
     <string name="partial_screenshot_edit">Επεξεργασία</string>
-    <string name="partial_screenshot_repaint">Έναρξη από την αρχή</string>
+    <string name="partial_screenshot_repaint">Επανάληψη</string>
     <string name="partial_screenshot_save">Αποθήκευση</string>
     <string name="partial_screenshot_save_successful">Αποθηκεύτηκε με επιτυχία</string>
     <string name="partial_screenshot_share">Κοινή χρήση</string>
