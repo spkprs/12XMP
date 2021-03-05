@@ -437,6 +437,7 @@
     <string name="navigation_type_title_synonyms_3">Κινήσεις πλήρους οθόνης</string>
     <string name="navigation_type_title_synonyms_4">Πλήκτρο πλοήγησης</string>
     <string name="navigation_type_virtual_key">Πλήκτρα</string>
+    <string name="network_error">"Αδυναμία σύνδεσης στο δίκτυο. Προσπαθήστε ξανά."</string>
     <string name="no_detail_page">Δεν υπάρχουν λεπτομέρειες</string>
     <string name="no_space_toast">Δεν υπάρχει αρκετός χώρος</string>
     <string name="no_space_toast_when_click_widget">Δεν υπάρχει αρκετός χώρος σε αυτήν τη σελίδα. Δοκιμάστε να σύρετε αυτό το στοιχείο σε διαφορετική σελίδα.</string>
@@ -504,7 +505,7 @@
     <string name="recents_empty_message">Χωρίς πρόσφατα στοιχεία</string>
     <string name="recents_empty_message_dismissed_all">Έχετε καθαρίσει τα πάντα</string>
     <string name="recents_empty_message_multi_window">Άνοιγμα εφαρμ. από την Αρχική οθόνη</string>
-    <string name="recents_exit_multi_window_mode">Έξοδος</string>
+    <string name="recents_exit_multi_window_mode">" ΕΞΟΔΟΣ "</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Αδύνατη η χρήση της Διαίρεσης οθόνης κατά την Μετάδοση οθόνης</string>
     <string name="recents_incompatible_app_message">Αυτή η εφαρμ. δεν υποστηρίζεται σε Διαίρεση Οθόνης</string>
     <string name="recents_layout_style">Τακτοποίηση στοιχείων στα πρόσφατα</string>
@@ -542,6 +543,7 @@
     <string name="reset_scene_prompt">H διάταξη θα επανέλθει στην προεπιλογή</string>
     <string name="reset_title">Επαναφορά</string>
     <string name="restore_icon_successful">Προστέθηκε επιτυχώς</string>
+    <string name="russia_preinstall_folder_name">Ρωσία</string>
     <string name="screen_cells_config_title">Διάταξη Αρχικής οθόνης</string>
     <string name="screen_locked_toast">Η διάταξη Αρχική οθόνης είναι κλειδωμένη</string>
     <string name="screen_number">Η %d οθόνη</string>
@@ -551,6 +553,7 @@
     <string name="select_all">Επιλογή όλων</string>
     <string name="select_frame">Κάδρο</string>
     <string name="select_photo">Φωτογραφία</string>
+    <string name="server_error">Παρουσιάστηκε σφάλμα διακομιστή. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
     <string name="setting_wallpaper_tip">Μετακίνηση ή/αλλαγή κλίμακας</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="settings_shortcut">Ρυθμίσεις</string>
