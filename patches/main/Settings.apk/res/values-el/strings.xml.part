@@ -223,7 +223,7 @@
   <string name="volume_gravity_title">Θέση Πίνακα Έντασης</string>
   <string name="volume_one_title">Ελάχιστος</string>
   <string name="volume_panel_summary">Διάρκεια: %s δευτ.</string>
-  <string name="volume_panel_title">Πίνακας έντασης</string>
+  <string name="volume_panel_title">Πίνακας Έντασης ήχων</string>
   <string name="volume_ring_description">Ήχος</string>
   <string name="vpn_icon_title">Απόκρυψη εικονιδίου VPN</string>
   <string name="WCDMA_only">WCDMA μόνο</string>
