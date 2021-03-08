@@ -145,7 +145,7 @@
     <string name="accessibility_service_screen_control_title">Προβολή και τον έλεγχο της οθόνης</string>
     <string name="accessibility_service_warning">%1$s ζητά τον πλήρη έλεγχο αυτής της συσκευής. Η υπηρεσία μπορεί να διαβάσει την οθόνη και να ενεργήσει για λογαριασμό χρηστών με ανάγκες προσβασιμότητας. Αυτό το επίπεδο ελέγχου δεν είναι κατάλληλο για τις περισσότερες εφαρμογές.</string>
     <string name="accessibility_service_warning_description">Ο πλήρης έλεγχος είναι κατάλληλος για εφαρμογές που σας βοηθούν με τις ανάγκες προσβασιμότητας, αλλά όχι για τις περισσότερες εφαρμογές.</string>
-    <string name="accessibility_setting_item_control_timeout_title">Ώρα για δράση (Χρονικό όριο προσβασιμότητας)</string>
+    <string name="accessibility_setting_item_control_timeout_title">Χρόνος ενέργειας (Χρονικό όριο προσβασιμότητας)</string>
     <string name="accessibility_settings">Προσβασιμότητα</string>
     <string name="accessibility_settings_summary">Στοιχεία ελέγχου αναγνώστων οθόνης, αλληλεπίδρασης</string>
     <string name="accessibility_settings_tabs_general">Γενικά</string>
@@ -1297,6 +1297,9 @@
     <string name="bt_ldac_open_dialog_title">Ενεργοποίηση του LDAC;</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Ιδιότητες</string>
+    <string name="bt_leaudio_open_dialog_summary">"Δεν θα μπορείτε να συνδέσετε πολλαπλές συσκευές στο ακουστικό σας όταν το LC3 είναι ενεργοποιημένο. Άλλες συνδεδεμένες συσκευές θα αποσυνδεθούν εάν ενεργοποιήσετε αυτήν τη λειτουργία. Ενεργοποίηση LC3 ;"</string>
+    <string name="bt_leaudio_open_dialog_title">Προσοχή</string>
+    <string name="bt_leaudio_summary">Υψηλής ποιότητας ηχητική εμπειρία</string>
     <string name="bt_lhdc_declaration">Όταν μια συσκευή Bluetooth υποστηρίζει LHDC, θα συνδεθεί από προεπιλογή. Το LHDC επιτρέπει την αναπαραγωγή ήχου υψηλής ποιότητας και μειώνει το χρόνο αναμονής κατά τη διάρκεια των παιχνιδιών, αλλά αυξάνει επίσης την κατανάλωση ενέργειας. Ενδέχεται να προκύψουν προβλήματα κατά την αναπαραγωγή λόγω περιορισμών υλικού Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">Το LHDC επιτρέπει την αναπαραγωγή ήχου υψηλής ποιότητας και μειώνει το χρόνο αναμονής κατά τη διάρκεια των παιχνιδιών, αλλά αυξάνει επίσης την κατανάλωση ενέργειας. Αυτή η δυνατότητα μπορεί να απενεργοποιηθεί στις Ρυθμίσεις.</string>
     <string name="bt_lhdc_dialog_title">Η τρέχουσα συσκευή υποστηρίζει LHDC, η οποία έχει συνδεθεί από προεπιλογή:</string>
@@ -2926,7 +2929,7 @@
     <string name="gxzw_anim_star">Πυροτέχνημα</string>
     <string name="gxzw_anim_title">Ένδειξη αγγίγματος σαρωτή</string>
     <string name="gxzw_aod_show_summary">Σηκώστε τη συσκευή ή αγγίξτε την οθόνη για να εμφανιστεί το εικονίδιο δακτυλικών αποτυπωμάτων. Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας του συστήματος.</string>
-    <string name="gxzw_aod_show_tittle">Εμφάνιση του εικονιδίου δακτυλικών αποτυπωμάτων όταν η οθόνη είναι απενεργοποιημένη</string>
+    <string name="gxzw_aod_show_tittle">Εμφάνιση εικονιδίου δακτ αποτυπ σε ανεν. οθόνη</string>
     <string name="gxzw_dialog_message">Για να λειτουργήσει κανονικά ο αισθητήρας δακτυλικών αποτυπωμάτων οθόνης, μην χρησιμοποιείτε προστατευτικά οθόνης. Αν νομίζετε ότι αυτό να είναι απαραίτητο, επιλέξτε ανάμεσα σε εξουσιοδοτημένες συμβατές επιλογές.</string>
     <string name="gxzw_dialog_not_show_again">Μην επανεμφανιστεί</string>
     <string name="gxzw_dialog_ok">Τέλος</string>

@@ -193,5 +193,9 @@
         <item quantity="other">Μέσος όρος %.2f φορές</item>
         <item quantity="one">Μέσος όρος %.2f φορά</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
+    </plurals>
 </resources>
 

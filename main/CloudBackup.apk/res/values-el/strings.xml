@@ -75,6 +75,7 @@
     <string name="btn_retry">Έλεγχος ξανά</string>
     <string name="btn_skip">Παραλείψτε αυτό το βήμα</string>
     <string name="button_cancel">Ακύρωση</string>
+    <string name="button_confirm">Κατανοητό</string>
     <string name="button_delete">Διαγραφή</string>
     <string name="button_next">Επόμενο</string>
     <string name="can_not_backup_in_lite_mode">"Αδυναμία δημιουργίας σε λειτουργία Lite"</string>
@@ -218,7 +219,8 @@
     <string name="other_device_second_space">Δεύτερος Χώρος</string>
     <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
     <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
-    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="pc_mode_not_support_restore_warning">"Δεν είναι δυνατή η επαναφορά στοιχείων σε λειτουργία PC. Απενεργοποιήστε την και δοκιμάστε ξανά."</string>
+    <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="process_whole_recovery">Επαναφορά του \"%s\"</string>
     <string name="provision_back">Πίσω</string>
     <string name="provision_background_restore_more_data">Επαναφορά περισσότερων στοιχείων στο παρασκήνιο</string>

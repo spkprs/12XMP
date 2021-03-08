@@ -564,8 +564,8 @@
     <string name="cancel">Ακύρωση</string>
     <string name="car_lockscreen_disclaimer_text">Να είστε ενήμεροι για τις συνθήκες οδήγησης και να τηρείτε πάντα τους ισχύοντες νόμους. Οι οδηγίες ενδέχεται να είναι ανακριβείς, ελλιπείς, επικίνδυνες, ακατάλληλες, απαγορευμένες ή να περιλαμβάνουν διέλευση από διοικητικές περιοχές. Οι επιχειρηματικές πληροφορίες μπορεί επίσης να είναι ανακριβείς ή ελλιπείς. Τα δεδομένα δεν είναι σε πραγματικό χρόνο και η ακρίβεια της τοποθεσίας δεν είναι εγγυημένη. Μη χειρίζεστε την κινητή συσκευή σας ή χρησιμοποιείτε εφαρμογές που δεν προορίζονται για Android Auto κατά την οδήγηση.</string>
     <string name="car_lockscreen_disclaimer_title">Οδηγείτε προσεκτικά</string>
-    <string name="category_personal">Προσωπικά</string>
-    <string name="category_work">Εργασία</string>
+    <string name="category_personal">Προσωπικός</string>
+    <string name="category_work">Εργασίας</string>
     <string name="cell_data_off">Off</string>
     <string name="cell_data_off_content_description">Δεδομένα κινητού off</string>
     <string name="change_theme_reboot">Η αλλαγή του θέματος απαιτεί επανεκκίνηση.</string>
@@ -824,6 +824,7 @@
     <string name="face_unlock_reveal_mouth">Δείξτε τα χείλη σας</string>
     <string name="face_unlock_success">Ξεκλειδώθηκε με επιτυχία</string>
     <string name="failed_to_open_app_settings_toast">Αδύνατο άνοιγμα ρυθμίσεων για %1$s</string>
+    <string name="finger_error_single_mode">"Αδύνατη η χρήση σαρωτή δακτυλ. αποτυπωμ. σε λειτουργία με Ένα χέρι. Πραγματοποιήστε έξοδο από τη λειτουργία με Ένα χέρι και δοκιμάστε ξανά."</string>
     <string name="fingerprint_add_text">Η διεπαφή Δακτυλικού αποτυπώματος ενημερώθηκε. Προσθέστε ξανά το Δακτυλικό σας αποτύπωμα.</string>
     <string name="fingerprint_add_title">Προσθήκη Δακτ.αποτυπώματος</string>
     <string name="fingerprint_again_identified_msg">Το Δακτυλικό σας αποτύπωμα είναι ενεργό τώρα. Χρησιμοποιήστε το για να ξεκλειδώσετε τη συσκευή ή πληκτρολογήστε τον κωδικό πρόσβασης.</string>

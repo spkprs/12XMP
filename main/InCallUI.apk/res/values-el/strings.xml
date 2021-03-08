@@ -2,6 +2,7 @@
 <resources>
     <string name="ai_assistant">Βοηθός κλήσης AI</string>
     <string name="ai_assistant_not_installed">Πρώτα η εγκατάσταση του Βοηθού κλήσεων AI</string>
+    <string name="ai_dial">AI Κλήση</string>
     <string name="ai_mode_auto">Αυτόματα</string>
     <string name="ai_mode_manual">Μη αυτόματα</string>
     <string name="ai_mode_subtitles">Υπότιτλοι</string>

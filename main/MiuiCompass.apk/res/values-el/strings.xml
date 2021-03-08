@@ -72,6 +72,7 @@
      <string name="expand_button_title">Προχωρημένες</string>
      <string name="first_using_dialog_message">Η Πυξίδα χρειάζεται να χρησιμοποιήσει το δίκτυο της συσκευή σας, κάμερα, και υπηρεσία τοποθεσίας για να λειτουργήσει κανονικά.</string>
      <string name="first_using_dialog_title">Άδεια πρόσβασης</string>
+     <string name="gradienter_title">Στάθμη</string>
      <string name="guide_toast">Για βαθμονόμηση, κινήστε τη συσκευή σας όπως φαίνεται παρακάτω.</string>
      <string name="keywords_search_compass">Compass;Calibrate compass;Pressure;Altitude;Latitude;Longtitude;Check longtitude; Check latitude;MIUI Compass;Compass app;MIUI Compass app;Where is Compass;Download Compass;Atmospheric pressure; Check altitude;How much is the altitude</string>
      <string name="latitude">LAT</string>

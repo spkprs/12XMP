@@ -157,9 +157,9 @@
   <string name="bugreport_in_power">Σύντομη αναφορά αναφοράς σφαλμάτων</string>
   <string name="bugreport_in_power_summary">Εμφάνιση ενός κουμπιού στο μενού ενέργειας για λήψη μιας αναφοράς σφάλματος</string>
   <string name="button_convert_fbe">Σκουπίστε και μετατρέψτε…</string>
-  <string name="cancel">Ματαίωση</string>
-  <string name="category_personal">Προσωπικά</string>
-  <string name="category_work">Εργασία</string>
+  <string name="cancel">Ακύρωση</string>
+  <string name="category_personal">Προσωπικός</string>
+  <string name="category_work">Εργασίας</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="character_counter_content_description">Οι χαρακτήρες έχουν εισαχθεί %1$d του %2$d</string>
   <string name="character_counter_overflowed_content_description">Υπέρβαση ορίου χαρακτήρων %1$d του %2$d</string>
