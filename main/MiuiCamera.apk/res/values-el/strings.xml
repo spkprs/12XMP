@@ -556,11 +556,11 @@
     <string name="dual_video_record_merged">Συνδυασμένο</string>
     <string name="dual_video_record_remote">Εγγραφή Διπλού τηλεφώνου</string>
     <string name="dual_video_record_standalone">Διαχωρισμένο</string>
-    <string name="dual_video_user_guide_remote_content">"Η εγγραφή διπλού τηλεφώνου επιτρέπει το συνδυασμό τροφοδοσιών από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση τόσο των ροών όσο και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγραφεί μόνο από αυτή τη συσκευή."</string>
-    <string name="dual_video_user_guide_remote_p">Τηλέφωνο %d</string>
     <string name="dual_video_user_guide_main_content">Για να δημιουργήσετε βίντεο με πολλές κάμερες, επιλέξτε δύο κάμερες στη συσκευή σας και πραγματοποιήστε ταυτόχρονα λήψη. Οι εγγραφές μπορούν να αποθηκευτούν ξεχωριστά ή να συνδυαστούν σε διαιρεμένη προβολή ή βίντεο με εικόνα σε εικόνα.</string>
     <string name="dual_video_user_guide_main_title">Βίντεο πολλαπλών καμερών</string>
     <string name="dual_video_user_guide_merge_content">Λήψη με δύο κάμερες ταυτόχρονα και συνδυάστε εγγραφές σε διαιρεμένη προβολή ή βίντεο με εικόνα σε εικόνα.</string>
+    <string name="dual_video_user_guide_remote_content">"Η εγγραφή διπλού τηλεφώνου επιτρέπει το συνδυασμό τροφοδοσιών από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση τόσο των ροών όσο και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγραφεί μόνο από αυτή τη συσκευή."</string>
+    <string name="dual_video_user_guide_remote_p">Τηλέφωνο %d</string>
     <string name="dual_video_user_guide_standalone_content">Λήψη με δύο κάμερες ταυτόχρονα και αποθηκεύστε και τις δύο εγγραφές ως ξεχωριστά βίντεο.</string>
     <string name="edit_blusher">Ρούζ</string>
     <string name="edit_chin">Πηγούνι</string>
@@ -1407,7 +1407,9 @@
     <string name="pref_wind_denoise_title">Φίλτρο αέρα</string>
     <string name="prek_b_j_o">Δημιουργήστε στερεοφωνικό εφέ περιβάλλοντος</string>
     <string name="prek_b_j_p">Μειώστε την επίδραση του ανέμου στην ηχογράφηση</string>
-    <string name="prep_video_ai_audio_single_desc_tip">Φιλτράρετε τους ήχους πίσω από την οθόνη κατά την εγγραφή</string>
+    <string name="prep_video_ai_audio_new_desc_tip">Ενισχύονται οι ήχοι από το επίκεντρο του θέματος</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Οι ήχοι πίσω από την οθόνη φιλτράρονται</string>
+    <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Το ζουμ ήχου δεν λειτουργεί άμεσα στο ακουστικό και εξωτερικό μικρόφωνο"</string>
     <string name="preparing_sd">Έλεγχος SD card…</string>
     <string name="preview_back_pressed_hint">Πατήστε ξανά για να επιστρέψετε στην προεπισκόπηση</string>
     <string name="pro_color_mode">Χρώμα Pro</string>
