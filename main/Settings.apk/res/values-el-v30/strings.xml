@@ -326,9 +326,9 @@
     <string name="lockpassword_choose_your_pattern_header_for_face">Ρυθμ. μοτίβο για χρήση του Ξεκλείδωμα προσώπου</string>
     <string name="lockpassword_choose_your_pin_header_for_face">Για να χρησιμοποιήσετε το Ξεκλείδωμα προσώπου, ορίστε ένα PIN</string>
     <string name="lockpassword_choose_your_pin_title">Εισάγετε %1$d-%2$d ψηφία</string>
-    <string name="lockpassword_confirm_your_work_password_header">Εισαγάγετε κωδικό πρόσβασης εργασίας</string>
-    <string name="lockpassword_confirm_your_work_pattern_header">Εισαγάγετε μοτίβο εργασίας</string>
-    <string name="lockpassword_confirm_your_work_pin_header">Εισαγάγετε PIN εργασίας</string>
+    <string name="lockpassword_confirm_your_work_password_header">Εισάγετε κωδικό πρόσβασης εργασίας</string>
+    <string name="lockpassword_confirm_your_work_pattern_header">Εισάγετε μοτίβο εργασίας</string>
+    <string name="lockpassword_confirm_your_work_pin_header">Εισάγετε PIN εργασίας</string>
     <string name="lockpassword_forgot_password">Ξεχάσατε τον κωδικό πρόσβασής σας;</string>
     <string name="lockpassword_forgot_pattern">Ξεχάσατε το μοτίβο σας;</string>
     <string name="lockpassword_forgot_pin">Ξεχάσατε το PIN σας;</string>

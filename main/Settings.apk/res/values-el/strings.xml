@@ -3631,7 +3631,7 @@
     <string name="lockpassword_confirm_your_lock_pattern_header">Επιβεβαίωση μοτίβου</string>
     <string name="lockpassword_confirm_your_password_details_frp">Το τηλέφωνό σας επαναφέρθηκε στις εργοστασιακές ρυθμίσεις. Για να χρησιμοποιήσετε αυτό το τηλέφωνο, εισαγάγετε τον προηγούμενο κωδικό πρόσβασής σας.</string>
     <string name="lockpassword_confirm_your_password_generic">Εισάγετε τον κωδικό της συσκευής σας για να συνεχίσετε.</string>
-    <string name="lockpassword_confirm_your_password_generic_profile">Εισαγάγετε τον κωδικό πρόσβασης εργασίας για να συνεχίσετε</string>
+    <string name="lockpassword_confirm_your_password_generic_profile">Εισάγετε τον κωδικό πρόσβασης εργασίας για να συνεχίσετε</string>
     <string name="lockpassword_confirm_your_password_header">Επιβεβαιώστε τον κωδικό</string>
     <string name="lockpassword_confirm_your_password_header_frp">Επιβεβαιώστε τον κωδικό πρόσβασης</string>
     <string name="lockpassword_confirm_your_pattern_details_frp">Το τηλέφωνό σας επαναφέρθηκε στις εργοστασιακές ρυθμίσεις. Για να χρησιμοποιήσετε αυτό το τηλέφωνο, εισαγάγετε το προηγούμενο μοτίβο σας.</string>
@@ -4818,7 +4818,7 @@
     <string name="permission_settings_summary">Διαχείριση Αδειών σχετικά με τοποθεσία, αποθήκευση, τηλέφωνο, μηνύματα και επαφές.</string>
     <string name="permission_settings_title">Άδειες εφαρμογών</string>
     <string name="permissions_label">Άδειες</string>
-    <string name="permit_draw_overlay">Να επιτρέπεται η επικάλυψη άλλων εφαρμογών</string>
+    <string name="permit_draw_overlay">Αποδοχή επικάλυψης άλλων εφαρ.</string>
     <string name="permit_running_network">Δεδομένα παρασκηνίου</string>
     <string name="permit_usage_access">Να επιτρέπεται η πρόσβαση χρήσης</string>
     <string name="permit_write_settings">Να επιτρέπεται η τροποποίηση ρυθμίσεων συστήματος</string>
@@ -5079,7 +5079,7 @@
     <string name="privacy_factory_reset_dlg_button_text">Επαναφορά</string>
     <string name="privacy_factory_reset_dlg_message">Εάν ξεχάσετε τον κωδικό πρόσβασής σας, θα πρέπει να πραγματοποιήσετε επαναφορά εργοστασιακών ρυθμίσεων για να ορίσετε νέο.</string>
     <string name="privacy_factory_reset_dlg_title">Δημιουργία αντιγράφου ασφαλείας των δεδομένων σας</string>
-    <string name="privacy_failed_need_to_unlock_nofingerprint">Εισαγάγετε κωδικό πρόσβασης πριν χρησιμοποιήσετε νέο αποτύπωμα</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">Εισάγετε κωδικό πρόσβασης πριν χρησιμοποιήσετε νέο αποτύπωμα</string>
     <string name="privacy_file">Αρχεία</string>
     <string name="privacy_gallery">Φωτογραφίες</string>
     <string name="privacy_header_text_less_than_half">Πολύ μικρό. Σύρετε λίγο περισσότερο.</string>
@@ -5401,7 +5401,7 @@
     <string name="restriction_settings_title">Περιορισμοί</string>
     <string name="restriction_wifi_config_summary">Επιτρέπουν την τροποποίηση του Wi-Fi και Mobile ρυθμίσεις</string>
     <string name="restriction_wifi_config_title">Wi-Fi και Mobile</string>
-    <string name="retail_demo_reset_message">Εισαγάγετε κωδικό πρόσβασης για επαναφορά εργοστασιακών ρυθμίσεων στη λειτουργία επίδειξης</string>
+    <string name="retail_demo_reset_message">Εισάγετε κωδικό πρόσβασης για επαναφορά εργοστασιακών ρυθμίσεων στη λειτουργία επίδειξης</string>
     <string name="retail_demo_reset_next">Επόμενο</string>
     <string name="retail_demo_reset_title">Απαιτείται κωδικός πρόσβασης</string>
     <string name="retry">Επανάληψη</string>

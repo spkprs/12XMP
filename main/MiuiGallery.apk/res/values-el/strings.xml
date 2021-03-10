@@ -759,7 +759,7 @@
     <string name="face_confirm">Αυτό είναι το ίδιο πρόσωπο</string>
     <string name="face_move_dialog_title">Επιλέξτε ένα άλμπουμ</string>
     <string name="face_name_edit">Επεξεργασία</string>
-    <string name="face_name_input">Εισαγάγετε το όνομα</string>
+    <string name="face_name_input">Εισάγετε το όνομα</string>
     <string name="face_recommend">Συστάσεις</string>
     <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Αποτυχία ενέργειας.</string>
@@ -1051,8 +1051,8 @@
     <string name="input_baby_name">Εισάγετε το όνομα</string>
     <string name="input_baby_nick_name">Εισάγετε το ψευδώνυμο</string>
     <string name="input_nickname_toast">Εισάγετε το όνομα του μωρού</string>
-    <string name="input_or_select_a_name">Εισαγάγετε ή επιλέξτε ένα όνομα</string>
-    <string name="input_relation_name">Εισαγάγετε το όνομα της ομάδας</string>
+    <string name="input_or_select_a_name">Εισάγετε ή επιλέξτε ένα όνομα</string>
+    <string name="input_relation_name">Εισάγετε το όνομα της ομάδας</string>
     <string name="install_fail">Δεν ήταν δυνατή η φόρτωση της προσθήκης λόγω σφάλματος.</string>
     <string name="internal_storage_device">Εσωτερική αποθήκευση</string>
     <string name="invalid_invition_url">Λάθος πρόσκλησης URL.</string>
@@ -1146,9 +1146,9 @@
     <string name="magic_idp_guide_text5">"Μην αφήνετε τα μαλλιά να σας εμποδίζουν, δείξτε τα αυτιά σας και κοιτάξτε κατευθείαν στην κάμερα."</string>
     <string name="magic_idp_save_type">Αποθήκευση αποτελεσμάτων</string>
     <string name="magic_idp_search_size">Αναζήτηση μορφών</string>
-    <string name="magic_idp_search_text">Εισαγάγετε λέξεις-κλειδιά, μέγεθος ή ανάλυση</string>
-    <string name="magic_idp_size_mm_error">Εισαγάγετε μια τιμή μεταξύ %1$d και %2$d χιλιοστών</string>
-    <string name="magic_idp_size_px_error">Εισαγάγετε μια τιμή μεταξύ %1$d και %2$d εικονοστοιχείων</string>
+    <string name="magic_idp_search_text">Εισάγετε λέξεις-κλειδιά, μέγεθος ή ανάλυση</string>
+    <string name="magic_idp_size_mm_error">Εισάγετε μια τιμή μεταξύ %1$d και %2$d χιλιοστών</string>
+    <string name="magic_idp_size_px_error">Εισάγετε μια τιμή μεταξύ %1$d και %2$d εικονοστοιχείων</string>
     <string name="magic_main_more">Εφέ βίντεο</string>
     <string name="magic_make_save_1">Αποθήκευση διάταξης</string>
     <string name="magic_make_save_title">Αποθήκευση μίας εικόνας</string>
@@ -1332,8 +1332,8 @@
     <string name="movie_video_short">%dδ</string>
     <string name="multi_file_name">%1$s, %2$s</string>
     <string name="multi_view_tip_button_text">Κατανοητό</string>
-    <string name="multi_view_tip_sub_title">Απλώστε δύο δάχτυλα ή μετακινήστε τα το ένα προς το άλλο για να προσαρμόσετε το μέγεθος των εμφανιζόμενα στοιχείων.</string>
-    <string name="multi_view_tip_title">Zooming in and out</string>
+    <string name="multi_view_tip_sub_title">Ανοίξτε ή κλείστε δύο δάκτυλα για αλλαγή μεγέθους</string>
+    <string name="multi_view_tip_title">Μεγέθυνση ή σμίκρυνση</string>
     <string name="must_pick_file">Επιλογή εικόνας</string>
     <string name="name_split">, </string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
@@ -2048,7 +2048,7 @@
     <string name="text_append_color">Χρώμα</string>
     <string name="text_append_font">Γραμματοσειρά</string>
     <string name="text_append_font_example">Aa</string>
-    <string name="text_append_hint">Εισαγάγετε κείμενο</string>
+    <string name="text_append_hint">Εισάγετε κείμενο</string>
     <string name="text_append_style">Φούσκα</string>
     <string name="text_append_transparent">Αδιαφάνεια</string>
     <string name="text_edit_dialog_font">Γραμματοσειρά</string>

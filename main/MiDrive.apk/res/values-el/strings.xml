@@ -35,7 +35,7 @@
     <string name="account_change_message">Μεταβείτε σε λογαριασμό %1$s. Θα δείτε τα δεδομένα του Mi Drive που σχετίζονται με αυτόν τον λογαριασμό.</string>
     <string name="account_change_title">Αλλαγή λογαριασμών</string>
     <string name="account_crop_user_avatar">Περικοπή φωτογραφίας</string>
-    <string name="account_empty_user_name">Εισαγάγετε το όνομα χρήστη του λογαριασμού Mi</string>
+    <string name="account_empty_user_name">Εισάγετε το όνομα χρήστη του λογαριασμού Mi</string>
     <string name="account_error_all_space_user_name">Το όνομα χρήστη δεν μπορεί να περιέχει μόνο χαρακτήρες διαστήματος</string>
     <string name="account_error_invalid_user_name">Το όνομα δεν μπορεί να περιέχει &lt; > ή /</string>
     <string name="account_error_longer_user_name">Το όνομα δεν μπορεί να υπερβαίνει τους 20 χαρακτήρες</string>
@@ -155,7 +155,7 @@
     <string name="dialog_copy_storage_full_desc">Αδύντη η αντιγραφή στοιχείων λόγω ανεπαρκούς χώρου στο cloud. Αναβαθμίστε το σχέδιό σας για περισσότερο χώρο.</string>
     <string name="dialog_copy_storage_full_title">Δεν είναι δυνατή η αντιγραφή</string>
     <string name="dialog_immediately_open">Ενεργοποίηση</string>
-    <string name="dialog_new_folder_hint">Εισαγάγετε το όνομα του φακέλου</string>
+    <string name="dialog_new_folder_hint">Εισάγετε το όνομα του φακέλου</string>
     <string name="dialog_new_folder_title">Νέος φάκελος</string>
     <string name="dialog_open_ai_recommend_ppt_to_pdf_content">Οι φωτογραφίες διαφανειών που είναι αποθηκευμένες στο cloud μπορούν να προσαρμοστούν και να μετατραπούν αυτόματα σε PDF. Να ενεργοποιηθεί τώρα αυτή η δυνατότητα;</string>
     <string name="dialog_select_photo_title">Επιλογή πηγής εικόνας</string>
@@ -232,7 +232,7 @@
     <string name="file_list_item_desc">%1$s | %2$s</string>
     <string name="file_no_file_desc">Δεν υπάρχουν αντικείμενα εδώ ακόμα.</string>
     <string name="file_no_file_sub_desc">Πατήστε το συν για να αποστείλετε αρχεία.</string>
-    <string name="file_picker_loading">Μόνο ένα λεπτό.…</string>
+    <string name="file_picker_loading">Μισό λεπτό.…</string>
     <string name="file_picker_no_file">Δεν υπάρχουν στοιχεία εδώ</string>
     <string name="file_picker_title">Επιλογή στοιχείων</string>
     <string name="file_send_no_support">Δεν είναι δυνατή η κοινή χρήση αρχείων αυτού του τύπου</string>
@@ -393,8 +393,8 @@
     <string name="passport_input_password_hint">Εισάγετε τον κωδικό πρόσβασης</string>
     <string name="passport_input_phone_hint">Εισάγετε τον αριθμό τηλεφώνου</string>
     <string name="passport_input_vcode_hint">Βάλτε κωδικό επιβεβαίωσης</string>
-    <string name="passport_input_voice_captcha_hint">Εισαγάγετε τον κωδικό φωνητικής επαλήθευσης</string>
-    <string name="passport_input_voice_hint">Εισαγάγετε τον κωδικό φωνής</string>
+    <string name="passport_input_voice_captcha_hint">Εισάγετε τον κωδικό φωνητικής επαλήθευσης</string>
+    <string name="passport_input_voice_hint">Εισάγετε τον κωδικό φωνής</string>
     <string name="passport_international_phone_password_login_tip">(Οι χρήστες εκτός Κίνας πρέπει να εισαγάγουν τον αριθμό του κινητού τηλεφώνου στην ακόλουθη μορφή: + [κωδικός περιοχής] [αριθμός τηλεφώνου], π.χ.: +91 817282982)</string>
     <string name="passport_log_detail">Δείτε λεπτομέρειες</string>
     <string name="passport_login_failed">Δεν ήταν δυνατή η σύνδεση</string>
@@ -431,7 +431,7 @@
     <string name="passport_unknow_network_error">Παρουσιάστηκε σφάλμα δικτύου</string>
     <string name="passport_user_agreement_link">&lt;Data>Έχω διαβάσει και αποδέχομαι τους Xiaomi &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική απορρήτου&lt;/a>.&lt;/Data></string>
     <string name="passport_user_agreement_link_more">&lt;Data>Έχω διαβάσει και συμφωνώ με τα ακόλουθα έγγραφα: Xiaomi &lt;a href=%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική απορρήτου&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_id_intro">Εισαγάγετε τον κωδικό πρόσβασης για %1$s</string>
+    <string name="passport_user_id_intro">Εισάγετε τον κωδικό πρόσβασης για %1$s</string>
     <string name="passport_v_code_error">Ο κωδικός επαλήθευσης είναι λανθασμένος</string>
     <string name="passport_vcode_notification_title">Η επαλήθευση σύνδεσης δεν είναι πλήρης</string>
     <string name="passport_vcode_prompt_long">Βάλτε κωδικό επιβεβαίωσης</string>
@@ -504,7 +504,7 @@
     <string name="save_pdf">Αποθήκευση</string>
     <string name="saving_pdf">Αποθήκευση…</string>
     <string name="search_cancel">Ακύρωση</string>
-    <string name="search_error_hint">Εισαγάγετε λέξεις-κλειδιά για αναζήτηση</string>
+    <string name="search_error_hint">Εισάγετε λέξεις-κλειδιά για αναζήτηση</string>
     <string name="search_file_no_file">Δεν ήταν δυνατή η εύρεση αποτελεσμάτων</string>
     <string name="search_hint">Αναζήτηση</string>
     <string name="search_max_length">Το αίτημά σας για αναζήτηση είναι πολύ μεγάλο</string>
@@ -522,10 +522,13 @@
     <string name="set_lock_password_dialog_title">Ορισμός νέου κωδικού</string>
     <string name="set_success">Άλλαξε με επιτυχία</string>
     <string name="setting_clear_cache">Εκκαθάριση προσωρινής μνήμης</string>
+    <string name="setting_create_shortcut">Συντόμευση στην Αρχική</string>
     <string name="setting_default_download_dir">Προεπιλεγμένη τοποθεσία λήψης</string>
     <string name="setting_default_download_dir_title">Επιλέξτε την προεπιλεγμένη τοποθεσία λήψης</string>
     <string name="setting_no_download_path">Επιλέξτε πρώτα την προεπιλεγμένη τοποθεσία λήψης</string>
     <string name="setting_title">Ρυθμίσεις</string>
+    <string name="shortcut_dialog_confirm">Δημιουργία</string>
+    <string name="shortcut_dialog_content">Δημιουργία συντ/σης στην Αρχική οθόνη του Mi Drive?</string>
     <string name="sign_in">Σύνδεση</string>
     <string name="sign_in_progress">Σύνδεση…</string>
     <string name="sign_in_title">Συνδεθείτε με τον λογαριασμό σας Mi</string>
@@ -558,8 +561,10 @@
     <string name="temporary_not_available">Αυτή η λειτουργία δεν είναι ακόμη διαθέσιμη</string>
     <string name="text_select_all">Επιλογή όλων</string>
     <string name="text_select_nothing">Αποεπιλογή όλων</string>
+    <string name="tip_shortcut_added_success">Επιτυχής δημιουργία</string>
+    <string name="tip_shortcut_already_added">Η συντόμευση στην Αρχική υπάρχει ήδη.</string>
     <string name="ticket_hint">Κωδικός επαλήθευσης</string>
-    <string name="ticket_invalid">Ο κωδικός που εισαγάγατε είναι λανθασμένος</string>
+    <string name="ticket_invalid">Ο κωδικός που εισάγατε είναι λανθασμένος</string>
     <string name="ticket_sign_in">Συνδεθείτε μέσω SMS</string>
     <string name="title_blank">" "</string>
     <string name="transfer_done">Ολοκληρώθηκε</string>
