@@ -223,6 +223,7 @@
     <string name="delete_category_dialog_content">Δεν θα μπορείτε να επαναφέρετε αυτή την κατηγορία εάν τη διαγράψετε. Να διαγραφεί οπωσδήποτε;</string>
     <string name="delete_category_dialog_title">Να διαγραφεί αυτή η κατηγορία;</string>
     <string name="delete_screen">Διαγραφή οθόνης</string>
+    <string name="deleted_system_applications">Απεγκ/μένες εφαρμ. Συστήματος</string>
     <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
     <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="disable_wallpaper_scroll">Απενεργοποίηση κύλισης ταπετσαρίας</string>
@@ -594,6 +595,8 @@
     <string name="switch_personal_assistant_none">Χωρίς</string>
     <string name="switch_screen_button_order">Αντίθετα Πλήκτρα</string>
     <string name="switch_screen_button_order_desc">Αντίθετα Πλήκτρα Πίσω και Μενού</string>
+    <string name="remove_sys_app_content">"Θα μπορέσετε να προσθέσετε ξανά τη συντόμευση της Αρχικής οθόνης στις Ρυθμίσεις > Εφαρμογές > Διαχείριση συντομεύσεων αρχικής οθόνης. Κατάργηση;"</string>
+    <string name="remove_sys_app_title">Κατάργηση συντόμευσης της Αρχικής οθόνης;</string>
     <string name="system_shortcuts_more_operation">Πληροφορ.</string>
     <string name="system_shortcuts_remove">Αφαίρεση</string>
     <string name="system_text">Σύστημα</string>
@@ -604,7 +607,7 @@
     <string name="toast_screen_icons_misplaced">Έγινε επαναφορά από άλλη πηγή. Ορισμένα εικονίδια μπορεί να είναι σε λάθος θέση</string>
     <string name="toggle_select_title">Επιλογή κουμπιού</string>
     <string name="toggle_title">Κουμπιά</string>
-    <string name="transformation_type_classic">Υπέριαφάνεια</string>
+    <string name="transformation_type_classic">Υπέρδιαφάνεια</string>
     <string name="transformation_type_classic_no_overshoot">Διαφάνεια</string>
     <string name="transformation_type_crossfade">Σβήσιμο</string>
     <string name="transformation_type_cube">Κύβος</string>
