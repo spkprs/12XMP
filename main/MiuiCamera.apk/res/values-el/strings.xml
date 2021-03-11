@@ -511,6 +511,7 @@
     <string name="dialog_button_connect">Σύνδεση</string>
     <string name="dialog_button_disconnect">Έξοδος</string>
     <string name="dialog_button_exit">Απενεργοποίηση</string>
+    <string name="dialog_button_goto">Ρυθμίσεις</string>
     <string name="dialog_button_ok">OK</string>
     <string name="dialog_button_reject">Απόρριψη</string>
     <string name="dialog_button_scan">Αναζήτηση συσκευών</string>
@@ -1428,6 +1429,7 @@
     <string name="remote_online_interrupted">Σε αποσύνδεση. Συνδεθείτε ξανά για να συνεχίσετε.</string>
     <string name="remote_online_introduction_i">"Η εγγραφή Διπλού τηλεφώνου επιτρέπει το συνδυασμό τροφοδοσιών από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση τόσο των ροών όσο και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγραφεί μόνο από αυτή τη συσκευή."</string>
     <string name="remote_online_introduction_ii">Για να λειτουργήσει αυτή η δυνατότητα, η άλλη συσκευή Mi ή Redmi πρέπει να υποστηρίζει εγγραφή Διπλού τηλεφώνου. Μπορεί να ενεργοποιηθεί χρησιμοποιώντας τον διακόπτη στο Κέντρο Ελέγχου.</string>
+    <string name="remote_online_permission">"Αλλάξτε το δικαίωμα τοποθεσίας της Κάμερας σε \"Επιτρέπεται μόνο κατά τη χρήση της εφαρμογής\" για να μπορείτε να χρησιμοποιείτε την εγγραφή διπλού τηλεφώνου."</string>
     <string name="remote_online_searching">Αναζήτηση συσκευών…</string>
     <string name="remote_online_service_name">Εγγραφή Διπλού τηλεφώνου</string>
     <string name="remote_online_unavailable">"Δεν ήταν δυνατή η εύρεση κοντινών συσκευών"</string>
