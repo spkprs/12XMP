@@ -494,9 +494,9 @@
     <string name="xspace_enable">Δημιουργήθηκε</string>
     <string name="xspace_facebook_title">FaceBook</string>
     <string name="xspace_guide_content_bound">Διαθέσιμες εφαρμογές</string>
-    <string name="xspace_guide_des">Οι διπλές εφαρμογές σάς επιτρέπουν να χρησιμοποιείτε δύο λογαριασμούς ταυτόχρονα χωρίς εναλλαγή μεταξύ τους</string>
+    <string name="xspace_guide_des">Χρήση εφαρμ. με δύο λογ/σμούς ταυτόχρονα</string>
     <string name="xspace_guide_description">Κάθε λογαριασμός\nαξίζει τη δική του εφαρμογή</string>
-    <string name="xspace_guide_title">Δοκιμάστε Διπλές εφαρμογές</string>
+    <string name="xspace_guide_title">Δοκιμάστε Διπλές εφαρμ.</string>
     <string name="xspace_header">Διπλές εφαρμογές</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>Επιτυχής δημιουργία Διπλής εφαρμογής. &lt;/font>&lt;font color=#0D84FF>Άνοιγμα τώρα&lt;/font>.</string>
