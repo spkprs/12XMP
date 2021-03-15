@@ -149,6 +149,7 @@
     <string name="notification_playback">Αναπαραγωγή…</string>
     <string name="notification_recording">Ηχογράφηση…</string>
     <string name="notification_recording_ticker">Τηλέφωνο σε σίγαση.</string>
+    <string name="notification_save_as_complete">Αποθηκεύτηκε επιτυχώς</string>
     <string name="notification_stopped">Η ηχογράφηση σταμάτησε</string>
     <string name="notification_title_all_paused">Λήψη σε παύση</string>
     <string name="offline_recognize_progress">Τοπική αναγνώριση %s...</string>
@@ -308,6 +309,7 @@
     <string name="rename_no_more_tip">Να μην εμφανιστεί ξανά</string>
     <string name="retry">Επανάληψη</string>
     <string name="runtime_permission_ungranted">Αδυναμία χρήσης της Ηχογράφησης λόγω ανεπαρκών δικαιωμάτων</string>
+    <string name="save_as">Αποθήκευση ως</string>
     <string name="save_record_dialog_title">Αποθήκευση εγγραφής</string>
     <string name="search_app">Ηχογράφηση</string>
     <string name="search_empty">"Δεν ήταν δυνατή η εύρεση αποτελεσμάτων"</string>

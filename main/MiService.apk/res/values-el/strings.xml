@@ -102,6 +102,7 @@
     <string name="chinese_symbol_animals_snake">蛇</string>
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">Σαφή</string>
+    <string name="close">Κλείστε</string>
     <string name="date_picker_lunar">Chinese Traditional Calendar</string>
     <string name="early_morning">Πρωί</string>
     <string name="earthly_branches_chen">辰</string>
@@ -431,6 +432,7 @@
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
     <string name="search_menu_title">Εύρεση</string>
+    <string name="send">Αποστολή</string>
     <string name="share_cancel">Η κοινή χρήση ακυρώθηκε</string>
     <string name="share_failed">Δεν ήταν δυνατή η κοινή χρήση</string>
     <string name="share_no_network">Δεν ήταν δυνατή η σύνδεση στο δίκτυο</string>

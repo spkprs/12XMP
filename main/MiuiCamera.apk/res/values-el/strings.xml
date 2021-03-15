@@ -1323,7 +1323,7 @@
     <string name="pref_hdr10plus_video_mode_description">Βελτιστοποιεί τα χρώματα &amp; την αντίθεση για βίντεο 4K και 8K. Αυτή η δυνατότητα λειτουργεί μόνο σε συσκευές συμβατές με HDR10+.</string>
     <string name="pref_i_n_r_b">Έξυπνη μείωση θορύβου</string>
     <string name="pref_k_h">Ζωντανής μετάδοσης ενδοωτικά ακουστικά</string>
-    <string name="pref_k_s_i">Αναπαραγωγή εγγεγραμμένου ήχου στα ακουστικά όταν είναι συνδεδεμένα</string>
+    <string name="pref_k_s_i">Παρακολούθηση ηχογραφημένου ήχου με τα ακουστικά όταν είναι συνδεδεμένα</string>
     <string name="pref_lens_dirty_detect_summary">Λήψη ειδοποίησης όταν ο φακός είναι βρώμικος</string>
     <string name="pref_lens_dirty_detect_title">Ειδοποίηση για βρώμικο φακό</string>
     <string name="pref_live_duration_title">Διάρκεια ζωντανής μετάδοσης</string>

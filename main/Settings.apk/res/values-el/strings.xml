@@ -3967,6 +3967,7 @@
     <string name="miheadset_ignore">Κατάργηση ζεύξης</string>
     <string name="miheadset_in_ear_check">Ανίχνευση παρουσίας ακουστικών</string>
     <string name="miheadset_in_ear_check_summary">Παύση και συνέχιση της αναπαραγωγής αυτόματα καθώς φοράτε ή αφαιρείτε ακουστικά</string>
+    <string name="miheadset_key_config_ANC_list_title">Έλεγχος θορύβου</string>
     <string name="miheadset_key_config_call_ai">Βοηθός φωνής</string>
     <string name="miheadset_key_config_close">Off</string>
     <string name="miheadset_key_config_close_summary">Απενεργοποίηση ακύρωσης θορύβου και διαφάνειας</string>

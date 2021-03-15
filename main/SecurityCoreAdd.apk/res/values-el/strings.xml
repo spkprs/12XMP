@@ -508,7 +508,7 @@
     <string name="xspace_label">Διπλές εφαρμογές</string>
     <string name="xspace_loading_msg">Φόρτωση εφαρμογών…</string>
     <string name="xspace_notification">Ειδοποιήσεις διπλής εφαρμογής</string>
-    <string name="xspace_notification_button">Δοκιμάστε</string>
+    <string name="xspace_notification_button">Δοκιμή</string>
     <string name="xspace_notification_error">Συνδεθείτε σε διπλό WeChat και δοκιμάστε ξανά</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">"Διαγραφή λογαριασμών Διπλών εφαρμογών"</string>
