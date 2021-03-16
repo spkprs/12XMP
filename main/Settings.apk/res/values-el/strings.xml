@@ -3919,7 +3919,10 @@
     <string name="miheadset_ancBalance">Μεσαία</string>
     <string name="miheadset_ancClosed">Off</string>
     <string name="miheadset_ancDecrease">Χαμηλή</string>
+    <string name="miheadset_ancHigh">Πτήση</string>
     <string name="miheadset_ancIncrease">Υψηλή</string>
+    <string name="miheadset_ancLow">Γραφείο</string>
+    <string name="miheadset_ancMedium">Καθημερινά</string>
     <string name="miheadset_anc_indicate">Σύνδεση και ζεύξη ακουστικών</string>
     <string name="miheadset_audio_mode">Ποιότητα ήχου</string>
     <string name="miheadset_audio_mode_high">Υψηλή</string>

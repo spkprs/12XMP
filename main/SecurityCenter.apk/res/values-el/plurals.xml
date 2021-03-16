@@ -797,4 +797,17 @@
         <item quantity="other">&lt;Data>Ενημέρωση &lt;font color=#F22424>%d&lt;/font> εφαρμ.&lt;/Data></item>
         <item quantity="one">&lt;Data>Ενημέρωση &lt;font color=#F22424>%d&lt;/font> εφαρμ.&lt;/Data></item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Γρήγορη προώθηση %d δευτ.</item>
+        <item quantity="one">Γρήγορη προώθηση %d δευτ.</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Επαναφορά %d δευτ.</item>
+        <item quantity="one">Επαναφορά %d δευτ.</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτ.</item>
+        <item quantity="one">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτ.</item>
+    </plurals>
 </resources>
+
