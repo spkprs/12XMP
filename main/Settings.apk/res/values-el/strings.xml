@@ -1525,7 +1525,9 @@
     <string name="cmcc_hardware_version">Έκδοση υλικού</string>
     <string name="codec_low_latency_summary">Ελαχιστοποίηση χρόνου αναμονής κατά το συγχρονισμό ήχου παιχνιδιών και βίντεο</string>
     <string name="codec_low_latency_title">Χαμηλή Απόκριση</string>
-    <string name="codec_low_latency_video_summary">Παρέχει ηχητική εμπειρία μικρού χρόνου καθυστέρησης για παιχνίδια και βίντεο, καθιστώντας το συγχρονισμό ήχου και εικόνας πιο φυσικό.</string>
+    <string name="codec_low_latency_video_summary">Παρέχει ηχητική εμπειρία μικρού χρόνου καθυστέρησης στα παιχνίδια και βίντεο, καθιστώντας το συγχρονισμό ήχου και εικόνας πιο φυσικό.</string>
+    <string name="codec_low_latency_zmi_summary">Μειώνει την καθυστέρηση ήχου και βελτιώνει αυτόματα τα ηχητικά εφέ στα παιχνίδια</string>
+    <string name="codec_low_latency_zmi_title">Μείωση καθυστέρησης παιχνιδιού</string>
     <string name="color_black">Μαύρο</string>
     <string name="color_blue">Μπλε</string>
     <string name="color_calibration_none">Ουδέτερο</string>
