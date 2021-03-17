@@ -855,6 +855,8 @@
     <string name="resource_wallpaper_download">Λήψη ταπετσαρίας</string>
     <string name="restore_home_icon_text">Προσθήκη συντόμευσης στην Αρχική οθόνη</string>
     <string name="restore_icon_later">Μπορείτε να προσθέσετε ξανά τη συντόμευση στην Αρχική οθόνη στις "Ρυθμίσεις"</string>
+    <string name="ringtone_confirm_dialog_message">"Η διάρκεια αυτού του ήχου είναι σχετικά μεγάλη. Να χρησιμοποιηθεί;"</string>
+    <string name="ringtone_confirm_dialog_title">Προσοχή</string>
     <string name="ringtone_set_success">Ορίστηκε με επιτυχία</string>
     <string name="saturday">Σάββατο</string>
     <string name="scrollable_wallpaper_close">Απενεργοποίηση κύλισης</string>
@@ -880,7 +882,7 @@
     <string name="set_as_colorring">Ορισμός ως προσαρμοσμένου τόνου κουδουνίσματος</string>
     <string name="set_color_ring_back_tone">Ορισμός προσαρμοσμένου τόνου επιστροφής</string>
     <string name="set_home_wallpaper_failed">%s. Δεν είναι δυνατή η εφαρμογή ταπετσαρίας στην Αρχική οθόνη.</string>
-    <string name="set_wallpaper_group_success">%1$s εφαρμόστηκε.\nΘα βλέπετε μια νέα εικόνα κάθε ώρα.</string>
+    <string name="set_wallpaper_group_success">Η εφαρμογή της ταπετσαρίας \"%1$s\" ολοκληρώθηκε με επιτυχία</string>
     <string name="setting_font_online">Διαδικτυακές γραμματοσειρές</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="settings_search_keyword_font_free">Δωρεάν γραμ/σειρές</string>
