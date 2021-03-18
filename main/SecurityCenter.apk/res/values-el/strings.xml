@@ -72,14 +72,14 @@
     <string name="ac_notification_action_text">Ενεργ/ση</string>
     <string name="ac_notification_contentText">Απόκρυψη ευαίσθητων πληροφοριών χρησιμοποιώντας έναν κωδικό πρόσβασης</string>
     <string name="ac_notification_contentTitle">Δοκιμάστε το Κλείδωμα εφαρμογής!</string>
-    <string name="ac_post_notification_contentText">Μπορεί να προστατεύσει κάθε είδους ευαίσθητες εφαρμογές</string>
-    <string name="ac_post_notification_contentTitle">Προστασία εφαρμογών με Κλείδωμα εφαρμογών</string>
+    <string name="ac_post_notification_contentText">Για κάθε είδους ευαίσθ. εφαρμ</string>
+    <string name="ac_post_notification_contentTitle">Προστασία με Κλείδωμα εφαρμ</string>
     <string name="ac_pre_notification_contentText">Προστασία απόρρητού σας</string>
     <string name="ac_pre_notification_contentTitle">Δοκιμάστε το κλείδ. εφαρμ.</string>
     <string name="ac_recommend_guide_dialog_app_content">Χρησιμοποιήστε το Κλείδωμα εφαρμογής με αυτήν την εφαρμογή για να προστατεύσετε τα προσωπικά σας στοιχεία και να αποφύγετε τις διαρροές δεδομένων.</string>
     <string name="ac_recommend_guide_dialog_content">Μπορείτε να προστατεύσετε τα προσωπικά σας στοιχεία και να αποφύγετε τις διαρροές δεδομένων χρησιμοποιώντας το Κλείδωμα εφαρμογής.</string>
     <string name="ac_recommend_guide_dialog_ignore">Να μην εμφανιστεί ξανά</string>
-    <string name="ac_recommend_guide_dialog_open">Ενεργοποίηση</string>
+    <string name="ac_recommend_guide_dialog_open">Ενεργ/ση</string>
     <string name="ac_summaryOff">Ανενεργό. Δεν απαιτείται κωδικός για το άνοιγμα εφαρμογών</string>
     <string name="ac_summaryOn">Εισαγωγή κωδικού για άνοιγμα προστατευμένων εφαρμογών</string>
     <string name="ac_unmask_all_apps">Προβολή σε όλες</string>
