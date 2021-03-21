@@ -7811,12 +7811,13 @@
     <string name="wifi_link_turbo_customize">Προσαρμοσμένες εφαρμογές</string>
     <string name="wifi_link_turbo_customize_summary">Επιλέξτε εφαρμογές που θα λειτουργούν με το Βοηθό WiFi σύμφωνα με τις προτιμήσεις σας</string>
     <string name="wifi_link_turbo_list">Εφαρμογές</string>
+    <string name="wifi_link_turbo_mode">Λειτουργία ενίσχυσης ταχύτητας</string>
     <string name="wifi_link_turbo_no_app">Δεν υπάρχουν ακόμα εφαρμογές εδώ.</string>
     <string name="wifi_link_turbo_off">Off</string>
     <string name="wifi_link_turbo_on">On</string>
     <string name="wifi_link_turbo_recommendation">Προτεινόμενες εφαρμογές</string>
     <string name="wifi_link_turbo_recommendation_summary">Λήψη προτάσεων με βάση στατιστικά στοιχεία χρήσης δεδομένων</string>
-    <string name="wifi_link_turbo_summary">Αυξήστε την ταχύτητα σύνδεσης για επιλεγμένες εφαρμογές με χρήση δεδομένων κινητής όταν η σύνδεση WiFi είναι ασθενής</string>
+    <string name="wifi_link_turbo_summary">Χρήση δεδομένων κινητής για αύξηση ταχύτητα σύνδεσης. Η λειτουργία αυτή μπορεί να δημιουργήσει πρόσθετες χρεώσεις φορέα.</string>
     <string name="wifi_menu_advanced">Για προχωρημένους</string>
     <string name="wifi_menu_configure">Διαμόρφωση</string>
     <string name="wifi_menu_connect">Σύνδεση στο δίκτυο</string>

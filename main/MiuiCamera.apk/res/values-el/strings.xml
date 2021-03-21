@@ -73,6 +73,7 @@
     <string name="accessibility_document_blackwhite_button">Σάρωση εγγράφων. Μαύρο και Άσπρο.</string>
     <string name="accessibility_document_origin_button">Σάρωση εγγράφων. Πρωτότυπο.</string>
     <string name="accessibility_document_strengthen_button">Σάρωση εγγράφων. Βελτιωμένο.</string>
+    <string name="accessibility_double_click_to_exit">Πατήστε δύο φορές για έξοδο</string>
     <string name="accessibility_dual_preview_change">Προβολή αλλαγών</string>
     <string name="accessibility_dual_preview_change_finish">Οι αλλαγές προβλήθηκαν με επιτυχία</string>
     <string name="accessibility_dual_video_merged">Συνδυασμένα βίντεο</string>
@@ -114,6 +115,7 @@
     <string name="accessibility_live_preview_button">Προβολή προηγούμενου στοιχείου</string>
     <string name="accessibility_live_reverse_button">Διαγραφή προηγούμενου αποσπάσματος</string>
     <string name="accessibility_live_speed_panel_on">Πίνακας ταχύτητας</string>
+    <string name="accessibility_lock_focus_success">Κλειδώθηκε η εστίαση επιτυχώς</string>
     <string name="accessibility_manually_custom_panel_on">Πίνακας προσαρμογής</string>
     <string name="accessibility_mimoji_background_panel_on">Πίνακας φόντων</string>
     <string name="accessibility_mimoji_gif_off">GIF λειτουργία ανενεργή</string>
@@ -176,6 +178,8 @@
     <string name="accessibility_timer_burst_image_off">Η χρονική ριπή είναι απενεργοποιημένη</string>
     <string name="accessibility_timer_burst_image_on">Η χρονική ριπή είναι ενεργοποιημένη</string>
     <string name="accessibility_timer_burst_text">Πίνακας προσαρμογής χρονικής ριπής</string>
+    <string name="accessibility_touch_focus_fail">"Αδυναμία Εστίασης"</string>
+    <string name="accessibility_touch_focus_success">Εστιάστηκε επιτυχώς</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD ανενεργό</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD ενεργό</string>
     <string name="accessibility_ultra_wide_off">Υπέρ Ευρεία γωνία, Ανενεργή</string>

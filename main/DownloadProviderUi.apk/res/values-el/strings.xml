@@ -524,9 +524,13 @@
      <string name="third_web_title">Αποθήκευση</string>
      <string name="thunder_download_speedup">Ενίσχυση ταχύτητας με χρήση Xunlei…</string>
      <string name="time_consume">Διάρκεια</string>
+     <string name="tip_download_icon_restore">Προσθήκη συντόμευσης \"Λήψεις\" στην αρχική οθόνη</string>
+     <string name="tip_download_icon_retry">"Δεν ήταν δυνατή η προσθήκη συντόμευσης. Δοκιμάστε ξανά."</string>
      <string name="title_homepage_infoflow">Πρόσφατες ενημερώσεις</string>
      <string name="title_tips">Προσοχή</string>
      <string name="title_unbind_xunlei">Κατάργηση του λογαριασμού σας Xunlei</string>
+     <string name="toast_download_icon_restore_fail">"Δεν ήταν δυνατή η προσθήκη συντόμευσης"</string>
+     <string name="toast_download_icon_restore_success">Προστέθηκε με επιτυχία</string>
      <string name="toast_only_wifi_download">Συνδεθείτε σε Wi‑Fi για να λάβετε αυτό το στοιχείο</string>
      <string name="toast_update_data_limit_fail">Δεν ήταν δυνατή η ρύθμιση</string>
      <string name="toast_xunlei_engine_open">Ενεργοποίηση επιτάχυνσης λήψεων Xunlei</string>

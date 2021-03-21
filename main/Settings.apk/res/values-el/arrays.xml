@@ -1637,9 +1637,17 @@
     <item>Κλίμακα κίνησης 5.0x</item>
     <item>Κλίμακα κίνησης 10x</item>
   </string-array>
-    <string-array name="tabs_taptic_detail">
-        <item>Crisp</item>
-        <item>Βασική</item>
-        <item>Pop</item>
-    </string-array>
+  <string-array name="tabs_taptic_detail">
+    <item>Crisp</item>
+    <item>Βασική</item>
+    <item>Pop</item>
+  </string-array>
+  <string-array name="wifi_link_turbo_mode_entries">
+    <item>Βοηθητική</item>
+    <item>Πλήρης</item>
+  </string-array>
+  <string-array name="wifi_link_turbo_mode_summary_entries">
+    <item>Αυξήστε την ταχύτητα με δεδομένα κινητής μόνο όταν το σήμα WIFI είναι χαμηλό</item>
+    <item>Συνδυάστε δεδομένα WIFI και δεδομένα κινητής για να αυξήσετε την ταχύτητα σύνδεσης</item>
+  </string-array>
 </resources>
