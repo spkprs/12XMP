@@ -709,7 +709,7 @@
     <string name="sst_morning_greeting_title">Λάβετε πρωινούς χαιρετισμούς</string>
     <string name="sst_morning_history_desc">Δείτε προηγούμενους πρωινούς χαιρετισμούς</string>
     <string name="sst_morning_history_title">Ιστορικό πρωινών χαιρετισμών</string>
-    <string name="sst_new_feature">Νέες δυνατότητες</string>
+    <string name="sst_new_feature">Νέες λειτουργίες</string>
     <string name="sst_no_favor_wallpaper_hint">Δεν υπάρχουν αγαπημένες ταπετσαρίες</string>
     <string name="sst_privacy_policy_title">Πολιτική Απορρήτου</string>
     <string name="sst_prov_enable_desc">Αποκτήστε νέες ταπετσαρίες που παραδίδονται στην οθόνη κλειδώματος τακτικά</string>
@@ -807,7 +807,7 @@
     <string name="ticket_sign_in">Συνδεθείτε μέσω SMS</string>
     <string name="time_current">Μόλις τώρα</string>
     <string name="time_interval_dialog_content1">Η ταπετσαρία Carousel σάς επιτρέπει να βλέπετε μια νέα εικόνα κάθε φορά που ξεκλειδώνετε τη συσκευή.</string>
-    <string name="time_interval_dialog_content2">Μπορείτε να αλλάξετε τη συχνότητα ταπετσαρίας στις \"Ρυθμίσεις > Συχνότητα ενημέρωσης\".</string>
+    <string name="time_interval_dialog_content2">Αλλάξτε τη συχνότητα εικόνων στις \"Ρυθμίσεις > Προβολή παρουσίασης > Συχνότητα ενημέρωσης\".</string>
     <string name="time_picker_dialog_title">Ορισμός ώρας</string>
     <string name="toast_ad_down_tip">Λήψη εφαρμογής…</string>
     <string name="toast_ad_down_tip2">Λήψη %s…</string>
@@ -820,7 +820,7 @@
     <string name="toast_update_no_more_newest_feeds">Δεν υπάρχουν νέα στοιχεία για τώρα</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
-    <string name="top_search_tip">Αναζητήστε τις κατηγορίες που σας αρέσουν</string>
+    <string name="top_search_tip">Αναζήτηση κατηγοριών που σας αρέσουν</string>
     <string name="torch">Φακός</string>
     <string name="tuesday">Τρίτη</string>
     <string name="understand_band_story">Μάθε περισσότερα</string>
