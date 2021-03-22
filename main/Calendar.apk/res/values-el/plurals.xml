@@ -212,4 +212,8 @@
     <item quantity="other">%d εργάσιμες μέρες</item>
     <item quantity="one">%d εργάσιμη μέρα</item>
   </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="other">%d επιλεγμένα στοιχεία</item>
+    <item quantity="one">%d επιλεγμένο στοιχείο</item>
+  </plurals>
 </resources>

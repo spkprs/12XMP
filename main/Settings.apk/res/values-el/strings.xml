@@ -280,7 +280,11 @@
     <string name="add_fingerprint_toast_text">Τοποθετήστε το δάκτυλό σας στο σαρωτή τώρα</string>
     <string name="add_front_fingerprint_instruction_msg">Ο αισθητήρας δακτυλικών αποτυπωμάτων βρίσκεται στο πίσω μέρος της συσκευής σας.</string>
     <string name="add_new">Προσθήκη</string>
+    <string name="add_one_text_app_name_once">Μπορείτε να προσθέσετε ένα πακέτο κάθε φορά</string>
     <string name="add_rule">Προσθήκη κανόνων</string>
+    <string name="add_text_app_name">Προσθήκη δοκιμαστικού πακέτου εφαρμογής</string>
+    <string name="add_text_app_name_here">Εισαγωγή ονόματος πακέτου</string>
+    <string name="add_text_app_package_name">Προσθήκη δοκιμαστικού πακέτου εφαρμογής</string>
     <string name="add_virtual_keyboard">Διαχείριση πληκτρολογίων</string>
     <string name="adding_profile_owner_warning">Εάν συνεχίσετε, ο Χρήστης σας θα διαχειρίζεται από το Διαχειριστή σας ο οποίος θα είναι σε θέση να αποθηκεύσει σχετικά δεδομένα εκτός από τα προσωπικά σας δεδομένα.\n\nΟ Διαχειριστής σας έχει τη δυνατότητα να παρακολουθεί και να διαχειρίζεται τις ρυθμίσεις, πρόσβαση, εφαρμογές και δεδομένα που σχετίζονται με αυτόν τον Χρήστη, συμπεριλαμβανομένης και της δραστηριότητας των δικτύων και των πληροφοριών για τον εντοπισμό της συσκευής σας.</string>
     <string name="additional_battery_info">Ειδοποιήσεις χρήσης</string>

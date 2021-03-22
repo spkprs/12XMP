@@ -134,7 +134,9 @@
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="calendar_account_settings">Ρυθμίσεις λογαριασμού</string>
     <string name="calendar_import_source">Διαδρομή προέλευσης</string>
+    <string name="calendar_privacy_policy">Πολιτική απορρήτου</string>
     <string name="calendar_subscription_group_title">Συνδρομές ημερολογίου</string>
+    <string name="calendar_user_agreement">Συμφωνία Χρήστη</string>
     <string name="can_not_create_long_event">Το περιεχόμενο είναι πολύ μεγάλο</string>
     <string name="can_not_modify_allday_event">Αδυναμία αλλαγής του ολοήμερου γεγονότος</string>
     <string name="can_not_modify_event">Αδυναμία αλλαγής γεγονότος</string>
@@ -255,6 +257,7 @@
     <string name="cold_dews">寒露</string>
     <string name="cold_dews_tradition">寒露</string>
     <string name="content_confirm_close_chinese_calendar">Όλα τα συμβάντα σας με βάση το ημερολόγιο παραδοσιακού κινέζικου θα μετατραπούν στο ημερολόγιο της Γρηγοριανής μετά την απενεργοποίηση αυτής της λειτουργίας. Χρόνια και μήνες του Γρηγοριανού ημερολογίου θα χρησιμοποιηθούν για επαναλαμβανόμενα συμβάντα.</string>
+    <string name="copy">Αντιγραφή</string>
     <string name="copy_email">Αντιγραφή email</string>
     <string name="copy_number">Αντιγραφή τηλεφώνου</string>
     <string name="countdown_event_title">Αντίστροφη μέτρηση: %1$s</string>
@@ -403,6 +406,7 @@
     <string name="event_title">Τίτλος</string>
     <string name="event_view">Προβολή γεγονότος</string>
     <string name="every_weekday">Δευ έως Παρ</string>
+    <string name="expand_button_title">Σύνθετα</string>
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
@@ -707,10 +711,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το σύννεφο</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -848,6 +855,7 @@
     <string name="no_visiable_calendar_select_account">Προσθήκη</string>
     <string name="no_visiable_calendar_title">Προσθήκη λογαριασμού</string>
     <string name="noon">PM</string>
+    <string name="not_set">Δεν έχει οριστεί</string>
     <string name="notification_channel_name">Κανονικές υπενθυμίσεις</string>
     <string name="notification_channel_name_no_sound">Σιωπηρές υπενθυμίσεις</string>
     <string name="notification_channel_name_no_vibration">Υπενθυμίσεις χωρίς δόνηση</string>
@@ -883,6 +891,7 @@
     <string name="pref_reminder_time">Ώρα υπενθύμισης</string>
     <string name="pref_title_alarm_remind">Ήχος υπενθύμισης</string>
     <string name="pref_title_no_remind">Χωρίς υπενθύμιση</string>
+    <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="preferences_alarm_default_event_title">Ρύθμιση υπενθύμισης συναγερμού</string>
     <string name="preferences_alarms_category_title">Υπενθυμίσεις συναγερμού</string>
     <string name="preferences_alarms_default_event">Επιλογή συμβάντων</string>
@@ -916,6 +925,7 @@
     <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Έναρξη εβδομάδος</string>
     <string name="preferences_week_start_day_title">Έναρξη εβδομάδος</string>
+    <string name="prefsx_notify_sound_none">Σίγαση</string>
     <string name="premission_description_agree">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Διαδίκτυο και να εκχωρήσει τις υποχρεωτικές Άδειες που αναφέρονται παραπάνω.</string>
     <string name="premission_description_calendar">Για την προσθήκη και την εμφάνιση των εκδηλώσεών σας</string>
     <string name="premission_description_contact">Για την εμφάνιση γενεθλίων των επαφών σας</string>
@@ -1334,6 +1344,8 @@
     <string name="user_notice_button_ok">OK</string>
     <string name="user_notice_message">Πρέπει να συμφωνήσετε με την %1$s και την %2$s πριν χρησιμοποιήσετε το ημερολόγιο. Για την παροχή ακριβών δεδομένων σχετικά με τις τοπικές αργίες, τα γενέθλια, τις επιστροφές πιστωτικών καρτών και τα προγραμματισμένα ταξίδια, το ημερολόγιο πρέπει να έχει πρόσβαση στην τοποθεσία, τις επαφές και τα μηνύματά σας, καθώς και σύνδεση στο Internet. Συμφωνείτε?</string>
     <string name="user_notice_title">Ειδοποίηση χρήστη</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
     <string name="valentines_day">情人节</string>
     <string name="valentines_day_tradition">情人節</string>
     <string name="vernal_equinox">春分</string>

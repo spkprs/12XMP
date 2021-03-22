@@ -1494,6 +1494,7 @@
     <string name="gamebooster_network_dialog_title">Μερικές λειτουργίες δεν είναι διαθέσιμες</string>
     <string name="gamebox_app_not_find">Εγκατάσταση της εφαρμογής πρώτα.</string>
     <string name="gamebox_browser_not_find">Εγκαταστήστε πρώτα το πρόγραμμα περιήγησης Mi</string>
+    <string name="gamebox_collimator">Θέαμα</string>
     <string name="gamebox_display_1">Χωρίς</string>
     <string name="gamebox_display_2">Έντονα</string>
     <string name="gamebox_display_3">Φωτεινά</string>
@@ -1522,6 +1523,7 @@
     <string name="gamebox_qq_not_find">Εγκαταστήστε QQ και δοκιμάστε ξανά.</string>
     <string name="gamebox_recent_task_expand_fail">Οι εφαρμογές που λειτουργούν με συντομεύσεις δεν έχουν εγκατασταθεί</string>
     <string name="gamebox_simcard">Switch SIM cards</string>
+    <string name="gamebox_time">Χρονόμετρο</string>
     <string name="gamebox_type_close">Χωρίς εμφάνιση</string>
     <string name="gamebox_type_float">Διόρθωση συντόμευσης</string>
     <string name="gamebox_type_gesture">Σύρετε για εμφάνιση</string>
@@ -1573,6 +1575,10 @@
     <string name="gb_advance_settings_vibration_4d_summary2">Δόνηση κατά τη διάρκεια θανάτου στο παιχνίδι</string>
     <string name="gb_audition_instruction">Πατήστε παρατεταμένα για εγγραφή (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Χρήση ακουστικών για το καλύτερο εφέ</string>
+    <string name="gb_collimator_color">Χρώμα</string>
+    <string name="gb_collimator_size">Μέγεθος</string>
+    <string name="gb_collimator_style">Τύπος</string>
+    <string name="gb_collimator_toast">Ένα θέαμα κάνει το στόχο πολύ πιο βολικό</string>
     <string name="gb_create_icon_summary">Δημιουργία συντόμευσης αρχικής οθόνης</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">Απάντηση</string>
@@ -1607,6 +1613,7 @@
     <string name="gb_game_end_toast">Επανεπισκεφτείτε τις βασικές στιγμές των παιχνιδιών σας</string>
     <string name="gb_game_macro_bubble_tips">Δοκιμάστε συνδυασμούς</string>
     <string name="gb_game_macro_toast_tips">Δοκιμάστε συνδυασμούς!\nΚαταγράψτε ακολουθίες και χρησιμοποιήστε τις ανά πάσα στιγμή!</string>
+    <string name="gb_game_time_toast">Το χρονόμετρο είναι διαθέσιμο τώρα!</string>
     <string name="gb_game_video_bottom_tips">Επανεξετάστε σημαντικές στιγμές από τις συνεδρίες παιχνιδιού σας στο Game Turbo. Τα βίντεο θα διαγραφούν αυτόματα μετά από 7 ημέρες.</string>
     <string name="gb_game_video_item_tag">Βασικές στιγμές</string>
     <string name="gb_game_video_page_delete_success">Διαγράφηκε με επιτυχία</string>
@@ -1634,6 +1641,7 @@
     <string name="gb_msg_transparent_dispaly_summary">Διαφανές</string>
     <string name="gb_network_status_bad">Παρουσιάστηκε σφάλμα σύνδεσης.</string>
     <string name="gb_new_feature">Νέο χαρακτηριστικό</string>
+    <string name="gb_not_support_on_device">"Αυτή η εφαρμογή δεν μπορεί να χρησιμοποιηθεί στην εξωτερική οθόνη"</string>
     <string name="gb_operat_frequently">Όχι τόσο γρήγορα!</string>
     <string name="gb_shortcut_pref_title">Συντόμευση στην Αρχική Οθόνη</string>
     <string name="gb_shoulder_key">Κουμπιά Ώμου</string>
@@ -4118,6 +4126,7 @@
     <string name="vb_quick_func_screen_record">Εγγραφή</string>
     <string name="vb_quick_func_screening">Μετάδοση</string>
     <string name="vb_settings">Ρυθμίσεις</string>
+    <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Αυτά τα εφέ εφαρμόζονται σε ολόκληρη την οθόνη</string>
     <string name="vb_ve_settings_pic_border_stronger">Βελτιωμένα περιγράμματα</string>
     <string name="vb_ve_settings_picture_stronger">Βελτιωμένα κινούμενα γραφικά</string>
@@ -4167,6 +4176,7 @@
     <string name="virus_wait_network_dialog_message">Το τηλέφωνό σας δεν είναι συνδεδεμένο σε δίκτυο Wi-Fi τώρα. Θα χρεωθείτε δεδομένα κινητής τηλεφωνίας. Συνέχεια ?</string>
     <string name="voltage_symbol">V</string>
     <string name="vtb_func_desc">Πληροφορίες για αυτήν τη λειτουργία</string>
+    <string name="vtb_func_display_style_desc0">AI μπορεί να αναγνωρίσει ανθρώπους, ζώα, φυτά, ουρανό, κτίρια και άλλα αντικείμενα που παρουσιάζονται σε βίντεο και να τα ενισχύσει δυναμικά.</string>
     <string name="vtb_func_display_style_desc1">"Τα επιλεγμένα εφέ δεν θα εφαρμοστούν σε βίντεο HDR σε επιλεγμένες συσκευές."</string>
     <string name="vtb_func_display_style_desc2">Αυτά τα εφέ δεν μπορούν να εφαρμοστούν σε στιγμιότυπα οθόνης.</string>
     <string name="vtb_func_frc_desc0">Η ομαλοποίηση της κίνησης μειώνει το θόλωμα και προσθέτει λεπτομέρειες στα κινούμενα αντικείμενα. Η χρήση αυτής της δυνατότητας αυξάνει την κατανάλωση ενέργειας.</string>

@@ -23,6 +23,7 @@
     <string name="click_to_restore">Επαναφέρετε τα στοιχεία του συστήματος για να μπορείτε να χρησιμοποιείτε κανονικά το MIUI μετά από μια Εργοστασιακή επαναφορά. Πατήστε για εκκίνηση.</string>
     <string name="close">Κλείστε</string>
     <string name="com_android_email">Mail</string>
+    <string name="com_android_soundrecorder">Εγγραφέας</string>
     <string name="com_mi_liveassistant">Βοηθός ζωντανής ροής</string>
     <string name="com_miui_calculator">Αριθμομηχανή</string>
     <string name="com_miui_cleanmaster">Καθαριστής</string>
