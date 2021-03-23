@@ -3922,6 +3922,7 @@
     <string name="miheadset_LeftEar">Αριστερό</string>
     <string name="miheadset_RightEar">Δεξιό</string>
     <string name="miheadset_active">Ενεργό</string>
+    <string name="miheadset_adaptive">Προσαρμοστικό</string>
     <string name="miheadset_ancBalance">Μεσαία</string>
     <string name="miheadset_ancClosed">Off</string>
     <string name="miheadset_ancDecrease">Χαμηλή</string>
