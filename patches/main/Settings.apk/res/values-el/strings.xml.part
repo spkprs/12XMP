@@ -274,5 +274,9 @@
   <string name="show_type_name_wifi_summary">Εμφάνιση τύπου δικτύου με ενεργό Wi-Fi</string>
   <string name="show_blur_folder_title">Θόλωση παρασκηνίου Φακέλων</string>
   <string name="show_blur_recent_title">Θόλωση παρασκηνίου Προσφάτων</string>
+  <string name="adb_notify_title">ADB ειδοποιήσεις</string>
+  <string name="adb_notify_summary">Προβολή ειδοποιήσεων σχετικά με αποσφαλματωση</string>
+  <string name="charging_notify_title">USB ειδοποιήσεις</string>
+  <string name="charging_notify_summary">Προβολή ειδοποιήσεων σχετικά με σύνδεση USB</string>
 </resources>
 

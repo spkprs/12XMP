@@ -466,9 +466,11 @@
     <string name="widget_cta_not_agree">Πατήστε για να λάβετε πληροφορίες καιρού</string>
     <string name="wind_direction_no_data">Άνεμος</string>
     <string name="wind_power_unit_default">0</string>
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="xiaomi_weather_description_content">Ο Καιρός σας παρέχει με ακριβείς πληροφορίες καιρού. Χωρίς την εφαρμογή αυτή, η γραμμή κατάστασης και το widget Καιρού Αρχικής οθόνης δεν θα λειτουργούν κανονικά. Βεβαωθείτε πως δεν χρειάζεστε πλέον τις λειτουργίες αυτές πριν την απεγκατάσταση της εφαρμογής.</string>
-    <string name="xiaomi_weather_description_title">Σχετικά με Καιρό</string>
+    <string name="wind_unit">%1$skm/ω</string>
+    <string name="xiaomi_weather_description_content">"Ο \"Καιρός\" είναι εφαρμογή συστήματος. Δεν θα μπορείτε να προβάλετε μετεωρολογικές πληροφορίες ή σχετικά γραφικά στοιχεία μετά την απεγκατάσταση της εφαρμογής."</string>
+    <string name="xiaomi_weather_description_title">Απεγκατάσταση \"Καιρός\"?</string>
+    <string name="xiaomi_weather_description_content_remove">"Ο \"Καιρός\" είναι εφαρμογή συστήματος. Δεν θα μπορείτε να προβάλετε μετεωρολογικές πληροφορίες ή σχετικά γραφικά στοιχεία αφού καταργήσετε τη συντόμευση στην αρχική οθόνη."</string>
+    <string name="xiaomi_weather_description_title_remove">Κατάργηση του \"Καιρός\" από την αρχική οθόνη;</string>
     <string name="yes_vote_ratio">Υπέρ %1$s%%</string>
     <string name="your_location">Η τοποθεσία σας</string>
 </resources>
