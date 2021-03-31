@@ -140,10 +140,12 @@
     <string name="music_headphone_settings">Επιλογή τύπου ακουστικών</string>
     <string name="music_headset_audio_visual">Οπτικά εφέ</string>
     <string name="music_headset_audio_visual_apply">Εφαρμογή</string>
+    <string name="music_headset_audio_visual_mute">Προεπισκόπηση χωρίς ήχο</string>
     <string name="music_headset_audio_visual_style">Στυλ οπτικών εφέ</string>
     <string name="music_headset_audio_visual_style_summary">Επιλογή στυλ για οπτικά εφέ</string>
     <string name="music_headset_audio_visual_summary">Συνοδεία ήχου με οπτικά εφέ στην οθόνη κλειδώματος</string>
     <string name="music_headset_audio_visual_toast">Εφαρμόστηκε με επιτυχία</string>
+    <string name="music_headset_audio_visual_unmute">Προεπισκόπηση με ήχο</string>
     <string name="music_headset_button_settings">Βαθμονόμηση κουμπιών</string>
     <string name="music_headset_calibrate">Βαθμονόμηση κουμπιών</string>
     <string name="music_headset_calibrate_apply">Χρήση</string>
@@ -196,6 +198,8 @@
     <string name="music_upper_sixty_years">Περισσότερο από 60 ετών</string>
     <string name="name">Ονομα</string>
     <string name="not_set">Δεν ρυθμίστηκε</string>
+    <string name="not_support_sound_transmission_content">"Αυτή η λειτουργία δεν υποστηρίζεται από τη συνδεδεμένη συσκευή. Δοκιμάστε μια άλλη συσκευή Bluetooth."</string>
+    <string name="not_support_sound_transmission_prompt">Προσοχή</string>
     <string name="now_here">Και τώρα?</string>
     <string name="original_sound">Αναπαραγωγή αυθεντικού ήχου</string>
     <string name="personal_sound">Με εφαρμοσμένη ρύθμιση</string>

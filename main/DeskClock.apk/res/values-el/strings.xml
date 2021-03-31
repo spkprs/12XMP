@@ -483,6 +483,9 @@
     <string name="user_agreement">Συμφωνία χρήστη</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="version_update_dialog_negative_desc">Όχι τώρα</string>
+    <string name="version_update_dialog_positive_desc">Ενημέρωση</string>
+    <string name="version_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
     <string name="vibrate_pref_summary">Δόνηση κατά την Αφύπνιση</string>
     <string name="vibrate_when_ringing">Ενεργή δόνηση</string>
     <string name="voice_add_alarm">Προσθήκη ειδοποίησης με φωνητική εντολή</string>
