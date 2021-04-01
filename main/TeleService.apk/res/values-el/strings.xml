@@ -482,6 +482,8 @@
     <string name="call_barring_sum">Ρυθμίσεις αποκλεισμού κλήσεων</string>
     <string name="call_category">Κλήση</string>
     <string name="call_description_recording">Εγγραφή…</string>
+    <string name="call_fold_setting">Δίπλωμα και Ξεδίπλωμα</string>
+    <string name="call_fold_setting_title">Δίπλωμα και Ξεδίπλωμα</string>
     <string name="call_forward_option">Προώθηση κλήσεων</string>
     <string name="call_forwarding_number_hint">Εισάγετε τον αριθμό που θα προωθείτε τις εισερχόμενες κλήσεις</string>
     <string name="call_forwarding_settings">Προώθηση κλήσεων</string>
@@ -985,6 +987,8 @@
     <string name="fiveg_upperlayer_indication1">"Κατάσταση ένδειξης ανώτερου επιπέδου  : "</string>
     <string name="flash_when_ring_summary">Χρήση του LED για ειδοποίηση εισερχόμενων κλήσεων</string>
     <string name="flash_when_ring_title">Φωτισμός LED στις Κλήσεις</string>
+    <string name="fold_answer_pref_summary">Διπλώστε τη συσκευή για να αποδεχτείτε αυτόματα μια εισερχόμενη κλήση</string>
+    <string name="fold_answer_pref_title">Δίπλωμα για αποδοχή κλήσεων</string>
     <string name="forbidden_network">(απαγορεύεται)</string>
     <string name="force_allow_on_external">Επιβολή δυνατότητας σε εφαρμογές εξωτερικού</string>
     <string name="force_allow_on_external_summary">Μετατρέπει οποιαδήποτε εφαρμογή είναι κατάλληλη για εγγραφή σε εξωτερικό χώρο αποθήκευσης, ανεξάρτητα από τις τιμές διακήρυξης</string>
@@ -1766,8 +1770,8 @@
     <string name="search_menu">Ρυθμίσεις αναζήτησης</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="selectContact">Επιλέξτε την επαφή</string>
-    <string name="select_application">Επιλογή εφαρμογής</string>
     <string name="select_apn_list_title">Επιλέξτε το προεπιλεγμένο APN σας: για κάρτα %1$s</string>
+    <string name="select_application">Επιλογή εφαρμογής</string>
     <string name="select_automatically">Αυτόματη επιλογή</string>
     <string name="select_dds_dialog_title">Επιλογή προεπιλεγμένης SIM δεδομένων κινητής</string>
     <string name="select_logd_size_dialog_title">Επιλέξτε Μέγεθος καταγραφέα ανά buffer απογραφής</string>
@@ -1906,6 +1910,7 @@
     <string name="stk_cc_ss_to_dial_video_error">Η αίτηση SS άλλαξε σε κλήση βίντεο</string>
     <string name="stk_cc_ss_to_ss_error">Αίτημα SS τροποποιήθηκε σε νέο αίτημα SS.</string>
     <string name="stk_cc_ss_to_ussd_error">Αίτημα SS τροποποιήθηκε σε αίτημα USSD.</string>
+    <string name="stk_name">USIM εργαλειοθήκη</string>
     <string name="stock_quotes_disable">Τιμές μετοχών ανενεργές</string>
     <string name="stock_quotes_enable">Τιμές μετοχών ενεργές</string>
     <string name="strict_mode">Ενεργοποιημένη η αυστηρή λειτουργία</string>
@@ -2078,6 +2083,10 @@
     <string name="turnover_mute_summary">Όταν το τηλέφωνο βρίσκεται σε οριζόντια θέση, αναποδογυρίστε το για Σίγαση Κλήσης απενεργοποίηση Δόνησης και Φωτισμού ειδοποίησης.</string>
     <string name="turnover_mute_title">Αναποδογυρίστε για σίγαση</string>
     <string name="undefined">Απροσδιόριστο</string>
+    <string name="unfold_close_camera_pref_summary">Ξεδίπλωμα συσκευής κατά τη διάρκεια μιας κλήσης βίντεο για να απενεργοποιήσετε την κάμερα</string>
+    <string name="unfold_close_camera_pref_title">Ξεδίπλωμα για απενεργοποίηση κάμερας</string>
+    <string name="unfold_speaker_pref_summary">Ξεδίπλωμα συσκευής κατά τη διάρκεια μιας κλήσης για να ενεργοποιήσετε το ηχείο</string>
+    <string name="unfold_speaker_pref_title">Ξεδίπλωμα για χρήση ηχείου</string>
     <string name="unknown">Άγνωστη</string>
     <string name="unlock_failed">Αίτηση ξεκλειδώματος δικτύου ανεπιτυχής.</string>
     <string name="unlock_success">Επιτυχές ξεκλείδωμα δικτύου.</string>
@@ -2296,5 +2305,4 @@
     <string name="zen_mode_forever">Μέχρι να απενεργοποιήσετε</string>
     <string name="zen_mode_settings_summary_off">Ποτέ</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση \"Μην ενοχλείτε\"</string>
-    <string name="stk_name">USIM εργαλειοθήκη</string>
 </resources>
