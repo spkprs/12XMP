@@ -126,6 +126,7 @@
     <string name="accessibility_mimovie_on">Χρήση πλαισίου ταινίας</string>
     <string name="accessibility_module_picker_finish">Αλλαγή σε %s</string>
     <string name="accessibility_more">Περισσότερα</string>
+    <string name="accessibility_multi_cam_reselect_button">Επιλέξτε ξανά τις κάμερες</string>
     <string name="accessibility_open">Ενεργοποιημένη</string>
     <string name="accessibility_pano_moving_left">Μετακίνηση συσκευής προς τα αριστερά</string>
     <string name="accessibility_pano_moving_right">Μετακίνηση συσκευής προς τα δεξιά</string>
@@ -145,6 +146,7 @@
     <string name="accessibility_preview_selected">Επιλεγμένα</string>
     <string name="accessibility_preview_shrink">Σμίκρυνση</string>
     <string name="accessibility_preview_zoom_tip">%1$.1fX προεπισκόπηση</string>
+    <string name="accessibility_pro_parameters_panel_on">Άνοιγμα μενού με τις παραμέτρους PRO</string>
     <string name="accessibility_pro_video_simple_mode">Λειτουργία Lite</string>
     <string name="accessibility_protrait">Πορτρέτο</string>
     <string name="accessibility_pull_down_to_open_camera">Σύρετε κάτω για άνοιγμα Κάμερας</string>
@@ -900,8 +902,8 @@
     <string name="moive_frame">Πλαίσιο ταινίας</string>
     <string name="moon">Φεγγάρι</string>
     <string name="more_mode_style">"Επιλέξτε πώς θέλετε να τακτοποιήσετε όλες τις λειτουργίες της κάμερας"</string>
-    <string name="more_mode_style_popup">\"Περισσότερο\" πίνακα</string>
-    <string name="more_mode_style_tab">\"Περισσότερο\" καρτέλες</string>
+    <string name="more_mode_style_popup">Προβολή σε Πίνακα</string>
+    <string name="more_mode_style_tab">Προβολή σε Καρτέλες</string>
     <string name="multi_window_mode_not_supported">Αδύνατη η χρήση Κάμερας σε λειτουργία πολλαπλών παραθύρων</string>
     <string name="music_hint_tt">服务来源爱听卓乐</string>
     <string name="network_access_user_notice_agree">Συμφωνώ</string>
@@ -1507,6 +1509,7 @@
     <string name="super_moon_under">Σεληνόφως</string>
     <string name="super_moon_window">Παράθυρο</string>
     <string name="super_night_hint">Βελτιστοποίηση εικόνας... Κρατήστε σταθερά τη συσκευή</string>
+    <string name="super_night_owl_toast">Κρατήστε το τηλέφωνό σας σταθερό</string>
     <string name="super_night_se_tip">Λειτουργία Νύχτας</string>
     <string name="super_night_toast">Κρατήστε το σταθερά, κατά την λήψη μιας φωτογραφίας</string>
     <string name="tap_to_exposure">Αγγίξτε για χειροκίνητη προσαρμογή έκθεσης</string>
