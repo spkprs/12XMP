@@ -784,6 +784,7 @@
     <string name="cleanup_power">Σε Βάθος ΜΒ</string>
     <string name="clear">Εκκαθάριση</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
+    <string name="close">Κλείσιμο</string>
     <string name="closed">Απενεργοποίηση</string>
     <string name="commute">Προτάσεις χάρτη</string>
     <string name="commute_address">Συχνές διευθύνσεις</string>
@@ -855,6 +856,7 @@
     <string name="data_error">Εμφανίστηκε σφάλμα, περιμένετε ένα-δύο λεπτά και δοκιμάστε ξανά</string>
     <string name="data_error_show">Η παραγγελία ολοκληρώθηκε, δεν είναι δυνατή η προβολή λεπτομερειών</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
+    <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="debug_card_brief">Ρυθμίσεις και εργαλεία εντοπισμού σφαλμάτων</string>
     <string name="debug_card_detail">Ρυθμίσεις και εργαλεία εντοπισμού σφαλμάτων</string>
     <string name="debug_card_title">Εντοπισμός σφαλμάτων</string>
@@ -1656,10 +1658,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">Συγχρονίζεται με το cloud...</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -1977,6 +1982,7 @@
     <string name="search_category_video">Βίντεο</string>
     <string name="search_change_header">Αντικατάσταση εικόνας φόντου</string>
     <string name="search_clear_header">Αφαίρεση εικόνας φόντου</string>
+    <string name="search_header_dialog_title">Αλλαγή φόντου</string>
     <string name="search_hint">Αναζήτηση στοιχείων στη συσκευή και στο διαδίκτυο</string>
     <string name="search_label">Αναζήτηση…</string>
     <string name="search_menu_title">Αναζήτηση</string>
@@ -1986,6 +1992,7 @@
     <string name="select_team_close">κλείσε.</string>
     <string name="select_team_confirm">υποβάλει.</string>
     <string name="selected_shortcuts_title">Αρχική σελίδα</string>
+    <string name="send">Αποστολή</string>
     <string name="send_action_title">Προσθήκη στα αγαπημένα</string>
     <string name="send_express">Γρήγορη παράδοση</string>
     <string name="service_unavailiable">Ελέξτε την Σύνδεση δικτύου και δοκιμάστε ξανά</string>
