@@ -882,11 +882,11 @@
     <string name="clean_master_icon_recall_button_text">Προσθήκη</string>
     <string name="clean_master_icon_recall_dialog_button_negative">Όχι, ευχαριστώ</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Προσθήκη</string>
-    <string name="clean_master_icon_recall_dialog_summary">Προσθέστε μια συντόμευση στην αρχική οθόνη για να καθαρίζετε τα απορρίμματα όποτε χρειάζεστε.</string>
-    <string name="clean_master_icon_recall_dialog_title">Ταχύτερος καθαρισμός απορριμμάτων</string>
+    <string name="clean_master_icon_recall_dialog_summary">Προσθήκη συντόμευσης στην αρχική οθόνη για καθαρισμό όποτε χρειάζεστε.</string>
+    <string name="clean_master_icon_recall_dialog_title">Ταχύς καθαρ. απορριμμάτων</string>
     <string name="clean_master_icon_recall_hint">Προσθήκη συντόμευσης στην αρχική οθόνη</string>
-    <string name="clean_master_icon_recall_summary">Προσθέστε μια συντόμευση στην αρχική οθόνη για να καθαρίζετε τα απορρίμματα όποτε τη χρειαστείτε.</string>
-    <string name="clean_master_icon_recall_title">Ταχύτερος καθαρισμός απορριμμάτων</string>
+    <string name="clean_master_icon_recall_summary">Προσθήκη συντόμευσης στην αρχική οθόνη για καθαρισμό όποτε χρειάζεστε.</string>
+    <string name="clean_master_icon_recall_title">Ταχύς καθαρ. απορριμμάτων</string>
     <string name="clean_master_icon_recall_toast_text">Προστέθηκε με επιτυχία η συντόμευση του καθαρισμού</string>
     <string name="cleaned">Εκκαθαρίστηκαν</string>
     <string name="clear_garbage">Εκκαθάριση αχρήστων για απελευθέρωση χώρου</string>
@@ -2278,7 +2278,7 @@
     <string name="notification_masked_subtitle">Το \"Κλείδωμα εφαρμογών\" μπορεί να κάνει τη δουλειά</string>
     <string name="notification_optimize_button_text">Εκκαθάριση</string>
     <string name="notification_optimize_message">Καθαρισμός μνήμης για ενίσχυση της ταχύτητας</string>
-    <string name="notification_optimize_title">%d%% μνήμης χρησιμοποιείται</string>
+    <string name="notification_optimize_title">%d%% μνήμης σε χρήση</string>
     <string name="notification_power_consume_issue_summary">Υψηλή κατανάλωση ενέργειας</string>
     <string name="notification_power_consume_suggest_summary">Διόρθωση προβλημάτων εξοικ. μπαταρίας</string>
     <string name="notification_qq_clean_hint">Τα απορρίμματα επιβραδύνουν τη συσκευή σας</string>

@@ -532,4 +532,8 @@
     <item quantity="other">%1$d αρχεία</item>
     <item quantity="one">%1$d αρχείο</item>
   </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="one">%d επιλεγμένο στοιχείο</item>
+    <item quantity="other">%d επιλεγμένα στοιχεία</item>
+  </plurals>
 </resources>

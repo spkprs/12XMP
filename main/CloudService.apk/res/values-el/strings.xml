@@ -141,6 +141,7 @@
     <string name="forget_password"><u>Ξέχασα τον κωδικό</u></string>
     <string name="help_and_feedback">Βοήθεια &amp; σχόλια</string>
     <string name="hint_restore_cross_space">Η διάταξη της αρχικής οθόνης ενδέχεται να μην εμφανίζεται σωστά εάν μεταφέρετε αντικείμενα μεταξύ χώρων.</string>
+    <string name="hybrid_provider">Παρέχεται από %1$s</string>
     <string name="i_know">ΟΚ</string>
     <string name="input_password_hint">Εισαγωγή κωδικού</string>
     <string name="internet_access_dspt">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
@@ -505,6 +506,7 @@
     <string name="mx_sub_dspt_provision">Mi Μήνυμα</string>
     <string name="mx_sub_dspt_provision_with_voip">Κλήσεις μέσω διαδικτύου</string>
     <string name="mx_voip_dspt">Mi VoIP</string>
+    <string name="no_network">"Δεν είναι δυνατή η σύνδεση στο δίκτυο"</string>
     <string name="no_sim">Δεν ανιχνεύθηκε κάρτα SIM</string>
     <string name="not_set">Δεν ορίστηκε</string>
     <string name="notification_reinstall_key_text">Επαληθεύστε την ταυτότητά σας και δοκιμάστε ξανά</string>
@@ -776,6 +778,9 @@
     <string name="warning_bar_title_network_unconnected">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="warning_bar_title_short_cut">Προσθήκη συντόμευσης του Mi cloud στην αρχική οθόνη?</string>
     <string name="warning_bar_title_sync_off">Ο συγχρ. με το Xiaomi Cloud είναι ανενεργός</string>
+    <string name="web_sso_login_fail">Πρέπει να συνδεθείτε ξανά</string>
+    <string name="web_sso_login_message">Είσοδος…</string>
+    <string name="webview_reload">Δοκιμάστε ξανά</string>
     <string name="wipe_data_dialog_button_check_sync">Έλεγχος συγχρονισμού</string>
     <string name="wipe_data_dialog_msg">%s δεν έχουν συγχρονιστεί και θα παραμείνουν στο τηλέφωνό σας.</string>
     <string name="wipe_data_dialog_msg_and_on">, και μερικά άλλα στοιχεία</string>

@@ -575,6 +575,7 @@
     <string name="charge_length_format">%1$s πριν</string>
     <string name="chip_text">Chip text</string>
     <string name="chooseUsbActivity">Επιλέξτε εφαρμογή για τη συσκευή USB</string>
+    <string name="choose_clock_dual_clock_hint_text">"Αδύνατη η αλλαγή της μορφής όταν είναι ενεργό το Διπλό ρολόι"</string>
     <string name="choose_clock_panel_title">Διάταξη κλειδώματος οθόνης</string>
     <string name="choose_clock_third_theme_hint_text">Κλείδωμα οθόνης από το τρέχον θέμα</string>
     <string name="choose_clock_title_left_top">Αριστερά</string>

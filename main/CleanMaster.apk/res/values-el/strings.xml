@@ -221,7 +221,7 @@
     <string name="dc_activity_title">Βαθύς Καθαρισμός</string>
     <string name="dc_advise_delete">Ελευθέρωση χώρου</string>
     <string name="dc_group_title_appclean">Εφαρμογές</string>
-    <string name="dc_header_can_clean">Μπορεί να καθαριστεί</string>
+    <string name="dc_header_can_clean">Πρός εκκαθάριση</string>
     <string name="dc_header_can_not_clean">Κατειλημμένος</string>
     <string name="dc_header_used_space_text">Κατειλημμένος αποθ. χώρος</string>
     <string name="dc_item_summary_wechat_chat">Εκκαθάριση ιστορικού συνομιλιών μέσω chat για απελευθέρωση περισσότερου χώρου</string>

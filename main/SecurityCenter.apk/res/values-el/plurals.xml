@@ -682,16 +682,16 @@
         <item quantity="one">Απεγκατάσταση %d εφαρμ.</item>
     </plurals>
     <plurals name="privacy_risk_work_encryption_msg">
-        <item quantity="other">%d στοιχεία χρειάζονται πρόσθετη προστασία</item>
-        <item quantity="one">%d στοιχείο χρειάζεται πρόσθετη προστασία</item>
+        <item quantity="other">%d στοιχ χρειάζ πρόσθ προστασία</item>
+        <item quantity="one">%d στοιχ χρειάζ πρόσθ προστασία</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d προβλήματα χρήσης μπαταρίας</item>
-        <item quantity="one">%d πρόβλημα χρήσης μπαταρίας</item>
+        <item quantity="other">%d προβλ χρήσ μπατ</item>
+        <item quantity="one">%d προβλ χρήσ μπατ</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
-        <item quantity="other">Βελτιστοποίηση %d στοιχείων για εξοικ. μπαταρίας</item>
-        <item quantity="one">Βελτιστοποίηση %d στοιχείου για εξοικ. μπαταρίας</item>
+        <item quantity="other">Βελτ/ση %d στοιχ για εξοικ. μπαταρίας</item>
+        <item quantity="one">Βελτ/ση %d στοιχ για εξοικ. μπαταρίας</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">φορές</item>

@@ -582,9 +582,9 @@
     <string name="apps_label">Εφαρμογές</string>
     <string name="arr_airport">Αεροδρόμιο προορισμού</string>
     <string name="arr_airport_example">E.g. Shanghai Pudong T2</string>
-    <string name="arr_city">Φτάνοντας στο</string>
+    <string name="arr_city">Προορισμός στο</string>
     <string name="arr_city_example">E.g. Shanghai</string>
-    <string name="arr_city_station">Φτάνοντας στο</string>
+    <string name="arr_city_station">Προορισμός στο</string>
     <string name="arr_city_station_example">E.g. Shanghai Hongqiao</string>
     <string name="arr_time">Ώρα άφιξης</string>
     <string name="arrive">Άφιξη</string>
@@ -622,8 +622,8 @@
     <string name="bluetooth_setting_brief">Προβολή χρήσης μπαταρίας των συνδεδεμένων συσκευών</string>
     <string name="book_add">Προσθήκη κράτησης</string>
     <string name="book_add_date_diff">Η ημερομηνία αναχώρησης πρέπει να είναι μεταγενέστερη της ημερομηνίας check-in.</string>
-    <string name="book_add_dialog_continue">Μην έξοδο</string>
-    <string name="book_add_dialog_exit">Έξοδο</string>
+    <string name="book_add_dialog_continue">Παραμονή</string>
+    <string name="book_add_dialog_exit">Έξοδος</string>
     <string name="book_add_dialog_save">Απόρριψη αλλαγών και έξοδος τώρα;</string>
     <string name="book_after_tomorow">Σε 2 ημέρες</string>
     <string name="book_arr_city">Προορισμός</string>
