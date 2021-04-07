@@ -809,5 +809,9 @@
         <item quantity="other">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτ.</item>
         <item quantity="one">Η συσκευή σας θα απενεργοποιηθεί σε %d δευτ.</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Ακύρωση (%ds)</item>
+        <item quantity="one">Ακύρωση (%ds)</item>
+    </plurals>
 </resources>
 

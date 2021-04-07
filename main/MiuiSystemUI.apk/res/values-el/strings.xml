@@ -2035,6 +2035,7 @@
     <string name="speed_label_very_slow">Πολύ αργή</string>
     <string name="ssl_ca_cert_warning">Το δίκτυο μπορεί\nνα παρακολουθείται</string>
     <string name="standby_bucket_summary">Κατάσταση αναμονής εφαρμογής: %s</string>
+    <string name="start_camera_error_try_again">"Αδυναμία εκκίνησης κάμερας. Ξαναπροσπάθησε."</string>
     <string name="start_dreams">Προστασία οθόνης</string>
     <string name="stat_sys_data_connected_1x_half">1X</string>
     <string name="status_bar">Γραμμή κατάστασης</string>

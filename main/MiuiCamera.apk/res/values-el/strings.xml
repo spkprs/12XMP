@@ -152,6 +152,8 @@
     <string name="accessibility_pull_down_to_open_camera">Σύρετε κάτω για άνοιγμα Κάμερας</string>
     <string name="accessibility_record_button">Πλήκτρο εγγραφής</string>
     <string name="accessibility_reduce">Σμίκρυνση</string>
+    <string name="accessibility_reference_line_image_off">Απόκρυψη γραμμών πλέγματος</string>
+    <string name="accessibility_reference_line_image_on">Εμφάνιση γραμμών πλέγματος</string>
     <string name="accessibility_reference_line_text">Άνοιγμα του πίνακα με επιλογές γραμμής αναφοράς</string>
     <string name="accessibility_review_thumbnail">Η πιο πρόσφατη φωτογραφία</string>
     <string name="accessibility_select_all">Επιλογή όλων</string>
