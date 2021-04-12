@@ -2650,6 +2650,7 @@
     <string name="fingerprint_and_password_entrance_title">Κωδικός &amp; Δακτυλικό αποτύπωμα</string>
     <string name="fingerprint_apply_to_privacy_password">Κωδικός Προσωπικής προστασίας</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">Ο κωδικός Προσωπικής προστασίας προστατεύει τα μηνύματα, φωτογραφίες, αρχεία, σημειώσεις και τις εφαρμογές σας.</string>
+    <string name="fingerprint_base_title">Δακτυλικό αποτύπωμα %s</string>
     <string name="fingerprint_delete_message">Θέλετε να διαγράψετε αυτό το δακτυλικό αποτύπωμα;</string>
     <string name="fingerprint_delete_title">Καταργήσετε \'%1$s\'</string>
     <string name="fingerprint_double_tap">Αισθητήρας δακτυλικού αποτυπώματος με διπλό πάτημα</string>
@@ -2660,6 +2661,7 @@
     <string name="fingerprint_first_open_screen_password_tittle">Δακτυλικό αποτύπωμα (ορίστε πρώτα κωδικό Οθόνης κλειδώματος)</string>
     <string name="fingerprint_for_keyguard_disabled">Το δακτυλικό αποτύπωμα έχει απενεργοποιηθεί από τις ρυθμίσεις ασφαλείας.</string>
     <string name="fingerprint_gesture_screen_title">Σύρετε δακτυλικό αποτύπωμα</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Αποθηκεύτηκε ως \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Εισαγωγή κωδικού</string>
     <string name="fingerprint_identify_msg">Σάρωση δακτυλικού αποτυπώματος…</string>
     <string name="fingerprint_identify_try_again_msg">Δεν ήταν δυνατή η σάρωση. Προσπαθήστε ξανά</string>
@@ -3983,8 +3985,10 @@
     <string name="miheadset_fitness_check_result_dialog1">Πριν από την έναρξη της δοκιμής, τοποθετήστε ακουστικά και στα δύο αυτιά.</string>
     <string name="miheadset_fitness_check_result_dialog2">Τερματισμός της τρέχουσας κλήσης πριν την έναρξη της δοκιμής.</string>
     <string name="miheadset_fitness_check_result_dialog_title">Προσοχή</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">Αναπροσαρμογή ακουστικού</string>
     <string name="miheadset_fitness_check_result_not_ok">Κακή προσαρμογή</string>
     <string name="miheadset_fitness_check_result_ok">Καλή προσαρμογή</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">Αναπροσαρμογή ακουστικού</string>
     <string name="miheadset_fitness_check_result_summary1">Αυτή η εφαρμογή λειτουργεί ιδανικά για εσάς!</string>
     <string name="miheadset_fitness_check_result_summary2">Ρυθμίστε ή δοκιμάστε μια άλλη άκρη και δοκιμάστε ξανά.</string>
     <string name="miheadset_fitness_check_result_unkown">fΆγνωστη φυσική κατάσταση</string>
@@ -7385,6 +7389,7 @@
     <string name="voice_recognizer_preference_summary">Απλή ομιλία σε κείμενο</string>
     <string name="voice_search_settings_title">Φωνητική αναζήτηση</string>
     <string name="voice_service_preference_section_title">Υπηρεσίες φωνητικών εντολών</string>
+    <string name="voip_assistant_settings">VoIP βοηθός</string>
     <string name="volte_provisioned_switch_string">Παρέχεται από την VoLTE</string>
     <string name="volume_alarm_description">Αφύπνιση</string>
     <string name="volume_alarm_mute">Σίγαση αφυπνίσεων</string>

@@ -124,6 +124,10 @@
     <string name="blur_location_is_on_tip">%1$s χρησιμοποιεί την κατά προσέγγιση θέση σας. Να συνεχίσουμε να το χρησιμοποιούμε αντί για ακριβή τοποθεσία;</string>
     <string name="blur_location_now_tip">Η κατά προσέγγιση τοποθεσία είναι ενεργή</string>
     <string name="blur_location_title">Κατά προσέγγιση τοποθεσία</string>
+    <string name="cetus_invisible_mode_notice_audio">"Είσαι Ανώνυμος. Δεν είναι δυνατή η χρήση του μικροφώνου τώρα."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Είσαι Ανώνυμος. Δεν μπορεί να χρησιμοποιήσει τη φωτογραφική μηχανή τώρα."</string>
+    <string name="cetus_invisible_mode_notice_location">"Είσαι Ανώνυμος. Δεν είναι δυνατή η χρήση υπηρεσιών τοποθεσίας τώρα."</string>
+    <string name="cetus_invisible_mode_notice_tip">Πατήστε για να απενεργοποιήσετε τη λειτουργία Ανώνυμος στις Ρυθμίσεις</string>
     <string name="clipboard_ai_allow_once">Επιτράπηκε %1$s η αυτόματη πρόσβαση σε στοιχεία στο πρόχειρο</string>
     <string name="clipboard_data">"Περιεχόμενο: "</string>
     <string name="clipboard_data_request">%1$s προσπαθεί να αποκτήσει πρόσβαση σε στοιχεία στο πρόχειρο</string>

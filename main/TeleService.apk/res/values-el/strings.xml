@@ -998,6 +998,8 @@
     <string name="force_resizable_activities_summary">Κάντε όλες τις δραστηριότητες με δυνατότητα αλλαγής μεγέθους για πολλά παράθυρα, ανεξάρτητα από τις τιμές διακήρυξης.</string>
     <string name="force_rtl_layout_all_locales">Επιβολή κατεύθυνσης διάταξης RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Επιβολή κατεύθυνσης διάταξης οθόνης σε RTL για όλες τις τοπικές ρυθμίσεις</string>
+    <string name="four_point_five_switch_summary">Χρησιμοποιήστε 4.5G για να βελτιώσετε την ταχύτητα πρόσβασης δεδομένων και την ποιότητα φωνής.</string>
+    <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">lte αριθμός καναλιού</string>
     <string name="fw_change_failed">Δεν ήταν δυνατή η αλλαγή του αριθμού προώθησης.\nΕπικοινωνήστε με το φορέα σας, εάν το πρόβλημα παραμένει.</string>
     <string name="fw_get_in_vm_failed">Δεν ήταν δυνατή η ανάκτηση και αποθήκευση των τρεχουσών ρυθμίσεων του αριθμού προώθησης.\nΑλλαγή σε νέο πάροχο ούτως ή άλλως;</string>

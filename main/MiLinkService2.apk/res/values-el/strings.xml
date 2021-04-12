@@ -196,6 +196,8 @@
     <string name="screen_projection_example_game_title">Games</string>
     <string name="screen_projection_help">Βοήθεια</string>
     <string name="screen_projection_sample_summary">Μετάδοση εγγράφων, παιχνιδιών, φωτογραφιών και βίντεο</string>
+    <string name="dialog_scanning_precondition_new_china">Ενεργοποιήστε το Wi-Fi, το B/T και GPS για χρήση Μετάδοσης. Να ενεργοποιηθούν τώρα;</string>
+    <string name="dialog_scanning_precondition_new_global">Ενεργοποιήστε το Wi-Fi, το B/T και GPS για χρήση Μετάδοσης. Να ενεργοποιηθούν τώρα;</string>
     <string name="screen_projection_sample_title">Επιδείξεις</string>
     <string name="screen_projection_title">Μετάδοση</string>
     <string name="sdk_name">lebo</string>

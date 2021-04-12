@@ -61,7 +61,7 @@
     <string name="material_slider_range_start">Αρχή περιοχής,</string>
     <string name="midnight">Νύχτα</string>
     <string name="mind_note_first_enter_guide">Πατήστε για να δημιουργήσετε έναν χάρτη μυαλού</string>
-    <string name="miui_dnd_count_down">DND χρονόμετρο</string>
+    <string name="miui_dnd_count_down">Κύλιση για ορισμό χρονομέτρου</string>
     <string name="miui_dnd_count_down_time">DND χρονόμετρο\n%s</string>
     <string name="miui_guide_dialog_button_negative_text">Ρυθμίσεις</string>
     <string name="miui_guide_dialog_button_positive_text">Κατανοητό</string>

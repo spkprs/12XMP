@@ -301,6 +301,7 @@
     <string name="headset_device_error_box_close">Η θήκη φόρτισης είναι ανενεργή</string>
     <string name="headset_device_error_disconnect">Και τα δύο ακουστικά αποσυνδέθηκαν. Κλείστε τη θήκη φόρτισης και ανοίξτε την ξανά για να ξεκινήσετε την ενημέρωση από την αρχή.</string>
     <string name="headset_device_error_failed">"Δεν είναι δυνατή η ενημέρωση"</string>
+    <string name="headset_device_error_multconnect">"Δεν είναι δυνατή η ενημέρωση όταν είναι συνδεδεμένες πολλές συσκευές"</string>
     <string name="headset_device_error_no_device">Τουλάχιστον ένα ακουστικό λείπει από τη θήκη φόρτισης</string>
     <string name="headset_device_error_single_device">"Δεν είναι η ενημέρωση ενός ακουστικού. Ζεύγος ξανά."</string>
     <string name="headset_device_sync_donot_move_device">Συγχρονισμός... Περιμένετε μέχρι να ολοκληρωθεί πριν χρησιμοποιήσετε τα ακουστικά.</string>

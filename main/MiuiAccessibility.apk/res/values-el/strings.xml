@@ -17,6 +17,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="accessibility_voice_access_summary">Φωνητικοί έλεγχοι που παρέχονται από mi Ditto</string>
     <string name="activate_voice_access_action">ενεργοποίηση φωνητικού ελέγχου</string>
+    <string name="add_phrase_content_description">Προσθήκη συχνής φράσης</string>
     <string name="agree">Συμφωνώ</string>
     <string name="all_command_summary">Προβολή όλων των διαθέσιμων φωνητικών εντολών</string>
     <string name="all_commands">Προβολή όλων των εντολών</string>
@@ -38,19 +39,32 @@
     <string name="cancel_utterance">σταμάτα.</string>
     <string name="caption_close">Κλείσετε</string>
     <string name="caption_guide_drag_window">Ρύθμιση του μεγέθους της περιοχής στην οποία εμφανίζονται οι λεζάντες</string>
+    <string name="caption_guide_go_to_normal_mode">Πατήστε δύο φορές για μετάβαση σε λειτουργία πλήρους οθόνης</string>
     <string name="caption_guide_go_to_normal_window_mode">Πατήστε δύο φορές την οθόνη για να επιστρέψετε στο κινούμενο παράθυρο</string>
     <string name="caption_guide_in_caption_mode">Σύρετε το κινούμενο παράθυρο στην άκρη της οθόνης για να δείτε λεζάντες</string>
     <string name="caption_guide_know">Το έπιασα</string>
     <string name="caption_guide_next">Επόμενη</string>
     <string name="caption_guide_press_drag">Πατήστε παρατεταμένα για να μετακινηθείτε</string>
     <string name="caption_guide_previous">Πίσω</string>
+    <string name="caption_guide_show_caption_title_bar">Πατήστε για άνοιγμα της εργαλειοθήκης</string>
+    <string name="caption_settings">Ρυθμίσεις υποτίτλων</string>
+    <string name="caption_sound_mic">Mic</string>
+    <string name="caption_sound_system">System</string>
     <string name="caption_start">Ξεκινήσετε</string>
+    <string name="caption_text_size">Μέγεθος κειμένου</string>
     <string name="click_general_keywords">κάντε κλικ στο κουμπί;</string>
     <string name="click_general_utterance">κάντε κλικ στο κουμπί.</string>
     <string name="click_stop_voice_access">Μπορείτε να ελέγξετε αυτήν τη συσκευή χρησιμοποιώντας τη φωνή σας</string>
     <string name="close_performing_message">απενεργοποίηση φωνητικού ελέγχου</string>
     <string name="close_utterance">απενεργοποίηση φωνητικού ελέγχου, έξοδος από φωνητικό έλεγχο, τερματισμός φωνητικού ελέγχου, απενεργοποίηση φωνητικού ελέγχου, απενεργοποίηση φωνητικού ελέγχου</string>
     <string name="commands_index">Φροντιστήριο</string>
+    <string name="common_delete">Διαγραφή</string>
+    <string name="common_edit">Επεξεργασία</string>
+    <string name="common_expressions">Συχνές φράσεις</string>
+    <string name="common_expressions_settings">Συχνές φράσεις</string>
+    <string name="common_expressions_text1">Δυσκολεύομαι να ακούσω, αλλά το τηλέφωνό μου θα μετατρέψει την ομιλία σας σε κείμενο για μένα.</string>
+    <string name="common_expressions_text2">"Περίμενε ένα λεπτό. Πρέπει να πληκτρολογήσω την απάντησή μου. Θα σας διαβαστεί αυτόματα μετά το τέλος."</string>
+    <string name="common_expressions_text3">Μπορείς να μιλήσεις λίγο πιο αργά;</string>
     <string name="compose_message_hint">Πληκτρολογήστε γρήγορες απαντήσεις εδώ</string>
     <string name="compose_message_send">Στείλτε</string>
     <string name="control_app">Γενικές εντολές</string>
@@ -65,6 +79,7 @@
     <string name="current_window_command">Εδώ είναι τι μπορείτε να πείτε</string>
     <string name="current_window_command_performing_message">Άνοιγμα εντολών για αυτήν τη σελίδα</string>
     <string name="delete_message">Διαγράφω</string>
+    <string name="delete_phrase">Διαγραφή μιας φράσης</string>
     <string name="delete_prev_sent_failed_message">η κατάργηση όλων των αποτυχημένων</string>
     <string name="delete_prev_sent_performing_message">διαγραφή όλων</string>
     <string name="detail_how_to_open">Πατήστε το κουμπί στο κέντρο για να επιτρέψετε στον Mi Ditto να μεταγράψει ήχο ομιλίας και αναπαραγωγής συστήματος.</string>
@@ -77,6 +92,7 @@
     <string name="dialog_download_notes_title">Εγκατάσταση σημειώσεων</string>
     <string name="dialog_install_notes_message">Φαίνεται ότι έχετε απεγκαταστήσει τις Σημειώσεις. Κατεβάστε και εγκαταστήστε ξανά τις Σημειώσεις.</string>
     <string name="dialog_message_create_shortcut">Δημιουργία συντόμευσης αρχικής οθόνης τώρα;</string>
+    <string name="dialog_message_delete_message">Να διαγραφούν τα επιλεγμένα στοιχεία τώρα;</string>
     <string name="dialog_message_revoke_authorization">Θα πρέπει να εκχωρήσετε εξουσιοδότηση για να μπορείτε να χρησιμοποιήσετε το Mi Ditto ξανά μετά από αυτό.</string>
     <string name="dialog_title_need_create_shortcut">Συντόμευση αρχικής οθόνης</string>
     <string name="dialog_title_revoke_authorization">Ανάκληση εξουσιοδότησης</string>
@@ -86,6 +102,7 @@
     <string name="dialog_update_notes_title">Ενημέρωση σημειώσεων</string>
     <string name="exit_content_description">Έξοδος Mi Ditto</string>
     <string name="expand_button_title">Προχωρημένος</string>
+    <string name="float_window_guide_caption">Πατήστε για να ενεργοποιήσετε τους υπότιτλους</string>
     <string name="float_window_guide_small_window">Πατήστε για να μεταβείτε σε κινούμενο παράθυρο</string>
     <string name="float_window_guide_start">Πατήστε για να χρησιμοποιήσετε τις δυνατότητες προσβασιμότητας</string>
     <string name="fw_title_bar_content_description">Σύρετε ελαχιστοποιημένη εφαρμογή</string>
@@ -111,10 +128,13 @@
     <string name="hide_numbers_summary">Απόκρυψη αριθμών που εμφανίζονται στα στοιχεία</string>
     <string name="hide_overlay_utterance">Απόκρυψη αριθμών</string>
     <string name="home_utterance">επιφάνειας εργασίας.</string>
+    <string name="img_caption_content_description">Ενεργοποίηση υποτίτλων</string>
     <string name="img_keyboard_content_description">Ανοίξτε το πληκτρολόγιο</string>
     <string name="img_listen_pause_content_description">Παύση μεταγραφής</string>
     <string name="img_listen_start_content_description">Ξεκινήστε τη μεταγραφή</string>
     <string name="img_windows_content_description">Ελαχιστοποιήστε την εφαρμογή</string>
+    <string name="inner_record_force_speaker">Αναπαραγωγή ήχων συστήματος</string>
+    <string name="input_common_expressions">Εισάγετε εδώ τη φράση</string>
     <string name="input_text_view_failed_message">δεν είναι δυνατή η εισαγωγή κειμένου</string>
     <string name="input_text_view_performing_message">εισαγωγή του κειμένου</string>
     <string name="input_text_view_utterance">εισόδου.</string>
@@ -142,6 +162,8 @@
     <string name="new_permission_agree">&lt;Data&gt;Πριν χρησιμοποιήσετε τις υπηρεσίες μας, διαβάστε και συμφωνήστε με το &amp;lt;a href=\"%1$s\"&amp;gt;Συμφωνία χρήστη&amp;lt;/a&amp;gt; και &amp;lt;a href=\"%2$s\"&amp;gt;Πολιτική Απορρήτου&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
     <string name="new_permission_agree_explain">Εάν δεν συμφωνείτε να εκχωρήσετε τέτοιες Άδειες ή να μοιραστείτε και να ανεβάσετε τα προσωπικά σας στοιχεία, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να επιλέξετε να απεγκαταστήσετε αυτήν την εφαρμογή, να αποσυνδεθείτε ή να περιορίσετε τις Άδειες στις Ρυθμίσεις σε τέτοιες περιπτώσεις.</string>
     <string name="new_permission_content_first_line">Καλώς ήλθατε στο Mi Ditto! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μεταγράψετε ήχο και να δημιουργήσετε ομιλία με βάση την εισαγωγή κειμένου σας.\nΘα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.\nΛάβετε υπόψη ότι αυτή η εφαρμογή πρέπει να συνδεθεί στο Διαδίκτυο και απαιτεί τις ακόλουθες Άδειες για τη συλλογή των προσωπικών σας στοιχείων:</string>
+    <string name="new_phrase">Προσθήκη φράσης</string>
+    <string name="new_phrase_hint">Εισάγετε εδώ τη φράση</string>
     <string name="not_remind">Να μην εμφανιστεί ξανά</string>
     <string name="not_set">Δεν ρυθμίστηκε</string>
     <string name="notification_content_asr_recoginzing">Μεταγραφή…</string>
@@ -156,6 +178,9 @@
     <string name="open_service">Ενεργοποίηση</string>
     <string name="pause_recognize_content_description">Διακοπή μετεγγραφής ήχου. Πατήστε δύο φορές για να ξεκινήσετε ξανά.</string>
     <string name="permission_allow_content_policy1">Πολιτική απορρήτου</string>
+    <string name="phrase_confirm_delete_message">Να διαγραφεί τώρα αυτή η φράση;</string>
+    <string name="phrase_empty">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
+    <string name="phrase_list_title">Συχνές φράσεις</string>
     <string name="power_menu_utterance">δύναμη.</string>
     <string name="preference_authorization_title">Πολιτική απορρήτου</string>
     <string name="preference_category_authorization__title">Πολιτική απορρήτου</string>
@@ -236,6 +261,8 @@
     <string name="switch_on_performing_message">Άνοιξε το.</string>
     <string name="switch_on_summary">Ενεργοποίηση δυνατότητας ή εναλλαγή διακόπτη</string>
     <string name="take_screenshot_utterance">screenshot</string>
+    <string name="tips_sound_source_mic">Ακρόαση μικροφώνου……</string>
+    <string name="tips_sound_source_system">Ακρόαση ήχου συστήματος…</string>
     <string name="title_how_to_open">Πώς μπορώ να ενεργοποιήσω το Mi Ditto;</string>
     <string name="title_how_to_reply">Πώς μπορώ να απαντήσω στο άλλο άτομο;</string>
     <string name="title_how_to_save_messages">Πώς μπορώ να αποθηκεύσω μεταγραμμένα στοιχεία;</string>
@@ -244,6 +271,7 @@
     <string name="toast_create_shortcut_success">Η συντόμευση της αρχικής οθόνης δημιουργήθηκε με επιτυχία</string>
     <string name="toast_long_time_no_sound">Δεν μπορώ να ακούσω τίποτα. Η μεταγραφή τέθηκε σε παύση για τώρα. Μπορείτε να συνεχίσετε τη μεταγραφή πατώντας το κουμπί παρακάτω.</string>
     <string name="toast_network_is_not_available">Δεν ήταν δυνατή η σύνδεση στο δίκτυο για τη μεταγραφή ήχου</string>
+    <string name="toast_open_media_sound">Ενεργοποίηση έντασης πολυμέσων για τη δημιουργία υποτίτλων</string>
     <string name="toast_save_done">Αποθηκεύτηκε με επιτυχία στις σημειώσεις</string>
     <string name="toast_save_fail">Δεν ήταν δυνατή η αποθήκευση στις Σημειώσεις</string>
     <string name="touch">Πατήστε [Κουμπί]</string>
@@ -261,6 +289,9 @@
     <string name="tutorial_sub_open_keyboard">Ανοίξτε το πληκτρολόγιο για να πληκτρολογήσετε γρήγορες απαντήσεις</string>
     <string name="tutorial_sub_save_to_note">Αποθηκεύστε μεταγραμμένα στοιχεία στις Σημειώσεις</string>
     <string name="tutorial_title">Φροντιστήριο</string>
+    <string name="tv_caption_alpha">Αδιαφάνεια φόντου</string>
+    <string name="tv_caption_size">Μέγεθος κειμένου</string>
+    <string name="tv_real_time_trans">Ζωντανή μετάφραση</string>
     <string name="user_agreement_policy">Συμφωνία Χρήστη</string>
     <string name="vendor_permission_allow_content_policy1">Συμφωνία Χρήστη</string>
     <string name="voice_access">Φωνητικά χειριστήρια</string>
