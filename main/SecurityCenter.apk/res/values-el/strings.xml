@@ -2779,8 +2779,8 @@
     <string name="power_save_mode_auto_exit_summary">Απενεργοποίηση εξοικονόμησης όταν είναι 60% ή είναι πλήρως φορτισμένη</string>
     <string name="power_save_mode_auto_exit_summary_new">Απενεργοποίηση όταν η μπαταρία είναι %s ή πλήρως φορτισμένη ​</string>
     <string name="power_save_mode_auto_exit_title">Απενεργοποίηση όταν φορτίζει</string>
-    <string name="power_save_mode_close_aod_display_summary">Απενεργοποίηση της εμφάνισης πάντα όταν η εξοικονόμηση μπαταρίας είναι ενεργοποιημένη</string>
-    <string name="power_save_mode_close_aod_display_title">Απενεργοποίηση εμφάνισης πάντα</string>
+    <string name="power_save_mode_close_aod_display_summary">Απενεργοποίηση της \"Πάντα στην Οθόνη\" όταν η εξοικονόμηση μπαταρίας είναι ενεργοποιημένη</string>
+    <string name="power_save_mode_close_aod_display_title">Απενεργοποίηση \"Πάντα στην Οθόνη\"</string>
     <string name="power_save_mode_close_notification_screenon_summary">Λειτουργεί όταν είναι ενεργοποιημένη η εξοικονόμηση μπαταρίας</string>
     <string name="power_save_mode_close_notification_screenon_title">Να μην ενεργοποιείται η οθόνη για ειδοποιήσεις</string>
     <string name="power_save_mode_close_warn_text">Η εξοικονόμηση μπαταρίας περιορίζει τη δραστηριότητα του παρασκηνίου και το συγχρονισμό. Αν επιλέξετε να το χρησιμοποιήσετε όταν η συσκευή σας είναι φορτισμένη, ορισμένες λειτουργίες ενδέχεται να μην λειτουργούν σωστά. Διατήρηση της εξοικονόμηση μπαταρίας ενεργή όταν είναι φορτισμένη;</string>
@@ -3807,10 +3807,10 @@
     <string name="superpower_savemode_limit4">Επιτρέψτε στις επιλεγμένες εφαρμογές την κανονική λειτουργία</string>
     <string name="superpower_settings">Υπέρ Εξοικ. μπαταρίας</string>
     <string name="superpower_settins_autoenter_summary">Αυτόματη ενεργοποίηση Υπέρ εξοικ/σης μπαταρίας όταν είναι μόνο 10% φορτισμένη</string>
-    <string name="superpower_settins_autoenter_summary_new">Ενεργοποιήστε την προστασία της μπαταρίας Ultra Battery αυτόματα όταν η μπαταρία είναι φορτισμένη μόνο %s</string>
+    <string name="superpower_settins_autoenter_summary_new">Ενεργοποιήστε την Υπέρ Εξοικ. μπαταρίας αυτόματα όταν η μπαταρία είναι φορτισμένη μόνο %s</string>
     <string name="superpower_settins_autoenter_title">Αυτόματη ενεργοποίηση</string>
     <string name="superpower_settins_autoleave_summary">Αυτόματη απεν/ποίηση Υπέρ εξοικ/σης μπαταρίας όταν είναι κατά 50% φορτισμένη</string>
-    <string name="superpower_settins_autoleave_summary_new">Αυτόματη απενεργοποίηση της προστασίας μπαταρίας Ultra Battery όταν η μπαταρία φορτίζεται %s</string>
+    <string name="superpower_settins_autoleave_summary_new">Αυτόματη απενεργοποίηση της Υπέρ Εξοικ. μπαταρίας όταν είναι %s φορτισμένη</string>
     <string name="superpower_settins_autoleave_title">Αυτόματη απενεργοποίηση</string>
     <string name="superpower_settins_other">Πρόσθετες ρυθμίσεις</string>
     <string name="superpower_settins_switch_summary">Περιορίζει τις πιο απαιτητικές λειτουργίες ώστε να παραμείνουν διαθέσιμες περισσότερες βασικές λειτουργίες (π.χ. κλήσεις, SMS και επιλεγμένες εφαρμογές)</string>

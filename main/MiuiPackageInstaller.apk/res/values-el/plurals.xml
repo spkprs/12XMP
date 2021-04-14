@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="additional_permissions_more">
-    <item quantity="other">%1$d περισσότερο</item>
-    <item quantity="one">%1$d περισσότερο</item>
-  </plurals>
-  <plurals name="miui_permission_detail">
-    <item quantity="other">%d άδειες</item>
-    <item quantity="one">%d άδεια</item>
-  </plurals>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">%1$d περισσότερο</item>
+        <item quantity="one">%1$d περισσότερο</item>
+    </plurals>
+    <plurals name="miui_permission_detail">
+        <item quantity="other">%d άδειες</item>
+        <item quantity="one">%d άδεια</item>
+    </plurals>
     <plurals name="miui_app_all_permission_number">
         <item quantity="other">%d άδειες</item>
         <item quantity="one">%d άδεια</item>
     </plurals>
     <plurals name="miui_app_privacy_permission_number">
-        <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> δικαιώματα που σχετίζονται με το απόρρητο&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> δικαιώματα που σχετίζονται με το απόρρητο&lt;/Data></item>
+        <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> άδειες που σχετίζονται με το απόρρητο&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> άδεια που σχετίζεται με το απόρρητο&lt;/Data></item>
+    </plurals>
+    <plurals name="app_info_permission_count">
+        <item quantity="one">%1$s άδεια</item>
+        <item quantity="other">%1$s άδειες</item>
+    </plurals>
+    <plurals name="app_info_private_permission_count">
+        <item quantity="one">%1$s άδεια περί απορρήτου</item>
+        <item quantity="other">%1$s άδειες περί απορρήτου</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="one">%1$s κριτική</item>
+        <item quantity="other">%1$s κριτικές</item>
     </plurals>
 </resources>
