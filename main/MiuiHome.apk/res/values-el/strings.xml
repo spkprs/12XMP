@@ -348,6 +348,7 @@
     <string name="launcher_icon_management">Διαχείριση συντομέυσεων Αρχικής Οθόνης</string>
     <string name="launcher_not_exist">Παρουσιάστηκε σφάλμα. Πηγαίνετε πίσω στην Αρχική οθόνη και δοκιμάστε ξανά.</string>
     <string name="launcher_pull_down_title">Κάτω σάρωση στην Αρχική οθόνη</string>
+    <string name="launcher_search">Αναζήτηση Εκκινητή</string>
     <string name="launcher_search_bar_title">Γραμμή Αναζήτησης  στην Αρχική οθόνη</string>
     <string name="launcher_search_bar_value_disable">Ανενεργή</string>
     <string name="launcher_search_bar_value_enable">Ενεργή</string>
@@ -495,6 +496,9 @@
     <string name="preferred_app_settings_not_selected">Χωρίς επιλογή</string>
     <string name="privacy_thumbnail_blur_summary">Θολή προεπισκόπηση εφαρμ. στα Πρόσφατα</string>
     <string name="privacy_thumbnail_blur_title">Θολή προεπισκόπηση εφαρμογών</string>
+    <string name="provision_back">Πίσω</string>
+    <string name="provision_next">Επόμενο</string>
+    <string name="provision_skip_underline">Παράβλεψη</string>
     <string name="quick_app">Άμεσες εφαρμογές</string>
     <string name="recent_apps">Πρόσφατες εφαρμογές</string>
     <string name="recent_menu_item_info">Πληροφορίες</string>

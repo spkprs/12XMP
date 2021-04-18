@@ -111,4 +111,8 @@
         <item>LTE</item>
         <item>Τριπλή λειτουργία</item>
     </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>Σκοτεινό</item>
+        <item>Φωτεινό</item>
+    </string-array>
 </resources>

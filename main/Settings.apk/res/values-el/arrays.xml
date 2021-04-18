@@ -470,8 +470,12 @@
     <item>1</item>
   </string-array>
   <string-array name="cdma_system_select_choices">
-    <item>Home only</item>
-    <item>Automatic</item>
+    <item>Μόνο αρχική σελίδα</item>
+    <item>Αυτόματo</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item>Σκοτεινό</item>
+    <item>Φωτεινό</item>
   </string-array>
   <string-array name="cdma_system_select_values">
     <item>0</item>

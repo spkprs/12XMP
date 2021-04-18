@@ -516,12 +516,12 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">Μην ξεχάσετε να καθαρίσετε την προσωρινή μνήμη</string>
     <string name="application_item_already_permission">Επιτράπηκε</string>
     <string name="application_item_disable">Περιορίστηκε</string>
-    <string name="applock_add_account">Προσθέστε</string>
+    <string name="applock_add_account">Προσθήκη</string>
     <string name="applock_add_account_ignore">Όχι τώρα</string>
     <string name="applock_add_account_ignore_with_seconds">Όχι τώρα (%ds)</string>
     <string name="applock_add_account_info">Προσθέστε το Λογαριασμό Mi για να μπορέσετε να επαναφέρετε τον κωδικό πρόσβασής σας σε περίπτωση που το ξεχάσετε.</string>
     <string name="applock_add_account_setting">Λογαριασμός &amp; ιδιωτικότητα</string>
-    <string name="applock_add_account_tips">"Με το Mi λογαριασμό, θα μπορείτε να επαναφέρετε το κλείδωμα εφαρμογής σας εάν το ξεχάσετε."</string>
+    <string name="applock_add_account_tips">"Με το Mi λογαριασμό, θα μπορείτε να επαναφέρετε το κλείδωμα εφαρμογής σας εάν τον ξεχάσετε."</string>
     <string name="applock_add_account_title">Προσθέστε τον Mi λογαριασμό σας</string>
     <string name="applock_already_add_account">Τρέχων λογαριασμός: %s</string>
     <string name="applock_app_recommend_lock_title">Μπορείτε να κλειδώσετε τις ακόλουθες εφαρμογές</string>
@@ -536,7 +536,7 @@
     <string name="applock_function_base_settings">Κλείδωμα εφαρμογής</string>
     <string name="applock_function_pwd_settings">Κωδικός</string>
     <string name="applock_go_to">Ρυθμίσεις</string>
-    <string name="applock_guide_notification_summary">Προστατεύστε το απόρρητο σας με το Κλείδωμα εφαρμογής</string>
+    <string name="applock_guide_notification_summary">Προστασία απορρήτου σας με το Κλείδωμα εφαρμογών</string>
     <string name="applock_guide_notification_title">Άλλα άτομα ενδέχεται να βλέπουν ευαίσθητες πληροφορίες στην οθόνη σας</string>
     <string name="applock_guide_open_applock">Ενεργοποίηση</string>
     <string name="applock_guide_tip1">Διατίθενται πολλές επιλογές τύπου κωδικού πρόσβασης. Ξεκλειδώστε εφαρμογές με το αποτύπωμα, το πρόσωπο ή εισαγάγετε κωδικό.</string>
@@ -550,7 +550,7 @@
     <string name="applock_guide_tip2">Προσθέστε τον λογαριασμό σας Mi για να μπορέσετε να επαναφέρετε τον κωδικό πρόσβασής σας.</string>
     <string name="applock_guide_tip3">Απόκρυψη περιεχομένου ειδοποιήσεων.</string>
     <string name="applock_guide_tip3_global">Απόκρυψη περιεχομένου ειδοποιήσεων.</string>
-    <string name="applock_guide_title">Προστατέψτε τα προσωπικά σας δεδομένα με το Κλείδωμα εφαρμογών</string>
+    <string name="applock_guide_title">Προστασία απορρήτου σας με το Κλείδωμα εφαρμογών</string>
     <string name="applock_header_text_less_than_half">Πολύ μικρό. Σύρετε λίγο περισσότερο.</string>
     <string name="applock_lock_all">Κλείδωμα όλων</string>
     <string name="applock_login_and_add_account">Σύνδεση &amp; προσθήκη</string>
@@ -559,8 +559,8 @@
     <string name="applock_not_login_account">Δεν είστε συνδεδεμένοι</string>
     <string name="applock_operate_faceunlock_summary">Ξεκλειδώστε τις εφαρμογές απλά κοιτάζοντας την οθόνη</string>
     <string name="applock_operate_faceunlock_title">Χρήση δεδομένων προσώπου</string>
-    <string name="applock_operate_fingerprint_summary">Το Κλείδωμα εφαρμογής υποστηρίζει την προσθήκη πολλών δακτυλικών αποτυπωμάτων</string>
-    <string name="applock_operate_fingerprint_title">Χρησιμοποιήστε το δακτυλικό σας αποτύπωμα</string>
+    <string name="applock_operate_fingerprint_summary">Το Κλείδωμα εφαρμογής υποστηρίζει πολλά Δακτ. αποτυπώματα</string>
+    <string name="applock_operate_fingerprint_title">Χρήση Δακτ. αποτύπωματος</string>
     <string name="applock_operate_hidenoti_summary">Το Κλείδωμα εφαρμογής μπορεί να το κάνει αυτό για τις προστατευμένες εφαρμογές</string>
     <string name="applock_operate_hidenoti_title">Θέλετε να αποκρύψετε ευαίσθητες ειδοποιήσεις;</string>
     <string name="applock_recommend_tips">%s των χρηστών προστατεύουν αυτές τις εφαρμογές</string>
@@ -3004,7 +3004,7 @@
     <string name="privacy_apps_close">Κλείστε</string>
     <string name="privacy_apps_enable_summary">Μετακινήστε τις εφαρμογές σε ένα κρυφό φάκελο και καταργήστε τις συντομεύσεις στην Αρχική οθόνη</string>
     <string name="privacy_apps_go_to_use">Εκκίνηση</string>
-    <string name="privacy_apps_manage">Διαχείριση κρυφών εφαρμογών</string>
+    <string name="privacy_apps_manage">Διαχείριση κρυφών εφαρμ.</string>
     <string name="privacy_apps_manage_dialog_title">Σχετικά με τις κρυφές εφαρμογές</string>
     <string name="privacy_apps_manager_dialog_message">Τα εικονίδια των εφαρμογών δεν θα εμφανίζονται στην Αρχική οθόνη μετά την απόκρυψη τους.Απόκρυψη αυτής της εφαρμογής?</string>
     <string name="privacy_apps_next_stup">Επόμενο</string>
