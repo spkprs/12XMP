@@ -2532,6 +2532,13 @@
     <string name="exterior">Συνδυασμός χρωμάτων</string>
     <string name="external_code_size_label">Εφαρμογή αποθήκευσης USB</string>
     <string name="external_data_size_label">Δεδομένα συσκευής USB</string>
+    <string name="external_ram_dialog_btn_cancel">Αργότερα</string>
+    <string name="external_ram_dialog_btn_ok">Επανεκκίνηση</string>
+    <string name="external_ram_dialog_message">Επανεκκινήστε τη συσκευή σας για να εφαρμόσετε τις αλλαγές.</string>
+    <string name="external_ram_dialog_title">Επανεκκίνηση συσκευής</string>
+    <string name="external_ram_summary">"Προσθέστε %1$s %2$s μνήμη RAM καταλαμβάνοντας χώρο αποθήκευσης. Χρησιμοποιήστε αυτή τη λειτουργία μόνο όταν υπάρχει αρκετός διαθέσιμος χώρος στη συσκευή σας."</string>
+    <string name="external_ram_title">Επέκταση μνήμης</string>
+    <string name="external_ram_toast">"Δεν είναι δυνατή η χρήση επέκτασης μνήμης λόγω ανεπαρκούς χώρου αποθήκευσης"</string>
     <string name="external_source_switch_title">Αποδοχή από αυτήν την πηγή</string>
     <string name="external_source_trusted">Επιτρέπεται</string>
     <string name="external_source_untrusted">Δεν επιτρέπεται</string>
@@ -3769,7 +3776,7 @@
     <string name="low_label">Χαμηλή</string>
     <string name="low_storage_summary">Η αποθήκευση είναι χαμηλή. %1$s χρησιμοποιείται - %2$s ελεύθερος</string>
     <string name="macaddr_label">MAC διεύθ.:</string>
-    <string name="magic_window_name">Διαιρούμενο παράθυρο</string>
+    <string name="magic_window_name">Παράλληλα παράθυρα</string>
     <string name="mah">%d mAh</string>
     <string name="main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύωσης</string>
     <string name="main_running_process_description">Κύρια διαδικασία σε χρήση.</string>
@@ -4024,6 +4031,7 @@
     <string name="miheadset_moreSettingsInAi">Πρόσθετες ρυθμίσεις</string>
     <string name="miheadset_multi_connect_mode">Πολλαπλές συνδέσεις</string>
     <string name="miheadset_multi_connect_mode_summary">Συνδεθείτε σε πολλές συσκευές ταυτόχρονα</string>
+    <string name="miheadset_network_not_available">Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά</string>
     <string name="miheadset_next">Επόμενο κομμάτι</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Ακύρωση θορύβου</string>
@@ -4851,6 +4859,8 @@
     <string name="permission_manage_title">%s Άδειες</string>
     <string name="permission_manager">Άδειες</string>
     <string name="permission_mgr">Άδειες</string>
+    <string name="permission_records">Χρήση αδειών</string>
+    <string name="permission_records_summary">Σύνοψη του τρόπου χρήσης των αδειών από τις εφαρμογές</string>
     <string name="permission_settings_summary">Διαχείριση Αδειών σχετικά με τοποθεσία, αποθήκευση, τηλέφωνο, μηνύματα και επαφές.</string>
     <string name="permission_settings_title">Άδειες εφαρμογών</string>
     <string name="permissions_label">Άδειες</string>

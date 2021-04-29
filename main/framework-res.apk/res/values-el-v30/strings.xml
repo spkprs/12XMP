@@ -204,7 +204,7 @@
   <string name="lock_to_app_toast_accessible">Για να ξεκαρφιτσώσετε αυτή την οθόνη, πατήστε παρατεταμένα ταυτόχρονα το κουμπί Home και το κουμπί Power.</string>
   <string name="mobile_no_internet">Το δίκτυο κινητής τηλεφωνίας δεν έχει πρόσβαση στο διαδίκτυο.</string>
   <string name="not_checked">Μη επιλεγμένο</string>
-  <string name="notification_channel_developer_important">Σημαντικά μηνύματα προγραμματιστή</string>
+  <string name="notification_channel_developer_important">Σημαντικά μηνύμ. προγραμματιστή</string>
   <string name="notification_channel_network_alerts">Ειδοπ. Δικτύου</string>
   <string name="notification_channel_network_available">Διαθέσιμο Δίκτυο</string>
   <string name="notification_channel_network_status">Κατάσταση Δικτύου</string>

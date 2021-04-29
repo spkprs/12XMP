@@ -897,6 +897,7 @@
     <string name="module_name_panorama">Πανόραμα</string>
     <string name="module_name_portrait">Πορτρέτο</string>
     <string name="module_name_professional">Pro</string>
+    <string name="module_name_scanner">Σαρωτής</string>
     <string name="module_name_square">Τετράγωνη</string>
     <string name="module_name_super_moon">Υπερσελήνη</string>
     <string name="module_name_video">Βίντεο</string>
@@ -1446,6 +1447,9 @@
     <string name="reset_manual_picture_style_toast">Επιτυχής επαναφορά παραμέτρων</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Επαναφορά</string>
+    <string name="scan_install_prompt_header">Εγκατάσταση σαρωτή</string>
+    <string name="scan_install_prompt_loading">Εγκατάσταση σαρωτή…</string>
+    <string name="scan_install_prompt_message">Εγκαταστήστε το σαρωτή και δοκιμάστε ξανά.</string>
     <string name="screen_on_proximity_sensor_hint">Για να απενεργοποιήσετε αυτήν τη δυνατότητα, πιέστε τα κουμπία αύξησης Έντασης και το Πίσω ταυτόχρονα.</string>
     <string name="screen_on_proximity_sensor_summary">Μην καλύπτετε την περιοχή των ακουστικών</string>
     <string name="search_menu_title">Αναζήτηση</string>

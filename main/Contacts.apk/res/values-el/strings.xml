@@ -82,6 +82,12 @@
     <string name="back_description">Πίσω</string>
     <string name="back_view_description">Επιστρέψετε πίσω</string>
     <string name="batch_delete">Ομαδική διαγραφή</string>
+    <string name="bh_business_hall_is_here">Οι μεταφορικές υπηρεσίες βρίσκονται εδώ</string>
+    <string name="bh_business_style">Επιλογή διασύνδεσης</string>
+    <string name="bh_business_style_new">Νέα</string>
+    <string name="bh_business_style_old">Παλιά</string>
+    <string name="bh_system_recommend">Συστάσεις συστήματος</string>
+    <string name="bh_system_recommend_des">Επιτρέψτε μας να αναλύσουμε τις κινήσεις σας για να προτείνουμε ψηφιακά προϊόντα με βάση τα αποτελέσματα</string>
     <string name="bind_simcard_default">Προεπιλεγμένη SIM για κλήσεις</string>
     <string name="bind_simcard_menu">Ορισμός προεπιλεγμένης SIM για κλήσεις</string>
     <string name="bind_simcard_no_dual">Αδύνατη η εύρεση διπλής κάρτας SIM</string>
@@ -257,6 +263,7 @@
     <string name="clearable_edittext_clear_description">Διαγραφή</string>
     <string name="click_close">Πατήστε για να κλείσετε</string>
     <string name="clip_dialog_title">Κλήση αντιγραμμένου αριθμού;</string>
+    <string name="close">Κλείσιμο</string>
     <string name="close_dial_pad_description">Κλείσιμο πληκτρολογίου</string>
     <string name="cloud_antispam_mark">Ετικέτα ως spam</string>
     <string name="cloud_antispam_marked">Επισημάνθηκε</string>
@@ -356,6 +363,15 @@
     <string name="contacts_default_notification_channel">Ειδοποιήσεις</string>
     <string name="contacts_hybrid_activity_label">Επαναφορά επαφών</string>
     <string name="contacts_setting_title">Ρυθμίσεις επαφών</string>
+    <string name="contacts_trash_activity_hint">Επιλογή επαφών για επαναφορά</string>
+    <string name="contacts_trash_activity_title">Επαφές που διαγράφηκαν πρόσφατα</string>
+    <string name="contacts_trash_delete">Διαγραφή</string>
+    <string name="contacts_trash_delete_dialog_continue">Διαγραφή</string>
+    <string name="contacts_trash_delete_dialog_hint">"Δεν θα μπορείτε να το επαναφέρετε."</string>
+    <string name="contacts_trash_delete_dialog_loading">Διαγραφή…</string>
+    <string name="contacts_trash_delete_dialog_title">Διαγραφή επιλεγμένων επαφών;</string>
+    <string name="contacts_trash_restore">Επαναφορά</string>
+    <string name="contacts_trash_restore_loading">Επαναφορά…</string>
     <string name="contacts_unavailable_add_account">Συνδεθείτε στο λογαριασμό</string>
     <string name="contacts_unavailable_create_contact">Δημιουργία νέας επαφής</string>
     <string name="contacts_unavailable_import_contacts">Εισαγωγή επαφών από αρχείο</string>
@@ -378,6 +394,7 @@
     <string name="data_unit_gb">GB</string>
     <string name="data_unit_mb">MB</string>
     <string name="date_picker_lunar">Lunar Calendar</string>
+    <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="date_time_set">Ορισμός</string>
     <string name="date_year_toggle">Δώστε ένα έτος</string>
     <string name="default_ringtone">Προεπιλεγμένος ήχος κλήσης</string>
@@ -532,6 +549,7 @@
     <string name="email_work">Email εργασίας</string>
     <string name="emergency_number_label">Αριθμός έκτακτης ανάγκης</string>
     <string name="emptyGroup">Δεν υπάρχουν άνθρωποι σε αυτή την ομάδα</string>
+    <string name="ensure">OK</string>
     <string name="enter_contact_name">Πληκτρολογήστε το όνομα του ατόμου</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
@@ -828,10 +846,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το cloud</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -1215,6 +1236,7 @@
     <string name="select_none">Καμία επιλογή</string>
     <string name="select_show_contacts">Λίστα επαφών</string>
     <string name="select_vcard_title">Επιλογή αρχείου vCard</string>
+    <string name="send">Αποστολή</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Αυτή η συντόμευση υπάρχει ήδη</string>
     <string name="send_contact_shortcut_todesktop_failed">Αδύνατη η τοποθέτηση συντόμευσης στην αρχική οθόνη</string>
     <string name="send_contact_shortcut_todesktop_overflow">Αδύνατη η τοποθέτηση περισσότερων συντομεύσεων στην αρχική οθόνη</string>
@@ -1529,20 +1551,4 @@
     <string name="yesterday">Χθές</string>
     <string name="zero_items_selected">Επιλέξτε στοιχεία</string>
     <string name="zero_letter">+</string>
-    <string name="bh_business_hall_is_here">Οι μεταφορικές υπηρεσίες βρίσκονται εδώ</string>
-    <string name="bh_business_style">Επιλογή διασύνδεσης</string>
-    <string name="bh_business_style_new">Νέα</string>
-    <string name="bh_business_style_old">Παλιά</string>
-    <string name="bh_system_recommend">Συστάσεις συστήματος</string>
-    <string name="bh_system_recommend_des">Επιτρέψτε μας να αναλύσουμε τις κινήσεις σας για να προτείνουμε ψηφιακά προϊόντα με βάση τα αποτελέσματα</string>
-    <string name="contacts_trash_activity_hint">Επιλογή επαφών για επαναφορά</string>
-    <string name="contacts_trash_activity_title">Επαφές που διαγράφηκαν πρόσφατα</string>
-    <string name="contacts_trash_delete">Διαγραφή</string>
-    <string name="contacts_trash_delete_dialog_continue">Διαγραφή</string>
-    <string name="contacts_trash_delete_dialog_hint">"Δεν θα μπορείτε να το επαναφέρετε."</string>
-    <string name="contacts_trash_delete_dialog_loading">Διαγραφή…</string>
-    <string name="contacts_trash_delete_dialog_title">Διαγραφή επιλεγμένων επαφών;</string>
-    <string name="contacts_trash_restore">Επαναφορά</string>
-    <string name="contacts_trash_restore_loading">Επαναφορά…</string>
-    <string name="ensure">OK</string>
 </resources>

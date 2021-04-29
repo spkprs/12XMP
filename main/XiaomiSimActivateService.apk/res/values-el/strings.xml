@@ -140,6 +140,7 @@
     <string name="agree">Αποδοχή</string>
     <string name="app_name">Xiaomi Υπηρ. ενεργοπ. SIM</string>
     <string name="checking_client">Έλεγχος περιβάλλοντος ενεργοποίησης</string>
+    <string name="close">Κλείσιμο</string>
     <string name="error_checking_client">Παρουσιάστηκε σφάλμα κατά τη διάρκεια ενεργοποίησης</string>
     <string name="error_checking_client_tip">Δεν ήταν δυνατή ο έλεγχος του περιβάλλοντος ενεργοποίησης. Πατήστε για να προσπαθήσετε ξανά.</string>
     <string name="error_network_io">Παρουσιάστηκε σφάλμα δικτύου</string>
@@ -163,6 +164,7 @@
     <string name="privacy_revoke_failed_msg">Η ενεργοποίηση απαιτεί τη χορήγηση εξουσιοδότησης, ώστε τα μηνύματα να μπορούν να λάβουν τον αριθμό τηλεφώνου σας.</string>
     <string name="privacy_revoke_failed_msg_tip">Επιτρέψτε σε αυτήν την υπηρεσία να αποκτήσει πρόσβαση πρώτα στον αριθμό τηλεφώνου σας.</string>
     <string name="privacy_revoke_tips">Αφού ανακαλέσετε την εξουσιοδότηση, η εφαρμογή θα διακόψει τη συλλογή των δεδομένων σας και θα διαγράψει όλα τα δεδομένα σας από τους διακομιστές της. Ο συγχρονισμός με το Mi Cloud, το Mi Message και άλλες λειτουργίες μηνυμάτων δεν θα είναι πλέον διαθέσιμα. Ανάκληση εξουσιοδότησης ούτως ή άλλως;</string>
+    <string name="send">Αποστολή</string>
     <string name="sim_activated_failed_msg">Δεν ήταν δυνατή η ενεργοποίηση της υπηρεσίας. Πατήστε για να προσπαθήσετε ξανά.</string>
     <string name="sim_unactivated_feature_title">%s δεν ενεργοποιήθηκε</string>
     <string name="sim_unactivated_msg">Αυτή η υπηρεσία δεν είναι ενεργοποιημένη. Πατήστε για να προσπαθήσετε ξανά.</string>

@@ -458,6 +458,10 @@
     <string name="cloud_bacup_disable_processing">Επεξεργασία…</string>
     <string name="cloud_camera_display_name">Φωτογραφίες κάμερας</string>
     <string name="cloud_cancel_authorizing_to_device">Ακύρωση εξουσιοδότησης…</string>
+    <string name="cloud_full_space_tip_message">Αναβαθμίστε το σχέδιο αποθήκευσης cloud που διαθέτετε για να μπορείτε να συγχρονίσετε όλες τις φωτογραφίες και τα βίντεό σας στο cloud.</string>
+    <string name="cloud_full_space_tip_negative">Όχι τώρα</string>
+    <string name="cloud_full_space_tip_positive">Αναβάθμιση</string>
+    <string name="cloud_full_space_tip_title">Ανεπαρκής χώρος αποθήκευσης στο cloud</string>
     <string name="cloud_guide_auto_backup_title">Επιλέξτε τα άλμπουμ για συγχ/σμό</string>
     <string name="cloud_guide_login_title">Αυτόματη δημιουργία αντιγράφων φωτογραφιών και βίντεο</string>
     <string name="cloud_guide_welcome_title">MiCloud</string>
@@ -820,6 +824,7 @@
     <string name="filter_food_dessert">Καραμέλα</string>
     <string name="filter_food_fruit">Φρούτα</string>
     <string name="filter_food_latte">Λάτε</string>
+    <string name="filter_food_orangeflavor">Tangerine</string>
     <string name="filter_food_softdrink">Σόδα</string>
     <string name="filter_food_wholemeal">Κόκκοι</string>
     <string name="filter_general_blackice">Μαύρος πάγος</string>
@@ -832,6 +837,7 @@
     <string name="filter_general_lilt">Lilt</string>
     <string name="filter_general_movie">Film</string>
     <string name="filter_general_nature">Nature</string>
+    <string name="filter_general_past">Yore</string>
     <string name="filter_general_pink">Pink</string>
     <string name="filter_general_portrait">Πορτρέτο</string>
     <string name="filter_general_rise">Rise</string>
@@ -886,15 +892,18 @@
     <string name="filter_popular_coldsmoke">Δροσερή ομίχλη</string>
     <string name="filter_popular_comic">Anime</string>
     <string name="filter_popular_dream">Αντιστροφή</string>
+    <string name="filter_popular_gingertea">Ginger</string>
     <string name="filter_popular_hill">Λόφοι</string>
     <string name="filter_popular_humanity">Ντοκυμαντέρ</string>
     <string name="filter_popular_icesnow">Χιονόπτωση</string>
     <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_lnk">Μελάνι</string>
+    <string name="filter_popular_mango">Mango</string>
     <string name="filter_popular_purple">Μωβ</string>
     <string name="filter_popular_shallow_summer">Ιούνιος</string>
     <string name="filter_popular_smokegreen">Σοφός</string>
     <string name="filter_popular_watergreen">Έμεραλντ</string>
+    <string name="filter_popular_windchime">Chime</string>
     <string name="filter_popular_wintersun">Χειμώνας</string>
     <string name="filter_portrait_greyish">Τέφρα</string>
     <string name="filter_portrait_hint">Εστίαση χρώματος</string>
@@ -981,6 +990,7 @@
     <string name="filter_sky_yunmeng">Φαντασία</string>
     <string name="filter_sky_yunxu">Νεφέλωμα</string>
     <string name="filter_texture_shadow">Σούρουπο</string>
+    <string name="filter_travel_charlotte">Charlotte</string>
     <string name="finish_create_baby_album_toast">Δημιουργήθηκε άλμπουμ για το \"%s\" στο Xiaomi Cloud</string>
     <string name="finish_fill_baby">Δημιουργία</string>
     <string name="first_time_add_video_to_secret_tips">Ενημέρωση Συλλογής για προσθήκη βίντεο στο ιδιωτικό άλμπουμ</string>
@@ -1258,6 +1268,7 @@
     <string name="mi_mover_working_desc">Το Mi Mover μεταφέρει στοιχεία…</string>
     <string name="micloud_introduce">Αυτόματος συγχ/σμός φωτογραφιών και βίντεο (απαιτείται λογαριασμός Xiaomi)</string>
     <string name="midnight">Night</string>
+    <string name="mishare_all_devices">Όλες οι συσκευές</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
@@ -1821,7 +1832,7 @@
     <string name="search_backup_now">Ενεργοποίηση</string>
     <string name="search_backup_sub_title">Ενεργοποιήστε για να βρείτε περισσότερες εικόνες</string>
     <string name="search_backup_title">Συγχρονίστε με το Xiaomi Cloud</string>
-    <string name="search_clear_histories">Καθαρισμός</string>
+    <string name="search_clear_histories">Καθαρισμός ιστορικού αναζήτησης</string>
     <string name="search_connection_error">Δεν ήταν δυνατή η σύνδεση στο δίκτυο</string>
     <string name="search_connection_error_and_set">Αγγίξτε για να ελέγξετε τις ρυθμίσεις δικτύου</string>
     <string name="search_empty_title">Βρείτε φωτογραφίες με συγκεκριμένα άτομα, θέσεις και αντικείμενα στη συλλογή σας</string>
@@ -2072,6 +2083,7 @@
     <string name="sync_off_title">Συγχρ. για αυτ. αντίγρ. φώτο-βίντεο</string>
     <string name="sync_pending_title">Θα συγχρονιστεί αυτόματα</string>
     <string name="sync_state_unknow">Λήψη πληροφοριών</string>
+    <string name="synced_photo_video_count">Συγχρ/καν %1$s και %2$s</string>
     <string name="synced_title">Αντίγραφο φωτογραφιών και βίντεο ολοκληρώθηκε</string>
     <string name="syncing_gprs_title">Χρήση δεδομένων κινητής για αντίγραφα των στοιχείων</string>
     <string name="syncing_metadata_title">Συγχρονισμός δεδομένων Xiaomi Cloud</string>

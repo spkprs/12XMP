@@ -14,6 +14,7 @@
      <string name="button_no">Όχι</string>
      <string name="button_ok">OK</string>
      <string name="button_yes">Ναι</string>
+     <string name="close">Κλείσιμο</string>
      <string name="digits">Ψηφία (0-9, *, #, +)</string>
      <string name="disable_app">Ανενεργό</string>
      <string name="enable_app">Ενεργό</string>
@@ -67,6 +68,7 @@
      <string name="menu_back">Πίσω</string>
      <string name="menu_end_session">Τέλος συνεδρίας</string>
      <string name="no_sim_card_inserted">Παρακαλώ εισάγετε κάρτα SIM για να ξεκινήσετε τα εργαλεία SIM.</string>
+     <string name="send">Αποστολή</string>
      <string name="service_name">Όνομα υπηρεσίας</string>
      <string name="stk_app_state">Κατάσταση εφαρμογής</string>
      <string name="stk_no_service">Μη διαθέσιμη υπηρεσία</string>

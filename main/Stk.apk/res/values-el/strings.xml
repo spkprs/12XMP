@@ -6,6 +6,7 @@
   <string name="button_no">Όχι</string>
   <string name="button_ok">OK</string>
   <string name="button_yes">Ναι</string>
+  <string name="close">Κλείσιμο</string>
   <string name="default_call_setup_msg">Κλήση σε εξέλιξη…</string>
   <string name="default_close_channel_msg">Κλειστό κανάλι</string>
   <string name="default_open_channel_msg">Να ανοίξω κανάλι;</string>
@@ -20,6 +21,7 @@
   <string name="menu_back">Πίσω</string>
   <string name="menu_end_session">Τέλος συνεδρίας</string>
   <string name="no_sim_card_inserted">Παρακαλώ εισάγετε κάρτα SIM για να ξεκινήσετε τα εργαλεία SIM.</string>
+  <string name="send">Αποστολή</string>
   <string name="service_name">Όνομα υπηρεσίας</string>
   <string name="sim_type_sim_name">Εργαλεία SIM</string>
   <string name="sim_type_uim_name">Εργαλεία UIM</string>

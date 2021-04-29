@@ -536,4 +536,20 @@
     <item quantity="one">%d επιλεγμένο στοιχείο</item>
     <item quantity="other">%d επιλεγμένα στοιχεία</item>
   </plurals>
+    <plurals name="photo_count">
+        <item quantity="one">%d φώτο</item>
+        <item quantity="other">%d φώτο</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="one">Συγχ/μός %d φώτο</item>
+        <item quantity="other">Συγχ/μός %d φώτο</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="one">Συγχ/μός %d βίντεο</item>
+        <item quantity="other">Συγχ/μός %d βίντεο</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="one">%d βίντεο</item>
+        <item quantity="other">%d βίντεο</item>
+    </plurals>
 </resources>

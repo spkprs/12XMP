@@ -205,4 +205,8 @@
         <item quantity="other">Επιτυχής επαναφορά %d επαφών</item>
         <item quantity="one">Επιτυχής επαναφορά %d επαφής</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
+    </plurals>
 </resources>

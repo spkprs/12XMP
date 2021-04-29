@@ -6,10 +6,10 @@
      <string name="app_name_which_call">Εφαρμογή: %s</string>
      <string name="app_version_which_call">Έκδοση εφαρμογής: %s</string>
      <string name="autoconnect">Αυτόματη σύνδεση</string>
+     <string name="close">Κλείσιμο</string>
      <string name="ime_privacy_policy">Επιλέξτε πληκτρολόγιο</string>
      <string name="legal_written_offer">Γραπτή προσφορά</string>
-     <string name="license_host_unreachable">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Για να δείτε αυτές τις πληροφορίες τώρα,
-πηγαίνετε σε %s σε άλλη συνδεδεμένη συσκευή."</string>
+     <string name="license_host_unreachable">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Για να δείτε αυτές τις πληροφορίες τώρα,\nπηγαίνετε σε %s σε άλλη συνδεδεμένη συσκευή.</string>
      <string name="loading">Μισό λεπτό…</string>
      <string name="mibi_license">Mi Credits Συμφωνία Χρήστη</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
@@ -30,6 +30,7 @@
      <string name="policy_name">Πρωτόκολλο: %s</string>
      <string name="pre_installed_apps">Προεγκατεστημένες εφαρμογές</string>
      <string name="privacy_station_title">Privacy at Xiaomi</string>
+     <string name="send">Αποστολή</string>
      <string name="settings_ad_loading">Μισό λεπτό…</string>
      <string name="settings_ad_loading_unavailable">Δεν ήταν δυνατή η φόρτωση πληροφοριών.</string>
      <string name="settings_license_activity_loading">Μισό λεπτό…</string>

@@ -470,7 +470,8 @@
     <string name="offline_media_empty_title">Δεν υπάρχουν βίντεο</string>
     <string name="offline_pause">Παύση όλων των λήψεων</string>
     <string name="offline_setting">Ρυθμίσεις αναπαραγωγής</string>
-    <string name="offline_setting_mobile_net_limit_summary">Περιορίστε τη χρήση των δεδομένων όταν το μέγεθος των ληφθέντων βίντεο φτάσει σε ένα καθορισμένο όριο</string>
+    <string name="offline_setting_mobile_allow_mobile">Λήψη με χρήση δεδομ. κινητής</string>
+    <string name="offline_setting_mobile_net_limit_summary">Περιορισμός χρήσης δεδομένων όταν το μέγεθος των ληφθέντων βίντεο φτάσει σε ένα καθορισμένο όριο</string>
     <string name="offline_setting_mobile_net_limit_title">"Όριο δεδομένων "</string>
     <string name="offline_setting_mobile_net_limit_unlimited_title">Περιορισμός χρήσης δεδομένων κινητής (Απεριόριστα)</string>
     <string name="offline_setting_mobile_net_unlimited">Απεριόριστα</string>
@@ -522,7 +523,7 @@
     <string name="performance_mode">Λειτουργία Εκτέλεσης</string>
     <string name="performance_mode_desc">Προτεραιότητα Επιδόσεων</string>
     <string name="permission_content">Δεν μπορείτε να χρησιμοποιήσετε βίντεο έως ότου εκχωρήσετε Άδειες</string>
-    <string name="permission_content2">Το Mi Video χρειάζεται άδεια για σωστή λειτουργία . Μεταβείτε στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές > Mi Video > Δικαιώματα εφαρμογής και δώστε στο Mi Video τις απαιτούμενες Άδειες σχετικά με τα εξής:\n\n1. Αποθήκευση\n2. Τηλέφωνο\n2. Λογαριαμός</string>
+    <string name="permission_content2">Το Mi Video χρειάζεται άδεια για σωστή λειτουργία . Μεταβείτε στις Ρυθμίσεις > Εγκατεστημένες εφαρμογές > Mi Video > Άδειες εφαρμογής και δώστε στο Mi Video τις απαιτούμενες Άδειες σχετικά με τα εξής:\n\n1. Αποθήκευση\n2. Τηλέφωνο\n3. Λογαριασμός</string>
     <string name="permission_open_settings">Ρυθμίσεις</string>
     <string name="permission_refuse">Άρνηση</string>
     <string name="permission_retry">Ξαναδοκιμάσετε</string>

@@ -822,9 +822,9 @@
     <string name="storage_app_detail_manage_space">%s - Διαχείριση χώρου αποθήκευσης</string>
     <string name="storage_app_detail_manager_enabled">已启用</string>
     <string name="storage_app_detail_qq_cleaner">QQ专清</string>
-    <string name="storage_app_detail_sdcard">App data</string>
-    <string name="storage_app_detail_system">App size</string>
-    <string name="storage_app_detail_third_clean_size">Ελευθερώνω %s</string>
+    <string name="storage_app_detail_sdcard">Δεδομένα εφαρμ.</string>
+    <string name="storage_app_detail_system">Μέγεθος εφαρμ.</string>
+    <string name="storage_app_detail_third_clean_size">Ελευθερώστε %s</string>
     <string name="storage_app_detail_total">Συνολικός χώρος που καταλαμβάνεται</string>
     <string name="storage_app_detail_uninstall_app">Απεγκαταστήστε την εφαρμογή</string>
     <string name="storage_app_detail_uninstall_dialog_message">应用卸载后，其所有数据也将被删除。</string>
@@ -934,7 +934,7 @@
     <string name="update_date_format">MM/dd/yyyy</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
-    <string name="video_clean">Διαγραφή προσωρινά αποθηκευμένων βίντεο</string>
+    <string name="video_clean">Διαγρ προσωρ αποθ βίντεο</string>
     <string name="video_clean_auto_clean">Εκκαθάριση αυτόματα</string>
     <string name="video_clean_auto_clean_summary">Εκκαθάριση προσωρινά αποθηκευμένων βίντεο μετά τη σάρωση</string>
     <string name="video_clean_cache_tip">Τα εκκαθαρισμένα βίντεο μπορούν να φορτωθούν ξανά μετά</string>
@@ -952,7 +952,7 @@
     <string name="video_clean_qq_clean_title">QQ εκκαθαριστής</string>
     <string name="video_clean_remind_settings_title">Υπενθύμιση για καθαρισμό</string>
     <string name="video_clean_scan_app_tip">Σάρωση εφαρμογών %1$d/%2$d</string>
-    <string name="video_clean_video_manager_summary">Διαχείριση όλων των βίντεο που είναι αποθηκευμένα στη συσκευή σας</string>
+    <string name="video_clean_video_manager_summary">Διαχείριση των βίντεο αποθηκευμένων στη συσκευή σας</string>
     <string name="video_clean_video_manager_title">Διαχείριση βίντεο</string>
     <string name="video_clean_wechat_clean_summary">Καθαρισμός απορριμμάτων για ενίσχυση της ταχύτητας</string>
     <string name="video_clean_wechat_clean_title">WeChat εκκαθαριστής</string>

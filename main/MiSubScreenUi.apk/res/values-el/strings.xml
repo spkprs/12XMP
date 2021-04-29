@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="actionbar_button_up_description">Πίσω</string>
+    <string name="add_emergency_contact">Προσθήκη επαφής έκτακτης ανάγκης</string>
     <string name="afternoon">Απόγευμα</string>
     <string name="alarm_close">Σύρετε προς τα επάνω για απενεργοποίηση</string>
     <string name="alarm_later">Αναβολή</string>
@@ -105,6 +106,7 @@
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
     <string name="gallery_page_name">Απο Συλλογή</string>
+    <string name="has_add_contact">Προστέθηκε</string>
     <string name="icon_content_description">Εικονίδιο παραθύρου διαλόγου</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="letter_space">Διάστημα χαρακτήρων</string>
@@ -222,6 +224,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Πατήστε για εναλλαγή για την επιλογή έτους</string>
     <string name="night">Βράδυ</string>
     <string name="noon">Μεσημέρι</string>
+    <string name="not_add_contact">Δεν προστέθηκε</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="notification_new_message">Νέο μήνυμα</string>
     <string name="page_detail_preview_tip">Γυρίστε το τηλέφωνο για προεπισκόπηση</string>
@@ -239,13 +242,15 @@
     <string name="saturday_shortest">Σαβ</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="send">Αποστολή</string>
-    <string name="small_display_style">Θέμα πίσω οθόνης</string>
+    <string name="small_display_style">Πίσω οθόνη</string>
+    <string name="sps_cancel">Πατήστε παρατεταμένα για έξοδο</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_to_image_community">Βρείτε περισσότερα στη Mi Κοινότητα</string>
     <string name="sub_screen_app_name">Πίσω οθόνη</string>
+    <string name="subscreen_could_edit_pic">Σύρετε εικόνες για κλιμάκωση, πατήστε παρατεταμένα για διαγραφή</string>
     <string name="subscreen_other">Άλλα</string>
     <string name="subscreen_other_dialog_cancel">Ακύρωση</string>
-    <string name="subscreen_other_dialog_confirm">ΟΚ</string>
+    <string name="subscreen_other_dialog_confirm">Ενεργ/ηση</string>
     <string name="subscreen_other_dialog_goto">Προσθήκη</string>
     <string name="subscreen_other_dialog_message">"Η Εξαιρετική εξοικονόμηση ενέργειας απενεργοποιεί την κύρια οθόνη. Θα μπορείτε να ελέγχετε μόνο την ώρα, να δέχεστε κλήσεις και να καλείτε την επαφή έκτακτης ανάγκης χρησιμοποιώντας την πίσω οθόνη. Η συσκευή σας θα μπορεί να λειτουργεί έως και %d ημέρες με μία μόνο φόρτιση όταν είναι ενεργοποιημένη η Εξαιρετική εξοικονόμηση ενέργειας. Ενεργοποίηση Εξαιρετικής εξοικονόμησης ενέργειας τώρα;"</string>
     <string name="subscreen_other_dialog_title">Εξαιρετική εξοικονόμηση ενέργειας</string>
@@ -331,6 +336,9 @@
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
+    <string name="wilderness_dcalling">Σε σύνδεση</string>
+    <string name="wilderness_dialing">Καλεί</string>
+    <string name="wilderness_is_starting">Ενεργ/ηση Υπέρ εξοικ. ενέργειας…</string>
     <string name="wireless_change_to_ac_charging">Εναλλαγή σε μη ασύρματη φόρτιση</string>
     <string name="yesterday">Χθες</string>
 </resources>

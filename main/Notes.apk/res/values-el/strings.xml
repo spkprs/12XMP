@@ -435,10 +435,10 @@
     <string name="repeat_mode_set_item_none">Ποτέ</string>
     <string name="repeat_mode_set_item_normal_workday">Δευτέρα έως Παρασκευή</string>
     <string name="repeat_mode_set_item_week">Κάθε εβδομάδα (%s)</string>
-    <string name="repeat_mode_set_item_week_detail">Κάθε εβδομάδα (%s)</string>
+    <string name="repeat_mode_set_item_week_detail">(%s)</string>
     <string name="repeat_mode_set_item_year">Κάθε χρόνο (%s)</string>
     <string name="repeat_mode_set_item_year_detail">Κάθε χρόνο (%s)</string>
-    <string name="repeat_mode_set_item_year_detail_day">MM/dd</string>
+    <string name="repeat_mode_set_item_year_detail_day">%s</string>
     <string name="repeat_mode_set_title">Επανάληψη</string>
     <string name="repeat_mode_week">Κάθε εβδομάδα</string>
     <string name="repeat_mode_year">Κάθε χρόνο</string>

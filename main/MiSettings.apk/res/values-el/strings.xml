@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="actionbar_button_up_description">Πίσω</string>
-    <string name="adaptive_fps_tip">2. Επιτύχετε την καλύτερη ισορροπία μεταξύ ομαλότητας και διάρκειας ζωής μπαταρίας, προσαρμόζοντας δυναμικά το ρυθμό ανανέωσης.</string>
+    <string name="adaptive_fps_tip">- Επιτύχετε την καλύτερη ισορροπία μεταξύ ομαλότητας και διάρκειας ζωής μπαταρίας, προσαρμόζοντας δυναμικά το ρυθμό ανανέωσης.</string>
     <string name="advanced_mode">Σύνθετες ρυθμίσεις</string>
     <string name="africa_introduction">"Η άγρια ζωή ευδοκιμεί στην Αφρική - σπίτι πολλών από τα πιο διάσημα ζώα του κόσμου."</string>
     <string name="african_bush_elephant">Αφρικανικός ελέφαντας</string>
@@ -180,7 +180,7 @@
     <string name="fps_smooth_title">Υψηλός</string>
     <string name="fps_standard_summary">Ο τυπικός ρυθμός ανανέωσης εξοικονομεί μπαταρία</string>
     <string name="fps_standard_title">Τυπικός</string>
-    <string name="fps_user_tip">1. Αυτά τα εφέ επίδειξης κίνησης αναπαράγονται σε χαμηλή ταχύτητα για την αναφορά σας. Η πραγματική απόδοση μπορεί να φαίνεται διαφορετική με βάση διάφορους παράγοντες.</string>
+    <string name="fps_user_tip">- Αυτά τα εφέ επίδειξης κίνησης αναπαράγονται σε χαμηλή ταχύτητα για την αναφορά σας. Η πραγματική απόδοση μπορεί να φαίνεται διαφορετική με βάση διάφορους παράγοντες.</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Π</string>
@@ -428,6 +428,7 @@
     <string name="search_empty">Δεν βρέθηκαν εφαρμογές</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="send">Αποστολή</string>
+    <string name="service_ringtone_title">Υπηρεσία ήχων</string>
     <string name="several_days_use_time">Χρόνος οθόνης: %2$s</string>
     <string name="short_eared_owl">Κουκουβάγια</string>
     <string name="shortcut_created">Η συντόμευση υπάρχει ήδη</string>
