@@ -552,6 +552,7 @@
     <string name="multi_sim_ringtone_settings_dialog_ok">Το κατάλαβα</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Να μην εμφανιστεί ξανά</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Προβλήματα συμβατότητας</string>
+    <string name="multiwindow_no_support_icon">"Αδύνατη η αλλαγή εικονιδίων κατά τη χρήση \"Διαίρεση οθόνης\""</string>
     <string name="my_gifts">Δώρα</string>
     <string name="my_gifts_purchased">Αγορασμένα</string>
     <string name="my_gifts_received">Ληφθέντα</string>

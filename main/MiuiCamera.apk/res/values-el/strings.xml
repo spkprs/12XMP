@@ -513,6 +513,7 @@
     <string name="custom_watermark_words">Προσαρμογή κειμένου</string>
     <string name="custom_watermark_words_input_hint">Εισαγωγή κειμένου</string>
     <string name="custom_watermark_words_save_success">Επιτυχής αποθήκευση</string>
+    <string name="dd_frn_f_t">Διπλώστε τη συσκευή σας για να χρησιμοποιήσετε την μπροστινή κάμερα</string>
     <string name="dialog_button_accept">Αποδοχή</string>
     <string name="dialog_button_back">Πίσω</string>
     <string name="dialog_button_cancel">Ακύρωση</string>
@@ -594,6 +595,7 @@
     <string name="emoticon">Πακέτο Emoji</string>
     <string name="empty">" "</string>
     <string name="error_fail_to_start_audio_capture">Αδύνατη η εκκίνηση της λήψης ήχου</string>
+    <string name="esp_tip">Εξωτερική προεπισκόπηση οθόνης</string>
     <string name="expand_button_title">Για προχωρημένους</string>
     <string name="eye_light">Λάμψη ματιών</string>
     <string name="eye_light_angel">Άγγελος</string>
@@ -1093,6 +1095,7 @@
     <string name="pref_camera_eis_entry_off">Ανενεργή</string>
     <string name="pref_camera_eis_entry_pro">Σταθερό βίντεο Pro</string>
     <string name="pref_camera_eis_title">EIS</string>
+    <string name="pref_camera_esp">Προεπισκόπηση πίσω οθόνης</string>
     <string name="pref_camera_face_info_watermark_title">Αποτύπωση ηλικίας στις φωτογραφίες</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Αυτόματη απόκρυψη πλαισίου ανίχνευσης προσώπου</string>
     <string name="pref_camera_facedetection_title">Ανίχνευση προσώπου</string>
@@ -1253,6 +1256,8 @@
     <string name="pref_camera_touchafaec_entry_off">Off</string>
     <string name="pref_camera_touchafaec_entry_on">On</string>
     <string name="pref_camera_track_focus_preferred_description">Συμπεριλαμβανομένης της εστίασης παρακολούθησης σπορ και της μη αυτόματης εστίασης παρακολούθησης, το σύστημα θα αναγνωρίσει αυτόματα άτομα και κατοικίδια για εστίαση παρακολούθησης μετά την ενεργοποίηση ή μπορείτε να κάνετε διπλό κλικ για να επιλέξετε οποιονδήποτε στόχο για εστίαση</string>
+    <string name="pref_camera_track_focus_preferred_description">"Ενεργοποιήστε για να διατηρήσετε την εστίαση αυτόματα σε άτομα και ζώα. Θα μπορείτε επίσης να επιλέξετε θέματα για παρακολούθηση με μη αυτόματο τρόπο."</string>
+    <string name="pref_camera_track_focus_preferred_title">Παρακολούθηση εστίασης</string>
     <string name="pref_camera_track_focus_preferred_title">Σπορ εστίαση</string>
     <string name="pref_camera_ubifocus_title">Επανεστίαση</string>
     <string name="pref_camera_ultra_wide_ldc_description">Διόρθωση της παραμορφωμένης εικόνας σε υπέρ ευρυγώνιας λειτουργίας</string>
@@ -1418,11 +1423,15 @@
     <string name="prek_b_j_o">Δημιουργήστε στερεοφωνικό εφέ περιβάλλοντος</string>
     <string name="prek_b_j_p">Μειώστε την επίδραση του ανέμου στην ηχογράφηση</string>
     <string name="prep_video_ai_audio_new_desc_tip">Ενισχύονται οι ήχοι από το επίκεντρο του θέματος</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Οι ήχοι από το θέμα στο επίκεντρο ενισχύονται σε οριζόντια λειτουργία</string>
     <string name="prep_video_ai_audio_single_desc_tip">Οι ήχοι πίσω από την οθόνη φιλτράρονται</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Οι ήχοι από πίσω από την οθόνη θα φιλτράρονται σε οριζόντια λειτουργία</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Το ζουμ ήχου δεν λειτουργεί άμεσα στο ακουστικό και εξωτερικό μικρόφωνο"</string>
     <string name="preparing_sd">Έλεγχος SD card…</string>
     <string name="preview_back_pressed_hint">Πατήστε ξανά για να επιστρέψετε στην προεπισκόπηση</string>
     <string name="pro_color_mode">Χρώμα Pro</string>
+    <string name="process_tips_1">"Μην διπλώνετε τη συσκευή μέχρι να αποθηκευτεί το βίντεο"</string>
+    <string name="process_tips_2">"Μην ξεδιπλώσετε τη συσκευή μέχρι να αποθηκευτεί το βίντεο"</string>
     <string name="professional_shortcut_long">Pro</string>
     <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Δοκιμάστε τη λειτουργία Macro</string>

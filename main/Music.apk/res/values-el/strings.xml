@@ -262,6 +262,7 @@
     <string name="bluetooth_device">Bluetooth συσκευή ήχου</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="btn_text_edit">Επεξεργασία</string>
+    <string name="btn_text_view_all">Προβολή όλων</string>
     <string name="buffering">Φόρτωση…</string>
     <string name="button_add">Προσθέσετε</string>
     <string name="button_cancel_download">Ακύρωση</string>
@@ -842,6 +843,8 @@
     <string name="failed_dup_secure_phone_number">Αυτός ο αριθμός τηλεφώνου είναι ήδη συσχετισμένος με έναν άλλο λογαριασμό Mi</string>
     <string name="failed_not_access_sd_card">Επιτρέψτε την πρόσβαση στην SD card πρώτα</string>
     <string name="failed_obtain_permissions">Αδυναμία λήψης πρόσβασης</string>
+    <string name="failed_to_connect_hint">Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά</string>
+    <string name="failed_to_connect_text">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο"</string>
     <string name="failure_no_network">Ελέγξτε τη σύνδεσή σας και προσπαθήστε ξανά.</string>
     <string name="fans">Ακόλουθοι</string>
     <string name="fav_login_msg">Συνδεθείτε στο λογαριασμό Mi για να κατεβάσετε τραγούδια</string>
@@ -1076,6 +1079,7 @@
     <string name="high_sound_quality">Υψηλή</string>
     <string name="higher_quality_music">Ήχος υψηλής ποιότητας</string>
     <string name="higher_quality_music_summary">Ροή και λήψη αρχείων με μεγαλύτερη ταχύτητα</string>
+    <string name="hint_search_songs_playlists_artists">Αναζήτηση τραγουδιών, λιστών αναπαραγωγής και καλλιτεχνών</string>
     <string name="history_clear">Εκκαθάριση</string>
     <string name="history_clear_fm">Σαφές ιστορικό αναπαραγωγής ραδιοφώνου τώρα;</string>
     <string name="history_clear_music">Κατάργηση όλων των τραγουδιών από το ιστορικό αναπαραγωγής;</string>
@@ -1234,6 +1238,7 @@
     <string name="loading">Μόνο ένα λεπτό.…</string>
     <string name="loading_hint">Περιμένετε μια στιγμή…</string>
     <string name="loading_reached_the_bottom">Αυτά προς το παρόν.</string>
+    <string name="loading_text">Μισό λεπτό…</string>
     <string name="local_cloud_music">Xiaomi Cloud</string>
     <string name="local_cloud_state_backup_done">Η δημιουργία αντιγράφων ασφαλείας ολοκληρώθηκε με επιτυχία</string>
     <string name="local_cloud_state_backup_ing">Δημιουργία αντιγράφων ασφαλείας…</string>
@@ -2417,6 +2422,7 @@
     <string name="title_online_special">Όλα τα θέματα</string>
     <string name="title_online_suggest">Μπορεί να σας αρέσει.</string>
     <string name="title_play_list">Λίστα αναπαραγωγής</string>
+    <string name="title_recently_played">Εκτελέστηκε πρόσφατα</string>
     <string name="title_search_history">Αναζήτηση ιστορικού</string>
     <string name="title_search_hot">Δημοφιλής</string>
     <string name="to_be_downloaded">Εκκρεμείς</string>

@@ -2845,6 +2845,8 @@
     <string name="freeform_guide_notification_drop_down_summary">Πατήστε και, τραβήξτε προς τα κάτω μια ειδοποίηση</string>
     <string name="freeform_guide_notification_drop_down_title">Άνοιγμα</string>
     <string name="freeform_guide_settings">Αιωρούμενο παράθυρο</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Σάρωση από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Αιωρούμενα παράθυρα</string>
     <string name="freeform_guide_slide_up_to_close_summary">Σύρετε προς τα πάνω από τη γραμμή ενεργειών</string>
     <string name="freeform_guide_slide_up_to_close_title">Κλείσιμο</string>
     <string name="freeform_vedio_description">· Πατήστε παρατεταμένα και, τραβήξτε προς τα κάτω μια ειδοποίηση για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.\n· Πατήστε \"Αιωρούμενα παράθυρα\" στα Πρόσφατα για να επιλέξετε εφαρμογές.</string>
@@ -3981,6 +3983,8 @@
     <string name="miheadset_double_click_key_mode">Διπλό πάτημα</string>
     <string name="miheadset_double_click_left">Πατήστε δύο φορές το αριστερό ακουστικό</string>
     <string name="miheadset_double_click_right">Πατήστε δύο φορές το δεξιό ακουστικό</string>
+    <string name="miheadset_double_press_left">Διπλό πάτημα αριστερού ακουστικού</string>
+    <string name="miheadset_double_press_right">Διπλό πάτημα δεξιού ακουστικού</string>
     <string name="miheadset_enhence_high">Βελτιωμένα πρίμα</string>
     <string name="miheadset_enhence_low">Βελτιωμένα μπάσα</string>
     <string name="miheadset_equalizer">Ισοσταθμιστής</string>
@@ -4043,6 +4047,8 @@
     <string name="miheadset_transparent">Διαφάνεια</string>
     <string name="miheadset_transparentMode">Διαφάνεια</string>
     <string name="miheadset_triple_click_key_mode">Τριπλό πάτημα</string>
+    <string name="miheadset_triple_press_left">Τριπλό πάτημα αριστερού ακουστικού</string>
+    <string name="miheadset_triple_press_right">Τριπλό πάτημα δεξιού ακουστικού</string>
     <string name="miheadset_unpair_device_text">%1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν το λογαριασμό Mi.</string>
     <string name="miheadset_voiceIncrease">Βελτίωση φωνής</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
@@ -5648,6 +5654,7 @@
     <string name="screen_reader_category_title">Αναγνώστες οθόνης</string>
     <string name="screen_reader_mode_input_type_summary">Επιλογή χειρονομίας για ενεργοποίηση κειμένου εισαγωγής όταν το TalkBack είναι ενεργό</string>
     <string name="screen_reader_mode_input_type_title">Κείμενο εισαγωγής</string>
+    <string name="screen_recorder_title">Καταγραφή οθόνης</string>
     <string name="screen_resolution_dialog_title">Εναλλαγή ανάλυσης</string>
     <string name="screen_resolution_high_format">Υψηλή (%1$s)</string>
     <string name="screen_resolution_normal_format">Κανονική (%1$s)</string>
