@@ -1255,10 +1255,8 @@
     <string name="pref_camera_touch_focus_delay_title">Επέκταση του χρονικού ορίου εστίασης αφής</string>
     <string name="pref_camera_touchafaec_entry_off">Off</string>
     <string name="pref_camera_touchafaec_entry_on">On</string>
-    <string name="pref_camera_track_focus_preferred_description">Συμπεριλαμβανομένης της εστίασης παρακολούθησης σπορ και της μη αυτόματης εστίασης παρακολούθησης, το σύστημα θα αναγνωρίσει αυτόματα άτομα και κατοικίδια για εστίαση παρακολούθησης μετά την ενεργοποίηση ή μπορείτε να κάνετε διπλό κλικ για να επιλέξετε οποιονδήποτε στόχο για εστίαση</string>
     <string name="pref_camera_track_focus_preferred_description">"Ενεργοποιήστε για να διατηρήσετε την εστίαση αυτόματα σε άτομα και ζώα. Θα μπορείτε επίσης να επιλέξετε θέματα για παρακολούθηση με μη αυτόματο τρόπο."</string>
     <string name="pref_camera_track_focus_preferred_title">Παρακολούθηση εστίασης</string>
-    <string name="pref_camera_track_focus_preferred_title">Σπορ εστίαση</string>
     <string name="pref_camera_ubifocus_title">Επανεστίαση</string>
     <string name="pref_camera_ultra_wide_ldc_description">Διόρθωση της παραμορφωμένης εικόνας σε υπέρ ευρυγώνιας λειτουργίας</string>
     <string name="pref_camera_ultra_wide_ldc_title">Διόρθωση παραμόρφωσης σε λήψεις Υπέρ Ευρείας γωνίας</string>
