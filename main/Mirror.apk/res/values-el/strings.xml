@@ -208,7 +208,7 @@
     <string name="settings_home">MIUI+ Beta</string>
     <string name="settings_home_device_disconnect">Αποσύνδεση</string>
     <string name="settings_home_device_group">Συνδεδεμένη συσκευή</string>
-    <string name="settings_home_sub_title">Συνδέστε το τηλέφωνο και το PC σας σε έναν σταθμό εργασίας</string>
+    <string name="settings_home_sub_title">Συνδ τηλέφ &amp; PC σε σταθμό εργασίας</string>
     <string name="settings_home_tips">Το Screen Combo τοποθετεί ένα αντίγραφο της οθόνης του τηλεφώνου σας σε έναν συνδεδεμένο υπολογιστή, επιτρέποντάς σας να μεταφέρετε αρχεία και να αλληλεπιδράσετε με την κινητή συσκευή σας εκεί.</string>
     <string name="settings_log_options">Καταγραφές</string>
     <string name="settings_more_help">Βοήθεια</string>

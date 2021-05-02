@@ -1536,6 +1536,11 @@
     <string name="gamebox_immerson_open">Ενεργοποιείται η λειτ. Καθήλωσης  μην αλλάξετε δίκτυο…</string>
     <string name="gamebox_macro">Συνδυασμοί</string>
     <string name="gamebox_manual_record">Εγγραφή</string>
+    <string name="gamebox_micharge">Έλεγχος θερμοκρασίας φόρτισης</string>
+    <string name="gamebox_micharge_dialog_message">"Ενεργοποιήστε αυτή τη δυνατότητα για να περιορίσετε τη φόρτιση όταν ο φορτιστής είναι συνδεδεμένος. Ο φορτιστής θα χρησιμοποιηθεί μόνο για την παροχή τροφοδοσίας, που θα σας βοηθήσει να αποφύγετε την υπερθέρμανση ενώ παίζετε παιχνίδια."</string>
+    <string name="gamebox_micharge_dialog_title">Έλεγχος θερμοκρασίας φόρτισης</string>
+    <string name="gamebox_micharge_settings_summray">Για να αποφύγετε την υπερθέρμανση, χρησιμοποιήστε το φορτιστή μόνο για την παροχή ρεύματος</string>
+    <string name="gamebox_micharge_toast">Ο έλεγχος θερμοκρασίας φόρτισης είναι ενεργός</string>
     <string name="gamebox_milink">Μετάδοση</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Εγκαταστήστε QQ και δοκιμάστε ξανά.</string>
@@ -1669,6 +1674,7 @@
     <string name="gb_shoulder_key_btn_save_exit">Αποθήκευση</string>
     <string name="gb_shoulder_key_circle_left">Α</string>
     <string name="gb_shoulder_key_circle_right">Δ</string>
+    <string name="gb_shoulder_key_dialog_message">"Μπορείτε να χρησιμοποιήσετε και τα δύο κουμπιά ώμου ταυτόχρονα για να ξεκινήσετε το Game Turbo όταν δεν παίζετε παιχνίδια."</string>
     <string name="gb_shoulder_key_dialog_txt">Μπορείτε να ενεργοποιήσετε το Game Turbo χρησιμοποιώντας κουμπιά Ώμου.</string>
     <string name="gb_shoulder_key_guide_btn_done">Κατάλαβα</string>
     <string name="gb_shoulder_key_guide_btn_next">Επόμενο</string>
@@ -1676,6 +1682,9 @@
     <string name="gb_shoulder_key_guide_tips1">Άνοιγμα εργαλειοθήκης και ρύθμιση κουμπιών ώμου</string>
     <string name="gb_shoulder_key_settings_guide_tips1">Μετακινήστε τα κουμπιά [Α] και [Δ] σε οποιαδήποτε λειτουργική θέση για να ολοκληρώσετε τη διαμόρφωση</string>
     <string name="gb_shoulder_key_settings_guide_tips2">Χρησιμοποιήστε κουμπιά ώμου για τα χαρακτηριστικά που τους έχετε εκχωρήσει κατά τη διάρκεια παιχνιδιών</string>
+    <string name="gb_shoulder_key_settings_summary">"Χρησιμοποιήστε και τα δύο κουμπιά ώμου για να ξεκινήσετε το Game Turbo όταν δεν παίζετε παιχνίδια"</string>
+    <string name="gb_shoulder_key_settings_title">Χρήση κουμπιών ώμου για το Game Turbo</string>
+    <string name="gb_shoulder_key_settings_title_new">Γρήγορη εκκίνηση Game Turbo</string>
     <string name="gb_sign_gift">Κάντε check-in για να λάβετε ανταμοιβές</string>
     <string name="gb_sign_gift_button_text">Λάβετε</string>
     <string name="gb_sign_notification_summary">Αναπαραγωγή παιχνιδιών χωρίς καθυστέρηση δικτύου</string>

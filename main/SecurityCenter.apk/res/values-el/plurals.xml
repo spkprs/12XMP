@@ -821,5 +821,9 @@
         <item quantity="other">%d εφαρμ.</item>
         <item quantity="one">%d εφαρμ.</item>
     </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Κατανοητό (%ds)</item>
+        <item quantity="one">Κατανοητό (%ds)</item>
+    </plurals>
 </resources>
 

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-    <string name="_00_00">00:00</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
@@ -213,8 +212,12 @@
     <string name="gb_gpu_tips_anti">Το υψηλότερο διαθέσιμο ποσοστό ομαλοποίησης ορίζεται από το συγκεκριμένο παιχνίδι</string>
     <string name="gb_gpu_tips_fps">Ο υψηλότερος διαθέσιμος ρυθμός καρέ ορίζεται από το συγκεκριμένο παιχνίδι</string>
     <string name="gb_gpu_tips_graph">Βελτιστοποιήστε τα γραφικά για να ενισχύσετε την απόδοση της GPU και να εξοικονομήσετε ενέργεια. Αυτή η δυνατότητα υποστηρίζεται από επιλεγμένα παιχνίδια.</string>
+    <string name="gb_gpu_tips_lod">Βελτιώστε την ευκρίνεια της εικόνας εξομαλύνοντας τις υφές των απομακρυσμένων αντικειμένων</string>
+    <string name="gb_gpu_tips_render">Χρήση πολυνηματικής απόδοσης για βελτιστοποίηση της απόδοσης παιχνιδιών</string>
     <string name="gb_gpu_tips_resolution">"Η προεπιλεγμένη ανάλυση ορίζεται από το συγκεκριμένο παιχνίδι. Ορισμένα παιχνίδια δεν επιτρέπουν την προσαρμογή της ανάλυσης."</string>
     <string name="gb_gpu_tips_texture">Προτεραιότητα στην απόδοση ή την ποιότητα εικόνας</string>
+    <string name="gb_gputuner_lod_deviation">Mipmap LOD bias</string>
+    <string name="gb_gputuner_multi_render">Πολυνηματική Απόδοση</string>
     <string name="gb_not_support_on_device">"Αυτή η εφαρμογή δεν μπορεί να χρησιμοποιηθεί στην εξωτερική οθόνη"</string>
     <string name="gb_pannel_control_mode_balance">Ισορροπημένη</string>
     <string name="gb_pannel_control_mode_custom">Προσαρμοσμένη</string>
