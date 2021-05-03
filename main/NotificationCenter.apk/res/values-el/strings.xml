@@ -72,7 +72,7 @@
     <string name="feedback_tip_msg">Για να ομαδοποιήσουμε τις ειδοποιήσεις με μεγαλύτερη ακρίβεια, πρέπει να συλλέξουμε το όνομα της εφαρμογής, τον τίτλο και την περιγραφή της ειδοποίησης, καθώς και την ώρα αποστολής της ειδοποίησης. Υποβολή των σχολίων σας;</string>
     <string name="feedback_tip_title">Σχόλια σχετικά με τις κατηγορίες ειδοποιήσεων</string>
     <string name="float_notification_snooze_strategy">Προσωρινή απόκρυψη</string>
-    <string name="float_notification_snooze_summary">Σαρώστε προς τα πάνω σε μια αιωρούμενη ειδοποίηση για να αποκρύψετε προσωρινά τις επερχόμενες</string>
+    <string name="float_notification_snooze_summary">Σαρώστε επάνω σε αιωρ. ειδοπ. για προσωρινή απόκρ. νέων</string>
     <string name="float_notifications">Αναδυόμενες</string>
     <string name="float_notifications_short">Αναδυώμενη</string>
     <string name="fmt_date">D</string>

@@ -265,6 +265,10 @@
   <string name="behavior_icon_title">Απόκρυψη εικονιδίου \"Ευαίσθητες ενέργειες\"</string>
   <string name="show_cards_title">Απενεργοποίηση πλακιδίου</string>
   <string name="show_cards_summary">Αντικατάσταση πλακιδίου καρτών Υγείας, Χρόνου Οθόνης και Δεδομένων με το Φακό</string>
+  <string name="notif_icon_settings_title">Αριθμός εικονιδίων ειδοποίησης</string>
+  <string name="switch_control_panel_title">Αλλαγή πλευράς</string>
+  <string name="switch_control_panel_summary">Εναλλαγή Ειδοποιήσεων και Διακοπτών</string>
+  <string name="pref_free">Χρησιμοποιήστε το Mi Space</string>
   <string name="miuipro_anim_title">Ενεργοποίηση συντόμευσης κίνησης</string>
   <string name="miuipro_anim_summary">Ενεργοποίηση συντόμευσης κίνησης μετά το ξεκλείδωμα</string>
   <string name="expand_notification_title">Ανάπτυξη πρώτης ειδοποίησης</string>

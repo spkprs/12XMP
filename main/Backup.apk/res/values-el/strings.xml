@@ -333,7 +333,7 @@
   <string name="new_pc_restore_content1">%d. Συνδέστε την κινητή συσκευή σας στον υπολογιστή μέσω καλωδίου USB.</string>
   <string name="new_pc_restore_content2">%d. Αντιγράψτε το αντίγραφο ασφαλείας από τον υπολογιστή σας σε MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Ανοιξτε την \"%2$s\" και επιλέξτε στοιχεία για επαναφορά.</string>
-  <string name="new_pc_title">Αντιγραφή αντιγράφων ασφαλείας</string>
+  <string name="new_pc_title">Αντιγραφή των αντιγράφων ασφαλείας σας</string>
   <string name="new_select_file">Ήχος, βίντεο και αρχεία</string>
   <string name="new_select_message">SMS, επαφές &amp; ιστορ. κλήσεων</string>
   <string name="new_select_pic">Εικόνες</string>

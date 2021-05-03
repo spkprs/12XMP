@@ -502,6 +502,7 @@
     <string name="silent_mode_toggle_title">Αθόρυβη λειτουργία</string>
     <string name="silent_notifications_status_bar">Απόκρυψη αθόρυβων ειδοποιήσεων στη γραμμή κατάστασης</string>
     <string name="sound_mode">Αθόρυβη λειτουργία &amp; DND</string>
+    <string name="status_device_wifi_mac_address">Wi‑Fi συσκευής διεύθυνση MAC</string>
     <string name="sound_settings_example_summary">Ένταση ήχου κουδουνίσματος και ειδοποιήσεων στο 80%</string>
     <string name="sound_settings_summary">Ένταση ήχου κουδουνίσματος και ειδοποιήσεων στο %1$s</string>
     <string name="storage_category">Αποθηκευτικός χώρος</string>

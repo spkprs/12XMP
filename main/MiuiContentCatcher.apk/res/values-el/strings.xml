@@ -2,8 +2,8 @@
 <resources>
     <string name="app_name">Υπηρεσία Επέκτασης εφαρμογής</string>
     <string name="auth_activity_label">Κωδικοί επαλήθευσης</string>
-    <string name="auth_fingerprint_content">Ανιχνεύοντας το δακτυλικό αποτύπωμα...</string>
-    <string name="auth_fingerprint_content_message">Βάλτε το δάχτυλό σας στον αισθητήρα</string>
+    <string name="auth_fingerprint_content">Ανίχνευση δακτ. αποτυπώματος...</string>
+    <string name="auth_fingerprint_content_message">Αγγίξτε το δάχτυλό σας στον αισθητήρα</string>
     <string name="auth_fingerprint_content_message_error">"Αδύνατη η σάρωση δακτυλικών αποτυπωμάτων, δοκιμάστε ξανά"</string>
     <string name="auth_fingerprint_title">Επαλήθευση των δακτυλικών σας αποτυπωμάτων</string>
     <string name="autofill_description">"Το MIUI μπορεί να κρυπτογραφήσει και αποθηκεύσει τους κωδικούς σας έτσι ώστε να εισάγονται αυτόματα όποτε χρειάζεται. Η Xiaomi δεν θα μπορεί να διαβάσει τους κρυπτογραφημένους κωδικούς σας."</string>
@@ -29,7 +29,7 @@
     <string name="login_mi_account_summary">Για να ενεργοποιήσετε το διαχειριστή κωδικών πρόσβασης, πρέπει να συνδεθείτε στο λογαριασμό Xiaomi,  θέλετε να συνδεθείτε;</string>
     <string name="ok">OK</string>
     <string name="password_manager">Διαχειριστής κωδικών</string>
-    <string name="password_manager_summary">Διαχειριστή κωδικού cloud, δημιουργία αντιγράφων ασφαλείας στον λογαριασμό Xiaomi</string>
+    <string name="password_manager_summary">Ο Διαχειριστής κωδικών Cloud, δημιουργεί αντίγραφα στον λογαριασμό Xiaomi</string>
     <string name="save_content_tip">"Τα ακόλουθα στοιχεία θα αποθηκευτούν:"</string>
     <string name="search">Αναζήτηση</string>
     <string name="settings_clear_data_confirmation_description">Εάν διαγράψετε τους κωδικούς πρόσβασης τώρα, θα πρέπει να τους πληκτρολογήσετε χειροκίνητα την επόμενη φορά που θα συνδέεστετε.\nΔιαγραφή κωδικών?</string>

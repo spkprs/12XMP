@@ -2803,7 +2803,7 @@
     <string name="forget_password_button_text">"<u>Ξέχασα τον κωδικό</u></string>
     <string name="forget_password_dialog_button_text">Πίσω</string>
     <string name="forget_password_dialog_content_four">2. Επιλέξτε [Εκκαθάριση δεδομένων] και περιμένετε μέχρι να επανεκκινηθεί η συσκευή σας.</string>
-    <string name="forget_password_dialog_content_one"><Data>Εάν ξεχάσετε τον κωδικό πρόσβασής σας, δεν θα μπορείτε να τον επαναφέρετε. Ωστόσο, μπορείτε να επαναφέρετε τον κωδικό πρόσβασής σας μετά από την &lt;font color=#ec2700>διαγραφή όλων των δεδομένων στη συσκευή σας&lt;/font>(συμπεριλαμβανομένων φωτογραφιών, επαφών κ.λπ.). Δημιουργήστε αντίγραφα ασφαλείας όλων των σημαντικών δεδομένων πριν από αυτήν την ενέργεια.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>Εάν ξεχάσετε τον κωδικό πρόσβασής σας, δεν θα μπορέσετε να τον επαναφέρετε. Ωστόσο, μπορείτε να επαναφέρετε τον κωδικό πρόσβασής σας μετά από την &lt;font color=#ec2700>διαγραφή όλων των δεδομένων στη συσκευή σας&lt;/font> (συμπεριλαμβανομένων φωτογραφιών, επαφών κ.λπ.). Δημιουργήστε αντίγραφα ασφαλείας όλων των σημαντικών δεδομένων πριν από αυτήν την ενέργεια.</Data></string>
     <string name="forget_password_dialog_content_three">1. Απενεργοποιήστε τη συσκευή σας. Πατήστε ταυτόχρονα το πλήκτρο [Power] και το πλήκτρο [Volume+] και κρατήστε τα μέχρι να δείτε το εικονίδιο *.</string>
     <string name="forget_password_dialog_content_two">Ακολουθήστε αυτά τα βήματα για την διαγραφή Δεδομένων:</string>
     <string name="forget_password_dialog_title">Εκκαθάριση δεδομένων</string>
@@ -7817,7 +7817,7 @@
     <string name="wifi_generation_status">Wi-Fi %1$d</string>
     <string name="wifi_generation_summary">Εμφάνιση του αριθμού του τύπου γενιάς ασύρματης τεχνολογίας στο εικονίδιο Wi-Fi</string>
     <string name="wifi_generation_title">Τεχνολογία</string>
-    <string name="wifi_hand_sel_wapi_cert">WAPI certificate</string>
+    <string name="wifi_hand_sel_wapi_cert">Πιστοποιητικό WAPI</string>
     <string name="wifi_hidden_network">Κρυφό δίκτυο</string>
     <string name="wifi_hidden_network_warning">Εάν ο δρομολογητής σας δεν εκπέμπει ένα αναγνωριστικό δικτύου, αλλά θέλετε να συνδεθείτε σε αυτό στο μέλλον, μπορείτε να ορίσετε το δίκτυο ως κρυφό.\n\nΑυτό μπορεί να δημιουργήσει κίνδυνο ασφαλείας, επειδή το τηλέφωνό σας θα μεταδίδει τακτικά το σήμα του για να εντοπίσει το δίκτυο.\n\nΗ ρύθμιση του δικτύου ως κρυφού δεν θα αλλάξει τις ρυθμίσεις του δρομολογητή σας.</string>
     <string name="wifi_hide_password">Απόκρυψη κωδικού</string>
