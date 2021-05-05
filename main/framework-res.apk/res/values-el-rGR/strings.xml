@@ -743,7 +743,7 @@
   <string name="mime_type_compressed_ext">%1$s αρχείο</string>
   <string name="mime_type_document">Έγγραφο</string>
   <string name="mime_type_document_ext">%1$s έγγραφο</string>
-  <string name="mime_type_folder">Ντοσιέ</string>
+  <string name="mime_type_folder">Φάκελος</string>
   <string name="mime_type_generic">Αρχείο</string>
   <string name="mime_type_generic_ext">%1$s αρχείο</string>
   <string name="mime_type_image">Εικόνα</string>

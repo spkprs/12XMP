@@ -646,8 +646,8 @@
         <item quantity="one">%d εφαρμ.</item>
     </plurals>
     <plurals name="privacy_risk_dangerous_permissions_tip">
-        <item quantity="other">%d εκχωρημένα δικαιώματα υψηλού κινδύνου</item>
-        <item quantity="one">%d εκχωρημένο δικαίωμα υψηλού κινδύνου</item>
+        <item quantity="other">%d εκχωρημένες άδειες υψηλού κινδύνου</item>
+        <item quantity="one">%d εκχωρημένη άδεια υψηλού κινδύνου</item>
     </plurals>
     <plurals name="privacy_risk_install_app_tip">
         <item quantity="other">βρέθηκαν %d επικίνδυνες εφαρμογές</item>
@@ -674,8 +674,8 @@
         <item quantity="one">%d λειτουργία που προστατεύει το απόρρητό σας είναι ανενεργή</item>
     </plurals>
     <plurals name="privacy_risk_sensitive_permissions_tip">
-        <item quantity="other">%d ευαίσθητα δικαιώματα εκχωρήθηκαν</item>
-        <item quantity="one">%d ευαίσθητο δικαίωμα εκχωρήθηκε</item>
+        <item quantity="other">%d ευαίσθητες άδειες εκχωρήθηκαν</item>
+        <item quantity="one">%d ευαίσθητη άδεια εκχωρήθηκε</item>
     </plurals>
     <plurals name="privacy_risk_uninstall_btn">
         <item quantity="other">Απεγκατάσταση %d εφαρμ.</item>

@@ -723,7 +723,7 @@
     <string name="backup_set_pw_confirm_title">Επιβεβαίωση νέου κωδικού</string>
     <string name="backup_summary_state_off">Off</string>
     <string name="backup_summary_state_on">On</string>
-    <string name="badge_title">Αποδοχή σε Ένδειξη στο εικονίδιο εφαρμογής</string>
+    <string name="badge_title">Αποδοχή Ένδειξης στο εικονίδιο εφαρμογής</string>
     <string name="band_24G">" (Ζώνη 2.4 GHz)"</string>
     <string name="band_5G">" (Ζώνη 5 GHz)"</string>
     <string name="band_mode_failed">Ανεπιτυχής</string>
