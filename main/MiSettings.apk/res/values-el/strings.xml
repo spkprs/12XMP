@@ -476,9 +476,9 @@
     <string name="start_easymode">Ενεργοποίηση λειτουργίας Lite</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steady_on_screen_notification_title">Άφησε το τηλέφωνό σου και κάνε ένα διάλειμμα</string>
-    <string name="steady_on_screen_notify">Ειδοποίηση για αδιάλειπτη χρήση</string>
+    <string name="steady_on_screen_notify">Ειδοποίηση για συνεχή χρήση</string>
     <string name="steady_on_screen_setting">Χρονικό όριο για συνεχόμενη λειτουργία</string>
-    <string name="steady_on_screen_summary">Χρονικό όριο για αδιάλειπτες περιόδους λειτουργίας</string>
+    <string name="steady_on_screen_summary">Χρονικό όριο για συνεχείς περιόδους λειτουργίας</string>
     <string name="stop_app_timer">Απενεργοποίηση Χρόνου οθόνης</string>
     <string name="stop_app_timer_fail">Αδυναμία απενεργοποίησης Χρόνου οθόνης</string>
     <string name="stop_app_timer_success">Ο Χρόνος οθόνης έχει απενεργοποιηθεί</string>
@@ -738,7 +738,7 @@
     <string name="usage_state_notification">Διαχείριση ειδοποιήσεων</string>
     <string name="usage_state_notification_manager">Διαχείριση ειδοποιήσεων εφαρμογών</string>
     <string name="usage_state_num_level">"Επίπεδο %d: "</string>
-    <string name="usage_state_open_focus_mode">Ενεργοποίηση της λειτουργίας Εστίασης</string>
+    <string name="usage_state_open_focus_mode">Ενεργοποίηση Εστίασης</string>
     <string name="usage_state_over_p">Καλύτερο από</string>
     <string name="usage_state_percent">%s%%</string>
     <string name="usage_state_remind_new_summary">Λάβετε μια ειδοποίηση όταν ο χρόνος οθόνης φθάσει στο όριο</string>

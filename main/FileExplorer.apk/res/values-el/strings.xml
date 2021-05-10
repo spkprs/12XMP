@@ -87,8 +87,8 @@
     <string name="cdd_message">"Λόγω των περιορισμών του Android 11, δεν θα μπορείτε να προβάλετε μερικά από τα αρχεία που δημιουργήθηκαν μέσω εφαρμογών τρίτων κατασκευαστών στη Διαχείριση αρχείων."</string>
     <string name="cdd_title">Προσοχή</string>
     <string name="clean_hint">Πατήστε για να ελευθερώσετε χώρο</string>
-    <string name="click_to_switch_volume">Πατήστε για εναλλαγή μεταξύ volumes</string>
-    <string name="click_to_switch_volume_pad">Πατήστε για εναλλαγή μεταξύ Εσωτερικού χώρου και Κάρτας SD</string>
+    <string name="click_to_switch_volume">Πατήστε για εναλλαγή χώρων</string>
+    <string name="click_to_switch_volume_pad">Πατήστε για εναλλαγή Εσωτερικού χώρου και Κάρτας SD</string>
     <string name="clock_in">Σύνδεση…</string>
     <string name="close">Κλείστε</string>
     <string name="compress_fail">Αδυναμία συμπίεσης. Υπάρχει ήδη ένα αρχείο με ίδιο όνομα.</string>

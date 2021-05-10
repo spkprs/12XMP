@@ -54,9 +54,9 @@
     <string name="ad_install_success_dialog_lunch">Άνοιγμα</string>
     <string name="ad_install_success_dialog_title">Εγκαταστήθηκε %1$s επιτυχώς. Άνοιγμα τώρα?</string>
     <string name="analying">Ανάλυση…</string>
-    <string name="apk_status_damage">Κατεστραμμένο</string>
-    <string name="apk_status_duplicate">Διπλότυπο</string>
-    <string name="apk_status_install">Εγκατεστημένη</string>
+    <string name="apk_status_damage">Κατεστρ/μένη</string>
+    <string name="apk_status_duplicate">Διπλή</string>
+    <string name="apk_status_install">Εγκατ/μένη</string>
     <string name="apk_status_installed_old">Παλιά</string>
     <string name="apk_status_uninstalled">Διαθέσιμη</string>
     <string name="apk_title_alipay_plugin">alipay plug-in</string>
@@ -407,7 +407,7 @@
     <string name="guide_secure_dialog_positive">Βελτιστοποίηση</string>
     <string name="guide_secure_dialog_title">Βελτιστοποίηση απόδοσης</string>
     <string name="guide_virus_dialog_message">Η σάρωση εφαρμογών και πακέτων εγκατάστασης προστατεύει τη συσκευή σας από ιούς και κακόβουλα προγράμματα. Σάρωση της συσκευής σας τώρα;</string>
-    <string name="guide_virus_dialog_negative">Ματαίωση</string>
+    <string name="guide_virus_dialog_negative">Ακύρωση</string>
     <string name="guide_virus_dialog_positive">Σάρωση</string>
     <string name="guide_virus_dialog_title">Ανίχνευση ιών</string>
     <string name="header_optimizer">Χρησιμοποιώντας αυτή τη λειτουργία, συμφωνείτε με την %s μας.</string>

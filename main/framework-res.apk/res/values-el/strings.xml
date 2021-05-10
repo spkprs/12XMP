@@ -826,6 +826,7 @@
   <string name="notification_channel_retail_mode">Επίδειξη πώλησης</string>
   <string name="notification_channel_security">Ασφάλεια</string>
   <string name="notification_channel_sim">Κατάσταση SIM</string>
+  <string name="notification_channel_sim_high_prio">Υψ προτεραιότ καταστ SIM</string>
   <string name="notification_channel_sms">Μηνύματα SMS</string>
   <string name="notification_channel_system_changes">Αλλαγές συστήματος</string>
   <string name="notification_channel_updates">Ενημερώσεις</string>

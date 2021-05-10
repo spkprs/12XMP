@@ -475,11 +475,11 @@
     <string name="app_pa_setting_version">Έκδοση: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">Χρήση χρόνου οθόνης</string>
-    <string name="app_screen_time_no_time_title">Λιγότερο από 1 λεπτό</string>
+    <string name="app_screen_time_no_time_title">&lt; 1 λεπ.</string>
     <string name="app_screen_time_support_false">"Αυτή η υπηρεσία δεν υποστηρίζεται"</string>
     <string name="app_screen_time_time">%1$dω %2$dλ</string>
     <string name="app_screen_time_time_minute">%1$dλ</string>
-    <string name="app_screen_time_title">"Χρόνος οθόνης: "</string>
+    <string name="app_screen_time_title">"Χρόνος οθόνης"</string>
     <string name="app_setting">Ρυθμίσεις Προσωπικού βοηθού</string>
     <string name="app_setting_account">Λογαριασμοί</string>
     <string name="app_setting_account_binding">Προσθήκη</string>
@@ -1886,7 +1886,7 @@
     <string name="payment_pref_source_wechat_title">WeChat</string>
     <string name="payment_privacy_dialog_cancel">Έξοδος</string>
     <string name="payment_privacy_dialog_ok">Συμφωνώ</string>
-    <string name="payment_privacy_dialog_title">πολιτική Προστασίας Προσωπικών Δεδομένων \\"Οι πληρωμές μου\\"</string>
+    <string name="payment_privacy_dialog_title">πολιτική Προστασίας Προσωπικών Δεδομένων \"Οι πληρωμές μου\"</string>
     <string name="payment_record_add">Προσθήκη πληρωμής</string>
     <string name="payment_record_delete">Διαγραφή από τις πληρωμές</string>
     <string name="payment_record_empty">Δεν υπάρχουν πληρωμές ακόμα</string>
@@ -1894,7 +1894,7 @@
     <string name="payment_record_menu_delete">Διαγραφή</string>
     <string name="payment_record_menu_select">Επιλέξτε</string>
     <string name="payment_report_failed_record_dialog_cancel">Ακύρωση</string>
-    <string name="payment_report_failed_record_dialog_message">\\"Αναφορά ανεπεξέργαστων λογαριασμών για να μας βοηθήσει να κάνουμε τον υπολογισμό της πληρωμής πιο ακριβή.\n\"&lt;b&gt;Τα στοιχεία που μοιράζεστε θα χρησιμοποιηθούν μόνο για τη βελτίωση της θυρίδας αποθήκευσης εφαρμογών.&lt;/b&gt;</string>
+    <string name="payment_report_failed_record_dialog_message">Αναφορά ανεπεξέργαστων λογαριασμών για να μας βοηθήσει να κάνουμε τον υπολογισμό της πληρωμής πιο ακριβή.\n&lt;b&gt;Τα στοιχεία που μοιράζεστε θα χρησιμοποιηθούν μόνο για τη βελτίωση της θυρίδας αποθήκευσης εφαρμογών.&lt;/b&gt;</string>
     <string name="payment_report_failed_record_dialog_ok">Έκθεση</string>
     <string name="payment_setting">ρύθμιση</string>
     <string name="payment_total_month_desc">Αυτο το μηνα</string>
@@ -1903,7 +1903,7 @@
     <string name="payment_upload_data_fail">Η αποστολή δεδομένων απέτυχε</string>
     <string name="payment_upload_data_no_data">Δεν υπάρχουν δεδομένα για μεταφόρτωση</string>
     <string name="payment_upload_data_success">Η αποστολή δεδομένων ολοκληρώθηκε με επιτυχία</string>
-    <string name="payment_user_notice_bar_text">Πληροφορίες για τις \\"Αυτόματες πληρωμές\\"</string>
+    <string name="payment_user_notice_bar_text">Πληροφορίες για τις \"Αυτόματες πληρωμές\"</string>
     <string name="peccancy_acquire">Παραβιάσεις της κυκλοφορίας</string>
     <string name="personalAssistant_mainpage">Αρχική σελίδα</string>
     <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
