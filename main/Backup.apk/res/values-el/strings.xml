@@ -72,6 +72,7 @@
   <string name="backup_finished">Η αντιγραφή ολοκληρώθηκε</string>
   <string name="backup_hint">Μην απενεργοποιήσετε το τηλέφωνο ίσως χάσετε δεδομένα</string>
   <string name="backup_hint_onpad">Κρατήστε τη συσκευή σας σε λειτουργία</string>
+  <string name="backup_hint_pad">Διατήρηση συσκευής ενεργή</string>
   <string name="backup_is_running">Λήψη αντιγράφου συσκευής</string>
   <string name="backup_new">Νέο:</string>
   <string name="backup_progress">Αντιγραφή…</string>
@@ -229,20 +230,20 @@
   <string name="hsa_verify_failed_message">Ο έλεγχος ταυτότητας δύο παραγόντων απέτυχε. Μπορείτε να δοκιμάσετε ξανά ή να απενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων.</string>
   <string name="hsa_verify_retry">Προσπαθήστε ξανά</string>
   <string name="hsa_verify_shutdown">Απενεργοποιήστε</string>
+  <string name="iCloud_ID_verification_tip">Πατήστε \"Αποδοχή\" στη συσκευή σας Apple για να εμφανιστεί ο κωδικός επαλήθευσης. Εισάγετε εδώ τον κωδικό επαλήθευσης.</string>
   <string name="icloud_backup_tip">Συνδεθείτε στο λογαριασμό iCloud της παλιάς σας συσκευής iOS</string>
   <string name="icloud_how_to_backup_tip_steps">1. Ανοίξτε τις Ρυθμίσεις στη συσκευή σας iOS και επιλέξτε iCloud.\n2. Εναλλαγή των διακοπτών για επαφές και άλλα στοιχεία.\n3. Επιλέξτε Φωτογραφίες και περιστρέψτε το διακόπτη για τη Βιβλιοθήκη Φωτογραφιών iCloud.</string>
   <string name="icloud_how_to_backup_tip_summary">Για να εισαγάγετε δεδομένα από το iOS, πρέπει να δημιουργήσετε ένα αντίγραφο ασφαλείας iCloud.</string>
   <string name="icloud_how_to_backup_tip_title">Συμβουλές:</string>
-  <string name="iCloud_ID_verification_tip">Πατήστε \"Αποδοχή\" στη συσκευή σας Apple για να εμφανιστεί ο κωδικός επαλήθευσης. Εισάγετε εδώ τον κωδικό επαλήθευσης.</string>
   <string name="icloud_login_title">Συνδεθείτε στο iCloud</string>
   <string name="icloud_need_sync">Για την εισαγωγή δεδομένων από το iOS,\nθα πρέπει να δημιουργήσετε ένα iCloud αντίγραφο πρώτα.</string>
   <string name="icloud_need_wifi_message">Δεν είστε συνδεδεμένοι σε δίκτυο Wi-Fi τώρα. Για να εισαγάγετε δεδομένα από το iCloud, συνδεθείτε στο Wi-Fi.</string>
   <string name="icloud_need_wifi_title">Σύνδεση σε Wi-Fi</string>
   <string name="import_again">Εισαγωγή και πάλι</string>
   <string name="import_data_from_icloud">Εισαγωγή δεδομένων από το iCloud</string>
-  <string name="import_from_xiaomi_account_hint_title">Χρησιμοποιήστε το MiTalk για να κάνετε αντίγραφο των επαφών σας σε όλες τις συσκευές</string>
   <string name="import_from_xiaomi_account_hint1">1. Εγκαταστήστε το MiTalk και συνδεθείτε.\u000d\n2. http://www.miliao.com\u000d\n\u000d\n3. Πηγαίνετε στις ρυθμίσεις MiTalk και επιλέξτε Αντίγραφο επαφών στο λογαριασμό Mi</string>
   <string name="import_from_xiaomi_account_hint2">Σημείωση Μεταβείτε στο επόμενο βήμα εάν υπάρχει ήδη αντίγραφο</string>
+  <string name="import_from_xiaomi_account_hint_title">Χρησιμοποιήστε το MiTalk για να κάνετε αντίγραφο των επαφών σας σε όλες τις συσκευές</string>
   <string name="import_tip_summary">Λόγω προβλημάτων συμβατότητας, μπορείτε να μεταφέρετε μόνο μερικά δεδομένα από συσκευές iOS. Βεβαιωθείτε ότι έχετε δημιουργήσει ένα αντίγραφο ασφαλείας iCloud πριν ξεκινήσετε τη μεταφορά.</string>
   <string name="lack_perm_msg">Το Mi Mover χρειάζεται τις ακόλουθες Άδειες: &lt;b>%s&lt;/b>.</string>
   <string name="lack_perm_title">Απαιτούνται Άδειες</string>
@@ -291,6 +292,8 @@
   <string name="logining">Συνδεθείτε…</string>
   <string name="miliao_account_guide">Χρησιμοποιήστε το Λογαριασμό Mi για να συνδεθείτε στο Mi Cloud, το MIUI Theme Store και άλλες υπηρεσίες Mi, από οπουδήποτε.</string>
   <string name="miliao_account_login">Είσοδος στο Mi Talk</string>
+  <string name="miui_feedback_main_item_catch_full_log">Λήψη αρχείων καταγραφής</string>
+  <string name="miui_feedback_main_item_feedback_list">Τα σχόλιά μου</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -319,7 +322,9 @@
   <string name="new_local_click_to_jump">Πατήστε για να προβάλετε λεπτομερείς οδηγίες</string>
   <string name="new_local_detail_description">Σημείωση:\n%1$d. Αντιγράψτε τα αντίγραφα στον υπολογιστή σας για να αποφύγετε την απώλεια δεδομένων. %2$s.\n%3$d. Τα αντίγραφα θα αποθηκευτούν στον φάκελο MIUI-Backup-AllBackup.</string>
   <string name="new_local_tab_backup">Δημιουργία αντιγράφων</string>
+  <string name="new_local_tab_backup_pad">Αντίγραφα</string>
   <string name="new_local_tab_restore">Επαναφορά</string>
+  <string name="new_local_tab_restore_pad">Επαναφορά</string>
   <string name="new_low_storage_title">Δεν υπάρχει αρκετός αποθηκευτικός χώρος</string>
   <string name="new_more_settings_label">Πρόσθετες ρυθμίσεις</string>
   <string name="new_pc_backup_content1">%1$d. Ανοιξτε \"%2$s\".</string>
@@ -327,11 +332,14 @@
   <string name="new_pc_backup_content3">%d. Βρείτε το αντίγραφο ασφαλείας στο MIUI-Backup-AllBackup.</string>
   <string name="new_pc_backup_content4">%d. Αντιγράψτε το αρχείο στον υπολογιστή σας.</string>
   <string name="new_pc_backup_restore_link">Κινητή συσκευή</string>
+  <string name="new_pc_backup_restore_link_pad">Κινητή συσκευή</string>
   <string name="new_pc_backup_summary1">Επιλέξτε στοιχεία και πατήστε \"Αντίγραφα ασφαλείας\".</string>
   <string name="new_pc_backup_summary2">Συνδέστε την κινητή συσκευή σας στον υπολογιστή μέσω καλωδίου USB.</string>
+  <string name="new_pc_backup_summary2_pad">Συνδέστε την κινητή συσκευή σας στον PC μέσω καλωδίου USB.</string>
   <string name="new_pc_backup_summary4">Σημείωση: Μπορείτε επίσης να αντιγράψετε φωτογραφίες και βίντεο από το φάκελο DCIM.</string>
   <string name="new_pc_restore_content1">%d. Συνδέστε την κινητή συσκευή σας στον υπολογιστή μέσω καλωδίου USB.</string>
   <string name="new_pc_restore_content2">%d. Αντιγράψτε το αντίγραφο ασφαλείας από τον υπολογιστή σας σε MIUI-Backup-AllBackup.</string>
+  <string name="new_pc_restore_content2_pad">%d. Αντιγραφή του αντιγράφου ασφαλείας από τον PC σας στο MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Ανοιξτε την \"%2$s\" και επιλέξτε στοιχεία για επαναφορά.</string>
   <string name="new_pc_title">Αντιγραφή των αντιγράφων ασφαλείας σας</string>
   <string name="new_select_file">Ήχος, βίντεο και αρχεία</string>
@@ -353,6 +361,7 @@
   <string name="new_usb_tab_restore">Επαναφορά</string>
   <string name="no_encrypt_password">Χωρίς κωδικό κρυπτογράφησης</string>
   <string name="no_network">Σφάλμα δικτύου Παρακαλώ δοκιμάστε τις ρυθμίσεις δικτύου και προσπαθήστε πάλι</string>
+  <string name="not_enough_storage_tips">Ανεπαρκής χώρος αποθ/σης. Ελευθερώστε χώρο και δοκιμάστε ξανά.</string>
   <string name="not_set">Δεν έχει οριστεί</string>
   <string name="note_title">Σημειώσεις</string>
   <string name="nothing_searched">Χωρίς αποτελέσματα.</string>
@@ -580,6 +589,7 @@
   <string name="trans_install_guide_step2_content">Αφού ολοκληρωθεί η εγκατάσταση, πατήστε \"Έναρξη\" παρακάτω.</string>
   <string name="trans_install_guide_step2_title">Βήμα 2</string>
   <string name="trans_intro_desc_1">Σε ένα τηλέφωνο Mi, συνδεθείτε στο Wi-Fi και πατήστε \"Είμαι παραλήπτης\". Επιλέξτε τη συσκευή σας iOS, συνδεθείτε στο iCloud και εισαγάγετε δεδομένα.</string>
+  <string name="trans_intro_desc_10">Πατήστε \"Σύνδεση μέσω QR κώδικα\" στη νέα συσκευή και σαρώστε τον κωδικό QR για να γίνει σύνδεση.</string>
   <string name="trans_intro_desc_3">Ακυρώστε τη μεταφορά, βγείτε από το Mi Mover και αρχίστε ξανά. Τα διπλά αρχεία θα αντικατασταθούν κατά τη διάρκεια της νέας μεταφοράς.</string>
   <string name="trans_intro_desc_4">Το Mi Mover χρησιμοποιεί Wi-Fi για τη μεταφορά αρχείων. Αυτός είναι ο λόγος για τον οποίο δεν μπορείτε να συνδεθείτε στο διαδίκτυο χρησιμοποιώντας Wi-Fi σε οποιαδήποτε συσκευή κατά τη μεταφορά. Ωστόσο, μπορείτε να χρησιμοποιήσετε τα δεδομένα κινητής τηλεφωνίας. Ωστόσο, ορισμένες νεότερες συσκευές (για παράδειγμα, Mi 6) εξακολουθούν να είναι σε θέση να συνδεθούν στο διαδίκτυο χρησιμοποιώντας Wi-Fi κατά τη διάρκεια των μεταφορών.</string>
   <string name="trans_intro_desc_4_market">Το Mi Mover χρησιμοποιεί Wi-Fi για τη μεταφορά αρχείων. Αυτός είναι ο λόγος για τον οποίο δεν μπορείτε να συνδεθείτε στο διαδίκτυο χρησιμοποιώντας Wi-Fi σε οποιαδήποτε συσκευή κατά τη μεταφορά. Ωστόσο, μπορείτε να χρησιμοποιήσετε τα δεδομένα κινητής τηλεφωνίας.</string>
@@ -593,7 +603,6 @@
   <string name="trans_intro_desc_9_method_2_title">2. Στείλτε μας ένα email</string>
   <string name="trans_intro_desc_9_method_3_dec">Το όμιλο QQ της Mi Mover: 687338378</string>
   <string name="trans_intro_desc_9_method_3_title">3. Αναφορά ζητημάτων στο QQ</string>
-  <string name="trans_intro_desc_10">Πατήστε \"Σύνδεση μέσω QR κώδικα\" στη νέα συσκευή και σαρώστε τον κωδικό QR για να γίνει σύνδεση.</string>
   <string name="trans_intro_desc_account">Θα πρέπει να συνδεθείτε ξανά στους λογαριασμούς σας (π.χ. Λογαριασμός Mi, Συνάλλαγμα, Google κ.λπ.) σε μια νέα συσκευή για λόγους ασφαλείας.</string>
   <string name="trans_intro_desc_gms">Λόγω μεγάλης πιθανότητας ανεπιτυχών μεταφορών που προκαλούνται από θέματα συμβατότητας, το Mi Mover δεν υποστηρίζει τη μεταφορά δεδομένων που δημιουργούνται από εφαρμογές Google.</string>
   <string name="trans_intro_desc_multiapp">Το Mi Mover δεν μεταφέρει δεδομένα Διπλής Εφαρμογής για να αποφευχθούν οι διενέξεις μεταξύ αρχείων.</string>
@@ -603,6 +612,7 @@
   <string name="trans_intro_desc_old_market">Πατήστε \"Έναρξη\". Σάρωση του κώδικα QR στο νέο τηλέφωνο, περιμένετε μέχρι το Mi Mover να αναφέρει ποια αρχεία θα αποσταλούν και να πατήσετε \"Αποστολή\".</string>
   <string name="trans_intro_desc_private">Το Mi Mover δεν έχει πρόσβαση στις φωτογραφίες σε κρυφό άλμπουμ επειδή είναι κρυπτογραφημένο. Μπορείτε να επαναφέρετε αυτές τις φωτογραφίες από το Mi Cloud σε μια νέα συσκευή.</string>
   <string name="trans_intro_question_1">%d. Πώς μπορώ να χρησιμοποιήσω το Mi Mover για να μεταφέρω δεδομένα από μια συσκευή iOS;</string>
+  <string name="trans_intro_question_10">%d. Αδύνατη η εύρεση του hotspot στην παλιά συσκευή;</string>
   <string name="trans_intro_question_2">%d. Πώς μπορώ να χρησιμοποιήσω το Mi Mover για να μεταφέρω δεδομένα από μια συσκευή Android;</string>
   <string name="trans_intro_question_3">%d. Τι πρέπει να κάνω αν ο Mi Mover κολλήσει σε ένα συγκεκριμένο βήμα;</string>
   <string name="trans_intro_question_4">%d. Γιατί δεν μπορώ να χρησιμοποιήσω το Wi-Fi κατά τη μεταφορά;</string>
@@ -612,7 +622,6 @@
   <string name="trans_intro_question_8">%d. Γιατί δεν μεταφέρεται πλήρως το ιστορικό του WeChat;</string>
   <string name="trans_intro_question_9">%d. Ποια στοιχεία δεν μπορούν να μεταφερθούν;</string>
   <string name="trans_intro_question_9_market">%d. Ανατροφοδότηση.</string>
-  <string name="trans_intro_question_10">%d. Αδύνατη η εύρεση του hotspot στην παλιά συσκευή;</string>
   <string name="trans_intro_title">Συχνές ερωτήσεις</string>
   <string name="trans_intro_title_account">Λογαριασμοί και κωδικοί πρόσβασης:</string>
   <string name="trans_intro_title_gms">Δεδομένα που δημιουργήθηκαν από εφαρμογές Google:</string>

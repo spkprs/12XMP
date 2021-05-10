@@ -109,7 +109,7 @@
     <string name="keyguard_indication_charging_time_slowly">%2$s • Αργή φόρτιση (%1$s την πλήρη)</string>
     <string name="keyguard_retry">Σύρετε προς τα πάνω για να δοκιμάσετε ξανά</string>
     <string name="keywords_adb_wireless">adb, εντοπισμός σφαλμάτων, προγραμματιστής</string>
-    <string name="kg_invalid_sim_puk_hint">Ο κωδικός PUK πρέπει να είναι 8 αριθμοί ή περισσότεροι.</string>
+    <string name="kg_invalid_sim_puk_hint">Ο κωδικός PUK πρέπει να περιέχει %1$d ψηφία.</string>
     <string name="kg_prompt_reason_restart_password">Απαιτείται κωδικός μετά την επανεκκίνηση της συσκευής</string>
     <string name="kg_prompt_reason_restart_pattern">Απαιτείται μοτίβο μετά την επανεκκίνηση της συσκευής</string>
     <string name="kg_prompt_reason_restart_pin">Απαιτείται PIN μετά την επανεκκίνηση της συσκευής</string>

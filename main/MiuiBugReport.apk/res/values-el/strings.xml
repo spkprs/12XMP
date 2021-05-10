@@ -91,7 +91,7 @@
     <string name="catch_full_log_dialog_content">Το MIUI δημιουργεί ένα αρχείο καταγραφής. Αυτό μπορεί να επηρεάσει τη συνολική απόδοση της συσκευής σας. Εάν δεν μπορείτε να αναπαραγάγετε το πρόβλημα που θέλετε να αναφέρετε, επιστρέψτε στα αρχεία καταγραφής και πατήστε \"Ακύρωση\".</string>
     <string name="catch_full_log_dump_hprof_failed">Αδύνατη η δημ. Επιβράνδυσης log</string>
     <string name="catch_full_log_item_content_catch_direct">1. Επιστρέψτε στην λειτουργία που θέλετε να αναφέρετε και αναπαράγετε την.\u000d\n2. Επιστρέψτε σε αυτήν τη σελίδα και αγγίξτε \"Ολοκλήρωση και αποστολή\".</string>
-    <string name="catch_full_log_item_content_need_open">1. Αγγίξτε \"Δημιουργία log\".\u000d\n2. Επιστρέψτε στην λειτουργία που θέλετε να αναφέρετε και αναπαράγετε την.\u000d\n3. Επιστρέψτε σε αυτήν τη σελίδα και αγγίξτε \"Ολοκλήρωση και αποστολή\".</string>
+    <string name="catch_full_log_item_content_need_open">1. Αγγίξτε \"Δημιουργία log\".\u000d\n2. Επιστρέψτε στην λειτουργία που θέλετε να αναφέρετε και αναπαράγετε την.\u000d\n3. Επιστρέψτε σε αυτήν τη σελίδα και αγγίξτε \"Ολοκλήρωση και αποστολή\"\u000d\n4. Συμπληρώστε τα σχόλια και υποβάλετε τα.</string>
     <string name="catch_full_log_item_content_title">Βήματα:</string>
     <string name="catch_full_log_item_title_audio">Ήχος, εγγραφή ήχου, και ήχος κλήσης</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>

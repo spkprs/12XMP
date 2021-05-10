@@ -449,6 +449,10 @@
   <string name="from_prefix">Από %1$s</string>
   <string name="garbage_cleanup">Καθαριστής</string>
   <string name="get_ph_ticket">Αποκτήστε κωδικό</string>
+  <string name="global_app_description_content">"FM Radio είναι εφαρμογή συστήματος. Δεν θα μπορείτε να ακούσετε ραδιοφωνικές εκπομπές μετά την απεγκατάσταση της εφαρμογής."</string>
+  <string name="global_app_description_title">Απεγκατάσταση FM Radio?</string>
+  <string name="global_remove_app_description_content">"FM Radio είναι εφαρμογή συστήματος. Δεν θα μπορείτε να ακούσετε ραδιοφωνικές εκπομπές αφού καταργήσετε τη συντόμευση στην Αρχική οθόνη."</string>
+  <string name="global_remove_app_description_title">Απεγκατάσταση \"FM Radio\" από την Αρχική οθόνη?</string>
   <string name="global_search_app_name">Μουσική</string>
   <string name="global_search_description_entry">Απολαύστε μουσική</string>
   <string name="global_search_description_hot">Ενημέρωση εβδομαδιαία</string>
@@ -537,6 +541,10 @@
   <string name="local_channel">Τοπικό κανάλι</string>
   <string name="local_music">Εκτός σύνδεσης</string>
   <string name="local_operation_album_title_1">ακτίνα γνωστό</string>
+  <string name="local_operation_album_title_10">στρατιωτική παρατήρηση</string>
+  <string name="local_operation_album_title_11">νοσταλγική μουσική</string>
+  <string name="local_operation_album_title_12">δημοφιλή courier</string>
+  <string name="local_operation_album_title_13">φωνή της κίνας</string>
   <string name="local_operation_album_title_2">guo degang</string>
   <string name="local_operation_album_title_3">πίνακας κάθισμα κριτικές</string>
   <string name="local_operation_album_title_4">m μικρό κύκλο</string>
@@ -545,10 +553,6 @@
   <string name="local_operation_album_title_7">εκατοντάδες φόρουμ</string>
   <string name="local_operation_album_title_8">du yuesheng</string>
   <string name="local_operation_album_title_9">η νέα πτυχή</string>
-  <string name="local_operation_album_title_10">στρατιωτική παρατήρηση</string>
-  <string name="local_operation_album_title_11">νοσταλγική μουσική</string>
-  <string name="local_operation_album_title_12">δημοφιλή courier</string>
-  <string name="local_operation_album_title_13">φωνή της κίνας</string>
   <string name="local_page_album_more">Προβολή όλων</string>
   <string name="local_page_artist_more">Περισσότερα τραγούδια από %s</string>
   <string name="local_page_music">Τοπική μουσική</string>
@@ -602,11 +606,11 @@
   <string name="metered_play_toast_with_beyond_data">Χρήση δεδομένων κινητής τηλεφωνίας για αναπαραγωγή τραγουδιών. Υπέρβαση ορίου κατά %s</string>
   <string name="metered_play_toast_with_data">Χρήση δεδομένων κινητής τηλεφωνίας για αναπαραγωγή τραγουδιών, %s υπόλοιπα</string>
   <string name="mi_fm">Mi FM</string>
-  <string name="miui_fm">FM Radio</string>
-  <string name="miui_fm_description">Πολλοί ραδιοφωνικοί σταθμοί στο διαδίκτυο</string>
   <string name="milink_unavaliable_please_update">Mi σύνδεσμος δεν είναι διαθέσιμη. Ενημέρωση MIUI.</string>
   <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Άγνωστο&gt;</string>
+  <string name="miui_fm">FM Radio</string>
+  <string name="miui_fm_description">Πολλοί ραδιοφωνικοί σταθμοί στο διαδίκτυο</string>
   <string name="miui_music">Mi μουσική</string>
   <string name="miui_music_description">Απολαύστε μουσική</string>
   <string name="miuishare_no_network">Δεν είναι δυνατή η σύνδεση στο δίκτυο.</string>
@@ -667,6 +671,7 @@
   <string name="no_copyright_song_recommend_hint_text">Είναι καλύτερα να δοκιμάσετε αυτό το ένα</string>
   <string name="no_downloads">Δεν υπάρχουν λήψεις</string>
   <string name="no_favorites_songs">Κενό</string>
+  <string name="no_hint">ΟΧΙ.</string>
   <string name="no_local_songs">Κενό</string>
   <string name="no_local_songs_selected">Δεν είναι δυνατή η αποστολή τραγουδιών επειδή δεν έχουν ληφθεί</string>
   <string name="no_local_source_find">Δεν μπόρεσα να βρω τραγούδι</string>
@@ -727,6 +732,7 @@
   <string name="open_online_service">Πρέπει να ενεργοποιήσετε τις υπηρεσίες online για να χρησιμοποιήσετε αυτήν τη λειτουργία. Ενεργοποιήστε τώρα;</string>
   <string name="open_online_service_tip">Ενεργοποίησατε τις υπηρεσίες online με επιτυχία</string>
   <string name="open_service">Ενεργοποίηση</string>
+  <string name="open_settings">Μετάβαση στις Ρυθμίσεις</string>
   <string name="optimize_all_until_optimized">Εφαρμογή νέων εξώφυλλων και στίχων…</string>
   <string name="optimize_all_until_scanned">Περιμένετε μέχρι η Μουσική να τελειώσει τον έλεγχο της αποθήκευσης για τραγούδια.</string>
   <string name="order_process_fail">Δεν ήταν δυνατή η εξουσιοδότηση του λογαριασμού σας. Περιμένετε λίγα λεπτά και δοκιμάστε ξανά.</string>
@@ -765,8 +771,8 @@
   <string name="passport_wechat_not_install">WeChat δεν έχει εγκατασταθεί</string>
   <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
   <string name="pause_download">Παύση</string>
-  <string name="paused_by_app">Παύση</string>
   <string name="pause_play">Παύση αναπ/γής</string>
+  <string name="paused_by_app">Παύση</string>
   <string name="paused_in_power_save_mode">Παύση όταν είναι ενεργοποιημένη η εξοικονόμηση μπαταρίας</string>
   <string name="paused_insufficient_space">Αναμονή</string>
   <string name="paused_queued_for_wifi">Αναμονή για σύνδεση</string>
@@ -855,6 +861,7 @@
   <string name="recently_played">Παίχτηκε πρόσφατα</string>
   <string name="recently_played_songs">Παίχτηκε πρόσφατα</string>
   <string name="recognize_calling_network_error">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
+  <string name="recommend">Συνιστάται</string>
   <string name="recommend_list">Συνιστάται</string>
   <string name="recommended_file_size_download_in_mobile">Χρησιμοποιήσετε %s δεδομένων κινητής τηλεφωνίας για λήψη αυτού του αρχείου;</string>
   <string name="recommended_no_file_size_download_in_mobile">Χρήση της σύνδεσης δεδομένων κινητής τηλεφωνίας για λήψη αυτού του αρχείου;</string>
@@ -868,6 +875,7 @@
   <string name="reply_comment_hint">Απάντηση σε %s:</string>
   <string name="report">Έκθεση</string>
   <string name="report_comment_success">Θα εξετάσουμε την αναφορά σας. Ευχαριστώ για τα σχόλιά σας.</string>
+  <string name="request_camera_permission_message">Αυτή η υπηρεσία πρέπει να ζητήσει την άδειά σας, ακολουθώντας αυστηρά τους σχετικούς νόμους για την προστασία των προσωπικών σας στοιχείων: &lt;br>&lt;br>&lt;b>Πρόσβαση Κάμερας: εμπειρία υπηρεσιών καταγραφής σε πραγματικό χρόνο για τη ρύθμιση του Avatar &lt;/b>&lt;br>&lt;br> Εάν δεν συμφωνήσετε με τις παραπάνω άδειες, αυτή η λειτουργία δεν θα λειτουργήσει σωστά, αλλά δεν θα επηρεάσει τη χρήση των βασικών λειτουργιών αυτής της εφαρμογής. Μπορείτε να επιλέξετε να απενεργοποιήσετε τις παραπάνω  άδειες από τις ρυθμίσεις του συστήματος για να αποσύρετε τη συγκατάθεσή σας.</string>
   <string name="restart_download">Επανεκκίνηση</string>
   <string name="restart_immediate">Επανεκκίνηση</string>
   <string name="resume_download">Συνεχίσετε</string>
@@ -1054,6 +1062,7 @@
   <string name="talkback_share">Μοιραστείτε</string>
   <string name="talkback_sidemenu">Πλαϊνό μενού</string>
   <string name="talkback_sort_type">Ταξινόμηση τραγουδιών κατά</string>
+  <string name="talkback_speed">Ταχύτητα</string>
   <string name="talkback_switch_headset">Συνδέστε τα ακουστικά</string>
   <string name="talkback_switch_speaker">Χρήση ηχείων</string>
   <string name="talkback_unlike">Unlike</string>
@@ -1152,8 +1161,4 @@
   <string name="xiaoai_install_title">Εγκαταστήστε τον βοηθητική φωνή Mi AI</string>
   <string name="xiaoai_update_message">Φαίνεται ότι η φωνητική μηχανή Mi AI είναι πολύ παλιά. Μπορείτε να το ενημερώσετε τώρα.</string>
   <string name="xiaoai_update_title">Ενημέρωση mi AI</string>
-     <string name="open_settings">Μετάβαση στις Ρυθμίσεις</string>
-     <string name="recommend">Συνιστάται</string>
-     <string name="request_camera_permission_message">Αυτή η υπηρεσία πρέπει να ζητήσει την άδειά σας, ακολουθώντας αυστηρά τους σχετικούς νόμους για την προστασία των προσωπικών σας στοιχείων: &lt;br>&lt;br>&lt;b>Πρόσβαση Κάμερας: εμπειρία υπηρεσιών καταγραφής σε πραγματικό χρόνο για τη ρύθμιση του Avatar &lt;/b>&lt;br>&lt;br> Εάν δεν συμφωνήσετε με τις παραπάνω άδειες, αυτή η λειτουργία δεν θα λειτουργήσει σωστά, αλλά δεν θα επηρεάσει τη χρήση των βασικών λειτουργιών αυτής της εφαρμογής. Μπορείτε να επιλέξετε να απενεργοποιήσετε τις παραπάνω  άδειες από τις ρυθμίσεις του συστήματος για να αποσύρετε τη συγκατάθεσή σας.</string>
-     <string name="no_hint">ΟΧΙ.</string>
 </resources>

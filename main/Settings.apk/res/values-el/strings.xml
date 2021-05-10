@@ -2845,8 +2845,8 @@
     <string name="freeform_guide_notification_drop_down_summary">Πατήστε και, τραβήξτε προς τα κάτω μια ειδοποίηση</string>
     <string name="freeform_guide_notification_drop_down_title">Άνοιγμα</string>
     <string name="freeform_guide_settings">Αιωρούμενο παράθυρο</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Σάρωση από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Αιωρούμενα παράθυρα</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Κρατήστε πατημένο το κάτω μέρος του παραθύρου και σύρετέ το στην επάνω δεξιά γωνία</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Ελαχιστοποίηση εφαρ/γής</string>
     <string name="freeform_guide_slide_up_to_close_summary">Σύρετε προς τα πάνω από τη γραμμή ενεργειών</string>
     <string name="freeform_guide_slide_up_to_close_title">Κλείσιμο</string>
     <string name="freeform_vedio_description">· Πατήστε παρατεταμένα και, τραβήξτε προς τα κάτω μια ειδοποίηση για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.\n· Πατήστε \"Αιωρούμενα παράθυρα\" στα Πρόσφατα για να επιλέξετε εφαρμογές.</string>

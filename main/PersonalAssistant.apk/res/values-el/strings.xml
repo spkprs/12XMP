@@ -43,12 +43,12 @@
     <string name="address_name_spell">Εισάγετε τη διεύθυνση</string>
     <string name="afternoon">Απόγευμα</string>
     <string name="agenda">Υπενθυμίσεις</string>
-    <string name="agenda_add_event">Προσθήκη συμβάντος</string>
+    <string name="agenda_add_event">Προσθήκη</string>
     <string name="agenda_all_day">Όλη την ημέρα</string>
     <string name="agenda_anniversary_subtitle">Επέτειος | %1$s</string>
-    <string name="agenda_assistant">Συμβάντα ημερολογίου</string>
+    <string name="agenda_assistant">Ημερολόγιο</string>
     <string name="agenda_assistant_account_num">Λογαριασμός</string>
-    <string name="agenda_assistant_add">Προσθήκη συμβάντος</string>
+    <string name="agenda_assistant_add">Προσθήκη</string>
     <string name="agenda_assistant_allday">Ολη μέρα</string>
     <string name="agenda_assistant_credit_payment">Πιστωτικές κάρτες</string>
     <string name="agenda_assistant_electricity">Ο λογαριασμός ηλεκτρικής ενέργειας οφείλεται</string>
@@ -377,6 +377,7 @@
     <string name="app_express_empty_title">δεν υπάρχουν τελευταίες πληροφορίες για τον μεταφορέα.</string>
     <string name="app_express_send">στείλτε με courier.</string>
     <string name="app_express_tail_number">Αριθμός τερματισμού Waybill：%1$s</string>
+    <string name="app_first_loading_txt">Φόρτωση έξυπνων καρτών...</string>
     <string name="app_footer_switcher">Μετάβαση στην παλιά έκδοση</string>
     <string name="app_health_card_completion">Πρόοδος</string>
     <string name="app_health_card_energy">Θερμίδες</string>
