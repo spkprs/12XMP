@@ -70,6 +70,7 @@
     <string name="add_data_source_support_step">Αυτή η συσκευή δεν δημιουργεί δεδομένα καταμέτρησης βημάτων. Μπορείτε να δοκιμάσετε να μεταβείτε σε άλλες προελεύσεις δεδομένων.</string>
     <string name="add_data_type_datasource">Προσθήκη πηγής δεδομένων (%1$s)</string>
     <string name="add_model_card">Πατήστε το κουμπί στην επάνω αριστερή γωνία\nγια να προσθέσετε κάρτες</string>
+    <string name="add_model_card2">Με το παραπάνω κουμπί προσθέστε κάρτες.\nΘα μπορείτε να παρακολουθείτε τις προπονήσεις και τη δραστηριότητά σας.</string>
     <string name="add_owned_device">Διαθέσιμες συσκευές</string>
     <string name="add_record">Προσθήκη</string>
     <string name="added_data_source">Προστέθηκαν πηγές</string>
@@ -327,6 +328,7 @@
     <string name="dialog_delete_record_confirm">Διαγραφή αυτής της εγγραφής;</string>
     <string name="dialog_exercise_purpose">Καλωσορίσατε στη Xiaomi Health! Ο \"Μετρητής βημάτων\" σας επιτρέπει να δείτε πόσα βήματα κάνετε κατά τη διάρκεια της ημέρας, καθώς και να ορίσετε τους στόχους δραστηριότητας. Όλα τα σχετικά δεδομένα θα αποθηκευτούν τοπικά στη συσκευή σας, που σας επιτρέπει να τα διαχειρίζεστε εύκολα.</string>
     <string name="dialog_exit">Έξοδος</string>
+    <string name="dialog_exit_use">Έξοδος</string>
     <string name="dialog_feedback_content">Εάν δεν συμφωνείτε να παραχωρήσετε τέτοιες Άδειες, δεν θα μπορείτε να χρησιμοποιήσετε κάποιες λειτουργίες αυτής της εφαρμογής. Ωστόσο, η βασική λειτουργικότητα θα είναι ακόμα διαθέσιμη σε εσάς. Μπορείτε πάντα να περιορίσετε τις Άδειες ή να ανακαλέσετε την εξουσιοδότησή σας στις Ρυθμίσεις.</string>
     <string name="dialog_feedback_purpose">Η Xiaomi Health πρέπει να έχει πρόσβαση στην αποθήκευση για να υποβάλει σχόλια.</string>
     <string name="dialog_feedback_purpose2">Για την υποβολή σχολίων</string>
@@ -357,6 +359,8 @@
     <string name="diastolic_pressure">Διαστολική</string>
     <string name="disable">Ανενεργή</string>
     <string name="dot">.</string>
+    <string name="download_apk">Λήψη %s…</string>
+    <string name="download_background">Λήψη</string>
     <string name="drag_sort">Αναδιάταξη</string>
     <string name="dream_talk">Ομιλία %1$s</string>
     <string name="dream_talk_record">Καταγράφηκε όταν μιλήσατε κατά τη διάρκεια του ύπνου σας</string>

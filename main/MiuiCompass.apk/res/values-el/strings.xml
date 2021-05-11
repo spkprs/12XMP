@@ -71,6 +71,7 @@
     <string name="error_camera_unavailable_title">Η Κάμερα δεν είναι διαθέσιμη</string>
     <string name="expand_button_title">Προχωρημένες</string>
     <string name="first_using_dialog_message">Η Πυξίδα χρειάζεται να χρησιμοποιήσει το δίκτυο της συσκευή σας, κάμερα, και υπηρεσία τοποθεσίας για να λειτουργήσει κανονικά.</string>
+    <string name="first_using_dialog_message_no_camera">Η Πυξίδα πρέπει να συνδεθεί στο Internet και να έχει πρόσβαση στην τοποθεσίας σας για να λειτουργήσει σωστά. Συμφωνείτε;</string>
     <string name="first_using_dialog_title">Άδεια πρόσβασης</string>
     <string name="gradienter_title">Στάθμη</string>
     <string name="guide_toast">Για βαθμονόμηση, κινήστε τη συσκευή σας όπως φαίνεται παρακάτω.</string>
@@ -91,6 +92,7 @@
     <string name="mobiledata_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="open_perm_msg">Η Πυξίδα χρειάζεται πρόσβαση σε πληροφορίες τοποθεσίας και κάμερα. Αυτό είναι απαραίτητο για τον προσδιορισμό των συντεταγμένων και την παροχή ζωντανών προεπισκοπήσεων. Αποδοχή?</string>
+    <string name="open_perm_msg_no_camera">Η Πυξίδα πρέπει να έχει πρόσβαση στις πληροφορίες θέσης για να καθορίζει τις συντεταγμένες. Να επιτραπεί;</string>
     <string name="open_perm_title">Απαιτούνται Άδειες</string>
     <string name="permission_camera_desc">Χρήση επιπέδου spirit</string>
     <string name="permission_location_desc">Εμφάνιση συντεταγμένων και ατμοσφαιρική πίεση</string>
