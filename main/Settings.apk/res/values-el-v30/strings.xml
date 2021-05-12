@@ -281,6 +281,7 @@
     <string name="important_conversations_summary">Εμφάνιση στο επάνω μέρος της ενότητας συνομιλιών</string>
     <string name="important_conversations_summary_bubbles">Να προβάλλονται στο επάνω μέρος της ενότητας συνομιλιών ως αιωρούμενα συννεφάκια.</string>
     <string name="imsi_protection_warning">Αυτό το δίκτυο λαμβάνει ένα μοναδικό αναγνωριστικό το οποίο μπορεί να χρησιμοποιηθεί για τον εντοπισμό της τοποθεσίας της συσκευής. &lt;annotation id=\"url\"&gt;Μάθετε περισσότερα&lt;/annotation&gt;</string>
+    <string name="instruction">Σημαντικές πληροφορίες ασφάλειας</string>
     <string name="interact_across_profiles_app_detail_title">Συνδεδεμένες προσωπικές εφαρμογές και εφαρμογές εργασίας</string>
     <string name="interact_across_profiles_consent_dialog_app_data_summary">Αυτή η εφαρμογή έχει πρόσβαση στην προσωπική εφαρμογή %1$s.</string>
     <string name="interact_across_profiles_consent_dialog_app_data_title">Δεδομένα εφαρμογών</string>

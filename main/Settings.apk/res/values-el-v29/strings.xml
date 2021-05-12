@@ -277,6 +277,7 @@
     <string name="hwui_force_dark_title">Παράκαμψη αναγκ. χρήσης σκούρου θέματος</string>
     <string name="icon_content_description">Εικονίδιο διαλόγου</string>
     <string name="information_label">Πληροφορίες</string>
+    <string name="instruction">Σημαντικές πληροφορίες ασφάλειας</string>
     <string name="internet_connectivity_panel_title">Σύνδεση στο διαδίκτυο</string>
     <string name="keyboard_disconnected">Μη συνδεδεμένο</string>
     <string name="keywords_add_an_account">προφίλ εργασίας</string>

@@ -1539,7 +1539,7 @@
     <string name="oem_unlock_enable_summary">Επιτρέψτε το ξεκλείδωμα του bootloader</string>
     <string name="okay">OK</string>
     <string name="open_camera_hint_text">Σύρετε αριστερά για Κάμερα</string>
-    <string name="open_lock_screen_magazine_hint_text">Σύρετε δεξιά για περισσότερες επιλογές</string>
+    <string name="open_lock_screen_magazine_hint_text">Σύρετε δεξιά για επιλογές</string>
     <string name="open_remote_center_hint_text">Σύρετε δεξιά για συντομεύσεις</string>
     <string name="open_saver_setting_action">Ρυθμίσεις</string>
     <string name="orb_search_action">Αναζήτηση ενέργειας</string>

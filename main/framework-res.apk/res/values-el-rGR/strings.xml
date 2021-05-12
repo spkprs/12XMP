@@ -425,8 +425,8 @@
   <string name="fingerprint_acquired_imager_dirty">Ο αισθητήρας δακτυλικών αποτυπωμάτων δεν είναι καθαρός. Καθαρίστε τον και δοκιμάστε ξανά.</string>
   <string name="fingerprint_acquired_insufficient">Αδυναμία επεξεργασίας δακτυλικού αποτυπώματος. Δοκιμάστε ξανά.</string>
   <string name="fingerprint_acquired_partial">Εντοπίστηκε μερικό δακτυλικό αποτύπωμα. Δοκιμάστε ξανά.</string>
-  <string name="fingerprint_acquired_too_fast">Πολύ γρήγορη κίνηση δαχτύλου. Δοκιμάστε ξανά.</string>
-  <string name="fingerprint_acquired_too_slow">Πολύ αργή κίνηση δαχτύλου. Δοκιμάστε ξανά.</string>
+  <string name="fingerprint_acquired_too_fast">Πολύ γρήγορο άγγιγμα. Επανάληψη</string>
+  <string name="fingerprint_acquired_too_slow">Πολύ αργό άγγιγμα. Επανάληψη</string>
   <string name="fingerprint_authenticated">Έγινε έλεγχος ταυτότητας δακτυλικών αποτυπωμάτων</string>
   <string name="fingerprint_error_canceled">Η λειτουργία δακτυλικού αποτυπώματος ακυρώθηκε.</string>
   <string name="fingerprint_error_hw_not_available">Ο εξοπλισμός δακτυλικών αποτυπωμάτων δεν είναι διαθέσιμος.</string>

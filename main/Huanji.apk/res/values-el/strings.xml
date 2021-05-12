@@ -665,7 +665,7 @@
     <string name="succ_description">Τέλος</string>
     <string name="summary_open_wlan">Το Mi Mover χρειάζεται την άδεια αυτή για να διασφαλίσει τη σταθερότητα της διαδικασίας μεταφοράς.</string>
     <string name="summary_request_alert_window_prem">Το Mi Mover χρειάζεται την άδεια αυτή για να διασφαλίσει τη σταθερότητα της διαδικασίας μεταφοράς.</string>
-    <string name="summary_request_write_settings_prem">Το Mi Mover needs this permission to turn on WLAN and create a hotspot for transferring files.</string>
+    <string name="summary_request_write_settings_prem">Το Mi Mover Χρειάζεται την άδεια αυτή για να ενεργοποιήσετε το WIFI με ένα hotspot για τη μεταφορά αρχείων.</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κ</string>
