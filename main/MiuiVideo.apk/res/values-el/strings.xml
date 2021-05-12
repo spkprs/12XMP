@@ -112,6 +112,7 @@
     <string name="collect">Συλλογή</string>
     <string name="collect_diagnosis_log">Συλλογή διαγνωστικών καταγραφής</string>
     <string name="collected">Συλλεγμένα</string>
+    <string name="collected_and_can_view_in_my_page">Επιτυχής προσθ. στα Αγαπημένα</string>
     <string name="come_from_huoshan">Από Huoshan</string>
     <string name="comfirm_open">Ενεργοποίηση</string>
     <string name="comment_back">Πίσω</string>
@@ -119,7 +120,7 @@
     <string name="comment_let_me_comment">Έχω ένα σχόλιο</string>
     <string name="comment_reply" formatted="false">%s&lt;font color=\"#959AA0\">απάντηση σε&lt;/font>%s</string>
     <string name="comment_reply_to">Απάντηση σε %s</string>
-    <string name="comment_send">Στείλετε</string>
+    <string name="comment_send">Αποστολή</string>
     <string name="comment_to_loading">Συνδεθείτε για να προσθέσετε σχόλια</string>
     <string name="comment_type_all">Όλα τα σχόλια</string>
     <string name="comment_type_hot">Δημοφιλή σχόλια</string>
@@ -563,11 +564,23 @@
     <string name="plus_detail">Λεπτομέρειες</string>
     <string name="plus_dfolder_file_echange">Διαχείριση αρχείων</string>
     <string name="plus_dialog__title_sound_effect">Εφέ ήχου</string>
-    <string name="plus_dialog_title_collect">Συλλογή</string>
+    <string name="plus_dialog_info_rename">Εισαγωγή νέου ονόματος</string>
+    <string name="plus_dialog_setting_delete_title">Άμεση διαγραφή αυτού του βίντεο?</string>
+    <string name="plus_dialog_title_cancel_collect">Κατάργηση από τα Αγαπημένα</string>
+    <string name="plus_dialog_title_collect">Προσθ. στα Αγαπημένα</string>
     <string name="plus_dialog_title_fullscreen_mode">Χρήση πλήρους οθόνης</string>
-    <string name="plus_dialog_title_notch_Screen">Χρήση οθόνης εγκοπής</string>
+    <string name="plus_dialog_title_notch_Screen">Χρήση εγκοπής οθόνης</string>
     <string name="plus_dialog_title_send">Αποστολή</string>
+    <string name="plus_dialog_title_send_to">Κοινή χρήση σε</string>
     <string name="plus_dialog_title_small_window">Mικρό παράθ.</string>
+    <string name="plus_dlg_btn_cancel">Ακύρωση</string>
+    <string name="plus_dlg_btn_set_password">Ορισμός</string>
+    <string name="plus_dlg_message_password_reset">Ο κωδικός προστασίας θα λειτουργεί με τα βίντεο, τα μηνύματα, τις φωτογραφίες, τα αρχεία και τις σημειώσεις σας.</string>
+    <string name="plus_dlg_message_set_password">Ο κωδικός προστασίας θα λειτουργεί με τα μηνύματα, τις φωτογραφίες, τα αρχεία και τις σημειώσεις σας.</string>
+    <string name="plus_dlg_message_use_privacy_password">Έχετε ήδη κωδικό. Λειτουργεί με τα μηνύματα, τις φωτογραφίες, τα αρχεία και τις σημειώσεις σας.</string>
+    <string name="plus_dlg_title_password_reset">Αναβαθμίστε τον κωδικό σας</string>
+    <string name="plus_dlg_title_set_password">Ορισμός κωδικού</string>
+    <string name="plus_dlg_title_use_privacy_password">Χρήση κωδικού προστασίας δεδομένων</string>
     <string name="plus_earlier">Πρόσφατα</string>
     <string name="plus_encoding_format">"Κωδικοποιητής: "</string>
     <string name="plus_encrypt">Κρυπτογράφηση</string>
@@ -588,7 +601,7 @@
     <string name="plus_gallery_mediatype_fangtu">Τετράγωνες εικόνες</string>
     <string name="plus_gallery_mediatype_fastslowvideo">Γρήγορη &amp; Αργή κίνηση</string>
     <string name="plus_gallery_mediatype_gif">GIFs</string>
-    <string name="plus_gallery_mediatype_hidded">Κρυφό</string>
+    <string name="plus_gallery_mediatype_hidded">Κρυφά</string>
     <string name="plus_gallery_mediatype_longvideo">Μεγάλα βίντεο</string>
     <string name="plus_gallery_mediatype_quanjing">Πανόραμα</string>
     <string name="plus_gallery_nocontents">Δεν υπάρχουν στοιχεία ακόμα.</string>
@@ -596,7 +609,7 @@
     <string name="plus_gallery_title_othergallery">Άλλα άλμπουμ</string>
     <string name="plus_gallery_video_title_mediatype">Κατηγορίες βίντεο</string>
     <string name="plus_gallery_video_title_othergallery">Άλλα βίντεο</string>
-    <string name="plus_got_it">Κατανοητό</string>
+    <string name="plus_got_it">Εντάξει</string>
     <string name="plus_help">Βοήθεια</string>
     <string name="plus_loading_text">Φόρτωση αντικειμένων…</string>
     <string name="plus_mine_gallery">Τα άλμπουμ μου</string>
@@ -604,8 +617,16 @@
     <string name="plus_more_params">Περισσότερα</string>
     <string name="plus_my_favorites">Αγαπημένα</string>
     <string name="plus_name">"Όνομα αρχείου: "</string>
+    <string name="plus_network_stream">Ροή Δικτύου</string>
+    <string name="plus_network_stream_edit_text_hint">Εισαγωγή URL</string>
+    <string name="plus_network_stream_hint">Εισαγωγή URL (http, https, ή rtsp):\nΠαράδειγμα, http://www.example.com/video.mkv</string>
+    <string name="plus_network_stream_toast_content_empty">Εισάγετε URL πρώτα</string>
+    <string name="plus_network_stream_toast_content_invalid">"Αυτός ο σύνδεσμος δεν υποστηρίζεται"</string>
+    <string name="plus_other_video">Άλλες πηγές</string>
     <string name="plus_path">"Διαδρομή: "</string>
+    <string name="plus_play">Αναπ\γή</string>
     <string name="plus_player_8k_video_not_support">Δεν είναι δυνατή η αναπαραγωγή βίντεο 8K σε αυτήν τη συσκευή</string>
+    <string name="plus_player_audio_no_file_info">Χωρίς Ηχητικά κομμάτια</string>
     <string name="plus_player_audio_track">Ηχητικό κομμάτι</string>
     <string name="plus_player_detail_file_location">Τοποθεσία:</string>
     <string name="plus_player_detail_file_name">Ονομα αρχείου:</string>
@@ -664,6 +685,7 @@
     <string name="plus_shortcut">Τοπικά βίντεο</string>
     <string name="plus_shortcut_created_succ">Δημιουργήθηκε η συντόμευση στην αρχική οθόνη με επιτυχία</string>
     <string name="plus_shortcut_existed">Αυτή η συντόμευση υπάρχει ήδη</string>
+    <string name="plus_size">"Μέγεθος: "</string>
     <string name="plus_sort_title">Ταξινόμιση</string>
     <string name="plus_sort_type_default">Προεπιλογή</string>
     <string name="plus_sort_type_name">Όνομα</string>
@@ -671,6 +693,9 @@
     <string name="plus_sort_type_time">Ημ/νία</string>
     <string name="plus_tab_gallery">Φάκελοι</string>
     <string name="plus_tab_time">Χρονολόγιο</string>
+    <string name="plus_time">"Ημερ/νία: "</string>
+    <string name="plus_toast_title_collect_canceled">Αφαιρέθηκε από τα Αγαπημένα</string>
+    <string name="plus_toast_title_collected">Προστέθηκε σε Αγαπημένα</string>
     <string name="portrait_speed_title">Ταχύτητα αναπαραγωγής</string>
     <string name="portrait_speed_toast">Ταχύτητα αναπ/γής %sX</string>
     <string name="pre_play_tips">Σχετικά με την επανάληψη %1$s</string>
@@ -735,7 +760,7 @@
     <string name="setting">Ρυθμίσεις</string>
     <string name="setting_alpha_join_alert_title">Γίνετε μέλος της ομάδας δοκιμών Beta</string>
     <string name="setting_alpha_join_hint">Εισάγετε τον κωδικό:</string>
-    <string name="settings_action_clearcache">Εκκαθάριση cache…</string>
+    <string name="settings_action_clearcache">Εκκαθάριση…</string>
     <string name="settings_been_top_version">Καμμιά ενημέρωση</string>
     <string name="settings_clear_cache_finished_toast">Η εκκαθάριση της cache ολοκληρώθηκε με επιτυχία</string>
     <string name="settings_mobile_data_nolimit">Χωρίς</string>
@@ -759,6 +784,7 @@
     <string name="settings_title_others">Άλλα</string>
     <string name="settings_title_player">Ρυθμίσεις αναπαραγωγής</string>
     <string name="settings_title_privacy">Πολιτική απορρήτου</string>
+    <string name="settings_title_report_guide">Κατευθυντήριες γραμμές για σχόλια</string>
     <string name="settings_title_statusbar_notification">Διαχείριση ειδοποιήσεων</string>
     <string name="settings_title_user_agreement">Συμφωνία Χρήστη</string>
     <string name="settings_title_version">Beta Έκδοση</string>
@@ -1061,7 +1087,7 @@
     <string name="v_menu_delete">Διαγραφή</string>
     <string name="v_menu_hide">Κρυφά στοιχεία</string>
     <string name="v_menu_nolike">Αδιάφορο</string>
-    <string name="v_menu_send">Στείλετε</string>
+    <string name="v_menu_send">Αποστολή</string>
     <string name="v_menu_unhide">Επανεμφάνιση</string>
     <string name="v_mobile_net_limit_text">Τρέχον Όριο: Περιορισμός μετά %1$s λήψεις</string>
     <string name="v_mobile_net_unlimited_text">Τρέχον Όριο: <Data>&lt;font color=\"#FF0000\">Κανένα&lt;/font></Data></string>

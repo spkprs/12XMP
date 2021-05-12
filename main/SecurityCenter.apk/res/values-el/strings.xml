@@ -4220,11 +4220,11 @@
     <string name="videobox_settings_line_location_desc">Εμφάνιση της συντόμευσης στην άκρη της οθόνης</string>
     <string name="videobox_settings_line_location_left">Αριστερά</string>
     <string name="videobox_settings_line_location_right">Δεξιά</string>
-    <string name="videobox_settings_line_location_title">Συντόμευση εργαλειοθήκης βίντεο</string>
+    <string name="videobox_settings_line_location_title">Συντόμευση εργαλείων βίντεο</string>
     <string name="videobox_settings_manager_apps">Διαχείριση εφαρμογών βίντεο</string>
-    <string name="videobox_settings_switch_desc">Ειδικά εφέ και χαρακτηριστικά για αναπαραγωγή βίντεο</string>
-    <string name="videobox_settings_switch_title">Εργαλειοθήκη βίντεο</string>
-    <string name="videobox_settings_title">Εργαλειοθήκη βίντεο</string>
+    <string name="videobox_settings_switch_desc">Ειδικά εφέ και λειτουργίες για αναπ/γή βίντεο</string>
+    <string name="videobox_settings_switch_title">Εργαλεία βίντεο</string>
+    <string name="videobox_settings_title">Εργαλεία βίντεο</string>
     <string name="view_traffic_detail">Προβολή λεπτομερειών</string>
     <string name="view_traffic_details">Προβολή στατιστικών χρήσης δεδομένων</string>
     <string name="virus_auto_update_engine">Αυτόματες ενημερώσεις: %s</string>
