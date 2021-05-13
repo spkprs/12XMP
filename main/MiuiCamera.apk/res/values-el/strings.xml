@@ -1092,7 +1092,7 @@
     <string name="pref_camera_device_watermark_title">Υδατογράφημα συσκευής</string>
     <string name="pref_camera_dual_enable_title">Ενεργοποίηση διπλής κάμερας</string>
     <string name="pref_camera_dual_sat_enable_title">Ενεργοποίηση διπλής κάμερας SAT</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Ο ρυθμός καρέ μειώνεται αυτόματα σε συνθήκες χαμηλού φωτισμού για να βελτιωθεί η ποιότητα του βίντεο</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">Ο ρυθμός καρέ μειώνεται αυτόματα σε συνθήκες χαμηλού φωτισμού ή υψηλής θερμοκρασίας για να βελτιωθεί η ποιότητα του βίντεο</string>
     <string name="pref_camera_dynamic_frame_rate_title">Προσαρμογή ρυθμού καρέ σε χαμηλό φως</string>
     <string name="pref_camera_eis_entry_normal">Σταθερό βίντεο</string>
     <string name="pref_camera_eis_entry_off">Ανενεργή</string>
