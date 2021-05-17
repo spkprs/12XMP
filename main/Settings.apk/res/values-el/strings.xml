@@ -294,6 +294,7 @@
     <string name="adjust_3d_depth_title">Ρύθμιση 3D βάθους παιχνιδιών</string>
     <string name="adjust_font_size_answer_cn">Δοκιμάστε να προσαρμόσετε το μέγεθος και το πάχος της γραμ/σειράς με τα παρακάτω ρυθμιστικά!</string>
     <string name="adjust_font_size_answer_global">Δοκιμάστε να προσαρμόσετε το μέγεθος του κειμένου με το ρυθμιστικό παρακάτω!</string>
+    <string name="adjust_ligth">Ρύθμιση φωτεινότητας</string>
     <string name="adjust_temperature_title">Θερμοκρασία χρώματος</string>
     <string name="admin_device_owner_message">Ο διαχειριστής σας μπορεί να παρακολουθεί και να διαχειρίζεται εφαρμογές και δεδομένα που σχετίζονται με αυτήν τη συσκευή, συμπεριλαμβανομένων των ρυθμίσεων, των Αδειών, της εταιρικής πρόσβασης, της δραστηριότητας δικτύου και των πληροφοριών τοποθεσίας της συσκευής.</string>
     <string name="admin_disabled_other_options">Άλλες επιλογές απενεργοποιούνται από το διαχειριστή σας.</string>
@@ -4043,6 +4044,7 @@
     <string name="miheadset_plus">Αύξηση έντασης</string>
     <string name="miheadset_rename">Μετονομασία</string>
     <string name="miheadset_rename_device">Μετονομασία</string>
+    <string name="miheadset_single_ear_indicate">Φορέστε και τα δύο ακουστικά για χρήση της Ακύρωσης θορύβου</string>
     <string name="miheadset_soft">Απαλό</string>
     <string name="miheadset_transparent">Διαφάνεια</string>
     <string name="miheadset_transparentMode">Διαφάνεια</string>
@@ -6341,6 +6343,8 @@
     <string name="smartcover_lock_or_unlock_screen_tittle">Λειτουργία έξυπνης θήκης</string>
     <string name="smartcover_sensitive_summary">Κλειδώστε ή ξεκλειδώστε το τηλέφωνο αυτόματα με την χρήση έξυπνης θήκης</string>
     <string name="smartcover_sensitive_title">Λειτουργία Έξυπνης Θήκης</string>
+    <string name="smooth_adjust_ligth">Ομαλές μεταβάσεις</string>
+    <string name="smooth_adjust_ligth_summary">Κάντε τις μεταβάσεις ομαλότερες καθώς ρυθμίζετε τη φωτεινότητα χειροκίνητα. Όταν αυτή η λειτουργία είναι ενεργή, σε ορισμένες περιπτώσεις ενδέχεται να εμφανιστούν μικρές ασυνέπειες χρωμάτων.</string>
     <string name="sms_access_restriction_enabled">Περιορ πρόσβ αρχ.SMS κλήσης</string>
     <string name="sms_access_restriction_enabled_summary">Μόνο οι προεπιλεγμένες εφαρμογές τηλεφώνου και ανταλλαγής μηνυμάτων έχουν Άδειες SMS και καταγραφής κλήσεων</string>
     <string name="sms_application_title">Προεπιλεγμένη εφαρμογή SMS</string>

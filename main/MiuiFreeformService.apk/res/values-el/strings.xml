@@ -10,10 +10,10 @@
     <string name="freeform_demo_go_on">Επόμενο</string>
     <string name="freeform_demo_title_finish">Τέλεια!</string>
     <string name="freeform_demo_title_skip">Παράλειψη</string>
-    <string name="freeform_slide_to_small_freeform">Σάρωση αιωρ. παραθ σε μικρό</string>
-    <string name="freeform_slide_to_small_freeform_summary">Σύρετε τη γραμμή ενεργειών ενός αιωρούμενου παραθύρου στην επάνω δεξιά γωνία</string>
-    <string name="fullscreen_slide_to_small_freeform">Πλήρους οθόνης σε ελεύθερη σχεδίαση</string>
-    <string name="fullscreen_slide_to_small_freeform_summary">Σάρωση από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία της οθόνης</string>
+    <string name="freeform_slide_to_small_freeform">Ελαχιστ/ση Αιωρούμενου παραθ.</string>
+    <string name="freeform_slide_to_small_freeform_summary">Κρατήστε τη γραμμή ενεργειών και σύρετε στην γωνία</string>
+    <string name="fullscreen_slide_to_small_freeform">Ελαχιστοποίηση εφαρμογής</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Σύρετε από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία</string>
     <string name="how_to_close_or_fullscreen_freeform">Κλείσιμο Αιωρούμενων παραθύρων ή μετάβαση σε Πλήρη οθόνη</string>
     <string name="how_to_drop_down_to_fullscreen">Σε Πλήρη οθόνη</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Πατήστε παρατεταμένα, και τραβήξτε προς τα κάτω τη γραμμή Ενεργειών</string>
