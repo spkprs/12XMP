@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_eap_error_message_code_32760">%1$s: Δεν μπορείτε να συνδεθείτε στην πρόσβαση Verizon WLAN εκτός της περιοχής κάλυψης Verizon.</string>
+    <string name="wifi_eap_error_message_code_32761">%1$s : Δεν έχετε εγγραφεί στο Verizon WLAN Access. Καλέστε μας σε 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32762">%1$s : Υπάρχει πρόβλημα με το λογαριασμό σας Verizon WLAN Access. Καλέστε μας σε 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32763">%1$s : Είστε ήδη συνδεδεμένοι στην πρόσβαση Verizon WLAN.</string>
+    <string name="wifi_eap_error_message_code_32764">%1$s : Παρουσιάστηκε πρόβλημα κατά τη σύνδεση με την πρόσβαση Verizon WLAN. Καλέστε μας σε 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32765">%1$s : Υπάρχει πρόβλημα με το λογαριασμό σας Verizon WLAN Access. Καλέστε μας σε 800-922-0204.</string>
+    <string name="wifi_eap_error_message_code_32766">%1$s : Η πρόσβαση Verizon WLAN δεν είναι διαθέσιμη από την τοποθεσία σας. Δοκιμάστε ξανά αργότερα ή δοκιμάστε από διαφορετική θέση.</string>
+</resources>
