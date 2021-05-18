@@ -253,7 +253,7 @@
   <string name="resolver_work_tab_accessibility">Προβολή εργασίας</string>
   <string name="sensor_notification_service">Υπηρεσία ειδοποίησης αισθητήρα</string>
   <string name="tethered_notification_message">Πατήστε για ρύθμιση.</string>
-  <string name="tethered_notification_title">Πρόσδεση ή Ενεργό σημείο πρόσβασης</string>
+  <string name="tethered_notification_title">Πρόσδεση ή HotSpot</string>
   <string name="twilight_service">Υπηρεσία Twilight</string>
   <string name="unpin_specific_target">Ξεκαρφίτσωμα %1$s</string>
   <string name="usb_device_resolve_prompt_warn">Δεν έχει εκχωρηθεί άδεια εγγραφής σε αυτήν την εφαρμογή, αλλά μέσω αυτής της συσκευής USB θα μπορεί να εγγράφει ήχο.</string>

@@ -337,6 +337,7 @@
     <string name="search_stopwatch_keywords">Χρονόμετρο</string>
     <string name="search_timer_keywords">Χρονόμετρο</string>
     <string name="search_worldclock_keywords">Ώρα;Παγκόσμιο ρολόι;Ρολόι</string>
+    <string name="select_operation">Επιλογή</string>
     <string name="send">Αποστολή</string>
     <string name="set_alarm">Ρύθμιση Αφύπνισης</string>
     <string name="set_alarm_choose_ringtone">Επιλογή ήχου</string>
@@ -353,6 +354,7 @@
     <string name="shut_down_alarm_no_news">关机闹钟无法享受早间听新闻服务</string>
     <string name="shut_down_keep_screen">Η οθόνη δεν θα παραμείνει ενεργή</string>
     <string name="shutdown_alarm_alert_enable_summary">Οι ειδοποιήσεις τερματισμού λειτουργίας θα παύσουν τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής σας</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Ενεργοποιήστε για να ρυθμίσετε τις ειδοποιήσεις σε ανενεργές όταν η συσκευή σας απενεργ/θεί. Μόνο αυτοί που έχουν ρυθμιστεί για τουλάχιστον %d λεπτά μετά την απενεργ/ηση της συσκευής θα απενεργ/θούν.</string>
     <string name="shutdown_alarm_alert_title">Ειδοποιήσεις τερματισμού</string>
     <string name="shutdown_alarm_disable_summary">Η ειδοποίηση δεν θα κλείσει μετά την απενεργοποίηση της συσκευής</string>
     <string name="shutdown_alarm_enable_summary">Η αφύπνιση δεν θα ηχήσει  εάν έχει ρυθμιστεί για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής</string>

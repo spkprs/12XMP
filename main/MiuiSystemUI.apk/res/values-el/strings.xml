@@ -1234,6 +1234,7 @@
     <string name="local_backup_password_toast_confirmation_mismatch">Οι κωδικοί πρόσβασης δεν ταιριάζουν</string>
     <string name="local_backup_password_toast_success">Νέος κωδικός πρόσβασης αντιγράφων ασφαλείας</string>
     <string name="local_backup_password_toast_validation_failure">Αδύνατος ο ορισμός κωδικού αντιγράφου ασφαλείας</string>
+    <string name="lock_screen_access_to_5G">Πρόσβαση στο 5G</string>
     <string name="lock_screen_carrier_airplane_mode_on">Λειτουργία Πτήσης</string>
     <string name="lock_screen_date">EEEE d MMMM</string>
     <string name="lock_screen_date_12">EEEE d MMMM</string>

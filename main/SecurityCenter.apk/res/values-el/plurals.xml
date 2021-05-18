@@ -406,16 +406,16 @@
     <item quantity="one">Έχει ληφθεί από %1$d άτομο</item>
   </plurals>
   <plurals name="power_center_battery_day">
-    <item quantity="other">%d Ημ.</item>
-    <item quantity="one">%d Ημ.</item>
+    <item quantity="other">" %d Ημ."</item>
+    <item quantity="one">" %d Ημ."</item>
   </plurals>
   <plurals name="power_center_battery_hour">
-    <item quantity="other">%d Ωρ.</item>
-    <item quantity="one">%d Ωρ.</item>
+    <item quantity="other">" %d Ωρ."</item>
+    <item quantity="one">" %d Ωρ."</item>
   </plurals>
   <plurals name="power_center_battery_minute">
-    <item quantity="other">%d Λεπ.</item>
-    <item quantity="one">%d Λεπ.</item>
+    <item quantity="other">" %d Λεπ."</item>
+    <item quantity="one">" %d Λεπ."</item>
   </plurals>
   <plurals name="power_center_battery_temperature">
     <item quantity="other">%d ℃</item>
