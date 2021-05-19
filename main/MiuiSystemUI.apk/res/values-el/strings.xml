@@ -221,7 +221,7 @@
     <string name="accessibility_quick_settings_data_saver_changed_on">Εξοικονόμηση δεδομένων ενεργή.</string>
     <string name="accessibility_quick_settings_detail">Γρήγορες ρυθμίσεις, %s.</string>
     <string name="accessibility_quick_settings_dnd">Μην Ενοχλείτε.</string>
-    <string name="accessibility_quick_settings_dnd_alarms_on">Μην Ενοχλείτε ενεργό, αφύπνηση μόνο.</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">Μην Ενοχλείτε ενεργό, αφύπνιση μόνο.</string>
     <string name="accessibility_quick_settings_dnd_changed_off">Μην Ενοχλείτε ανενεργό.</string>
     <string name="accessibility_quick_settings_dnd_changed_on">Μην Ενοχλείτε ενεργό.</string>
     <string name="accessibility_quick_settings_dnd_none_on">Μην Ενοχλείτε ενεργό, πλήρης σιγή.</string>
@@ -2449,8 +2449,8 @@
     <string name="yes_bubbles">Επιτρέψει</string>
     <string name="yoigo_mcc">214</string>
     <string name="yoigo_mnc">04</string>
-    <string name="zen_alarm_warning">Δεν θα ακούσετε την επόμενη αφύπνηση σας %1$s</string>
-    <string name="zen_alarm_warning_indef">"Δεν θα ακούσετε την επόμενη αφύπνηση σας %1$s εκτός αν το απενεργοποιήσετε πριν "</string>
+    <string name="zen_alarm_warning">Δεν θα ακούσετε την επόμενη αφύπνιση σας %1$s</string>
+    <string name="zen_alarm_warning_indef">"Δεν θα ακούσετε την επόμενη αφύπνιση σας %1$s εκτός αν το απενεργοποιήσετε πριν "</string>
     <string name="zen_alarms_introduction">Δεν θα Ενοχληθείτε από  ήχους και δονήσεις, εκτός από αφυπνήσεις. Θα συνεχίσετε να ακούτε ήχους μουσικής, βίντεο, και παιχνιδιών.</string>
     <string name="zen_interruption_level_priority">Μόνο προτεραιότητα</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
@@ -2459,8 +2459,8 @@
     <string name="zen_mode_enable_dialog_turn_on">Turn on</string>
     <string name="zen_mode_forever">Μέχρι να απενεργοποιήσετε</string>
     <string name="zen_mode_settings_summary_off">Ποτέ</string>
-    <string name="zen_mode_warnings_all_time_content">Οι ειδοποιήσεις και οι κλήσεις θα σιγήσουν</string>
-    <string name="zen_mode_warnings_keyguard_content">Οι ειδοποιήσεις και οι κλήσεις θα σιγάσουν όταν η συσκευή είναι κλειδωμένη</string>
+    <string name="zen_mode_warnings_all_time_content">Ειδοποιήσεις &amp; Κλήσεις σε σίγαση</string>
+    <string name="zen_mode_warnings_keyguard_content">Οι ειδοποιήσεις και οι κλήσεις θα σιγήσουν σε κλειδωμένη συσκευή</string>
     <string name="zen_mode_warnings_quit_immediately">Απενεργοποίηση</string>
     <string name="zen_mode_warnings_title">Το DND είναι ενεργό</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποιήστε την επιλογή Μην ενοχλείτε</string>

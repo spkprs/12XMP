@@ -1353,6 +1353,7 @@
     <string name="syncing_wait_restart">Προσπαθήστε ξανά</string>
     <string name="syncing_wait_restart_title">Έληξε η σύνδεση διακομιστή</string>
     <string name="system_account_create_failed">Αδύνατη δημιουργία του λογαριασμού. Δοκιμάστε αργότερα.</string>
+    <string name="settings_attachment">Συνημμένα</string>
     <string name="system_folders_sent_dlg">Επιλέξτε τον φάκελο απεσταλμένων του διακομιστή σας</string>
     <string name="system_folders_sent_summary">Επιλέξτε τον φάκελο απεσταλμένων του διακομιστή σας</string>
     <string name="system_folders_sent_title">Φάκελος απεσταλμένων</string>

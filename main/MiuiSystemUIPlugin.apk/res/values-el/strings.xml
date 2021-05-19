@@ -76,10 +76,10 @@
     <string name="miui_ringer_status_open">On</string>
     <string name="miui_ringer_total">DND</string>
     <string name="miui_ringer_total_description">Σίγαση ήχου και απενεργοποίηση δόνησης για όλα εκτός από το ξυπνητήρι</string>
-    <string name="miui_toast_zen_dnd_to_off">"Οι κλήσεις και οι ειδοποιήσεις δεν θα τίθενται πλέον σε σίγαση"</string>
+    <string name="miui_toast_zen_dnd_to_off">"Κλήσεις &amp; Ειδοποιήσεις με ήχο"</string>
     <string name="miui_toast_zen_standard_to_off">Η Αθόρυβη λειτουργία είναι ανενεργή</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Η αθόρυβη λειτουργία είναι τώρα ανενεργή. Θα αναπαράγονται ήχοι κλήσης, καθώς ειδοποίησης και πολυμέσων.</string>
-    <string name="miui_toast_zen_to_dnd">Οι κλήσεις και οι ειδοποιήσεις θα σιγήσουν</string>
+    <string name="miui_toast_zen_to_dnd">Κλήσεις &amp; Ειδοποιήσεις σε σίγαση</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Οι κλήσεις και οι ειδοποιήσεις θα σιγήσουν όταν η συσκευή είναι κλειδωμένη</string>
     <string name="miui_toast_zen_to_standard">Η Αθόρυβη λειτουργία είναι ενεργή</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Αλλαγή σε αθόρυβη λειτουργία. Οι ήχοι για κλήσεις,  κοινοποίησεις και πολυμέσων, σε σίγαση τώρα.</string>
