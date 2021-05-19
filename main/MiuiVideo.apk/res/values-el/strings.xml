@@ -620,11 +620,11 @@
     <string name="plus_network_stream">Ροή Δικτύου</string>
     <string name="plus_network_stream_edit_text_hint">Εισαγωγή URL</string>
     <string name="plus_network_stream_hint">Εισαγωγή URL (http, https, ή rtsp):\nΠαράδειγμα, http://www.example.com/video.mkv</string>
-    <string name="plus_network_stream_toast_content_empty">Εισάγετε URL πρώτα</string>
+    <string name="plus_network_stream_toast_content_empty">Εισάγετε πρώτα το URL</string>
     <string name="plus_network_stream_toast_content_invalid">"Αυτός ο σύνδεσμος δεν υποστηρίζεται"</string>
     <string name="plus_other_video">Άλλες πηγές</string>
     <string name="plus_path">"Διαδρομή: "</string>
-    <string name="plus_play">Αναπ\γή</string>
+    <string name="plus_play">Αναπαραγωγή</string>
     <string name="plus_player_8k_video_not_support">Δεν είναι δυνατή η αναπαραγωγή βίντεο 8K σε αυτήν τη συσκευή</string>
     <string name="plus_player_audio_no_file_info">Χωρίς Ηχητικά κομμάτια</string>
     <string name="plus_player_audio_track">Ηχητικό κομμάτι</string>

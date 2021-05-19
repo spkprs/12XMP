@@ -260,7 +260,7 @@
     <string name="importFailed">"Αδύνατη η εισαγωγή"</string>
     <string name="import_contact">Εισαγωγή επαφής</string>
     <string name="import_picture">Εισαγωγή</string>
-    <string name="impunity_declaration_content">"Ο Σαρωτής απαιτεί άδεια πρόσβασης στην Κάμερα για δημιουργία φωτογραφιών. Μη τον χρησιμοποιείτε για φωτογράφηση αντικειμένων που περιέχουν προσωπικές πληροφορίες. Όταν επιλέξετε \"Αποδοχή\", συμφωνείτε με την  &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Πολιτική Απορρήτου&lt;/a>&lt;/font> μας και την πρόσβαση στο διαδίκτυο."</string>
+    <string name="impunity_declaration_content">"Ο Σαρωτής απαιτεί άδεια πρόσβασης στην Κάμερα για δημιουργία φωτογραφιών. Μη τον χρησιμοποιείτε για φωτογράφηση αντικειμένων που περιέχουν προσωπικές πληροφορίες. Όταν επιλέξετε \"Αποδοχή\", συμφωνείτε με την  &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Πολιτική Απορρήτου&lt;/a>&lt;/font> μας και την πρόσβαση στο διαδίκτυο."</string>
     <string name="impunity_declaration_negative_text">Έξοδος</string>
     <string name="impunity_declaration_title">Πολιτική Απορρήτου</string>
     <string name="intelligent_recognition">Αναγνώριση</string>
@@ -361,8 +361,13 @@
     <string name="phone_can_not_be_empty">"Ο αριθμός τηλεφώνου δεν μπορεί να είναι κενός"</string>
     <string name="phone_number">Αριθμός τηλεφώνου</string>
     <string name="phone_storage">Εσωτερικός Χώρος</string>
-    <string name="picture">Συλλογή</string>
+    <string name="picture_camera_roll">Κατάλογος</string>
+    <string name="picture_cancel">Άκύρωση</string>
+    <string name="picture_completed">Επιλεγμένες</string>
     <string name="picture_is_being_saved">Γίνεται αποθήκευση της εικόνας</string>
+    <string name="picture_please_select">Επιλογή</string>
+    <string name="picture_preview_num">Προβολή (%1$d)</string>
+    <string name="picture">Συλλογή</string>
     <string name="place_barcode_into_rectangle">Βάλτε τον κωδικό μέσα στο πλαίσιο</string>
     <string name="plant_fail">"Αδύνατη η αναγνώριση"</string>
     <string name="plant_loading">Προσδιορισμός…</string>
@@ -529,7 +534,6 @@
     <string name="wifi_details">Wi‑Fi:</string>
     <string name="wifi_exist_fail">Το Σημ. Πρόσβασης Wi-Fi \"%1$s\" υπάρχει ήδη. Διαγραφή του και ξαναπροσπαθήστε.</string>
     <string name="wifi_low_version_prompt">Προτροπή Wi‑Fi</string>
-    <string name="wifi_low_version_prompt">Το WIFI πρέπει να ενεργοποιηθεί χειροκίνητα</string>
     <string name="wifi_open_fail">Αδυναμία ενεργοποίησης Wi‑Fi</string>
     <string name="wifi_psd_toolong">Ο κωδικός είναι πολύ μεγάλος. Πληκτρολογήστε τον κωδικό χειροκίνητα.</string>
     <string name="wifi_pwd">Κωδικός:</string>

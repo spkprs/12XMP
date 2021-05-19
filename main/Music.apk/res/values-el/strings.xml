@@ -501,7 +501,7 @@
     <string name="cta_runtime_perm_desc_location2">" (Προαιρετικό) Πρόσβαση στην τοποθεσία σας για μετάδοση τοπικών ραδιοφωνικών σταθμών."</string>
     <string name="cta_runtime_perm_desc_phone">Πρόσβαση σε πληροφορίες συσκευής για σκοπούς αναγνώρισης</string>
     <string name="cta_runtime_perm_desc_storage">Πρόσβαση στη μνήμη για αποθήκευση και ανάγνωση τραγουδιών, εξωφύλλων άλμπουμ και στίχων</string>
-    <string name="cta_runtime_perm_desc_storage_single">Για πρόσβαση σε χώρο αποθήκευσης για να αποθηκεύσετε και να αποκτήσετε πρόσβαση σε τραγούδια, εξώφυλλο και στίχους</string>
+    <string name="cta_runtime_perm_desc_storage_single">Για πρόσβαση σε χώρο αποθήκευσης, τραγούδια, εξώφυλλο, και στίχους</string>
     <string name="cta_xiao_mi_music">XIAOMI MUSIC</string>
     <string name="current_album">Τρέχον εξώφυλλο άλμπουμ</string>
     <string name="current_lyric">Τρέχοντες στίχοι</string>
@@ -1910,8 +1910,8 @@
     <string name="radar">ACRCloud</string>
     <string name="radar_click_to_retry">Δοκιμάστε ξανά</string>
     <string name="radar_fail">Χωρίς αποτέλεσμα</string>
-    <string name="radar_fail_by_noise">"Φαίνεται ότι κάνει πολύ θόρυβο εδώ"</string>
-    <string name="radar_listening_state">Αναγνώριση…</string>
+    <string name="radar_fail_by_noise">"Φαίνεται ότι έχει πολύ θόρυβο εδώ"</string>
+    <string name="radar_listening_state">Ακρόαση…</string>
     <string name="radar_possible_result">Πιθανά αποτελέσματα</string>
     <string name="radar_recognize_not_exit">Παραμονή σε αυτήν τη σελίδα</string>
     <string name="radar_retry">Δοκιμάστε ξανά</string>
