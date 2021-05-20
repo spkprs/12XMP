@@ -37,16 +37,16 @@
         <item quantity="one">Διαγραφή %d εγγραφής;</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">Αναζήτηση μεταξύ %d εγγραφών</item>
-        <item quantity="one">Αναζήτηση μεταξύ %d εγγραφής</item>
+        <item quantity="other">%d εγγραφών</item>
+        <item quantity="one">%d εγγραφής</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">Αναζήτηση μεταξύ %d εγγραφών κλήσεων</item>
-        <item quantity="one">Αναζήτηση μεταξύ %d εγγραφή κλήσης</item>
+        <item quantity="other">%d εγγραφών κλήσεων</item>
+        <item quantity="one">%d εγγραφή κλήσης</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Αναζήτηση μεταξύ %d εγγραφών</item>
-        <item quantity="one">Αναζήτηση μεταξύ %d εγγραφής</item>
+        <item quantity="other">%d εγγραφών</item>
+        <item quantity="one">%d εγγραφής</item>
     </plurals>
     <plurals name="recovery_failed_dialog_message">
         <item quantity="other">"Αδύνατη η επαναφορά %d στοιχείων λόγω άγνωστου σφάλματος."</item>
@@ -63,5 +63,13 @@
     <plurals name="trash_box_tip">
         <item quantity="other">Τα διαγραμμένα στοιχεία αποθηκεύονται στον κάδο έως %d ημέρες</item>
         <item quantity="one">Τα διαγραμμένα στοιχεία αποθηκεύονται στον κάδο έως %d ημέρα</item>
+    </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d ράδιο εγγραφές</item>
+        <item quantity="one">%d ράδιο εγγραφή</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d ηχογραφήσεις</item>
+        <item quantity="one">%d ηχογράφηση</item>
     </plurals>
 </resources>
