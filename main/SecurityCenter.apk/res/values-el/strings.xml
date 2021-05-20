@@ -1268,7 +1268,7 @@
     <string name="examination_score_80_100">Δυνατότητα βελτιστοποίησης</string>
     <string name="examination_score_80_60">Χρειάζεται βελτιστοποίηση</string>
     <string name="examination_score_has_virus">Εντοπίστηκαν ύποπτες εφαρμογές…</string>
-    <string name="exception_checking">'Ελεγχος…</string>
+    <string name="exception_checking">Έλεγχος…</string>
     <string name="exception_dialog_message">Τα στατιστικά στοιχεία χρήσης δεδομένων δεν ήταν δυνατό να υπολογιστούν λόγω σφάλματος. Χωρίς ακριβή στατιστικά στοιχεία, η ασφάλεια δεν θα μπορεί να παρακολουθεί τη χρήση δεδομένων. Επανεκκίνηση για επαναφορά αυτής της λειτουργίας;</string>
     <string name="exception_dialog_ok_button">Επανεκκίνηση</string>
     <string name="exception_notify_message">Αδυναμία υπολογισμού στατιστικών δεδομένων λόγω σφάλματος. Κάντε επανεκκίνηση για επαναφορά.</string>
