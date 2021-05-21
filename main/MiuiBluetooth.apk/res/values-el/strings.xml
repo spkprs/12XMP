@@ -648,8 +648,8 @@
     <string name="wifi_limited_connection">Περιορισμένη σύνδεση</string>
     <string name="wifi_metered_label">Μετρητή</string>
     <string name="wifi_network_prefix_length_hint">24</string>
-    <string name="wifi_no_internet">Δεν είναι δυνατή η σύνδεση στο Internet</string>
-    <string name="wifi_no_internet_no_reconnect">Δεν είναι δυνατή η σύνδεση στο Internet</string>
+    <string name="wifi_no_internet">Αδυναμία σύνδεσης στο Διαδίκτυο</string>
+    <string name="wifi_no_internet_no_reconnect">Αδυναμία σύνδεσης στο Διαδίκτυο</string>
     <string name="wifi_not_in_range">Δεν είναι στην περιοχή</string>
     <string name="wifi_remembered">Αποθηκεύτηκε</string>
     <string name="wifi_scan_throttling">Επιτάχυνση σάρωσης Wi-Fi</string>

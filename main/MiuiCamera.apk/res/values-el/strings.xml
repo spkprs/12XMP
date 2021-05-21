@@ -419,6 +419,7 @@
     <string name="clone_start_capture">Ξεκινήστε την κλωνοποίηση</string>
     <string name="clone_too_much_movement_stop">Μετακινήσατε τη συσκευή πολύ μακριά. Διακόπηκε η λήψη για τώρα.</string>
     <string name="clone_video_mode">Βίντεο</string>
+    <string name="close">Close</string>
     <string name="close_back_flash_toast">Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση φλας τώρα.</string>
     <string name="close_front_flash_toast">Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση φλας τώρα.</string>
     <string name="close_night_algo_toast_low_power">Φορτίστε τη συσκευή σας για να μπορείτε να ρυθμίσετε την έκθεση</string>
@@ -739,7 +740,7 @@
     <string name="live_sticker_updating">Ενημέρωση...</string>
     <string name="live_workspace_title">Πρόχειρα</string>
     <string name="live_workspace_title_edit">Επιλογή στοιχείων για διαγραφή</string>
-    <string name="location_access_allow">Αποδοχή</string>
+    <string name="location_access_allow">Συμφωνώ</string>
     <string name="location_permission_des">Απομνημόνευση τοποθεσιών για φωτογραφίες και βίντεο</string>
     <string name="location_permission_not_ask_again">Να επιτρέπεται στην κάμερα η πρόσβαση στη θέση σας στις Ρυθμίσεις.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Αποδοχή</string>
@@ -1465,6 +1466,7 @@
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="search_settings">Ρυθμίσεις κάμερας;Ποιότητα;Ποιότητα εικόνας;Θέση εικόνας;Θέση εικόνας;Ανίχνευση προσώπου;Ήχος κάμερας</string>
     <string name="see_qrcode_detals">Προβολή QR κώδικα</string>
+    <string name="send">Αποστολή</string>
     <string name="settings_camera_detect_card_description">Εμφάνιση συντόμευσης κάθε φορά που η κάμερα AI εντοπίζει μια ταυτότητα</string>
     <string name="settings_camera_detect_description_doc">Εμφάνιση συντόμευσης κάθε φορά που η κάμερα AI εντοπίζει ένα έγγραφο ή μια διαφάνεια παρουσίασης</string>
     <string name="settings_camera_near_range_description">Αφαίρεση θολώματος όταν εστιάζετε σε επίπεδες επιφάνειες πολύ κοντά</string>

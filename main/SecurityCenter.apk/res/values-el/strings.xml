@@ -2257,8 +2257,8 @@
     <string name="noti_back_diving_mode_title">Ενεργή λειτ. Καθήλωσης. Αγγίξτε για κλείσιμο.</string>
     <string name="notification_abnormal_check_button">Προβολή</string>
     <string name="notification_abnormal_check_now_button">Προβολή</string>
-    <string name="notification_abnormal_consume_app_title">%s αδειάζει την μπαταρία</string>
-    <string name="notification_abnormal_consume_cpu">CPU κατάχρηση πόρων στο παρασκήνιο</string>
+    <string name="notification_abnormal_consume_app_title">%s άδειασμα μπατ.</string>
+    <string name="notification_abnormal_consume_cpu">Κατάχρηση πόρων CPU στο παρασκήνιο</string>
     <string name="notification_abnormal_consume_wakelock">Το σύστημα παραμένει ενεργό στο παρασκήνιο</string>
     <string name="notification_antivirus_button_text">Σάρωση</string>
     <string name="notification_antivirus_message">Σάρωση επικίνδ. στοιχ.</string>

@@ -1310,7 +1310,7 @@
     <string name="vp_mobile_network_using_negative">Ακύρωση</string>
     <string name="vp_mobile_network_using_playing">Θα χρησιμοποιήσει τα κινητά δεδομένα για να παίξει αυτό το βίντεο μέσα %1$s</string>
     <string name="vp_mobile_network_using_positive">Συνέχεια</string>
-    <string name="vp_mobile_network_using_positive_data_comsume">%1$s Χρήση δεδομένων κινητής τηλεφωνίας</string>
+    <string name="vp_mobile_network_using_positive_data_comsume">%1$s Χρήση δεδομένων κινητής</string>
     <string name="vp_mobile_network_using_positive_new">%1$s των δεδομένων κινητής τηλεφωνίας</string>
     <string name="vp_mobile_network_using_warning">Χρησιμοποιώντας τα δεδομένα κινητής για να δείτε βίντεο, θα αυξηθεί η χρήση των δεδομένων σας. Εάν υπερβείτε το όριο χρήσης δεδομένων του πακέτου σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα.</string>
     <string name="vp_mobile_network_using_warning_line_1">Χρησιμοποιώντας τα δεδομένα κινητής για να δείτε βίντεο, θα αυξηθεί η χρήση των δεδομένων σας.</string>

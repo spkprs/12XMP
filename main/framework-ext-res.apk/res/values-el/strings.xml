@@ -332,7 +332,7 @@
     <string name="voice_button_action_up">Πατήστε για να μιλήσετε</string>
     <string name="voice_input_error_network">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="voice_input_error_other">Παρουσιάστηκε σφάλμα. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
-    <string name="wifi_assistant_wifi_no_internet">Αυτό το δίκτυο Wi-Fi δεν έχει πρόσβαση στο Ίντερνετ</string>
+    <string name="wifi_assistant_wifi_no_internet">Tο δίκτυο WiFi χωρίς πρόσβ διαδικτύου</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Αγγίξτε για προβολή λεπτομερειών</string>
     <string name="wireless_charging_notification_message1">Δεν ήταν δυνατή η εύρεση ασύρματων συσκευών για φόρτιση. Η αντίστροφη ασύρματη φόρτιση είναι ανενεργή τώρα.</string>
     <string name="wireless_charging_notification_message2">Η μπαταρία είναι φορτισμένη λιγότερο από %s. Η αντίστροφη ασύρματη φόρτιση είναι ανενεργή τώρα.</string>

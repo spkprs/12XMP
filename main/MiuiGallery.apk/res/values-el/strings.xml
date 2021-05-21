@@ -2329,7 +2329,7 @@
     <string name="video_editor_regulator">Προσαρμογή</string>
     <string name="video_editor_res_download_failed_tips">Δεν ήταν δυνατή η λήψη, έλεγχος των ρυθμίσεων δικτύου και δοκιμή ξανά</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Λήψη μουσικών κομματιών χρησιμοποιώντας δεδομένα κινητής ;</string>
-    <string name="video_editor_res_download_mobil_network_confirm_title">Χρήση δεδομένων κινητής τηλεφωνίας</string>
+    <string name="video_editor_res_download_mobil_network_confirm_title">Χρήση δεδομένων κινητής</string>
     <string name="video_editor_res_not_load_dialog_msg">Λήψη soundtracks για τη χρήση αυτής της δυνατότητας (άνω των 20MB).</string>
     <string name="video_editor_return">Πίσω</string>
     <string name="video_editor_save">Αποθήκ/ση</string>

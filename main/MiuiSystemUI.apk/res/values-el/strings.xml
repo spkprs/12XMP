@@ -2367,7 +2367,7 @@
     <string name="wifi_limited_connection">Περιορισμένη σύνδεση</string>
     <string name="wifi_metered_label">Μετρήθηκε</string>
     <string name="wifi_network_prefix_length_hint">24</string>
-    <string name="wifi_no_internet">Δεν είναι δυνατή η σύνδεση στο Internet</string>
+    <string name="wifi_no_internet">Αδυναμία σύνδεσης στο Διαδίκτυο</string>
     <string name="wifi_no_internet_no_reconnect">Δεν είναι δυνατή η σύνδεση στο διαδίκτυο</string>
     <string name="wifi_not_in_range">Εκτός εμβέλειας</string>
     <string name="wifi_remembered">Αποθηκεύτηκε</string>

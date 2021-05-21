@@ -188,7 +188,7 @@
     <string name="download_metered_network_dialog_cancel">Ακύρωση</string>
     <string name="download_metered_network_dialog_desc">Η συσκευή σας δεν είναι συνδεδεμένη σε Wi-Fi. Λήψη στοιχείων με χρήση δεδομένων κινητής τηλεφωνίας;</string>
     <string name="download_metered_network_dialog_ok">Λήψη</string>
-    <string name="download_metered_network_dialog_title">Χρήση δεδομένων κινητής τηλεφωνίας</string>
+    <string name="download_metered_network_dialog_title">Χρήση δεδομένων κινητής</string>
     <string name="download_to">"Αποθήκευση σε "</string>
     <string name="downloading">Λήψη</string>
     <string name="error_dup_binded_email">Αυτή η διεύθυνση ηλεκτρονικού ταχυδρομείου είναι ήδη συσχετισμένη με έναν άλλο λογαριασμό Mi.</string>
@@ -279,7 +279,7 @@
     <string name="load_metered_network_dialog_cancel">Ακύρωση</string>
     <string name="load_metered_network_dialog_desc">Η συσκευή σας δεν είναι συνδεδεμένη σε Wi-Fi. Φόρτωση με χρήση δεδομένων κινητής τηλεφωνίας;</string>
     <string name="load_metered_network_dialog_ok">Φόρτωση</string>
-    <string name="load_metered_network_dialog_title">Χρήση δεδομένων κινητής τηλεφωνίας</string>
+    <string name="load_metered_network_dialog_title">Χρήση δεδομένων κινητής</string>
     <string name="loading">Μισό λεπτό…</string>
     <string name="logout_account">Αποσύνδεση</string>
     <string name="member_menu_vipname_free">Free</string>
@@ -462,7 +462,7 @@
     <string name="play_metered_network_dialog_cancel">Ακύρωση</string>
     <string name="play_metered_network_dialog_desc">Η συσκευή σας δεν είναι συνδεδεμένη σε Wi-Fi. Παίξτε χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας;</string>
     <string name="play_metered_network_dialog_ok">Αναπαραγωγή</string>
-    <string name="play_metered_network_dialog_title">Χρήση δεδομένων κινητής τηλεφωνίας</string>
+    <string name="play_metered_network_dialog_title">Χρήση δεδομένων κινητής</string>
     <string name="ppt_to_pdf">Μετατροπή σε PDF</string>
     <string name="pre_privacy_policy">Πολιτική απορρήτου</string>
     <string name="pre_user_agreement">Συμφωνία Χρήστη</string>
