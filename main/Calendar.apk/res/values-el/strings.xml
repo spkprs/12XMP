@@ -706,9 +706,9 @@
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Περισσότερα</string>
     <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το σύννεφο είναι απενεργοποιημένος</string>
-    <string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκε με το σύννεφο</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το σύννεφο</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Ανενεργός συγχ/μός με το cloud</string>
+    <string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκαν στο cloud</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός στο cloud</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
     <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>

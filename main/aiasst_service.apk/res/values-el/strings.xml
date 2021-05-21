@@ -185,9 +185,9 @@
   <string name="in_now_disagree">Οχι τώρα</string>
   <string name="menu_share_call_log">Κοινή χρήση κλήσης AI</string>
   <string name="midnight">Π.μ</string>
-  <string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το σύννεφο είναι απενεργοποιημένος</string>
-  <string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκε με το σύννεφο</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το σύννεφο</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Ανενεργός συγχ/μός με το cloud</string>
+  <string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκαν στο cloud</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός στο cloud</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>

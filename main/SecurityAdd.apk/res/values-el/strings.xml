@@ -267,8 +267,8 @@
     <string name="miuishare_wechat_timeline_title">Οι στιγμές μας</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_appcompat_cloud_state_disabled">Ανενεργός συγχ/μός με το cloud</string>
-    <string name="miuix_appcompat_cloud_state_finished">Συγχρονισμένο με το cloud</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Συγχρονίζεται με το cloud...</string>
+    <string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκαν στο cloud</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός στο cloud</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
     <string name="more">Περισσότερα</string>
     <string name="morning">Πρωί</string>
