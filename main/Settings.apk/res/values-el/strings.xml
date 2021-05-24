@@ -1735,6 +1735,7 @@
     <string name="cool_color">Ψυχρό</string>
     <string name="copy">Αντίγραφο</string>
     <string name="copyable_slice_toast">%1$s αντιγράφηκε στο πρόχειρο.</string>
+    <string name="copyright">Πνευματικά δικαιώματα</string>
     <string name="copyright_title">Πνευματικά Δικαιώματα</string>
     <string name="corner_assistant_gesture_summary">Σαρώστε προς τα επάνω από την κάτω αριστερή ή δεξιά γωνία για να αφυπνίσετε τον Βοηθό Google</string>
     <string name="corner_assistant_gesture_title">Σάρωση από την κάτω γωνία για τον Βοηθό Google</string>
@@ -1835,9 +1836,17 @@
     <string name="dark_color_summary_lcd">Χρήση σκοτεινότερης παλέτας χρώματος για φόντο συστήματος και συμβατών εφαρμογών. Αυτό βοηθά στην μείωση καταπόνησης των ματιών όταν χρησιμοποιείτε τη συσκευή σας σε σκοτάδι.</string>
     <string name="dark_color_summary_oled">Χρήση σκοτεινότερης παλέτας χρώματος για φόντο συστήματος και συμβατών εφαρμογών. Η Σκοτεινή λειτουργία μειώνει την κατανάλωση ενέργειας και την καταπόνηση των ματιών.</string>
     <string name="dark_mode_apps_header">Μεμονωμένες εφαρμογές</string>
+    <string name="dark_mode_auto_time_summary">Ενεργοποίηση της Σκοτεινής λειτουργίας για μια προσαρμοσμένη περίοδο</string>
+    <string name="dark_mode_auto_time_title">Προσαρμοσμένη περίοδος</string>
     <string name="dark_mode_contrast">Ρυθμίστε αυτόματα την αντίθεση</string>
     <string name="dark_mode_contrast_hint">Ρυθμίστε αυτόματα τα χρώματα και τη χαμηλότερη αντίθεση όταν μειώνεται η φωτεινότητα</string>
+    <string name="dark_mode_day_night_mode_summary">Αυτόματη εναλλαγή στη Σκοτεινή λειτουργία μετά το ηλιοβασίλεμα</string>
+    <string name="dark_mode_day_night_mode_title">Καληνύχτα με Σκοτεινή λειτουργία</string>
     <string name="dark_mode_font_background_title">Αυτόματη προσαρμογή κειμένου και φόντου</string>
+    <string name="dark_mode_sunrise_sunset_notify_summary">Σκοτεινή λειτουργία Ανατολή-Δύση ειδοποίηση</string>
+    <string name="dark_mode_sunrise_sunset_notify_title">Σκοτεινή λειτουργία Ανατολή-Δύση τίτλος ειδοποίησης</string>
+    <string name="dark_mode_time_settings">Προγραμματισμός Σκοτεινής λειτουργίας</string>
+    <string name="dark_mode_time_settings_summary">Σύνοψη ρυθμίσεων Σκοτεινής λειτουργίας</string>
     <string name="dark_ui_mode">Σκούρο θέμα</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_off">Προσωρινά ενεργοποιημένη λόγω εξοικονόμησης μπαταρίας</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_on">Ενεργό / Προσωρινά απενεργοποιημένο λόγω Εξοικονόμησης μπαταρίας</string>
@@ -3021,6 +3030,8 @@
     <string name="header_category_system">Σύστημα</string>
     <string name="header_category_wireless_networks">Ασύρματα και Δίκτυα</string>
     <string name="header_data_and_synchronization">Δεδομένα και Συγχρονισμός</string>
+    <string name="headphone_assisted_summary">"Μεταδώστε την τροφοδοσία μικροφώνου του τηλεφώνου σας σε συνδεδεμένα ακουστικά Bluetooth"</string>
+    <string name="headphone_assisted_title">Live in-ear monitor</string>
     <string name="headset_connectiong">Σύνδεση...</string>
     <string name="headset_find_both">Και τα δύο</string>
     <string name="headset_find_cancel">Ακύρωση</string>
@@ -3784,6 +3795,7 @@
     <string name="main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύωσης</string>
     <string name="main_running_process_description">Κύρια διαδικασία σε χρήση.</string>
     <string name="main_toolbar_statistic">Στατιστικά στοιχεία χρήσης δεδομένων</string>
+    <string name="maintenance_title">Λειτουργία επιδιόρθωσης</string>
     <string name="make_sure_cancel_update">Ακύρωση ενημέρωσης ;</string>
     <string name="man_add_application">Προσθέστε εφαρμογές αυτόματης εκκίνησης</string>
     <string name="manage_app_notification">Διαχείριση %1$s ειδοποιήσεις</string>
@@ -4139,6 +4151,7 @@
     <string name="miui_sos_remind_open">Η Έκτακτη ανάγκη SOS χρειάζεται τουλάχιστον 1 επαφή έκτακτης ανάγκης για να λειτουργήσει κανονικά.</string>
     <string name="miui_sos_remind_sendinfo">Μην ξεχάσετε να πείτε σε αυτούς τους ανθρώπους ότι είναι οι επαφές έκτακτης ανάγκης σας τώρα. Έτσι, θα μπορούν να σας βοηθήσουν πιο γρήγορα σε περίπτωση έκτακτης ανάγκης.</string>
     <string name="miui_sos_remind_sendnow">Αποστολή τώρα</string>
+    <string name="miui_sos_remind_sendnow_donot_send">"Να μην αποσταλεί"</string>
     <string name="miui_sos_remind_title">Προσοχή</string>
     <string name="miui_sos_settings_alert_contacts_repeat">Αδύνατη η προσθήκη διπλών επαφών.</string>
     <string name="miui_sos_settings_alert_contacts_too_many">Μπορείτε να προσθέσετε μέχρι και 3 επαφές έκτακτης ανάγκης.</string>
@@ -5177,6 +5190,7 @@
     <string name="privacy_password_use_finger_dialog_title">Δ. Αποτύπωμα</string>
     <string name="privacy_password_use_finger_success">Ενεργό</string>
     <string name="privacy_password_visible_pattern">Εμφάνιση μοτίβου</string>
+    <string name="privacy_policy">Πολιτική απορρήτου</string>
     <string name="privacy_protect_title">Ασφάλεια απορρήτου</string>
     <string name="privacy_protection">Προστασία Απορρήτου</string>
     <string name="privacy_protection_title">Απόρρητο</string>
@@ -5517,6 +5531,7 @@
     <string name="rx_link_speed_label">Λάβετε ταχύτητα σύνδεσης:</string>
     <string name="rx_wifi_speed">Λήψη ταχύτητας σύνδεσης</string>
     <string name="safety_and_regulatory_info">Εγχειρίδιο ασφάλειας και κανονισμών</string>
+    <string name="sar">RF Πληροφορίες έκθεσης</string>
     <string name="save">Αποθήκευση</string>
     <string name="save_battery_mode">Εξοικονομήστε ενέργεια με WQHD+</string>
     <string name="save_battery_mode_summary">Αυτόματη εναλλαγή ανάλυσης για εξοικονόμηση ενέργειας</string>
@@ -6821,7 +6836,9 @@
     <string name="theme_settings_title">Θέματα</string>
     <string name="thememanager_not_found">Δεν ήταν δυνατή η έναρξη Θεμάτων. Βεβαιωθείτε ότι έχει εγκατασταθεί η εφαρμογή.</string>
     <string name="three_gesture_down">Σύρετε 3 δάχτυλα προς τα κάτω</string>
+    <string name="three_gesture_horizontal">Οριζόντια σάρωση με %d δάχτυλα</string>
     <string name="three_gesture_long_press">Πατήστε παρατεταμένα με %d δάχτυλα</string>
+    <string name="three_gesture_pc_mode">Ενεργοποίηση λειτουργίας PC</string>
     <string name="time_format_category_title">Μορφή ώρας</string>
     <string name="time_picker_title">Ώρα</string>
     <string name="time_spent_in_app_pref_title">Χρόνος οθόνης</string>
@@ -7254,6 +7271,7 @@
     <string name="user_add_user_type_title">Προσθήκη</string>
     <string name="user_adding_new_user">Προσθήκη νέου χρήστη…</string>
     <string name="user_admin">Διαχειριστής</string>
+    <string name="user_agreement">Όροι χρήσης</string>
     <string name="user_cannot_add_accounts_message">Σε κλειστά προφίλ δεν μπορείτε να προσθέσετε λογαριασμούς</string>
     <string name="user_cannot_manage_message">Μόνο ο κάτοχος του τηλεφώνου μπορεί να διαχειριστεί τους χρήστες.</string>
     <string name="user_confirm_remove_message">Χώρος αυτού του χρήστη και τα δεδομένα θα διαγραφούν από αυτό το τηλέφωνο. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.</string>

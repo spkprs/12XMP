@@ -825,5 +825,9 @@
         <item quantity="other">Κατανοητό (%ds)</item>
         <item quantity="one">Κατανοητό (%ds)</item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">"Η βαθμολογία απόδοσης της συσκευής σας είναι μικρότερη από %d πόντους. Να γίνει βελτιστοποίηση τώρα;"</item>
+        <item quantity="one">"Η βαθμολογία απόδοσης της συσκευής σας είναι μικρότερη από %d πόντους. Να γίνει βελτιστοποίηση τώρα;"</item>
+    </plurals>
 </resources>
 

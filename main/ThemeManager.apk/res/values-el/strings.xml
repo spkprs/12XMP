@@ -567,6 +567,7 @@
     <string name="multi_sim_ringtone_settings_dialog_ok">Το κατάλαβα</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Να μην εμφανιστεί ξανά</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Προβλήματα συμβατότητας</string>
+    <string name="multiwindow_no_support">"Αυτή η ενέργεια δεν υποστηρίζεται στην Διαιρούμενη οθόνη"</string>
     <string name="multiwindow_no_support_icon">"Αδύνατη η αλλαγή εικονιδίων κατά τη χρήση \"Διαίρεση οθόνης\""</string>
     <string name="my_gifts">Δώρα</string>
     <string name="my_gifts_purchased">Αγορασμένα</string>
@@ -610,6 +611,7 @@
     <string name="personalize_icon_title">Εικονίδια</string>
     <string name="personalize_notify_ringtone_title">Ειδοποιήσεις</string>
     <string name="personalize_notify_style_title">Εφέ</string>
+    <string name="personalize_second_space_not_support_set_font">"Αδύνατη η αλλαγή γραμ/σειράς στο Δεύτερο χώρο"</string>
     <string name="personalize_theme_entrance">Θέματα</string>
     <string name="personalize_third_font">Γραμματοσειρές</string>
     <string name="personalize_title">Ταπετσαρία και εξατομίκευση</string>
@@ -910,6 +912,10 @@
     <string name="settings_search_keyword_font_online">Online γραμ/σειρές</string>
     <string name="settings_search_keyword_font_style">Μορφή γραμ/σειρών</string>
     <string name="settings_search_keyword_font_wechat">WeChat γραμ/σειρές</string>
+    <string name="share_content_text_first_font">Δείτε το! \"%1$s\" η γραμ/σειρά δίνει στο τηλέφωνό σας μια εντελώς νέα εμφάνιση.</string>
+    <string name="share_content_text_first_theme">Δείτε το! \"%1$s\" το θέμα δίνει στο τηλέφωνό σας μια εντελώς νέα όψη.</string>
+    <string name="share_content_text_first_wallpaper">Δείτε το! \"%1$s\" η ταπετσαρία δίνει στο τηλέφωνό σας μια εντελώς νέα όψη.</string>
+    <string name="share_content_text_second">" Βρείτε το δικό σας στυλ στο %1$s!"</string>
     <string name="share_copy_theme_url">Αντιγραφή θέματος URL</string>
     <string name="share_copy_url_success">Αντιγράφηκε με επιτυχία</string>
     <string name="share_copy_wallpaper_url">Αντιγραφή ταπετσαρίας URL</string>

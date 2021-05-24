@@ -135,6 +135,7 @@
     <string name="using_record_confirm_ok">Επιτρέπεται</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="view_recorded_file">Πατήστε για προβολή του εγεγραμμένου αρχείου</string>
     <string name="warning_recording_when_a2dp_connect">"Η συσκευή σας δεν υποστηρίζει εγγραφή ήχων συστήματος ενώ χρησιμοποιείται ακουστικό Bluetooth."</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Όχι τώρα</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>

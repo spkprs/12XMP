@@ -84,6 +84,7 @@
     <string name="cta_v2_agree_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο διαδίκτυο και να εκχωρήστε τις υποχρεωτικές άδειες που αναφέρονται παραπάνω.</string>
     <string name="cta_v2_app_purpose">Δημιουργία, προβολή και διαχείριση σημειώσεων</string>
     <string name="cta_v2_app_purpose_v12">Καλώς ήλθατε στις σημειώσεις! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να δημιουργήσετε εργασίες και σημειώσεις που περιέχουν κείμενο, εικόνες και ήχο.</string>
+    <string name="data_empty_folder">Δεν υπάρχουν άλλοι φάκελοι για εμφάνιση</string>
     <string name="data_empty_note">Δεν υπάρχουν σημειώσεις εδώ ακόμη</string>
     <string name="data_empty_todo">Δεν υπάρχουν εργασίες εδώ ακόμη</string>
     <string name="date_calculate_today">0 ημέρες</string>
@@ -199,6 +200,7 @@
     <string name="gesture_guide_message">Μπορείτε να πατήσετε, να πατήσετε παρατεταμένα και να σύρετε στοιχεία για να δημιουργήσετε και να αναδιατάξετε σημειώσεις. Μάθετε αυτές τις χειρονομίες τώρα;</string>
     <string name="gesture_guide_ok">Εκμάθηση</string>
     <string name="gesture_guide_title">Χειρονομίες</string>
+    <string name="handwrite_description">Χειρόγραφη σημείωση</string>
     <string name="hear_note">Υπαγορευμένες σημειώσεις</string>
     <string name="hidden_notes_fragment_title">Κρυφές σημειώσεις</string>
     <string name="hide_arrow_description">Hide</string>
@@ -221,6 +223,7 @@
     <string name="menu_add_description">Σημείωση</string>
     <string name="menu_add_folder">Προσθήκη στο φάκελο</string>
     <string name="menu_add_folder_description">Προσθήκη φακέλου</string>
+    <string name="menu_add_handwrite_description">Προσθήκη χειρόγραφης σημείωσης</string>
     <string name="menu_create_folder">Νέος φάκελος</string>
     <string name="menu_delete">Διαγραφή</string>
     <string name="menu_delete_forever">Διαγραφή για πάντα</string>

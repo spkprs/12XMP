@@ -1239,6 +1239,28 @@
     <string name="ew_main_warning_list">Προβολή προειδοποιήσεων</string>
     <string name="ew_main_warning_list_tips">Προβολή</string>
     <string name="ew_main_warning_list_title">Προβολή ιστορικού προειδοποιήσεων</string>
+    <string name="ew_monitor_content">Η κινητή συσκευή σας μπορεί να γίνει μέρος του δικτύου έγκαιρης προειδοποίησης για τους σεισμούς. Αφού οι αισθητήρες του ανιχνεύσουν σεισμικά κύματα, τα δεδομένα θα αναλυθούν από τον αλγόριθμο AI και θα εκδοθούν πρόωρες προειδοποιήσεις στους ανθρώπους στις πληγείσες περιοχές.</string>
+    <string name="ew_monitor_exit">Απεγγραφή</string>
+    <string name="ew_monitor_exit_content">Γεια σας, Εθελοντή ΝΟ. %s! Η συσκευή σας μπορεί να παρακολουθεί τη σεισμική δραστηριότητα και να συλλέγει δεδομένα που θα μπορούσαν να βοηθήσουν στην έκδοση προειδοποιήσεων για πρώιμο σεισμό. Κατάργηση εγγραφής;</string>
+    <string name="ew_monitor_exit_title">Προσοχή</string>
+    <string name="ew_monitor_have_been">"Είμαι περήφανος που είμαι "</string>
+    <string name="ew_monitor_info_title">Πώς λειτουργεί;</string>
+    <string name="ew_monitor_join_number">Αριθμός εθελοντών</string>
+    <string name="ew_monitor_join_path">Συμμετοχή στο πρόγραμμα με χρήση συσκευής Xiaomi: Ασφάλεια > Προειδοποίηση σεισμού > Εθελοντής παρακολούθησης σεισμού.</string>
+    <string name="ew_monitor_my_content">Η κινητή μου συσκευή είναι μέρος του δικτύου έγκαιρης προειδοποίησης για τους σεισμούς. Αφού οι αισθητήρες του ανιχνεύσουν σεισμικά κύματα, τα δεδομένα θα αναλυθούν από τον αλγόριθμο AI και θα εκδοθούν πρόωρες προειδοποιήσεις στους ανθρώπους στις πληγείσες περιοχές.</string>
+    <string name="ew_monitor_number_prex">NO. %s</string>
+    <string name="ew_monitor_open">Συμμετοχή</string>
+    <string name="ew_monitor_read_privacy"><Data>"Διάβασα και συμφώνησα με την... &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a>."</Data></string>
+    <string name="ew_monitor_share">Κοινή χρήση</string>
+    <string name="ew_monitor_slogan">Συμμετάσχετε στο\nπρόγρ. παρακολούθησης Σεισμού</string>
+    <string name="ew_monitor_summary1">Χρησιμοποιήστε τη συσκευή σας για σεισμική παρακολούθηση.</string>
+    <string name="ew_monitor_summary2">Αναφορά πληροφοριών σχετικών με την προειδοποίηση σεισμού.</string>
+    <string name="ew_monitor_summary3">Βοηθήστε περισσότερους ανθρώπους να λαμβάνουν ειδοποιήσεις για τους σεισμούς ταχύτερα.</string>
+    <string name="ew_monitor_support">Τεχνική υποστήριξη από το Chengdu Hi-tech Disaster Study Institute</string>
+    <string name="ew_monitor_support_rom">*Αυτή η δυνατότητα υποστηρίζεται από επιλεγμένες συσκευές Xiaomi/Redmi και εκδόσεις MIUI.</string>
+    <string name="ew_monitor_thanks_tips">"Ευχαριστούμε που γίνατε εθελοντής\nπαρακολ. σεισμών NO. %s!"</string>
+    <string name="ew_monitor_title">Εθελοντής παρακολούθησης σεισμών</string>
+    <string name="ew_monitor_title_spilt">"Εθελοντής \nπαρακ. σεισμών"</string>
     <string name="ew_not_support_area">"Οι προειδοποιήσεις δεν υποστηρίζονται σε αυτήν την περιοχή"</string>
     <string name="ew_push_message">Εκτιμώμενη ένταση: %s. Περίμενε ένα μικρό κούνημα κοντά σου.</string>
     <string name="ew_push_title">Προειδοποίηση σεισμού για %s</string>
@@ -1283,6 +1305,7 @@
     <string name="exit_dialog_release_memory_positive_button">Κλείσιμο</string>
     <string name="exit_dialog_release_memory_title"><Data>Επιτάχυνση της συσκευής σας από &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Περισσότερο από 80% του χώρου αποθήκευσης της συσκευή σας είναι κατειλημμένο. Απελευθερώστε χώρο κάνοντας απεγκατάσταση των εφαρμογών που δεν χρησιμοποιείτε ποτέ</string>
+    <string name="exit_dialog_release_storage_message_new">Περισσότερο από %s χώρου αποθήκευσης στη συσκευή σας είναι κατειλημμένος. Ελευθερώστε χώρο καταργώντας την εγκατάσταση των εφαρμογών που δεν χρησιμοποιήσατε ποτέ.</string>
     <string name="exit_dialog_release_storage_positive_button">Απελευθερώστε χώρο</string>
     <string name="exit_dialog_release_storage_title">Απελευθέρωση χώρου</string>
     <string name="exit_dialog_scan_message">Η βαθμολογία απόδοσης της συσκευής σας είναι χαμηλότερη από 75 μονάδες. Βελτιστοποίηση τώρα;</string>
@@ -4190,6 +4213,7 @@
     <string name="vb_settings">Ρυθμίσεις</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Αυτά τα εφέ εφαρμόζονται σε ολόκληρη την οθόνη</string>
+    <string name="vb_ve_settings_display_style_tips_new">*Τα εφέ θα εφαρμοστούν μόνο στην περιοχή αναπαραγωγής βίντεο</string>
     <string name="vb_ve_settings_pic_border_stronger">Βελτιωμένα περιγράμματα</string>
     <string name="vb_ve_settings_picture_stronger">Βελτιωμένα κινούμενα γραφικά</string>
     <string name="vb_video_effects_display_style">Στυλ</string>

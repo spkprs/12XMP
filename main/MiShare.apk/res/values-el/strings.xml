@@ -73,6 +73,7 @@
     <string name="error_receive_user_cancel">Ακυρωμένη μεταφορά</string>
     <string name="error_receive_user_interrupted">Το άλλο άτομο ακύρωσε τη μεταφορά</string>
     <string name="error_refuse_receive">Ακυρωμένη μεταφορά</string>
+    <string name="error_remote_ap_working">Ζητήστε από το άλλο άτομο να απενεργοποιήσει το hotspot</string>
     <string name="error_remote_busy">Φαίνεται ότι η άλλη συσκευή είναι απασχολημένη. Δοκιμάστε ξανά.</string>
     <string name="error_remote_mirror_working">"Η άλλη συσκευή δεν μπορεί να αποδεχτεί στοιχεία κατά την κοινή χρήση της οθόνης"</string>
     <string name="error_self_busy">Η συσκευή είναι απασχολημένη. Δοκιμάστε ξανά.</string>

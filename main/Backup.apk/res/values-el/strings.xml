@@ -43,6 +43,7 @@
   <string name="alert_title_backup_to_miasist">Δημιουργία αντιγράφων χρησιμοποιώντας το Mi PC Suite?</string>
   <string name="alert_title_restore_from_miasist">Επαναφορά στοιχείων στο τηλέφωνό σας?</string>
   <string name="already_enable_encrypt">Η κρυπτογράφηση ενεργοποιήθηκε</string>
+  <string name="apps_item_desc">Εφαρμογές</string>
   <string name="app_name">Αντίγραφα</string>
   <string name="apps_and_data_item_desc">Εφαρμογές και δεδομένα</string>
   <string name="auto_backup">Αυτόματα αντίγραφα</string>
@@ -339,6 +340,7 @@
   <string name="new_pc_backup_summary4">Σημείωση: Μπορείτε επίσης να αντιγράψετε φωτογραφίες και βίντεο από το φάκελο DCIM.</string>
   <string name="new_pc_restore_content1">%d. Συνδέστε την κινητή συσκευή σας στον υπολογιστή μέσω καλωδίου USB.</string>
   <string name="new_pc_restore_content2">%d. Αντιγράψτε το αντίγραφο ασφαλείας από τον υπολογιστή σας σε MIUI-Backup-AllBackup.</string>
+  <string name="new_pc_restore_content1_pad">%d. Συνδέστε την συσκευή σας στον PC μέσω καλωδίου USB.</string>
   <string name="new_pc_restore_content2_pad">%d. Αντιγραφή του αντιγράφου ασφαλείας από τον PC σας στο MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Ανοιξτε την \"%2$s\" και επιλέξτε στοιχεία για επαναφορά.</string>
   <string name="new_pc_title">Αντιγραφή των αντιγράφων ασφαλείας σας</string>
