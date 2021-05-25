@@ -38,11 +38,13 @@
     <string name="back_up_task_in_process">Δημιουργία αντιγράφου…</string>
     <string name="back_up_task_unfinished">Αδυναμία αντιγράφου</string>
     <string name="backing_up_to_micloud">Δημιουργία αντιγράφου…</string>
+    <string name="backup_action_access_permission">Ρυθμίσεις</string>
     <string name="backup_action_buy_cloud_space">Αποκτήστε περισσότερο χώρο αποθήκευσης</string>
     <string name="backup_action_check_network">Έλεγχος ρυθμίσεων δικτύου</string>
     <string name="backup_action_clean_disk_space">Ελευθερώστε χώρο</string>
     <string name="backup_action_retry_now">Δοκιμάστε ξανά</string>
     <string name="backup_fail_wifi_needed">"Αδυναμία δημιουργίας αντιγράφων, χρειάζεται Wi-Fi."</string>
+    <string name="backup_failed_reason_app_usage_denied">Εκχώρηση των απαιτούμενων αδειών για τη δημιουργία αντιγράφων στοιχείων</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Δεν υπάρχει αρκετός χώρος αποθήκευσης στο cloud για την αποθήκευση αυτού του αντιγράφου. Αναβαθμίστε το σχέδιό σας ή ελευθερώστε χώρο αποθήκευσης στο cloud.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Δεν υπάρχει αρκετός αποθηκευτικός χώρος. Ελευθερώστε πρώτα χώρο.</string>
     <string name="backup_failed_reason_network_error">Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά</string>
@@ -58,6 +60,7 @@
     <string name="backup_success">Ολοκλήρωση αντιγράφου</string>
     <string name="backup_successfully">Επιτυχής λήψη αντιγράφου</string>
     <string name="backup_to_cloud">Αντίγραφο εφαρμογής</string>
+    <string name="backup_warning_reason_app_usage_denied">Δεν ήταν δυνατός ο συγχρονισμός δεδομένων.\nΑπαιτούνται άδειες.</string>
     <string name="backup_warning_reason_cloud_space_not_enough">Δεν είναι δυνατή η δημιουργία αντιγράφου</string>
     <string name="backup_warning_reason_disk_space_not_enough">Ανεπαρκής χώρος αποθήκευσης\nΔεν είναι δυνατή η δημιουργία αντιγράφου</string>
     <string name="backup_warning_reason_network_error">Σφάλμα δικτύου\nΔεν είναι δυνατή η δημιουργία αντιγράφου</string>
@@ -146,8 +149,11 @@
     <string name="desktop_wait_network">Αναμονή...</string>
     <string name="desktop_waiting">Αναμονή</string>
     <string name="device_delete_prompt">Διαγραφή αντ.ασφαλείας του %s;</string>
+    <string name="dialog_app_usage_denied">Παραχωρήστε Αντίγραφο την άδεια \"Πρόσβαση χρήσης\" στις Ρυθμίσεις για τη δημιουργία αντιγράφων των στοιχείων.</string>
     <string name="dialog_backup_failed">"Δεν ήταν δυνατή η δημιουργία αντιγράφου"</string>
     <string name="dialog_btn_cancel_backup">Ακύρωση</string>
+    <string name="dialog_btn_confirm2">Κατανοητό</string>
+    <string name="dialog_btn_enter">Ρυθμίσεις</string>
     <string name="dialog_btn_next">Επόμενο</string>
     <string name="dialog_btn_overwrite_backup">Αντικατάσταση</string>
     <string name="dialog_btn_restore_skip">Επαναφορά αργότερα</string>
@@ -160,6 +166,7 @@
     <string name="dialog_msg_overwrite_backup">Το τοπικό αντίγραφο είναι διαφορετικό απο του Xiaomi Cloud. Αν συνεχίσετε, το τρέχον θα αντικαταστήσει το προηγούμενο .</string>
     <string name="dialog_msg_restore_require_wlan">Για Επαναφορά αρχείων απαιτείται Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Η επαναφορά αντιγράφων ασφαλείας απαιτεί σύνδεση σε WiFi.</string>
+    <string name="dialog_need_permission">Απαιτούνται άδειες</string>
     <string name="dialog_title_require_wlan">Σύνδεση σε Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Σύνδεση στο WiFi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>

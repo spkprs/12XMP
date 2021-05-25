@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="agree">Συμφωνώ</string>
+  <string name="cancel">Ακύρωση</string>
+  <string name="check_protocol_msg">Για να χρησιμοποιήσετε τη Λειτουργία Συντήρησης, κάντε κλικ εδώ &amp; συμφωνήστε με </string>
+  <string name="check_protocol_msg_detail">Πριν ξεκινήσετε τη Λειτουργία Συντήρησης, βεβαιωθείτε ότι έχει δημιουργηθεί αντίγραφο των δεδομένων σας και ότι η μετά-πώληση υπηρεσία δεν ευθύνεται για πιθανή απώλεια δεδομένων που προκλήθηκε από το επιδιορθωμένο προϊόν.</string>
+  <string name="check_protocol_msg_sub">Αποποίηση δεδομένων χρήστη</string>
+  <string name="click_to_close">Κάντε κλικ εδώ για έξοδο από τη Λειτουργία Συντήρησης</string>
+  <string name="close_maintenance_mode">Κλείσιμο Λειτουργίας Συντήρησης</string>
+  <string name="create_fail">Η δημιουργία Λειτουργίας Συντήρησης απέτυχε. Δοκιμάστε αργότερα</string>
+  <string name="create_fail_because_max_user">Έχει συμπληρωθεί ο μέγιστος αριθμός χρηστών στο σύστημα. Διαγράψτε τη φωτο σας, τα ανοιχτά διπλότυπα ή παρεμφερή δεδομένα λειτουργίας και προσπαθήστε ξανά</string>
+  <string name="delete_maintenance_mode">Διαγραφή Λειτουργίας Συντήρησης...</string>
+  <string name="disagree">Διαφωνώ</string>
+  <string name="forbid_create">Η Λειτουργία Συντήρησης μπορεί να δημιουργηθεί μόνο στον κύριο χώρο χρήστη</string>
+  <string name="maintenance_mode">Λειτουργία συντήρησης</string>
+  <string name="maintenance_mode_close_title">Σε Λειτουργία συντήρησης</string>
+  <string name="maintenance_mode_loading">Έναρξη Λειτουργίας Συντήρησης, επανεκκίνηση τηλεφώνου σύντομα…</string>
+  <string name="maintenance_mode_reboot">Επανεκκίνηση Λειτουργίας Συντήρησης</string>
+  <string name="maintenance_mode_title">Ολοκληρωμένη προστασία δεδομένων κινητής τηλεφωνίας</string>
+  <string name="maintenance_mode_watch_out">Προστασία σημαντικών ιδιωτικών δεδομένων, όπως φωτογραφίες, βίντεο, επαφές, αρχεία καταγραφής κλήσεων και μηνύματα κειμένου κατά τη μετά-πώληση συντήρηση</string>
+  <string name="open">Άνοιγμα Λειτουργία Συντήρησης</string>
+  <string name="open_maintenance_mode">Άνοιγμα Λειτουργία Συντήρησης</string>
+  <string name="open_maintenance_mode_msg">Για να αποφύγετε την απώλεια δεδομένων, συνιστάται να το στείλετε για επισκευή μετά</string>
+  <string name="open_maintenance_mode_msg_sub">Δημιουργία αντιγράφων των δεδομένων σας</string>
+  <string name="reached_max_user">Μέγιστος αριθμός χρηστών</string>
+  <string name="reboot_maintenance_mode">Η διαγραφή Λειτουργίας Συντήρησης ολοκληρώθηκε, για την απόδοση της συσκευής σας, παρακαλώ επανεκκινήστε το</string>
+  <string name="reboot_msg">Η ενεργοποίηση της Λειτουργίας Συντήρησης θα επανεκκινήσει αυτόματα το τηλέφωνο, επιβεβαιώστε αν είναι ενεργοποιημένο άμεσα</string>
+  <string name="set_password_main_user">Ορίστε κωδικό για τον κύριο χρήστη</string>
+  <string name="set_password_main_user_context">Για να εξασφαλίσετε την ασφάλεια των δεδομένων σας, ρυθμίστε έναν κωδικό πρόσβασης οθόνης κλειδώματος. Ο κωδικός πρόσβασης δεν μπορεί να ανακτηθεί, παρακαλώ να τον θυμάστε. Κατά το κλείσιμο της Λειτουργίας Συντήρησης, πρέπει να επαληθεύσετε τον κωδικό πρόσβασης οθόνης κλειδώματος που ορίσατε.</string>
+  <string name="setting">Ρύθμιση</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="switch_to_maintenance_mode">Μετάβαση σε Λειτουργία Συντήρησης</string>
+</resources>

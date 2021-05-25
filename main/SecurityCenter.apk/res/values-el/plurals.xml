@@ -829,5 +829,9 @@
         <item quantity="other">"Η βαθμολογία απόδοσης της συσκευής σας είναι μικρότερη από %d πόντους. Να γίνει βελτιστοποίηση τώρα;"</item>
         <item quantity="one">"Η βαθμολογία απόδοσης της συσκευής σας είναι μικρότερη από %d πόντους. Να γίνει βελτιστοποίηση τώρα;"</item>
     </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d κίνδυνοι σχετ-απόρρητο</item>
+        <item quantity="one">%d κίνδυνος σχετ-απόρρητο</item>
+    </plurals>
 </resources>
 

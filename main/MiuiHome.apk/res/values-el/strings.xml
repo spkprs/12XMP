@@ -605,7 +605,7 @@
     <string name="remove_sys_app_title">Κατάργηση συντόμευσης της Αρχικής οθόνης;</string>
     <string name="system_shortcuts_more_operation">Πληροφορ.</string>
     <string name="system_shortcuts_remove">Αφαίρεση</string>
-    <string name="system_text">Σύστημα</string>
+    <string name="system_text">Αυτόματα</string>
     <string name="task_access_locked_app_msg">Κλείδωμα εφαρμογών ενεργό</string>
     <string name="title_jeejen">Αρχική σελίδα Jeejen</string>
     <string name="title_select_live_folder">Επιλογή φακέλου</string>

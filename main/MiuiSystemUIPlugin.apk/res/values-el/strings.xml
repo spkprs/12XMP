@@ -56,6 +56,15 @@
     <string name="early_morning">Πρωί</string>
     <string name="error_icon_content_description">Σφάλμα</string>
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενο μενού</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">Ακύρωση</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Ενεργοποίηση</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">Το Live in ear monitor λειτουργεί όταν το Bluetooth είναι ενεργό. Ενεργοποίηση τώρα;</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">Ενεργοποίηση B/T</string>
+    <string name="hearing_assist_transmission_label">Live in-ear monitor</string>
+    <string name="hearing_assist_transmission_tips_cancel">Ακύρωση</string>
+    <string name="hearing_assist_transmission_tips_continue">Ενεργοποίηση</string>
+    <string name="hearing_assist_transmission_tips_summary">"Live in-ear monitor μεταδίδει την τροφοδοσία μικροφώνου του τηλεφώνου σας σε συνδεδεμένα ακουστικά Bluetooth. Να ενεργοποιηθεί τώρα;"</string>
+    <string name="hearing_assist_transmission_tips_title">Live in-ear monitor</string>
     <string name="icon_content_description">Εικονίδιο διαλόγου</string>
     <string name="item_view_role_description">Καρτέλα</string>
     <string name="loading">Άγνωστη κατάσταση</string>

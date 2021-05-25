@@ -62,6 +62,8 @@
     <string name="atarctic_shag">Ανταρκτική σκιά</string>
     <string name="australia_introduction">Η αυστραλιανή ήπειρος είναι ένα καταφύγιο για σπάνια ενδημικά είδη.</string>
     <string name="australian_magpie">Αυστραλιανή Κίσσα</string>
+    <string name="authorization_btn_text">Έναρξη</string>
+    <string name="authorization_tips">Απαιτούνται άδειες</string>
     <string name="baboon_info">Ο μπαμπουίνος ζει σε ομάδες με ανεπτυγμένη κοινωνική κατάταξη ανάλογα με την κυριαρχία κάθε ατόμου.</string>
     <string name="back">Πίσω</string>
     <string name="bear_info">Οι αρκούδες είναι τα μεγαλύτερα σαρκοφάγα. Ζουν σε ψυχρές περιοχές και είναι γνωστοί για την έντονη αίσθηση της όσφρησης.</string>

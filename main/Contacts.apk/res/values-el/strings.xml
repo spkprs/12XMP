@@ -944,6 +944,7 @@
     <string name="no_account_prompt">Η εφαρμογή People λειτουργεί καλύτερα με έναν Λογαριασμό Google.\n\n• Πρόσβαση από οποιοδήποτε πλοηγό.\n• Δημιουργία αντιγράφων ασφαλείας των επαφών σας με ασφάλεια.</string>
     <string name="no_contact_details">Δεν υπάρχουν πρόσθετες πληροφορίες για αυτήν την επαφή.</string>
     <string name="no_contact_in_other_phone">Δεν βρέθηκαν επαφές</string>
+    <string name="no_contact_selected">Επιλέξτε μια επαφή για προβολή λεπτομερειών</string>
     <string name="no_contacts_dialog_message">Οι επαφές σας μπορούν να αποθηκευτούν στην κάρτα SIM σας. Προσπαθήστε να εισαγάγετε επαφές από την κάρτα SIM σας στην εσωτερική μνήμη του τηλεφώνου σας και στη συνέχεια προσπαθήστε ξανά.</string>
     <string name="no_contacts_dialog_title">Απέτυχε η ανεύρεση επαφών</string>
     <string name="no_contacts_selected">Δεν επιλέχθηκε καμία επαφή.</string>
@@ -1380,9 +1381,9 @@
     <string name="t9_search_empty_send_sms">Στείλτε μήνυμα</string>
     <string name="t9_search_empty_video_call">Κλήση βίντεο</string>
     <string name="t9_search_guide_pinyin_title1">Εισαγωγή αριθμών για αναζήτηση επαφών</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Εισάγετε %d και %d για εύρεση <font fgcolor="">D</font>ebbie <font fgcolor="">S</font>mith</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Εισάγετε %d και %d για εύρεση Debbie Smith</string>
     <string name="t9_search_guide_zhuyin_title1">Εισαγωγή αριθμών για αναζήτηση επαφών</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Εισάγετε %d και %d για εύρεση <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Εισάγετε %d και %d για εύρεση Jeff Max</string>
     <string name="take_new_photo">Λήψη νέας φωτογραφίας</string>
     <string name="take_photo">Λήψη φωτογραφίας</string>
     <string name="the_anniversary_of_lifting_martial_law">Επέτειος της άρσης του πολεμικού δικαίου</string>
