@@ -1836,12 +1836,12 @@
     <string name="dark_color_summary_lcd">Χρήση σκοτεινότερης παλέτας χρώματος για φόντο συστήματος και συμβατών εφαρμογών. Αυτό βοηθά στην μείωση καταπόνησης των ματιών όταν χρησιμοποιείτε τη συσκευή σας σε σκοτάδι.</string>
     <string name="dark_color_summary_oled">Χρήση σκοτεινότερης παλέτας χρώματος για φόντο συστήματος και συμβατών εφαρμογών. Η Σκοτεινή λειτουργία μειώνει την κατανάλωση ενέργειας και την καταπόνηση των ματιών.</string>
     <string name="dark_mode_apps_header">Μεμονωμένες εφαρμογές</string>
-    <string name="dark_mode_auto_time_summary">Ενεργοποίηση της Σκοτεινής λειτουργίας για μια προσαρμοσμένη περίοδο</string>
-    <string name="dark_mode_auto_time_title">Προσαρμοσμένη περίοδος</string>
+    <string name="dark_mode_auto_time_summary">Ενεργ/Απενεργοποίηση της Σκοτεινής λειτουργίας σε προσαρμοσμένη περίοδο</string>
+    <string name="dark_mode_auto_time_title">Προσαρμογή</string>
     <string name="dark_mode_contrast">Ρυθμίστε αυτόματα την αντίθεση</string>
     <string name="dark_mode_contrast_hint">Ρυθμίστε αυτόματα τα χρώματα και τη χαμηλότερη αντίθεση όταν μειώνεται η φωτεινότητα</string>
-    <string name="dark_mode_day_night_mode_summary">Αυτόματη εναλλαγή στη Σκοτεινή λειτουργία μετά το ηλιοβασίλεμα</string>
-    <string name="dark_mode_day_night_mode_title">Καληνύχτα με Σκοτεινή λειτουργία</string>
+    <string name="dark_mode_day_night_mode_summary">Μετάβαση Σκοτεινής λειτουργίας στην Δύση και απενεργ/ση στην Ανατολή</string>
+    <string name="dark_mode_day_night_mode_title">Δύση έως Ανατολή</string>
     <string name="dark_mode_font_background_title">Αυτόματη προσαρμογή κειμένου και φόντου</string>
     <string name="dark_mode_sunrise_sunset_notify_summary">Σκοτεινή λειτουργία Ανατολή-Δύση ειδοποίηση</string>
     <string name="dark_mode_sunrise_sunset_notify_title">Σκοτεινή λειτουργία Ανατολή-Δύση τίτλος ειδοποίησης</string>
