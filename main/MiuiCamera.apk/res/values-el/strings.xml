@@ -669,6 +669,9 @@
     <string name="hint_subtitle">Υπαγόρευση υπότιτλων κατά τη λήψη βίντεο</string>
     <string name="hint_subtitle_prompt">Μπορείτε να υπαγορεύσετε υπότιτλους τώρα</string>
     <string name="histogram_summary_tip">Εμφάνιση σχολίων έκθεσης σε πραγματικό χρόνο</string>
+    <string name="home_page_all_photos">Όλες</string>
+    <string name="home_page_camera">Κάμερα</string>
+    <string name="home_page_custom">Προσαρμογή</string>
     <string name="hunt_dual_water_mark">Το διπλό Υδατογράφημα θα προστεθεί αυτόματα.</string>
     <string name="id_card_mode_hint_back">Σαρώστε την πίσω πλευρά της Ταυτότητας σας</string>
     <string name="id_card_mode_hint_front">Σαρώστε την εμπρός πλευρά της Ταυτότητας σας</string>
@@ -1641,6 +1644,7 @@
     <string name="video_tag_flag_title">Σήμανση</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
+    <string name="vlog_video_trans_code_cons">Εισαγωγή…</string>
     <string name="view_privacy_policy">Προβολή Πολιτικής Απορρήτου</string>
     <string name="vv_duartion_hint">%1$s | Τμήμα %2$d | %3$ss</string>
     <string name="vv_hint">Μπορείτε τη λήψη vlogs μόνο σε οριζόντια λειτουργία</string>

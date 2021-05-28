@@ -49,4 +49,7 @@
         <item quantity="one">Μπορείτε να τραβήξετε βίντεο παγώματος χρόνου μόνο με %d θέμα.</item>
         <item quantity="other">Μπορείτε να τραβήξετε βίντεο παγώματος χρόνου μέχρι και %d θέματα.</item>
     </plurals>
+    <plurals name="synced_immerse_title">
+        <item quantity="other">Συγχρ. %1$d φωτο. %2$d βίντεο</item>
+    </plurals>
 </resources>
