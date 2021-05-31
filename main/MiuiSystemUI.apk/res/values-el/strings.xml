@@ -824,6 +824,7 @@
     <string name="face_unlock_reveal_eye">Δείξτε τα μάτια σας</string>
     <string name="face_unlock_reveal_mouth">Δείξτε τα χείλη σας</string>
     <string name="face_unlock_success">Ξεκλειδώθηκε με επιτυχία</string>
+    <string name="face_unlock_swipe_up_retry">Σάρωση πάνω για επανάληψη</string>
     <string name="failed_to_open_app_settings_toast">Αδύνατο άνοιγμα ρυθμίσεων για %1$s</string>
     <string name="finger_error_single_mode">"Αδύνατη η χρήση σαρωτή δακτυλ. αποτυπωμ. σε λειτουργία με Ένα χέρι. Πραγματοποιήστε έξοδο από τη λειτουργία με Ένα χέρι και δοκιμάστε ξανά."</string>
     <string name="fingerprint_add_text">Η διεπαφή Δακτυλικού αποτυπώματος ενημερώθηκε. Προσθέστε ξανά το Δακτυλικό σας αποτύπωμα.</string>

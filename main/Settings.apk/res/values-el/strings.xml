@@ -5683,7 +5683,8 @@
     <string name="screen_shot">Λήψη στιγμιότυπου</string>
     <string name="screen_timeout">Απενεργοποίηση οθόνης</string>
     <string name="screen_timeout_summary">Σε αδράνεια %1$s</string>
-    <string name="screen_timeout_title">Λειτουργία αδράνειας</string>
+    <string name="screen_timeout_title">Αυτόματο Κλείδωμα οθόνης</string>
+    <string name="screen_timeout_subtitle">Η εμφάνιση στατικού περιεχομένου για μεγάλες χρονικές περιόδους μπορεί να κάνει τα χρώματα ανομοιόμορφα</string>
     <string name="screen_usage_summary">Χρόνος ενεργοποίησης της οθόνης από την πλήρη φόρτιση</string>
     <string name="screen_zoom_big">L</string>
     <string name="screen_zoom_conversation_icon_alex">A</string>
@@ -6731,6 +6732,7 @@
     <string name="switch_headset_anti_lost_title">Ειδοποίηση ακουστικών</string>
     <string name="switch_off_text">Ανενεργό</string>
     <string name="switch_on_text">Ενεργό</string>
+    <string name="switch_power_sound">Ήχος φόρτισης</string>
     <string name="switch_screen_button_order">Αντίθετα Πλήκτρα</string>
     <string name="switch_screen_button_order_desc">Αντίθετα Πλήκτρα Πίσω και Μενού</string>
     <string name="switch_select_to_speak_on">Επιλέξτε να μιλήσετε</string>
