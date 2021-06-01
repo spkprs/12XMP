@@ -59,7 +59,7 @@
     <string name="permission_prompt_start">Αποδοχή</string>
     <string name="permission_prompt_started_info">Έχετε επιτρέψει την παγκόσμια αναζήτηση</string>
     <string name="permission_prompt_title">Θέλετε περισσότερα;</string>
-    <string name="pull_to_input">Τραβήξτε προς τα κάτω για εμφάνιση του πλαισίου αναζήτησης</string>
+    <string name="pull_to_input">Τραβήξτε κάτω για αναζήτηση</string>
     <string name="recent_apps">Πρόσφατες εφαρμογές</string>
     <string name="recent_apps_filter">Απόκρυψη εφαρμογών που δεν χρησιμοποιείτε</string>
     <string name="recent_close_content">Απενεργοποίηση αυτής της λειτουργίας τώρα;\nΜπορείτε να το αλλάξετε στις Ρυθμίσεις > Εφαρμογές > Αναζήτηση</string>
@@ -73,7 +73,7 @@
     <string name="recent_filter_functions">Απενεργοποίηση λειτουργιών</string>
     <string name="recent_function">Λειτουργίες</string>
     <string name="recently_shortcut_label">Πρόσφατες συντομεύσεις</string>
-    <string name="release_to_input">Αφήστε για εμφάνιση του πλαισίου αναζήτησης</string>
+    <string name="release_to_input">Αφήστε για εμφάνιση πληκ/λογίου</string>
     <string name="remove_from_history">Διαγραφή αυτού του στοιχείου από το ιστορικό αναζήτησης;</string>
     <string name="remove_from_history_failed">Αδύνατη η διαγραφή από το ιστορικό</string>
     <string name="search_apps">Αναζήτηση εφαρμογών</string>
