@@ -538,11 +538,12 @@
     <string name="document_mode_use_hint_text_title">Σάρωση εγγράφων</string>
     <string name="document_origin">Αρχική εικόνα</string>
     <string name="document_strengthen">Βελτίωση</string>
-    <string name="dolly_zoom_capture_tip1">Τοποθετήστε το αντικείμενό σας στο πλαίσιο και κρατήστε τη συσκευή τουλάχιστον %d μέτρο μακριά</string>
-    <string name="dolly_zoom_capture_tip2">Απομακρύνετε σταθερά τη συσκευή από το θέμα σας</string>
+    <string name="dolly_zoom_capture_tip1">Τοποθετήστε το θέμα σας στο πλαίσιο</string>
+    <string name="dolly_zoom_capture_tip2">Κρατήστε το θέμα σας στο κέντρο και απομακρύνετε σταθερά τη συσκευή</string>
     <string name="dolly_zoom_capture_tip3">Χαμένο κομμάτι του θέματος. Ξανά από την αρχή.</string>
     <string name="dolly_zoom_capture_tip4">Μετακινήσατε τη συσκευή πολύ μακριά. Ξανά από την αρχή.</string>
     <string name="dolly_zoom_capture_tip5">Αδυναμία αποθήκευσης βίντεο</string>
+    <string name="dolly_zoom_capture_tip6">Μετακινήστε το θέμα σας στο κέντρο του πλαισίου</string>
     <string name="dolly_zoom_guide_tip1">Βεβαιωθείτε ότι υπάρχει αρκετός χώρος μεταξύ του θέματος και του φόντου.</string>
     <string name="dolly_zoom_guide_tip10">Και περισσότερα!</string>
     <string name="dolly_zoom_guide_tip2">Προσπαθήστε να αποφύγετε μεγάλες περιοχές συμπαγούς χρώματος.</string>

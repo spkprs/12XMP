@@ -1470,7 +1470,7 @@
     <string name="character_counter_overflowed_content_description">Υπέρβαση ορίου χαρακτήρων %1$d απο %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="charge_length_format">%1$s πριν</string>
-    <string name="charging_sounds_title">Ήχοι Φόρτισης</string>
+    <string name="charging_sounds_title">Ήχοι Φόρτισης &amp; Δόνηση</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_update">Έλεγχος για ενημερώσεις</string>
     <string name="checkbox_notification_same_as_incoming_call">Χρήση έντασης κουδουνίσματος και για τις ειδοποιήσεις</string>
@@ -3225,6 +3225,7 @@
     <string name="internal_storage">Εσωτερικός χώρος</string>
     <string name="internet_connectivity_panel_title">Συνδεσιμότητα στο Διαδίκτυο</string>
     <string name="invalid_location">Η τοποθεσία εγκατάστασης δεν είναι έγκυρη</string>
+    <string name="invalid_secretcode_format_txt">Άκυρη μορφή μυστικού κωδικού!</string>
     <string name="invalid_size_value">Δεν ήταν δυνατό να υπολογιστεί το μέγεθος του πακέτου.</string>
     <string name="ipaddr_label">IPaddr:</string>
     <string name="ipv4_congertion_control">Επιλέξτε τον έλεγχο συμφόρησης TCP</string>
@@ -4696,6 +4697,8 @@
     <string name="notifications_title">Ειδοποιήσεις</string>
     <string name="now">Επανεκκίνηση τώρα</string>
     <string name="number_of_device_admins_none">Δεν υπάρχουν ενεργές εφαρμογές</string>
+    <string name="oaid_apps_summary">Αποδοχή ή περιορισμός σε μεμονωμένες εφαρμογές</string>
+    <string name="oaid_apps_title">Διαχείριση εικονικού ID</string>
     <string name="oaid_string">Τρέχον εικονικό ID:\n%1s</string>
     <string name="oem_lock_info_message">Επανεκκινήστε τη συσκευή για να ενεργοποιήσετε τη δυνατότητα προστασίας της συσκευής.</string>
     <string name="oem_radio_info_label">Συγκεκριμένες πληροφορίες ΟΕΜ/Ρυθμίσεις</string>
@@ -6842,6 +6845,8 @@
     <string name="three_gesture_horizontal">Οριζόντια σάρωση με %d δάχτυλα</string>
     <string name="three_gesture_long_press">Πατήστε παρατεταμένα με %d δάχτυλα</string>
     <string name="three_gesture_pc_mode">Ενεργοποίηση λειτουργίας PC</string>
+    <string name="time_floating_window">Αιωρούμενο Ρολόι</string>
+    <string name="time_floating_window_summary">Εμφάνιση του ρολογιού σε Αιωρούμενο παράθυρο επάνω από άλλες εφαρμογές</string>
     <string name="time_format_category_title">Μορφή ώρας</string>
     <string name="time_picker_title">Ώρα</string>
     <string name="time_spent_in_app_pref_title">Χρόνος οθόνης</string>

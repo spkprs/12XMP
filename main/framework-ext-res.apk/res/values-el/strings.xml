@@ -34,6 +34,8 @@
     <string name="autofill_save_sub_message">"Μπορείτε να δείτε και να διαχειριστείτε τους κωδικούς σας στις "Ρυθμίσεις > Κωδικοί &amp; Ασφάλεια > %s."</string>
     <string name="autofill_save_title">Αυτόματη αποθήκευση κωδικών</string>
     <string name="autofill_service_name">Διαχείριση Κωδικών</string>
+    <string name="battery_authentic_failed_button">Κατανοητό</string>
+    <string name="battery_authentic_failed_title">Προσοχή</string>
     <string name="bluetooth_close">Αυτή η εφαρμογή απενεργοποίησε το B/T</string>
     <string name="bluetooth_disable_notification_content">%s απενεργοποίησε το B/T</string>
     <string name="bluetooth_disable_notification_title">Το B/T είναι ανενεργό</string>
@@ -182,6 +184,7 @@
     <string name="open_close_tip_content">Για να κλείσετε το αιωρούμενο παράθυρο, πατήστε παρατεταμένα τη γραμμή ενεργειών και, στη συνέχεια, σαρώστε προς τα επάνω</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Άλλα πληκτρολόγια</string>
     <string name="package_delete_confirm_step_1">Απεγκατάσταση %s?</string>
     <string name="package_delete_confirm_step_2">Η κατάργηση της εγκατάστασης αυτής της εφαρμογής ενδέχεται να προκαλέσει την αστάθεια του συστήματός σας.</string>
     <string name="package_delete_confirm_step_3">Δεν θα μπορείτε να ανοίξετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε.</string>
