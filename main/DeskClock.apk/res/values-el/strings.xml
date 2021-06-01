@@ -478,10 +478,10 @@
     <string name="timezone_exist_error_message">Η ζώνη ώρας υπάρχει ήδη.</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
-    <string name="turn_off_a_repeat_alarm">Απενεργοποίηση αφύπνισης</string>
+    <string name="turn_off_a_repeat_alarm">Διακοπή Αφύπνισης</string>
     <string name="turn_off_this_repeat_alarm">Επαναλαμβανόμενης αφύπνισης</string>
     <string name="upcoming_alarm">Επόμενη Αφύπνιση: %s</string>
-    <string name="upcoming_alarm_hint">Απενεργοποίηση της αφύπνισης τώρα</string>
+    <string name="upcoming_alarm_hint">Διακοπή Αφύπνισης τώρα</string>
     <string name="update_health_app">Ενημέρωση Mi Health</string>
     <string name="update_health_app_desc">Η λειτουργία παρακολούθησης ύπνου παρέχεται από την mi Health. Ενημερώστε το Mi Health στην τελευταία έκδοσή του για να αποκτήσετε πρόσβαση σε σχετικές δυνατότητες.</string>
     <string name="update_it">Ενημέρωση</string>
