@@ -78,7 +78,7 @@
     <string name="month_april_shortest">Απρ</string>
     <string name="month_august">Αύγουστος</string>
     <string name="month_august_short">Αυγ</string>
-    <string name="month_august_shortest">Αυγ</string>
+    <string name="month_august_shortest">Α</string>
     <string name="month_december">Δεκέμβριος</string>
     <string name="month_december_short">Δεκ</string>
     <string name="month_december_shortest">Δεκ</string>
@@ -97,9 +97,9 @@
     <string name="month_march">Μάρτιος</string>
     <string name="month_march_short">Mar</string>
     <string name="month_march_shortest">Mar</string>
-    <string name="month_may">May</string>
-    <string name="month_may_short">May</string>
-    <string name="month_may_shortest">May</string>
+    <string name="month_may">Μάιος</string>
+    <string name="month_may_short">Μάιος</string>
+    <string name="month_may_shortest">Μάιος</string>
     <string name="month_november">Νοέμβριος</string>
     <string name="month_november_short">Νοε</string>
     <string name="month_november_shortest">N</string>

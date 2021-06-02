@@ -5964,6 +5964,7 @@
     <string name="secspace_fod_use_password">Εισαγωγή κωδικού</string>
     <string name="secure_keyguard_business_title">Κωδικός κλειδώματος οθόνης</string>
     <string name="secure_lock_encryption_warning">Επειδή έχετε ενεργοποιημένη την υπηρεσία προσβασιμότητας, η συσκευή σας δεν θα χρησιμοποιήσει το κλείδωμα οθόνης για βελτίωση της κρυπτογράφησης δεδομένων.</string>
+    <string name="security_center_title">Ασφάλεια</string>
     <string name="security_dashboard_summary">Κλείδωμα οθόνης, δακτυλικό αποτύπωμα</string>
     <string name="security_dashboard_summary_face">Κλείδωμα οθόνης, ξεκλείδωμα προσώπου</string>
     <string name="security_dashboard_summary_no_fingerprint">Κλείδωμα οθόνης</string>

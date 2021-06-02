@@ -1001,6 +1001,14 @@
     <string name="four_point_five_switch_summary">Χρησιμοποιήστε 4,5G για αύξηση ταχύτητας σύνδεσης για βελτίωση της ποιότητας φωνής.</string>
     <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">lte αριθμός καναλιού</string>
+    <string name="full_forwarding_number">Αριθμός προώθησης</string>
+    <string name="full_forwarding_number_error_msg">Μόνο αριθμοί τηλεφώνου που ξεκινούν με \"0\" υποστηρίζονται.</string>
+    <string name="full_forwarding_number_error_title">Άκυρος αριθμός τηλεφώνου</string>
+    <string name="full_forwarding_number_prefix">"Αριθμός τηλεφώνου: "</string>
+    <string name="full_forwarding_option_forwarding">Προώθηση</string>
+    <string name="full_forwarding_option_off">OFF</string>
+    <string name="full_forwarding_option_voicemail">Φωνητικό ταχ/μείο</string>
+    <string name="full_forwarding_settings">Πλήρης προώθηση</string>
     <string name="fw_change_failed">Δεν ήταν δυνατή η αλλαγή του αριθμού προώθησης.\nΕπικοινωνήστε με το φορέα σας, εάν το πρόβλημα παραμένει.</string>
     <string name="fw_get_in_vm_failed">Δεν ήταν δυνατή η ανάκτηση και αποθήκευση των τρεχουσών ρυθμίσεων του αριθμού προώθησης.\nΑλλαγή σε νέο πάροχο ούτως ή άλλως;</string>
     <string name="general_news_settings">Γενικές Ειδήσεις</string>
@@ -1560,6 +1568,7 @@
     <string name="pin_progress_set_icc_lock">Ρύθμιση icc κατάστασης κλειδώματος…</string>
     <string name="pin_progress_unlock_icc">Ξεκλείδωμα κάρτας SIM…</string>
     <string name="platform_carrier_config_package">com.android.carrierconfig</string>
+    <string name="play_voicemail_settings">Αναπ/γωγή Φων. Ταχ/μείου</string>
     <string name="pointer_location">Τοποθεσία δείκτη</string>
     <string name="pointer_location_summary">Επικάλυψη οθόνης που εμφανίζει τρέχοντα δεδομένα αφής</string>
     <string name="police_type_description">Αστυνομία</string>
@@ -2146,6 +2155,7 @@
     <string name="voicemail_abbreviated">ΑΤ:</string>
     <string name="voicemail_change_pin_dialog_title">Αλλαγή PIN</string>
     <string name="voicemail_default">Ο Φορέας σας</string>
+    <string name="voicemail_callforward_settings">Φων. Ταχ &amp; Προώθηση κλήσεων</string>
     <string name="voicemail_notification_vibrate_when_title">Δόνηση</string>
     <string name="voicemail_notifications_preference_title">Ειδοποιήσεις</string>
     <string name="voicemail_number_not_set">&lt;δεν έχει οριστεί></string>
