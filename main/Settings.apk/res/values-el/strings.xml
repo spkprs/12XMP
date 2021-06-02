@@ -369,6 +369,7 @@
     <string name="always_allow_bind_appwidgets_text">Έχετε επιλέξει να επιτρέψετε σε αυτή την εφαρμογή τη δημιουργία widgets και την πρόσβαση στα δεδομένα τους</string>
     <string name="always_running">Συνεχόμενη λειτουργία (%s)</string>
     <string name="always_style">Πάντα</string>
+    <string name="am">ΠΜ</string>
     <string name="amber_alerts_summary">Λήψη ενημερωτικών δελτίων σχετικά με απαγωγές παιδιών</string>
     <string name="amber_alerts_title">AMBER alerts</string>
     <string name="ambient_display_category_triggers">Όταν εμφανιστεί</string>
@@ -1968,6 +1969,7 @@
     <string name="date_and_time_settings_summary">"Ορισμός και μορφή ώρας, ημερομηνίας "</string>
     <string name="date_and_time_settings_title">Ημερομηνία και Ώρα</string>
     <string name="date_and_time_settings_title_setup_wizard">Ορισμός ώρας και ημερομηνίας</string>
+    <string name="date_picker_lunar">Κινέζικο Παραδ. Ημ/γιο</string>
     <string name="date_picker_title">Ημερομηνία</string>
     <string name="date_time_24hour">Χρήση 24ώρου</string>
     <string name="date_time_24hour_auto">Χρήση προεπιλεγμένων τοπικών επιλογών</string>
@@ -4164,6 +4166,20 @@
     <string name="miui_touch_filtered_warning">Εάν μια εφαρμογή καλύπτει το πλαίσιο διαλόγου αδειών. Σύρετε το αντικείμενο μακριά ή κλείστε την εφαρμογή.</string>
     <string name="miui_updater">Ενημέρωση συστήματος</string>
     <string name="miui_userguide">Οδηγός χρήστη</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Περισσότερα</string>
+    <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
+    <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
+    <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
+    <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
+    <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -4919,6 +4935,7 @@
     <string name="ping_test_label">Εκτέλεση δοκιμής ping</string>
     <string name="please_select_phase2">Φάση 2 ταυτοποίησης</string>
     <string name="please_type_passphrase">Εισάγετε κωδικό</string>
+    <string name="pm">ΜΜ</string>
     <string name="poco_launcher_privacy_policy">Πολιτική Απορρήτου Εκκινητή POCO</string>
     <string name="poco_launcher_user_agreement">Συμφωνία χρήστη Εκκινητή POCO</string>
     <string name="pointer_location">Θέση του δείκτη</string>
@@ -6849,6 +6866,9 @@
     <string name="time_floating_window">Αιωρούμενο Ρολόι</string>
     <string name="time_floating_window_summary">Εμφάνιση του ρολογιού σε Αιωρούμενο παράθυρο επάνω από άλλες εφαρμογές</string>
     <string name="time_format_category_title">Μορφή ώρας</string>
+    <string name="time_picker_dialog_title">Ρύθμιση ώρας</string>
+    <string name="time_picker_label_hour">Ω</string>
+    <string name="time_picker_label_minute">Λ</string>
     <string name="time_picker_title">Ώρα</string>
     <string name="time_spent_in_app_pref_title">Χρόνος οθόνης</string>
     <string name="time_unit_just_now">Μόλις τώρα</string>
