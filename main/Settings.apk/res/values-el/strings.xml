@@ -4083,6 +4083,7 @@
     <string name="miui_face_enroll_risk_warning_btn_cancel">Ακύρωση</string>
     <string name="miui_face_enroll_risk_warning_title_text">Προσοχή</string>
     <string name="miui_face_enroll_success">Μπορείτε να ξεκλειδώσετε αυτήν τη συσκευή χρησιμοποιώντας τα δεδομένα προσώπου σας τώρα.\nΣυνεχίστε να έχετε πρόσβαση σε πρόσθετες ρυθμίσεις.</string>
+    <string name="miui_input_method_attention">Προσοχή</string>
     <string name="miui_input_method_settings">Ρυθμίσεις μεθόδου εισαγωγής</string>
     <string name="miui_lab_ai_cloud_closed">Η AI προφόρτωση δεν είναι ακόμα διαθέσιμη.</string>
     <string name="miui_lab_ai_preload_desc">Η AI προφόρτωση αυξάνει την ταχύτητα εκκίνησης της εφαρμογής</string>
@@ -5508,6 +5509,7 @@
     <string name="ringtones_category_preference_title">Ήχοι κλήσης</string>
     <string name="ringtones_install_custom_sound_content">Αυτό το αρχείο θα αντιγραφεί στον φάκελο %s</string>
     <string name="ringtones_install_custom_sound_title">Να προστεθεί προσαρμοσμένος ήχος;</string>
+    <string name="risk_tip">Εντοπίστηκε κίνδυνος</string>
     <string name="roaming">Περιαγωγή δεδομένων</string>
     <string name="roaming_alert_title">Να επιτρέπεται η περιαγωγή δεδομένων;</string>
     <string name="roaming_check_price_warning">Επικοινωνήστε με την υπηρεσία παροχής δικτύου για τιμολόγηση.</string>
