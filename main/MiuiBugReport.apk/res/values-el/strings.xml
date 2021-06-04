@@ -65,6 +65,8 @@
     <string name="activate_email_notice">Βεβαιωθείτε ότι έχετε ενεργοποιήσει τον λογαριασμό σας εντός 24 ωρών</string>
     <string name="activity_not_found_notice">Δεν είναι δυνατή η εύρεση της εφαρμογής</string>
     <string name="add_to_trust_device">Αυτή είναι μια αξιόπιστη συσκευή</string>
+    <string name="afternoon">Απόγευμα</string>
+    <string name="am">ΜΜ</string>
     <string name="announcement">Προσοχή</string>
     <string name="app_empty">Δεν βρέθηκαν εφαρμογές.</string>
     <string name="app_label">Σχόλια</string>
@@ -83,15 +85,16 @@
     <string name="bugreport_tool_log_dumping_title">Δημιουργία αναφοράς σφάλματος</string>
     <string name="catch_full_log_action_cancel">Ακύρωση</string>
     <string name="catch_full_log_action_complete">Ολοκλήρωση και αποστολή</string>
-    <string name="catch_full_log_action_start">Δημιουργία log</string>
+    <string name="catch_full_log_action_start">Δημ/ργία log</string>
     <string name="catch_full_log_add_original_photo">Προσθήκη πρωτότυπης εικόνας ή σύντομου βίντεο</string>
     <string name="catch_full_log_add_photo">Προσθήκη φωτό</string>
     <string name="catch_full_log_add_photo_dialog_content">Εάν το πρόβλημα που αναφέρετε σχετίζεται με την ποιότητα της φωτογραφίας, προσθέστε μια πρωτότυπη φωτογραφία δείγμα (χωρίς περικοπή) για να μας βοηθήσετε να εντοπίσουμε το πρόβλημα. Προσθήκη φωτογραφίας τώρα;</string>
+    <string name="catch_full_log_category">Κατηγορίες</string>
     <string name="catch_full_log_dialog_confirm_text">Μετάβαση στην Αρχική οθόνη</string>
     <string name="catch_full_log_dialog_content">Το MIUI δημιουργεί ένα αρχείο καταγραφής. Αυτό μπορεί να επηρεάσει τη συνολική απόδοση της συσκευής σας. Εάν δεν μπορείτε να αναπαραγάγετε το πρόβλημα που θέλετε να αναφέρετε, επιστρέψτε στα αρχεία καταγραφής και πατήστε \"Ακύρωση\".</string>
     <string name="catch_full_log_dump_hprof_failed">Αδύνατη η δημ. Επιβράνδυσης log</string>
     <string name="catch_full_log_item_content_catch_direct">1. Επιστρέψτε στην λειτουργία που θέλετε να αναφέρετε και αναπαράγετε την.\u000d\n2. Επιστρέψτε σε αυτήν τη σελίδα και αγγίξτε \"Ολοκλήρωση και αποστολή\".</string>
-    <string name="catch_full_log_item_content_need_open">1. Αγγίξτε \"Δημιουργία log\".\u000d\n2. Επιστρέψτε στην λειτουργία που θέλετε να αναφέρετε και αναπαράγετε την.\u000d\n3. Επιστρέψτε σε αυτήν τη σελίδα και αγγίξτε \"Ολοκλήρωση και αποστολή\"\u000d\n4. Συμπληρώστε τα σχόλια και υποβάλετε τα.</string>
+    <string name="catch_full_log_item_content_need_open">1. Αγγίξτε \"Δημ/ργία log\".\u000d\n2. Επιστρέψτε στην λειτουργία που θέλετε να αναφέρετε και αναπαράγετε την.\u000d\n3. Επιστρέψτε σε αυτήν τη σελίδα και αγγίξτε \"Ολοκλήρωση και αποστολή\"\u000d\n4. Συμπληρώστε τα σχόλια και υποβάλετε τα.</string>
     <string name="catch_full_log_item_content_title">Βήματα:</string>
     <string name="catch_full_log_item_title_audio">Ήχος, εγγραφή ήχου, και ήχος κλήσης</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
@@ -102,7 +105,7 @@
     <string name="catch_full_log_item_title_wifi">Wi-Fi και ShareMe</string>
     <string name="catch_full_log_item_title_wifi_china">WiFi και ShareMe</string>
     <string name="catch_full_log_notification_content">Πατήστε για επιστροφή στα logs</string>
-    <string name="catch_full_log_notification_title">Δημιουργία log…</string>
+    <string name="catch_full_log_notification_title">Δημ/ργία log…</string>
     <string name="catch_full_log_privacy_content_audio">Δημιουργούνται αρχεία καταγραφής και αποθηκεύονται στη συσκευή σας. Ενδέχεται να περιέχουν πληροφορίες σχετικά με τον ήχο στη συσκευή σας, συμπεριλαμβανομένου του ιστορικού αναπαραγωγής και εγγραφής. Να είστε προσεκτικοί και μην αποκαλύπτετε αυτά τα αρχεία καταγραφής σε άλλους ανθρώπους. Αν πατήσετε κάτω από την επιλογή \"Συμφωνώ\", συμφωνείτε ότι θα συλλέξουμε τα παραπάνω δεδομένα και στη συνέχεια θα ανεβάσουμε στους διακομιστές μας, προκειμένου να εντοπίσουμε και να επιλύσουμε τα προβλήματα που αναφέρατε.</string>
     <string name="catch_full_log_privacy_content_bt">Δημιουργούνται αρχεία καταγραφής και αποθηκεύονται στη συσκευή σας.  Ενδέχεται να περιέχουν πληροφορίες χρήσης συσκευής Bluetooth (συμπεριλαμβανομένου του ιστορικού κλήσεων, μηνυμάτων, μεταφερθέντων αρχείων κ.λπ.).  Να είστε προσεκτικοί και μην αποκαλύπτετε αυτά τα αρχεία καταγραφής σε άλλους ανθρώπους. Αν πατήσετε κάτω από την επιλογή \"Συμφωνώ\", συμφωνείτε ότι θα συλλέξουμε τα παραπάνω δεδομένα και στη συνέχεια θα ανεβάσουμε στους διακομιστές μας, προκειμένου να εντοπίσουμε και να επιλύσουμε τα προβλήματα που αναφέρατε.</string>
     <string name="catch_full_log_privacy_content_gps">Δημιουργούνται αρχεία καταγραφής και αποθηκεύονται στη συσκευή σας.  Τα ημερολόγια ενδέχεται να περιέχουν τις προσωπικές σας πληροφορίες και πληροφορίες σχετικά με την τοποθεσία. Να είστε προσεκτικοί και μην αποκαλύπτετε αυτά τα αρχεία καταγραφής σε άλλους ανθρώπους. Αν πατήσετε κάτω από την επιλογή \"Συμφωνώ\", συμφωνείτε ότι θα συλλέξουμε τα παραπάνω δεδομένα και στη συνέχεια θα ανεβάσουμε στους διακομιστές μας, προκειμένου να εντοπίσουμε και να επιλύσουμε τα προβλήματα που αναφέρατε.</string>
@@ -114,6 +117,7 @@
     <string name="catch_full_log_submit_directly">Υποβολή</string>
     <string name="change_activate_email">Αλλαγή διεύθυνσης email</string>
     <string name="change_password">Αλλαγή κωδικού</string>
+    <string name="character_counter_content_description">Υπέρβαση ορίου χαρακτήρων %1$d από %2$d</string>
     <string name="choose_to_signin">Ναί</string>
     <string name="choose_to_signup">Όχι, θα δημιουργήσω ένα</string>
     <string name="close">Κλείστε</string>
@@ -132,6 +136,7 @@
     <string name="customer_service_apply">Αίτημα Εξυπηρέτησης πελατών</string>
     <string name="customer_service_complain">Αναφορά Εξυπηρέτησης πελατών</string>
     <string name="customer_service_station">Σημεία Εξυπηρέτησης</string>
+    <string name="date_picker_lunar">Κινέζικο Παραδ. Ημερ/γιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="description">Εάν δεν βλέπετε το πρόβλημα στα κοινά σφάλματα, περιγράψτε το εδώ (στα Αγγλικά)</string>
     <string name="diagnosis_log_send_failed">Δεν ήταν δυνατή η αποστολή αρχείων καταγραφής. Προσπάθησε ξανά.</string>
@@ -140,6 +145,7 @@
     <string name="discard_draft_dialog_button_discard">Απόρριψη</string>
     <string name="discard_draft_dialog_content">Τυχόν αλλαγές που έχετε κάνει σε αυτή την αναφορά θα χαθούν.</string>
     <string name="discard_draft_dialog_title">Απόρριψη πρόχειρου</string>
+    <string name="early_morning">Πρωί</string>
     <string name="err_type">Τύπος σφάλματος</string>
     <string name="err_type_app">Εφαρμογές</string>
     <string name="err_type_appstore">App Store</string>
@@ -630,7 +636,7 @@
     <string name="submit_dialog_confirm">Συμφωνώ</string>
     <string name="submit_dialog_content"><Data>"Διαβάστε και αποδεχτείτε τις &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία χρήστη&lt;/a> πριν από την υποβολή σχολίων. Τα θέματα που αναφέρετε μαζί με τα στοιχεία που επισυνάπτετε (συμπεριλαμβανομένων των αρχείων καταγραφής που ενδέχεται να περιέχουν προσωπικές πληροφορίες, καθώς και της συσκευής και δικτύου σας) θα αποσταλούν στους διακομιστές MIUI. Αυτό θα μας βοηθήσει να εντοπίσουμε και να επιλύσουμε τα προβλήματα που αναφέρετε. Εάν αναφέρετε προβλήματα που σχετίζονται με πολλαπλές συσκευές, θα αποσταλούν επίσης τα αρχεία καταγραφής από άλλες συσκευές όπου χρησιμοποιείται ο λογαριασμός Mi σας. "</Data></string>
     <string name="submit_dialog_content_global"><Data>"Τα σχόλιά σας, μαζί με συνημμένα (αν υπάρχουν) και αρχεία καταγραφής (μπορείτε να αποεπιλέξετε τα αντίστοιχα πλαίσια για τα στοιχεία που δεν θέλετε να ανεβάσετε) θα σταλούν στους διακομιστές του MIUI. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και τα δεδομένα τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a>."</Data></string>
-    <string name="submit_dialog_not_show_again">"Don't show againΝα μην εμφανιστεί ξανά"</string>
+    <string name="submit_dialog_not_show_again">"Να μην εμφανιστεί ξανά"</string>
     <string name="submit_dialog_title">Αποστολή αναφοράς στην Xiaomi</string>
     <string name="submit_feedback_info_failed">Αδυναμία αποστολής αναφοράς</string>
     <string name="suggest_upload_log_dialog_cancel">Όχι ευχαριστώ</string>

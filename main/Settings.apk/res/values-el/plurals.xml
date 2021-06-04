@@ -498,7 +498,7 @@
     <item quantity="one">Ενεργοποιήθηκε 1 αυτόματος κανόνας</item>
   </plurals>
   <plurals name="zen_mode_sound_summary_summary_off_info">
-    <item quantity="other">%d τα προγράμματα μπορούν να ενεργοποιηθούν αυτόματα</item>
+    <item quantity="other">%d προγράμματα μπορούν να ενεργοποιηθούν αυτόματα</item>
     <item quantity="one">1 πρόγραμμα μπορεί να ενεργοποιηθεί αυτόματα</item>
   </plurals>
   <plurals name="zen_mode_starred_contacts_summary_additional_contacts">

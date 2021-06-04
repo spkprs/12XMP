@@ -152,7 +152,7 @@
     <string name="album_rubbish_page_title">Κάδος απορριμμάτων</string>
     <string name="album_rubbish_tip_title">Πιθανώς περιττό άλμπουμ</string>
     <string name="album_scanner">Σαρωτής</string>
-    <string name="album_screen_recorder">Εγγραφέας Οθόνης</string>
+    <string name="album_screen_recorder">Εγγραφή Οθόνης</string>
     <string name="album_screenshot_name">Στιγμιότυπα</string>
     <string name="album_share_cant_move_to_rubbish_tip">Αδύνατη η μετακίνηση κοινόχρηστων άλμπουμ στα απορρίμματα</string>
     <string name="album_share_exit_confirm">Είστε βέβαιοι ότι θέλετε να τερματίσετε την κοινή χρήση των άλμπουμ;</string>
@@ -649,7 +649,7 @@
     <string name="empty_album_rubbish_list_title">Δεν υπάρχουν άλμπουμ εδώ</string>
     <string name="empty_description_conditions">Θυμηθείτε πράγματα που έχουν σημασία</string>
     <string name="empty_description_conditions_new">Συνδέστε το φορτιστή και απενεργοποιήστε την οθόνη για να εμφανιστούν τα αντικείμενα νωρίτερα εδώ</string>
-    <string name="empty_description_no_cards">Θυμηθείτε πράγματα που έχουν σημασία</string>
+    <string name="empty_description_no_cards">Συνεχίστε να φωτογραφίζετε. Τα στοιχεία θα εμφανιστούν εδώ μόλις δημιουργηθούν.</string>
     <string name="empty_query_text_msg">Δεν ξέρω τι να ψάξω…</string>
     <string name="empty_recommend_back">Πίσω</string>
     <string name="empty_recommend_face_page_view">Δεν υπάρχουν άλλες συστάσεις</string>
@@ -1028,6 +1028,9 @@
     <string name="home_menu_photo_movie">Κλίπ</string>
     <string name="home_menu_print">Εκτύπωση φωτογραφιών</string>
     <string name="home_menu_video_post">Εφέ βίντεο</string>
+    <string name="home_page_all_photos">Όλες</string>
+    <string name="home_page_camera">Κάμερα</string>
+    <string name="home_page_custom">Προσαρμογή</string>
     <string name="home_page_empty_action">Βγάλε μια φωτογραφία</string>
     <string name="home_page_label">Φωτογραφίες</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Παράλειψη</string>

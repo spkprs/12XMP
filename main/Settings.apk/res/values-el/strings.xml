@@ -47,10 +47,10 @@
     <string name="abc_slice_permission_deny">Αρνούμαι</string>
     <string name="abc_slice_permission_text_1">- Μπορεί να διαβάσει πληροφορίες από %1$s</string>
     <string name="abc_slice_permission_text_2">- Μπορεί να λάβει μέτρα στο εσωτερικό %1$s</string>
-    <string name="abc_slice_permission_title">Επιτρέπω %1$s να δείξω %2$s slices;</string>
+    <string name="abc_slice_permission_title">Επιτρέπω %1$s να δείξει %2$s διαφάνιες;</string>
     <string name="abc_slice_show_more">Εμφάνιση περισσότερων</string>
     <string name="abc_slice_updated">Ενημέρωση %1$s</string>
-    <string name="abc_slices_permission_request">%1$s θέλει να δείξει %2$s φέτες</string>
+    <string name="abc_slices_permission_request">%1$s θέλει να δείξει %2$s διαφάνιες</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="about_ad_service_instructions">Σχετικά με υπηρεσίες διαφημίσεων και ιδιωτικότητα</string>
     <string name="about_phone_device_name_warning">Το όνομα της συσκευής σας είναι ορατό σε εφαρμογές στο τηλέφωνό σας. Μπορεί επίσης να είναι ορατό και από άλλα άτομα όταν συνδέεστε σε συσκευές Bluetooth ή ρυθμίζετε ένα σημείο πρόσβασης WiFi.</string>
@@ -67,7 +67,7 @@
     <string name="accelerometer_title">Αυτόματη περιστροφή</string>
     <string name="access_control_app_entry_multiple">Άνοιγμα %s</string>
     <string name="access_control_app_entry_single">Άνοιγμα εφαρμογής</string>
-    <string name="access_control_need_password">%s έχει προστατευτε\n</string>
+    <string name="access_control_need_password">%s έχει προστατευτεί</string>
     <string name="access_control_need_to_unlock">Απαιτείται κωδικός:</string>
     <string name="access_control_no_back_footer">Πατήστε το εικονίδιο για έξοδο</string>
     <string name="access_control_password_title">Ενεργοποίηση κωδικού</string>
@@ -3571,14 +3571,14 @@
     <string name="location_street_level">Οι εφαρμογές μπορούν να κάνουν χρήση του GPS για τον προσδιορισμό της τοποθεσίας σας</string>
     <string name="location_title">Η τοποθεσία μου</string>
     <string name="lock_after_timeout">Αυτόματο κλείδωμα</string>
-    <string name="lock_after_timeout_summary">%1$s μετά τον ύπνο</string>
-    <string name="lock_after_timeout_summary_with_exception">%1$s μετά τον ύπνο, εκτός όταν διατηρείται ξεκλείδωτο από %2$s</string>
+    <string name="lock_after_timeout_summary">%1$s μετά το χρονικό όριο</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s μετά το χρονικό όριο, εκτός όταν διατηρείται ξεκλείδωτο από %2$s</string>
     <string name="lock_failed_attempts_before_wipe">Προσπάθησε ξανά. Απόπειρα %1$d του %2$d.</string>
     <string name="lock_failed_attempts_now_wiping_device">Πάρα πολλές λανθασμένες προσπάθειες. Τα δεδομένα αυτής της συσκευής θα διαγραφούν.</string>
-    <string name="lock_failed_attempts_now_wiping_dialog_dismiss">Να απορρίψει</string>
+    <string name="lock_failed_attempts_now_wiping_dialog_dismiss">Απόρριψη</string>
     <string name="lock_failed_attempts_now_wiping_profile">Πάρα πολλές λανθασμένες προσπάθειες. Αυτό το προφίλ εργασίας και τα δεδομένα του θα διαγραφούν.</string>
     <string name="lock_failed_attempts_now_wiping_user">Πάρα πολλές λανθασμένες προσπάθειες. Αυτός ο χρήστης θα διαγραφεί.</string>
-    <string name="lock_immediately_summary_with_exception">Αμέσως μετά τον ύπνο, εκτός όταν διατηρείται ξεκλείδωτο από %1$s</string>
+    <string name="lock_immediately_summary_with_exception">Αμέσως μετά το χρονικό όριο, εκτός όταν διατηρείται ξεκλείδωτο από %1$s</string>
     <string name="lock_intro_message">Lock_intro_message</string>
     <string name="lock_last_attempt_before_wipe_warning_title">Τα δεδομένα σας θα διαγραφούν</string>
     <string name="lock_last_password_attempt_before_wipe_device">Εάν πληκτρολογήσετε εσφαλμένο κωδικό πρόσβασης στην επόμενη προσπάθεια, τα δεδομένα αυτής της συσκευής θα διαγραφούν</string>
@@ -7128,7 +7128,7 @@
     <string name="usage_state_device_unlock_today_tip_title" formatted="false">Ξεκλειδώθηκε μεταξύ %d:00 έως %d:00</string>
     <string name="usage_state_friday">Παρ</string>
     <string name="usage_state_go_more">Περισσότερες εφαρμογές</string>
-    <string name="usage_state_hour_minute" formatted="false">%d Ωρ. %d Λεπ.</string>
+    <string name="usage_state_hour_minute" formatted="false">%d Ωρ %d Λεπ</string>
     <string name="usage_state_less_one_minute">Λιγότερο από 1 λεπτό</string>
     <string name="usage_state_monday">Δευτ</string>
     <string name="usage_state_mourth_day">Χρόνος ενεργής οθόνης %s</string>
