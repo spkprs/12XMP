@@ -3175,7 +3175,7 @@
     <string name="privacy_permission_management_summary">Εφαρμογές που χρησιμοποιούν Άδειες που επιτρέπουν την πραγματοποίηση κλήσεων, την αποστολή SMS και την πρόσβαση σε επαφές</string>
     <string name="privacy_permission_record">Εγγραφή ήχου</string>
     <string name="privacy_permission_right">Απόρρητο</string>
-    <string name="privacy_permission_status">Τρέχοντες Άδειες</string>
+    <string name="privacy_permission_status">Τρέχουσες Άδειες</string>
     <string name="privacy_permission_storage">Πρόσβαση στον αποθηκευτικό χώρο</string>
     <string name="privacy_permission_summary_none">Καμία εφαρμογή δεν έχει μόνιμη πρόσβαση</string>
     <string name="privacy_permission_use_times">Μάθετε πώς, μεμονωμένες εφαρμογές χρησιμοποιούν τις άδειες σας</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_autoclick_custom_title">Προσαρμογή</string>
-    <string name="accessibility_autoclick_default_title">Απενεργοποιημένο</string>
+    <string name="accessibility_autoclick_default_title">Ανενεργό</string>
     <string name="accessibility_autoclick_description">Το αυτόματο κλικ λειτουργεί με ένα συνδεδεμένο ποντίκι. Μπορείτε να ρυθμίσετε τον δείκτη του ποντικιού να κάνει κλικ αυτόματα όταν σταματάει να κινείται για ένα συγκεκριμένο χρονικό διάστημα.</string>
     <string name="accessibility_autoclick_long_summary">1 δευτ.</string>
     <string name="accessibility_autoclick_long_title">Μεγάλο</string>
@@ -49,14 +49,14 @@
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Σύρετε προς τα επάνω με 3 δάχτυλα</string>
     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Τριπλό πάτημα οθόνης</string>
     <string name="accessibility_shortcut_edit_summary_software">Κουμπί προσβασιμότητας</string>
-    <string name="accessibility_shortcut_service_on_lock_screen_title">Συντόμευση από οθόνη κλειδώματος</string>
+    <string name="accessibility_shortcut_service_on_lock_screen_title">Συντόμευση από οθόνη κλειδ.</string>
     <string name="accessibility_shortcut_settings">Ρυθμίσεις συντόμευσης</string>
     <string name="accessibility_shortcut_title">Συντόμευση %1$s</string>
     <string name="accessibility_shortcut_type_hardware">Παρατεταμένο πάτημα πλήκτρων έντασης</string>
     <string name="accessibility_shortcut_type_software">Κουμπί προσβασιμότητας</string>
     <string name="accessibility_shortcut_type_software_gesture">Ολίσθηση προς τα επάνω με 2 δάχτυλα από το κάτω μέρος</string>
     <string name="accessibility_shortcut_type_triple_tap">Τριπλό πάτημα οθόνης</string>
-    <string name="accessibility_summary_shortcut_disabled">Απενεργοποιημένο</string>
+    <string name="accessibility_summary_shortcut_disabled">Ανενεργό</string>
     <string name="accessibility_summary_shortcut_enabled">Συντόμευση ενεργή</string>
     <string name="accessibility_tutorial_dialog_message_button">Για να ενεργοποιήσετε ή να απενεργοποιήσετε αυτήν τη λειτουργία, πατήστε το κουμπί προσβασιμότητας %s στο κάτω μέρος της οθόνης.\n\nΓια εναλλαγή μεταξύ λειτουργιών, αγγίξτε παρατεταμένα το κουμπί προσβασιμότητας.</string>
     <string name="accessibility_tutorial_dialog_message_gesture">Για να ενεργοποιήσετε ή να απενεργοποιήσετε αυτήν τη λειτουργία, σύρετε με 2 δάχτυλα προς τα επάνω από το κάτω μέρος της οθόνης.\n\nΓια εναλλαγή μεταξύ λειτουργιών, σύρετε παρατεταμένα με 2 δάχτυλα προς τα επάνω.</string>

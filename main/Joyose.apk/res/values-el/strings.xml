@@ -12,9 +12,9 @@
     <string name="forbidden_fakecell_summary">Αποφύγετε τη σύνδεση του τηλεφώνου σας σε ψεύτικους σταθμούς βάσης</string>
     <string name="support_forbidden_fakecell">Σημείωση: Ο περιορισμός της σύνδεσης σε ψεύτικους σταθμούς βάσης μπορεί να μειώσει το σήμα σε περιοχές με κακή κάλυψη.</string>
     <string name="not_support_forbidden_fakecell">"Η συσκευή σας δεν υποστηρίζει την προστασία επιπέδου chip από ψεύτικους σταθμούς βάσης."</string>
-    <string name="restart_details">Η ενεργοποίηση ή απενεργοποίηση αυτής της λειτουργίας απαιτεί την επανεκκίνηση της συσκευής σας. Επανεκκινήστε τώρα?</string>
+    <string name="restart_details">Η ενεργοποίηση ή απενεργοποίηση αυτής της λειτουργίας απαιτεί την επανεκκίνηση της συσκευής σας. Επανεκκίνηση τώρα?</string>
     <string name="restart_later">Αργότερα</string>
-    <string name="restart_now">Επανεκκίνηση τώρα</string>
+    <string name="restart_now">Επανεκκίνηση</string>
     <string name="switch_to_official">Μεταβείτε στον επίσημο διακομιστή</string>
     <string name="switch_to_staging">Μετάβαση σε δοκιμαστικό διακομιστή</string>
     <string name="lab_switch_server">Εναλλαγή διακομιστών</string>
