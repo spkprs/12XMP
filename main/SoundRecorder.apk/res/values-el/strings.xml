@@ -62,6 +62,7 @@
     <string name="delete">Διαγραφή</string>
     <string name="delete_cloud_data_at_same_time">Διαγραφή και από το cloud</string>
     <string name="delete_dialog_message">Διαγραφή εγγραφής;</string>
+    <string name="delete_recorder">Διαγραφή</string>
     <string name="deleting_message">Διαγραφή…</string>
     <string name="details">Λεπτομέρειες</string>
     <string name="dialog_content_storage_full">Η εγγραφή σταμάτησε γιατί δεν έχει απομείνει αρκετός χώρος στην εσωτερική μνήμη της συσκευής σας</string>
@@ -187,6 +188,7 @@
     <string name="pay_error_cancel">Η πληρωμή ακυρώθηκε</string>
     <string name="pay_error_null">Πληρωμή απέτυχε, έλεγχος λογαριασμού</string>
     <string name="pay_error_unknown">Αγνωστο σφάλμα</string>
+    <string name="play_speed">%1$.1fX ταχ.</string>
     <string name="playback_delete_records">Διαγραφή εγγραφής</string>
     <string name="playback_share_records">Κοινή χρήση εγγραφής</string>
     <string name="preference_clear_data">Εκκαθάριση δεδομένων</string>
