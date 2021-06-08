@@ -523,7 +523,13 @@
     <string name="app_permission_use_title">Άδειες</string>
     <string name="app_predict_black_list_empty">Χωρίς στοιχεία εδώ ακόμη</string>
     <string name="app_predict_black_list_setting_title">Λίστα προτάσεων αποκλ. εφαρμ.</string>
+    <string name="app_predict_dialog_button">Προσθήκη στην αρχική οθόνη</string>
+    <string name="app_predict_dialog_message">Η AI θα προτείνει εφαρμογές που μπορεί να χρειαστείτε αυτήν τη στιγμή</string>
+    <string name="app_predict_dialog_success">Προστέθηκε στην αρχική οθόνη με επιτυχία</string>
     <string name="app_predict_folder_name">Αναζήτηση</string>
+    <string name="app_predict_guide_button">Προσθήκη</string>
+    <string name="app_predict_guide_message">Η AI θα προτείνει εφαρμογές που μπορεί να χρειαστείτε αυτήν τη στιγμή</string>
+    <string name="app_predict_guide_title">Προτάσεις Έξυπνων εφαρμογών</string>
     <string name="app_predict_loading_text">Μισό λεπτό…</string>
     <string name="app_predict_search_title">Όλες οι εφαρμογές</string>
     <string name="app_predict_setting_black_list">Λίστα αποκλεισμού</string>
@@ -1804,6 +1810,7 @@
     <string name="gmscore_support_remind">Ενεργοποιήστε αυτή τη λειτουργία εάν αντιμετωπίζετε προβλήματα με τη χρήση του G-mail, των Χαρτών Google και άλλων εφαρμογών Google. Θα μειώσει ελαφρώς τη διάρκεια ζωής της μπαταρίας.</string>
     <string name="gmscore_support_service">Υπηρεσίες Google</string>
     <string name="go_to">Μετάβαση</string>
+    <string name="go_to_mi_sim">Πατήστε για χρήση Mi SIM.</string>
     <string name="go_to_send">Αποστολή</string>
     <string name="go_to_setting_fingerprint">Ρυθμίσεις</string>
     <string name="google_base_app_fail">Δεν ήταν δυνατή η λήψη. Ελέγξτε αν επιτρέπεται στην Ασφάλεια να συνδεθεί στο Internet.</string>
@@ -2192,6 +2199,7 @@
     <string name="mi_ime_not_used">Χρήση πληκτ/γίου με εξουσιοδότηση της Xiaomi</string>
     <string name="mi_service_app_detail">Λεπτομέρειες χρήσης δεδομένων</string>
     <string name="mi_service_traffic_detail">Λεπτομέρειες υπηρεσιών</string>
+    <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Πατήστε επάνω για άνοιγμα Mi Sim.&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">Διεθνής περιαγωγή</string>
     <string name="midrop_post_notification_contentText">Δοκιμάστε το Mi drop, με ταχύτητα μεταφοράς μέχρι 50 M/δ.</string>
     <string name="midrop_post_notification_contentTitle">Κοινή χρήση?</string>
@@ -2916,6 +2924,7 @@
     <string name="power_setting_super_save_summary_text">Περιορίστε τις περισσότερες λειτουργίες του συστήματος για εξοικον. μπαταρίας</string>
     <string name="power_setting_warm_configure">Ελεγχος θερμοκρασίας</string>
     <string name="power_setting_warm_performance_tip">Τα σενάρια που απαιτούν μεγάλη κατανάλωση ενέργειας θα αυξήσουν τη θερμοκρασία της συσκευής σας πάνω από τα επίπεδα της προεπιλεγμένης λειτουργίας ελέγχου θερμοκρασίας.</string>
+    <string name="power_setting_wireless_reverse_charging_fg_control_title">Όριο φόρτισης</string>
     <string name="power_setting_wireless_reverse_charging_summary">Φορτίστε ασύρματα συμβατές συσκευές</string>
     <string name="power_setting_wireless_reverse_charging_title">Αντίστροφη ασύρματη φόρτιση</string>
     <string name="power_settings_category_title">Ένδειξη μπαταρίας</string>
@@ -2928,6 +2937,17 @@
     <string name="power_superpower_title_systemui_highpower">Χρόνος που απομένει</string>
     <string name="power_superpower_title_systemui_lowpower">Σύνδεση φορτιστή</string>
     <string name="power_wifi">Wi‑Fi</string>
+    <string name="power_wireless_need_update_text">Ενημερώνεται…</string>
+    <string name="power_wireless_update_button_text">Ενημέρωση</string>
+    <string name="power_wireless_update_dialog_button">Κατανοητό</string>
+    <string name="power_wireless_update_dialog_message">Φορτίστε τη συσκευή σας τουλάχιστον %s για να ενημερώσετε το υλικολογισμικό ασύρματης φόρτισης.</string>
+    <string name="power_wireless_update_dialog_title">Χαμηλή μπαταρία</string>
+    <string name="power_wireless_update_driver">Ενημερώσεις υλικολογισμικού</string>
+    <string name="power_wireless_update_notification_button">Προβολή</string>
+    <string name="power_wireless_update_notification_subtitle">Ενημέρωση υλικολογισμικού για βελτίωση της σταθερότητας ασύρματης φόρτισης</string>
+    <string name="power_wireless_update_notification_title">Ενημέρωση ασύρματης φόρτισης</string>
+    <string name="power_wireless_update_text">Ενημερωμένο</string>
+    <string name="power_wireless_update_tv_text">"Ενημέρωση υλικολογισμικού. Μην απενεργοποιήσετε τη συσκευή."</string>
     <string name="pp_app_behavior_record_detail">Καταγραφή όλης της συμπεριφοράς εφαρμογής</string>
     <string name="pp_app_del_img_intercept_detail">Λήψη ειδοποιήσεων όταν οι εφαρμογές διαγράφουν στοιχεία από τη Συλλογή χωρίς την άδειά σας</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Λήψη ειδοποιήσεων όταν οι εφαρμογές χρησιμοποιούν άδειες υψηλού κινδύνου</string>
@@ -3464,6 +3484,8 @@
     <string name="setting">Ρυθμίσεις</string>
     <string name="setting_online_service">Ηλεκτρονικές υπηρεσίες</string>
     <string name="setting_privacy_password">Ορισμός κωδικού Προσωπικής προστασίας</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Διακοπή αντίστροφης ασύρματης φόρτισης όταν η μπαταρία αυτής της συσκευής φτάσει %s</string>
+    <string name="setting_wireless_reverse_charging_summary">Τοποθετήστε τη συσκευή που υποστηρίζει ασύρματη φόρτιση Qi (π.χ. τηλέφωνο ή φορετή συσκευή) στο κέντρο του πίσω μέρους αυτής της συσκευής</string>
     <string name="settings">Ρυθμίσεις χρήσης δεδομένων</string>
     <string name="settings_battery_consume_abnormal_summary">Ειδοποίηση όταν η μπαταρία εξαντλείται γρήγορα</string>
     <string name="settings_battery_consume_abnormal_title">Ειδοποιήσεις εξάντλησης μπαταρίας</string>

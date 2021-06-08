@@ -1209,7 +1209,7 @@
     <string name="bluetooth_unlock_settings_devices_title">Συσκευή</string>
     <string name="bluetooth_unlock_settings_toggle_title">Εφαρμογή σε</string>
     <string name="bluetooth_unlock_settings_unlock_device">Ξεκλείδωμα συσκευής</string>
-    <string name="bluetooth_unlock_settings_unlock_summary">Αυτό λειτουργεί σε Mi Smart Bands &amp; Mi Watches</string>
+    <string name="bluetooth_unlock_settings_unlock_summary">Αυτό λειτουργεί με επιλεγμένες φορετές συσκευές της Xiaomi</string>
     <string name="bluetooth_unlock_state_disconnected">Αποσυνδέθηκε</string>
     <string name="bluetooth_unlock_state_key_error">Λάθος κωδικός</string>
     <string name="bluetooth_unlock_state_label">Κατάσταση:</string>
@@ -1291,9 +1291,17 @@
     <string name="bt_absVolume_open_dialog_title">Προσοχή</string>
     <string name="bt_absVolume_pre_title">Απόλυτη ένταση</string>
     <string name="bt_absVolume_summary">"Διατηρήστε την ένταση των συσκευών Bluetooth και του τηλεφώνου αυστηρά σταθερή. Μπορείτε να ενεργ-απενεργοποιήσετε αυτήν τη δυνατότητα όταν τα μέσα δεν αναπαράγονται στο παρασκήνιο."</string>
+    <string name="bt_audio_repair_property">Διόρθωση προβλημάτων ήχου</string>
     <string name="bt_audio_share_property">Κοινή χρήση</string>
     <string name="bt_audio_share_switch_summary">Κοινή χρήση ήχου με συνδεδεμένες συσκευές Bluetooth</string>
     <string name="bt_audio_share_switch_title">Κοινή χρήση ήχου</string>
+    <string name="bt_audiorepair_dialog_open_success">Η επιδιόρθωση ολοκληρώθηκε με επιτυχία. Περιμένετε μέχρι να επανασυνδεθεί η συσκευή.</string>
+    <string name="bt_audiorepair_dialog_openok">Διόρθωση</string>
+    <string name="bt_audiorepair_open_dialog_summary">"Το MIUI θα εντοπίσει και θα διορθώσει τα προβλήματα που προκαλούν κακό ήχο B/T. Θα γίνει επανεκκίνηση του B/T κατά την διαδικασία. Μην αφήσετε αυτήν τη σελίδα μέχρι να δείτε τα αποτελέσματα."</string>
+    <string name="bt_audiorepair_open_dialog_title">Διόρθωση κακού ήχου</string>
+    <string name="bt_audiorepair_pre_title">Διόρθωση κακού ήχου</string>
+    <string name="bt_audiorepair_summary">Διόρθωση κακού ήχου σε συνδεδεμένες συσκευές B/T</string>
+    <string name="bt_audiorepair_working">Διόρθωση κακού ήχου…</string>
     <string name="bt_dialog_remember_choice">Ενθύμηση επιλογής</string>
     <string name="bt_dialog_settings">Ρυθμίσεις</string>
     <string name="bt_hci_snoop_log">Ενεργοποίηση καταγραφής snoop Bluetooth HCI</string>
