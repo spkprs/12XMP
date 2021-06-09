@@ -70,6 +70,13 @@
     <string name="expand_button_title">Προχωρημένος</string>
     <string name="first_note">Δοκιμάστε την ακουστική σας αντίληψη για να προσαρμόσετε ανάλογα την ένταση.</string>
     <string name="four_note">Η δοκιμή θα διαρκέσει περίπου 3 λεπτά για να ολοκληρωθεί.</string>
+    <string name="headset_use_long_time">"Φαίνεται ότι φοράτε τα ακουστικά σας περισσότερο από το συνιστώμενο. Βγάλτε τα και κάντε μια παύση."</string>
+    <string name="headset_use_loud_volume">Η ένταση των ακουστικών είναι υψηλή για μεγάλο χρονικό διάστημα. Για την προστασία της ακοής σας, έχει μειωθεί στο συνιστώμενο επίπεδο.</string>
+    <string name="headset_use_not_support_noise_reduction">Φαίνεται ότι το τρέχον περιβάλλον σας είναι πολύ θορυβώδες. Η χρήση ακουστικών τώρα μπορεί να επηρεάσει την ακοή σας.</string>
+    <string name="headset_use_prompt">Ακουστικά</string>
+    <string name="headset_use_support_noise_reduction">Φαίνεται ότι το τρέχον περιβάλλον σας είναι πολύ θορυβώδες. Χρησιμοποιήστε την ακύρωση θορύβου για να προστατεύσετε την ακοή σας.</string>
+    <string name="headset_volume_content">Η τρέχουσα ένταση των ακουστικών υπερβαίνει το συνιστώμενο όριο. Μειώστε την ένταση για προστασία της ακοής σας.</string>
+    <string name="headset_volume_prompt">Ένταση ακουστικών</string>
     <string name="heard_no">Οχι</string>
     <string name="heard_yes">Ναί</string>
     <string name="hearing_assist_bluetooth_headset">Ακουστικά Bluetooth</string>
@@ -224,6 +231,7 @@
     <string name="save_and_apply">Αποθήκευση και εφαρμογή</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="second_note">Βάλτε τα ακουστικά σας.</string>
+    <string name="see_details">Λεπτομέριες</string>
     <string name="sound_assist_key_summary">Προσαρμόστε τον ήχο για μεμονωμένες εφαρμογές όταν πολλές εφαρμογές παίζουν ταυτόχρονα ήχο</string>
     <string name="sound_assist_key_title">Προσαρμογή ήχου πολυμέσων σε πολλές εφαρμογές</string>
     <string name="sound_assist_title">Βοηθός ήχου</string>
