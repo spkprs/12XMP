@@ -581,6 +581,7 @@
     <string name="recents_layout_style">Τακτοποίηση στοιχείων στα πρόσφατα</string>
     <string name="recents_layout_style_horizontal">Οριζόντια</string>
     <string name="recents_layout_style_vertical">Κατακόρυφα</string>
+    <string name="recents_smallwindow_drag_text">Αφήστε εδώ για καρφίτσωμα</string>
     <string name="recents_smallwindow_text">Αφήστε για προσθήκη</string>
     <string name="recents_task_screening">Μετάδοση</string>
     <string name="recents_title_app_manager">Διαχείριση εφαρμογών</string>
