@@ -308,7 +308,7 @@
     <string name="file_title">Όνομα:</string>
     <string name="file_width_height">Μέγεθος:</string>
     <string name="flatshow_page_no">%1$d</string>
-    <string name="fmt_date">Η</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -644,7 +644,7 @@
     <string name="notification_failed_multiple_title">Μη απεσταλμένα μηνύματα</string>
     <string name="notification_group_name">Μηνύματα</string>
     <string name="notification_multiple_title">Νέα μηνύματα</string>
-    <string name="notification_seen">Ως Αναγνωσμένο</string>
+    <string name="notification_seen">Ως Αναγν/μένο</string>
     <string name="number_add_hint">Εισάγετε αριθμό τηλεφώνου</string>
     <string name="number_recognition_partner">Πάροχοι υπηρ. αναγνώρισης ID αποστολέα</string>
     <string name="open_audio_record_panel">Άνοιγμα του πάνελ εγγραφής ήχου</string>
@@ -1109,7 +1109,7 @@
     <string name="sp_category_bank">Μηνύματα Τραπεζών</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Ειδοποιήσεις</string>
-    <string name="sp_mark_as_read_menu_title">Ως Αναγνωσμένο</string>
+    <string name="sp_mark_as_read_menu_title">Ως Αναγν/μένο</string>
     <string name="sp_msg_entry">Υπηρεσίες</string>
     <string name="sqlite_disk_full">Ο χώρος αποθήκευσης στη συσκευή σας είναι γεμάτος.</string>
     <string name="sqlite_low_memory">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>

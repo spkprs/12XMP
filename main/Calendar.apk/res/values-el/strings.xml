@@ -427,7 +427,7 @@
     <string name="flight_time">Εκτιμώμενη %1$s</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">MMMM d</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>

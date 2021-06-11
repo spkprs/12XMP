@@ -464,10 +464,10 @@
     <string name="finish_stand">Τέλος ορθοστασίας</string>
     <string name="finish_stand2">Ορθιος</string>
     <string name="finished_rate">Ολοκληρώθηκε το %1$d%%</string>
-    <string name="fmt_date">Η</string>
-    <string name="fmt_date_day">η</string>
-    <string name="fmt_date_numeric_day">η</string>
-    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_numeric_day">dd</string>
+    <string name="fmt_date_numeric_month">MM</string>
     <string name="for_diagnosis_usage_only">Χρησιμοποιήστε αυτές τις πληροφορίες μόνο για διάγνωση.</string>
     <string name="free_training">Άσκηση ελεύθερου στυλ</string>
     <string name="freestyle">Ελεύθερο στύλ</string>

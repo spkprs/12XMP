@@ -167,7 +167,7 @@
     <string name="expand_button_title">Για προχωρημένους</string>
     <string name="first_unlock_time">"Πρώτο ξεκλείδωμα: "</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_day">dd</string>
     <string name="focus_mode_custom_time">Προσαρμοσμένη διάρκεια</string>
     <string name="focus_mode_timer_add_limit">Προσθέστε έως %d περιόδους</string>
     <string name="focus_mode_timer_delete">Διαγραφή</string>
