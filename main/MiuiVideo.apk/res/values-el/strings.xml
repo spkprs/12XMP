@@ -46,6 +46,11 @@
     <string name="airkan_device_xiaomi_phone">Μi</string>
     <string name="airkan_playing">Προβολή σε %s</string>
     <string name="airkan_tips">Πατήστε για προβολή</string>
+    <string name="airplay_check_same_wlan">Βεβαιωθείτε ότι τόσο το τηλέφωνό σας όσο και η εξωτερική οθόνη είναι συνδεδεμένα στο ίδιο δίκτυο Wi-Fi.</string>
+    <string name="airplay_following_devices_found">Διαθέσιμες συσκευές</string>
+    <string name="airplay_nfc_no_device_found">"Αδυναμία εύρεσης συσκευών για σύνδεση"</string>
+    <string name="airplay_no_device_found">"Αδυναμία εύρεσης συσκευών για σύνδεση"</string>
+    <string name="airplay_searching_for_devices">Αναζήτηση συσκευών…</string>
     <string name="alert_dialog_download">Έχετε ήδη πραγματοποιήσει λήψη αυτής της εφαρμογής.</string>
     <string name="alert_dialog_download_btn_hide">Απόκρυψη</string>
     <string name="alert_dialog_download_confirm">Άνοιγμα %1s;</string>
@@ -246,6 +251,11 @@
     <string name="gallery_tab_all">Όλα</string>
     <string name="gallery_tab_videos">Βίντεο</string>
     <string name="gallery_video_save_video">Δημιουργία βίντεο…</string>
+    <string name="galleryplus_already_cloud_member">Χρήση μέλους VIP για αναπ/γή</string>
+    <string name="galleryplus_check_network">Ρυθμίσεις</string>
+    <string name="galleryplus_chose_play_speed">Αναπ σε %1$.1fX</string>
+    <string name="galleryplus_chose_play_speed_2">Αναπ σε %1$.2fX</string>
+    <string name="galleryplus_chose_play_speed_failure">"Αδυναμία ρύθμισης ταχύτητας"</string>
     <string name="galleryplus_click_to_higher_definition">Διπλό πάτημα για να ανοίξετε την προεπισκόπηση HD</string>
     <string name="galleryplus_cta_tips">Μπορείτε να μας βοηθήσετε να βελτιώσουμε τις υπηρεσίες μας εγγράφοντας στο Πρόγραμμα εμπειρίας χρήστη και επιτρέποντας στο Mi Video να συνδεθεί στο Διαδίκτυο. Συμφωνώ?</string>
     <string name="galleryplus_double_tap_to_higher_definition">Πατήστε ξανά δύο φορές για να ανοίξετε την προεπισκόπηση HD</string>
@@ -309,6 +319,8 @@
     <string name="h5_comment_hint">Εισάγετε το σχόλιό σας</string>
     <string name="h5_refresh">Ανανέωση</string>
     <string name="h5_unsharedable">Αδύνατη η κοινή χρήση αυτού του στοιχείου.</string>
+    <string name="hand_off_error_no_device">""Αδυναμία εύρεσης συσκευών για σύνδεση"</string>
+    <string name="hand_off_tv_not_playing">"Αδυναμία εύρεσης συσκευών για σύνδεση"</string>
     <string name="have_learned">Κατανοητό</string>
     <string name="have_no_more_comments">Αυτά για τώρα.</string>
     <string name="high_quality_author">Κορυφαίο κανάλι</string>
@@ -354,6 +366,7 @@
     <string name="is_open_network_log">Ενεργοποίηση για τη δημιουργία αρχείου καταγραφής δικτύου</string>
     <string name="is_open_tracker_log">Ενεργοποίηση για τη δημιουργία αρχείου καταγραφής στατιστικών στοιχείων</string>
     <string name="just_now">Μόλις τώρα.</string>
+    <string name="land_speed_toast">Σε &lt;font color=#0F99FF>%s&lt;/font> ταχύτητα…</string>
     <string name="layer_gloable_search">Αναζήτηση</string>
     <string name="lcok_setting">Ρυθμίσεις οθόνης κλειδώματος</string>
     <string name="live_look_back">Παρακολούθηση επανάληψης</string>
@@ -377,7 +390,7 @@
     <string name="lp_fullscreen">Πλήρης Οθόνη</string>
     <string name="lp_playspeed">Ταχύτητα</string>
     <string name="lp_setting">Ρυθμίσεις</string>
-    <string name="lp_speed_title">Ταχύτητα αναπαραγωγής</string>
+    <string name="lp_speed_title">Ταχύτητα αναπ/γής</string>
     <string name="lp_speed_toast">Ταχύτητα αναπ/γής %sX</string>
     <string name="lp_volume">Ένταση</string>
     <string name="menu_item_enable_audio_enhance">Ενεργοποίηση βελτιώσεων ήχου</string>
@@ -549,6 +562,8 @@
     <string name="playerbase_bad_video">Ωχ! Παρουσιάστηκε σφάλμα αναπαραγωγής.</string>
     <string name="playerbase_info_video_loading">Μισό λεπτό…</string>
     <string name="playerbase_network_error">Ωχ! Παρουσιάστηκε σφάλμα δικτύου.</string>
+    <string name="playerbase_speed">Αναπ σε 2X</string>
+    <string name="playerbase_speed_toast">Αναπ σε 2X ήδη</string>
     <string name="playerbase_video_loading_new_part1"><CDATA>Μισό λεπτό…</CDATA></string>
     <string name="playing">Παίζει</string>
     <string name="plugin_install_failure">Δεν ήταν δυνατή η εγκατάσταση της προσθήκης</string>
@@ -572,7 +587,7 @@
     <string name="plus_dialog_title_notch_Screen">Χρήση εγκοπής οθόνης</string>
     <string name="plus_dialog_title_send">Αποστολή</string>
     <string name="plus_dialog_title_send_to">Κοινή χρήση σε</string>
-    <string name="plus_dialog_title_small_window">Mικρό παράθ.</string>
+    <string name="plus_dialog_title_small_window">Μικρό</string>
     <string name="plus_dlg_btn_cancel">Ακύρωση</string>
     <string name="plus_dlg_btn_set_password">Ορισμός</string>
     <string name="plus_dlg_message_password_reset">Ο κωδικός προστασίας θα λειτουργεί με τα βίντεο, τα μηνύματα, τις φωτογραφίες, τα αρχεία και τις σημειώσεις σας.</string>
@@ -627,21 +642,27 @@
     <string name="plus_play">Αναπαραγωγή</string>
     <string name="plus_player_8k_video_not_support">Δεν είναι δυνατή η αναπαραγωγή βίντεο 8K σε αυτήν τη συσκευή</string>
     <string name="plus_player_audio_no_file_info">Χωρίς Ηχητικά κομμάτια</string>
-    <string name="plus_player_audio_track">Ηχητικό κομμάτι</string>
-    <string name="plus_player_detail_file_location">Τοποθεσία:</string>
-    <string name="plus_player_detail_file_name">Ονομα αρχείου:</string>
-    <string name="plus_player_detail_file_param">Παράμετροι:</string>
-    <string name="plus_player_detail_file_path">Διαδρομή:</string>
+    <string name="plus_player_audio_track">"Ήχος "</string>
+    <string name="plus_player_audio_track_choose">Επιλογή ήχου</string>
+    <string name="plus_player_change_share_screen_device">Εναλλαγή συσκευών</string>
+    <string name="plus_player_detail_file_location">"Τοποθεσία: "</string>
+    <string name="plus_player_detail_file_name">"Ονομα αρχείου: "</string>
+    <string name="plus_player_detail_file_param">"Παράμετροι: "</string>
+    <string name="plus_player_detail_file_path">"Διαδρομή: "</string>
     <string name="plus_player_detail_file_time">"Χρονική σήμανση: "</string>
+    <string name="plus_player_external_storage">Εξωτ. χώρος</string>
     <string name="plus_player_hide">Απόκρυψη</string>
+    <string name="plus_player_internal_storage">Εσωτ. χώρος</string>
+    <string name="plus_player_no_subtitle_file">Χωρίς υπότιτλους</string>
+    <string name="plus_player_share_screen_search">Βεβαιωθείτε ότι και οι δύο συσκευές είναι συνδεδεμένες στο ίδιο δίκτυο Wi-Fi.</string>
     <string name="plus_player_page_refresh">Αυτό το στοιχείο ενημερώθηκε στο παρασκήνιο. Προσπάθησε ξανά.</string>
     <string name="plus_player_pip">PiP</string>
     <string name="plus_player_pip_unsupport">Εικόνα σε Εικόνα δεν υποστηρίζεται σε αυτή την έκδοση του συστήματός σας.</string>
     <string name="plus_player_play_mode_auto">Αυτόματη αναπαραγωγή</string>
-    <string name="plus_player_play_mode_continuous">Συνεχής αναπ.</string>
-    <string name="plus_player_play_mode_list">Επανάληψη όλων</string>
-    <string name="plus_player_play_mode_single_circle">Επανάλ. ενός</string>
-    <string name="plus_player_play_mode_stop">Play</string>
+    <string name="plus_player_play_mode_continuous">Συνεχώς</string>
+    <string name="plus_player_play_mode_list">Επαν.</string>
+    <string name="plus_player_play_mode_single_circle">Επαν.1</string>
+    <string name="plus_player_play_mode_stop">Αναπ/γή</string>
     <string name="plus_player_share_empty_toast">Επιλέξτε στοιχεία για κοινή χρήση</string>
     <string name="plus_player_share_screen">Μετάδοση</string>
     <string name="plus_player_share_screen_connect_fail">Δεν ήταν δυνατή η σύνδεση. Προσπάθησε ξανά.</string>
@@ -652,17 +673,20 @@
     <string name="plus_player_share_screen_play">Μετάδοση βίντεο…</string>
     <string name="plus_player_share_screen_searching_device">Αναζήτηση συσκευών σε κοντινή απόσταση…</string>
     <string name="plus_player_share_screen_starting_service">Προετοιμασία για Μετάδοση…</string>
-    <string name="plus_player_share_screen_stop">Σταματήστε τη Μετάδοση</string>
+    <string name="plus_player_share_screen_stop">Παύση Μετάδοσης</string>
     <string name="plus_player_share_screen_video_not_support">Οι προεπισκοπήσεις δεν υποστηρίζονται για αυτήν τη μορφή βίντεο.</string>
     <string name="plus_player_speed">Ταχύτητα</string>
     <string name="plus_player_speed_toast">Επιτυχής εναλλαγή στην ταχύτητα %s</string>
     <string name="plus_player_speed_toast_error">Η ταχύτητα αναπαραγωγής είναι ασταθής τώρα. Επιστροφή στην προεπιλεγμένη ταχύτητα.</string>
     <string name="plus_player_subtitle">Υπότιτλοι</string>
-    <string name="plus_player_subtitle_dir_back">Ep;anv</string>
+    <string name="plus_player_subtitle_add">Προσθήκη</string>
+    <string name="plus_player_subtitle_choose">Επιλογή υποτίτλων</string>
+    <string name="plus_player_subtitle_dir_back">Προς επάνω</string>
     <string name="plus_player_subtitle_local">Τοπικοί υπότιτλοι</string>
     <string name="plus_player_subtitle_local_add_fail">Δεν ήταν δυνατή η προσθήκη υποτίτλων. Βεβαιωθείτε ότι το αρχείο δεν είναι κατεστραμμένο.</string>
     <string name="plus_player_subtitle_local_add_success">Επιτυχής προσθήκη υποτίτλων</string>
     <string name="plus_player_subtitle_no_file">Δεν υπάρχουν υπότιτλοι εδώ.</string>
+    <string name="plus_player_subtitle_no_file_info">Χωρίς υπότιτλους το βίντεο</string>
     <string name="plus_player_subtitle_online">Online υπότιτλοι</string>
     <string name="plus_player_subtitle_online_declare_content">Είστε έτοιμος να αναζητήσετε &lt;br/>υπότιτλοι στο &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a> βάση δεδομένων. &lt;br/>Όλοι οι υπότιτλοι παρέχονται από &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>."</string>
     <string name="plus_player_subtitle_online_declare_title">Αποποίηση ευθυνών</string>
@@ -675,6 +699,7 @@
     <string name="plus_player_subtitle_online_search_no_network">Παρουσιάστηκε σφάλμα δικτύου</string>
     <string name="plus_player_unhide">Αποκάλυψη</string>
     <string name="plus_player_video_not_support">Αυτή η μορφή βίντεο δεν υποστηρίζεται.</string>
+    <string name="plus_playspeed_reminder">Σε &lt;font color=#0C80FF>%s&lt;/font> ταχύτητα…</string>
     <string name="plus_poster_reset_default">Επαναφορά προεπιλεγμένου καλύμματος</string>
     <string name="plus_refresh">Ανανέωση</string>
     <string name="plus_resolution">"Ανάλυση: "</string>
@@ -696,7 +721,7 @@
     <string name="plus_time">"Ημερ/νία: "</string>
     <string name="plus_toast_title_collect_canceled">Αφαιρέθηκε από τα Αγαπημένα</string>
     <string name="plus_toast_title_collected">Προστέθηκε σε Αγαπημένα</string>
-    <string name="portrait_speed_title">Ταχύτητα αναπαραγωγής</string>
+    <string name="portrait_speed_title">Ταχύτητα αναπ/γής</string>
     <string name="portrait_speed_toast">Ταχύτητα αναπ/γής %sX</string>
     <string name="pre_play_tips">Σχετικά με την επανάληψη %1$s</string>
     <string name="priority_storage">Αποθήκευση σε κάρτα SD</string>

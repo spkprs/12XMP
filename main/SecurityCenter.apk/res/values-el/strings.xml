@@ -1583,7 +1583,7 @@
     <string name="gamebox_func_wlan_open">Wi-Fi είναι ανοιχτό</string>
     <string name="gamebox_hangup">Απενεργοποίηση οθόνης</string>
     <string name="gamebox_hangup_tips_content">Αυτή η λειτουργία σας επιτρέπει να απενεργοποιήσετε την οθόνη, αλλά να διατηρήσετε το παιχνίδι σε λειτουργία στο παρασκήνιο. Απενεργοποιείται αυτόματα μόλις ξεκλειδώσετε τη συσκευή σας.</string>
-    <string name="gamebox_hangup_tips_title">Απενεργοποιήστε την οθόνη</string>
+    <string name="gamebox_hangup_tips_title">Σε Απενεργ/μένη οθόνη</string>
     <string name="gamebox_immersion">Εντυπωσιακή λειτουργία</string>
     <string name="gamebox_immersion_tips_content">Η λειτουργία Καθήλωσης περιορίζει όλες τις λειτουργίες της κάρτας SIM εκτός από τη σύνδεση δεδομένων κινητής τηλεφωνίας. Δεν θα διακοπεί ούτε από κλήσεις ούτε θα λάβετε ειδοποιήσεις για αναπάντητες κλήσεις. Όλες οι λειτουργίες της κάρτας SIM θα αποκατασταθούν όταν η λειτουργία Καθήλωσης είναι απενεργοποιημένη. Ενεργοποιήστε τη λειτουργία Καθήλωσης;</string>
     <string name="gamebox_immersion_tips_title">Προσοχή</string>
@@ -4333,7 +4333,7 @@
     <string name="virus_update_tips_title">Προειδοποίηση</string>
     <string name="virus_wait_network_dialog_message">Το τηλέφωνό σας δεν είναι συνδεδεμένο σε δίκτυο Wi-Fi τώρα. Θα χρεωθείτε δεδομένα κινητής τηλεφωνίας. Συνέχεια ?</string>
     <string name="voltage_symbol">V</string>
-    <string name="vtb_func_desc">Πληροφορίες για αυτήν τη λειτουργία</string>
+    <string name="vtb_func_desc">Πληροφορίες Εφέ</string>
     <string name="vtb_func_display_style_desc0">AI μπορεί να αναγνωρίσει ανθρώπους, ζώα, φυτά, ουρανό, κτίρια και άλλα αντικείμενα που παρουσιάζονται σε βίντεο και να τα ενισχύσει δυναμικά.</string>
     <string name="vtb_func_display_style_desc1">"Τα επιλεγμένα εφέ δεν θα εφαρμοστούν σε βίντεο HDR σε επιλεγμένες συσκευές."</string>
     <string name="vtb_func_display_style_desc2">Αυτά τα εφέ δεν μπορούν να εφαρμοστούν σε στιγμιότυπα οθόνης.</string>
