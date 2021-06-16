@@ -36,6 +36,7 @@
     <string name="afternoon">ΜΜ</string>
     <string name="all_ringtone">Περισσότερα</string>
     <string name="all_ringtone_summary">Επιλογή ήχων κλήσης στο Internet</string>
+    <string name="all_ringtone_summary_pad">Επιλογή ήχων κλήσης</string>
     <string name="am">ΠΜ</string>
     <string name="amazon_introduction">Η πιο βιοποικιλότητα στον πλανήτη μας συχνά αναφέρεται ως οι \"Πνεύμονες της Γης\".</string>
     <string name="amazon_orange_winged_info">Ο πορτοκαλί φτερωτός Αμαζόνιος είναι ένας μεγάλος, θορυβώδης παπαγάλος που κάνει δυνατές, υψίστες κραυγές.</string>
@@ -478,6 +479,7 @@
     <string name="start_easymode">Ενεργοποίηση λειτουργίας Lite</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steady_on_screen_notification_title">Άφησε το τηλέφωνό σου και κάνε ένα διάλειμμα</string>
+    <string name="steady_on_screen_notification_title_pad">Αφήστε κάτω τη συσκευή σας και κάντε ένα διάλειμμα</string>
     <string name="steady_on_screen_notify">Ειδοποίηση για συνεχή χρήση</string>
     <string name="steady_on_screen_setting">Χρονικό όριο για συνεχόμενη λειτουργία</string>
     <string name="steady_on_screen_summary">Χρονικό όριο για συνεχείς περιόδους λειτουργίας</string>
@@ -718,6 +720,7 @@
     <string name="usage_state_focus_level_summary">Τρέχον επίπεδο: %s</string>
     <string name="usage_state_focus_mode_experience_warning_message">Η λειτουργία Εστίασης επιτρέπει μόνο τη χρήση της κάμερας και την πραγματοποίηση κλήσεων έκτακτης ανάγκης. Δεν θα μπορείτε να απενεργοποιήσετε πρόωρα τη λειτουργία εστίασης.</string>
     <string name="usage_state_focus_mode_experience_warning_message_pad">"Η λειτουργία Εστίασης επιτρέπει τη χρήση κάμερας μόνο. Δεν θα μπορείτε να απενεργοποιήσετε πρόωρα τη λειτουργία Εστίασης."</string>
+    <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"Η λειτουργία Εστίασης επιτρέπει μόνο τη χρήση κάμερας και κλήσεις έκτακτης ανάγκης. Δεν θα μπορείτε να απενεργοποιήσετε πρόωρα τη λειτουργία Εστίασης."</string>
     <string name="usage_state_focus_mode_summary">Περιορισμός όλων των λειτουργιών εκτός από τις Κλήσεις έκτακτης ανάγκης και την Κάμερα</string>
     <string name="usage_state_focus_mode_summary1">Η Αρχή είναι το ήμισυ του παντός</string>
     <string name="usage_state_focus_mode_summary2">Μείνετε συγκεντρωμένοι</string>
@@ -725,6 +728,7 @@
     <string name="usage_state_focus_mode_title">Εστίαση</string>
     <string name="usage_state_focus_mode_warning_message">Η λειτουργία Εστίασης επιτρέπει μόνο τη χρήση της Κάμερας και την πραγματοποίηση κλήσεων Έκτακτης ανάγκης. Δεν θα μπορείτε να απενεργοποιήσετε πρόωρα τη λειτουργία Εστίασης.</string>
     <string name="usage_state_focus_mode_warning_message_pad">"Η λειτουργία Εστίασης επιτρέπει τη χρήση κάμερας μόνο. Δεν θα μπορείτε να απενεργοποιήσετε πρόωρα τη λειτουργία Εστίασης."</string>
+    <string name="usage_state_focus_mode_warning_message_sim_pad">"Η λειτουργία Εστίασης επιτρέπει μόνο τη χρήση κάμερας και κλήσεις έκτακτης ανάγκης. Δεν θα μπορείτε να απενεργοποιήσετε πρόωρα τη λειτουργία Εστίασης.."</string>
     <string name="usage_state_focus_mode_warning_title">Προσοχή</string>
     <string name="usage_state_focus_success">Η πρόκληση ολοκληρώθηκε</string>
     <string name="usage_state_focus_take_photo">Κάμερα</string>

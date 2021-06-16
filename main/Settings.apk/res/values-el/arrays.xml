@@ -1248,13 +1248,13 @@
     <item>Εμφάνιση μενού</item>
   </string-array>
   <string-array name="screen_optimize_summary">
-    <item>Προσαρμογή χρωμάτων βάσει τρέχοντος φωτισμού</item>
-    <item>Πάντα έντονα χρώματα</item>
-    <item>Επαναφορά του αρχικού χρώματος με βαθμονόμηση</item>
+    <item>Ρύθμιση χρωμάτων βάσει περιεχ. που εμφανίζεται</item>
+    <item>Πάντα βελτίωση χρωμάτων</item>
+    <item>Η αντίθεση θα παραμείνει σταθερή</item>
   </string-array>
   <string-array name="screen_optimize_title">
-    <item>Αυτόματη (προτείνεται)</item>
-    <item>Αυξημένα</item>
+    <item>Έντονα (προτείνεται)</item>
+    <item>Κορεσμένα</item>
     <item>Αρχικό χρώμα</item>
   </string-array>
   <string-array name="screen_reader_mode_input_type_selector_titles">
@@ -1392,13 +1392,13 @@
     <item>Κλίμακα κίνησης 10x</item>
   </string-array>
   <string-array name="true_color_screen_optimize_summary">
-    <item>Ρύθμιση χρωμάτων βάσει τρέχοντος φωτισμού</item>
+    <item>Ρύθμιση χρωμάτων βάσει περιεχ. που εμφανίζεται</item>
     <item>Πάντα βελτίωση χρωμάτων</item>
     <item>Επαναφορά τυπικού χρώματος περιεχομένου οθόνης με βαθμονόμηση χρώματος</item>
   </string-array>
   <string-array name="true_color_screen_optimize_title">
-    <item>Αυτόματα (προτείνεται)</item>
-    <item>Ενισχυμένα</item>
+    <item>Έντονα (προτείνεται)</item>
+    <item>Κορεσμένα</item>
     <item>Αρχικό χρώμα</item>
   </string-array>
   <string-array name="tts_rate_entries">

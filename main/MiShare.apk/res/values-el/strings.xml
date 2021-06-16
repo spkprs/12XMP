@@ -39,6 +39,7 @@
     <string name="cancel_receive">Ακύρωση</string>
     <string name="cancel_send">Ακυρώθηκε μεταφοράς</string>
     <string name="cancel_task">Ακύρωση</string>
+    <string name="common_google_play_services_unknown_issue">%1$s αντιμετωπίζει προβλήματα με τις υπηρεσίες Google Play. Δοκιμάστε ξανά.</string>
     <string name="complete">Ολοκληρώθηκε</string>
     <string name="confirm_cancel_receive">Δεν θα μπορείτε να λάβετε αυτό το στοιχείο εάν ακυρώσετε τη μεταφορά τώρα. Να ακυρωθεί οπωσδήποτε;</string>
     <string name="confirm_cancel_task_files">Ακύρωση αποστολής αρχείων στο %1$s?</string>
@@ -148,6 +149,7 @@
     <string name="receiver_error">Αδύνατη η λήψη. Δοκιμάστε ξανά.</string>
     <string name="refuse_file">Άρνηση</string>
     <string name="retry_task">Αποστολή ξανά</string>
+    <string name="samsung_phone">Samsung τηλέφωνο</string>
     <string name="scanning_device_tips">Αναζήτηση συσκευών σε κοντινή απόσταση... Βεβαιωθείτε ότι η άλλη συσκευή είναι σε Ανιχνεύσιμη λειτουργία.</string>
     <string name="scanning_only_xiaomi_device">Αυτό το στοιχείο μπορεί να μεταφερθεί μόνο σε συσκευές Xiaomi or Black Shark</string>
     <string name="search_menu_title">Αναζήτηση</string>

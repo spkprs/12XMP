@@ -265,6 +265,7 @@
     <string name="terms_of_use_label_systemhelper">, Υπηρεσία αυτοεξυπηρέτησης</string>
     <string name="terms_of_use_label_updater">, Εφαρμ. Ενημέρωσης</string>
     <string name="terms_of_use_lable_apps">Mi υπηρεσίες, υπηρεσίες Mi SIM, Xiaomi Cloud, Εύρεση συσκευής, Αρχική οθόνη, Παιχνίδια, MIUI Daemon, εξαρτήματα του συστήματος MSA, υπηρεσίες μετάφρασης, Γρήγορες εφαρμογές, Προσωπικό βοηθό, στατιστικά στοιχεία, Mi Link</string>
+    <string name="terms_of_use_lable_apps_wifi_device">Υπηρεσίες Mi, Xiaomi Cloud, Εύρεση συσκευής, Αρχική οθόνη, Παιχνίδια, MIUI Daemon, στοιχεία συστήματος MSA, Υπηρεσία μετάφρασης, SDK MIUI, Γρήγορες εφαρμογές, Αποθήκη εφαρμογών, στατιστικά στοιχεία, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">\n\nΠρέπει να συμφωνήσετε με την πολιτική απορρήτου της Facemoji πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="terms_of_use_lable_default_input_method_kika">\n\nΠρέπει να συμφωνήσετε με την πολιτική απορρήτου της Kika πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="terms_of_use_lable_default_input_method_mint">\n\nΑποδοχή της Mint Keyboard πολιτική απορρήτου πριν τη χρήση του.</string>
@@ -273,10 +274,11 @@
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="terms_privacy_policy_input_method_facemoji">Πολιτική απορρήτου Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Kika Πολιτική Απορρήτου</string>
-    <string name="title_fingerprint">Προσθήκη Δακτυλικού αποτυπώματος</string>
+    <string name="title_fingerprint">Ορισμός κλειδώματος οθόνης</string>
     <string name="title_set_fingerprint">Κλείδωμα οθόνης</string>
     <string name="user_agreement">Συμφωνία Χρήστη</string>
     <string name="user_agreement_declare">Πριν χρησιμοποιήσετε το MIUI, πρέπει να διαβάσετε και να συμφωνήστε με τη Συμφωνία χρήστη και την Πολιτική απορρήτου. Κατά την ενεργοποίηση της συσκευής σας, υπηρεσία Ενεργοποίησης SIM, Xiaomi Cloud, Αντίγραφα ασφαλείας, Εύρεση συσκευής, Αρχική οθόνη, Συχνές φράσεις, Xiaomi Internet Communication Service, Μεταφραστική υπηρεσία, MIUI Daemon, προβολή HTML, MIUI SDK, Ασφαλή στοιχείο εφαρμογής, Βοηθός AI , Μπαταρία και απόδοση, Ανιχνευτής ισχύος, Joyose, Ρύθμιση AI και Ενημερώσεις, θα συνδεθούν στο δίκτυο. Οι έξυπνες κάρτες, ο Διαχειριστής αδειών και οι έξυπνες υπηρεσίες θα συνδεθούν στο δίκτυο και θα έχουν πρόσβαση στην τοποθεσία σας.</string>
+    <string name="user_agreement_declare_wifi_device">Πριν χρησιμοποιήσετε το MIUI, πρέπει να διαβάσετε και να συμφωνήσετε με τη Σύμβαση χρήσης και την Πολιτική απορρήτου. Κατά την ενεργοποίηση της συσκευής σας, Xiaomi Cloud, Υπηρεσία αντιγράφων ασφαλείας, Εύρεση συσκευής, Αρχική οθόνη, Συχνές φράσεις, Xiaomi Internet Communication Service, Υπηρεσία μετάφρασης, MIUI Daemon, HTML Viewer, MIUI SDK, Εφαρμογή ασφαλούς στοιχείου, AI Assistant, μπαταρία και απόδοση, Power Detector, JoyΟι Ose, OS AI Setting και Updater θα συνδεθούν στο δίκτυο. Οι έξυπνες κάρτες, η Διαχείριση δικαιωμάτων και οι έξυπνες υπηρεσίες θα συνδεθούν στο δίκτυο και θα έχουν πρόσβαση στην τοποθεσία σας.</string>
     <string name="voice_assist_advice">Το Mi AI σας επιτρέπει τη χρήση φωνητικού ελέγχου, αλλά καταναλώνει περισσότερη ενέργεια (+1% κάθε ώρα).</string>
     <string name="voice_assist_condition">Θα μπορείτε τη χρήση του Mi AI στις ακόλουθες περιπτώσεις:\n1. Όταν η οθόνη είναι ενεργή.\n2. Όταν ακούτε μουσική με την οθόνη σας ανενεργή.</string>
     <string name="voice_assist_desp">Πείτε \"Mi AI\" στο τηλέφωνό σας. Η Mi AI θα αναγνωρίσει τη φωνή σας και θα μπορέσετε να ελέγξετε τη συσκευή σας.</string>

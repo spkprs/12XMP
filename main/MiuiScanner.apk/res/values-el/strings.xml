@@ -175,6 +175,7 @@
     <string name="document_rectify_tip_msg">Προσαρμογή…</string>
     <string name="document_region">Ρύθμιση</string>
     <string name="document_rename">Μετονομασία</string>
+    <string name="document_rename_error">Σφάλμα Μετονομασίας</string>
     <string name="document_rnext_step">Επόμενο</string>
     <string name="document_save_succeed_tip">Το έγγραφο αποθηκεύτηκε στο %1$s</string>
     <string name="document_save_text">Αποθήκευση</string>

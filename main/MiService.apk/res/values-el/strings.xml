@@ -257,7 +257,7 @@
     <string name="miui_mine_net_error_sub_title">请检查您的网络连接是否正常</string>
     <string name="miui_mine_net_error_title">网络无法连接</string>
     <string name="miui_mine_select_city">选择城市</string>
-    <string name="miui_mine_top_bar_title">我的服务</string>
+    <string name="miui_mine_top_bar_title">Εξυπηρέτηση μετά την πώληση</string>
     <string name="miui_mine_unlogin">点击登录</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
@@ -350,10 +350,12 @@
     <string name="permission_user_protocol">Συμφωνία χρήστη (υποχρεωτική)</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" αντιγρ. στο πρόχειρο.</string>
+    <string name="public_authorize_now">Ρυθμίσεις</string>
     <string name="public_loading_text">Μισό λεπτό…</string>
     <string name="public_net_error_retry">Προσπαθήστε ξανά</string>
     <string name="public_net_error_sub_title">Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά</string>
     <string name="public_net_error_title">Δεν ήταν δυνατή η σύνδεση στο δίκτυο</string>
+    <string name="public_please_authorize">Απαιτούνται δικαιώματα για συνέχιση</string>
     <string name="rationale_ask">Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τις απαιτούμενες Άδειες.</string>
     <string name="rationale_ask_again">Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τις απαιτούμενες Άδειες. Ανοίξτε την οθόνη ρυθμίσεων εφαρμογής για να τροποποιήσετε τις Άδειες εφαρμογής.</string>
     <string name="required_permissions">;</string>
