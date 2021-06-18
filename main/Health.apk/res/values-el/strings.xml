@@ -206,6 +206,7 @@
     <string name="collapse">Απόκρυψη</string>
     <string name="collect_diagnosis_log">Συλλογή διαγνωστικών καταγραφής</string>
     <string name="complete_preference_basic_info">Συμπληρώστε το προφίλ σας</string>
+    <string name="complete_progress">Πρόοδος</string>
     <string name="completed">"Ολοκληρώθηκε "</string>
     <string name="completed_stand">Ολοκληρώθηκε η ορθοστασία</string>
     <string name="confirm_opening">Επιβεβαίωση εκκίνησης</string>
@@ -1569,6 +1570,7 @@
     <string name="tb_stand_day_ring">Σηκωθείτε για διάλειμμα σήμερα: %1$s. Πρέπει να κάνεις τουλάχιστον 12 σήμερα.</string>
     <string name="tb_stand_wm_column_chart">Διαλείμματα ορθοστασίας μεταξύ %1$s και %2$s. Κάντε οριζόντια σάρωση για εναλλαγή μεταξύ χρονικών περιόδων. Πατήστε για προβολή λεπτομερειών</string>
     <string name="tb_stand_wm_column_click">%1$s. Διαλείμματα ορθοστασίας: %2$d. %3$s.</string>
+    <string name="tb_step_widget" formatted="false">Σήμερα. %1$s. Πρόοδος: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Αποεπιλογή όλων</string>
     <string name="tb_user_account_signed">Λογαριασμός Mi: %1$s.</string>
     <string name="tb_user_account_unsigned">Πατήστε για να συνδεθείτε στο λογαριασμό Mi</string>
@@ -1706,6 +1708,7 @@
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="value_error_correct">Επεξεργασία εγγραφής</string>
+    <string name="view_step_and_progress">Προβολή τρέχοντος αριθμού βημάτων</string>
     <string name="visceral_fat">Εσωτ. Οργάνα</string>
     <string name="visceral_fat_descripe_content">Το σπλαχνικό λίπος είναι απαραίτητο για τη σταθεροποίηση και την προστασία των εσωτερικών οργάνων. Ωστόσο, το υψηλό σπλαχνικό λίπος αυξάνει τον κίνδυνο καρδιαγγειακών και μεταβολικών ασθενειών.</string>
     <string name="voice_remind">"Αυξήσαμε την ένταση, ώστε να ακούτε καλύτερα τις οδηγίες."</string>
