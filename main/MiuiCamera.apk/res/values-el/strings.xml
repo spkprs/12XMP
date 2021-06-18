@@ -1545,6 +1545,10 @@
     <string name="timbre_lady">Κυρία</string>
     <string name="timbre_normal">Αρχικό</string>
     <string name="timbre_robot">Robot</string>
+    <string name="time_freeze_action_end_tip">Πατήστε το κουμπί για ξεπάγωμα φόντου</string>
+    <string name="time_freeze_action_start_tip">Πατήστε το κουμπί για πάγωμα φόντου</string>
+    <string name="time_freeze_adjust_button_title">Ρύθμιση</string>
+    <string name="time_freeze_clipbox_tint">Πάγωμα</string>
     <string name="time_lapse_error">Αδύνατη η χρήση αυτού του μεγέθους βίντεο για εγγραφή με χρονική καθυστέρηση</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>
     <string name="timefreeze_guide_tip2">Μπορείτε να παγώσετε και να ξεπαγώσετε το φόντο οποιαδήποτε στιγμή πριν ή κατά τη λήψη.</string>
@@ -1554,7 +1558,7 @@
     <string name="timefreeze_guide_tip6">Αναστολή αντικειμένων στον αέρα.</string>
     <string name="timefreeze_guide_tip7">Ή ανακαλύψτε τα δικά σας κόλπα!</string>
     <string name="timefreeze_guide_title">Βίντεο με πάγωμα χρόνου</string>
-    <string name="timer_burst">Χρον/πτης Συνεχόμενων</string>
+    <string name="timer_burst">Χρον/πτης Ριπής</string>
     <string name="timer_burst_manu_param_interval">Χρονικό διάστημα (δεν περιέχει χρόνο έκθεσης)</string>
     <string name="timer_burst_param_interval">Χρονικό διάστημα</string>
     <string name="timer_burst_param_total_count">Συνολικές Λήψεις</string>
