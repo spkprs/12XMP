@@ -601,8 +601,8 @@
     <string name="four_letter">ΗΘΙ</string>
     <string name="frequentList">Συχνά</string>
     <string name="friday">Παρασκευή</string>
-    <string name="friday_short">Fri</string>
-    <string name="friday_shortest">F</string>
+    <string name="friday_short">Παρ</string>
+    <string name="friday_shortest">Π</string>
     <string name="from_account_format">%1$s</string>
     <string name="full_name">Πλήρες Όνομα</string>
     <string name="gallery">Άλμπουμ</string>
@@ -931,7 +931,7 @@
     <string name="nickname_editor_title">Επεξεργασία ψευδώνυμου</string>
     <string name="nickname_picker_name_column">Ονομασία επαφής</string>
     <string name="nickname_picker_nickname_column">Τίτλος</string>
-    <string name="night">PM</string>
+    <string name="night">ΜΜ</string>
     <string name="nine_letter">ΧΨΩ</string>
     <string name="noAccounts">Για να δημιουργήσετε ομάδες θα πρέπει να έχετε ένα λογαριασμό.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Επαναφορά δεδομένων επαφών χρησιμοποιώντας το λογαριασμό Mi</string>
@@ -1032,7 +1032,7 @@
     <string name="pkgLabel">Επαφές-Πληκτρολόγιο</string>
     <string name="play_add_incall_show_entry">Αναπαραγωγή ή προσθήκη βίντεο</string>
     <string name="play_incall_show_entry">Αναπαραγωγή βίντεο</string>
-    <string name="pm">PM</string>
+    <string name="pm">ΜΜ</string>
     <string name="postalLabelsGroup">Διεύθυνση</string>
     <string name="postal_address">Διεύθυνση</string>
     <string name="postal_city">Πόλη</string>
@@ -1179,8 +1179,8 @@
     <string name="return_call_incoming">Εισερχόμενη</string>
     <string name="ringLabelsGroup">Ήχος κλήσης</string>
     <string name="saturday">Σάββατο</string>
-    <string name="saturday_short">Sat</string>
-    <string name="saturday_shortest">S</string>
+    <string name="saturday_short">Σαβ</string>
+    <string name="saturday_shortest">Σ</string>
     <string name="save_photo_progress">Αποθήκευση φωτογραφίας…</string>
     <string name="savingContact">Αποθήκευση επαφής…</string>
     <string name="savingDisplayGroups">Αποθήκευση επιλογών εμφάνισης…</string>
@@ -1373,8 +1373,8 @@
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_kind_title">Σύνοψη</string>
     <string name="sunday">Κυριακή</string>
-    <string name="sunday_short">Sun</string>
-    <string name="sunday_shortest">S</string>
+    <string name="sunday_short">Κυρ</string>
+    <string name="sunday_shortest">Κ</string>
     <string name="sv">SV</string>
     <string name="t9_search_empty_create_contact">Νέα επαφή</string>
     <string name="t9_search_empty_edit_contact">Προσθήκη στις επαφές</string>
@@ -1431,8 +1431,8 @@
     <string name="theme_dialog_confirm_title">"Αδυναμία εφαρμογής θέματος"</string>
     <string name="three_letter">ΔΕΖ</string>
     <string name="thursday">Πέμπτη</string>
-    <string name="thursday_short">Thu</string>
-    <string name="thursday_shortest">T</string>
+    <string name="thursday_short">Πεμ</string>
+    <string name="thursday_shortest">Π</string>
     <string name="time_picker_dialog_title">Ρύθμιση ώρας</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
@@ -1457,7 +1457,7 @@
     <string name="tomorrow">Αύριο</string>
     <string name="transfer_accounts">Μεταφορά λογαριασμών</string>
     <string name="tuesday">Τρίτη</string>
-    <string name="tuesday_short">Tue</string>
+    <string name="tuesday_short">Τρί</string>
     <string name="tuesday_shortest">T</string>
     <string name="two_letter">ΑΒΓ</string>
     <string name="type_incoming">Εισερχόμενη κλήση</string>
@@ -1519,9 +1519,10 @@
     <string name="webview_btn_retry">Δοκιμάστε ξανά</string>
     <string name="webview_network_failure">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο"</string>
     <string name="wednesday">Τετάρτη</string>
-    <string name="wednesday_short">Wed</string>
-    <string name="wednesday_shortest">W</string>
+    <string name="wednesday_short">Τετ</string>
+    <string name="wednesday_shortest">Τ</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
+    <string name="wifi_pad_disable_phone">"Αδυναμία κλήσεων σε αυτήν τη συσκευή"</string>
     <string name="wipe_data">Εκκαθάριση δεδομένων</string>
     <string name="yellowPageNavigationIconLabel">Φάκελος</string>
     <string name="yellowPageNavigationLabel">Φάκελος</string>

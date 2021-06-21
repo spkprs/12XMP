@@ -960,6 +960,7 @@
     <string name="fdn_with_label">Προκαθορισμένοι αριθμοί κλήσης (%s)</string>
     <string name="fire_type_description">Φωτιά</string>
     <string name="fiveg_bearer_status1">"5G κατάσταση κομιστή  : "</string>
+    <string name="fiveg_carrier_aggregation_title">5G συνάθροιση φορέα</string>
     <string name="fiveg_endc_available1">NR ENDC διαθέσιμο:</string>
     <string name="fiveg_endc_status1">Κατάσταση Τέλους :</string>
     <string name="fiveg_hosted_mode_summary">Αυτόματη επιλογή βέλτιστου δικτύου για αποθήκευση μπαταρίας</string>
@@ -1131,6 +1132,7 @@
     <string name="labelNwService">Ρυθμίσεις υπηρεσίας δικτύου</string>
     <string name="label_available">Διαθέσιμα δίκτυα</string>
     <string name="label_ndp">PIN ξεκλειδώματος δικτύου SIM</string>
+    <string name="label_ndp_nck">SIM ξεκλείδωμα δικτύου NCK</string>
     <string name="label_phoneid">Το Perso κλειδωμένο για</string>
     <string name="label_puk2_code">Πληκτρολογήστε τον κωδικό PUK2</string>
     <string name="lable_all_incoming">Όλες οι εισερχόμενες κλήσεις</string>
@@ -1402,6 +1404,7 @@
     <string name="no_internet_available">Για να πραγματοποιήσετε μια κλήση Internet, ελέγξτε πρώτα τη σύνδεσή σας στο διαδίκτυο.</string>
     <string name="no_mobile_data">Τα δεδομένα κινητής τηλεφωνίας δεν είναι διαθέσιμα</string>
     <string name="no_mobile_data_roaming">Η περιαγωγή δεδομένων δεν είναι διαθέσιμη</string>
+    <string name="no_unlock_chance_hint">Δεν έχετε άλλες επαναλήψεις.\nΕπικοινωνήστε με τους φορείς σας</string>
     <string name="no_vm_number">Δεν υπάρχει αριθμός αυτόματου τηλεφωνητή</string>
     <string name="no_vm_number_msg">Δεν υπάρχει αριθμός αυτόματου τηλεφωνητή αποθηκευμένος στην κάρτα SIM.</string>
     <string name="no_voip">"Η κλήση SIP δεν υποστηρίζεται"</string>
@@ -1839,12 +1842,14 @@
     <string name="sim_description_emergency_calls">Μόνο κλήσεις έκτακτης ανάγκης</string>
     <string name="sim_is_not_ready">Η κάρτα SIM δεν είναι έτοιμη</string>
     <string name="sim_label_emergency_calls">Κλήσεις έκτακτης ανάγκης</string>
+    <string name="sim_me_lock_disabled">Το Simlock είναι ανενεργό.</string>
     <string name="sim_ndp_dismiss_text">Απόρριψη</string>
     <string name="sim_ndp_unlock_text">Ξεκλειδώστε</string>
     <string name="sim_roaming_settings_summary">Σύνδεση σε δίκτυα δεδομένων κινητής κατά την περιαγωγή</string>
     <string name="sim_roaming_settings_title">Περιαγωγή Mi</string>
     <string name="sim_selection_required_pref">Απαιτείται επιλογή</string>
     <string name="sim_service_setting">Mi SIM &amp; Περιαγωγή Mi</string>
+    <string name="simmelock_name">SIM ME Κλείδωμα</string>
     <string name="simulate_color_space">Προσομοίωση χρωματικού χώρου</string>
     <string name="singleContactImportedMsg">Εισαγόμενη επαφή</string>
     <string name="single_emergency_number_title">Αριθμός έκτακτης ανάγκης</string>
@@ -1926,6 +1931,7 @@
     <string name="stk_name">USIM εργαλειοθήκη</string>
     <string name="stock_quotes_disable">Τιμές μετοχών ανενεργές</string>
     <string name="stock_quotes_enable">Τιμές μετοχών ενεργές</string>
+    <string name="strPasswordLengthIncorrect">4-16 αριθμούς!</string>
     <string name="strict_mode">Ενεργοποιημένη η αυστηρή λειτουργία</string>
     <string name="strict_mode_summary">Οθόνη φλας όταν οι εφαρμογές κάνουν μεγάλες λειτουργίες στο κύριο νήμα</string>
     <string name="sum_call_barring_disabled">Off</string>
@@ -2101,6 +2107,7 @@
     <string name="unfold_speaker_pref_summary">Ξεδίπλωμα συσκευής κατά τη διάρκεια μιας κλήσης για να ενεργοποιήσετε το ηχείο</string>
     <string name="unfold_speaker_pref_title">Ξεδίπλωμα για χρήση ηχείου</string>
     <string name="unknown">Άγνωστη</string>
+    <string name="unlock_chances_left">"Απομένουν άλλες: "</string>
     <string name="unlock_failed">Αίτηση ξεκλειδώματος δικτύου ανεπιτυχής.</string>
     <string name="unlock_success">Επιτυχές ξεκλείδωμα δικτύου.</string>
     <string name="updating_fdn_contact">Ενημέρωση σταθερού αριθμού κλήσης…</string>
@@ -2153,9 +2160,9 @@
     <string name="voice_service_warning_dialog_title">Κλήσεις VoLTE</string>
     <string name="voicemail">Τηλεφωνητής</string>
     <string name="voicemail_abbreviated">ΑΤ:</string>
+    <string name="voicemail_callforward_settings">Φων. Ταχ &amp; Προώθηση κλήσεων</string>
     <string name="voicemail_change_pin_dialog_title">Αλλαγή PIN</string>
     <string name="voicemail_default">Ο Φορέας σας</string>
-    <string name="voicemail_callforward_settings">Φων. Ταχ &amp; Προώθηση κλήσεων</string>
     <string name="voicemail_notification_vibrate_when_title">Δόνηση</string>
     <string name="voicemail_notifications_preference_title">Ειδοποιήσεις</string>
     <string name="voicemail_number_not_set">&lt;δεν έχει οριστεί></string>

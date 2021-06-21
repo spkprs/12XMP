@@ -6,6 +6,7 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
+    <string name="audio_record_des">Για τη μετάδοση ήχου από την συσκευή σας σε εξωτερικές οθόνες</string>
     <string name="casting_tips">Προβολή...</string>
     <string name="close">Κλείστε</string>
     <string name="close_hotspot_hint">Απενεργοποιήστε το φορητό σημείο πρόσβασης πριν την μετάδοση</string>
@@ -24,6 +25,8 @@
     <string name="dialog_connect_verify_perssion_fail">Αδυναμία εξουσιοδότησης της μετάδοσης στην τηλεόρασή σας. Δοκιμάστε σε λίγο.</string>
     <string name="dialog_connected">Συνδεδεμένη</string>
     <string name="dialog_connecting">Σύνδεση…</string>
+    <string name="dialog_location_permission_message">Αυτή η εφαρμογή πρέπει να έχει πρόσβαση στην τοποθεσία σας για να βρει εξωτερικές οθόνες σε κοντινή απόσταση. Επιλέξτε \"Να επιτρέπεται πάντα\" για αυτή την άδεια για αποφυγή πιθανών σφαλμάτων.</string>
+    <string name="dialog_location_permission_title">Απαιτούνται άδειες</string>
     <string name="dialog_miplay_permission_message">Επιτρέψτε στη \"Μετάδοση\" να καταγράφει ήχο, να έχει πρόσβαση σε αρχεία στον εσωτερικό χώρο αποθήκευσης και να έχει πρόσβαση στη θέση σας για να μπορεί να χρησιμοποιήσει αυτήν τη δυνατότητα κανονικά. Πατήστε \"Ρυθμίσεις\" και επιλέξτε \"Δικαιώματα εφαρμογής\" για να συνεχίσετε.</string>
     <string name="dialog_miplay_permission_positive">Ρυθμίσεις</string>
     <string name="dialog_miplay_permission_title">Απαιτούνται άδειες</string>
@@ -44,6 +47,7 @@
     <string name="dialog_show_help">Βοήθεια</string>
     <string name="disconnect">Παύση</string>
     <string name="enable_screen_projection_summary">Προβολή της οθόνης σας σε μια εξωτερική οθόνη</string>
+    <string name="file_read_des">Για την προβολή φωτο και άλλων αρχείων σε εξωτερικές οθόνες</string>
     <string name="global_privacy">Όροι και προϋποθέσεις</string>
     <string name="global_privacy_detail"><Data>"Διαβάστε και αποδεχτείτε τους &lt;a href=%1$s>Σύμβαση χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική απορρήτου&lt;/a> πριν χρησιμοποιήσετε αυτήν την εφαρμογή.&lt;br>Εάν δεν συμφωνείτε , δεν θα μπορείτε να χρησιμοποιήσετε ορισμένες δυνατότητες αυτής της εφαρμογής. Ωστόσο, η βασική του λειτουργικότητα θα εξακολουθεί να είναι διαθέσιμη σε εσάς."</Data></string>
     <string name="global_privacy_explain">Καλώς ήλθατε στην Μετάδοση! Αυτή η εφαρμογή παρέχει τις ακόλουθες υπηρεσίες:</string>
@@ -142,7 +146,9 @@
     <string name="notification_desc_scanning">Αναζήτηση συσκευών κοντά…</string>
     <string name="notification_rc_title">Βοηθός XiaoMi TV</string>
     <string name="notification_show_more">Δείτε περισσότερα χαρακτηριστικά</string>
+    <string name="notify">Η Μετάδοση λειτουργεί στο παρασκήνιο</string>
     <string name="open_game_accelerate">Ενεργοποιήστε το Game Turbo</string>
+    <string name="p2p_location_des">Για σύνδεση της συσκευής σας με εξωτερικές οθόνες</string>
     <string name="path_setting_cast">Σύνδεση &amp; κοινή χρήση/Μετάδοση</string>
     <string name="path_setting_cast_demo">Σύνδεση &amp;  κοινή χρήση/Μετάδοση/ Επιδείξεις</string>
     <string name="path_setting_cast_demo_document">Σύνδεση &amp;  κοινή χρήση/Μετάδοση/ Επιδείξεις/ Έγγραφα</string>

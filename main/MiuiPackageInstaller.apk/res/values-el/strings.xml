@@ -46,6 +46,7 @@
     <string name="all_permissions">Όλες οι Άδειες</string>
     <string name="anonymous_source_continue">Συνεχίστε</string>
     <string name="anonymous_source_warning">Το τηλέφωνό σας και τα προσωπικά σας δεδομένα είναι πιο ευάλωτα σε επίθεση από άγνωστες εφαρμογές. Με την εγκατάσταση αυτής της εφαρμογής, συμφωνείτε ότι είστε υπεύθυνοι για τυχόν ζημιά στο τηλέφωνό σας ή απώλεια δεδομένων που ενδέχεται να προκύψουν από τη χρήση της.</string>
+    <string name="anonymous_source_warning_tablet">Οι συσκευές και τα προσωπικά σας δεδομένα είναι πιο ευάλωτα σε επιθέσεις από άγνωστες εφαρμογές. Με την εγκατάσταση αυτής της εφαρμογής, συμφωνείτε ότι είστε υπεύθυνοι για οποιαδήποτε βλάβη στις συσκευές σας ή απώλεια δεδομένων που μπορεί να προκύψει από τη χρήση της.</string>
     <string name="app_info_permissions">Άδειες</string>
     <string name="app_info_size">Μέγεθος: %1$s</string>
     <string name="app_info_version">Έκδοση: %1$s</string>
@@ -161,8 +162,10 @@
     <string name="install_failed_blocked">Το πακέτο αποκλείστηκε από την εγκατάσταση.</string>
     <string name="install_failed_conflict">Το πακέτο έρχεται σε σύγκρουση με υπάρχον πακέτο με το ίδιο όνομα.</string>
     <string name="install_failed_incompatible">Αυτή η εφαρμογή δεν είναι συμβατή με το τηλέφωνό σας.</string>
+    <string name="install_failed_incompatible_tablet">"Αυτή η εφαρμογή δεν είναι συμβατή με τη συσκευή σας."</string>
     <string name="install_failed_invalid_apk">Το πακέτο φαίνεται να είναι κατεστραμμένο.</string>
-    <string name="install_failed_msg">%1$s δεν ήταν δυνατή η εγκατάσταση στο τηλέφωνό σας.</string>
+    <string name="install_failed_msg">%1$s αδύνατη η εγκατάσταση στο τηλέφωνό σας.</string>
+    <string name="install_failed_msg_tablet">"%1$s αδύνατη η εγκατάσταση στη συσκευή σας."</string>
     <string name="install_failed_system_incompatible">Αυτή η εφαρμογή δεν είναι συμβατή με το MIUI</string>
     <string name="install_finished_notification_summary">Κάντε κλικ για Εκκαθάριση τώρα</string>
     <string name="install_finished_notification_title">Η εγκατάσταση της %1$s ολοκληρώθηκε. Μεταβείτε για εκκαθάριση %2$s απορριμμάτων</string>

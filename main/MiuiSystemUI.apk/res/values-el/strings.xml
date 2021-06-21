@@ -1636,6 +1636,8 @@
     <string name="overlay_display_devices_title">Προσομοίωση δευτερευουσών οθονών</string>
     <string name="overview">Επισκόπηση</string>
     <string name="owner_info_settings_edit_text_hint">π.χ  Γιάννης Γιαννόπουλος</string>
+    <string name="pad_zen_mode_warnings_all_time_content">Οι ειδοποιήσεις θα σιγήσουν</string>
+    <string name="pad_zen_mode_warnings_keyguard_content">Οι ειδοποιήσεις θα σιγήσουν σε κλειδωμένη συσκευή</string>
     <string name="partial_screenshot_edit">Επεξεργασία</string>
     <string name="partial_screenshot_repaint">Επανάληψη</string>
     <string name="partial_screenshot_save">Αποθήκευση</string>
