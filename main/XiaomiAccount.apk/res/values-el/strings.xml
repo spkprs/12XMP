@@ -294,6 +294,10 @@
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> θα ληφθούν τις ακόλουθες Άδειες:&lt;br> &lt;br> %3$s</string>
     <string name="oauth_title">Συνδεθείτε με το Λογαριασμό Mi</string>
     <string name="ok">OK</string>
+    <string name="operator_mobile_agreement">Υπηρεσίες επαλήθευσης παρέχονται από China Mobile</string>
+    <string name="operator_other">Αριθμός τηλεφώνου</string>
+    <string name="operator_telecom_agreement">Υπηρεσίες επαλήθευσης παρέχονται από λογαριασμό eSurfing</string>
+    <string name="operator_unicom_agreement">Υπηρεσίες επαλήθευσης παρέχονται από την China Unicom</string>
     <string name="optional_permissions">Προαιρετικές Άδειες</string>
     <string name="passport_Resend">Επαναποστολή</string>
     <string name="passport_access_denied">Δεν επιτρέπετε η πρόσβαση</string>
@@ -595,6 +599,7 @@
     <string name="sim_changed_notification_msg">Ενημερώστε τον αρ. τηλεφώνου για ασφάλεια.</string>
     <string name="sim_changed_notification_title">Αλλαγή αριθμού τηλεφώνου?</string>
     <string name="sina_weibo">Sina Weibo</string>
+    <string name="skip_query_account">Παράλειψη</string>
     <string name="sms_send_success">Απεστάλη</string>
     <string name="sns_access_token_expired_warning">Η σύνδεση στο λογαριασμό σας έχει λήξει. Παρακαλώ συνδεθείτε ξανά.</string>
     <string name="state_data_error">"Δεν βρέθ δεδ/να"</string>

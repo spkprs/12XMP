@@ -552,6 +552,7 @@
     <string name="app_running_tip_dialog_text">Κλείστε το %1$s για να μην εκτελείται στο παρασκήνιο. Αυτό θα επιταχύνει τη συσκευή σας και θα μειώσει την κατανάλωση ενέργειας.</string>
     <string name="app_running_tip_dialog_title">Τερματισμός εφαρμογής</string>
     <string name="app_running_tip_uninstall">Απεγκατάσταση αυτής της εφαρμογής</string>
+    <string name="app_settings_link">Πρόσθετες ρυθμίσεις στην εφαρμογή</string>
     <string name="app_statusbar_audio_now">Εγγραφή ήχου</string>
     <string name="app_statusbar_camera_now">Λήψη φωτο</string>
     <string name="app_statusbar_location_now">Τοποθεσία</string>
@@ -955,6 +956,8 @@
     <string name="confirm_fingerprint_msg">Τοποθετήστε το δάχτυλό σας στον αναγνώστη δακτυλικών αποτυπωμάτων</string>
     <string name="confirm_leave">Όχι, ευχαριστώ</string>
     <string name="confirm_open">Ενεργοποίηση</string>
+    <string name="confirm_open_shut_down_password_content">Ορίστε ένα κλείδωμα οθόνης πριν ενεργοποιήσετε την επιβεβαίωση τερματισμού.</string>
+    <string name="confirm_open_shut_down_password_title">Ορισμός κλειδώματος οθόνης</string>
     <string name="confirm_prompt_all_permission">Ζητούνται Άδειες για όλες τις εφαρμογές;</string>
     <string name="confirm_reject_all_permission">Περιορισμός όλων των εφαρμογών για τη χρήση αυτής της λειτουργίας;</string>
     <string name="confirm_take">Λήψη</string>
@@ -3447,6 +3450,8 @@
     <string name="sc_system_risk_fix_info_xspace">Ο κίνδυνος δεν μπορεί να διορθωθεί σε xspace, μεταβείτε στο χώρο του παρόχου για να το διορθώσετε.</string>
     <string name="sc_warning_updater_not_found">Δεν ήταν δυνατή η εύρεση της εφαρμογής Updater.</string>
     <string name="scan_installed_games">Έλεγχος εγκατεστημένων παιχνιδιών…</string>
+    <string name="scan_open_shut_down_password_content">Προστατεύστε τη συσκευή σας από μη εξουσιοδοτημένη πρόσβαση</string>
+    <string name="scan_open_shut_down_password_title">Επιβεβαίωση τερματισμού</string>
     <string name="scan_status_risk">Επικίνδυνο</string>
     <string name="scan_status_safe">Ασφαλές</string>
     <string name="scanning_bar_number">%d%%</string>
@@ -3526,6 +3531,7 @@
     <string name="show_traffic_dialog_message">Οι πληροφορίες χρήσης δεδομένων θα εμφανίζονται στον πίνακα ειδοποιήσεων. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή τη δυνατότητα οποιαδήποτε στιγμή από τη Χρήση Δεδομένων > Ρυθμίσεις</string>
     <string name="show_traffic_dialog_title">Εμφάνιση χρήσης στον πίνακα ειδοποιήσεων</string>
     <string name="showpattern">Εμφάνιση μοτίβου</string>
+    <string name="shut_down_password_content">Αν χάσετε τη συσκευή σας, η επιβεβαίωση τερματισμού θα την προστατεύσει από την απενεργοποίηση από όποιον τη βρει.</string>
     <string name="shutdown_cancel_reminder">Δεν απενεργοποιήθηκε</string>
     <string name="shutdown_cancel_reminder_detail">Η συσκευή δεν απενεργοποιήθηκε γιατί υπήρχε κλήση σε εξέλιξη</string>
     <string name="shutdown_cancel_reminder_detail2">Φαίνεται ότι παίζεις τώρα ένα παιχνίδι. Η προγραμματισμένη διακοπή λειτουργίας ακυρώνεται.</string>
@@ -3928,6 +3934,7 @@
     <string name="suggest_app_tolock_masked">Κρυφό περιεχόμενο</string>
     <string name="suggest_app_tolock_unmasked">Ορατές ειδοποιήσεις</string>
     <string name="suggest_scan_again">Ολοκλήρωστε τη σάρωση για αποφυγή κινδύνων ασφαλείας.</string>
+    <string name="suggest_to_use_mi_sim">Χρησιμοποιήστε το Mi Sim για να αποτρέψετε τη δημιουργία πρόσθετων χρεώσεων φορέα.</string>
     <string name="summary_app_lock_disable">Κλειδώστε εφαρμογές για την προστασία απορρήτου σας</string>
     <string name="summary_app_update_new">Ενημέρωση εφαρμογών για πρόσβαση σε νέες λειτουργίες</string>
     <string name="summary_auto_update">Το MIUI θα επιλέγει την πιο κατάλληλη στιγμή για να κατεβάζει και να εγκαθιστά ενημερώσεις.</string>
@@ -4262,6 +4269,7 @@
     <string name="traffic_setting_fragment_title_guide">Φορείς και σχέδια δεδομένων</string>
     <string name="traffic_to_limit_warning">"Έχετε εξαντλήσει το %s του ορίου δεδομένων σας"</string>
     <string name="traffic_usage_warning_body">Έχετε ήδη χρησιμοποιήσει %s δεδομένα κινητής αυτό το μήνα.</string>
+    <string name="traffic_usage_warning_body_go_to_mi_sim">"Έχετε ήδη χρησιμοποιήσει %s δεδομένων κινητής αυτόν τον μήνα, Πατήστε για χρήση Mi SIM."</string>
     <string name="traffic_usage_warning_limit">Προειδοποίηση ορίου χρήσης δεδομένων</string>
     <string name="traffic_usage_warning_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="traffic_warning_purchase_title">Προειδοποίηση χρήσης δεδομένων</string>
@@ -4367,6 +4375,8 @@
     <string name="vb_video_effects_settings_stereo">Ένταση</string>
     <string name="vb_video_effects_srs_premium_sound">Ήχος</string>
     <string name="vb_video_super_division">Αναβάθμιση</string>
+    <string name="verify_shut_down_password_content">Να απαιτείται επιβεβαίωση κλειδώματος οθόνης αν η συσκευή σας είναι απενεργοποιημένη ενώ είναι κλειδωμένη</string>
+    <string name="verify_shut_down_password_title">Επιβεβαίωση τερματισμού</string>
     <string name="version_can_update">Μπορείτε να ενημερώσετε το %s στην πιο πρόσφατη έκδοση Beta για να αποκτήσετε πρόσβαση πρώτοι σε νέες δυνατότητες.</string>
     <string name="version_check_update">Έλεγχος για ενημερώσεις</string>
     <string name="version_update_title">Ενημέρωση %s</string>

@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Υβριδικό Εξάρτημα</string>
+    <string name="app_name">Έξυπνες σκηνές</string>
     <string name="short_cut_dialog_cancel_button_text">Οχι</string>
     <string name="short_cut_dialog_cotent">Οι παρακάτω εφαρμογές μπορούν να χρησιμοποιηθούν χωρίς εγκατάσταση. Αποθήκευση συντομεύσεων?</string>
     <string name="short_cut_dialog_create_button_text">Ναί</string>
     <string name="short_cut_dialog_not_tip_check_box">"Υπενθύμιση ξανά σε 2 εβδομάδες"</string>
     <string name="short_cut_dialog_title">Δημιουργία συντόμευσης</string>
+    <string name="btn_agree_text">Συμφωνώ</string>
+    <string name="btn_exit_text">Έξοδος</string>
+    <string name="btn_ok_text">Κατανοητό</string>
+    <string name="guide_page_card_description_1">"Χωρίς ουρές
+Κάντε κράτηση online και εξοικονομήστε χρόνο"</string>
+    <string name="guide_page_card_description_2">"Δείπνο
+Αποκτήστε τραπέζια σε δημοφιλή εστιατόρια"</string>
+    <string name="guide_page_card_description_3">"Εκπτώσεις
+Εξοικονομήστε χρήματα από τις καθημερινές αγορές σας"</string>
+    <string name="guide_page_card_description_4">"Δείτε τις προηγούμενες παραγγελίες σας στο \"Οι παραγγελίες μου\".
+Μπορείτε να τα βρείτε στον Προσωπικό βοηθό > Συντομεύσεις."</string>
+    <string name="guide_page_enable_tip">Η ενεργοποίηση ολοκληρώθηκε με επιτυχία</string>
+    <string name="guide_page_perm_dlg_description">Αυτήν τη στιγμή, δεν είναι δυνατό να προσδιορίσετε με έξυπνο τρόπο σκηνές, μεταβείτε στις [Ρυθμίσεις] > [Εφαρμογές] > [Διαχείριση εφαρμογών] > [Δικαιώματα] και επιλέξτε [Να επιτρέπεται πάντα] να χρησιμοποιείτε υπηρεσίες τοποθεσίας για Έξυπνες σκηνές.</string>
+    <string name="guide_page_perm_dlg_ok">Ρυθμίσεις</string>
+    <string name="guide_page_perm_dlg_title">Ενεργοποίηση του διακόπτη θέσης</string>
+    <string name="guide_page_tip2_message">Είστε ευπρόσδεκτοι να χρησιμοποιήσετε την έξυπνη ζωή. Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να υλοποιήσετε την τρέχουσα λειτουργία υπηρεσίας σκηνών με βάση τη σκηνή εκτός σύνδεσης στην οποία βρίσκεστε.</string>
+    <string name="location_permission_desc">Σύμφωνα με την τοποθεσία σας, να σας παρέχουμε προνομιακές πληροφορίες σε κοντινές επιχειρηματικές περιοχές</string>
+    <string name="o2o_activity_title">Έξυπνες σκηνές</string>
+    <string name="o2o_scan_notification_channel_name">Ειδοποίηση υπηρεσίας</string>
+    <string name="o2o_scan_notification_title">Έξυπνες σκηνές, βρείτε υπέροχα γύρω</string>
+    <string name="o2o_scene_notification_channel_desc">Λήψη ειδοποιήσεων για κοντινές υπηρεσίες</string>
+    <string name="o2o_scene_notification_channel_name">Υπηρεσίες</string>
+    <string name="phone_permission_desc">Για πρόσβαση στο IMEI και αναγνώριση της συσκευής σας</string>
 </resources>

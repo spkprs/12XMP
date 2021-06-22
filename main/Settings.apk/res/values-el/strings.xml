@@ -2091,6 +2091,9 @@
     <string name="device_build_id">Αριθμός έκδοσης</string>
     <string name="device_camera">Κάμερα</string>
     <string name="device_complete_parameters">Όλες οι παράμετροι</string>
+    <string name="device_controls_sentence">Στοιχ. ελέγχου συσκευής</string>
+    <string name="device_controls_setting_subtitle">Για απόκτηση πρόσβασης σε συνδεδεμένες συσκευές, κρατήστε πατημένο το κουμπί \"Power\"</string>
+    <string name="device_controls_setting_toggle">Προβολή στοιχ. ελέγχ. συσκευής</string>
     <string name="device_cpu">CPU</string>
     <string name="device_cpu10_info">Deca-core</string>
     <string name="device_cpu2_info">Dual Core</string>

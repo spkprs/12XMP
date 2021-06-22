@@ -75,4 +75,8 @@
     <item quantity="other">%d λεπτά πριν</item>
     <item quantity="one">1 λεπτό πριν</item>
   </plurals>
+  <plurals name="miuix_appcompat_items_selected">
+    <item quantity="other">%d επιλεγμένα</item>
+    <item quantity="one">%d επιλεγμένο</item>
+  </plurals>
 </resources>
