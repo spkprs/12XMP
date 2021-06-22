@@ -24,16 +24,17 @@
     <string name="abc_searchview_description_search">Αναζήτηση</string>
     <string name="abc_searchview_description_submit">Submit query</string>
     <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
-    <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_shareactionprovider_share_with">Κοινή χρήση</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="access_limit">Περιορισμοί πρόσβασης</string>
+    <string name="access_limit">Περιορισμός πρόσβασης</string>
     <string name="access_tips">"Δεν είναι δυνατή η πρόσβαση στα στοιχεία. Δοκιμάστε να χρησιμοποιήσετε το Android Storage Access Framework."</string>
     <string name="action_mode_deselect_all">Αποεπιλογή όλων</string>
     <string name="action_mode_select_all">Επιλογή όλων</string>
     <string name="ad_download">Λήψη</string>
     <string name="add_private">Απόκρυψη αρχείων τώρα</string>
     <string name="add_private_files">Προσθήκη αρχείων</string>
+    <string name="added_category">Προστέθηκε</string>
     <string name="aggree_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Διαδίκτυο και να εκχωρήσει τις υποχρεωτικές Άδειες που αναφέρονται παραπάνω.</string>
     <string name="app_all_purpose">Καλώς ορίσατε στη Διαχείριση αρχείων! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να διαχειριστείτε τα αρχεία που είναι αποθηκευμένα στη συσκευή σας.</string>
     <string name="app_function">Διαχείριση αρχείων στη συσκευή σας</string>
@@ -49,8 +50,13 @@
     <string name="app_name_miuiringtone">Ήχος κλήσης</string>
     <string name="app_name_miuiwallpaper">Ταπετσαρίες</string>
     <string name="app_name_screenshot">Στιγμιότυπα</string>
+    <string name="available_size">Διαθέσιμα: %s</string>
     <string name="big5_summary">Παραδοσιακή Κινέζικη κωδικοποίηση Windows</string>
     <string name="big5_title">BIG5</string>
+    <string name="by_date">Τροπ/ηση</string>
+    <string name="by_name">Όνομα</string>
+    <string name="by_size">Μέγεθος</string>
+    <string name="by_type">Τύπο</string>
     <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">Αδυναμία αποστολής ταυτόχρονα τόσων πολλών στοιχείων</string>
     <string name="cancel">Άκυρο</string>
@@ -66,11 +72,14 @@
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_document">Έγγραφα</string>
     <string name="category_download">Λήψεις</string>
+    <string name="category_editor_mode">Επεξ/σία</string>
+    <string name="category_exit_editor_mode">Έξοδος</string>
     <string name="category_favorite">Αγαπημένα</string>
     <string name="category_file">Αρχεία</string>
     <string name="category_files">Αρχεία</string>
     <string name="category_installed_app">Εγκατεστημένες εφαρμογές</string>
     <string name="category_midrive">Mi Drive</string>
+    <string name="category_more">Άλλες</string>
     <string name="category_music">Μουσική</string>
     <string name="category_other">Διάφορα</string>
     <string name="category_photo">Φωτογραφίες</string>
@@ -141,6 +150,7 @@
     <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Διαθέσιμα:</string>
     <string name="disk_total">Συνολικά:</string>
+    <string name="display_setting">Εμφάνιση στοιχείων</string>
     <string name="doc_all">\'Ολα</string>
     <string name="doc_epub">EPUB</string>
     <string name="doc_pdf">PDF</string>
@@ -151,6 +161,7 @@
     <string name="doc_xls">XLS</string>
     <string name="downloading">Λήψη…</string>
     <string name="drag_not_support_with_dir">"Αδύνατη η αναδιάταξη ή η αποστολή φακέλων"</string>
+    <string name="edit_quick_category">Επεξ/σία</string>
     <string name="enable_documentsui">Ενεργοποιείστε πρώτα το %s στις Ρυθμίσεις > Εφαρμογές</string>
     <string name="enable_sd_card">Κάρτα SD είναι κατεστραμμένη ή έχει αποσυνδεθεί.</string>
     <string name="enable_usb">Συνδέστε τη συσκευή USB</string>
@@ -160,6 +171,9 @@
     <string name="encrypt_success">Επιτυχής απόκρυψη</string>
     <string name="encrypt_success_first_five">Επιτυχής κρυπτογράφηση και απόκρυψη αρχείου. Μπορείτε να δείτε τα κρυφά αρχεία, σέρνοντας προς τα κάτω στη αρχική σελίδα του Explorer.</string>
     <string name="encrypting">Κρυπτογράφηση…</string>
+    <string name="entry_phone_storage_internal">Εσωτ. αποθήκευση</string>
+    <string name="entry_storage_cloned_app">Διπλές εφαρμ.</string>
+    <string name="entry_storage_usb">Συσκευή USB</string>
     <string name="error_contains_sharer_path">Αδυναμία κρυπτογράφησης αρχείων στο φάκελο /MIUI/Gallery/cloud/sharer. Μετακινήστε τα αρχεία σε άλλο κατάλογο και δοκιμάστε ξανά.</string>
     <string name="error_create_dir">Αδυναμία δημιουργίας φακέλου</string>
     <string name="error_create_file">Αδυναμία δημιουργίας αρχείου</string>
@@ -192,7 +206,7 @@
     <string name="file_info_size">Μέγεθος :</string>
     <string name="file_loading">Μισό λεπτό…</string>
     <string name="file_name_existed">Το όνομα αρχείου έχει ληφθεί</string>
-    <string name="file_name_invalid">Τα ονόματα των αρχείων δεν μπορεί να περιέχουν τους εξής χαρακτήρες: /\\:*?&lt;&gt;</string>
+    <string name="file_name_invalid">Τα ονόματα των αρχείων δεν μπορεί να περιέχουν τους εξής χαρακτήρες: /\\:*?&lt;></string>
     <string name="file_not_exist">Το αρχείο δεν υπάρχει</string>
     <string name="folder_name_empty">Το όνομα φακέλου δεν μπορεί να είναι κενό</string>
     <string name="folder_name_illegal">Μη έγκυρο όνομα φακέλου</string>
@@ -242,6 +256,7 @@
     <string name="launcher_icon_add_description">Προσθήκη συντόμευσης στην αρχική οθόνη</string>
     <string name="launcher_icon_remove_description_content">"Η Διαχείριση αρχείων είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να διαχειριστείτε αρχεία στη συσκευή σας αφού καταργήσετε τη συντόμευση της αρχικής οθόνης."</string>
     <string name="launcher_icon_remove_description_title">Κατάργηση της \"Διαχείριση αρχείων\" από την αρχική οθόνη;</string>
+    <string name="least_quick_category_hint">Προσθήκη τουλάχ. %d συντόμ/ση</string>
     <string name="list_mode">Εμφάνιση Λίστας</string>
     <string name="load_more">Περισσότερα</string>
     <string name="load_more_fail">加载失败</string>
@@ -305,6 +320,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μισό λεπτό…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδύνατη η φόρτωση στοιχείων</string>
     <string name="month_day_format">dd MMM</string>
+    <string name="most_quick_category_hint">Προσθήκη έως %d συντομεύσεις</string>
     <string name="move_failed">Αδυναμία μετακίνησης στοιχείων</string>
     <string name="move_icon_to_desktop_hint">Δημιουργήστε μια συντόμευση για τον Explorer στην Αρχική οθόνη, για να διαχειριστείτε τα αρχεία πιο αποτελεσματικά.</string>
     <string name="move_icon_to_desktop_success">Η συντόμευση προστέθηκε στην Αρχική οθόνη.</string>
@@ -324,6 +340,7 @@
     <string name="no_file">Κενό</string>
     <string name="no_wifi">Δεν υπάρχει δίκτυο Wi‑Fi</string>
     <string name="no_wifi_hint">Δε βρέθηκε σύνδεση Wi‑Fi</string>
+    <string name="not_added_category">Διαθέσιμες</string>
     <string name="not_installed_documentsui">To DocumentsUI (Έγγραφα) δεν έχει εγκατασταθεί</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="not_support_documentui">Το DocumentUI δεν υποστηρίζεται σε αυτή τη συσκευή</string>
@@ -414,11 +431,13 @@
     <string name="pull_to_refresh">下拉刷新</string>
     <string name="qq_msg">"Λόγω των περιορισμών του Android 11, ο Διαχειριστής αρχείων δεν έχει πρόσβαση να εμφανίζει έγγραφα QQ."</string>
     <string name="qq_title">"Δεν είναι δυνατή η πρόσβαση στα έγγραφα QQ"</string>
+    <string name="recent_hide_camera_and_screenshots">"Χωρίς εμφάνιση στοιχείων \"Συλλογής\" και \"Στιγμιοτύπων\" οθόνης στα πρόσφατα αρχεία"</string>
     <string name="refresh_fail">刷新失败</string>
     <string name="refresh_success">Η ανανέωση ολοκληρώθηκε</string>
     <string name="refreshing">正在刷新</string>
     <string name="release_enter_private">Αφήστε για άνοιγμα ιδιωτικού φακέλου</string>
     <string name="release_refresh">释放立即刷新</string>
+    <string name="remainder_size">Υπόλοιπο: %s</string>
     <string name="rename_alert">Εάν αλλάξετε την επέκταση του αρχείου, ίσως να μην μπορείτε να το ανοίξετε.</string>
     <string name="rename_alert2">Το αρχείο θα κρυφτεί αφού αλλάξετε την επέκτασή του.</string>
     <string name="rename_failed">Αδυναμία μετονομασίας %1$s</string>
@@ -442,6 +461,8 @@
     <string name="save_file_to_mishare">"Αποθηκεύτηκε στο φάκελο του Mi Share"</string>
     <string name="search_app">Εφαρμογές &amp; Φάκελοι</string>
     <string name="search_app_more">Περισσότερα</string>
+    <string name="search_category">Εύρεση κατηγορίας</string>
+    <string name="search_category_folder">Φάκελοι</string>
     <string name="search_description">Εύρεση αρχείων στη συσκευή</string>
     <string name="search_empty_view_hint">Χωρίς αποτελέσματα</string>
     <string name="search_error_hint">Αναζήτηση</string>
@@ -454,6 +475,7 @@
     <string name="search_hint">Αναζήτηση</string>
     <string name="search_keyword">Ετικέτες</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="search_more_category">Άλλες</string>
     <string name="search_result">Αποτελέσματα</string>
     <string name="search_result_more">Περισσότερα</string>
     <string name="search_statistic_appname">πηγή</string>
@@ -473,6 +495,8 @@
     <string name="set_pattern_btn">Ορισμός</string>
     <string name="set_pattern_msg">Ορίστε ξανά τον κωδικό σας. Ο κωδικός Προσωπικής προστασίας λειτουργεί επίσης για τις φωτογραφίες και τα μηνύματα.</string>
     <string name="sign_percent">%</string>
+    <string name="size_lv1">Κάτω από %d KB</string>
+    <string name="size_lv6">Πάνω από %d GB</string>
     <string name="sk">3qy6ngTb0P+etx</string>
     <string name="skip">Παράλειψη</string>
     <string name="skip_file">Παράλειψη</string>
@@ -517,6 +541,7 @@
     <string name="title_select_volume">Επιλέξτε φάκελο</string>
     <string name="toast_file_not_can_read">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
     <string name="tools">ΕΡΓΑΛΕΙΑ</string>
+    <string name="total_size">Σύνολο: %s</string>
     <string name="transfer">Μεταφορές &amp; Λήψεις</string>
     <string name="transfer_done">Επιτυχής μεταφορά αρχείων.</string>
     <string name="transfer_private_data">Μεταφορά κρυφών φακέλων από την κάρτα SD…</string>

@@ -17,8 +17,8 @@
     <item quantity="one">Ελέγχεται %1$s μέρα στη σειρά</item>
   </plurals>
   <plurals name="clockin_new_chip">
-    <item quantity="other">Έχεις. &lt;font color=#faea47&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; σημεία</item>
-    <item quantity="one">Έχεις. &lt;font color=#faea47&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; σημείο</item>
+    <item quantity="other">Έχεις. &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> πόντους</item>
+    <item quantity="one">Έχεις. &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> πόντο</item>
   </plurals>
   <plurals name="days_ago">
     <item quantity="other">%1$d μέρες πριν</item>
@@ -101,8 +101,8 @@
     <item quantity="many">%1$d λεπτά πριν</item>
   </plurals>
   <plurals name="more_gems">
-    <item quantity="other">Συλλέγουν &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; περισσότερα πετράδια για να συμμετάσχουν στην τυχερή κλήρωση.</item>
-    <item quantity="one">Συλλέγουν &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; περισσότερο κόσμημα για να συμμετάσχουν στην τυχερή κλήρωση.</item>
+    <item quantity="other">Συλλέγουν &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> περισσότερα πετράδια για να συμμετάσχουν στην τυχερή κλήρωση.</item>
+    <item quantity="one">Συλλέγουν &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> περισσότερο κόσμημα για να συμμετάσχουν στην τυχερή κλήρωση.</item>
   </plurals>
   <plurals name="number_of_comment_flow">
     <item quantity="other">%1$s σχόλια</item>
@@ -117,20 +117,20 @@
     <item quantity="many">%1$d επιλεγμένο</item>
   </plurals>
   <plurals name="original_user_days">
-    <item quantity="other">• &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; ημέρες</item>
-    <item quantity="one">• &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; ημέρα</item>
+    <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> ημέρες</item>
+    <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> ημέρα</item>
   </plurals>
   <plurals name="original_user_fans">
-    <item quantity="other">• Έχεις &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; οπαδούς!</item>
-    <item quantity="one">• Έχεις &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; οπαδός!</item>
+    <item quantity="other">• Έχεις &lt;font color=#fc7050>%1$s&lt;/font> οπαδούς!</item>
+    <item quantity="one">• Έχεις &lt;font color=#fc7050>%1$s&lt;/font> οπαδός!</item>
   </plurals>
   <plurals name="original_user_play_1">
-    <item quantity="other">• Ανεβάσατε &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; βίντεο.</item>
-    <item quantity="one">• Ανεβάσατε &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; βίντεο.</item>
+    <item quantity="other">• Ανεβάσατε &lt;font color=#fc7050>%1$s&lt;/font> βίντεο.</item>
+    <item quantity="one">• Ανεβάσατε &lt;font color=#fc7050>%1$s&lt;/font> βίντεο.</item>
   </plurals>
   <plurals name="original_user_play_2">
-    <item quantity="other">Κάνατε &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; άνθρωποι ευχαριστημένοι!</item>
-    <item quantity="one">Κάνατε &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; πρόσωπο ευτυχής!</item>
+    <item quantity="other">Κάνατε &lt;font color=#fc7050>%1$s&lt;/font> άνθρωποι ευχαριστημένοι!</item>
+    <item quantity="one">Κάνατε &lt;font color=#fc7050>%1$s&lt;/font> πρόσωπο ευτυχής!</item>
   </plurals>
   <plurals name="remote_video_update">
     <item quantity="other">Βρέθηκαν %1$s νέα βίντεο</item>
@@ -141,12 +141,12 @@
     <item quantity="many">Βρέθηκαν %1$s νέα βίντεο</item>
   </plurals>
   <plurals name="search_head_hint_app">
-    <item quantity="other">App %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="zero">App %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="one">App %1$s σχετικά αρχεία (%2$d στοιχείο</item>
-    <item quantity="two">App %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="few">App %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="many">App %1$s σχετικά αρχεία (%2$d στοιχεία</item>
+    <item quantity="other">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχεία</item>
+    <item quantity="zero">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχεία</item>
+    <item quantity="one">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχείο</item>
+    <item quantity="two">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχεία</item>
+    <item quantity="few">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχεία</item>
+    <item quantity="many">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχεία</item>
   </plurals>
   <plurals name="search_head_hint_file">
     <item quantity="other">%1$s σχετικά αρχεία (%2$d στοιχεία</item>
@@ -190,8 +190,8 @@
     <item quantity="many">Λήψεις</item>
   </plurals>
   <plurals name="video_count">
-    <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; βίντεο</item>
-    <item quantity="one">&lt;font color=#fc7050&gt;%d&lt;/font&gt; βίντεο</item>
+    <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> βίντεο</item>
+    <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> βίντεο</item>
   </plurals>
   <plurals name="video_items">
     <item quantity="other">%1$d στοιχεία</item>
@@ -210,7 +210,12 @@
     <item quantity="many">%1$s προβολές</item>
   </plurals>
   <plurals name="video_publish_watchable_hint">
-    <item quantity="other">Πάρετε %1$d περισσότεροι ακόλουθοι για να αναβαθμίσετε την κατάστασή σας</item>
-    <item quantity="one">Πάρετε %1$d περισσότεροι ακόλουθοι για να αναβαθμίσετε την κατάστασή σας</item>
+    <item quantity="other">Πάρετε %1$d περισσότερους ακόλουθους για να αναβαθμίσετε την κατάστασή σας</item>
+    <item quantity="one">Πάρετε %1$d περισσότερους ακόλουθους για να αναβαθμίσετε την κατάστασή σας</item>
+  </plurals>
+  <plurals name="search_head_hint_all">
+    <item quantity="other">Βρέθηκαν (%1$d στοιχεία)</item>
+    <item quantity="one">Βρέθηκε (%1$d στοιχείο)</item>
+    <item quantity="few">Βρέθηκαν (%1$d στοιχεία)</item>
   </plurals>
 </resources>
