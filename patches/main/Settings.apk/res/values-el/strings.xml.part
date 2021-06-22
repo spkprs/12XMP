@@ -187,7 +187,7 @@
   <string name="toast_appname_summary">Εμφάνιση ονόματος εφαρμ. στις ειδοποιήσεις</string>
   <string name="toast_appname_title">Όνομα εφαρμ. σε αναδυόμενα παράθυρα</string>
   <string name="toggles_columns_full_title">Διακόπτες (Σε επέκταση)</string>
-  <string name="toggles_columns_row_summary">Συνολικά: %s</string>
+  <string name="toggles_columns_row_summary">Σύνολο: %s</string>
   <string name="toggles_columns_row_title">Σύνολο σειρών</string>
   <string name="toggles_columns_summary">Προβολή: %s</string>
   <string name="toggles_columns_title">Διακόπτες (Μια σειρά)</string>
@@ -268,7 +268,7 @@
   <string name="notif_icon_settings_title">Αριθμός εικονιδίων ειδοπ/σης</string>
   <string name="switch_control_panel_title">Αλλαγή πλευράς</string>
   <string name="switch_control_panel_summary">Εναλλαγή Ειδοποιήσεων και Διακοπτών</string>
-  <string name="pref_free">Χρησιμοποιήστε το Mi Space</string>
+  <string name="pref_free">Χρήση του Mi Space</string>
   <string name="miuipro_anim_title">Ενεργοποίηση συντόμευσης κίνησης</string>
   <string name="miuipro_anim_summary">Ενεργοποίηση συντόμευσης κίνησης μετά το ξεκλείδωμα</string>
   <string name="expand_notification_title">Ανάπτυξη πρώτης ειδοποίησης</string>
@@ -282,5 +282,6 @@
   <string name="adb_notify_summary">Προβολή ειδοποιήσεων σχετικά με αποσφαλματωση</string>
   <string name="charging_notify_title">USB ειδοποιήσεις</string>
   <string name="charging_notify_summary">Προβολή ειδοποιήσεων σχετικά με σύνδεση USB</string>
+  <string name="set_pip_corner_title">Στρογγυλοποίηση παραθύρου \"Εικόνα στην Εικόνα\"</string>
 </resources>
 
