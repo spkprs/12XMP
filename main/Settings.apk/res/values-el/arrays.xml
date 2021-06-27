@@ -1654,4 +1654,9 @@
     <item>Αυξήστε την ταχύτητα με δεδομένα κινητής μόνο όταν το σήμα WIFI είναι χαμηλό</item>
     <item>Συνδυάστε δεδομένα WIFI και δεδομένα κινητής για να αυξήσετε την ταχύτητα σύνδεσης</item>
   </string-array>
+  <string-array name="color_game_led_freq_entries">
+    <item>Κάθε 2 δευτ.</item>
+    <item>Κάθε 3 δευτ.</item>
+    <item>Κάθε 5 δευτ.</item>
+  </string-array>
 </resources>
