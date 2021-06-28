@@ -76,9 +76,11 @@
     <string name="is_go_home_summary">Επιστροφή στη αρχική σελίδα Εγγραφής, όταν σταματήσετε την εγγραφή</string>
     <string name="loopback_sound">Ηχείο</string>
     <string name="low_battery">Φορτίστε το τηλέφωνό σας πριν την έναρξη εγγραφής</string>
+    <string name="low_battery_for_pad">Φορτίστε το τηλέφωνό σας πριν την έναρξη εγγραφής</string>
     <string name="low_battery_title">Χαμηλή μπαταρία</string>
     <string name="low_battery_warning">Πολύ χαμηλή μπαταρία. Η εγγραφή διακόπηκε και το βίντεο απθηκεύτηκε.</string>
-    <string name="low_memory">Έχετε λιγότερο από 1GB διαθέσιμου χώρου αποθήκευσης. Έχετε δυνατότητα εγγραφής μέχρι 20 λεπτά υπόλοιπο.</string>
+    <string name="low_memory">Έχετε λιγότερο από 1GB διαθέσιμου χώρου αποθήκευσης. Μπορείτε να κάνετε εγγραφή έως 20 λεπτά.</string>
+    <string name="low_memory_for_pad">Έχετε λιγότερο από %1$d GB διαθέσιμου χώρου αποθήκευσης. Μπορείτε να κάνετε εγγραφή έως %2$d λεπτά.</string>
     <string name="low_memory_title">Ανεπαρκής χώρος αποθήκευσης</string>
     <string name="low_momery_warning">Ανεπαρκής χώρος αποθήκευσης. Διακόπηκε η εγγραφή και το βίντεο αποθηκεύτηκε.</string>
     <string name="memory_not_allowed">Μη διαθέσιμος χώρος αποθήκευσης. Ελευθερώστε λίγο χώρο για εγγραφή.</string>
@@ -136,6 +138,7 @@
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="view_recorded_file">Πατήστε για προβολή του εγεγραμμένου αρχείου</string>
+    <string name="view_recorded_videos">Προβολή εγγραφών</string>
     <string name="warning_recording_when_a2dp_connect">"Η συσκευή σας δεν υποστηρίζει εγγραφή ήχων συστήματος ενώ χρησιμοποιείται ακουστικό Bluetooth."</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Όχι τώρα</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>

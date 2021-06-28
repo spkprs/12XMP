@@ -332,7 +332,7 @@
     <string name="local_default_category">Τοπική προκαθορισμένη ταξινόμηση</string>
     <string name="lock_screen_date">EEEE, MMMM d</string>
     <string name="lock_screen_date_12">EEEE, MMMM d</string>
-    <string name="lock_show_permission_exception">Παρουσιάστηκε σφάλμα. Να επιτρέπεται η εικόνα του καρουσέλ ταπετσαρίας στην οθόνη κλειδώματος στην ασφάλεια.</string>
+    <string name="lock_show_permission_exception">Να επιτρέπεται στην ταπετσαρία Καρουσέλ την εμφάνιση στοιχείων στην οθόνη κλειδώματος</string>
     <string name="lockscreen_h5_back_tv">Πίσω</string>
     <string name="lockscreen_h5_close_tv">Απενεργοποίηση</string>
     <string name="lockscreen_h5_refresh_btn_tv">Ανανέωση</string>

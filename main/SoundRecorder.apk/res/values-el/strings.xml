@@ -118,6 +118,7 @@
     <string name="loading_order_list_empty">άδεια</string>
     <string name="low_battery_error">Απομένει λιγότερο από 5% μπαταρία. Για να εξασφαλιστεί ότι η εγγραφή σας δεν θα χαθεί, η Ηχογράφηση είναι σε παύση και το αρχείο έχει αποθηκευτεί.</string>
     <string name="low_battery_error_confirm">OK</string>
+    <string name="low_battery_error_for_pad">"Λιγότερο από %s μπαταρίας απομένει. Διακόψτε και αποθηκεύστε την εγγραφή σας για να βεβαιωθείτε ότι δεν έχει χαθεί."</string>
     <string name="low_battery_error_title">Χαμηλή μπαταρία</string>
     <string name="lyric_item_point_count">%1$d σε %2$d</string>
     <string name="mark_point_list_title">Ετικέτες</string>
@@ -150,6 +151,7 @@
     <string name="notification_playback">Αναπαραγωγή…</string>
     <string name="notification_recording">Ηχογράφηση…</string>
     <string name="notification_recording_ticker">Τηλέφωνο σε σίγαση.</string>
+    <string name="notification_recording_ticker_for_pad">Η συσκευή σας εγγράφει ήχο σε Αθόρυβη Λειτουργία τώρα. Χρησιμοποιήστε τα κουμπιά έντασης για να την απενεργοποιήσετε.</string>
     <string name="notification_save_as_complete">Αποθηκεύτηκε επιτυχώς</string>
     <string name="notification_stopped">Η ηχογράφηση σταμάτησε</string>
     <string name="notification_title_all_paused">Λήψη σε παύση</string>

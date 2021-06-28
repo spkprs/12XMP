@@ -264,6 +264,10 @@
     <string name="slavewifi_disconnect">Αποσύνδεση</string>
     <string name="slavewifi_notification_title">Χρήση Διπλής ζώνης WiFi</string>
     <string name="slavewifi_settings">Αγγίξτε για αλλαγή ρυθμίσεων</string>
+    <string name="small_freeform_enter_warning">Αιωρούμενο παράθυρο</string>
+    <string name="small_freeform_exit_tip">Κλείσιμο κινούμενου παραθύρου</string>
+    <string name="small_freeform_memory_toast_app_type">"Δεν μπορεί να ανοίξει τώρα. Αυτή η εφαρμογή απαιτεί πάρα πολλή μνήμη για να λειτουργήσει."</string>
+    <string name="small_freeform_memory_toast_game_type">"Δεν μπορεί να ανοίξει τώρα. Αυτό το παιχνίδι απαιτεί πάρα πολύ μνήμη για να μπορεί να λειτουργήσει."</string>
     <string name="softap_notifif_summary">%d συνδέσεις</string>
     <string name="softap_notifif_title">Hotspot \"%s\" ενεργό</string>
     <string name="standard">Αθόρυβη</string>

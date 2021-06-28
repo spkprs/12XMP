@@ -2983,6 +2983,7 @@
     <string name="gxzw_anim_rhythm">Ρυθμός</string>
     <string name="gxzw_anim_star">Πυροτέχνημα</string>
     <string name="gxzw_anim_title">Ένδειξη αγγίγματος σαρωτή</string>
+    <string name="gxzw_anim_unlock_effect">%s κίνηση δακτυλ. αποτυπωμάτων</string>
     <string name="gxzw_aod_show_summary">Σηκώστε τη συσκευή ή αγγίξτε την οθόνη για να εμφανιστεί το εικονίδιο δακτυλικών αποτυπωμάτων. Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας του συστήματος.</string>
     <string name="gxzw_aod_show_tittle">Εμφάνιση εικονιδίου δακτ αποτυπ σε ανεν. οθόνη</string>
     <string name="gxzw_dialog_message">Για να λειτουργήσει κανονικά ο αισθητήρας δακτυλικών αποτυπωμάτων οθόνης, μην χρησιμοποιείτε προστατευτικά οθόνης. Αν νομίζετε ότι αυτό να είναι απαραίτητο, επιλέξτε ανάμεσα σε εξουσιοδοτημένες συμβατές επιλογές.</string>
@@ -3818,7 +3819,8 @@
     <string name="low_label">Χαμηλή</string>
     <string name="low_storage_summary">Η αποθήκευση είναι χαμηλή. %1$s χρησιμοποιείται - %2$s ελεύθερος</string>
     <string name="macaddr_label">MAC διεύθ.:</string>
-    <string name="magic_window_name">Παράλληλα παράθυρα</string>
+    <string name="magic_list_empty_text">Δεν υπάρχουν συμβατές εφαρμογές με αυτήν τη δυνατότητα τώρα</string>
+    <string name="magic_window_name">Βελτιστοποίηση εφαρμ. για οριζόντια προβολή</string>
     <string name="mah">%d mAh</string>
     <string name="main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύωσης</string>
     <string name="main_running_process_description">Κύρια διαδικασία σε χρήση.</string>
@@ -5469,6 +5471,7 @@
     <string name="reset_network_final_desc">Επαναφορά ρυθμίσεων όλων των δικτύων; Αυτό μπορεί να διαρκέσει αρκετά δευτ/πτα. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια!</string>
     <string name="reset_network_final_desc_esim">Επαναφορά όλων των ρυθμίσεων δικτύου και διαγραφή των ληφθέντων SIM; Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.</string>
     <string name="reset_network_title">Επαναφορά δικτύων WiFi Κινητής και Bluetooth</string>
+    <string name="reset_network_title_noSim">Επαναφορά WiFi και Bluetooth</string>
     <string name="reset_network_wifi">WiFi</string>
     <string name="reset_remove_data_hint">Όλα τα παραπάνω στοιχεία θα διαγραφούν μόνιμα. Δημιουργήστε αντίγραφο ασφαλείας όλων των σημαντικών στοιχείων στον υπολογιστή σας ή στο Xiaomi Cloud πριν συνεχίσετε.</string>
     <string name="reset_second_space_passwd">Επαναφορά κωδικού Δεύτερου προφίλ</string>
@@ -7427,7 +7430,7 @@
     <string name="vibrate_on_touch_summary">Απτικά σχόλια, πληκτρολόγιο και άλλα</string>
     <string name="vibrate_on_touch_title">Δόνηση κατά το άγγιγμα</string>
     <string name="vibrate_title">Δόνηση</string>
-    <string name="vibrate_when_ringing_title">Δόνηση με ήχο</string>
+    <string name="vibrate_when_ringing_title">Δόνηση κατά το κουδούνισμα</string>
     <string name="video_calling_settings_title">Βιντεοκλήσεις μέσω κινητού τηλεφώνου</string>
     <string name="video_tool_box_title">Εργαλεία Video</string>
     <string name="vip_list">Ειδοποίηση σχετικά με κλήσεις</string>

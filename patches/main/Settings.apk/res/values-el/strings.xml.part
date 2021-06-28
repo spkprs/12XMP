@@ -282,6 +282,8 @@
   <string name="adb_notify_summary">Προβολή ειδοποιήσεων σχετικά με αποσφαλματωση</string>
   <string name="charging_notify_title">USB ειδοποιήσεις</string>
   <string name="charging_notify_summary">Προβολή ειδοποιήσεων σχετικά με σύνδεση USB</string>
-  <string name="set_pip_corner_title">Στρογγυλοποίηση παραθύρου \"Εικόνα στην Εικόνα\"</string>
+  <string name="set_pip_corner_title">Στρογγυλοποίηση παραθύρου</string>
+  <string name="pip_title">Λειτουργία \"Εικόνα στην Εικόνα\"</string>
+  <string name="set_pip_corner_summary">Ενεργοποίηση στρογγυλοποίησης γωνιών του παραθύρου στην αναπαραγωγή</string>
 </resources>
 

@@ -47,6 +47,7 @@
     <string name="screenshot_insert_failed">Αδυναμία φόρτωσης στιγμ. οθόνης. Τραβήξτε νέο ή δείτε την εικόνα στη Συλλογή.</string>
     <string name="screenshot_long_screenshot">Κύλιση</string>
     <string name="screenshot_send">Αποστολή</string>
+    <string name="screenshot_thumbnail">Μικρογραφία στιγμιότυπου</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
