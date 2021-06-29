@@ -254,16 +254,20 @@
     <string name="app_behavior_contacts_single">Είχε πρόσβαση στις επαφές σας</string>
     <string name="app_behavior_dashboard_desc">Δραστηριότητα των τελευταίων %d ωρών</string>
     <string name="app_behavior_dashboard_total_usage_title">Προβολή όλων των εγγραφών</string>
-    <string name="app_behavior_dashboard_usage">Συμπεριφορά εφαρμογής</string>
+    <string name="app_behavior_dashboard_usage">Χρήση δικαιωμάτων</string>
     <string name="app_behavior_dashboard_usage_list_title">Προβολή κατά άδεια</string>
     <string name="app_behavior_delete_pic">%1s διαγραμμένα στοιχεία από τη Συλλογή</string>
     <string name="app_behavior_delete_pic_single">Αυτή η εφαρμογή διέγραψε στοιχεία από τη Συλλογή</string>
     <string name="app_behavior_denied">Απόρριψη</string>
     <string name="app_behavior_desc_allow_once">Επιτράπηκε στις %1$s</string>
     <string name="app_behavior_desc_allowed">Επιτρέπεται</string>
+    <string name="app_behavior_desc_allowed_at">Αποδοχή σε %s</string>
     <string name="app_behavior_desc_allowed_on_background">Επιτρέπεται στο παρασκήνιο</string>
+    <string name="app_behavior_desc_allowed_on_background_at">Αποδοχή στο παρασκήνιο σε %s</string>
     <string name="app_behavior_desc_denied">Απορρίφθηκε</string>
+    <string name="app_behavior_desc_denied_at">Απόρριψη σε %s</string>
     <string name="app_behavior_desc_denied_on_background">Άρνηση στο παρασκήνιο</string>
+    <string name="app_behavior_desc_denied_on_background_at">Απόρριψη στο παρασκήνιο σε %s</string>
     <string name="app_behavior_desc_deny_once">Απορρίφθηκε στις %1$s</string>
     <string name="app_behavior_desc_other_perm_allowed">Τελευταία δραστηριότητα: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Δραστηριότητα των τελευταίων %d ωρών</string>
@@ -1189,7 +1193,7 @@
     <string name="ew_arrive_text_tips">Το σεισμικό κύμα έφτασε: %s</string>
     <string name="ew_button_confirm">Συμφωνώ</string>
     <string name="ew_button_exit">Δεν συμφωνώ</string>
-    <string name="ew_china_version_first_start_network_msg"><Data>\"Αυτή η λειτουργία σας παρέχει λειτουργία προειδοποίησης σεισμού. Θα σας ενημερώσει για τους επερχόμενους σεισμούς και θα παίξει προειδοποιητικό ήχο. Θα μπορείτε να βρείτε το πλησιέστερο καταφύγιο, να καλέσετε την επαφή έκτακτης ανάγκης και να παρουσιάσετε την ιατρική σας κάρτα, εάν απαιτείται. &lt;br> Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. &lt;br> Για να μπορεί να λειτουργεί κανονικά, αυτή η δυνατότητα απαιτεί τις ακόλουθες Άδειες για τη συλλογή των προσωπικών σας πληροφοριών: &lt;br>• Τοποθεσία: &lt;br> Για την πρόσβαση στην τοποθεσία σας και την παροχή έγκαιρων προειδοποιήσεων σεισμού. &lt;br> Αν δεν συμφωνείτε να χορηγείτε τέτοιου είδους Άδειες ή να μοιράζεστε και να ανεβάζετε τα προσωπικά σας στοιχεία, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν τη λειτουργία. Μπορείτε να επιλέξετε να απενεργοποιήσετε ή να μην την ενεργοποιήσετε στις περιπτώσεις αυτές. &lt;br> Θα πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε αυτήν τη δυνατότητα. \"</Data></string>
+    <string name="ew_china_version_first_start_network_msg">" "<Data>"Αυτή η λειτουργία σας παρέχει λειτουργία προειδοποίησης σεισμού. Θα σας ενημερώσει για τους επερχόμενους σεισμούς και θα παίξει προειδοποιητικό ήχο. Θα μπορείτε να βρείτε το πλησιέστερο καταφύγιο, να καλέσετε την επαφή έκτακτης ανάγκης και να παρουσιάσετε την ιατρική σας κάρτα, εάν απαιτείται. &lt;br> Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου. &lt;br> Για να μπορεί να λειτουργεί κανονικά, αυτή η δυνατότητα απαιτεί τις ακόλουθες Άδειες για τη συλλογή των προσωπικών σας πληροφοριών: &lt;br>• Τοποθεσία: &lt;br> Για την πρόσβαση στην τοποθεσία σας και την παροχή έγκαιρων προειδοποιήσεων σεισμού. &lt;br> Αν δεν συμφωνείτε να χορηγείτε τέτοιου είδους Άδειες ή να μοιράζεστε και να ανεβάζετε τα προσωπικά σας στοιχεία, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν τη λειτουργία. Μπορείτε να επιλέξετε να απενεργοποιήσετε ή να μην την ενεργοποιήσετε στις περιπτώσεις αυτές. &lt;br> Θα πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Πολιτική Απορρήτου&lt;/a> πριν χρησιμοποιήσετε αυτήν τη δυνατότητα."</Data>" "</string>
     <string name="ew_city_support_tip">*Υποστηρίζονται μόνο %s ειδοποιήσεις υπό τη δικαιοδοσία του.</string>
     <string name="ew_close">Απενεργοποιήστε την ειδοποίηση</string>
     <string name="ew_close_warning">Απενεργοποίηση</string>
@@ -1477,6 +1481,7 @@
     <string name="first_aid_card_wifi_or_flow_title">Δεν είναι δυνατή η σύνδεση στο διαδίκτυο</string>
     <string name="first_aid_dialog_msg_stop_scan">Διακοπή σάρωσης τώρα?</string>
     <string name="first_aid_dialog_title_stop_scan">Διακοπή σάρωσης</string>
+    <string name="first_aid_exception_sub_title">Αυτά τα στοιχεία θα παραβλεφθούν κατά την ανίχνευση</string>
     <string name="first_aid_item1_content">Επιδόσεις</string>
     <string name="first_aid_item2_content">Δίκτυο</string>
     <string name="first_aid_item3_content">Ρυθμίσεις</string>
@@ -1876,6 +1881,8 @@
     <string name="gs_show_way_vertical">Κάθετα</string>
     <string name="gs_sign_notification">Υπενθυμίστε να κάνετε check in στις 8 μ.μ. καθημερινά</string>
     <string name="gs_slip_gamebox_detail">Χρησιμοποιήστε το ρυθμιστικό ή σύρετε από την επάνω πλευρά της οθόνης για να εμφανιστεί ο πίνακας συντομεύσεων</string>
+    <string name="gtb_brightness_dialog_right_btn">Συνέχεια</string>
+    <string name="gtb_brightness_dialog_sub_message">*Μπορείτε να ενεργ/απενεργοποιήσετε την λειτουργία στις Ρυθμίσεις.</string>
     <string name="gtb_dialog_btn_close">Απενεργοποίηση</string>
     <string name="gtb_dialog_btn_open">Ενεργοποίηση</string>
     <string name="gtb_dialog_hint_smart_5g">Μπορείτε να ενεργοποιήσετε και να απενεργοποιήσετε αυτό το χαρακτηριστικό στο Game Turbo > Ρυθμίσεις.</string>
@@ -1885,6 +1892,7 @@
     <string name="gtb_exit_game_to_home">Επιστροφή στην Αρχική Οθόνη</string>
     <string name="gtb_setting_item_summary_smart_5g">Όποτε το Game Turbo εντοπίζει ένα δίκτυο 5G, μπορεί να συνδέσει τη συσκευή σας στο καλύτερο διαθέσιμο δίκτυο για τη μείωση της καθυστέρησης του δικτύου</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Αύξηση της ταχύτητας σύνδεσης κατά 10%-20% όταν γίνεται σύνδεση σε δρομολογητές Mi/Redmi</string>
+    <string name="gtb_setting_item_title_brightness">Αυτόματη μείωση φωτεινότητας οθόνης</string>
     <string name="gtb_setting_item_title_smart_5g">Βελτιστοποίηση δικτύου 5G</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi ενίσχυση ταχύτητας</string>
     <string name="gtb_spring_festival_back_game">Επιστροφή στο παιχνίδι</string>
@@ -2102,7 +2110,7 @@
     <string name="manual_input_free_traffic">Ρύθμιση δωρεάν χρήσης δεδομένων</string>
     <string name="manual_input_traffic">Ορισμός χρήσης δεδομένων</string>
     <string name="manual_item_white_list_summary">Αποτρέψτε τη βελτιστοποίηση των επιλεγμένων στοιχείων</string>
-    <string name="manual_item_white_list_title">Εξαιρέσεις</string>
+    <string name="manual_item_white_list_title">Σάρωση Εξαιρέσεων</string>
     <string name="mark_agent">Αντιπρ. πωλήσεων</string>
     <string name="mark_agent_block">Επισήμανση ως αντιπρ. πωλήσεων</string>
     <string name="mark_agent_block_large">Μεσάζων</string>
@@ -2552,6 +2560,7 @@
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Συνολική κατανάλωση</string>
     <string name="pc_battery_history_usetime_title">Ενεργό</string>
+    <string name="pc_hidemode_normal_title">Κανονική</string>
     <string name="pc_hidemode_performance">Απόδοση</string>
     <string name="pc_hidemode_performance_title">Λειτουργία απόδοσης</string>
     <string name="pc_hidemode_power_save">Ισχύς</string>

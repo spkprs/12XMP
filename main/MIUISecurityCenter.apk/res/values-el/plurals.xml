@@ -833,5 +833,25 @@
         <item quantity="other">%d κίνδυνοι σχετ-απόρρητο</item>
         <item quantity="one">%d κίνδυνος σχετ-απόρρητο</item>
     </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Επιτράπηκε %3$d φορές μεταξύ %1$s και %2$s</item>
+        <item quantity="one">Επιτράπηκε %3$d φορές μεταξύ %1$s και %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Σε χρήση %1$d λεπ.</item>
+        <item quantity="one">Σε χρήση %1$d λεπ.</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Σε χρήση %1$d λεπ. έως %2$s</item>
+        <item quantity="one">Σε χρήση %1$d λεπ. έως %2$s</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Αυτή η λειτουργία μειώνει αυτόματα τη φωτεινότητα της οθόνης μετά από %d λεπ. αδράνειας για εξοικονόμηση ενέργειας. Διατήρηση λειτουργίας ενεργή;</item>
+        <item quantity="one">Αυτή η λειτουργία μειώνει αυτόματα τη φωτεινότητα της οθόνης μετά από %d λεπ. αδράνειας για εξοικονόμηση ενέργειας. Διατήρηση λειτουργίας ενεργή;</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Μείωση της φωτεινότητας οθόνης αυτόματα για εξοικονόμηση ενέργειας μετά από %d λεπ. αδράνειας</item>
+        <item quantity="one">Μείωση της φωτεινότητας οθόνης αυτόματα για εξοικονόμηση ενέργειας μετά από %d λεπ. αδράνειας</item>
+    </plurals>
 </resources>
 
