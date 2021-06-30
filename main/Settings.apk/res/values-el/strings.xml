@@ -7492,6 +7492,9 @@
     <string name="voice_search_settings_title">Φωνητική αναζήτηση</string>
     <string name="voice_service_preference_section_title">Υπηρεσίες φωνητικών εντολών</string>
     <string name="voip_assistant_settings">VoIP βοηθός</string>
+    <string name="voip_assistant_settings_off">Off</string>
+    <string name="voip_assistant_settings_on">On</string>
+    <string name="voip_assistant_settings_summary">Καταγραφή κλήσεων VoIP με βελτιστοποίηση φωνητικού αποτυπώματος</string>
     <string name="volte_provisioned_switch_string">Παρέχεται από την VoLTE</string>
     <string name="volume_alarm_description">Αφύπνιση</string>
     <string name="volume_alarm_mute">Σίγαση αφυπνίσεων</string>

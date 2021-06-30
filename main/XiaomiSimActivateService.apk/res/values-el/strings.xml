@@ -56,12 +56,14 @@
     <string name="activate_popup_desc_failed_phone_error">Ο αριθμός τηλεφώνου που καταχωρίσατε δεν είναι έγκυρος.</string>
     <string name="activate_popup_desc_failed_query_info">Δεν μπορεί να βρεθεί ο αριθμό τηλεφώνου σας. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.</string>
     <string name="activate_popup_desc_failed_query_info_msg">Αδύνατος ο έλεγχος του αριθμού τηλεφώνου. Βεβαιωθείτε ότι η κάρτα SIM %d λειτουργεί σωστά και προσπαθήστε ξανά.</string>
+    <string name="activate_popup_desc_failed_query_info_msg_one_sim">"Δεν ήταν δυνατός ο έλεγχος του αριθμού τηλεφώνου. Βεβαιωθείτε ότι η κάρτα SIM λειτουργεί σωστά και δοκιμάστε ξανά."</string>
     <string name="activate_popup_desc_failed_receive_sms">Βεβαιωθείτε ότι ο αριθμός τηλεφώνου που εισάγατε είναι σωστός και ότι η κάρτα SIM έχει ενεργοποιηθεί.</string>
     <string name="activate_popup_desc_failed_send_sms">Αδύνατη η αποστολή μηνύματος ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.</string>
     <string name="activate_popup_desc_failed_server">Ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά.</string>
     <string name="activate_popup_desc_failed_server_msg">Παρουσιάστηκε σφάλμα διακομιστή. Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά.</string>
     <string name="activate_popup_desc_find_device_postfix">Ένα μήνυμα SMS ενεργοποίησης μπορεί να σταλεί αφού αλλάξετε τις κάρτες SIM.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Για να ενεργοποιήσετε \"%3$s\", πληκτρολογήστε τον αριθμό τηλεφώνου της κάρτας SIM %2$d. Εάν αντικαταστήσετε αυτήν την κάρτα SIM, θα σταλεί ένα άλλο SMS ενεργοποίησης.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Για ενεργοποίηση \"%2$s\", εισαγάγετε τον αριθμό τηλεφώνου σας. Αν αντικαταστήσετε αυτήν την κάρτα SIM, θα σταλεί άλλο SMS ενεργοποίησης.</string>
     <string name="activate_popup_desc_intl_sim_card">Τα διεθνή SMS θα σταλούν για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχό σας.</string>
     <string name="activate_popup_desc_intl_sim_card_msg">Για να ενεργοποιήσετε %2$s, %1$d διεθνές SMS θα σταλεί. Ο φορέας κινητής τηλεφωνίας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Για ενεργοποίηση \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>διεθνές SMS επί πληρωμή&lt;/b>θα αποσταλεί. Ο πάροχός σας θα σας χρεώσει για αυτό το μηνύμα..</string>
@@ -81,12 +83,15 @@
     <string name="activate_popup_desc_sim_card">Τα απλά SMS θα σταλούν για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχό σας.</string>
     <string name="activate_popup_desc_sim_card_downlink">Εισάγετε τον τρέχοντα αριθμό τηλεφώνου για ενεργοποίηση %s.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Για να ενεργοποιήσετε %2$s, πληκτρολογήστε τον αριθμό τηλεφώνου της κάρτας SIM %1$d.</string>
+    <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Για ενεργοποίηση %s, εισαγάγετε τον αριθμό τηλεφώνου σας.</string>
     <string name="activate_popup_desc_sim_card_msg">Για να ενεργοποιήσετε %2$s, %1$d θα σταλεί κανονικό SMS. Ο φορέας κινητής τηλεφωνίας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Για ενεργοποίηση \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>SMS επί πληρωμή&lt;/font> θα αποσταλεί. Ο πάροχός σας θα σας χρεώσει για αυτό το μηνύμα..</string>
     <string name="activate_popup_desc_voip_privacy">Πολιτική Απορρήτου</string>
     <string name="activate_popup_desc_voip_privacy_prefix">Υπηρεσία VoIP υποστηρίζεται από Weihui. Δείτε το Weihui</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Για να ενεργοποιήσετε \"%3$s\", πληκτρολογήστε τον αριθμό τηλεφώνου της κάρτας SIM %2$d. Η τεχνική υποστήριξη παρέχεται εν μέρει από weihuitel. Ανατρέξτε στην Πολιτική Προστασίας Προσωπικών Δεδομένων της Weihuitel για λεπτομέρειες.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Για ενεργοποίηση \"%2$s\", εισαγάγετε τον αριθμό τηλεφώνου σας. Η τεχνική υποστήριξη παρέχεται εν μέρει από την Weihuitel. Για λεπτομέρειες, ανατρέξτε στην Πολιτική απορρήτου της Weihuitel.</string>
     <string name="activate_popup_failed_send_sms_desc">Αδύνατη η αποστολή SMS ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM %d λειτουργεί σωστά και προσπαθήστε ξανά.</string>
+    <string name="activate_popup_failed_send_sms_desc_one_sim">"Δεν ήταν δυνατή η αποστολή SMS ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM λειτουργεί σωστά και δοκιμάστε ξανά."</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">Αδύνατη η εύρεση αριθμού</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">"Αδύνατη η αποστολή SMS"</string>
     <string name="activate_popup_title_error_device_id">Μη έγκυρο IMEI</string>
@@ -106,6 +111,7 @@
     <string name="activate_status_desc_acquire_phone_number_server_error">Σφάλμα διακομιστή κατά την επαλήθευση του αριθμού τηλεφώνου</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Αδύνατη η επαλήθευση του αριθμού τηλεφώνου</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">Αδύνατη η επαλήθευση του αριθμού τηλεφώνου. Βεβαιωθείτε ότι η κάρτα SIM %d λειτουργεί σωστά και προσπαθήστε ξανά.</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">"Δεν ήταν δυνατή η επαλήθευση του αριθμού τηλεφώνου. Βεβαιωθείτε ότι η κάρτα SIM λειτουργεί σωστά και δοκιμάστε ξανά."</string>
     <string name="activate_status_desc_checking_xiaomi_account">Έλεγχος λογαριασμού Mi…</string>
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Παρουσιάστηκε σφάλμα διακομιστή κατά τον έλεγχο του λογαριασμού Mi</string>
     <string name="activate_status_desc_completed_with_sms_sent">Στείλτε SMS για να ενεργοποιήσετε την κάρτα SIM</string>
@@ -126,6 +132,7 @@
     <string name="activate_status_desc_request_activation_sms">Αίτημα SMS ενεργοποίησης…</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Παρουσιάστηκε σφάλμα διακομιστή κατά την υποβολή αίτησης για ένα SMS ενεργοποίησης.</string>
     <string name="activate_status_desc_request_activation_sms_server_error_tip">Αδύνατη η λήψη SMS ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM %d λειτουργεί σωστά και προσπαθήστε ξανά.</string>
+    <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">"Δεν ήταν δυνατή η λήψη SMS ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM λειτουργεί σωστά και δοκιμάστε ξανά."</string>
     <string name="activate_status_desc_sending_sms">Αποστολή SMS ενεργοποίησης…</string>
     <string name="activate_status_desc_sending_sms_fail">Αδύνατη η αποστολή SMS ενεργοποίησης</string>
     <string name="activate_status_desc_sms_sent">Στάλθηκε επιτυχώς SMS ενεργοποίησης</string>
@@ -146,9 +153,11 @@
     <string name="error_network_io">Παρουσιάστηκε σφάλμα δικτύου</string>
     <string name="error_network_io_tip">Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά</string>
     <string name="error_no_get_send_sms_permission">Να επιτρέπεται η sim %d για να στείλετε sms πρώτα.</string>
+    <string name="error_no_get_send_sms_permission_one_sim">Επιτρέψτε την αποστολή SMS πρώτα.</string>
     <string name="error_no_send_sms_permission">Xiaomi Υπηρ. ενεργοπ. SIM χρειάζεται άδεια για την αποστολή SMS</string>
     <string name="error_sim_not_in_service"> "Αδυναμία ενεργοποίησης της κάρτας SIM. Βεβαιωθείτε ότι το υπόλοιπό σας είναι επαρκές."</string>
     <string name="error_sim_not_in_service_tip">Sim %d δεν είναι δυνατή η σύνδεση στο δίκτυο. Βεβαιωθείτε ότι η κάρτα SIM λειτουργεί σωστά και προσπαθήστε ξανά.</string>
+    <string name="error_sim_not_in_service_tip_one_sim">"Δεν είναι δυνατή η σύνδεση στο δίκτυο. Βεβαιωθείτε ότι η κάρτα SIM λειτουργεί σωστά και δοκιμάστε ξανά."</string>
     <string name="explain_activate_feature_server_title">Ενεργοποίηση \"%s\"</string>
     <string name="explain_activate_register_xiaomi_account_title">Δημιουργία λογαριασμού Mi</string>
     <string name="explain_activate_send_sms_permission_msg">Για να ενεργοποιήσετε %s, η συσκευή σας χρειάζεται δικαιώματα για την αποστολή sms ενεργοποίησης. Ο φορέας κινητής τηλεφωνίας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
