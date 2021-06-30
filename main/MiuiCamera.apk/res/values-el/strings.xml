@@ -679,6 +679,10 @@
     <string name="id_card_mode_use_hint_text_body">Συνδυάστε και τις δύο πλευρές της Ταυτότητας σας σε μία εικόνα.\nΕκτυπώστε το αντίγραφο ασύρματα σε χαρτί Α4.</string>
     <string name="id_card_mode_use_hint_text_title">Σάρωση Ταυτότητας</string>
     <string name="install_confirmed">Εγκατάσταση</string>
+    <string name="invisible_mode_dialog_cancel">Ακύρωση</string>
+    <string name="invisible_mode_dialog_summary">"Αδυναμία χρήσης της Κάμερας τώρα. Απενεργοποιήστε την Ανώνυμη λειτουργία στις Ρυθμίσεις για χρήση της Κάμερας."</string>
+    <string name="invisible_mode_dialog_title">"Είστε Ανώνυμος"</string>
+    <string name="invisible_mode_dialog_to_close">Ρυθμίσεις</string>
     <string name="kaleidoscope_fragment_tab_name">Καλειδοσκόπιο</string>
     <string name="lens_dirty_detected_content">Φαίνεται ότι ο φακός της κάμερας είναι ακάθαρτος.\nΚαθαρίστε το φακό για καλύτερο αποτέλεσμα.</string>
     <string name="lens_dirty_detected_title_back">Ο φακός της Πίσω κάμερας είναι ακάθαρτος</string>
