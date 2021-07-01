@@ -67,6 +67,8 @@
     <string name="hearing_assist_transmission_tips_title">Live in-ear monitor</string>
     <string name="icon_content_description">Εικονίδιο διαλόγου</string>
     <string name="item_view_role_description">Καρτέλα</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">"Η Αθόρυβη λειτουργία είναι ανενεργή τώρα. Κλήσεις &amp; ειδοπ/σεις δεν θα σιγήσουν."</string>
+    <string name="kddi_miui_toast_zen_to_standard">Μετάβαση σε Αθόρυβη λειτουργία. Κλήσεις &amp; ειδοπ/σεις θα σιγήσουν τώρα.</string>
     <string name="loading">Άγνωστη κατάσταση</string>
     <string name="material_slider_range_end">Τέλος περιοχής,</string>
     <string name="material_slider_range_start">Αρχή περιοχής,</string>
@@ -77,6 +79,8 @@
     <string name="miui_guide_dialog_button_negative_text">Ρυθμίσεις</string>
     <string name="miui_guide_dialog_button_positive_text">Κατανοητό</string>
     <string name="miui_guide_dialog_message">Οι ήχοι πολυμέσων (μουσική, βίντεο κ.λπ.) θα συνεχίσουν να αναπαράγονται σε αθόρυβη λειτουργία. Μπορείτε να το αλλάξετε αυτό στις Ρυθμίσεις.</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Χωρίς σίγαση πλέον οι ειδοπ/σεις</string>
+    <string name="miui_toast_zen_to_dnd_T">Οι ειδοπ/σεις θα σιγήσουν</string>
     <string name="miui_ringer_count_down">Αντίστροφη μέτρηση</string>
     <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Σίγαση</string>
