@@ -55,7 +55,7 @@
     <string name="activity_find_city_dialog_title">Πρόσβαση τοποθεσίας</string>
     <string name="activity_main_clickable">></string>
     <string name="activity_main_one_alert" />
-    <string name="activity_main_pub_time">Δημοσιεύθηκε στο %1$s</string>
+    <string name="activity_main_pub_time">Καταχώρηση στις %1$s</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Έγινε ενημέρωση %1$s</string>
     <string name="activity_main_update_time_expire">Τα δεδομένα έληξαν</string>
@@ -68,10 +68,10 @@
     <string name="alert_weather_enable_settings_title">Προειδοποιήσεις καιρού</string>
     <string name="already_voted_toast">Έχετε ήδη ψηφίσει σήμερα</string>
     <string name="app_name">Καιρός</string>
-    <string name="aqi_15_days_desc">%dημ πρόβλεψη ΔΠΑ</string>
-    <string name="aqi_24_hours_desc">%dημ πρόβλεψη ΔΠΑ</string>
-    <string name="aqi_48_hours_desc">%dημ πρόβλεψη ΔΠΑ</string>
-    <string name="aqi_5_days_desc">%dημ πρόβλεψη ΔΠΑ</string>
+    <string name="aqi_15_days_desc">15-ημ πρόβλεψη ΔΠΑ</string>
+    <string name="aqi_24_hours_desc">24-ωρ πρόβλεψη ΔΠΑ</string>
+    <string name="aqi_48_hours_desc">48-ωρ πρόβλεψη ΔΠΑ</string>
+    <string name="aqi_5_days_desc">5-ημ πρόβλεψη ΔΠΑ</string>
     <string name="aqi_alert_channel_name">Ειδοποιήσεις ΔΠΑ</string>
     <string name="aqi_data_source">Τροφοδοτείται από Colorful Clouds</string>
     <string name="aqi_desc">Δείκτης Ποιότητας Αέρα</string>

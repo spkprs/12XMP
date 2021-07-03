@@ -66,4 +66,8 @@
   <string name="category_button_title">Εμφάνιση στοιχείων</string>
   <string name="category_color_title">Χρώμα στοιχείων</string>
   <string name="set_bright_level_title">Επίπεδο Φωτεινότητας</string>
+  <string name="key_color_param_title">Προσαρμογή χρωμάτων</string>
+  <string name="key_color_param_summary">Προσαρμογή χρώματος στοιχείων και περιβάλλον κλήσης</string>
+  <string name="press_color_to_apply">Πατήστε στο χρώμα για επιλογή</string>
+  <string name="onscreen_mms_notes_text">Αντικατάσταση \"Σημειώσεις\" με \"Μηνύματα\"</string>
 </resources>
