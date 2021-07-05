@@ -90,6 +90,10 @@
     <string name="HIPS_Perm_install_shortcut_Desc">να προσθέσει συντομεύσεις στην Αρχική Οθόνη</string>
     <string name="HIPS_Perm_mediaVolume">Ρύθμιση έντασης πολυμέσων</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Επιτρέπει στην εφαρμογή η ρύθμιση έντασης πολυμέσων</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner">Πρόσβαση στον αριθμό τηλεφώνου για είσοδο</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Λήψη αριθμού τηλεφώνου από το φορέα για είσοδο</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Αν δεν μπορέσατε να εισέλθετε με ένα πάτημα τώρα, επιστρέψτε στη σελίδα εισόδου και δοκιμάστε ξανά."</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Αυτή η εφαρμογή θέλει να αποκτήσει τον αριθμό τηλεφώνου σας από το φορέα για είσοδο. Αποδοχή;</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">πρόσβαση στο υλικό (NFC)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Πρόσβαση στην εφαρμογή Τηλέφωνο</string>
