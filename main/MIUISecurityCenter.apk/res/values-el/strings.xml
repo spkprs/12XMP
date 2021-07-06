@@ -29,6 +29,7 @@
     <string name="Setting_lock">Ρυθμίσεις</string>
     <string name="Settings_title_anti_spam">Ρυθμίσεις Spam</string>
     <string name="Settings_title_anti_virus">Ρυθμίσεις Antivirus</string>
+    <string name="Settings_title_anti_virus_kddi">Ρυθμίσεις σάρωσης Ασφαλείας</string>
     <string name="Settings_title_garbage_cleanup">Παράμετροι Καθαρισμού</string>
     <string name="Settings_title_network_assistants">Παράμετροι βοηθού δικτύου</string>
     <string name="Settings_title_power_center">Ρύθμιση βελτιστοποίησης μπαταρίας</string>
@@ -95,8 +96,10 @@
     <string name="action_button_text_80_100">Βελτιστοποίηση</string>
     <string name="action_source_call_title">Αποκλεισμένες κλήσεις</string>
     <string name="action_source_sms_title">Αποκλεισμένα SMS</string>
+    <string name="actionbar_button_up_description">Πίσω</string>
     <string name="activity_title_antispam">Λίστα αποκλεισμών</string>
     <string name="activity_title_antivirus">Anti-virus</string>
+    <string name="activity_title_antivirus_kddi">Σάρωση Ασφαλείας</string>
     <string name="activity_title_apps_manager">Εφαρμογές</string>
     <string name="activity_title_auto_start_manager">Αυτόματη έναρξη</string>
     <string name="activity_title_create_shortcut">Διαχείριση συντομεύσεων</string>
@@ -188,11 +191,13 @@
     <string name="antivirus_privacy_dialog_cloudscan_description">"Για τον αποτελεσματικότερο εντοπισμό και την εξουδετέρωση των ιών, θα αποστείλουμε τα ονόματα και τις ιδιότητες πακέτων των εφαρμογών, προκειμένου να τους σαρώσουμε χρησιμοποιώντας μια μηχανή νέφους."</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_summary"><Data>Το χαρακτηριστικό αυτό τροφοδοτείται από τρίτους. Για περισσότερες πληροφορίες, διαβάστε την &lt;a href=\"%1$s\">Άδεια χρήσηςt&lt;/a> που παρέχεται από τρίτους.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi">" "<Data>"Όταν εκτελείτε σάρωση ασφαλείας, το μοντέλο συσκευής και τα αποτελέσματα σάρωσης θα αποσταλούν σε διακομιστές %1$s και θα χρησιμοποιηθούν σύμφωνα με το αντίστοιχες &lt;a href=\"%2$s\">Όροι και Προϋποθέσεις&lt;/a>.&lt;br/>&lt;br/>Διαβάστε και αποδεχτείτε τους όρους και τις προϋποθέσεις του %3$s, πριν από την εκτέλεση σαρώσεων ασφαλείας.&lt;br/>&lt;br/>Αν δεν συμφωνείτε με την αποστολή δεδομένων σε διακομιστές %4$s, μπορείτε να χρησιμοποιήσετε τους ορισμούς ιών που είναι αποθηκευμένοι τοπικά στη συσκευή σας."</Data>" "</string>
     <string name="antivirus_privacy_dialog_summary_link">Πολιτική Απορρήτου</string>
     <string name="antivirus_privacy_dialog_summary_new"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast, AVL και Tencent. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από AVL και Tencent. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast και AVL. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
     <string name="antivirus_privacy_dialog_title">Πολιτική Απορρήτου</string>
+    <string name="antivirus_privacy_dialog_title_kddi">Όροι και προϋποθέσεις</string>
     <string name="antivirus_sec_network_unavailable">Η Ασφαλεία δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο Internet. Να επιτρέπετε στην Ασφάλεια η σύνδεση στο Internet;</string>
     <string name="antivirus_sms_check">Έλεγχος συνδέσεων στην ανταλλαγή μηνυμάτων</string>
     <string name="antivirus_sms_check_summary">Ελέγξτε τις συνδέσεις στα εισερχόμενα μηνύματα και λάβετε προειδοποιήσεις σχετικά με πιθανούς κινδύνους</string>
@@ -254,7 +259,7 @@
     <string name="app_behavior_contacts_single">Είχε πρόσβαση στις επαφές σας</string>
     <string name="app_behavior_dashboard_desc">Δραστηριότητα των τελευταίων %d ωρών</string>
     <string name="app_behavior_dashboard_total_usage_title">Προβολή όλων των εγγραφών</string>
-    <string name="app_behavior_dashboard_usage">Χρήση δικαιωμάτων</string>
+    <string name="app_behavior_dashboard_usage">Χρήση Αδειών</string>
     <string name="app_behavior_dashboard_usage_list_title">Προβολή κατά άδεια</string>
     <string name="app_behavior_delete_pic">%1s διαγραμμένα στοιχεία από τη Συλλογή</string>
     <string name="app_behavior_delete_pic_single">Αυτή η εφαρμογή διέγραψε στοιχεία από τη Συλλογή</string>
@@ -611,6 +616,7 @@
     <string name="applock_no_account_login">"Δεν έχετε εισέλθει στο Mi λογαριασμό"</string>
     <string name="applock_not_add_account"><u>Αργότερα</u></string>
     <string name="applock_not_login_account">Δεν είστε συνδεδεμένοι</string>
+    <string name="applock_numeric_pwd_type_line">Συνολικός αριθμός ψηφίων κωδικού: %1$d. Καταχωρημένα ψηφία: %2$d.</string>
     <string name="applock_operate_faceunlock_summary">Ξεκλειδώστε τις εφαρμογές απλά κοιτάζοντας την οθόνη</string>
     <string name="applock_operate_faceunlock_title">Χρήση δεδομένων προσώπου</string>
     <string name="applock_operate_fingerprint_summary">Το Κλείδωμα εφαρμογής υποστηρίζει πολλά Δακτ. αποτυπώματα</string>
@@ -922,7 +928,14 @@
     <string name="celcius_symbol">℃</string>
     <string name="cellular_data_auto_check">Αυτόματος έλεγχος</string>
     <string name="cellular_package_daily_input">Εισαγωγή</string>
-    <string name="cetus_invisible_mode_warn_open">Η λειτουργία Incognito αναστέλλει το μικρόφωνο, την κάμερα και τις άδειες που σχετίζονται με την τοποθεσία για όλες τις εφαρμογές. Ενεργοποίηση;</string>
+    <string name="cetus_invisible_mode">Ανώνυμος</string>
+    <string name="cetus_invisible_mode_description_card">Αναστολή Αδειών</string>
+    <string name="cetus_invisible_mode_description_switch">Ενεργοποίηση για αναστολή Αδειών μικροφώνου, κάμερας και τοποθεσίας για όλες τις εφαρμογές</string>
+    <string name="cetus_invisible_mode_warn_all">"Είσαι Ανώνυμος. Αναστέλλονται οι άδειες για το μικρόφωνο, την κάμερα, και τη τοποθεσία."</string>
+    <string name="cetus_invisible_mode_warn_camera">"Είσαι Ανώνυμος. Αναστέλλονται οι άδειες για την Κάμερα."</string>
+    <string name="cetus_invisible_mode_warn_location">"Είσαι Ανώνυμος. Αναστέλλονται οι άδειες για την θέση σας."</string>
+    <string name="cetus_invisible_mode_warn_open">Η Ανώνυμη λειτουργία αναστέλλει το μικρόφωνο, την κάμερα και τις άδειες που σχετίζονται με την τοποθεσία για όλες τις εφαρμογές. Ενεργοποίηση;</string>
+    <string name="cetus_invisible_mode_warn_record_audio">"Είσαι Ανώνυμος. Αναστέλλονται οι άδειες για το μικρόφωνο."</string>
     <string name="charger_detect_button_ok">Κατανοητό</string>
     <string name="charger_detect_info1">Ελέγξτε αν τροφοδοτικό - καλώδιο είναι σωστά.</string>
     <string name="charger_detect_info2">"Η φόρτιση μπορεί επίσης να επιβραδυνθεί εάν χρησιμοποιείτε μη τυπικά ή παλιά τροφοδοτικά και καλώδια."</string>
@@ -1077,11 +1090,14 @@
     <string name="dialog_roaming_warning_checkbox">Να μην εμφανιστεί ξανά</string>
     <string name="dialog_roaming_warning_message">Ο φορέας θα σας χρεώσει μετά την ενεργοποίηση της διεθνούς περιαγωγής δεδομένων. Ενεργοποίηση;</string>
     <string name="dialog_roaming_warning_ok">Ενεργοποιήστε</string>
+    <string name="dialog_skt_roaming_warning_cancel">Διαφωνώ</string>
+    <string name="dialog_skt_roaming_warning_ok">Συμφωνώ</string>
+    <string name="dialog_skt_roaming_warning_title">Συμφωνία περιαγωγής δεδομένων</string>
     <string name="dialog_title_attention">Προσοχή</string>
     <string name="dialog_title_auto_start_declare">Πληροφορίες</string>
     <string name="dialog_title_stop_virus_scan">Διακοπή σάρωσης ιών</string>
     <string name="disable_air_mode">Απενεργοποιήστε πρώτα τη λειτουργία πτήσης</string>
-    <string name="disable_sensitive_permissions">Περιορισμός ευαίσθητων δικαιωμάτων</string>
+    <string name="disable_sensitive_permissions">Περιορισμός ευαίσθητων Αδειών</string>
     <string name="disable_sensitive_permissions_detail">"Το πληκτρολόγιό σας δεν θα μπορεί να χρησιμοποιεί δικαιώματα που σχετίζονται με την προστασία σας (π.χ. επαφές ή πληροφορίες θέσης)."</string>
     <string name="dlg_add_blacklist">Αποκλεισμός αυτού του αριθμού;</string>
     <string name="dlg_add_blacklist_title">Προσθήκη στη λίστα αποκλεισμών</string>
@@ -1897,6 +1913,7 @@
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi ενίσχυση ταχύτητας</string>
     <string name="gtb_spring_festival_back_game">Επιστροφή στο παιχνίδι</string>
     <string name="gtb_spring_festival_goto_gameturbo">Προβολή</string>
+    <string name="gtb_spring_festival_guide_know">Κατανοητό</string>
     <string name="gtb_wlan_speed_tips">Χρήση Mi WiFi…</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Εσφαλμένος πάροχος;&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">Ο τρέχων φορέας σας:</string>
@@ -2576,7 +2593,10 @@
     <string name="pc_main_sub_battery_text_day_hour">%1$sΗμ %2$sΩρ απομένουν</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$sΩρ %2$sΛεπ απομένουν</string>
     <string name="pc_performance_mode_dialog_summary">Η συσκευή σας θα μπορεί να λειτουργεί για %s σε λειτουργία απόδοσης. Σημειώστε ότι η λειτουργία απόδοσης αυξάνει την κατανάλωση ενέργειας και μπορεί να οδηγήσει σε υπερθέρμανση.</string>
+    <string name="pc_performance_mode_dialog_summary2">Η απόδοση της συσκευής θα βελτιωθεί. Αυτό μπορεί να αυξήσει την κατανάλωση ενέργειας και να οδηγήσει σε θέματα υπερθέρμανσης. Ενεργ/ση;</string>
     <string name="pc_performance_mode_dialog_title">Λειτουργία απόδοσης</string>
+    <string name="pc_performance_mode_noti_summary">Η λειτουργία απόδοσης μπορεί να αυξήσει την κατανάλωση ενέργειας και να οδηγήσει σε προβλήματα υπερθέρμανσης</string>
+    <string name="pc_performance_mode_noti_title">Βελτιωμένη απόδοση συσκευής</string>
     <string name="pc_search_keywords_battery">Μπαταρία</string>
     <string name="pc_search_keywords_battery_save">Εξοικονόμηση μπαταρίας</string>
     <string name="pc_search_keywords_battery_use">Χρήση μπαταρίας</string>
@@ -2776,6 +2796,11 @@
     <string name="power_center_list_item_wake_notification">Να μην γίνεται αφύπνιση της οθόνης για ειδοποιήσεις</string>
     <string name="power_center_list_item_wake_notification_summary">Οι εισερχόμενες ειδοποιήσεις θα εμφανίζονται μόνο όταν ενεργοποιείτε την οθόνη</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
+    <string name="power_center_night_charge_noti_subtitle">Η μπαταρία θα φορτιστεί πλήρως από %s</string>
+    <string name="power_center_night_charge_noti_title">Βελτιστοποιημένη φόρτιση είναι ενεργή</string>
+    <string name="power_center_night_charge_protection">Βελτιστοποιημένη φόρτιση</string>
+    <string name="power_center_night_charge_protection_setting">Περισσότερες επιλογές στην επιλογή Ασφάλεια > Μπαταρία.</string>
+    <string name="power_center_night_charge_protection_summary">Για να μειωθεί η γήρανση της μπαταρίας, το MIUI μαθαίνει από την καθημερινή ρουτίνα φόρτισης προκειμένου να μειωθεί η περιττή συνεχής φόρτιση</string>
     <string name="power_center_one_key_save">Βελτιστοποίηση</string>
     <string name="power_center_ontime_boot">Ώρα ενεργοποίησης</string>
     <string name="power_center_ontime_shutdown">Ώρα απενεργοποίησης</string>
@@ -2834,6 +2859,8 @@
     <string name="power_consume_rank_title">Χρήση ενέργειας</string>
     <string name="power_consume_software_total_format">Εφαρμογές: %s</string>
     <string name="power_customize_giveup_change">Ακύρωση των αλλαγών;</string>
+    <string name="power_dailog_night_charge_protection_done">Κατανοητό</string>
+    <string name="power_dailog_night_charge_protection_summary">Φαίνεται ότι η μπαταρία σας είναι πλήρως φορτισμένη τις περισσότερες φορές, γεγονός που μπορεί να επιταχύνει τη γήρανση της. Το MIUI ενεργοποίησε τη βελτιστοποιημένη φόρτιση για εσάς για να αποφύγετε τέτοια προβλήματα.</string>
     <string name="power_dialog_cancel">Ακύρωση</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_super_save_msg">Η Υπέρ Εξοικον. μπαταρίας περιορίζει τις περισσότερες λειτουργίες που καταναλώνουν ενέργεια και μειώνει την απόδοση της συσκευής σας, ώστε να παραμείνουν διαθέσιμες όσο το δυνατόν περισσότερες βασικές λειτουργίες (π.χ. Κλήσεις, SMS και σύνδεση στο Δίκτυο). Ενεργοποίηση Υπέρ Εξοικον. μπαταρίας;</string>
@@ -2971,6 +2998,8 @@
     <string name="power_wireless_update_notification_title">Ενημέρωση ασύρματης φόρτισης</string>
     <string name="power_wireless_update_text">Ενημερωμένο</string>
     <string name="power_wireless_update_tv_text">"Ενημέρωση υλικολογισμικού. Μην απενεργοποιήσετε τη συσκευή."</string>
+    <string name="pp_anti_track_summary">"Να μην επιτρέπεται η παρακολούθηση της δραστηριότητάς σας"</string>
+    <string name="pp_antitrack_detail">Οι εφαρμογές μπορούν να παρακολουθούν τη δραστηριότητά σας μέσω προσωπικών αναγνωριστικών, πληροφοριών τοποθεσίας και άλλων τύπων προσωπικών πληροφοριών που έχουν τεθεί σε κοινή χρήση με αυτές. Η παρακολούθηση της δραστηριότητάς σας σε διαφορετικές εφαρμογές και ιστότοπους τους επιτρέπει να προσαρμόζουν τις διαφημίσεις και να σας προτείνουν σχετικό περιεχόμενο.</string>
     <string name="pp_app_behavior_record_detail">Καταγραφή όλης της συμπεριφοράς εφαρμογής</string>
     <string name="pp_app_del_img_intercept_detail">Λήψη ειδοποιήσεων όταν οι εφαρμογές διαγράφουν στοιχεία από τη Συλλογή χωρίς την άδειά σας</string>
     <string name="pp_app_gets_dangerous_permission_reminder">Λήψη ειδοποιήσεων όταν οι εφαρμογές χρησιμοποιούν άδειες υψηλού κινδύνου</string>
@@ -2982,6 +3011,8 @@
     <string name="pp_app_reads_clipboard_smart_reminder_detail">"Το MIUI θα αποφασίσει εάν επιτρέπεται στις εφαρμογές να έχουν πρόσβαση στο πρόχειρο σας. Όταν το κάνουν, θα λάβετε μια ειδοποίηση."</string>
     <string name="pp_app_warning_permission_tips">Λάβετε ειδοποιήσεις σχετικά με τη συμπεριφορά της εφαρμογής</string>
     <string name="pp_app_warning_permission_tips_detail">Λήψη ειδοποιήσεων όταν οι εφαρμογές αποκτούν πρόσβαση στη θέση σας, εγγράφουν ήχο ή χρησιμοποιούν φωτογραφική μηχανή</string>
+    <string name="pp_block_mac">Περιορισμός πρόσβασης σε διεύθυνση MAC</string>
+    <string name="pp_block_mac_summary">Η πρόσβαση στη διεύθυνση MAC σας περιορίζεται από προεπιλογή για όλες τις εφαρμογές.</string>
     <string name="pp_call_phone_msg">Ιστορικό κλήσεων</string>
     <string name="pp_capability_approved_title">"Τα μέτρα προστασίας του απορρήτου μας δοκιμάστηκαν και πιστοποιήθηκαν από τους κορυφαίους ειδικούς του χώρου."</string>
     <string name="pp_chain_start_is_prohibited">Περιορισμός αλυσιδωτής έναρξης</string>
@@ -2994,18 +3025,23 @@
     <string name="pp_fuzzy_positioning_detail">Χαμηλότερη ακρίβεια θέσης και αποδοχή στις εφαρμογές πρόσβαση σε λιγότερο ακριβείς πληροφορίες τοποθεσίας</string>
     <string name="pp_grant_permission_only_during_app_use">"Να επιτρέπεται στις εφαρμογές να χρησιμοποιούν άδειες μόνο όταν χρησιμοποιείτε την εφαρμογή"</string>
     <string name="pp_grant_permission_only_during_app_use_detail">"Για να αποτρέψετε τη χρήση αδειών στο παρασκήνιο από μια εφαρμογή, μπορείτε να επιτρέψετε τη χρήση των αδειών που σχετίζονται με τη θέση, την ηχογράφηση και τις επαφές μόνο ενώ χρησιμοποιείτε την εφαρμογή"</string>
-    <string name="pp_hide_app">Απόκρυψη εφαρμογών</string>
-    <string name="pp_hide_app_form_desktop">Αφαιρ εικ αρχ οθ</string>
+    <string name="pp_hide_app">Απόκρυψη εφαρμ</string>
+    <string name="pp_hide_app_form_desktop">Αφαιρ εικονιδ αρχ οθ</string>
     <string name="pp_icon_layout_status_bg_content_enable">Προστατεύεται</string>
     <string name="pp_icon_layout_status_bg_content_unable">Off</string>
+    <string name="pp_identifier_protection">Προστασία προσωπικών αναγνωριστικών</string>
     <string name="pp_interception_net_visit_content_manager">Προστασία συλλογής και αρχείων εφαρμογών μέσων κοινωνικής δικτύωσης</string>
     <string name="pp_interception_net_visit_content_manager_detail">Επιλέξτε ποιες εφαρμογές επιτρέπεται να έχουν πρόσβαση στη συλλογή και τα αρχεία από τις εφαρμογές μέσων κοινωνικής δικτύωσης</string>
     <string name="pp_local_msg">Πληροφορίες θέσης</string>
     <string name="pp_manage_apps_location_information">Να επιτρέπεται στις εφαρμογές η πρόσβαση στη θέση σας</string>
-    <string name="pp_one_app_two_use">Χρήση δύο λογαριασμών χωρίς έξοδο</string>
-    <string name="pp_one_phone_two_space">Χρήση μίας συσκευής ως δύο</string>
+    <string name="pp_manage_track">Παρακολούθηση ανιχνευτών</string>
+    <string name="pp_manage_track_summary">Εντοπισμός και απενεργοποίηση διαφόρων τύπων ανιχνευτών που είναι ενσωματωμένοι σε εφαρμογές. Αυτοί οι ανιχνευτές μπορεί να μοιράζονται τα προσωπικά σας αναγνωριστικά με πρόσβαση και αποθήκευση στοιχείων σε εσωτερικό χώρο αποθήκευσης ή να χρησιμοποιούν κοινόχρηστα SDK για την παρακολούθηση της δραστηριότητάς σας.</string>
+    <string name="pp_one_app_two_use">2 λογαρ. άμεσα</string>
+    <string name="pp_one_phone_two_space">1 συσκ. ώς 2</string>
     <string name="pp_only_allow_permission_during_this_run">Να επιτρέπεται στις εφαρμογές να χρησιμοποιούν άδειες μία φορά</string>
     <string name="pp_only_allow_permission_during_this_run_detail">Μπορείτε να επιτρέψετε τη χρήση των αδειών που σχετίζονται με τη θέση, την εγγραφή ήχου και τις επαφές μόνο μία φορά. Αυτά τα άδειες θα περιοριστούν ξανά λίγο μετά το κλείσιμο της εφαρμογής.</string>
+    <string name="pp_operator_get_number">Να απαιτείται έγκριση για την πρόσβαση στον αριθμό τηλεφώνου</string>
+    <string name="pp_operator_get_number_summary">Οι εφαρμογές θα ζητήσουν την άδειά σας όταν θέλουν να αποκτήσουν πρόσβαση στον αριθμό τηλεφώνου σας για είσοδο.</string>
     <string name="pp_optional_protection_function">Προαιρετικά μέτρα προστασίας</string>
     <string name="pp_permission_action_virtual_detail">Εκχώρηση αδειών, αλλά παροχή κενών αρχείων στις εφαρμογές αντί για προσωπικές πληροφορίες</string>
     <string name="pp_permission_settings">Άδειες</string>
@@ -3014,8 +3050,12 @@
     <string name="pp_privacy_lab_blur_location_summary">Καταργήστε την εξατομίκευση των πληροφοριών θέσης σας, επιτρέποντας στις εφαρμογές να έχουν πρόσβαση στην κατά προσέγγιση θέση σας</string>
     <string name="pp_privacy_lab_clipboard">Προστασία προχείρου</string>
     <string name="pp_privacy_lab_clipboard_summary">Αφήστε το Miui να αποφασίσει αν μια εφαρμογή μπορεί να έχει πρόσβαση στο πρόχειρο και να λαμβάνει ειδοποιήσεις όταν το κάνει</string>
+    <string name="pp_privacy_lab_operator_get_number">Να απαιτείται έγκριση για την πρόσβαση στον αριθμό τηλεφώνου</string>
+    <string name="pp_privacy_lab_operator_get_number_summary">Να απαιτείται από τις εφαρμογές να ζητούν την άδειά σας όταν θέλουν να αποκτήσουν πρόσβαση στον αριθμό τηλεφώνου σας για είσοδο</string>
+    <string name="pp_privacy_lab_operator_introduction">Προσοχή</string>
+    <string name="pp_privacy_lab_operator_introduction_summary">"Οι εφαρμογές μπορεί να αποθηκεύσουν τον αριθμό τηλεφώνου σας, αν έχει ληφθεί προηγουμένως. Η αλλαγή αυτού του δικαιώματος δεν θα διαγράψει τους αριθμούς τηλεφώνου που αποκτήθηκαν προηγουμένως."</string>
     <string name="pp_privacy_protection">Προστασία</string>
-    <string name="pp_privacy_protection_function">Χαρακτηριστικά Απορρήτου</string>
+    <string name="pp_privacy_protection_function">Λειτουργίες Απορρήτου</string>
     <string name="pp_privacy_protection_lab">Εργαστήριο προστασίας προσωπικών δεδομένων</string>
     <string name="pp_privacy_protection_lab_summary">Κρατήστε τα πράγματα ιδιωτικά</string>
     <string name="pp_privacy_risk_detection">Εντοπισμ. κινδ. απορρήτου</string>
@@ -3033,7 +3073,7 @@
     <string name="pp_safe_box_summary">Προστασία προσωπικών δεδομένων</string>
     <string name="pp_safe_input_pwd">Προστασία των κωδικών πρόσβασης</string>
     <string name="pp_safe_keyboard">Ασφαλές πληκτρολόγιο</string>
-    <string name="pp_safe_save_pwd_and_account">Αποθήκευση κωδικών πρόσβασης σε ασφαλές περιβάλλον</string>
+    <string name="pp_safe_save_pwd_and_account">Ασφαλή αποθήκ.</string>
     <string name="pp_safe_share_img_detail">Κοινή χρήση φωτογραφιών χωρίς πληροφορίες και μεταδεδομένα τοποθεσίας</string>
     <string name="pp_smart_manager_pwd">Κωδικοί πρόσβ.</string>
     <string name="pp_special_permission_settings">Ειδικές άδειες</string>
@@ -3041,6 +3081,7 @@
     <string name="pp_storage_msg">Χώρος αποθήκευσης</string>
     <string name="pp_understanding_privacy">Ευαισθ. Ενέργ.</string>
     <string name="pp_virtual_identity_manager">Εικονικό ID</string>
+    <string name="pp_virtual_identity_summary">Αντί για το πραγματικό σας αναγνωριστικό, μπορείτε να παρέχετε ένα εικονικό αναγνωριστικό (virtual ID OAID). Προστατεύει τα προσωπικά σας δεδομένα και σας επιτρέπει να ελέγχετε πώς οι εφαρμογές παρακολουθούν τη συμπεριφορά σας.</string>
     <string name="pref_about_traffic_title">Ρυθμίσεις χρήσης δεδομένων</string>
     <string name="pref_adjust_data_usage">Πρότυπο μηνύματος φορέα</string>
     <string name="pref_adjust_data_usage_summary">Αφού αλλάξετε το πρότυπο βαθμονόμησης, το MIUI θα το χρησιμοποιήσει για να πάρει στατιστικά στοιχεία χρήσης από τον φορέα σας</string>
@@ -3311,7 +3352,7 @@
     <string name="privacy_search_key_5">Ειδικές Άδειες</string>
     <string name="privacy_search_key_6">Ειδοποιήσεις Αδειών</string>
     <string name="privacy_search_key_7">Πληροφορίες τοποθεσίας</string>
-    <string name="privacy_search_key_8">Μάσκα απορρήτου</string>
+    <string name="privacy_search_key_8">Χωρίς παρακολούθηση</string>
     <string name="privacy_search_key_9">Εικονικό αναγνωριστικό</string>
     <string name="privacy_show_other_permissions">Εμφάνιση άλλων αδειών</string>
     <string name="privacy_show_password">Εμφάνιση κωδικών πρόσβασης</string>
@@ -4598,5 +4639,9 @@
 Δοκιμάστε την αναβάθμιση της ανάλυσης!"</string>
     <string name="videobox_settings_timing">Ειδοποίηση binge</string>
     <string name="videobox_settings_timing_desc">Λάβετε μια ωριαία ειδοποίηση binge υπενθυμίζοντάς σας να κάνετε ένα διάλειμμα</string>
+    <string name="dialog_skt_roaming_warning_message">"Διαβάστε και αποδεχτείτε τις παρακάτω προϋποθέσεις για να χρησιμοποιήσετε περιαγωγή δεδομένων. Ενδέχεται να ισχύουν διεθνείς χρεώσεις. Χωρίς πρόγραμμα περιαγωγής δεδομένων, ενδέχεται να ισχύουν σημαντικές χρεώσεις για εφαρμογές που ενημερώνονται αυτόματα, όπως εφαρμογές που σχετίζονται με την κοινωνική δικτύωση, το ηλεκτρονικό ταχυδρομείο και τον καιρό.
+* Όταν διαφωνείτε με τη χρήση περιαγωγής δεδομένων, η λειτουργία θα απενεργοποιηθεί.
+* HD φωνή χρησιμοποιείται ως προεπιλογή σε υποστηριζόμενα δίκτυα.
+* 5G η περιαγωγή δεδομένων είναι διαθέσιμη μόνο στα εταιρικά μας δίκτυα."</string>
 </resources>
 

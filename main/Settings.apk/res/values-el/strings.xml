@@ -2904,7 +2904,7 @@
     <string name="gadget_picker_title">Επιλογή gadget</string>
     <string name="gadget_toggle_wifi">Ενημέρωση ρυθμίσεων Wi-Fi…</string>
     <string name="gadget_wifi">Wi-Fi</string>
-    <string name="gallery_privacy_password_role_instruction">Οι προσωπικές σας φωτογραφίες θα αποθηκευτούν εδώ.</string>
+    <string name="gallery_privacy_password_role_instruction">Για να προβάλετε τα στοιχεία που έχετε ορίσει ως ιδιωτικά, σαρώστε προς τα κάτω στα \"Άλμπουμ\".</string>
     <string name="game_booster">Παιχνίδι;Παιχνίδια;Turbo;Παιχνίδια;Τρόπος Gaming</string>
     <string name="game_booster_title">Game Turbo</string>
     <string name="game_controller_settings_category">Ελεγκτής παιχνιδιών</string>
@@ -6741,6 +6741,17 @@
     <string name="style_and_wallpaper_settings_title">Στυλ και ταπετσαρίες</string>
     <string name="style_suggestion_summary">Δοκιμάστε διαφορετικά στυλ, ταπετσαρίες, ρολόγια και πολλά άλλα</string>
     <string name="style_suggestion_title">Προσαρμόστε το Pixel σας</string>
+    <string name="stylus_ota_check_update">Έλεγχος και Ενημέρωση</string>
+    <string name="stylus_ota_current_firmware_version">Τρέχουσα Έκδοση Υλικολογισμικού</string>
+    <string name="stylus_ota_downloading_firmware">Λήψη Υλικολογισμικού</string>
+    <string name="stylus_ota_firmware_update">Ενημέρωση Υλικολογισμικού</string>
+    <string name="stylus_ota_hardware_version">Έκδοση Υλικού</string>
+    <string name="stylus_ota_latest">Τελευταία έκδοση</string>
+    <string name="stylus_ota_model">Μοντέλο</string>
+    <string name="stylus_ota_new_version">Νέα έκδοση</string>
+    <string name="stylus_ota_serial_number">Αριθμός σειράς</string>
+    <string name="stylus_ota_update">Ενημέρωση</string>
+    <string name="stylus_ota_updating">Ενημερώνεται</string>
     <string name="subscreen_title">Πίσω οθόνη</string>
     <string name="subscription_available">Διαθέσιμα</string>
     <string name="sudFontSecondary">google-sans</string>

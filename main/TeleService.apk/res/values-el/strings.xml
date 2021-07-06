@@ -2219,6 +2219,7 @@
     <string name="wapi_password_length_is_max">Ο κωδικός πρόσβασης δεν μπορεί να υπερβαίνει τους 64 χαρακτήρες σε μήκος</string>
     <string name="wapi_password_length_is_min">Ο κωδικός πρόσβασης δεν μπορεί να είναι μικρότερος από 8 χαρακτήρες σε μήκος</string>
     <string name="wapi_password_length_is_min_to_max">Ο κωδικός πρόσβασης πρέπει να είναι: 8-64 χαρακτήρες</string>
+    <string name="wfcmode_ims_preferred">Μέσω IMS</string>
     <string name="wfcmode_mobile_preferred">Μέσω Δεδομένων</string>
     <string name="wfcmode_wifi_only">Μόνο WiFi</string>
     <string name="wfcmode_wifi_preferred">Μέσω Wi-Fi</string>

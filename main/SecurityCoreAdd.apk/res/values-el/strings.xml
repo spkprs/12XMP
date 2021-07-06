@@ -442,6 +442,8 @@
     <string name="settings_notification_and_switch_second_space">Ρυθμίσεις Δεύτερου χώρου</string>
     <string name="settings_notification_from_owner_space_title">Εμφάνιση ειδοποιήσεων από τον Πρώτο χώρο</string>
     <string name="settings_notification_from_second_space_title">Εμφάνιση ειδοποιήσεων από το Δεύτερο χώρο</string>
+    <string name="settings_notification_second_space_show_in_locked_summary">Εμφάνιση ειδοποιήσεων από το Δεύτερο Χώρο στην οθόνη κλειδώματος</string>
+    <string name="settings_notification_second_space_show_in_locked_title">Εμφάνιση ειδοποιήσεων κλειδώματος οθόνης</string>
     <string name="settings_second_space_entrance_summary">Εμφάνιση συντόμευσης Δεύτερου χώρου στις Ρυθμίσεις</string>
     <string name="settings_second_space_entrance_title">Συντόμευση στις Ρυθμίσεις</string>
     <string name="settings_set_password_for_owner_space">Ορίστε ενα κλείδωμα οθόνης στον Πρώτο χώρο</string>

@@ -404,7 +404,7 @@
     <string name="open_supported_links_footer">Η εφαρμογή ζητά να χρησιμοποιήσει τους παρακάτω συνδέσμους:</string>
     <string name="other_conversations">Άλλες συνομιλίες</string>
     <string name="other_conversations_summary">Οι συνομιλίες στις οποίες έχετε κάνει αλλαγές</string>
-    <string name="permit_manage_external_storage">Να επιτρέπεται η πρόσβαση για τη διαχείριση όλων των αρχείων</string>
+    <string name="permit_manage_external_storage">Αποδοχή Πρόσβ/Διαχ αρχείων</string>
     <string name="personal_profile_app_subtext">Προσωπικό</string>
     <string name="platform_compat_dashboard_summary">Εναλλαγή αλλαγών συμβατότητας εφαρμογών</string>
     <string name="platform_compat_dashboard_title">Αλλαγές συμβατότητας εφαρμογής</string>
