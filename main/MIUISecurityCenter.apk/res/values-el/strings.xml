@@ -190,15 +190,15 @@
     <string name="antivirus_privacy_dialog_cloudscan">Αποστολή ονομ. και λεπτ. εφαρμογών</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">"Για τον αποτελεσματικότερο εντοπισμό και την εξουδετέρωση των ιών, θα αποστείλουμε τα ονόματα και τις ιδιότητες πακέτων των εφαρμογών, προκειμένου να τους σαρώσουμε χρησιμοποιώντας μια μηχανή νέφους."</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary"><Data>Το χαρακτηριστικό αυτό τροφοδοτείται από τρίτους. Για περισσότερες πληροφορίες, διαβάστε την &lt;a href=\"%1$s\">Άδεια χρήσηςt&lt;/a> που παρέχεται από τρίτους.</Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Η λειτουργία αυτή τροφοδοτείται από τρίτους. Για περισσότερες πληροφορίες, διαβάστε την &lt;a href=\"%1$s\">Άδεια χρήσης&lt;/a> που παρέχεται από τρίτους.</Data></string>
     <string name="antivirus_privacy_dialog_summary_kddi">" "<Data>"Όταν εκτελείτε σάρωση ασφαλείας, το μοντέλο συσκευής και τα αποτελέσματα σάρωσης θα αποσταλούν σε διακομιστές %1$s και θα χρησιμοποιηθούν σύμφωνα με το αντίστοιχες &lt;a href=\"%2$s\">Όροι και Προϋποθέσεις&lt;/a>.&lt;br/>&lt;br/>Διαβάστε και αποδεχτείτε τους όρους και τις προϋποθέσεις του %3$s, πριν από την εκτέλεση σαρώσεων ασφαλείας.&lt;br/>&lt;br/>Αν δεν συμφωνείτε με την αποστολή δεδομένων σε διακομιστές %4$s, μπορείτε να χρησιμοποιήσετε τους ορισμούς ιών που είναι αποθηκευμένοι τοπικά στη συσκευή σας."</Data>" "</string>
     <string name="antivirus_privacy_dialog_summary_link">Πολιτική Απορρήτου</string>
-    <string name="antivirus_privacy_dialog_summary_new"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast, AVL και Tencent. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
-    <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από AVL και Tencent. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
-    <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast και AVL. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_new"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast, AVL και Tencent. Σχετικά με τις &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από AVL και Tencent. Σχετικά με τις &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast και AVL. Σχετικά με τις &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
     <string name="antivirus_privacy_dialog_title">Πολιτική Απορρήτου</string>
     <string name="antivirus_privacy_dialog_title_kddi">Όροι και προϋποθέσεις</string>
-    <string name="antivirus_sec_network_unavailable">Η Ασφαλεία δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο Internet. Να επιτρέπετε στην Ασφάλεια η σύνδεση στο Internet;</string>
+    <string name="antivirus_sec_network_unavailable">Η Ασφαλεία δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο Internet. Επιτρέπετε στην Ασφάλεια την σύνδεση στο Internet;</string>
     <string name="antivirus_sms_check">Έλεγχος συνδέσεων στην ανταλλαγή μηνυμάτων</string>
     <string name="antivirus_sms_check_summary">Ελέγξτε τις συνδέσεις στα εισερχόμενα μηνύματα και λάβετε προειδοποιήσεις σχετικά με πιθανούς κινδύνους</string>
     <string name="antivirus_third_privacy_title">Πολιτικές απορρήτου τρίτων</string>
