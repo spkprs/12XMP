@@ -517,6 +517,7 @@
     <string name="app_sees_restricted_accounts_and_controlled_by">Αυτή η εφαρμογή έχει πρόσβαση στους λογαριασμούς σας. Ελέγχεται από %1$s</string>
     <string name="app_settings_link">Επιπλέον ρυθμίσεις στην εφαρμογή</string>
     <string name="app_switch_key">Πρόσφατα</string>
+    <string name="app_uninstall_sounds_enable_title">Ήχος κατά την Απεγκατάσταση εφαρμογών</string>
     <string name="app_usage_cycle">Κύκλος χρήσης δεδομένων εφαρμογής</string>
     <string name="app_usage_preference">Προτιμήσεις χρήσης εφαρμογής</string>
     <string name="app_version">Έκδοση</string>
@@ -2061,7 +2062,7 @@
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Διαγραφή δεδομένων δακτυλικού αποτυπώματος;</string>
     <string name="delete_rule">Κατάργηση κανόνων</string>
     <string name="delete_saved_network">Διαγραφή αποθηκευμένου δικτύου</string>
-    <string name="delete_sound_effect">Ήχος Διαγραφής</string>
+    <string name="delete_sound_effect">Ήχος κατά τη Διαγραφή αρχείων</string>
     <string name="deleted_apps">Διαγραμμένες εφαρμ.</string>
     <string name="deletion_helper_automatic_title">Αυτόματο</string>
     <string name="deletion_helper_manual_title">Εγχειρίδιο χρήσης</string>
@@ -3041,7 +3042,7 @@
     <string name="hardware_info">Μοντέλο &amp; εξοπλισμός</string>
     <string name="hardware_revision">Έκδοση εξοπλισμού</string>
     <string name="hardware_version">Έκδοση υλικού</string>
-    <string name="has_screenshot_sound">Ήχος Στιγμιότυπου</string>
+    <string name="has_screenshot_sound">Ήχος κατά τη λήψη Στιγμιότυπου</string>
     <string name="hdcp_checking_dialog_title">Ορισμός HDCP ελέγχου της συμπεριφοράς</string>
     <string name="hdcp_checking_title">HDCP έλεγχος</string>
     <string name="hdmi_3d_display_enable_summary">Ενεργοποιήστε την υποστήριξη για 3D παιχνίδια</string>
@@ -3677,6 +3678,7 @@
     <string name="lock_settings_title">Ασφάλεια συσκευής</string>
     <string name="lock_settings_with_fingerprint">Κλείδωμα οθόνης &amp; Κωδικός</string>
     <string name="lock_setup">Η ρύθμιση ολοκληρώθηκε.</string>
+    <string name="lock_sound_effect_enable_title">Ήχος κατά το Κλείδωμα συσκευής</string>
     <string name="lock_sounds_enable_title">Ήχος κλειδώματος Οθόνης</string>
     <string name="lockdown_settings_summary">Επιλογή κουμπιού λειτουργίας που απενεργοποιεί το Smart Lock, ξεκλείδωμα δακτυλικών αποτυπωμάτων και ειδοποιήσεις στην οθόνη κλειδώματος</string>
     <string name="lockdown_settings_title">Εμφάνιση επιλογής κλειδώματος</string>
@@ -6803,13 +6805,13 @@
     <string name="swipe_up_to_switch_apps_title">πλοήγηση με 2 κουμπιά</string>
     <string name="switchNetworkToast">Η σύνδεση σε δίκτυα κινητής μπορεί να δημιουργήσει πρόσθετες χρεώσεις</string>
     <string name="switch_access_service_on">Εναλλαγή Πρόσβασης</string>
-    <string name="switch_bootup_sound">Ήχος εκκίνησης</string>
+    <string name="switch_bootup_sound">Ήχος κατά την Εκκίνηση</string>
     <string name="switch_headset_anti_lost">Δεν υπάρχει ειδοπ. ακουστικών</string>
     <string name="switch_headset_anti_lost_summary">Λάβετε μια ειδοποίηση κάθε φορά που ένα από τα ακουστικά σας βρίσκεται μακριά από το αυτί ή τη θήκη φόρτισης για περισσότερο από ένα λεπτό</string>
     <string name="switch_headset_anti_lost_title">Ειδοποίηση ακουστικών</string>
     <string name="switch_off_text">Ανενεργό</string>
     <string name="switch_on_text">Ενεργό</string>
-    <string name="switch_power_sound">Ήχος φόρτισης</string>
+    <string name="switch_power_sound">Ήχος κατά την Φόρτιση</string>
     <string name="switch_screen_button_order">Αντίθετα Πλήκτρα</string>
     <string name="switch_screen_button_order_desc">Αντίθετα Πλήκτρα Πίσω και Μενού</string>
     <string name="switch_select_to_speak_on">Επιλέξτε να μιλήσετε</string>
@@ -7135,6 +7137,7 @@
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">"Παρακαλούμε ενεργοποιήστε ενα κωδικό οθόνης "</string>
     <string name="unlock_setup_wizard_fingerprint_details">Από τη στιγμή που ορίσετε ένα κλείδωμα οθόνης, μπορείτε επίσης να ορίσετε το δακτυλικό σας αποτύπωμα στις Ρυθμίσεις &gt; Ασφάλεια.</string>
+    <string name="unlock_sound_effect_enable_title">Ήχος κατά το Ξεκλείδωμα συσκευής</string>
     <string name="unlock_type_category_title">Μέθοδος αναγνώρισης</string>
     <string name="unlogin_account_summary">Ένας λογαριασμός, όλες τις υπηρεσίες MI</string>
     <string name="unlogin_account_title">Συνδεθείτε στο Λογαριασμό Mi</string>

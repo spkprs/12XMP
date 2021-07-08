@@ -493,6 +493,9 @@
     <string name="cloudfolder_name_reserved">Ο φάκελος είναι κρατημένος.</string>
     <string name="collage__talkback_effect">%d εφφέ</string>
     <string name="collage_choose">Επιλέξτε</string>
+    <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+    <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+    <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">Περιθώρια</string>
     <string name="collage_mirror">Καθρέφτης</string>
     <string name="collage_poster_global_cat_text">PAWS</string>
@@ -1856,7 +1859,7 @@
     <string name="request_sms_url_title">Συμβουλή</string>
     <string name="retry_to_create_album">Δοκιμή ξανά</string>
     <string name="retry_to_request_qr_code">Δοκιμή ξανά</string>
-    <string name="risk_control_deleted_date">MM/dd</string>
+    <string name="risk_control_deleted_date">dd/MM</string>
     <string name="risk_control_deleted_message">Κάποιος διέγραψε τα στοιχεία της συλλογής σας από το cloud χρησιμοποιώντας ένα %3$s στις %1$s στις %2$s. Εσείς ήσαστε;</string>
     <string name="risk_control_deleted_time">HH:mm</string>
     <string name="risk_control_deleted_title">Προειδοποίηση ασφαλείας</string>

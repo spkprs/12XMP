@@ -377,7 +377,7 @@
     <string name="app_express_empty_title">δεν υπάρχουν τελευταίες πληροφορίες για τον μεταφορέα.</string>
     <string name="app_express_send">στείλτε με courier.</string>
     <string name="app_express_tail_number">Αριθμός τερματισμού Waybill：%1$s</string>
-    <string name="app_first_loading_txt">Φόρτωση έξυπνων καρτών...</string>
+    <string name="app_first_loading_txt">Μισό λεπτό...</string>
     <string name="app_footer_switcher">Μετάβαση στην παλιά έκδοση</string>
     <string name="app_health_card_completion">Πρόοδος</string>
     <string name="app_health_card_energy">Θερμίδες</string>
