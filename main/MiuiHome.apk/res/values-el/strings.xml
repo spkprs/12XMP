@@ -491,6 +491,7 @@
     <string name="navigation_guide_hide_gesture_line_title">Απόκρυψη ένδειξης Πλήρους οθόνης</string>
     <string name="navigation_guide_home_summary">Σύρετε επάνω από το κάτω μέρος της οθόνης</string>
     <string name="navigation_guide_home_title">Αρχική οθόνη</string>
+    <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Προβολή περισσότερων στις Ρυθμίσεις > Αρχική οθόνη > Βασικές επιλογές > Πλοήγηση Συστήματος</string>
     <string name="navigation_guide_recent_summary">Σύρετε επάνω από κάτω και κρατήστε το.</string>
     <string name="navigation_guide_recent_title">Πρόσφατα</string>
     <string name="navigation_guide_settings">Παραδείγματα χειρονομιών</string>

@@ -88,8 +88,8 @@
     <string name="last_sent_time_second">Μόλις τώρα</string>
     <string name="list_title_disable_notification">Δεν επιτρέπονται ειδοπ/σεις</string>
     <string name="loading">Μισό λεπτό.…</string>
-    <string name="lock_screen_display_rules">Τύπος</string>
-    <string name="lock_screen_tip_toast">Επιτρέψτε τις ειδοπ/σεις οθόνης κλειδώματος σε \"Τύπο\".</string>
+    <string name="lock_screen_display_rules">Είδος</string>
+    <string name="lock_screen_tip_toast">Επιτρέψτε τις ειδοπ/σεις οθόνης κλειδώμ. απο το \"Είδος\".</string>
     <string name="lockscreen_notifications">Οθόνη κλειδώματος</string>
     <string name="lockscreen_notifications_short">Οθόνη κλειδώματος</string>
     <string name="menu_setting_aggregatation_feedback">Επιλογές ομαδοποίησης</string>
@@ -222,9 +222,9 @@
     <string name="notification_fold_footer_icon_title">Εμφάνιση εικονιδίων εφαρμογών</string>
     <string name="notification_fold_summary">Όλες οι ασήμαντες ειδοπ/σεις θα εμφανίζονται σε έναν ξεχωριστό φάκελο</string>
     <string name="notification_fold_title">Φάκελος ειδοποιήσεων</string>
-    <string name="notification_keyguard_hide_content">Εμφάνιση ειδοποιήσεων αλλά απόκρυψη περιεχομένου</string>
-    <string name="notification_keyguard_show_content">Εμφάνιση ειδοποίησης και περιεχομένου</string>
-    <string name="notification_keyguard_show_nothing">"Να μην εμφανίζονται ειδοποιήσεις σε κλειδωμένη οθόνη"</string>
+    <string name="notification_keyguard_hide_content">Ειδοπ. με απόκρ. περιεχομένου</string>
+    <string name="notification_keyguard_show_content">Ειδοποίηση και περιεχόμενο</string>
+    <string name="notification_keyguard_show_nothing">"Χωρίς ειδοπ. σε κλειδωμένη οθόνη"</string>
     <string name="notification_manager">Ειδοποιήσεις εφαρμογών</string>
     <string name="notification_setting_menu_feedback_text">Αυτή η ειδοποίηση δεν πρέπει να βρίσκεται εδώ;\nΑναφορά αυτού του θέματος</string>
     <string name="notification_style_android">Android</string>
