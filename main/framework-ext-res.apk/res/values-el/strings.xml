@@ -329,7 +329,7 @@
     <string name="translation_query_error_network">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις και προσπαθήστε ξανά</string>
     <string name="trial_mode_dialog_button_cancel">Ακύρωση</string>
     <string name="trial_mode_dialog_button_save">Αποθήκευση</string>
-    <string name="trial_mode_dialog_message">\"%s\" εκτελείται σε Δοκιμαστική λειτουργία. Η επανεκκίνηση της συσκευής σας ή η μετάβαση σε λειτουργία Light speed θα διαγράψει αυτό το παιχνίδι. Αποθήκευση του παιχνιδιού στην εσωτερική αποθήκευση;</string>
+    <string name="trial_mode_dialog_message">\"%s\" εκτελείται σε Δοκιμαστική λειτουργία. Η επανεκκίνηση της συσκευής σας ή η μετάβαση σε λειτουργία Light speed θα διαγράψει αυτό το παιχνίδι. Αποθήκευση του παιχνιδιού στον Εσωτερικό χώρο αποθήκευσης;</string>
     <string name="trial_mode_dialog_title">Δοκιμαστική λειτουργία</string>
     <string name="turn_on_work_profile">Ενεργοποίηση</string>
     <string name="turn_off">Απενεργοποίηση</string>

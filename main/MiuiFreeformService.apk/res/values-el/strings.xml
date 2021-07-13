@@ -3,6 +3,8 @@
     <string name="app_name">Αιωρούμενα παράθυρα</string>
     <string name="bottom_bar_smallwindow_text">Καρφίτσωμα</string>
     <string name="contentDescription">Μετακίνηση του παραθύρου</string>
+    <string name="copy">Αντιγραφή</string>
+    <string name="expand_button_title">Προχωρημένες</string>
     <string name="freeform_demo_back">Πίσω</string>
     <string name="freeform_demo_final_over">Τέλος</string>
     <string name="freeform_demo_final_restart">Ξεκινήστε από την αρχή</string>
@@ -29,4 +31,8 @@
     <string name="how_to_slide_up_to_close">Κλείσιμο</string>
     <string name="how_to_slide_up_to_close_summary">Σάρωση προς τα επάνω από τη γραμμή ενεργειών ενός Αιωρούμενου παραθύρου</string>
     <string name="how_to_use_freeform">Τρόπος χρήσης των Αιωρούμενων παραθύρων</string>
+    <string name="not_set">Δεν ρυθμίστηκε</string>
+    <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
 </resources>
