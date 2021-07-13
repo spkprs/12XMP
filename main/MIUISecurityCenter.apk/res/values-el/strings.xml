@@ -2362,7 +2362,7 @@
     <string name="notification_channel_battery">Μπαταρία</string>
     <string name="notification_checker_installed_apk_hint">Περιττή η διατήρησή τους</string>
     <string name="notification_enter_power_save_mode_subtitle">Απεν/ση όταν είναι %s ή πλήρως φορτισμένη</string>
-    <string name="notification_enter_power_save_mode_title">Ενεργοποιήθηκε η εξοικονόμηση μπαταρίας</string>
+    <string name="notification_enter_power_save_mode_title">Ενεργή η εξοικον. μπατ.</string>
     <string name="notification_exit_power_save_mode">Απεν/ση Υπέρ εξοικ μπαταρίας</string>
     <string name="notification_exit_power_save_mode_full_subtitle">Η συσκευή σας είναι πλήρως φορτισμένη</string>
     <string name="notification_exit_power_save_mode_now">Απεν/ση</string>
@@ -2577,10 +2577,11 @@
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Συνολική κατανάλωση</string>
     <string name="pc_battery_history_usetime_title">Ενεργό</string>
+    <string name="pc_hidemode_normal">Κανονική</string>
     <string name="pc_hidemode_normal_title">Κανονική</string>
     <string name="pc_hidemode_performance">Απόδοση</string>
     <string name="pc_hidemode_performance_title">Λειτουργία απόδοσης</string>
-    <string name="pc_hidemode_power_save">Ισχύς</string>
+    <string name="pc_hidemode_power_save">Εξοικονόμηση</string>
     <string name="pc_install_manager">Εγκατάσταση μέσω USB</string>
     <string name="pc_main_activity_back">Πίσω</string>
     <string name="pc_main_battery_text_day">Προστέθηκαν %1$sΛεπ, περίπου %2$sΗμ απομένουν</string>
@@ -2951,10 +2952,10 @@
     <string name="power_save_ps_close_setting_7">Απενεργοποίηση υπηρεσιών και λειτουργιών με υψηλή κατανάλωση ενέργειας (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
     <string name="power_save_ps_close_setting_dclickwakeup">\"Διπλό άγγιγμα για ενεργ-απενεργοποίηση οθόνης\"</string>
     <string name="power_save_ps_close_setting_fingeraod">\"Εμφάνιση εικον. δακτυλ. αποτυπώματος σε ανενεργή οθόνη\"</string>
-    <string name="power_save_ps_close_setting_gps">GPS</string>
-    <string name="power_save_ps_close_setting_haptic">Απτικά σχόλια</string>
+    <string name="power_save_ps_close_setting_gps">\"GPS\"</string>
+    <string name="power_save_ps_close_setting_haptic">\"Απτικά σχόλια\"</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"Ανύψωση για αφύπνιση\"</string>
-    <string name="power_save_ps_close_setting_sync">Συγχρονισμός</string>
+    <string name="power_save_ps_close_setting_sync">\"Συγχρονισμός\"</string>
     <string name="power_save_ps_description_title">Η εξοικονόμηση μπαταρίας ενεργοποιεί τους ακόλουθους περιορισμούς:</string>
     <string name="power_save_ps_freeze">Πάγωμα εφαρμογών παρασκηνίου</string>
     <string name="power_save_ps_limit">Περιορισμός δραστηριότητας των εφαρμογών συστήματος</string>
