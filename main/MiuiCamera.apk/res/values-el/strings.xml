@@ -1430,7 +1430,7 @@
     <string name="pref_watermark_title">Υδατογράφημα</string>
     <string name="pref_wind_denoise_default">Ενεργό</string>
     <string name="pref_wind_denoise_title">Φίλτρο αέρα</string>
-    <string name="prek_b_j_o">Δημιουργήστε στερεοφωνικό εφέ περιβάλλοντος</string>
+    <string name="prek_b_j_o">Ενεργοποιήστε για αναδημιουργία στερεοφωνικού εφέ περιβάλλοντος. Μεταβείτε σε οριζόντια λειτουργία ή συνδέστε ακουστικά για βέλτιστο αποτέλεσμα.</string>
     <string name="prek_b_j_p">Μειώστε την επίδραση του ανέμου στην ηχογράφηση</string>
     <string name="prep_video_ai_audio_new_desc_tip">Ενισχύονται οι ήχοι από το επίκεντρο του θέματος</string>
     <string name="prep_video_ai_audio_new_desc_tip_alone">Οι ήχοι από το θέμα στο επίκεντρο ενισχύονται σε οριζόντια λειτουργία</string>

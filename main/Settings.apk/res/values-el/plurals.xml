@@ -521,4 +521,8 @@
       <item quantity="other">Λάβετε ειδοποίηση κάθε φορά που ένα ακουστικό σας βρίσκεται μακριά από το αυτί ή την θήκη φόρτισης για περισσότερο από %d λεπτά</item>
       <item quantity="one">Λάβετε μια ειδοποίηση κάθε φορά που ένα ακουστικό σας βρίσκεται μακριά από το αυτί ή την θήκη φόρτισης για περισσότερο από %d λεπτό</item>
   </plurals>
+  <plurals name="color_game_led_freq_entries">
+    <item quantity="other">Κάθε %d δευτ</item>
+    <item quantity="one">Κάθε %d δευτ</item>
+  </plurals>
 </resources>

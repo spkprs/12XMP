@@ -2989,6 +2989,7 @@
     <string name="power_superpower_title_systemui_lowpower">Σύνδεση φορτιστή</string>
     <string name="power_wifi">Wi‑Fi</string>
     <string name="power_wireless_need_update_text">Ενημερώνεται…</string>
+    <string name="power_wireless_ubable_update_toast">"Αδύνατη η ενημέρωση του υλικολογισμικού κατά την ασύρματη φόρτιση"</string>
     <string name="power_wireless_update_button_text">Ενημέρωση</string>
     <string name="power_wireless_update_dialog_button">Κατανοητό</string>
     <string name="power_wireless_update_dialog_message">Φορτίστε τη συσκευή σας τουλάχιστον %s για να ενημερώσετε το υλικολογισμικό ασύρματης φόρτισης.</string>
