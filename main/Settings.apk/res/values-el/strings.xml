@@ -1084,7 +1084,7 @@
     <string name="bluetooth_pairing_accept">Σύζευξη</string>
     <string name="bluetooth_pairing_accept_all_caps">ΣΥΖΕΥΞΗ</string>
     <string name="bluetooth_pairing_add_to_blackfile">Αποκλεισμός</string>
-    <string name="bluetooth_pairing_decline">Άκυρον</string>
+    <string name="bluetooth_pairing_decline">Ακύρωση</string>
     <string name="bluetooth_pairing_device_down_error_message">Αδύνατη η επικοινωνία με το %1$s</string>
     <string name="bluetooth_pairing_dialog_contants_request">Το %1$s ζητά πρόσβαση στις επαφές σας και το ιστορικό κλήσεων.</string>
     <string name="bluetooth_pairing_dialog_paring_request">Το %1$s θέλει σύζευξη Bluetooth. Όταν συνδεθεί, θα έχει πρόσβαση στις επαφές σας και το ιστορικό κλήσεων.</string>
@@ -7332,11 +7332,11 @@
     <string name="usb_use_charging_only_desc">Φορτίστε απλώς τη συσκευή</string>
     <string name="usb_use_file_transfers">Μεταφορά αρχείων (MTP)</string>
     <string name="usb_use_file_transfers_desc">Μεταφορά αρχείων σε μια άλλη συσκευή</string>
-    <string name="usb_use_file_transfers_miui12_5">Μεταφορές αρχείων</string>
+    <string name="usb_use_file_transfers_miui12_5">Μεταφορά αρχείων</string>
     <string name="usb_use_miui12_5">Χρήση USB για</string>
-    <string name="usb_use_photo_transfers">Μεταφορά φωτογραφιών (PTP)</string>
-    <string name="usb_use_photo_transfers_desc">Μεταφορά φωτογραφιών ή αρχείων, εάν δεν υποστηρίζεται το MTP (PTP)</string>
-    <string name="usb_use_photo_transfers_miui12_5">Μεταφορές φωτογραφιών</string>
+    <string name="usb_use_photo_transfers">Μεταφορά εικόνων (PTP)</string>
+    <string name="usb_use_photo_transfers_desc">Μεταφορά εικόνων ή αρχείων, εάν δεν υποστηρίζεται το MTP (PTP)</string>
+    <string name="usb_use_photo_transfers_miui12_5">Μεταφορές εικόνων</string>
     <string name="usb_use_power_only">Παροχή ρεύματος</string>
     <string name="usb_use_tethering">Σύνδεση USB</string>
     <string name="use_control_panel">Χρήση νέου Κέντρου Ελέγχου</string>
