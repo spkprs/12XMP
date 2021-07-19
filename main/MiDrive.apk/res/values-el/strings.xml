@@ -289,7 +289,7 @@
     <string name="micloud_space_applist_detail">Μπορείτε να δείτε την Αρχική οθόνη διάταξη αντιγράφων ασφαλείας για το κινητό σας συσκευή.</string>
     <string name="micloud_space_duokan_detail">Ανοίξτε το Duokan στο τηλέφωνό σας και μεταβείτε στο bookshelf - Χώρος αποθήκευσης στο cloud για να διαχειριστείτε το χώρο αποθήκευσης.\nΒεβαιωθείτε ότι χρησιμοποιείτε τον τρέχοντα λογαριασμό Mi ως λογαριασμό συστήματος MIUI.</string>
     <string name="micloud_space_duokan_title">Duokan χώρος αποθήκευσης</string>
-    <string name="micloud_space_soundrecorder_detail">Ανοίξτε την εφαρμογή Recorder στο τηλέφωνό σας και επιλέξτε το φάκελο με τα στοιχεία που είναι αποθηκευμένα στο cloud.\nΒεβαιωθείτε ότι χρησιμοποιείτε τον τρέχοντα λογαριασμό Mi ως λογαριασμό συστήματος MIUI.</string>
+    <string name="micloud_space_soundrecorder_detail">Ανοίξτε την εφαρμογή εγγραφής στην συσκευή σας και επιλέξτε τον φάκελο με τα στοιχεία που είναι αποθηκευμένα στο cloud.\nΒεβαιωθείτε ότι χρησιμοποιείτε τον τρέχοντα λογαριασμό Mi ως λογαριασμό συστήματος MIUI.</string>
     <string name="micloud_space_soundrecorder_title">Ηχογραφήσεις</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>

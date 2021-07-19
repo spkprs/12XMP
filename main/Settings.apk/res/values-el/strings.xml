@@ -2769,6 +2769,8 @@
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Η εγκατεστημένη εφαρμογή δεν θα μπορέσει να συνδεθεί στο διαδίκτυο χρησιμοποιώντας Wi-Fi όταν αυτός ο διακόπτης είναι απενεργοποιημένος.</string>
     <string name="firmware_version">Έκδοση Android</string>
+    <string name="fiveg_sa_switch_summary">Ενεργοποίηση λειτουργίας SA του Vice SIM, μόνο για δοκιμή</string>
+    <string name="fiveg_sa_vice_switch_title">SA για τη δεύτερη SIM</string>
     <string name="flash_drive_backup_disable">Συνδέστε πρώτα τη μονάδα USB</string>
     <string name="flash_drive_backup_enable">Χρησιμοποιήστε μια μονάδα USB για δημιουργία αντιγράφων ασφαλείας ή επαναφορά στοιχείων</string>
     <string name="flash_drive_backup_restore">Δημιουργία αντιγρ ή επαναφ σε USB</string>
@@ -6760,6 +6762,8 @@
     <string name="style_suggestion_title">Προσαρμόστε το Pixel σας</string>
     <string name="stylus_ota_check_update">Έλεγχος για Ενημερώσεις</string>
     <string name="stylus_ota_current_firmware_version">Έκδοση Υλικολογισμικού</string>
+    <string name="stylus_ota_demands">Κρατήστε αυτήν τη συσκευή συνδεδεμένη στη γραφίδα μέσω Bluettoth. Και οι δύο συσκευές να είναι φορτισμένες κατά %1$s στην διάρκεια ενημέρωσης.</string>
+    <string name="stylus_ota_download_failed">"Αδυναμία λήψης υλικολογισμικού"</string>
     <string name="stylus_ota_downloading_firmware">Λήψη Υλικολογισμικού</string>
     <string name="stylus_ota_firmware_update">Ενημέρωση Υλικολογισμικού</string>
     <string name="stylus_ota_hardware_version">Έκδοση Υλικού</string>
@@ -6767,7 +6771,9 @@
     <string name="stylus_ota_model">Μοντέλο</string>
     <string name="stylus_ota_new_version">Ενημέρωση</string>
     <string name="stylus_ota_serial_number">Αριθμός σειράς</string>
+    <string name="stylus_ota_timeout_failed">Λήξη χρονικού ορίου</string>
     <string name="stylus_ota_update">Ενημέρωση</string>
+    <string name="stylus_ota_update_failed">"Αδύνατη η ενημέρωση του υλικολογισμικού"</string>
     <string name="stylus_ota_updating">Ενημερώνεται...</string>
     <string name="subscreen_title">Πίσω οθόνη</string>
     <string name="subscription_available">Διαθέσιμα</string>

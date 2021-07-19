@@ -3052,13 +3052,13 @@
     <string name="pp_privacy_lab_blur_location_summary">Καταργήστε την εξατομίκευση των πληροφοριών θέσης σας, επιτρέποντας στις εφαρμογές να έχουν πρόσβαση στην κατά προσέγγιση θέση σας</string>
     <string name="pp_privacy_lab_clipboard">Προστασία προχείρου</string>
     <string name="pp_privacy_lab_clipboard_summary">Αφήστε το Miui να αποφασίσει αν μια εφαρμογή μπορεί να έχει πρόσβαση στο πρόχειρο και να λαμβάνει ειδοποιήσεις όταν το κάνει</string>
-    <string name="pp_privacy_lab_operator_get_number">Να απαιτείται έγκριση για την πρόσβαση στον αριθμό τηλεφώνου</string>
+    <string name="pp_privacy_lab_operator_get_number">Απαίτηση έγκρισης για πρόσβαση στον αριθμό τηλεφώνου</string>
     <string name="pp_privacy_lab_operator_get_number_summary">Να απαιτείται από τις εφαρμογές να ζητούν την άδειά σας όταν θέλουν να αποκτήσουν πρόσβαση στον αριθμό τηλεφώνου σας για είσοδο</string>
     <string name="pp_privacy_lab_operator_introduction">Προσοχή</string>
     <string name="pp_privacy_lab_operator_introduction_summary">"Οι εφαρμογές μπορεί να αποθηκεύσουν τον αριθμό τηλεφώνου σας, αν έχει ληφθεί προηγουμένως. Η αλλαγή αυτού του δικαιώματος δεν θα διαγράψει τους αριθμούς τηλεφώνου που αποκτήθηκαν προηγουμένως."</string>
     <string name="pp_privacy_protection">Προστασία</string>
     <string name="pp_privacy_protection_function">Λειτουργίες Απορρήτου</string>
-    <string name="pp_privacy_protection_lab">Εργαστήριο προστασίας προσωπικών δεδομένων</string>
+    <string name="pp_privacy_protection_lab">Εργαστήριο Προστασίας Απορρήτου</string>
     <string name="pp_privacy_protection_lab_summary">Κρατήστε τα πράγματα ιδιωτικά</string>
     <string name="pp_privacy_risk_detection">Εντοπισμ. κινδ. απορρήτου</string>
     <string name="pp_privacy_risk_detection_detail">Αυτόματη ανίχνευση κινδύνων απορρήτου και λήψη συστάσεων σχετικά με μέτρα προστασίας</string>

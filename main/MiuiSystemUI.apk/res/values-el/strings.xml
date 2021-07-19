@@ -852,6 +852,8 @@
     <string name="fingerprint_not_recognized">Μη αναγνωρίσιμο</string>
     <string name="fingerprint_try_again_msg">Αδυναμία επαλήθευσης Δακτυλικού αποτυπώματος. Δοκιμάστε ξανά.</string>
     <string name="fingerprint_try_again_text">Προσπαθήστε ξανά</string>
+    <string name="fiveg_sa_switch_summary">Ενεργοποίηση λειτουργίας SA του Vice SIM, μόνο για δοκιμή</string>
+    <string name="fiveg_sa_vice_switch_title">SA για τη δεύτερη SIM</string>
     <string name="float_incall_ignore">Αγνόηση</string>
     <string name="float_incall_message">Μήνυμα</string>
     <string name="float_notification_snooze_strategy">Προσωρινή απόκρυψη κινητής ειδοποίησης</string>
@@ -1664,7 +1666,7 @@
     <string name="phone_locked_foget_password_method_content"><Data>Πρέπει να &lt;font color=#a5220e>διαγράφούν όλα τα δεδομένα&lt;/font> από τη συσκευή σας, συμπεριλαμβανομένων των φωτογραφιών και των επαφών και μετά να ορίσετε ένα νέο κωδικό κλειδώματος Οθόνης.</Data></string>
     <string name="phone_locked_foget_password_method_next">Επόμενο</string>
     <string name="phone_locked_foget_password_ok">Το κατάλαβα</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Απενεργοποιήστε τη συσκευή σας και πατήστε παρατεταμένα το &lt;font color=#a5220e>Κουμπί Λειτουργίας &lt;/font> και το &lt;font color=#a5220e>Κουμπί αύξησης Έντασης &lt;/font> ταυτόχρονα μέχρι να δείτε το Mi logo.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Απενεργοποιήστε τη συσκευή σας και πατήστε παρατεταμένα το &lt;font color=#e6e6e6>[Κουμπί Λειτουργίας] &lt;/font>  και το &lt;font color=#e6e6e6>[Κουμπί Έντασης +] &lt;/font> ταυτόχρονα μέχρι να δείτε το &lt;img src=\"\">.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Επιλέξτε &lt;font color=#a5220e>\"Καθαρισμό και Επαναφορά\" &lt;/font> και περιμένετε μέχρι η συσκευή να επανεκκινήσει.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Πως διαγράφονται τα δεδομένα;</string>
     <string name="phone_locked_string">Το τηλέφωνο έχει κλειδωθεί</string>

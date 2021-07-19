@@ -345,6 +345,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Ξεκινήστε να πληκτρολογείτε "</string>
     <string name="note_mindnote_entrance_icon_text">Δημιουργήστε έναν χάρτη mind</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Δημιουργία χάρτη μυαλού</string>
+    <string name="note_not_text_stub">Χωρίς κείμενο</string>
     <string name="note_sort_way">Ταξινόμηση σημειώσεων</string>
     <string name="notealert_enter">Ρίξτε μια ματιά</string>
     <string name="notealert_ok">Το κατάλαβα</string>
@@ -618,6 +619,7 @@
     <string name="toast_notes_delete_success">Επιτυχής διαγραφή</string>
     <string name="toast_notes_hidden_edit">Αυτή η Σημείωση ήταν κρυφή επιτυχώς. Τραβήξτε προς τα κάτω για να δείτε τις κρυφές σημειώσεις.</string>
     <string name="toast_notes_hidden_home">Αυτή η Σημείωση ήταν κρυφή επιτυχώς. Τραβήξτε προς τα κάτω για να δείτε τις κρυφές σημειώσεις.</string>
+    <string name="toast_notes_hidden_pad">Αυτή η σημείωση είναι κρυφή τώρα. Σύρετε προς τα κάτω τον πλαϊνό πίνακα για να δείτε τις κρυφές σημειώσεις.</string>
     <string name="toast_notes_unhidden">Επιτυχής επανεμφάνιση</string>
     <string name="toast_pic_is_not_really">Αποθήκευση εικόνας…</string>
     <string name="toast_reach_text_limit_attachment">Το περιεχόμενο του σημειώματος είναι πολύ μεγάλο για να προσθέσετε νέα συνημμένα.</string>
@@ -717,7 +719,10 @@
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">W</string>
     <string name="widget_content_loading">Φόρτωση…</string>
+    <string name="widget_create_select_size">Επιλογή μεγέθους</string>
+    <string name="widget_empty_content">Πατήστε για επιλογή μιας σημείωσης</string>
     <string name="widget_havenot_content">Χωρίς περιεχόμενο. Αγγίξτε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, αγγίξτε παρατεταμένα &amp; σύρετε μία άκρη.</string>
+    <string name="widget_note_list_page_title">Επιλογή σημείωσης</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Οχι τώρα</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>

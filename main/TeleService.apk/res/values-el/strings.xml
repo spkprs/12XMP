@@ -1721,7 +1721,7 @@
     <string name="reject_via_sms_summary">Εμφάνιση πλήκτρων για τον τερματισμό κλήσης και αποστολής SMS</string>
     <string name="reject_via_sms_title">Γρήγορες απαντήσεις</string>
     <string name="relay_call_answered_by_other_devices">Αυτή η κλήση απαντήθηκε σε άλλη συσκευή.</string>
-    <string name="relay_call_released_due_to_connect_lost">Η σύνδεση χάθηκε. Συνεχίστε με την κλήση στην αποσυνδεδεμένη συσκευή.</string>
+    <string name="relay_call_released_due_to_connect_lost">Η σύνδεση χάθηκε. Συνεχίστε με την κλήση στην άλλη συσκευή σας.</string>
     <string name="relay_connection_service_label">Ενσωματωμένες κλήσεις RELAY</string>
     <string name="remaining_length_format">%1$s υπόλοιπο</string>
     <string name="remove">Διαγραφή</string>

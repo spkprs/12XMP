@@ -362,12 +362,14 @@
     <string name="edit_event_title_edit_birthday">Επεξεργασία γενεθλίων</string>
     <string name="edit_event_title_edit_countdown">Επεξ. αντίστρ. μέτρησης</string>
     <string name="edit_event_to_label">ΕΩΣ</string>
+    <string name="ee_dd_short_month">EEE, dd MMM</string>
+    <string name="eee_dd_long_month">EEEE, dd MMMM</string>
     <string name="electricity_amount_label">用电量：%s</string>
     <string name="electricity_bill_event_title">电费缴费</string>
     <string name="electricity_detail_title">缴费信息</string>
     <string name="electricity_event_delete_successfully">电费缴费事件删除成功</string>
     <string name="email_guests_label">Email σε επισκέπτες</string>
-    <string name="email_install_hint">Mail has been uninstalled. Install Mail again to restore calendar accounts or add a new one.</string>
+    <string name="email_install_hint">Το Mail έχει καταργηθεί. Εγκαταστήστε ξανά το Mail για να επαναφέρετε λογαριασμούς ημερολογίου ή να προσθέσετε νέο.</string>
     <string name="email_picker_label">Email με</string>
     <string name="email_subject_prefix">"Απ: "</string>
     <string name="empty_event">Άδειο γεγονός δεν δημιουργήθηκε</string>
@@ -1376,6 +1378,8 @@
     <string name="work_day_indication">: (</string>
     <string name="work_day_indication_chinese_calendar">班</string>
     <string name="wuxing">πέντε</string>
+    <string name="xiaomi_calendar_delete_description">Το \"Ημερολόγιο\" είναι μια εφαρμογή συστήματος που σας επιτρέπει να δημιουργείτε και να διαχειρίζεστε συμβάντα. Μερικές από τις λειτουργίες του θα παραμείνουν διαθέσιμες αφού αφαιρέσετε τη συντόμευση στην Αρχική οθόνη.</string>
+    <string name="xiaomi_calendar_delete_title">Αφαίρεση του \"Ημερολογίου\" από την αρχική οθόνη;</string>
     <string name="xiaomi_calendar_display_name">Ημερολόγιο</string>
     <string name="xingxiu">Alphard</string>
     <string name="year_indicator_month">农历初一</string>
