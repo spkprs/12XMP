@@ -853,5 +853,17 @@
         <item quantity="other">Μείωση της φωτεινότητας οθόνης αυτόματα για εξοικονόμηση ενέργειας μετά από %d λεπ. αδράνειας</item>
         <item quantity="one">Μείωση της φωτεινότητας οθόνης αυτόματα για εξοικονόμηση ενέργειας μετά από %d λεπ. αδράνειας</item>
     </plurals>
+    <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Έχετε μόνο %d προσπάθεια για επαλήθευση της SIM PUK σας. Αν φτάσετε το όριο για την εισαγωγή λανθασμένων PUKs, η κάρτα SIM σας θα ακυρωθεί. Συνεχίζετε;</item>
+        <item quantity="one">Έχετε μόνο %d προσπάθεια για επαλήθευση της SIM PUK σας. Αν φτάσετε το όριο για την εισαγωγή λανθασμένων PUKs, η κάρτα SIM σας θα ακυρωθεί. Συνεχίζετε;</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">Το PIN που πληκτρολογήσατε είναι εσφαλμένο. %d προσπάθειες απομένουν.</item>
+        <item quantity="one">Το PIN που πληκτρολογήσατε είναι εσφαλμένο. %d προσπάθεια απομένει.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Εισάγετε SIM PUK. Απομένουν %d προσπάθειες.</item>
+        <item quantity="one">Εισάγετε SIM PUK. Απομένουν %d προσπάθεια.</item>
+    </plurals>
 </resources>
 

@@ -281,7 +281,7 @@
     <string name="fast_connect_wbs_name">Ασύρματο ηχείο φορτιστή Mi</string>
     <string name="fast_connect_wbs_reset">Παρατεταμένα το επάνω κουμπί για %1$s δευτ. κατά την απενεργοποίηση</string>
     <string name="feiyu_vlog_name">Τσέπη Feiyu VLOG</string>
-    <string name="fiveg_sa_switch_summary">Ενεργοποίηση λειτουργίας SA του Vice SIM, μόνο για δοκιμή</string>
+    <string name="fiveg_sa_switch_summary">Χρήση δικτύου SA στην δεύτερη SIM (μόνο για δοκιμή)</string>
     <string name="fiveg_sa_vice_switch_title">SA για τη δεύτερη SIM</string>
     <string name="force_allow_on_external">Επιβολή δυνατότητας εγγραφής εφαρμογών σε εξωτερικό χώρο αποθήκευσης</string>
     <string name="force_allow_on_external_summary">Μετατρέπει οποιαδήποτε εφαρμογή είναι κατάλληλη για εγγραφή σε εξωτερικό χώρο αποθήκευσης, ανεξάρτητα από τις τιμές διακήρυξης</string>
