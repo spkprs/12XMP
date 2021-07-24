@@ -19,15 +19,15 @@
     <item quantity="other">Σύντομα</item>
   </plurals>
   <plurals name="abbrev_in_num_minutes">
-    <item quantity="other">Σε %d λεπτά</item>
-    <item quantity="one">Σε %d λεπτό</item>
+    <item quantity="other">Σε %d λεπ</item>
+    <item quantity="one">Σε %d λεπ</item>
   </plurals>
   <plurals name="abbrev_less_than_one_minute_ago">
     <item quantity="other">Μόλις τώρα</item>
   </plurals>
   <plurals name="abbrev_num_minutes_ago">
-    <item quantity="other">%d λεπτά πριν</item>
-    <item quantity="one">%d λεπτό πριν</item>
+    <item quantity="other">%d λεπ πριν</item>
+    <item quantity="one">%d λεπ πριν</item>
   </plurals>
   <plurals name="add_secret_ensure_message">
     <item quantity="other">Προσθήκη αυτών των στοιχείων στο ιδιωτικό άλμπουμ;</item>
@@ -46,32 +46,32 @@
     <item quantity="one">" %2$d αδύνατη η προσθήκη στοιχείου στο ιδιωτικό άλμπουμ. %1$s."</item>
   </plurals>
   <plurals name="age_day">
-    <item quantity="other">%d ημέρες</item>
-    <item quantity="one">%d ημέρα</item>
+    <item quantity="other">%d ημ</item>
+    <item quantity="one">%d ημ</item>
   </plurals>
   <plurals name="age_month">
     <item quantity="other">%d μήνες</item>
     <item quantity="one">%d μήνα</item>
   </plurals>
   <plurals name="age_year">
-    <item quantity="other">%d χρόνια</item>
-    <item quantity="one">%d χρόνο</item>
+    <item quantity="other">%d χρ</item>
+    <item quantity="one">%d χρ</item>
   </plurals>
   <plurals name="album_already_share_user_count">
     <item quantity="other">Μοιράστηκε ήδη σε %d άτομα</item>
     <item quantity="one">Μοιράστηκε ήδη σε %d άτομο</item>
   </plurals>
   <plurals name="album_count">
-    <item quantity="other">%d φωτογραφίες</item>
-    <item quantity="one">%d φωτογραφία</item>
+    <item quantity="other">%d φωτο</item>
+    <item quantity="one">%d φωτο</item>
   </plurals>
   <plurals name="album_count_and_size">
-    <item quantity="other">%1$d στοιχεία | %2$s</item>
-    <item quantity="one">%1$d στοιχείο | %2$s</item>
+    <item quantity="other">%1$d στοιχ | %2$s</item>
+    <item quantity="one">%1$d στοιχ | %2$s</item>
   </plurals>
   <plurals name="album_item_msg_format">
-    <item quantity="other">(%d στοιχεία συνολικά)</item>
-    <item quantity="one">(%d στοιχείο συνολικά)</item>
+    <item quantity="other">(%d στοιχ συνολικά)</item>
+    <item quantity="one">(%d στοιχ συνολικά)</item>
   </plurals>
   <plurals name="album_item_msg_format_new">
     <item quantity="one">%d άλμπουμ</item>
@@ -82,60 +82,60 @@
     <item quantity="one">%s χρήστης μπορεί να δουν αυτό το άλμπουμ</item>
   </plurals>
   <plurals name="album_photo_count_text">
-    <item quantity="other">%1$d στοιχεία</item>
-    <item quantity="one">%1$d στοιχείο</item>
+    <item quantity="other">%1$d στοιχ</item>
+    <item quantity="one">%1$d στοιχ</item>
   </plurals>
   <plurals name="baby_album_sharer_recommand_new_pictures">
-    <item quantity="other">%1$d φωτογραφίες του %2$s θα προστεθούν</item>
-    <item quantity="one">%1$d φωτογραφία του %2$s θα προστεθεί</item>
+    <item quantity="other">%1$d φωτο του %2$s θα προστεθούν</item>
+    <item quantity="one">%1$d φωτ του %2$s θα προστεθεί</item>
   </plurals>
   <plurals name="baby_album_sharer_recommand_old_pictures">
-    <item quantity="other">%1$d φωτογραφίες του %2$s θα προστεθούν</item>
-    <item quantity="one">%1$d φωτογραφία του %2$s θα προστεθεί</item>
+    <item quantity="other">%1$d φωτο του %2$s θα προστεθούν</item>
+    <item quantity="one">%1$d φωτο του %2$s θα προστεθεί</item>
   </plurals>
   <plurals name="backup_after_hours">
-    <item quantity="other">Επανάληψη αντιγράφων σε %d ώρες</item>
-    <item quantity="one">Επανάληψη αντιγράφων σε %d ώρα</item>
+    <item quantity="other">Επανάληψη αντιγρ σε %d ώρες</item>
+    <item quantity="one">Επανάληψη αντιγρ σε %d ώρα</item>
   </plurals>
   <plurals name="backup_file_over_size_title">
     <item quantity="other">%d στοιχεία είναι πολύ μεγάλα για αντίγραφα</item>
     <item quantity="one">%d στοιχείο είναι πολύ μεγάλο για αντίγραφο</item>
   </plurals>
   <plurals name="backup_pause_desc">
-    <item quantity="other">Θα συνεχιστεί σε %d λεπτά</item>
-    <item quantity="one">Θα συνεχιστεί σε %d λεπτό</item>
+    <item quantity="other">Θα συνεχιστεί σε %d λεπ</item>
+    <item quantity="one">Θα συνεχιστεί σε %d λεπ</item>
   </plurals>
   <plurals name="backup_pause_dialog_message">
     <item quantity="one">Παύση συγχρονισμού φωτογραφιών, βίντεο, επαφών, σημειώσεων και άλλων στοιχείων με το cloud για %d λεπτά.</item>
     <item quantity="other">Παύση συγχρονισμού φωτογραφιών, βίντεο, επαφών, σημειώσεων και άλλων στοιχείων με το cloud για %d λεπτό.</item>
   </plurals>
   <plurals name="backuping_desc_gprs">
-    <item quantity="other">%1$d φωτογραφίες και βίντεο | %2$s</item>
-    <item quantity="one">%1$d φωτογραφία ή βίντεο | %2$s</item>
+    <item quantity="other">%1$d φωτο και βίντεο | %2$s</item>
+    <item quantity="one">%1$d φωτο ή βίντεο | %2$s</item>
   </plurals>
   <plurals name="backuping_desc_normal">
-    <item quantity="other">%1$d φωτογραφίες και βίντεο</item>
-    <item quantity="one">%1$d φωτογραφία ή βίντεο</item>
+    <item quantity="other">%1$d φωτο και βίντεο</item>
+    <item quantity="one">%1$d φωτο ή βίντεο</item>
   </plurals>
   <plurals name="burst_image_download_item_title_count">
-    <item quantity="other">%d φωτογραφίες</item>
-    <item quantity="one">%d φωτογραφία</item>
+    <item quantity="other">%d φωτο</item>
+    <item quantity="one">%d φωτο</item>
   </plurals>
   <plurals name="burst_save_confirm_dialog_message">
     <item quantity="other">Διαγραφή %d φωτογραφιών που δεν επιλέξατε;</item>
     <item quantity="one">Διαγραφή %d φωτογραφιών που δεν επιλέξατε;</item>
   </plurals>
   <plurals name="burst_save_confirm_dialog_title">
-    <item quantity="other">Διαγραφή %d φωτογραφιών</item>
-    <item quantity="one">Διαγραφή %d φωτογραφίας</item>
+    <item quantity="other">Διαγραφή %d φωτο</item>
+    <item quantity="one">Διαγραφή %d φωτο</item>
   </plurals>
   <plurals name="burst_save_selected">
-    <item quantity="other">Κράτηση %d επιλεγμένων φωτογραφιών</item>
-    <item quantity="one">Κράτηση %d επιλεγμένης φωτογραφίας</item>
+    <item quantity="other">Κράτηση %d επιλεγμένων φωτο</item>
+    <item quantity="one">Κράτηση %d επιλεγμένης φωτο</item>
   </plurals>
   <plurals name="cloud_storage_photo_num">
-    <item quantity="other">%d φωτογραφίες</item>
-    <item quantity="one">%d φωτογραφία</item>
+    <item quantity="other">%d φωτο</item>
+    <item quantity="one">%d φωτο</item>
   </plurals>
   <plurals name="cloud_storage_video_num">
     <item quantity="other">%d βίντεο</item>
@@ -186,7 +186,7 @@
     <item quantity="one">Διαγραφή %d φωτογραφίας από τις συσκευές και στο Xiaomi Cloud;</item>
   </plurals>
   <plurals name="delete_photo_from_local">
-    <item quantity="other">Διαγραφή %d φωτογραφίες;</item>
+    <item quantity="other">Διαγραφή %d φωτο;</item>
     <item quantity="one">Διαγραφή %d φωτογραφίας;</item>
   </plurals>
   <plurals name="delete_photo_from_this_album_and_cloud_msg">
@@ -218,8 +218,8 @@
     <item quantity="one">Δεν ήταν δυνατή η λήψη %1$d , ελέγξτε τη σύνδεση δικτύου και δοκιμάστε ξανά</item>
   </plurals>
   <plurals name="face_count">
-    <item quantity="other">Σύνολο %d φωτογραφίες</item>
-    <item quantity="one">Σύνολο %d φωτογραφία</item>
+    <item quantity="other">Σύνολο %d φωτο</item>
+    <item quantity="one">Σύνολο %d φωτο</item>
   </plurals>
   <plurals name="fail_reason_processing_file">
     <item quantity="other">Επεξεργασία φωτογραφιών…</item>
@@ -261,12 +261,12 @@
     <item quantity="one">%1$d στοιχείο σε αναμονή συγχρονισμού</item>
   </plurals>
   <plurals name="number_of_images_synced">
-    <item quantity="other">%1$d φωτογραφίες</item>
-    <item quantity="one">%1$d φωτογραφία</item>
+    <item quantity="other">%1$d φωτο</item>
+    <item quantity="one">%1$d φωτο</item>
   </plurals>
   <plurals name="number_of_images_to_upload">
-    <item quantity="other">%1$d φωτογραφίες σε αναμονή συγχρονισμού</item>
-    <item quantity="one">%1$d φωτογραφία σε αναμονή συγχρονισμού</item>
+    <item quantity="other">%1$d φωτο σε αναμονή συγχρονισμού</item>
+    <item quantity="one">%1$d φωτο σε αναμονή συγχρονισμού</item>
   </plurals>
   <plurals name="number_of_uploading_images">
     <item quantity="other">Συγχρονισμός %1$d φωτογραφιών…</item>
@@ -309,16 +309,16 @@
     <item quantity="other">Τα αρχεία PDF μπορούν να περιέχουν έως %d εικόνες</item>
   </plurals>
   <plurals name="picker_all_image_need_download">
-    <item quantity="other">Οι επιλεγμένες φωτογραφίες δεν είναι στη συσκευή. Κατεβάστε τις με χρήση κινητής?</item>
-    <item quantity="one">Η επιλεγμένη φωτογραφία δεν είναι στη συσκευή. Κατεβάστε τη με χρήση κινητής;</item>
+    <item quantity="other">Οι επιλεγμένες φωτο δεν είναι στη συσκευή. Κατεβάστε τις με χρήση κινητής?</item>
+    <item quantity="one">Η επιλεγμένη φωτο δεν είναι στη συσκευή. Κατεβάστε τη με χρήση κινητής;</item>
   </plurals>
   <plurals name="picker_all_image_will_download">
-    <item quantity="other">Οι επιλεγμένες φωτογραφίες δεν είναι στη συσκευή. Θα ληφθούν.</item>
-    <item quantity="one">Η επιλεγμένη φωτογραφία δεν είναι στη συσκευή. Θα γίνει λήψη.</item>
+    <item quantity="other">Οι επιλεγμένες φωτο δεν είναι στη συσκευή. Θα ληφθούν.</item>
+    <item quantity="one">Η επιλεγμένη φωτο δεν είναι στη συσκευή. Θα γίνει λήψη.</item>
   </plurals>
   <plurals name="picker_all_origin_need_download">
-    <item quantity="other">Επιλεγμένες φωτογραφίες (%dMB) δεν είναι στη συσκευή. Κατεβάστε τις με χρήση δεδομένων κινητής;</item>
-    <item quantity="one">Επιλεγμένη φωτογραφία (%dMB) δεν είναι στη συσκευή. Κατεβάστε τη με χρήση δεδομένων κινητής;</item>
+    <item quantity="other">Επιλεγμένες φωτο (%dMB) δεν είναι στη συσκευή. Κατεβάστε τις με χρήση δεδομένων κινητής;</item>
+    <item quantity="one">Επιλεγμένη φωτο (%dMB) δεν είναι στη συσκευή. Κατεβάστε τη με χρήση δεδομένων κινητής;</item>
   </plurals>
   <plurals name="picker_cancel_confirm_message">
     <item quantity="other">%d αρχεία δεν έχουν ληφθεί ακόμα. Να ακυρωθεί οπωσδήποτε;</item>
@@ -357,16 +357,16 @@
     <item quantity="one">Βρέθηκε %1$d νέα φωτο</item>
   </plurals>
   <plurals name="remind_face_recommend_confirm_text">
-    <item quantity="other">Σύνολο %d φωτογραφίες</item>
-    <item quantity="one">Σύνολο %d φωτογραφία</item>
+    <item quantity="other">Σύνολο %d φωτο</item>
+    <item quantity="one">Σύνολο %d φωτο</item>
   </plurals>
   <plurals name="remove_from_secret_failed_with_reason_and_count">
     <item quantity="other">%2$d στοιχεία δεν μπορούν να καταργηθούν από το ιδιωτικό άλμπουμ. %1$s.</item>
     <item quantity="one">%2$d στοιχείο δεν μπορεί να καταργηθεί από το ιδιωτικό άλμπουμ.. %1$s.</item>
   </plurals>
   <plurals name="search_feedback_done_mark_and_contribute_false_negative">
-    <item quantity="other">Προστέθηκαν %1$d φωτογραφίες σε \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
-    <item quantity="one">Προστέθηκε %1$d φωτογραφία στο \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
+    <item quantity="other">Προστέθηκαν %1$d φωτο σε \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
+    <item quantity="one">Προστέθηκε %1$d φωτο στο \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
   </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d πακέτα εγκατάστασης (%3$s) από %1$s</item>
@@ -465,36 +465,36 @@
         <item quantity="one">Λήψη %2$d αρχείο (%3$s) από %1$s…</item>
     </plurals>
 	<plurals name="search_feedback_done_mark_and_contribute_false_positive">
-    <item quantity="other">Καταργήθηκαν %1$d φωτογραφίες από \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
-    <item quantity="one">Καταργήθηκε %1$d φωτογραφία από \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
+    <item quantity="other">Καταργήθηκαν %1$d φωτο από \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
+    <item quantity="one">Καταργήθηκε %1$d φωτο από \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
   </plurals>
   <plurals name="search_feedback_done_mark_false_negative">
-    <item quantity="other">Προστέθηκαν %1$d φωτογραφίες σε \"%2$s\".</item>
-    <item quantity="one">Προστέθηκε %1$d φωτογραφία στο \"%2$s\".</item>
+    <item quantity="other">Προστέθηκαν %1$d φωτο σε \"%2$s\".</item>
+    <item quantity="one">Προστέθηκε %1$d φωτο στο \"%2$s\".</item>
   </plurals>
   <plurals name="search_feedback_done_mark_false_positive">
-    <item quantity="other">Καταργήθηκαν %1$d φωτογραφίες από \"%2$s\".</item>
-    <item quantity="one">Καταργήθηκε %1$d φωτογραφία από \"%2$s\".</item>
+    <item quantity="other">Καταργήθηκαν %1$d φωτο από \"%2$s\".</item>
+    <item quantity="one">Καταργήθηκε %1$d φωτο από \"%2$s\".</item>
   </plurals>
   <plurals name="send_processing_files_error">
-    <item quantity="other">Αδύνατη η Κοινή χρήση. Σε επεξεργασία %d φωτογραφίες…</item>
-    <item quantity="one">Αδύνατη η Κοινή χρήση. Σε επεξεργασία %d φωτογραφία…</item>
+    <item quantity="other">Αδύνατη η Κοινή χρήση. Σε επεξεργασία %d φωτο…</item>
+    <item quantity="one">Αδύνατη η Κοινή χρήση. Σε επεξεργασία %d φωτο…</item>
   </plurals>
   <plurals name="slideshow_interval_value">
     <item quantity="other">%1$d δευτ.</item>
     <item quantity="one">%1$d δευτ.</item>
   </plurals>
   <plurals name="slim_complete_photo_count">
-    <item quantity="other">Βελτιστοποιήθηκαν %d φωτογραφίες</item>
-    <item quantity="one">Βελτιστοποιήθηκε %d φωτογραφία</item>
+    <item quantity="other">Βελτιστοποιήθηκαν %d φωτο</item>
+    <item quantity="one">Βελτιστοποιήθηκε %d φωτο</item>
   </plurals>
   <plurals name="slim_exit_dialog_message">
     <item quantity="other">%d φωτο χωρίς βελτιστοποίηση. Διακοπή τώρα?</item>
     <item quantity="one">%d φωτο χωρίς βελτιστοποίηση. Διακοπή τώρα?</item>
   </plurals>
   <plurals name="slim_remain_photo_count">
-    <item quantity="other">%d φωτογραφίες απομένουν</item>
-    <item quantity="one">%d φωτογραφία απομένει</item>
+    <item quantity="other">%d φωτο απομένουν</item>
+    <item quantity="one">%d φωτο απομένει</item>
   </plurals>
   <plurals name="sync_error_title">
     <item quantity="other">Χωρίς αντίγραφα %d φωτο &amp; βίντεο</item>
@@ -551,5 +551,33 @@
     <plurals name="videos_count">
         <item quantity="one">%d βίντεο</item>
         <item quantity="other">%d βίντεο</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Περιστροφή %d μοίρες</item>
+        <item quantity="one">Περιστροφή %d μοίρα</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">Βελτιστοποιημένες %d φωτο</item>
+        <item quantity="one">Βελτιστοποιημένες %d φωτο</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Βελτιστοποιημένα %d βίντεο</item>
+        <item quantity="one">Βελτιστοποιημένο %d βίντεο</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d φωτο</item>
+        <item quantity="one">%d φωτο</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d απομένουν στοιχεία για βελτιστοποίηση</item>
+        <item quantity="one">%d απομένει στοιχείο για βελτιστοποίηση</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d βίντεο</item>
+        <item quantity="one">%d βίντεο</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s στοιχεία</item>
+        <item quantity="one">%1$s, %2$s στοιχείο</item>
     </plurals>
 </resources>
