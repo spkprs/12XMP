@@ -4839,6 +4839,7 @@
     <string name="owner_info_settings_title">Πληροφορίες Κατόχου</string>
     <string name="owner_space">Πρώτο προφίλ</string>
     <string name="packages_subtitle">Περιλαμβανόμενα πακέτα</string>
+    <string name="pad_flash_drive_backup_enable">Χρήση μονάδας USB για δημιουργία Αντιγράφων ή Επαναφορά</string>
     <string name="page_layout_1">Κυρ 28/12</string>
     <string name="page_layout_10">Ρυθμίσεις</string>
     <string name="page_layout_11">Καιρός</string>

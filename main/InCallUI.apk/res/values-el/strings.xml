@@ -136,7 +136,7 @@
     <string name="incall_error_supp_service_switch">Αδύνατη η εναλλαγή κλήσεων.</string>
     <string name="incall_error_supp_service_transfer">Δεν ήταν δυνατή η μεταφορά της κλήσης.</string>
     <string name="incall_error_supp_service_unknown">Μη υποστηριζόμενη υπηρεσία.</string>
-    <string name="incoming_call_forwarded_title">Προώθηση εισερχόμενων κλήσεων</string>
+    <string name="incoming_call_forwarded_title">Προώθηση κλήσης</string>
     <string name="incoming_circle_text_answer">Αφήστε</string>
     <string name="incoming_circle_text_answer_p">Σύρετε επάνω</string>
     <string name="incoming_circle_text_reject">Αφήστε</string>

@@ -365,7 +365,8 @@
     <string name="passport_error_sim_not_ready">Η κάρτα SIM δεν είναι έτοιμη</string>
     <string name="passport_error_ssl_hand_shake">Αδυναμία σύνδεσης με το διακομιστή.</string>
     <string name="passport_error_unknown">Αδυναμία σύνδεσης</string>
-    <string name="passport_error_user_name">Μη έγκυρο όνομα χρήστη</string>
+    <string name="passport_error_user_agreement_error">Πρώτα συμφωνήστε με τους Όρους και Προυποθέσεις</string>
+    <string name="passport_error_user_name">Άκυρο όνομα χρήστη</string>
     <string name="passport_error_verify_activator_phone_message">Βεβαιωθείτε ότι η υπηρεσία καρτών SIM είναι ενεργοποιημένη και ότι η συσκευή είναι συνδεδεμένη στο δίκτυο.</string>
     <string name="passport_error_verify_activator_phone_title">Δεν ήταν δυνατή η επαλήθευση του αριθμού τηλεφώνου</string>
     <string name="passport_failed_to_send_activate_email">Αδυναμία αποστολής email ενεργοποίησης</string>
