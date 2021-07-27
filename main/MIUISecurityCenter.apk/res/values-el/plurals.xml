@@ -218,8 +218,8 @@
     <item quantity="one">Βρέθηκε %d εφαρμογή</item>
   </plurals>
   <plurals name="hints_scan_danger_result_with_number">
-    <item quantity="other">%d κίνδυνοι  εντοπίστηκαν, διορθώστε τώρα</item>
-    <item quantity="one">%d κίνδυνος εντοπίστηκε, διορθώστε τώρα</item>
+    <item quantity="other">%d κίνδυνοι  εντοπίστηκαν</item>
+    <item quantity="one">%d κίνδυνος εντοπίστηκε</item>
   </plurals>
   <plurals name="hints_traffic_disable_title">
     <item quantity="other">Παρακολούθηση χρήσης δεδομένων για %d εφαρμογές</item>
@@ -491,11 +491,11 @@
   </plurals>
   <plurals name="result_sign_header">
     <item quantity="other">Βρέθηκαν %d ανεπίσημες εφαρμογές</item>
-    <item quantity="one">Βρέθηκαν %d ανεπίσημη εφαρμογή</item>
+    <item quantity="one">Βρέθηκε %d ανεπίσημη εφαρμογή</item>
   </plurals>
   <plurals name="result_virus_header">
-    <item quantity="other">Βρέθηκαν %d ιοί σε ανασφαλείς εφαρμογές</item>
-    <item quantity="one">Βρέθηκε %d ιός σε εφαρμογή</item>
+    <item quantity="other">Εντοπίστηκαν %d κακόβουλες εφαρμ.</item>
+    <item quantity="one">Εντοπίστηκε %d κακόβουλη εφαρμ.</item>
   </plurals>
   <plurals name="search_app_count_txt_na">
     <item quantity="other">Αναζήτηση σε %d εφαρμογές</item>
@@ -864,6 +864,10 @@
     <plurals name="simlock_set_puk_error">
         <item quantity="other">Εισάγετε SIM PUK. Απομένουν %d προσπάθειες.</item>
         <item quantity="one">Εισάγετε SIM PUK. Απομένουν %d προσπάθεια.</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Διαγραφή %d επιλεγμένων εφαρμ;</item>
+        <item quantity="one">Διαγραφή %d επιλεγμένης εφαρμ;</item>
     </plurals>
 </resources>
 

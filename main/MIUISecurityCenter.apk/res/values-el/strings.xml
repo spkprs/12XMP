@@ -198,6 +198,7 @@
     <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast και AVL. Σχετικά με τις &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
     <string name="antivirus_privacy_dialog_title">Πολιτική Απορρήτου</string>
     <string name="antivirus_privacy_dialog_title_kddi">Όροι και προϋποθέσεις</string>
+    <string name="antivirus_riskapp_title">Πιθανοί κίνδυνοι</string>
     <string name="antivirus_sec_network_unavailable">Η Ασφαλεία δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο Internet. Επιτρέπετε στην Ασφάλεια την σύνδεση στο Internet;</string>
     <string name="antivirus_sms_check">Έλεγχος συνδέσεων στην ανταλλαγή μηνυμάτων</string>
     <string name="antivirus_sms_check_summary">Ελέγξτε τις συνδέσεις στα εισερχόμενα μηνύματα και λάβετε προειδοποιήσεις σχετικά με πιθανούς κινδύνους</string>
@@ -630,6 +631,10 @@
     <string name="applock_settings_unlock_all_toast">Ξεκλείδωμα όλων των εφαρμογών</string>
     <string name="applock_toast_tip">Το επαληθευμένο κλείδωμα εφαρμογών ολοκληρώθηκε με επιτυχία</string>
     <string name="applock_unlock_all">Ξεκλείδωμα όλων</string>
+    <string name="apps_item_scan_risk_summary_installed">Εγκατεστημένες | Κίνδυνοι</string>
+    <string name="apps_item_scan_risk_summary_uninstalled">APK | Κίνδυνοι</string>
+    <string name="apps_item_scan_virus_summary_installed">Εγκατεστημένες | Ιός</string>
+    <string name="apps_item_scan_virus_summary_uninstalled">APK | Ιός</string>
     <string name="apps_item_sign_dialog_content">Η υπογραφή του \"%s\" είναι διαφορετική από την έκδοση στο App Store. Διαγραφή της εφαρμογής και εγκατάσταση της επίσημης έκδοσης; Σημείωση: εγκαθιστώντας μια εφαρμογή με διφορετική υπογραφή μπορεί να οδηγήσει σε απώλεια δεδομένων.</string>
     <string name="apps_item_sign_dialog_title">Εγκατάσταση επίσημης έκδοσης εφαρμογής</string>
     <string name="apps_item_sign_install_button_text">Αντικατάσταση</string>
@@ -642,6 +647,7 @@
     <string name="apps_item_title_system">Ενημέρωση συστήματος</string>
     <string name="apps_item_virus_cleanup_success">Επιτυχής καθαρισμός!</string>
     <string name="apps_item_virus_cleanup_text">Καθαρισμός</string>
+    <string name="apps_item_virus_ignore_text">Παράβλεψη</string>
     <string name="apps_item_virus_summary_installed">Εγκατεστημένες εφαρμογές</string>
     <string name="apps_item_virus_summary_uninstalled">Apk</string>
     <string name="apps_list_header_title_sms">Έλεγχος εφαρμογής μηνυμάτων</string>
@@ -3465,7 +3471,11 @@
     <string name="risk_app_install_history">Ιστορικό εξουσιοδότησης</string>
     <string name="risk_app_install_item_des">Έκδοση: %1$s</string>
     <string name="risk_app_install_manager">Εφαρμογές με πιθανούς κινδύνους</string>
+    <string name="risk_detail_app">Ενέχει κινδύνους</string>
+    <string name="risk_detail_title">Πιθανοί κίνδυνοι</string>
+    <string name="risk_info_title">Περιγραφή</string>
     <string name="risk_tip">Εντοπίστηκε κίνδυνος</string>
+    <string name="risk_type_title">Τύπος</string>
     <string name="roaming_allow_network_dialog_title">Περιαγ. με Δεδομ. κινητής;</string>
     <string name="roaming_limit_dialog_message">Το ημερήσιο όριο δεδομένων καταναλώθηκε.</string>
     <string name="roaming_limit_network_notification_body">Πατήστε για να δείτε τα διαθέσιμα δίκτυα</string>
@@ -4529,7 +4539,24 @@
     <string name="videobox_settings_title">Εργαλεία βίντεο</string>
     <string name="view_traffic_detail">Προβολή λεπτομερειών</string>
     <string name="view_traffic_details">Προβολή στατιστικών χρήσης δεδομένων</string>
+    <string name="virus_app_delete_installed">Απεγκατάσταση</string>
+    <string name="virus_app_delete_uninstalled">Διαγραφή</string>
+    <string name="virus_app_ignore">Παράβλεψη</string>
+    <string name="virus_app_size_text">Μέγεθος: %s</string>
+    <string name="virus_app_type_installed">Εγκατεστημένες</string>
+    <string name="virus_app_type_uninstalled">APK</string>
+    <string name="virus_app_verison_text">Έκδοση: %s</string>
     <string name="virus_auto_update_engine">Αυτόματες ενημερώσεις: %s</string>
+    <string name="virus_clear_dialog_title">Εκκαθάριση κακόβουλων εφαρμ.</string>
+    <string name="virus_detail_app">Περιέχει ιούς</string>
+    <string name="virus_detail_title">Ιοί</string>
+    <string name="virus_engine_choose_text">Online ορισμοί ιών</string>
+    <string name="virus_ignore_dialog_content">"Αν επιλέξετε να αγνοήσετε τους πιθανούς κινδύνους που έχει μια εφαρμογή, δεν θα ειδοποιείστε πλέον γι' αυτούς. Ωστόσο, θα πρέπει να θυμάστε ότι αυτό δεν σημαίνει ότι οι κίνδυνοι αυτοί εξουδετερώθηκαν."</string>
+    <string name="virus_ignore_dialog_no_remind">"Χωρίς επανεμφάνιση"</string>
+    <string name="virus_ignore_dialog_title">Παράβλεψη κινδύνων</string>
+    <string name="virus_info_title">Περιγραφή</string>
+    <string name="virus_news_title">Σχετικές πληροφορίες</string>
+    <string name="virus_type_title">Τύπος</string>
     <string name="virus_update_tips_title">Προειδοποίηση</string>
     <string name="virus_wait_network_dialog_message">Το τηλέφωνό σας δεν είναι συνδεδεμένο σε δίκτυο Wi-Fi τώρα. Θα χρεωθείτε δεδομένα κινητής τηλεφωνίας. Συνέχεια ?</string>
     <string name="voltage_symbol">V</string>
