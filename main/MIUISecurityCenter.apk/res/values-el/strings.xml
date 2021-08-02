@@ -4712,6 +4712,15 @@
     <string name="wifi_optizition_loading">Ενεργοποίηση της αύξησης ταχύτητας του δικτύου Xunyou…</string>
     <string name="wifi_optizition_tip">Ενεργοποιήστε την αύξηση της ταχύτητας Wi-Fi για να κάνετε τη σύνδεση Wi-Fi πιο σταθερή. Θα χρησιμοποιηθεί μια μικρή ποσότητα δεδομένων κινητής τηλεφωνίας.</string>
     <string name="wifi_optizition_title">Ενίσχυση ταχύτητας Wi-Fi</string>
+    <string name="wireless_charging_connected_message">"Δεν μπορείτε να χρησιμοποιήσετε αντίστροφη ασύρματη φόρτιση όταν η συσκευή σας φορτίζει ασύρματα."</string>
+    <string name="wireless_charging_fg_control_cancel">Ακύρωση</string>
+    <string name="wireless_charging_fg_control_messgae">"Η αντίστροφη ασύρματη φόρτιση απενεργοποιήθηκε επειδή απομένουν λιγότερο από %s μπαταρίας. Μπορείτε να προσαρμόσετε τις ρυθμίσεις για να επιτρέψετε την αντίστροφη ασύρματη φόρτιση να λειτουργεί περισσότερο."</string>
+    <string name="wireless_charging_fg_control_ok">Ρύθμιση</string>
+    <string name="wireless_charging_low_battery_level_message">"Δεν είναι δυνατή η χρήση αντίστροφης ασύρματης φόρτισης όταν η μπαταρία είναι λιγότερο από %s."</string>
+    <string name="wireless_charging_ok">Κατανοητό</string>
+    <string name="wireless_charging_saver_cancel">Απενεργοποίηση</string>
+    <string name="wireless_charging_saver_message">Η προφύλαξη μπαταρίας είναι ενεργοποιημένη τώρα. Να διατηρείται διαθέσιμη η αντίστροφη ασύρματη φόρτιση;</string>
+    <string name="wireless_charging_saver_ok">Διατήρηση</string>
     <string name="wl_no_whitelist">Δεν υπάρχουν εξαιρέσεις</string>
     <string name="wlan_booster">Βελτιστοποίηση Wi-Fi</string>
     <string name="wlan_change_protection_detail">Χωρίς αυτόματη μετάβαση σε Wi-Fi όταν είστε συνδεδεμένοι στο δίκτυο δεδομένων κινητής</string>

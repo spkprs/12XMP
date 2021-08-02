@@ -3084,7 +3084,9 @@
     <string name="headset_find_tip">Τα ακουστικά σας πρέπει να είναι κοντά για να συνδεθούν σε αυτή τη συσκευή για να τα βρείτε. Παίζοντας την ειδοπ/ση, ενώ τουλάχιστον ένα από τα ακουστικά είναι στο αυτί σας μπορεί να βλάψει την ακοή σας.</string>
     <string name="headset_find_tip_title">Προσοχή</string>
     <string name="headset_find_title">Βρείτε τα ακουστικά σας</string>
-    <string name="headset_find_voice_warning">Προειδοποίηση μεγάλης έντασης</string>
+    <string name="headset_find_voice_warning">Προειδοποίηση υψηλής έντασης</string>
+    <string name="headset_head_tracking_desc">Προσαρμόστε τον ήχο surround βάσει κίνησης της κεφαλής σας</string>
+    <string name="headset_head_tracking_title">Παρακολούθηση κίνησης κεφαλής</string>
     <string name="headset_notification_switch_summary">Εμφάνιση κατάστασης στο γραφικό στοιχείο στον Πίνακα ειδοποίησης όταν τα ακουστικά είναι συνδεδεμένα</string>
     <string name="headset_notification_switch_title">Γραφικό στοιχείο Πίνακα</string>
     <string name="headset_remove_message">Κατάργηση σύζευξης;</string>
@@ -6762,6 +6764,8 @@
     <string name="style_and_wallpaper_settings_title">Στυλ και ταπετσαρίες</string>
     <string name="style_suggestion_summary">Δοκιμάστε διαφορετικά στυλ, ταπετσαρίες, ρολόγια και πολλά άλλα</string>
     <string name="style_suggestion_title">Προσαρμόστε το Pixel σας</string>
+    <string name="stylus_ota_check_failed_battery">"Δεν ήταν δυνατός ο έλεγχος. Η μπαταρία της γραφίδας σας τελειώνει."</string>
+    <string name="stylus_ota_check_failed_info">"Δεν ήταν δυνατός ο έλεγχος της έκδοσης υλικολογισμικού. Προσαρτήστε ξανά τη γραφίδα σας."</string>
     <string name="stylus_ota_check_update">Έλεγχος για Ενημερώσεις</string>
     <string name="stylus_ota_current_firmware_version">Έκδοση Υλικολογισμικού</string>
     <string name="stylus_ota_demands">Κρατήστε αυτήν τη συσκευή συνδεδεμένη στη γραφίδα μέσω Bluettoth. Και οι δύο συσκευές να είναι φορτισμένες κατά %1$s στην διάρκεια ενημέρωσης.</string>
@@ -6807,10 +6811,14 @@
     <string name="summary_two_lines_placeholder"> \n </string>
     <string name="sunlight_mode">Λειτουργία Ηλιοφάνειας</string>
     <string name="sunlight_mode_summary">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος όταν η αυτόματη φωτεινότητα είναι ανενεργή</string>
-    <string name="supl_not_set">&lt;Δεν έχει οριστεί&gt;</string>
+    <string name="supl_not_set">&lt;Δεν έχει οριστεί></string>
     <string name="supplicant_state_label">Υποχρεωτική κατάσταση:</string>
     <string name="support_summary">Άρθρα βοήθειας, υποστήριξη μέσω τηλεφώνου και συζήτησης</string>
     <string name="sure_sync_now">Συγχρονισμός στοιχείων τώρα;</string>
+    <string name="surround_sound_all_desc">Βελτίωση βάθος ήχου ακουστικών και ηχείων</string>
+    <string name="surround_sound_only_headset_desc">Βελτίωση βάθος ήχου ακουστικών</string>
+    <string name="surround_sound_only_speaker_desc">Βελτίωση βάθος ήχου ηχείων</string>
+    <string name="surround_sound_title">Περιφεριακός ήχος</string>
     <string name="suwFontSecondary">google-sans</string>
     <string name="suwFontSecondaryMedium">google-sans-medium</string>
     <string name="suw_back_button_label">Πίσω</string>
