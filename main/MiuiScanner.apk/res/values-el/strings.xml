@@ -318,13 +318,14 @@
     <string name="half_covered_mode">Unmasked</string>
     <string name="hand_query">Ελέγξτε την παραγγελία</string>
     <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hint_no_permissions_text">Άγγιγμα στο κουμπί Ρυθμίσεις > Διαχείριση αδειών > Ενεργ/ση Άδεια αποθ/σης Κάμερας και Τηλεφώνου για κανονική χρήση. Σάρωση</string>
     <string name="history">Ιστορικό</string>
     <string name="history_empty">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
     <string name="hold_down">Πατήστε παρατεταμένα για να πάρετε τη λέξη</string>
     <string name="identify_the_results">Αποτέλεσμα</string>
     <string name="if_open_result">Αποτέλεσμα σάρωσης όταν επιστρέψετε στην εφαρμογή</string>
     <string name="if_to_open_milogo_scanning">Αναγνώριση λογότυπου Xiaomi</string>
-    <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
+    <string name="image_file_name_format">"'scan'_dd/MM/yyyy_HH/mm"</string>
     <string name="importFailed">"Αδύνατη η εισαγωγή"</string>
     <string name="import_contact">Εισαγωγή επαφής</string>
     <string name="import_picture">Εισαγωγή</string>
@@ -501,7 +502,6 @@
     <string name="picture_is_being_saved">Γίνεται αποθήκευση της εικόνας</string>
     <string name="picture_please_select">Επιλογή</string>
     <string name="picture_preview_num">Προβολή (%1$d)</string>
-    <string name="picture">Συλλογή</string>
     <string name="place_barcode_into_rectangle">Βάλτε τον κωδικό μέσα στο πλαίσιο</string>
     <string name="plant_fail">"Αδύνατη η αναγνώριση"</string>
     <string name="plant_loading">Προσδιορισμός…</string>
