@@ -4457,7 +4457,7 @@
     <string name="untrust_app_perm_install_list">Αποδοχή προσβασης στην λίστα εγκατεστημένων εφαρμογών συσκευής</string>
     <string name="untrust_app_perm_network">Αποδοχή σύνδεσης στο δίκτυο</string>
     <string name="untrust_app_perm_notification">Αποδοχή ειδοποιήσεων</string>
-    <string name="untrust_app_perm_oaid">Αποδοχή πρόσβασης στο εικονικό ID</string>
+    <string name="untrust_app_perm_oaid">Αποδοχή στο εικονικό ID</string>
     <string name="untrust_app_perm_title">Εφαρμογές από μιά άγνωστη πηγή</string>
     <string name="untrust_app_perm_warn">Αυτή η εφαρμ. προέρχεται από άγνωστη πηγή και μπορεί να δημιουργήσει κινδύνους ασφαλείας. Χρησιμοποιεί τις άδειες που αναφέρονται παρακάτω, και ίσως θέσει σε κίνδυνο το απόρρητο σας. Παραχωρήστε αυτές τις άδειες μετά από προσεκτική εξέταση.</string>
     <string name="usage_sorted_activity_lable">Χρήση δεδομένων</string>

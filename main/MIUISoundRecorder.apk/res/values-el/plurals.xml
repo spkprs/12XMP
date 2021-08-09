@@ -37,7 +37,7 @@
         <item quantity="one">Διαγραφή %d εγγραφής;</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">%d εγγραφών</item>
+        <item quantity="other">%d εγγραφές</item>
         <item quantity="one">%d εγγραφής</item>
     </plurals>
     <plurals name="search_call_records_hint">
@@ -45,7 +45,7 @@
         <item quantity="one">%d εγγραφή κλήσης</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">%d εγγραφών</item>
+        <item quantity="other">%d εγγραφές</item>
         <item quantity="one">%d εγγραφής</item>
     </plurals>
     <plurals name="recovery_failed_dialog_message">

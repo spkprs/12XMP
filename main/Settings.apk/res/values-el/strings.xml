@@ -2200,6 +2200,7 @@
     <string name="disable_service_message">Πατώντας %1$s θα σταματήσει %2$s.</string>
     <string name="disable_service_title">Παύση %1$s;</string>
     <string name="disable_text">Απενεργοποίηση</string>
+    <string name="disable_uft">Απενεργ uft</string>
     <string name="disabled">Ανενεργό</string>
     <string name="disabled_authorised_apps_title">Ανακληθείσα εξουσιοδότηση</string>
     <string name="disabled_because_no_backup_security">Για να το χρησιμοποιήσετε, ορίστε πρώτα ένα κλείδωμα οθόνης</string>
@@ -2465,6 +2466,7 @@
     <string name="enable_terminal_summary">Ενεργοπ.τερμ.εφαρμογής που προσφέρει πρόσβαση στο τοπικό κέλυφος</string>
     <string name="enable_terminal_title">Τοπική τερματική εφαρμογή</string>
     <string name="enable_text">Ενεργοποίηση</string>
+    <string name="enable_uft">Ενεργ. uft</string>
     <string name="enable_wifi_display">Ενεργοποίηση ασύρματης οθόνης</string>
     <string name="enabled_authorised_apps_summary">Η εξουσιοδότησή σας θα ακυρωθεί μετά τις εναλλαγές των επιμέρους εφαρμογών.</string>
     <string name="enabled_authorised_apps_title">Χορήγηση εξουσιοδότησης</string>
@@ -6816,6 +6818,7 @@
     <string name="summary_two_lines_placeholder"> \n </string>
     <string name="sunlight_mode">Λειτουργία Ηλιοφάνειας</string>
     <string name="sunlight_mode_summary">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος όταν η αυτόματη φωτεινότητα είναι ανενεργή</string>
+    <string name="sunlight_mode_summary_new">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος για αποτροπή μείωσης φωτισμού της οθόνης. Ένα μικρό εικονίδιο του ήλιου θα εμφανιστεί στο επάνω μέρος της οθόνης όταν το φως του περιβάλλοντος είναι ισχυρό.</string>
     <string name="supl_not_set">&lt;Δεν έχει οριστεί></string>
     <string name="supplicant_state_label">Υποχρεωτική κατάσταση:</string>
     <string name="support_summary">Άρθρα βοήθειας, υποστήριξη μέσω τηλεφώνου και συζήτησης</string>
