@@ -869,5 +869,13 @@
         <item quantity="other">Διαγραφή %d επιλεγμένων εφαρμ;</item>
         <item quantity="one">Διαγραφή %d επιλεγμένης εφαρμ;</item>
     </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d εφαρμ. περιέχονται %1$s</item>
+        <item quantity="one">%2$d εφαρμ. περιέχεται %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d φορές</item>
+        <item quantity="one">%d φορά</item>
+    </plurals>
 </resources>
 

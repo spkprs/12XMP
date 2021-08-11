@@ -497,6 +497,10 @@
     <string name="navigation_guide_recent_summary">Σύρετε επάνω από κάτω και κρατήστε το.</string>
     <string name="navigation_guide_recent_title">Πρόσφατα</string>
     <string name="navigation_guide_settings">Παραδείγματα χειρονομιών</string>
+    <string name="navigation_set_miui_home_as_default_dialog_cancel">Ακύρωση</string>
+    <string name="navigation_set_miui_home_as_default_dialog_message">"Αδυναμία χειρονομιών Πλήρους οθόνης με Εκκινητές τρίτων. Μετάβαση στον Εκκινητή συστήματος και ενεργοποίηση χειρονομιών Πλήρους οθόνης;"</string>
+    <string name="navigation_set_miui_home_as_default_dialog_ok">OK</string>
+    <string name="navigation_set_miui_home_as_default_dialog_title">Προσοχή</string>
     <string name="navigation_type_full_screen">Χειρονομίες</string>
     <string name="navigation_type_title">Πλοήγηση Συστήματος</string>
     <string name="navigation_type_title_synonyms_1">Σε πλήρη οθόνη.</string>
@@ -735,7 +739,7 @@
     <string name="widget_gadget_player">Μουσική</string>
     <string name="widget_global_search">Αναζήτηση</string>
     <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
-    <string name="widgets_preview_title">Προσθήκη Γραφικού στοιχείου</string>
+    <string name="widgets_preview_title">Προσθήκη Γραφικών στοιχείων</string>
     <string name="work_mode_off_label">"Οι ειδοποιήσεις είναι ανενεργές και οι εφαρμογές δεν είναι διαθέσιμες αυτήν τη στιγμή"</string>
     <string name="work_mode_on_label">Διαχείριση από τον οργανισμό σας</string>
     <string name="work_profile_first_content">Τα προσωπικά δεδομένα διαχωρίζονται &amp; αποκρύπτονται από τις εφαρμογές εργασίας</string>

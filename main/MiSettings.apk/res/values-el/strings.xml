@@ -150,6 +150,9 @@
     <string name="dc_light_hint_other">DC η μείωση θορύβου ενδέχεται να επηρεάσει το ρυθμό ανανέωσης και τον τρόπο εμφάνισης ορισμένων στοιχείων.</string>
     <string name="dc_lignt_enable_hint">Η λειτουργία αντιτρεμοπαίγματος (Anti-flicker) ρυθμίζει το ρυθμό ανανέωσης της οθόνης στα 60 Hz. Μετάβαση στη αυτή τη λειτουργία?</string>
     <string name="delete_first_to_add_animal">Για να προσθέσετε ένα νέο στοιχείο, διαγράψτε πρώτα ένα.</string>
+    <string name="desktop_widget_authorization">Πατήστε για εκχώρηση δικαιωμάτων για προβολή στατιστικών στοιχείων</string>
+    <string name="desktop_widget_not_support">Στατιστικά   Χρόνου οθόνης δεν \nπαράγονται στο Δεύτερο Χώρο</string>
+    <string name="desktop_widget_screen_use_time">Χρόνος οθόνης</string>
     <string name="display_description">Μεγαλύτερα εικονίδια, μεγάλο κείμενο, λιγότερη οπτική ακαταστασία</string>
     <string name="display_title">Μεγαλύτερα αντικείμενα</string>
     <string name="dynamic_ringtone_desc">"Έχουμε εξερευνήσει διαφορετικά οικοσυστήματα και αναδημιουργήσαμε τους ξεχωριστούς ήχους τους. Αρχίστε να εξερευνάτε τους ήχους της φύσης μαζί μας!"</string>
@@ -571,6 +574,7 @@
     <string name="unlock_times_per_day">"Ημερήσιος μέσος όρος: "</string>
     <string name="unlock_times_per_hour">"Ξεκλειδώματα ανά ώρα: "</string>
     <string name="usage_agree">Αποδοχή</string>
+    <string name="usage_app_desktop_widget_limit">%s απομένουν</string>
     <string name="usage_app_get_it">Τέλος</string>
     <string name="usage_app_holiday_limit">Αργίες</string>
     <string name="usage_app_limit_alter_summary">Φαίνεται ότι αυτό το χρονικό όριο είναι μικρότερο από το χρόνο που χρησιμοποιείτε αυτήν την εφαρμογή σήμερα. Ορισμός ορίου οπωσδήποτε?</string>

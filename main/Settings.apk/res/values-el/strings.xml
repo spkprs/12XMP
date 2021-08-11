@@ -2446,6 +2446,7 @@
     <string name="enable_local_backup">Ενεργοποίηση</string>
     <string name="enable_local_backup_cancel">Ακύρωση</string>
     <string name="enable_local_backup_message">Ενεργοποιήστε αυτήν τη λειτουργία για να αποθηκεύσετε αντίγραφα στη συσκευή &amp; να τα αντιγράψετε στον υπολογιστή σας ή σε συσκευή αποθήκευσης USB. Ενεργοποίηση τώρα;</string>
+    <string name="enable_local_backup_message_intledition">Ενεργοποιήστε τη λειτουργία για να αποθηκεύετε αντίγραφα στη συσκευή και να τα αντιγράφετε στον υπολογιστή σας. Ενεργοποίηση τώρα;</string>
     <string name="enable_local_backup_ok">OK</string>
     <string name="enable_local_backup_title">Τοπικά αντίγραφα ασφαλείας</string>
     <string name="enable_mms_notification_channel_title">Μήνυμα MMS</string>
@@ -6196,6 +6197,11 @@
     <string name="settings_backup">Αποθήκευση ρυθμίσεων</string>
     <string name="settings_backup_summary">Αποθήκευση των ρυθμίσεών μου</string>
     <string name="settings_button">Ρυθμίσεις</string>
+    <string name="settings_charging_at_fast_speed">Γρήγορη φόρτιση</string>
+    <string name="settings_charging_at_normal_speed">Φόρτιση</string>
+    <string name="settings_charging_at_top_speed">Φόρτιση μέγιστης ταχύτητας</string>
+    <string name="settings_charging_fully_charged">Πλήρως φορτισμένο</string>
+    <string name="settings_charging_not_charging">Δεν φορτίζεται</string>
     <string name="settings_forbidden_message">Αυτή η ρύθμιση είναι ανενεργή</string>
     <string name="settings_label">Ρυθμίσεις</string>
     <string name="settings_label_launcher">Ρυθμίσεις</string>

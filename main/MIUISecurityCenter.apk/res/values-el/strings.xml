@@ -812,6 +812,11 @@
     <string name="battery_status_unknown">Άγνωστο σφάλμα</string>
     <string name="battery_temperature_title">Θερμοκρασία</string>
     <string name="begin_date">Ημερομηνία μηδενισμού χρήσης</string>
+    <string name="behavior_widget_get_installed_apps">Πρόσβαση σε Εφαρμ.</string>
+    <string name="behavior_widget_get_location">Πρόσβαση σε Τοποθεσία</string>
+    <string name="behavior_widget_read_clipboard">Πρόσβαση σε Πρόχειρο</string>
+    <string name="behavior_widget_read_contact">Πρόσβαση σε Επαφές</string>
+    <string name="behavior_widget_read_write_external_storage">Πρόσβαση σε Αρχεία</string>
     <string name="best_booster_status">Η ταχύτητα παιχνιδιών είναι τώρα η καλύτερη διαθέσιμη.</string>
     <string name="best_warning_dialog_button">το πήρα</string>
     <string name="best_warning_dialog_message">συμβουλές: χρησιμοποιήστε xiaomi κόκκινο φάκελο βοηθός, θα ενισχύσει την ταχύτητα του αρπαγή σας κόκκινο φάκελο. ωστόσο, αν το χέρι σας είναι πολύ γρήγορο, πολύ γρήγορη στάση, το καθένα άρπαξε τον πρώτο κόκκινο φάκελο,&lt;font color=\"\'#e56255\'\"&gt;έχετε την ευκαιρία να κάνετε λάθος για τη χρήση των wechat αρπάζει τους κόκκινους φακέλους&lt;/font&gt;, επηρεάστε τη χρήση κόκκινων φακέλων πίσω από εσάς. έτσι, μερικές φορές, ανυψώστε το χέρι σας ελαφρώς τον ρυθμό ρυθμό, αρπάξτε μια κόκκινη γεύση φακέλου καλύτερα. αν και το κόκκινο φάκελο, δεν μπορείτε να άπληστος yo ~</string>
@@ -1617,6 +1622,7 @@
     <string name="gamebooster_network_dialog_message">Να επιτρέπεται στην Ασφάλεια η πρόσβαση στο δίκτυο προκειμένου να χρησιμοποιήσει όλες τις λειτουργίες της ενίσχυσης ταχύτητας παιχνιδιών;</string>
     <string name="gamebooster_network_dialog_title">Μερικές λειτουργίες δεν είναι διαθέσιμες</string>
     <string name="gamebox_app_not_find">Εγκατάσταση της εφαρμογής πρώτα.</string>
+    <string name="gamebox_brightness">Φωτεινότητα</string>
     <string name="gamebox_browser_not_find">Εγκαταστήστε πρώτα το πρόγραμμα περιήγησης Mi</string>
     <string name="gamebox_collimator">Θέαμα</string>
     <string name="gamebox_display_1">Χωρίς</string>
@@ -1642,6 +1648,7 @@
     <string name="gamebox_immerson_open">Ενεργοποιείται η λειτ. Καθήλωσης  μην αλλάξετε δίκτυο…</string>
     <string name="gamebox_macro">Συνδυασμοί</string>
     <string name="gamebox_manual_record">Εγγραφή</string>
+    <string name="gamebox_mem_clean">Καθαρ. μνήμης</string>
     <string name="gamebox_micharge">Έλεγχος θερμοκρασίας φόρτισης</string>
     <string name="gamebox_micharge_dialog_message">"Ενεργοποιήστε αυτή τη δυνατότητα για να περιορίσετε τη φόρτιση όταν ο φορτιστής είναι συνδεδεμένος. Ο φορτιστής θα χρησιμοποιηθεί μόνο για την παροχή τροφοδοσίας, που θα σας βοηθήσει να αποφύγετε την υπερθέρμανση ενώ παίζετε παιχνίδια."</string>
     <string name="gamebox_micharge_dialog_title">Έλεγχος θερμοκρασίας φόρτισης</string>
@@ -1651,6 +1658,8 @@
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Εγκαταστήστε QQ και δοκιμάστε ξανά.</string>
     <string name="gamebox_recent_task_expand_fail">Οι εφαρμογές που λειτουργούν με συντομεύσεις δεν έχουν εγκατασταθεί</string>
+    <string name="gamebox_screenrecord">Εγγραφή</string>
+    <string name="gamebox_screenshot">Στιγμιότυπο</string>
     <string name="gamebox_simcard">Switch SIM cards</string>
     <string name="gamebox_time">Χρονόμετρο</string>
     <string name="gamebox_type_close">Χωρίς εμφάνιση</string>
@@ -1772,6 +1781,10 @@
     <string name="gb_new_feature">Νέο χαρακτηριστικό</string>
     <string name="gb_not_support_on_device">"Αυτή η εφαρμογή δεν μπορεί να χρησιμοποιηθεί στην εξωτερική οθόνη"</string>
     <string name="gb_operat_frequently">Όχι τόσο γρήγορα!</string>
+    <string name="gb_performance_balance">Κανονική</string>
+    <string name="gb_performance_high">Απόδοση</string>
+    <string name="gb_performance_mode">Λειτ. παιχνιδιών</string>
+    <string name="gb_performance_tips">Χρήση της λειτουργίας απόδοσης για μεγάλο χρονικό διάστημα\nμπορεί να αδειάσει ή να υπερθερμάνει την μπαταρία</string>
     <string name="gb_shortcut_pref_title">Συντόμευση στην Αρχική Οθόνη</string>
     <string name="gb_shoulder_key">Κουμπιά Ώμου</string>
     <string name="gb_shoulder_key_add_show_btn">Εμφάνιση εικονικών κουμπιών κατά τη διάρκεια παιχνιδιών</string>
@@ -1807,6 +1820,13 @@
     <string name="gb_storage_game_uninstall">Απεγκατάσταση παιχνιδιών</string>
     <string name="gb_storage_summary">"Να μην εμφανίζονται τα παιχνίδια που προστέθηκαν στο gamebox στην Αρχική οθόνη"</string>
     <string name="gb_storage_title">Αφαίρεση πρόσθετων παιχνιδιών από την Αρχική οθόνη</string>
+    <string name="gb_turbo_collimator_subtitle">Χρήση συσκευής σκόπευσης</string>
+    <string name="gb_turbo_macro_subtitle">Εκτέλεση ενεργειών υψηλού επιπέδου</string>
+    <string name="gb_turbo_shoulder_subtitle">Ρύθμιση στοιχείων ελέγχου παιχνιδιών</string>
+    <string name="gb_turbo_time_subtitle">Χρονομετρήστε τις συνεδρίες σας</string>
+    <string name="gb_turbo_voice_subtitle">Εμπλουτίζει τις συζητήσεις σας</string>
+    <string name="gb_turbo_wonder_subtitle">Καταγραφή σημαντικών στιγμών</string>
+    <string name="gb_voice_change_audition_tip">Επίδειξη</string>
     <string name="gb_voice_change_settinged">Αλλαγή Φωνής ενεργή</string>
     <string name="gb_voice_changer_cartoon">Κινουμένων σχεδίων</string>
     <string name="gb_voice_changer_dialog_upgrade_vip">Ανανεώστε τη συνδρομή σας για να μπορείτε να χρησιμοποιήσετε σχόλια σε πραγματικό χρόνο.</string>
@@ -1846,6 +1866,8 @@
     <string name="gb_voice_changer_user_status_remain_time">Ημερομηνία λήξης: %s</string>
     <string name="gb_voice_changer_user_status_renew">Ανανέωση</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Οι συνδρομές σας έχουν λήξει. Ανανεώστε τη συνδρομή τώρα για να έχετε οφέλη!</string>
+    <string name="gb_voice_changer_user_vip_expired">Έληξε</string>
+    <string name="gb_voice_changer_user_vip_remain_time">Ημε/νία λήξης: %s</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Καταγραφή στιγμών πλήκτρων\nτων περιόδων λειτουργίας παιχνιδιών"</string>
     <string name="gb_wonderful_video_cancel">Ακύρωση</string>
     <string name="gb_wonderful_video_checkall">Επιλογή όλων</string>
@@ -1927,6 +1949,17 @@
     <string name="gtb_dialog_title_smart_5g">Βελτιστοποίηση δικτύου 5G</string>
     <string name="gtb_exit_game_to_gtb">Άνοιγμα gamebox</string>
     <string name="gtb_exit_game_to_home">Επιστροφή στην Αρχική Οθόνη</string>
+    <string name="gtb_guide_finish">Παράλειψη</string>
+    <string name="gtb_guide_gtb_button_done">Τέλος</string>
+    <string name="gtb_guide_gtb_community_desc">Μοιραστείτε την εμπειρία σας με άλλους παίκτες</string>
+    <string name="gtb_guide_gtb_community_title">Κοινότητα</string>
+    <string name="gtb_guide_gtb_func_desc">Αναβαθμίστε το παιχνίδι σας</string>
+    <string name="gtb_guide_gtb_func_title">Game Turbo</string>
+    <string name="gtb_guide_gtb_game_effected">Εφαρμόστηκε</string>
+    <string name="gtb_guide_gtb_game_new">Νέο</string>
+    <string name="gtb_guide_gtb_line_new">Αναβαθμίστε το παιχνίδι σας με το ολοκαίνουργιο Game Turbo!</string>
+    <string name="gtb_guide_small_window_app_desc">"Χρησιμοποιήστε άλλες εφαρμογές ενώ παίζετε"</string>
+    <string name="gtb_guide_small_window_app_title">Κινητά παράθυρα</string>
     <string name="gtb_setting_item_summary_smart_5g">Όποτε το Game Turbo εντοπίζει ένα δίκτυο 5G, μπορεί να συνδέσει τη συσκευή σας στο καλύτερο διαθέσιμο δίκτυο για τη μείωση της καθυστέρησης του δικτύου</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Αύξηση της ταχύτητας σύνδεσης κατά 10%-20% όταν γίνεται σύνδεση σε δρομολογητές Mi/Redmi</string>
     <string name="gtb_setting_item_title_brightness">Αυτόματη μείωση φωτεινότητας οθόνης</string>
@@ -4703,7 +4736,7 @@
     <string name="warningcenter_policeassist_noti_send">Μοιράστηκε την τοποθεσία σας με την αστυνομία</string>
     <string name="warningcenter_policeassist_noti_title">Κοινή χρήση θέσης κατά τη διάρκεια κλήσεων έκτακτης ανάγκης</string>
     <string name="warningcenter_policeassist_open_btn">Ενεργοποίηση</string>
-    <string name="warningcenter_policeassist_open_content">"Στείλτε τα στοιχεία της τοποθεσίας σας στην αστυνομία χρησιμοποιώντας SMS ή δεδομένα κινητού αυτόματα κατά την κλήση 110, 120, 119, 122, ή 12122."</string>
+    <string name="warningcenter_policeassist_open_content">"Στείλτε τα στοιχεία της τοποθεσίας σας στην αστυνομία ώς SMS ή δεδομένα αυτόματα κατά την κλήση 110, 120, 119, ή 122."</string>
     <string name="warningcenter_policeassist_open_title">Μοιραστείτε την τοποθεσία σας με την αστυνομία κατά τη διάρκεια κλήσεων έκτακτης ανάγκης</string>
     <string name="warningcenter_policeassist_privacy"><Data>"Διάβασα και συμφώνησα... &lt;a href=\"%1$s\">Σύμβαση χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>."</Data></string>
     <string name="warningcenter_policeassist_title">Τοποθεσία έκτακτης ανάγκης</string>
