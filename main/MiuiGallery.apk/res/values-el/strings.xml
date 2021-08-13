@@ -451,6 +451,9 @@
     <string name="clip_speedX_3.0x">3.0X</string>
     <string name="close">Κλείστε</string>
     <string name="close_dialog_desc">Κλείσιμο πλαισίου διαλόγου</string>
+    <string name="cloud_action_open">Ενεργ/ση</string>
+    <string name="cloud_action_upgrade">Αναβάθμιση</string>
+    <string name="cloud_action_view">Προβολή</string>
     <string name="cloud_authorize_to_share_to_device">Εξουσιοδότηση προβολής αντικειμένων σε τηλεοράσεις που σχετίζονται με το λογαριασμό σας Mi</string>
     <string name="cloud_authorizing_to_device">Εξουσιοδότηση...</string>
     <string name="cloud_backup_enable_title">Συγχρονισμός</string>
@@ -910,7 +913,9 @@
     <string name="filter_popular_coffee">Καφές</string>
     <string name="filter_popular_coldsmoke">Δροσερή ομίχλη</string>
     <string name="filter_popular_comic">Anime</string>
+    <string name="filter_popular_cyan">Periwinkle</string>
     <string name="filter_popular_dream">Αντιστροφή</string>
+    <string name="filter_popular_french">Montmartre</string>
     <string name="filter_popular_freshfood">Gourmand</string>
     <string name="filter_popular_gingertea">Ginger</string>
     <string name="filter_popular_hill">Λόφοι</string>
@@ -920,6 +925,7 @@
     <string name="filter_popular_lnk">Μελάνι</string>
     <string name="filter_popular_mango">Mango</string>
     <string name="filter_popular_pinellia">Pinellia</string>
+    <string name="filter_popular_polaroid">Instant film</string>
     <string name="filter_popular_purple">Μωβ</string>
     <string name="filter_popular_shallow_summer">Ιούνιος</string>
     <string name="filter_popular_smokegreen">Σοφός</string>
@@ -1648,6 +1654,9 @@
     <string name="photo_editor_crop_auto_tips">Αυτόματη περικοπή</string>
     <string name="photo_editor_crop_reset">Επαναφορά</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
+    <string name="photo_editor_crop_size_free">Προσαρμογή</string>
+    <string name="photo_editor_crop_size_fullscreen">Πλήρης οθόνη</string>
+    <string name="photo_editor_crop_size_origin">Κανονικό</string>
     <string name="photo_editor_doodle">Γράφημα</string>
     <string name="photo_editor_filter">Φίλτρο</string>
     <string name="photo_editor_font_default">&gt;Mi Lanting (Regular)</string>
@@ -1770,6 +1779,7 @@
     <string name="photo_purge_dialog_message_video">Δεν θα μπορείτε να επαναφέρετε στοιχεία εάν τα διαγράψετε. Να διαγραφεί οπωσδήποτε;</string>
     <string name="photo_save_to_msg">Αποθήκεύτηκε σε %s</string>
     <string name="photo_size_not_support">Αυτή η ανάλυση εικόνας δεν υποστηρίζεται</string>
+    <string name="photo_video_count">%1$s και %2$s</string>
     <string name="photo_vlog_module_finish">Επιτυχής λήψη προγράμματος επεξεργασίας βίντεο</string>
     <string name="photo_vlog_module_loading">Λήψη προγράμματος επεξεργασίας βίντεο...</string>
     <string name="photodetail_failed_already_exist">Αυτό το αρχείο υπάρχει ήδη</string>
@@ -1940,6 +1950,21 @@
     <string name="screen_save_dialog_btn_cancel">Ακύρωση</string>
     <string name="screen_save_dialog_btn_delete">Διαγραφή στιγμιότυπου οθόνης</string>
     <string name="screen_save_dialog_btn_save">Αποθήκευση στη Συλλογή</string>
+    <string name="screen_talkback_a_little_large">Μεγάλο</string>
+    <string name="screen_talkback_a_little_small">Μικρό</string>
+    <string name="screen_talkback_alpha_x">Διαφάνεια %s</string>
+    <string name="screen_talkback_color_x">Χρώμα %d</string>
+    <string name="screen_talkback_eraser">Γόμα</string>
+    <string name="screen_talkback_large">Πολύ μεγάλο</string>
+    <string name="screen_talkback_mark">Μαρκαδόρος</string>
+    <string name="screen_talkback_medium">Μεσαίο</string>
+    <string name="screen_talkback_mosaic">Ψηφιδωτό</string>
+    <string name="screen_talkback_mosaic_size_x">Περιοχή Ψηφιδ: %s</string>
+    <string name="screen_talkback_pen">Πένα</string>
+    <string name="screen_talkback_row_x_column_x">Γραμμή %1$d. Θέση %2$d.</string>
+    <string name="screen_talkback_shape">Σχήμα</string>
+    <string name="screen_talkback_small">Πολύ μικρό</string>
+    <string name="screen_talkback_text">Κείμενο</string>
     <string name="search_backup_full_screen">Ενεργοποιήστε το συγχ/σμό με το Xiaomi Cloud για να βρείτε περισσότερα αντικείμενα και άτομα</string>
     <string name="search_backup_full_screen_new">Ενεργοποίηση συγχρονισμού με το cloud για να κάνετε την αναζήτηση πιο αποτελεσματική</string>
     <string name="search_backup_now">Ενεργοποίηση</string>

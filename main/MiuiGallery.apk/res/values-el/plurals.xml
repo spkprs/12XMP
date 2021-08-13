@@ -580,4 +580,20 @@
         <item quantity="other">%1$s, %2$s στοιχεία</item>
         <item quantity="one">%1$s, %2$s στοιχείο</item>
     </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">"Αδύνατος συγχ/μός %d στοιχ. λόγω ανεπαρκούς χώρου στο cloud"</item>
+        <item quantity="one">"Αδύνατος συγχ/μός %d στοιχ. λόγω ανεπαρκούς χώρου στο cloud"</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Λήψη στοιχ. από το cloud (%2$d/%1$d)</item>
+        <item quantity="one">Λήψη στοιχ. από το cloud (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Συγχ/μός %d στοιχ. με δεδομ. κινητής</item>
+        <item quantity="one">Συγχ/μός %d στοιχ. με δεδομ. κινητής</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Συγχ/μός %d στοιχ.</item>
+        <item quantity="one">Συγχ/μός %d στοιχ.</item>
+    </plurals>
 </resources>
