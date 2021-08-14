@@ -2889,10 +2889,12 @@
     <string name="power_center_super_wireless_charge_dialog_summary">"Αυτή η λειτουργία αυξάνει την ταχύτητα ανεμιστήρα ψύξης του ασύρματου φορτιστή. Διατηρήστε τη λειτουργία αυτή ενεργή για να φορτίσετε τη συσκευή σας ταχύτερα ή απενεργοποιήστε την αν πιστεύετε ότι ο θόρυβος είναι πολύ δυνατός."</string>
     <string name="power_center_super_wireless_charge_dialog_summary2">Μετάβαση στην Ασφάλεια > Μπαταρία > Ρυθμίσεις για περισσότερες επιλογές.</string>
     <string name="power_center_super_wireless_charge_dialog_title">Γρήγορη ασύρματη φόρτιση</string>
+    <string name="power_center_super_wireless_charge_enter_noti_summary">"Αυξήστε την ταχύτητα του ανεμιστήρα ψύξης για ταχύτερη φόρτιση"</string>
+    <string name="power_center_super_wireless_charge_enter_noti_title">Δοκιμάστε γρήγορη ασύρματη φόρτιση</string>
     <string name="power_center_super_wireless_charge_noti_summary">Πατήστε για  ρυθμίσεις</string>
     <string name="power_center_super_wireless_charge_noti_switch">Ειδοποίηση για γρήγορη ασύρματη φόρτιση</string>
     <string name="power_center_super_wireless_charge_noti_title">Η γρήγορη ασύρματη φόρτιση είναι ενεργή</string>
-    <string name="power_center_super_wireless_charge_summary">"Αυξήστε την ταχύτητα ανεμιστήρα ψύξης του ασύρματου φορτιστή"</string>
+    <string name="power_center_super_wireless_charge_summary">"Αυξήστε την ταχύτητα του ανεμιστήρα ψύξης για ταχύτερη φόρτιση"</string>
     <string name="power_center_super_wireless_charge_toast_close">Η γρήγορη ασύρματη φόρτιση είναι ανενεργή</string>
     <string name="power_center_time_to_boot">Ώρα ενεργοποίησης</string>
     <string name="power_center_time_to_shutdown">Ώρα απενεργοποίησης</string>

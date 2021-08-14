@@ -1647,6 +1647,7 @@
     <string name="video_effect_entry_summer_day">Καλοκαίρι</string>
     <string name="video_effect_entry_summer_day_describe">Η χαμηλή αντίθεση και οι φωτεινοί τόνοι αποδίδουν καλά όταν πρέπει να διατηρήσετε τους τόνους του δέρματος. Αυτό το φίλτρο είναι κατάλληλο για ηλιόλουστες εξωτερικές σκηνές.</string>
     <string name="video_effect_entry_wind_sing">Άνεμος</string>
+    <string name="video_overheat_tip_content">Φαίνεται ότι η συσκευή σας είναι πολύ ζεστή. Δοκιμάστε τη λήψη βίντεο σε χαμηλότερη ανάλυση.</string>
     <string name="video_reach_size_limit">Μέγιστο όριο μεγέθους.</string>
     <string name="video_shortcut_long">Βίντεο</string>
     <string name="video_shortcut_short">Βίντεο</string>
