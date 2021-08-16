@@ -8,4 +8,8 @@
         <item quantity="other">%1$d επιλεγμένα στοιχεία</item>
         <item quantity="one">%1$d επιλεγμένο στοιχείο</item>
      </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοπ/σεις</item>
+        <item quantity="one">%d νέα ειδοπ/ση</item>
+    </plurals>
 </resources>

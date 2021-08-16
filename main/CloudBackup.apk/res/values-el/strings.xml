@@ -62,7 +62,7 @@
     <string name="backup_to_cloud">Αντίγραφο εφαρμογής</string>
     <string name="backup_warning_reason_app_usage_denied">Δεν ήταν δυνατός ο συγχρονισμός δεδομένων.\nΑπαιτούνται άδειες.</string>
     <string name="backup_warning_reason_cloud_space_not_enough">Δεν είναι δυνατή η δημιουργία αντιγράφου</string>
-    <string name="backup_warning_reason_disk_space_not_enough">Ανεπαρκής χώρος αποθήκευσης\nΔεν είναι δυνατή η δημιουργία αντιγράφου</string>
+    <string name="backup_warning_reason_disk_space_not_enough">Αδυναμία Αντιγράφου\nΑνεπαρκής χώρος αποθ/σης</string>
     <string name="backup_warning_reason_network_error">Σφάλμα δικτύου\nΔεν είναι δυνατή η δημιουργία αντιγράφου</string>
     <string name="backup_warning_reason_no_server_response">Η σύνδεση διακόπηκε\nΔοκιμάστε ξανά</string>
     <string name="btn_back">Πίσω</string>
@@ -90,7 +90,7 @@
     <string name="cloud_app_backup_success">Ολοκλήρωση αντιγράφων εφαρμογών</string>
     <string name="cloud_app_check_data">Επικοινωνία με Mi Cloud…</string>
     <string name="cloud_app_current_device">Τρέχουσα συσκευή</string>
-    <string name="cloud_app_dont_restore">Ρύθμιση ως νέα συσκευή</string>
+    <string name="cloud_app_dont_restore">Χρήση ως νέα συσκευή</string>
     <string name="cloud_app_no_data">Δεν υπάρχουν αντίγραφα ασφαλείας</string>
     <string name="cloud_app_no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="cloud_app_other_devices">Άλλες συσκευές</string>
@@ -136,7 +136,7 @@
     <string name="confirm_cancel_restore_title">Ακύρωση επαναφοράς;</string>
     <string name="confirm_restore">Επαναφορά</string>
     <string name="confirm_restore_app_data">Αντικατάσταση δεδομένων εφαρμογής</string>
-    <string name="confirm_restore_app_data_summary">Η επαναφορά δεδομένων WeChat θα αντικαταστήσει την τρέχουσα έκδοση των δεδομένων εφαρμογής σε αυτήν τη συσκευή. Να γίνει επαναφορά οπωσδήποτε;</string>
+    <string name="confirm_restore_app_data_summary">Φαίνεται ότι το WeChat έχει ήδη δημιουργήσει δεδομένα σε αυτήν τη συσκευή. Αντικατάσταση δεδομένων από το αντίγραφο ασφαλείας;</string>
     <string name="confirm_restore_summary">Η Αρχική οθόνη θα επανεκκινήσει και τα αντίγραφα των εφαρμογών θα ληφθούν αυτόματα.</string>
     <string name="confirm_restore_title">Επαναφορά</string>
     <string name="copy">Copy</string>
@@ -278,6 +278,8 @@
     <string name="restore_init_description">Έναρξη Επαναφοράς</string>
     <string name="restore_network_pause">Έγινε παύση αποθήκευσης δεδομένων κινητής. Πατήστε για συνέχιση.</string>
     <string name="restore_network_unconnect">%s (Αναμονή για σύνδεση)</string>
+    <string name="restore_prepare_item_type_enable">Διαθέσιμα Αντίγραφα</string>
+    <string name="restore_prepare_item_type_other">Άλλα Αντίγραφα</string>
     <string name="restore_task_cancelling">Ακύρωση…</string>
     <string name="restore_task_in_process">Επαναφορά…</string>
     <string name="restore_task_unfinished">"Αδυναμία επαναφοράς"</string>
@@ -290,8 +292,8 @@
     <string name="retry">Δοκιμάστε ξανά</string>
     <string name="search_menu_title">Search</string>
     <string name="selected">Επιλεγμένα</string>
-    <string name="self_device_main_space">"Πρώτος Χώρος τηλεφώνου"</string>
-    <string name="self_device_second_space">"Δεύτερος Χώρος τηλεφώνου"</string>
+    <string name="self_device_main_space">"Πρώτος Χώρος"</string>
+    <string name="self_device_second_space">"Δεύτερος Χώρος"</string>
     <string name="settings_backup">Ρυθμίσεις συστήματος</string>
     <string name="size_unknown">Άγνωστο μέγεθος</string>
     <string name="start_backup_to_micloud">Αντίγραφα εφαρμογών στο Xiaomi Cloud</string>

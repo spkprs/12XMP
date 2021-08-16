@@ -38,6 +38,7 @@
     <string name="long_screenshot_stop">Τέλος</string>
     <string name="long_screenshot_top_msg">Γίνεται δημιουργία στιγμιότυπου οθόνης…</string>
     <string name="long_screenshot_top_msg_manual">Αποκόψτε το στιγμιότυπο οθόνης και πατήστε το κουμπί για ολοκλήρωση</string>
+    <string name="notification_channel_alerts">Ειδοποιήσεις</string>
     <string name="partial_screenshot_edit">Επεξεργασία</string>
     <string name="partial_screenshot_failed_to_capture_title">"Αυτή η εφαρμογή δεν επιτρέπει τη λήψη στιγμιότυπων οθόνης"</string>
     <string name="partial_screenshot_failed_to_save_title">"Αδύνατη η αποθήκευση. Ανεπαρκής χώρος."</string>
