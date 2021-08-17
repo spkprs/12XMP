@@ -3838,7 +3838,9 @@
     <string name="low_storage_summary">Η αποθήκευση είναι χαμηλή. %1$s χρησιμοποιείται - %2$s ελεύθερος</string>
     <string name="macaddr_label">MAC διεύθ.:</string>
     <string name="magic_list_empty_text">Δεν υπάρχουν συμβατές εφαρμογές με αυτήν τη δυνατότητα τώρα</string>
-    <string name="magic_window_name">Βελτιστοποίηση εφαρμ. για οριζόντια προβολή</string>
+    <string name="magic_list_empty_text_pad">Δεν υπάρχουν εφαρμ. συμβατές με αυτή τη λειτουργία τώρα</string>
+    <string name="magic_window_name">Παράλληλα παράθυρα</string>
+    <string name="magic_window_name_pad">Βελτιστοποίηση εφαρμ. για οριζόντια προβολή</string>
     <string name="mah">%d mAh</string>
     <string name="main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύωσης</string>
     <string name="main_running_process_description">Κύρια διαδικασία σε χρήση.</string>

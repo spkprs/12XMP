@@ -144,6 +144,7 @@
     <string name="notification_anim_pulse">Παλμός</string>
     <string name="notification_anim_rhythm">Ρυθμός</string>
     <string name="notification_anim_star">Αστρικό φως</string>
+    <string name="notification_channel_alerts">Ειδοπ/σεις</string>
     <string name="notification_nothing">Χωρίς</string>
     <string name="notification_screen_on">Φωτεινή οθόνη</string>
     <string name="off">Off</string>
