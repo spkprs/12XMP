@@ -372,6 +372,14 @@
     <string name="lock_screen_failed_message">Δεν μπορεί να εφαρμοστεί</string>
     <string name="lock_screen_success_message">Εφαρμόστηκε</string>
     <string name="lock_screen_wallpaper">Ταπετσαρία οθόνης κλειδώματος</string>
+    <string name="maml_download_dialog_cancel_text">Αναμονή για Wi-Fi</string>
+    <string name="maml_download_dialog_cancel_text_china">Αναμονή για WLAN</string>
+    <string name="maml_download_dialog_checkbox_text">"Χωρίς επανεμφάνιση"</string>
+    <string name="maml_download_dialog_confirm_text">Λήψη</string>
+    <string name="maml_download_dialog_message">%s MB των δεδομένων θα χρησιμοποιηθούν για τη λήψη αυτού του στοιχείου. Λήψη ούτως ή άλλως;</string>
+    <string name="maml_download_dialog_title">Προειδοποίηση δεδομένων</string>
+    <string name="maml_download_tip_wait_wifi">Αυτό το στοιχείο θα ληφθεί όταν συνδεθείτε στο Wi-Fi</string>
+    <string name="maml_download_tip_wait_wifi_china">Αυτό το στοιχείο θα ληφθεί όταν συνδεθείτε στο WLAN</string>
     <string name="manager_group_settings">Διαχείριση κατηγοριών</string>
     <string name="memory_clear_nothing_result">Προσωρινή Μνήμη κενή</string>
     <string name="memory_clear_result">%1$sB εκκαθαρίστηκαν</string>
@@ -526,6 +534,7 @@
     <string name="open_personal_assistant_dialog_desc">Αδύνατη η χρήση του Προσωπικού βοηθού και λήψη ενημερώσεων του. Απενεργοποίηση τώρα;</string>
     <string name="open_personal_assistant_dialog_desc_international">Δεν θα μπορείτε να χρησιμοποιείτε τις κάρτες του Προσωπικού βοηθού (Αποθέσεις, Συντομεύσεις κ.λ.π.) και λήψη ενημερώσεων μετά την απενεργοποίηση αυτής της λειτουργίας.</string>
     <string name="open_personal_assistant_dialog_title">Απενεργ. Προσωπικού βοηθού</string>
+    <string name="open_personal_assistant_settings">Ρυθμίσεις Βοηθού MIUI</string>
     <string name="open_personal_assistant_title">Προσωπικός βοηθός</string>
     <string name="open_personal_assistant_title_synonyms">Αρνητική οθόνη</string>
     <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
@@ -682,6 +691,7 @@
     <string name="switch_personal_assistant_none">Χωρίς</string>
     <string name="switch_screen_button_order">Αντίθετα Πλήκτρα</string>
     <string name="switch_screen_button_order_desc">Αντίθετα Πλήκτρα Πίσω και Μενού</string>
+    <string name="system_shortcuts_edit">Επεξεργασία</string>
     <string name="system_shortcuts_more_operation">Πληροφορ.</string>
     <string name="system_shortcuts_remove">Αφαίρεση</string>
     <string name="system_text">Αυτόματα</string>
@@ -695,6 +705,7 @@
     <string name="title_jeejen">Αρχική σελίδα Jeejen</string>
     <string name="title_select_live_folder">Επιλογή φακέλου</string>
     <string name="title_select_shortcut">Επιλογή συντόμευσης</string>
+    <string name="toast_drag_to_assistant_reject">Αρχικοποίηση Βοηθού MIUI…</string>
     <string name="toast_screen_icons_misplaced">Έγινε επαναφορά από άλλη πηγή. Ορισμένα εικονίδια μπορεί να είναι σε λάθος θέση</string>
     <string name="toggle_select_title">Επιλογή κουμπιού</string>
     <string name="toggle_title">Κουμπιά</string>
