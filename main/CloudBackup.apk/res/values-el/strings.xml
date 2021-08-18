@@ -149,6 +149,8 @@
     <string name="desktop_wait_network">Αναμονή...</string>
     <string name="desktop_waiting">Αναμονή</string>
     <string name="device_delete_prompt">Διαγραφή αντ.ασφαλείας του %s;</string>
+    <string name="dialog_app_usage_consent_message">Αυτή η λειτουργία χρειάζεται πρόσβαση σε δεδομένα χρήσης της εφαρμογής για να εκτιμήσει το μέγεθος των αντιγράφων του WeChat.</string>
+    <string name="dialog_app_usage_consent_title">Αποδοχή πρόσβασης σε δεδομένα χρήσης εφαρμογών</string>
     <string name="dialog_app_usage_denied">Παραχωρήστε Αντίγραφο την άδεια \"Πρόσβαση χρήσης\" στις Ρυθμίσεις για τη δημιουργία αντιγράφων των στοιχείων.</string>
     <string name="dialog_backup_failed">"Δεν ήταν δυνατή η δημιουργία αντιγράφου"</string>
     <string name="dialog_btn_cancel_backup">Ακύρωση</string>
@@ -157,6 +159,8 @@
     <string name="dialog_btn_next">Επόμενο</string>
     <string name="dialog_btn_overwrite_backup">Αντικατάσταση</string>
     <string name="dialog_btn_restore_skip">Επαναφορά αργότερα</string>
+    <string name="dialog_button_agree">Αποδοχή</string>
+    <string name="dialog_button_disagree">"Απόρριψη"</string>
     <string name="dialog_buy_cloud_space">Αναβάθμιση</string>
     <string name="dialog_cancel_backup_cancel">Ακύρωση</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
@@ -178,6 +182,11 @@
     <string name="download_meta_failed">"Αδυναμία φόρτωσης δεδομένων."</string>
     <string name="download_settings">Λήψη ρυθμίσεων Αρχικής οθόνης %s%%</string>
     <string name="download_settings_fail">Αδυναμία λήψης ρυθμίσεων Αρχικής οθόνης</string>
+    <string name="dump_app_data_record_complete_msg">Τοποθεσίες αρχείων: %s</string>
+    <string name="dump_app_data_record_complete_title">Επιτυχή αντίγραφα δεδομένων WeChat</string>
+    <string name="dump_app_data_record_not_found_msg">"Φαίνεται ότι δεν έχετε δημιουργήσει αντίγραφα δεδομένων WeChat στο παρελθόν"</string>
+    <string name="dump_app_data_record_not_found_title">"Αδύνατη η εύρεση αντιγράφων WeChat"</string>
+    <string name="dump_app_data_record_running_title">Δημιουργία αντιγράφων WeChat…</string>
     <string name="error_num_placeholder">--</string>
     <string name="error_retry_later">"Απέτυχε η ολοκλήρωση ενέργειας, προσπαθήστε αργότερα παρακαλώ."</string>
     <string name="error_unknown">Κάτι έγινε λάθος</string>

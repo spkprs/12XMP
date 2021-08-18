@@ -193,7 +193,7 @@
     <string name="find_device_clear_data">Διαγραφή δεδομένων</string>
     <string name="find_device_close">Off</string>
     <string name="find_device_error_password_not_confirmed">Αδυναμία απενεργοποίησης του Εύρεση Συσκευής. Πληκτρολογήστε ξανά τον κωδικό του Mi λογαριασμού σας</string>
-    <string name="find_device_error_password_recently_changed">Έχετε αλλάξει τον κωδικό σας τις τελευταίες 3 ημέρες. Δεν μπορείτε να απενεργοποιήσετε το Εύρεση Συσκευής τώρα για λόγους ασφαλείας.</string>
+    <string name="find_device_error_password_recently_changed">Έχετε αλλάξει τον κωδικό σας τις τελευταίες %d ημέρες. Δεν μπορείτε να απενεργοποιήσετε το Εύρεση Συσκευής τώρα για λόγους ασφαλείας.</string>
     <string name="find_device_interrupted">Η ενέργεια διακόπηκε. Δοκιμάστε ξανά αργότερα</string>
     <string name="find_device_io_error">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="find_device_location">Εντοπισμός</string>
