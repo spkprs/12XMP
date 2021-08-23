@@ -151,6 +151,7 @@
     <string name="international_livetalk_enable">Χρήση πακέτων top-up για διεθνείς κλήσεις</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Διάστημα</string>
+    <string name="keyboard_connect_failed">"Αδύνατη η σύνδεση του πληκτρολογίου. Επανάληψη."</string>
     <string name="keyboard_identity_reject_confirm">Κατανοητό</string>
     <string name="keyboard_identity_reject_message">"Φαίνεται ότι το πληκτρολόγιό σας δεν είναι συμβατό με αυτήν τη συσκευή."</string>
     <string name="keyboard_identity_transfer_error_message">"Δεν ήταν δυνατή η σύνδεση του πληκτρολογίου. Δοκιμάστε ξανά."</string>

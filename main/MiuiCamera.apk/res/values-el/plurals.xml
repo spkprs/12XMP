@@ -52,4 +52,12 @@
     <plurals name="synced_immerse_title">
         <item quantity="other">Συγχρ. %1$d φωτο. %2$d βίντεο</item>
     </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>"Αδύνατη η σύνδεση με την Κάμερα.&lt;br>Αυτή η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευτ.&lt;/b>&lt;/font>. Δοκιμάστε ξανά."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Αδύνατη η σύνδεση με την Κάμερα.&lt;br>Αυτή η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευτ.&lt;/b>&lt;/font>. Δοκιμάστε ξανά."&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Η συσκευή είναι πολύ ζεστή.&lt;br>Αυτή η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευτ.&lt;/b>&lt;/font>. Η τρέχουσα πρόοδος αποθηκεύτηκε αυτόματα.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Η συσκευή είναι πολύ ζεστή.&lt;br>Αυτή η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευτ.&lt;/b>&lt;/font>. Η τρέχουσα πρόοδος αποθηκεύτηκε αυτόματα.&lt;/Data></item>
+    </plurals>
 </resources>

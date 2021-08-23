@@ -1634,6 +1634,7 @@
     <string name="open_lock_screen_magazine_hint_text">Σύρετε δεξιά για επιλογές</string>
     <string name="open_remote_center_hint_text">Σύρετε δεξιά για συντομεύσεις</string>
     <string name="open_saver_setting_action">Ρυθμίσεις</string>
+    <string name="open_xmyzl_hint_text">Σαρώστε δεξιά για άνοιγμα Xiaomi Magic Control</string>
     <string name="orb_search_action">Αναζήτηση ενέργειας</string>
     <string name="osu_completing_sign_up">Ολοκλήρωση εγγραφής…</string>
     <string name="osu_connect_failed">Δεν ήταν δυνατή η σύνδεση</string>

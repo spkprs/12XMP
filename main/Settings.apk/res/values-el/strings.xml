@@ -3095,6 +3095,7 @@
     <string name="headset_remove_message">Κατάργηση σύζευξης;</string>
     <string name="headset_remove_message_indicate">Η %1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν το λογαριασμό Mi.</string>
     <string name="headset_settings_title">Εφέ Ήχου</string>
+    <string name="headset_toast_tip_disconnect_others">Τα ακουστικά δεν μπορούν να ρυθμιστούν,  ίσως είναι συνδεδεμένα σε άλλο τηλέφωνο</string>
     <string name="headset_unsaved_device">Αφαίρεση της συσκευής</string>
     <string name="headset_unsaved_devices">Χρησιμοποιείται σε άλλες συσκευές</string>
     <string name="hearing_aids_category">Βοηθητικά εργαλεία ακοής</string>
@@ -4847,6 +4848,8 @@
     <string name="owner_info_settings_title">Πληροφορίες Κατόχου</string>
     <string name="owner_space">Πρώτο προφίλ</string>
     <string name="packages_subtitle">Περιλαμβανόμενα πακέτα</string>
+    <string name="pad_add_fingerprint_finish_message">Πατήστε \"Τέλος\" για πρόσθετες ρυθμίσεις</string>
+    <string name="pad_add_fingerprint_message">Αγγίξτε το δάκτυλό σας στο κουμπί Power</string>
     <string name="pad_flash_drive_backup_enable">Χρήση μονάδας USB για δημιουργία Αντιγράφων ή Επαναφορά</string>
     <string name="page_layout_1">Κυρ 28/12</string>
     <string name="page_layout_10">Ρυθμίσεις</string>
