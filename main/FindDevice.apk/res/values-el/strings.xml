@@ -33,7 +33,7 @@
      <string name="find_device_error_server">Σφάλμα διακομιστή (%s)</string>
      <string name="find_device_error_unknown">Άγνωστο σφάλμα (%s)</string>
      <string name="find_device_noise_title">Ειδοποίηση Εύρεση συσκευής</string>
-     <string name="find_device_notice">Μεταβείτε στο &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> για να εντοπίσετε, κλειδώσετε, ή να επαναφέρετε τη συσκευή σας.</string>
+     <string name="find_device_notice">Εάν η συσκευή σας χαθεί, μπορείτε να επισκεφθείτε &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> για να εντοπίσετε, κλειδώσετε, ή να διαγράψετε τα δεδομένα της εξ αποστάσεως.</string>
      <string name="find_device_notice_sms_alert">Αν αλλάξετε κάρτες SIM, μπορεί να αποσταλεί αυτόματα ένα άλλο μήνυμα SMS για να επανεργοποιηθεί αυτή η λειτουργία.</string>
      <string name="find_device_notice_sms_alert_with_common_charge_hint">"Προκειμένου να ενημερωθεί η κατάσταση της SIM και να διασφαλιστεί ότι όλες οι υπηρεσίες λειτουργούν κανονικά, ένα &lt;font color=#0097FF>&lt;b>μήνυμα κειμένου&lt;/b>&lt;/font> θα αποσταλεί αφού αλλάξετε κάρτες SIM. Θα χρεωθείτε για αυτό το μήνυμα από τον πάροχο σας."</string>
      <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Προκειμένου να ενημερωθεί η κατάσταση της SIM και να διασφαλιστεί ότι όλες οι υπηρεσίες λειτουργούν κανονικά, ένα &lt;font color=#0097FF>&lt;b>τοπικό μήνυμα κειμένου&lt;/b>&lt;/font> θα αποσταλεί αφού αλλάξετε κάρτες SIM. Θα χρεωθείτε για αυτό το μήνυμα από τον πάροχο σας."</string>

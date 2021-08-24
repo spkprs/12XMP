@@ -510,8 +510,8 @@
     <string name="no_sim">Δεν ανιχνεύθηκε κάρτα SIM</string>
     <string name="not_set">Δεν ορίστηκε</string>
     <string name="notification_reinstall_key_text">Επαληθεύστε την ταυτότητά σας και δοκιμάστε ξανά</string>
-    <string name="notification_sync_fail_title">"Δεν ήταν δυνατός ο συγχρονισμός"</string>
-    <string name="notification_update_key_text">Έγινε επαναφορά του κωδικού πρόσβασής σας</string>
+    <string name="notification_sync_fail_title">"Αδυναμία συγχ/σμού κωδικών"</string>
+    <string name="notification_update_key_text">Ο κωδικός πρόσβασης του διαχειριστή κωδικών πρόσβασης άλλαξε. Επαληθεύστε τον νέο κωδικό πρόσβασης</string>
     <string name="pay_info_dialog_confirm_to_pay">Πληρωμή %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Χρήση υπόλοιπων Mi Coins: %s</string>
     <string name="pay_info_dialog_title">Επιλέξτε τρόπο πληρωμής</string>

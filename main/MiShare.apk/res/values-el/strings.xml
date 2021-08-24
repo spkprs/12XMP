@@ -46,6 +46,8 @@
     <string name="confirm_cancel_task_images">Ακύρωση αποστολής εικόνων σε %1$s?</string>
     <string name="copy">Αντίγραφο</string>
     <string name="default_device_name">Αγνωστη συσκευή</string>
+    <string name="device_list_all">Όλες οι συσκευές</string>
+    <string name="device_list_more">Περισσότερα</string>
     <string name="device_name">Ονομα συσκευής</string>
     <string name="device_offline">Η άλλη συσκευή είναι εκτός σύνδεσης. Ξεκινήσετε από την αρχή.</string>
     <string name="device_status_failed">Δεν ήταν δυνατή η αποστολή</string>
@@ -180,13 +182,25 @@
     <string name="to_feedback">Αναφορά</string>
     <string name="transfer_intercept_to_remote">Αδυναμία αποστολής σε: %1$s</string>
     <string name="transfer_to_pc_summary">Η πιο πρόσφατη έκδοση του λογισμικού AIoT είναι εγκατεστημένη σε Mi Notebooks και είναι συμβατή με το Mi Share. Ελέγξτε τα υποστηριζόμενα μοντέλα στον ιστότοπο MIUI. Εάν ο υπολογιστής σας βρίσκεται στη λίστα αλλά δεν έχει εγκατασταθεί το AIoT σε αυτόν, ενημερώστε το BIOS, τον προσαρμογέα δικτύου και κάντε λήψη του AIoT.</string>
+    <string name="transfer_to_pc_summary_new"><Data>"Η τελευταία έκδοση του MIUI+ που είναι εγκατεστημένη στα Laptop Mi είναι συμβατή με το Mi Share. Μπορείτε να ελέγξετε τη λίστα υποστήριξης στον ιστότοπο MIUI+. (&lt;a href=%1$s>%2$s&lt;/a>). Εάν βρίσκεται στη λίστα, αλλά το MIUI+ δεν είναι εγκατεστημένο, ενημερώστε το BIOS και το πρόγραμμα οδήγησης του προσαρμογέα δικτύου του Laptop σας, και κατεβάστε το MIUI+."</Data></string>
     <string name="transfer_to_pc_title">Αποστολή αρχείων σε υπολογιστές</string>
     <string name="transfer_to_phone_summary">Ενεργοποιήστε το Mi Share χρησιμοποιώντας το εικονίδιο στον πίνακα γρήγορης πρόσβασης. Μετά από αυτό, θα μπορείτε να βλέπετε κοντινές συσκευές όταν αρχίσετε να μοιράζεστε μια φωτογραφία ή ένα αρχείο. Πατήστε τη συσκευή του παραλήπτη για να στείλετε το στοιχείο που μοιράζεστε.</string>
     <string name="transfer_to_phone_title">Αποστολή αρχείων σε τηλέφωνα</string>
+    <string name="transfer_to_summary">"Ενεργοποιήστε το Mi Share χρησιμοποιώντας το διακόπτη στον Πίνακα ειδοποιήσεων. Μετά, θα μπορείτε να δείτε τις κοντινές συσκευές όταν ξεκινάτε την κοινή χρήση μιας φωτό ή ενός αρχείου. Πατήστε τη συσκευή του παραλήπτη για να στείλετε το στοιχείο που μοιράζεστε."</string>
+    <string name="transfer_to_title">Αποστολή αρχείων σε κινητές συσκευές</string>
     <string name="unkonw_device">Αγνωστη συσκευή</string>
     <string name="unrecognized_manufacture">Άγνωστο</string>
     <string name="unrecognized_model">Αγνωστη συσκευή</string>
     <string name="user_instructions">Προσοχή</string>
+    <string name="uwb_guide_summary_1">"Αν δεν μπορείτε να βρείτε τη συσκευή-στόχο, ζητήστε από το άλλο άτομο να πατήσει τον διακόπρη Mi Share στο Κέντρο Ελέγχου.."</string>
+    <string name="uwb_guide_title_1">Ζητήστε από το άλλο άτομο να ενεργοποιήσει Mi Share</string>
+    <string name="uwb_guide_title_2">Βρείτε τη συσκευή-στόχο γρηγορότερα με το Beam</string>
+    <string name="uwb_setting_guide">Περισσότερα</string>
+    <string name="uwb_setting_guide_summary">Το Beam χρησιμοποιεί την τεχνολογία UWB για την ασύρματη αναγνώριση συσκευών-στόχων. Μόλις αναγνωριστεί η συσκευή-στόχος, το εικονίδιό της θα εμφανιστεί στο προσκήνιο.</string>
+    <string name="uwb_setting_guide_title">Κρατήστε αυτή τη συσκευή ακριβώς απέναντι από τη συμβατή συσκευή-στόχο</string>
+    <string name="uwb_summary">Το Beam χρησιμοποιεί την τεχνολογία UWB για την ασύρματη αναγνώριση συσκευών-στόχων. Η μεταφορά αντικειμένων μεταξύ συσκευών που τροφοδοτούνται με τεχνολογία UWB είναι ταχύτερη και πιο βολική.</string>
+    <string name="uwb_support_device">"Συμβατές συσκευές: "</string>
+    <string name="uwb_title">Beam</string>
     <string name="view_file">Προβολή</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo手机</string>

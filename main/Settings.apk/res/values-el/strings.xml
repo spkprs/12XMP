@@ -3636,6 +3636,8 @@
     <string name="lock_profile_wipe_warning_content_pattern">Αν εισαγάγετε ένα λανθασμένο σχέδιο εργασίας σε αυτήν την προσπάθεια, το προφίλ εργασίας και τα σχετικά δεδομένα θα καταργηθούν από αυτήν τη συσκευή.</string>
     <string name="lock_profile_wipe_warning_content_pin">Αν εισαγάγετε έναν εσφαλμένο κωδικό PIN εργασίας σε αυτήν την προσπάθεια, το προφίλ εργασίας και τα σχετικά δεδομένα θα καταργηθούν από αυτήν τη συσκευή.</string>
     <string name="lock_screen_action">Προβολή στοιχείων με κάτω σάρωση στην Οθόνη Κλειδώματος</string>
+    <string name="lock_screen_after_fold_screen_summary">Όταν χρησιμοποιείτε την μπροστινή κάμερα ή το ακουστικό, η οθόνη δεν κλειδώνει μετά την αναδίπλωση</string>
+    <string name="lock_screen_after_fold_screen_title">Κλείδωμα της οθόνης μετά την αναδίπλωση της οθόνης</string>
     <string name="lock_screen_display_category_name">Οθόνη Κλειδώματος</string>
     <string name="lock_screen_intro_skip_dialog_text">Οι λειτουργίες προστασίας συσκευής δεν θα ενεργοποιηθούν. Δεν θα μπορείτε να αποτρέψετε άλλους από τη χρήση αυτού του τηλεφώνου, αν χαθεί ή κλαπεί.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Οι λειτουργίες προστασίας συσκευής δεν θα ενεργοποιηθούν. Δεν θα μπορείτε να αποτρέψετε άλλους από τη χρήση αυτού του τηλεφώνου εάν χαθεί, κλαπεί ή υποστεί ολική επαναφορά.</string>
@@ -4925,6 +4927,7 @@
     <string name="paper_mode_summary">Μετάβαση σε πιο ζεστά χρώματα και προσθήκη υφής χαρτιού στο φόντο για μείωση της καταπόνησης των ματιών</string>
     <string name="paper_mode_title">Χαρτί</string>
     <string name="papger_effect_category">Λειτουργία</string>
+    <string name="params_interpretation">Λεπτομερείς προδιαγραφές</string>
     <string name="partial_connectivity_text">Ορισμένες εφαρμογές και υπηρεσίες ενδέχεται να μην λειτουργούν λόγω περιορισμένης συνδεσιμότητας. Να χρησιμοποιηθεί ούτως ή άλλως;</string>
     <string name="passpoint_content">%1$s πιστοποιητικά</string>
     <string name="passpoint_label">Αποθηκεύτηκε μέσω</string>
@@ -7506,6 +7509,7 @@
     <string name="video_calling_settings_title">Βιντεοκλήσεις μέσω κινητού τηλεφώνου</string>
     <string name="video_tool_box_title">Εργαλεία Video</string>
     <string name="vip_list">Ειδοποίηση σχετικά με κλήσεις</string>
+    <string name="vip_service_settings">Οι υπηρεσίες μου</string>
     <string name="virtual_keyboard_category">Εικονικό πληκτρολόγιο</string>
     <string name="virtual_keyboards_for_work_title">Εικονικό πληκτρολόγιο για εργασία</string>
     <string name="virtual_sim_category_title">Εικονική SIM</string>
