@@ -849,6 +849,7 @@
     <string name="boot_time_day">Η συσκευή θα ενεργοποιηθεί σε %1$dη στις %2$s</string>
     <string name="boot_time_day_tomorrow">Ενεργοποίηση αύριο στις %1$s</string>
     <string name="bottom_func_guide_default_text">Περισσότερες δυνατότητες</string>
+    <string name="bottom_notice_title">Σύρετε επάνω για άνοιγμα εργαλειοθήκης</string>
     <string name="btn_back">Πίσω</string>
     <string name="btn_finish_diagnostic">OK</string>
     <string name="btn_start_diagnostic">Δοκιμή δικτύου</string>
@@ -992,6 +993,8 @@
     <string name="cmcc_app_check_dialog_negative">Αργότερα</string>
     <string name="cmcc_app_check_dialog_positive">Επανεκκίνηση τώρα</string>
     <string name="cmcc_app_check_dialog_title">Το σύστημα επιδιορθώθηκε</string>
+    <string name="commonly_used_func_card_title">Κοινά χαρακτηριστικά</string>
+    <string name="commonly_used_func_edit_too_many_func">"Δεν μπορείτε να προσθέσετε περισσότερα στοιχεία"</string>
     <string name="comprehensive_protection_measures">Ολοκληρωμένη προστασία</string>
     <string name="confirmSecondSpacePassword">Επιβεβαίωση κωδικού Δεύτερου προφίλ</string>
     <string name="confirm_allow_all_permission">Να επιτρέπεται σε όλες τις εφαρμογές αυτή η δυνατότητα;</string>
@@ -1219,6 +1222,7 @@
     <string name="ew_alert_earthquake_feel_title">Εκτιμώμενη ένταση</string>
     <string name="ew_alert_earthquake_level_title">Εκτιμώμενο μέγεθος</string>
     <string name="ew_alert_emergency_text">Προβολή\nιατρική κάρτα</string>
+    <string name="ew_alert_emergency_text_single">Εμφάνιση ιατρικής κάρτας</string>
     <string name="ew_alert_help_earthquake_title">Έφτασε σεισμικό κύμα</string>
     <string name="ew_alert_help_place_navigation">Πλοήγηση</string>
     <string name="ew_alert_help_place_text">Εάν είναι απαραίτητο, μεταβείτε στο πλησιέστερο καταφύγιο για να εξασφαλίσετε την ασφάλεια και να λάβετε την απαραίτητη βοήθεια.</string>
@@ -2777,6 +2781,8 @@
     <string name="phone_manage_special_title">Ειδικά χαρακτηριστικά</string>
     <string name="phone_manage_system_tool_summary">Εργαλεία σε επίπεδο συστήματος</string>
     <string name="phone_manage_system_tool_title">Εργαλεία</string>
+    <string name="phone_manager_edit_commonly_used_func_title">Επεξεργασία κοινών χαρακτηριστικών</string>
+    <string name="phone_manager_title">Εργαλειοθήκη</string>
     <string name="pkg_traffic">Ορισμός ορίου δεδομένων</string>
     <string name="pm_auto_start_by_other">Έμμεση έναρξη</string>
     <string name="pm_auto_start_by_other_app">Επιτρέψτε την εκκίνηση της εφαρμογής από άλλες εφαρμογές</string>
@@ -3125,6 +3131,7 @@
     <string name="pp_private_photo_album_detail">Κρυπτογράφηση και προστασία στοιχείων με κλείδωμα οθόνης</string>
     <string name="pp_prohibit_use_camera_in_background">Περιορισμός με χρήση κάμερας στο παρασκήνιο</string>
     <string name="pp_prohibit_use_camera_in_background_detail">"Από προεπιλογή, οι εφαρμογές δεν θα μπορούν να χρησιμοποιούν την κάμερα στο παρασκήνιο"</string>
+    <string name="pp_read_phone_info_summary">Πρόσβαση στις πληροφ. SIM</string>
     <string name="pp_record_msg">Εγγραφή ήχου</string>
     <string name="pp_safe_box">Ιδιωτικός χώρος</string>
     <string name="pp_safe_box_detail">"Τα ιδιωτικά στοιχεία κρυπτογραφούνται και αποθηκεύονται μόνο σε αυτήν τη συσκευή. Τα άλλα άτομα δεν θα μπορούν να έχουν πρόσβαση σε αυτά ενώ χρησιμοποιούν αυτήν την συσκευή ενώ η συσκευή δεν θα μπορεί να έχει πρόσβαση σε κρυπτογραφημένα στοιχεία και να τα χρησιμοποιεί με οποιονδήποτε τρόπο."</string>
@@ -3134,6 +3141,7 @@
     <string name="pp_safe_save_pwd_and_account">Ασφαλή αποθήκ.</string>
     <string name="pp_safe_share_img_detail">Κοινή χρήση φωτογραφιών χωρίς πληροφορίες και μεταδεδομένα τοποθεσίας</string>
     <string name="pp_smart_manager_pwd">Κωδικοί πρόσβ.</string>
+    <string name="pp_sms_and_contacts">Επαφές και μηνύματα</string>
     <string name="pp_special_permission_settings">Ειδικές άδειες</string>
     <string name="pp_special_permission_settings_detail">Έλεγχος του τρόπου χρήσης ειδικών αδειών από τις εφαρμογές</string>
     <string name="pp_storage_msg">Χώρος αποθήκευσης</string>
@@ -3585,8 +3593,8 @@
     <string name="security_bottom_guide_to_pm_text">Αφήστε για άνοιγμα των βοηθητικών προγραμμάτων</string>
     <string name="security_center_slogan">Διατηρήστε την γρήγορη ασφαλή</string>
     <string name="security_guide_bubble_text">Άνοιγμα</string>
-    <string name="security_guide_summary">Ένα-Σημείο για εργαλεία και υπηρεσίες</string>
-    <string name="security_guide_title">MIUI βοηθητικό πακέτο</string>
+    <string name="security_guide_summary">Όλα τα εργαλεία σε ένα μέρος</string>
+    <string name="security_guide_title">Εργαλειοθήκη</string>
     <string name="security_protection_bottom_slogon">Η Ασφάλεια στα καλύτερά της</string>
     <string name="security_protection_title">Ασφάλεια</string>
     <string name="security_scan_optimizing">Βελτιστοποίηση…</string>
@@ -3655,6 +3663,18 @@
     <string name="signed_rule_one">1. Ελέγξτε σε 10, 20 ή 28 ημέρες στη σειρά κάθε μήνα για να πάρετε μια ώθηση Xunyou για 1, 2 ή 3 ημέρες αντίστοιχα.</string>
     <string name="signed_rule_three">3.Οι ημέρες κατά το check-in ακυρώνονται στις αρχές κάθε μήνα. Οι υπόλοιπες ημέρες δεν μεταφέρονται.</string>
     <string name="signed_rule_two">2.Μπορείτε να πάρετε μόνο 1 ώθηση Xunyou ανά μήνα.</string>
+    <string name="sim_car_absent__tip">Επιβεβαίωση κλειδώμ. οθόνης για απενεργ/ση της λειτουργίας Απώλειας</string>
+    <string name="sim_car_absent_intercept_action">Επιβεβαίωση κλειδώμ. οθόνης (%d)</string>
+    <string name="sim_car_absent_intercept_action_last">Επιβεβαίωση κλειδώμ. οθόνης</string>
+    <string name="sim_car_absent_intercept_item_summary">Η Εύρεση συσκευής είναι ενεργή. Για την απενεργ/ση της συσκευής ή την ακύρωση της κάρτας SIM απαιτείται κλείδωμα οθόνης.</string>
+    <string name="sim_car_absent_intercept_item_summary_last">Η Εύρεση συσκευής είναι ενεργή. Για την απενεργ/ση της συσκευής ή την ακύρωση της κάρτας SIM. Απαιτείται κλείδωμα οθόνης Ενεργοποιήθηκε η λειτουργία Απώλειας.</string>
+    <string name="sim_car_absent_intercept_item_title">Ενεργοποιήθηκαν μηχανισμοί προστασίας</string>
+    <string name="sim_car_absent_intercept_summary">Η κάρτα SIM αφαιρέθηκε. Επιβεβαιώστε το κλείδωμα οθόνης για να μπορέσετε να χρησιμοποιήσετε αυτή τη συσκευή.</string>
+    <string name="sim_car_absent_intercept_title">Επιβεβαίωση κλειδώμ. οθόνης</string>
+    <string name="sim_car_absent_summary">Επιβεβαίωση κλειδώμ. οθόνης για χρήση αυτής της συσκευής.</string>
+    <string name="sim_car_absent_title">Αυτή η συσκευή έχει χαθεί</string>
+    <string name="sim_card_absent_intercept_tip">"Εάν δεν επιβεβαιώσετε το κλείδωμα οθόνης, η λειτουργία \"Απώλεια\" θα ενεργοποιηθεί."</string>
+    <string name="sim_card_absent_warning_voice">Η κάρτα SIM αφαιρέθηκε. Επιβεβαίωση κλειδώμ. οθόνης.</string>
     <string name="sim_location_error_dialog_message">Η SIM που χρησιμοποιείτε είναι από %1$s. Αυτό είναι διαφορετικό από την τοποθεσία που ρυθμίσετε χειροκίνητα (%2$s). Αλλαγή τοποθεσίας SIM σε %3$s;</string>
     <string name="sim_location_error_notify_message">Πατήστε για αλλαγή τοποθεσίας SIM.</string>
     <string name="sim_location_error_notify_title">Σφάλμα κάρτας SIM</string>

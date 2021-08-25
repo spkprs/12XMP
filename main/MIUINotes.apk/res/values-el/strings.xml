@@ -56,6 +56,7 @@
     <string name="app_name">Σημειώσεις</string>
     <string name="app_notification_info">Οι Σημειώσεις λειτουργούν στο παρασκήνιο</string>
     <string name="app_widget">Σημειώσεις</string>
+    <string name="app_widget_name_new">Σημειώσεις</string>
     <string name="application_icon">App icon</string>
     <string name="audio_create_normal_state">Απελευθερώστε για δημιουργία. Σύρετε επάνω για ακύρωση.</string>
     <string name="audio_create_will_cancel_state">Απελευθερώστε για ακύρωση</string>
@@ -208,6 +209,7 @@
     <string name="gesture_guide_message">Μπορείτε να πατήσετε, να πατήσετε παρατεταμένα και να σύρετε στοιχεία για να δημιουργήσετε και να αναδιατάξετε σημειώσεις. Μάθετε αυτές τις χειρονομίες τώρα;</string>
     <string name="gesture_guide_ok">Εκμάθηση</string>
     <string name="gesture_guide_title">Χειρονομίες</string>
+    <string name="hand_write_only_support_tablet_editing">Χειρόγραφες σημειώσεις μπορούν να τροποποιηθούν μόνο σε tablet</string>
     <string name="handwrite_description">Χειρόγραφη σημείωση</string>
     <string name="hear_note">Υπαγορευμένες σημειώσεις</string>
     <string name="hidden_notes_fragment_title">Κρυφές σημειώσεις</string>
@@ -271,6 +273,8 @@
     <string name="micloud_state_total_count">%1$s</string>
     <string name="midnight">AM</string>
     <string name="mind_note_first_enter_guide">Πατήστε για να δημιουργήσετε έναν χάρτη μυαλού</string>
+    <string name="miui_penengine_ppw_shortcut_primary_key">Κουμπί γραφής</string>
+    <string name="miui_penengine_ppw_shortcut_secondary_key">Κουμπί στιγμιότυπου οθόνης</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
@@ -773,6 +777,7 @@
     <string name="widget_havenot_content">Χωρίς περιεχόμενο. Αγγίξτε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, αγγίξτε παρατεταμένα &amp; σύρετε μία άκρη.</string>
     <string name="widget_havenot_content_new">Πατήστε για δημιουργία μιάς Σημείωσης. Παρατεταμένα για αλλαγή μεγέθους.</string>
     <string name="widget_note_list_page_title">Επιλογή σημείωσης</string>
+    <string name="widget_take_notes_title">Σημειώσεις</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Οχι τώρα</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>

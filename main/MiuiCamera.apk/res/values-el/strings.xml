@@ -1400,6 +1400,9 @@
     <string name="pref_super_night_se_summary">Εντοπισμός συνθηκών χαμηλού φωτισμού και αυτόματη βελτίωση της ποιότητας της εικόνας</string>
     <string name="pref_super_night_se_title">Αυτόματη λειτουργία νύχτας</string>
     <string name="pref_userdefine_watermark_title">Υδατογράφημα χρήστη</string>
+    <string name="pref_video_ai_audio_effect_comparation_3d_i">Ήχος3D sound</string>
+    <string name="pref_video_ai_audio_effect_comparation_3d_ii">Δοκιμή</string>
+    <string name="pref_video_ai_audio_effect_comparation_3d_original">Κανονικό</string>
     <string name="pref_video_ai_audio_single">Μετωπικός ήχος</string>
     <string name="pref_video_captrue_ability_title">Λήψη φωτογραφιών κατά την εγγραφή</string>
     <string name="pref_video_cast_setting_summary">Ενεργοποιήστε για να μπορείτε να προβάλλετε ένα βίντεο με πολλαπλές συσκευές</string>

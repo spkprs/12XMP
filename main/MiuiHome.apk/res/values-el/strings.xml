@@ -611,10 +611,10 @@
     <string name="recommend_app">Προτάσεις εφαρμογών</string>
     <string name="recommend_apps_default_title">Κενό</string>
     <string name="recommend_apps_no_data">Χωρίς Δεδομένα</string>
-    <string name="recommend_apps_no_data_toast">Δεν υπάρχουν συστάσεις για τώρα.</string>
-    <string name="recommend_apps_notice">Προτεινόμενες εφαρμογές</string>
-    <string name="recommend_apps_notice_nodata">Προτεινόμενες Εφαρμογές (χωρίς στοιχεία)</string>
-    <string name="recommend_apps_switch_title">Προτεινόμενες εφαρμογές</string>
+    <string name="recommend_apps_no_data_toast">"Δεν υπάρχουν στοιχεία στο \"Σημερινές συστάσεις\" ακόμη"</string>
+    <string name="recommend_apps_notice">"Σημερινές συστάσεις"</string>
+    <string name="recommend_apps_notice_nodata">"Σημερινές προτάσεις (δεν υπάρχουν στοιχεία)"</string>
+    <string name="recommend_apps_switch_title">"Σημερινές συστάσεις"</string>
     <string name="recommend_apps_tips">Για αυτή τη λειτουργία, πρέπει να συνδεθείτε στο Internet για να λειτουργήσει κανονικά. Για να την απενεργοποιήσετε, αγγίξτε το όνομα του τρέχοντος φακέλου.</string>
     <string name="recommend_loading">Φόρτωση</string>
     <string name="recommend_refresh">Ανανέωση</string>

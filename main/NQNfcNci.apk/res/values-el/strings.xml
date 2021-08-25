@@ -74,8 +74,7 @@
     <string name="title_discover_tag">NFC ανιχνεύτηκε ετικέτα</string>
     <string name="title_sms">Αποστολή μηνυμάτων</string>
     <string name="title_weblink">Άνοιγμα συνδέσμου</string>
-    <string name="toast_bluetooth_enable_fail">Το Bluetooth δεν είναι ενεργό, η ζεύξη απέτυχε</string>
-    <string name="transaction_failure">Δεν ήταν δυνατή η ολοκλήρωση αυτής της συναλλαγής με την εφαρμογή %1$s.</string>
+    <string name="toast_bluetooth_enable_fail">"Αδυναμία Ζεύξης. Ενεργοποιήστε πρώτα το Bluetooth."</string>
     <string name="transaction_failure">"Αδυναμία ολοκλήρωσης συναλλαγής με %1$s."</string>
     <string name="wifi_connect">Σύνδεση</string>
 </resources>
