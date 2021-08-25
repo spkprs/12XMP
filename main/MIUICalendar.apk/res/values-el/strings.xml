@@ -1259,6 +1259,7 @@
     <string name="today">Σήμερα</string>
     <string name="today_at_time_fmt">Σήμερα στις %s</string>
     <string name="today_icon_voice_contentdescription">Επιστροφή σήμερα</string>
+    <string name="today_no_event">Καμία εκδήλωση για σήμερα</string>
     <string name="today_no_events">Χωρίς ατζέντα σήμερα</string>
     <string name="todo_audio_event">"[Φωνητική εργασία] "</string>
     <string name="todo_event">Επερχόμενες εργασίες</string>
@@ -1369,6 +1370,11 @@
     <string name="widget_events">Τα επόμενα γεγονότα</string>
     <string name="widget_get_weather_info">Πληροφορίες για τον καιρό</string>
     <string name="widget_no_events">Επόμενο, χωρίς ατζέντα</string>
+    <string name="widget_normal_agenda_tip_empty">Δεν υπάρχουν προσεχείς εκδηλώσεις</string>
+    <string name="widget_normal_agenda_today_done">"Οι σημερινές εκδηλώσεις ολοκληρώθηκαν"</string>
+    <string name="widget_normal_more_event">Περισσότερες εκδηλώσεις</string>
+    <string name="widget_normal_new_event">Νέα εκδήλωση</string>
+    <string name="widget_normal_weekN">Εβδομ %d</string>
     <string name="widget_select_style">Επιλέξτε στυλ</string>
     <string name="winter_begins">立冬</string>
     <string name="winter_begins_tradition">立冬</string>
