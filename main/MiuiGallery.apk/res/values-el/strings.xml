@@ -1125,6 +1125,8 @@
     <string name="input_nickname_toast">Εισάγετε το όνομα του μωρού</string>
     <string name="input_or_select_a_name">Εισάγετε ή επιλέξτε ένα όνομα</string>
     <string name="input_relation_name">Εισάγετε το όνομα της ομάδας</string>
+    <string name="install_media_editor_message">Για να επεξεργαστείτε στοιχεία, πραγματοποιήστε λήψη πρώτα της προσθήκης. Λήψη τώρα;</string>
+    <string name="install_media_editor_title">Λήψη προσθήκης</string>
     <string name="install_fail">Αδύνατη η φόρτωση της προσθήκης λόγω σφάλματος.</string>
     <string name="internal_storage_device">Εσωτερική αποθήκευση</string>
     <string name="invalid_invition_url">Λάθος πρόσκλησης URL.</string>
