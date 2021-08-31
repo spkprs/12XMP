@@ -162,7 +162,9 @@
     <string name="settings_other">Άλλα</string>
     <string name="settings_privacy">Πολιτική Απορρήτου</string>
     <string name="show_hard_key">Οπτικοποίηση κουμπιών πλοήγησης</string>
+    <string name="show_hard_key_new">Εμφάνιση αγγίγματος κουμπιών</string>
     <string name="show_hard_key_summary">Εμφάνιση κατά το πάτημα επιλογής των πλήκτρων Home, Μενού και Πίσω</string>
+    <string name="show_hard_key_summary_new">Οπτικοποίηση αγγίγματος του κουμπιού περιήγησης</string>
     <string name="show_screen_touch">Προβολή χειρονομιών αφής</string>
     <string name="show_screen_touch_summary">Οπτικοποίηση χειρονομιών μέσω λευκής τελείας</string>
     <string name="size_byte">B</string>

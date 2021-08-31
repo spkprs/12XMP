@@ -860,6 +860,7 @@
     <string name="network_unavailable">Το δίκτυο δεν είναι διαθέσιμο</string>
     <string name="new_incoming_messages_one">Νέο μήνυμα από %s. Προβολή.</string>
     <string name="new_mail_notification">Ειδοποίηση για νέα μηνύματα</string>
+    <string name="new_mail_notification_str">Αποδοχή ειδοποιήσεων</string>
     <string name="new_signature_has_saved">Επιτυχής αποθήκευση</string>
     <string name="next_action">Επόμενο</string>
     <string name="no">Όχι</string>

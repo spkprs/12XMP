@@ -248,6 +248,8 @@
     <string name="detail_reward_user_limited_to_display">Εμφανίζονται μόνο τα πρώτα 100 άτομα</string>
     <string name="dev_options">Επιλογές για προγραμματιστές</string>
     <string name="dev_options_summary">Πηγές στο διαδίκτυο</string>
+    <string name="dialog_apply_lock_screen_wallpaper_content">Το τρέχον θέμα ενδέχεται να μην υποστηρίζει την αλλαγή της ταπετσαρίας οθόνης κλειδώματος.</string>
+    <string name="dialog_apply_lock_screen_wallpaper_warning">Ταπετσαρία οθόνης κλειδώματος</string>
     <string name="dialog_content_get_device_status">Αυτή η εφαρμογή χρειάζεται πρόσβαση στο ID σας για έλεγχο ταυτότητας των στοιχείων που αγοράστηκαν στις άλλες συσκευές σας. Ίσως να μην είναι δυνατή η χρήση ορισμένων από τα αγορασμένα στοιχεία μετά την απενεργοποίηση αυτής της λειτουργίας. Απενεργοποίηση;</string>
     <string name="dialog_show_never">Να μην εμφανιστεί ξανά.</string>
     <string name="display">Εμφάνιση</string>
@@ -964,7 +966,7 @@
     <string name="system_cta_main_purpose">Διαχειριστείτε και χρησιμοποιήστε διαδικτυακά και offline θέματα, ταπετσαρίες, ήχους κλήσης, γραμματοσειρές και ταπετσαρίες βίντεο</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Για πρόσβαση στο IMEI και παροχή υπηρεσιών λήψης</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Απόκτηση πρόσβασης στο αναγνωριστικό της συσκευής για την αναγνώριση της συσκευή σας</string>
-    <string name="system_cta_runtime_perm_desc_storage">Για την φύλαξη αποθηκευμένων θεμάτων και άλλων στοιχείων</string>
+    <string name="system_cta_runtime_perm_desc_storage">Για τη χρήση των στοιχείων που είναι αποθηκευμένα στη συσκευή σας για εξατομίκευση και αποθήκευση αγορασμένων στοιχείων</string>
     <string name="system_precust">Προεγκατεστημένες</string>
     <string name="tag_ad">Προσθήκη</string>
     <string name="task_already_exist">Αυτή η εργασία υπάρχει ήδη</string>
