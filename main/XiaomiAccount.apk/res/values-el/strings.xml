@@ -314,6 +314,7 @@
     <string name="passport_activing_account">Ενεργοποίηση…</string>
     <string name="passport_adding_account">Προσθήκη λογαριασμού…</string>
     <string name="passport_area_code_hot">ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΟΎΝΤΑΙ ΣΥΧΝΆ</string>
+    <string name="passport_area_code_others">Χρήση διαφορετικού προθέματος</string>
     <string name="passport_area_code_title">Κωδικός χώρας/περιοχής</string>
     <string name="passport_auto_generate_pwd">Παραγωγή ασφαλούς κωδικού</string>
     <string name="passport_back">Πίσω</string>
@@ -509,6 +510,7 @@
     <string name="passport_title_reg">Δημιουργία λογαριασμού</string>
     <string name="passport_trust_device">Έμπιστη συσκευή</string>
     <string name="passport_trying_read_verify_code_sms">Λήψη κωδικού επαλήθευσης…</string>
+    <string name="passport_tz_invalid">Βρέθηκαν κίνδυνοι ασφαλείας. Αυτή η συσκευή μπορεί να έχει υποστεί root ή flashed. Δοκιμάστε άλλες επιλογές σύνδεσης.</string>
     <string name="passport_uplink_reg">Χρήση αριθμού τηλεφώνου</string>
     <string name="passport_uplink_send_sms_hint">"Πατήστε \"Αποστολή\" αφού ανακατευθυνθείτε στη σελίδα με ένα μήνυμα που έχει συνταχθεί."</string>
     <string name="passport_uplink_slot1_reg">Χρήση SIM 1</string>

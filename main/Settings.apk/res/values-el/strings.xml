@@ -1098,6 +1098,7 @@
     <string name="bluetooth_pairing_rejected_error_message">Η σύζευξη απορρίφθηκε από το %1$s</string>
     <string name="bluetooth_pairing_request">Σύζευξη με %1$s;</string>
     <string name="bluetooth_pairing_shares_phonebook">Θα αποκτήσει πρόσβαση στις επαφές σας και στο ιστορικό κλήσεων</string>
+    <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Επιτρέψτε την πρόσβαση στις επαφές</string>
     <string name="bluetooth_pairing_toast_add_to_blackfile">Αποκλείστηκε με επιτυχία. Μπορείτε να διαχειριστείτε τα αποκλεισμένα στοιχεία στις \"Πρόσθετες ρυθμίσεις\".</string>
     <string name="bluetooth_pairing_will_share_phonebook">Η σύζευξη παρέχει πρόσβαση στις επαφές σας και το ιστορικό κλήσεων όταν είστε συνδεδεμένοι.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Κοινή χρήση τοπικής σύνδεσης Internet με τη συσκευή</string>

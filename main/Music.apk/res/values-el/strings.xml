@@ -91,7 +91,7 @@
     <string name="action_item_favorite">Αγαπημένο</string>
     <string name="action_item_follow">Ακολουθήστε</string>
     <string name="action_item_hide">Απόκρυψη</string>
-    <string name="action_item_hifi">Ακουστικά και εφέ ήχου</string>
+    <string name="action_item_hifi">Ακουστικά</string>
     <string name="action_item_modify_info">Τροποποίηση πληροφ.</string>
     <string name="action_item_multiple">Επεξεργασία</string>
     <string name="action_item_play_all">Τυχαία αναπαραγωγή όλων</string>
@@ -121,6 +121,7 @@
     <string name="ad_recommend">Λήψη προτάσεων</string>
     <string name="ad_recommend_for_you">Συστήσει</string>
     <string name="ad_setting">Πρόσθετες ρυθμίσεις</string>
+    <string name="add">Προσθήκη</string>
     <string name="add_cannot_gif_list">Δεν είναι δυνατή η προσθήκη στη λίστα αναπαραγωγής</string>
     <string name="add_live_shortcut_success">Η συντόμευση έχει δημιουργηθεί για εσάς</string>
     <string name="add_music">Προσθήκη τραγουδιών</string>
@@ -616,6 +617,7 @@
     <string name="dialog_song_view_type_artist">Κατά καλλιτέχνη</string>
     <string name="dialog_song_view_type_folder">Κατά φάκελο</string>
     <string name="dialog_song_view_type_song">Κατά τραγούδι</string>
+    <string name="dialog_stop_audio_in">Χρονόμετρο αναπαραγωγής</string>
     <string name="dialog_subtitle_make_playlist_public">Οι δημόσιες λίστες αναπαραγωγής είναι διαθέσιμες σε άλλα άτομα. Οι ιδιωτικές λίστες αναπαραγωγής είναι ορατές μόνο σε εσάς σε όλες τις συγχρονισμένες συσκευές.</string>
     <string name="dialog_title_add_playlist">Προσθήκη λίστας αναπαραγωγής</string>
     <string name="dialog_title_clearlist_tracks">Κατάργηση από την ουρά</string>
@@ -1472,6 +1474,7 @@
     <string name="music_browser_label">Μουσική</string>
     <string name="music_filter">Φίλτρο αρχείων ήχου</string>
     <string name="music_pay_title">Επιλογή σχεδίου</string>
+    <string name="music_quality">Ποιότητα ήχου</string>
     <string name="music_quality_standard">Πρότυπο</string>
     <string name="music_quality_ultra_high">Υψηλή</string>
     <string name="music_recommendation">Προτάσεις τραγουδιού</string>
@@ -1559,6 +1562,7 @@
     <string name="no_local_songs_selected">Αδυναμία αποστολής τραγουδιών που δεν έχετε κατεβάσει</string>
     <string name="no_local_source_find">Αδυναμία εύρεσης τραγουδιού</string>
     <string name="no_longer_prompt">Να μην εμφανιστεί ξανά</string>
+    <string name="no_lyrics">Χωρίς στίχους</string>
     <string name="no_online_song_selected">Δεν έχουν επιλεγεί τραγούδια</string>
     <string name="no_phone">Δεν υπάρχει αριθμός τηλεφώνου</string>
     <string name="no_results_return">Δεν υπάρχουν αποτελέσματα</string>
@@ -2436,6 +2440,7 @@
     <string name="toast_download_in_process">Λήψη σε εξέλιξη</string>
     <string name="toast_favorite_has_been_added">Προστέθηκε στη λίστα αναπαραγωγής με επιτυχία</string>
     <string name="toast_follow_success">Η παρακολούθηση ολοκληρώθηκε με επιτυχία</string>
+    <string name="toast_hungama_vip_song">Αυτό το τραγούδι είναι διαθέσιμο μόνο σε μέλη PRO. Αποκτήστε συνδρομή για να κατεβάσετε αυτό το τραγούδι.</string>
     <string name="toast_is_pro">Είστε ήδη μέλος του PRO.</string>
     <string name="toast_my_playlist_illegal_name">Ο τίτλος αυτής της λίστας αναπαραγωγής δεν είναι έγκυρος. Μετονομάστε αυτήν τη λίστα αναπαραγωγής.</string>
     <string name="toast_my_playlist_set_to_private">Αυτή η λίστα αναπαραγωγής είναι ιδιωτική τώρα. Οι άλλοι δεν μπορούν να το δουν.</string>

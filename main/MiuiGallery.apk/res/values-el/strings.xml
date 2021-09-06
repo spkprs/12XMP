@@ -206,6 +206,7 @@
     <string name="app_name_view_picture">Προβολή εικόνας</string>
     <string name="app_name_view_video">Προβολή βίντεο</string>
     <string name="app_summary">Διαχείριση και επεξεργασία των φωτογραφιών και βίντεό στη συσκευή σας και στο Xiaomi Cloud</string>
+    <string name="app_summary_2">Αποθήκευση, διαχείριση και επεξεργασία φωτογραφιών και βίντεο στην συσκευή</string>
     <string name="apply">Εφαρμογή</string>
     <string name="art_still_cancel_download">Ακύρωση</string>
     <string name="art_still_download">Λήψη</string>
@@ -564,6 +565,8 @@
     <string name="create_quick_icon_on_desk">Δημιουργία συντομεύσεων</string>
     <string name="creating_baby_album">Δημιουργία άλμπουμ…</string>
     <string name="crop_label">Κόψιμο</string>
+    <string name="cta_agreement_declare"><Data>Για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστης καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνείστε με &lt;a href=\"%1$s\">Συμφωνία χρήσης&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a> πριν τη χρήση της.</Data></string>
+    <string name="cta_network_declare">Για να συγχρονίσετε φωτογραφίες και βίντεο με το Xiaomi Cloud, αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο..</string>
     <string name="custom_select_title_deselect_all">Αποεπιλέξτε</string>
     <string name="custom_select_title_quickly_share">Κοινή χρήση</string>
     <string name="custom_select_title_select_all">Επιλογή όλων</string>
@@ -1050,10 +1053,17 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Ορισμός</string>
+    <string name="grant_permission_go_and_set_2">Ρυθμίσεις</string>
+    <string name="grant_permission_go_and_set_3">Ρυθμίσεις</string>
     <string name="grant_permission_item">\"%s\"</string>
+    <string name="grant_permission_shortcut">Να επιτρέπεται σε αυτήν την εφαρμογή η δημιουργία συντομεύσεων αρχικής οθόνης πρώτα.</string>
+    <string name="grant_permission_storage">Να επιτρέπεται σε αυτήν την εφαρμογή η πρόσβαση στον χώρο αποθήκευσης πρώτα.</string>
+    <string name="grant_permission_storage_unlock">Ξεκλειδώστε τη συσκευή σας και επιτρέψτε σε αυτήν την εφαρμογή την πρόσβαση στον χώρο αποθήκευσης πρώτα.</string>
     <string name="grant_permission_text">Το Άλμπουμ πρέπει να έχει πρόσβαση στο\u000d\n%s\u000d\n για να δουλέψει κανονικά, πατήστε \"Ορισμός\" για να μεταβείτε στην επιλογή Δικαιώματα.</string>
     <string name="grant_permission_title">Αποδοχή πρόσβασης</string>
     <string name="grant_permission_unlock_and_set">Ξεκλειδώστε και ρυθμίστε</string>
+    <string name="grant_permission_unlock_and_set_2">Ξεκλείδωμα</string>
+    <string name="grant_permission_write_clipboard">Για την αντιγραφή στοιχείων, να επιτρέπεται σε αυτήν την εφαρμογή η αποθήκευση στοιχείων στο πρόχειρο.</string>
     <string name="has_invalid_recipient">Μη έγκυρος παραλήπτης (ες): %1$s</string>
     <string name="have_known">Κατανοητό</string>
     <string name="help">Δεν μπορείτε να βρείτε συσκευές;</string>
@@ -1125,9 +1135,9 @@
     <string name="input_nickname_toast">Εισάγετε το όνομα του μωρού</string>
     <string name="input_or_select_a_name">Εισάγετε ή επιλέξτε ένα όνομα</string>
     <string name="input_relation_name">Εισάγετε το όνομα της ομάδας</string>
+    <string name="install_fail">Αδύνατη η φόρτωση της προσθήκης λόγω σφάλματος.</string>
     <string name="install_media_editor_message">Για να επεξεργαστείτε στοιχεία, πραγματοποιήστε λήψη πρώτα της προσθήκης. Λήψη τώρα;</string>
     <string name="install_media_editor_title">Λήψη προσθήκης</string>
-    <string name="install_fail">Αδύνατη η φόρτωση της προσθήκης λόγω σφάλματος.</string>
     <string name="internal_storage_device">Εσωτερική αποθήκευση</string>
     <string name="invalid_invition_url">Λάθος πρόσκλησης URL.</string>
     <string name="invalid_recipient_message">Διορθώστε τα λάθη στους παραλήπτες, διαφορετικά δεν θα λάβουν μήνυμα.</string>
@@ -1629,14 +1639,21 @@
     <string name="people_page_label">Άτομα</string>
     <string name="people_page_unname">Ανώνυμο</string>
     <string name="percent_sign">%</string>
+    <string name="permission_account_desc">Για είσοδο και διαχείριση λογαριασμού συστήματος</string>
+    <string name="permission_account_name">Πρόσβαση σε λογαριασμούς</string>
+    <string name="permission_clipboard_desc">Για πρόσβαση και αποθήκευση στοιχείων στο πρόχειρο</string>
+    <string name="permission_clipboard_name">Πρόσβαση ή αποθήκευση στοιχείων στο πρόχειρο</string>
     <string name="permission_contacts_desc">Για την εκχώρηση επαφών σε φωτογραφίες</string>
+    <string name="permission_contacts_desc_2">Για τη συσχέτιση ατόμων σε φωτογραφίες με επαφές</string>
     <string name="permission_contacts_name">Επαφές</string>
+    <string name="permission_contacts_name_2">Πρόσβαση σε επαφές</string>
     <string name="permission_optional_category">Προαιρετικές Άδειες</string>
     <string name="permission_phone_desc">Για αιτήσεις δικτύου που βασίζονται στο ID συσκευής</string>
     <string name="permission_phone_name">Τηλέφωνο</string>
     <string name="permission_require_category">Υποχρεωτικές Άδειες</string>
     <string name="permission_storage_desc">Για εμφάνιση, επεξεργασία και αποθήκευση φωτογραφιών</string>
     <string name="permission_storage_name">Αποθηκ. χώρος</string>
+    <string name="permission_storage_name_2">Πρόσβαση και αποθήκευση φωτο και αρχείων στη συσκευή</string>
     <string name="permission_use_desc">Άδειες</string>
     <string name="pet_album_display_name">Φωτογραφίες κατοικίδιων</string>
     <string name="petabyteShort">PB</string>

@@ -1675,6 +1675,8 @@
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Επιλέξτε &lt;font color=#a5220e>\"Καθαρισμό και Επαναφορά\" &lt;/font> και περιμένετε μέχρι η συσκευή να επανεκκινήσει.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Πως διαγράφονται τα δεδομένα;</string>
     <string name="phone_locked_string">Το τηλέφωνο έχει κλειδωθεί</string>
+    <string name="phone_locked_string_owner_user">Πάρα πολλές ανεπιτυχείς προσπάθειες εισαγωγής κωδικού πρόσβασης Πρώτου Χώρου. Αυτή η συσκευή είναι κλειδωμένη τώρα.</string>
+    <string name="phone_locked_string_second_user">Πάρα πολλές ανεπιτυχείς προσπάθειες εισαγωγής κωδικού πρόσβασης Δεύτερου Χώρου. Αυτή η συσκευή είναι κλειδωμένη τώρα.</string>
     <string name="picture_color_mode">Λειτουργία χρώματος εικόνας</string>
     <string name="picture_color_mode_desc">Χρήση sRGB</string>
     <string name="pip_close">Κλείστε το, Εικόνα στην Εικόνα</string>

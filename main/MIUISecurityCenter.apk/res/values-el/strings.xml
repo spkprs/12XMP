@@ -10,6 +10,7 @@
     <string name="HIPS_Perm_External_Storage_Desc">Πρόσβαση και αποθήκευση αρχείων και φωτογραφιών στον εσωτερικό χώρο αποθήκευσης</string>
     <string name="HIPS_Perm_External_Storage_Group">Διαχείριση αδειών αποθήκευσης</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">Επιλέξτε τα στοιχεία στα οποία επιτρέπεται η πρόσβαση στις εφαρμογές</string>
+    <string name="HIPS_Perm_GetInstall_Desc">Λάβετε πληροφορίες σχετικά με τις εφαρμογές που είναι εγκατεστημένες σε αυτή τη συσκευή</string>
     <string name="HIPS_Perm_PhoneID_Desc">Πρόσβαση στον αριθμό τηλεφώνου , IMEI και IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Πρόσβαση στον αριθμό τηλεφώνου και στην κατάστασης συσκευής</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Ανάγνωση ιστορικού κλήσεων</string>

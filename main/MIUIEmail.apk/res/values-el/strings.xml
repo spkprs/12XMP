@@ -663,6 +663,7 @@
     <string name="help_email_title">MI Mail</string>
     <string name="help_me_get_qq_auth">Λήψη κωδικού</string>
     <string name="help_weixin_title">"Εάν έχετε απορίες, μη διστάσετε, γράψτε στον λογαριασμό WeChat: "</string>
+    <string name="hide_attachment">Απόκρυψη συνημμένου</string>
     <string name="hide_elided">▼ Απόκρυψη κειμένου σε παράθεση</string>
     <string name="hide_password">Απόκρυψη κωδικού πρόσβασης</string>
     <string name="hint_quick_reply_all">Απάντηση σε όλους εδώ</string>
@@ -1301,6 +1302,7 @@
     <string name="share_choose">Παρακαλώ επιλέξτε</string>
     <string name="sharing">Κοινή χρήση</string>
     <string name="shortcut_name_title">Συντόμευση Ονόματος φακέλου</string>
+    <string name="show_attachment">Εμφάνιση συνημμένου</string>
     <string name="show_contact_address">"Εμφάνιση email επαφών"</string>
     <string name="show_elided">▶ Εμφάνιση κειμένου σε παράθεση</string>
     <string name="show_images">Προβολή φωτογραφιών</string>
