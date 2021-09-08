@@ -924,6 +924,7 @@
     <string name="enhanced_4g_lte_mode_summary_o2">Χρησιμοποιήστε υπηρεσίες 4G για να βελτιώσετε τη φωνή και άλλες επικοινωνίες (συνιστάται)</string>
     <string name="enhanced_4g_lte_mode_title">Ενισχυμένη λειτουργία 4G LTE</string>
     <string name="enter_callbarring_password">Εισαγωγή κωδικού αποκλεισμού (%d ψηφία)</string>
+    <string name="enter_esim_manager">Διαχείριση eSIM</string>
     <string name="enter_input" formatted="false">Το μήνυμα USSD πρέπει να είναι μεταξύ %d και %d χαρακτήρες. Δοκιμάστε ξανά.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN SIM:</string>
@@ -933,6 +934,10 @@
     <string name="eps_only_set_button">ορίστε eps μόνο</string>
     <string name="eps_only_set_title">αυτό το πλήκτρο είναι μόνο για ρύθμιση των eps</string>
     <string name="error_updating_title">Σφάλμα ρυθμίσεων κλήσης</string>
+    <string name="esim_goto_active">Ενεργή</string>
+    <string name="esim_inactive_message">Ανενεργή eSIM</string>
+    <string name="esim_inactive_notification_message">Δεν εντοπίστηκε κάρτα SIM. Πατήστε για ενεργοποίηση eSIM.</string>
+    <string name="esim_inactive_settings_title">Διπλή SIM &amp; δίκτυα κινητής</string>
     <string name="exception_error">Σφάλμα δικτύου ή κάρτας SIM.</string>
     <string name="expand_button_title">Προχωρημένος</string>
     <string name="external_source_trusted">Επιτρέπεται</string>
