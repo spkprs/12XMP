@@ -444,9 +444,13 @@
     <string name="micloud_storage_expires_soon_title">Ο χώρος αποθήκευσης Xiaomi Cloud λήγει σύντομα</string>
     <string name="micloud_storage_expires_very_soon_title">Ο χώρος αποθήκευσης Xiaomi Cloud λήγει σύντομα</string>
     <string name="micloud_storage_full">Ο χώρος του Cloud είναι πλήρης</string>
+    <string name="micloud_storage_full_tip">Αποθήκευση πλήρης</string>
+    <string name="micloud_storage_normal_tip">%s απομένει</string>
+    <string name="micloud_storage_share_family">Οικογ. διαμοιρασμός</string>
     <string name="micloud_storage_unit_gb">%sGB</string>
     <string name="micloud_storage_unit_mb">%sMB</string>
     <string name="micloud_sync_alert_dialog_message">Συγχρονίστε φωτογραφίες, επαφές, σημειώσεις και άλλα πολλά μεταξύ των συσκευών σας.</string>
+    <string name="micloud_sync_alert_dialog_message_pad">Συγχρονίστε φωτογραφίες, επαφές, σημειώσεις και άλλα πολλά μεταξύ των συσκευών σας.</string>
     <string name="micloud_sync_alert_dialog_message_v2">Συγχρονίστε τις φωτογραφίες, τις επαφές, τις σημειώσεις και πολλά άλλα σε όλες τις συσκευές σας.</string>
     <string name="micloud_sync_alert_dialog_negative">Ακύρωση</string>
     <string name="micloud_sync_alert_dialog_positive">OK</string>
@@ -469,6 +473,7 @@
     <string name="micloud_sync_result_wifi_only">Το στοιχείο είναι πολύ μεγάλο. Συγχρονίσετε το μόνο μέσω WiFi</string>
     <string name="micloud_sync_result_wifi_only_china">Αυτό το στοιχείο είναι πολύ μεγάλο. Συγχρονίστε το όταν συνδεθείτε στο WiFi.</string>
     <string name="micloud_upgrade_member">Αποκτήστε περισσότερο χώρο αποθήκευσης</string>
+    <string name="micloud_upgrade_storage">Αναβάθμιση σχεδίου αποθ.</string>
     <string name="micloud_user_space_title">Χώρος αποθήκευσης</string>
     <string name="micloud_warn_full_sum">Τα νέα στοιχεία δεν θα συγχρονιστούν με το Xiaomi Cloud.</string>
     <string name="micloud_warn_full_title">Δεν υπάρχει χώρος</string>

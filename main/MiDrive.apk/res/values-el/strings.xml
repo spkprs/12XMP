@@ -42,7 +42,7 @@
     <string name="account_error_shorter_user_name">Το όνομα πρέπει να είναι μεγαλύτερο από 2 χαρακτήρες</string>
     <string name="account_error_user_birthday">Τα γενέθλια που εισαγάγατε δεν είναι έγκυρα</string>
     <string name="account_error_user_name">Αυτό το ψευδώνυμο δεν είναι έγκυρο. Δοκιμάστε ένα διαφορετικό.</string>
-    <string name="account_info_desc">Διαχείριση πληροφοριών λογαριασμού</string>
+    <string name="account_info_desc">Πληροφορίες λογαριασμού</string>
     <string name="account_invalid_user_avatar">Αυτή η φωτογραφία δεν είναι έγκυρη. Δοκιμάστε ένα διαφορετικό.</string>
     <string name="account_limit_update_birthday">Δεν είναι δυνατή η ενημέρωση των γενεθλίων αυτήν τη στιγμή</string>
     <string name="account_no_set">Χωρίς</string>
@@ -282,7 +282,7 @@
     <string name="load_metered_network_dialog_title">Χρήση δεδομένων κινητής</string>
     <string name="loading">Μισό λεπτό…</string>
     <string name="logout_account">Αποσύνδεση</string>
-    <string name="member_menu_vipname_free">Free</string>
+    <string name="member_menu_vipname_free">Δωρεάν</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Premium</string>
     <string name="member_menu_vipname_ultra">Ultra</string>
@@ -312,7 +312,7 @@
     <string name="music_preview_title_loading">Μισό λεπτό…</string>
     <string name="music_preview_title_play">Παιχνίδι</string>
     <string name="my_about_item">Σχετικά με το Mi Drive</string>
-    <string name="my_feedback_item">Ανατροφοδότηση</string>
+    <string name="my_feedback_item">Σχόλια</string>
     <string name="my_file">Τα αρχεία μου</string>
     <string name="my_manage_space_item">Διαχείριση αποθήκευσης στο cloud</string>
     <string name="my_setting">Ρυθμίσεις</string>

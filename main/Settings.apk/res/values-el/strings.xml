@@ -6081,7 +6081,7 @@
     <string name="security_keyguard_category_name">Κλείδωμα οθόνης</string>
     <string name="security_password_category_name">Κωδικός</string>
     <string name="security_passwords_title">Απόρρητο</string>
-    <string name="security_patch">Κώδικας ασφαλείας Android</string>
+    <string name="security_patch">Ενημ. Android</string>
     <string name="security_privacy_settings_title">Ασφάλεια και Απόρρητο</string>
     <string name="security_relative">Ασφάλεια</string>
     <string name="security_settings_face_enroll_dialog_ok">OK</string>
