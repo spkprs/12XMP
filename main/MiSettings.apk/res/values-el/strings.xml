@@ -474,6 +474,8 @@
     <string name="solar_term_winter_solstice">Winter Solstice</string>
     <string name="southern_elephant_seal">Southern elephant seal</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
+    <string name="split_page_authorization">Καλώς ήρθατε στο Χρόνο οθόνης! Εδώ μπορείτε να ορίσετε χρονικά όρια οθόνης και να προβάλετε στατιστικά. Πατήστε \"Έναρξη\" για να ενεργοποιήσετε αυτήν τη λειτουργία.</string>
+    <string name="split_page_start">Έναρξη</string>
     <string name="spotted_hyaena">Spotted hyena</string>
     <string name="spotted_hyaena_info">Οι ύαινες είναι νυκτερινές θηρευτές με τις πιο περίπλοκες κοινωνικές συμπεριφορές.</string>
     <string name="spur_winged_plover">Σπιρούνι φτερωτό</string>

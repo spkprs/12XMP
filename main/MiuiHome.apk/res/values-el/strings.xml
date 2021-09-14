@@ -537,6 +537,9 @@
     <string name="open_personal_assistant_settings">Ρυθμίσεις Βοηθού MIUI</string>
     <string name="open_personal_assistant_title">Προσωπικός βοηθός</string>
     <string name="open_personal_assistant_title_synonyms">Αρνητική οθόνη</string>
+    <string name="ota_layout_adjustment_button_text">Κατανοητό</string>
+    <string name="ota_layout_adjustment_content">Οι εσωτ-εξωτερικές διατάξεις Αρχικής οθόνης συγχρονίστηκαν στη νέα έκδοση.</string>
+    <string name="ota_layout_adjustment_title">Διατάξεις Αρχικής οθόνης</string>
     <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
     <string name="perfect_icons_switch_summary">Επανασχεδίαση εικονιδίων εφαρμογών τρίτων</string>
     <string name="perfect_icons_switch_title">Καθολικές κινήσεις εικονιδίων</string>

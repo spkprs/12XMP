@@ -94,10 +94,16 @@
     <string name="device_activation_card_no_network_error">"Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά."</string>
     <string name="device_activation_card_title">Πρώτη ενεργοποίηση</string>
     <string name="device_activation_page_title">Ενεργοποίηση συσκευής</string>
+    <string name="dialog_add_shortcut_content">Προσθέστε μια συντόμευση στην Αρχική οθόνη για το Xiaomi Cloud για να μπορείτε να διαχειρίζεστε πιο αποτελεσματικά τον αποθηκευτικό σας χώρο στο cloud.</string>
+    <string name="dialog_add_shortcut_title">Προσθήκη συντόμευσης</string>
     <string name="dialog_msg_restore_require_wlan_china">Η επαναφορά αντιγράφων ασφαλείας απαιτεί σύνδεση σε WiFi.</string>
+    <string name="dialog_storage_full_title">Ο χώρος αποθήκευσης στο cloud είναι πλήρης</string>
+    <string name="dialog_storage_low_content">Κάντε αναβάθμιση του σχεδίου αποθήκευσης στο cloud για να μπορείτε να συγχρονίζετε κανονικά στοιχεία.</string>
+    <string name="dialog_storage_low_title">Ανεπαρκής χώρος αποθήκευσης στο cloud</string>
     <string name="dialog_title_require_wlan_china">Σύνδεση στο WiFi</string>
     <string name="disable_find_device_error">Αδυναμία απενεργοποίησης Εύρεσης συσκευής. %1$s</string>
     <string name="do_not_merge">Ακύρωση</string>
+    <string name="early_morning">Πρωί</string>
     <string name="enable_find_device_error">Αδυναμία ενεργοποίησης Εύρεσης συσκευής. %1$s</string>
     <string name="enable_find_device_success">Εύρεση συσκευής ενεργή.</string>
     <string name="enable_micloud">Σύνδεση για χρήση Xiaomi Cloud</string>

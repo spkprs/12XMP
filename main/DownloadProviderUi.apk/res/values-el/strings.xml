@@ -573,6 +573,8 @@
     <string name="web_dialog_cancel">Ακύρωση</string>
     <string name="web_dialog_confirm">OK</string>
     <string name="xiaomi_account_not_exist_message">Αυτός ο λογαριασμός Mi δεν υπάρχει</string>
+    <string name="xiaomi_downloadprovider_description_content">"Οι Λήψεις είναι μια εφαρμογή συστήματος που σας επιτρέπει την διαχείριση, την πρόοδο, και τις εργασίες λήψης. Ορισμένες από τις λειτουργίες της δεν θα είναι διαθέσιμες αφού καταργήσετε τη συντόμευση στην αρχική οθόνη."</string>
+    <string name="xiaomi_downloadprovider_description_title">Αφαίρεση \"Λήψεις\" από την Αρχική οθόνη;</string>
     <string name="xl_annual_vip_open">Ετήσια συνδρομή (%1$s Mi Credit ή %2$s μηνιαία)</string>
     <string name="xl_annual_vip_renew">Ανανέωση για 1 χρόνο (%1$s Mi Credit ή %2$s μηνιαία)</string>
     <string name="xl_bind_account">Προσθήκη υπάρχοντος λογαριασμού Xunlei</string>

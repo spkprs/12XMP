@@ -1333,6 +1333,8 @@
     <string name="micloud_introduce">Αυτόματος συγχ/σμός φωτογραφιών και βίντεο (απαιτείται λογαριασμός Xiaomi)</string>
     <string name="midnight">Νύχτα</string>
     <string name="mishare_all_devices">Όλες οι συσκευές</string>
+    <string name="miuix_access_state_desc">Επιλεγμένα</string>
+    <string name="miuix_alphabet_indexer_name">Μπάρα ευρετηρίου</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
@@ -1350,6 +1352,7 @@
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
+    <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
