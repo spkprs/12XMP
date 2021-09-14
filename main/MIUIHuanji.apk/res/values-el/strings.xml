@@ -54,6 +54,7 @@
     <string name="button_return">Πίσω</string>
     <string name="button_scanning">Σάρωση…</string>
     <string name="button_send">Αποστολή</string>
+    <string name="calendar_permission_desc">Για τη μεταφορά συμβάντων σε άλλες συσκευές</string>
     <string name="calllog">Ιστορικό κλήσεων</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_description">Ακύρωση</string>
@@ -111,10 +112,13 @@
     <string name="connection_tips_other_title">Εάν η παλιά σας συσκευή είναι τηλέφωνο Android τρίτου κατασκευαστή:</string>
     <string name="connection_tips_owner_message">Το Mi Mover είναι προεγκατεστημένο σε όλες τις συσκευές που εκτελούν MIUI 11. Εάν διαθέτετε παλαιότερη έκδοση MIUI, μπορείτε να κάνετε λήψη της τελευταίας έκδοσης του Mi Mover στο GetApps ή να χρησιμοποιήσετε αυτήν τη σύνδεση: %1$s.</string>
     <string name="connection_tips_owner_title">Εάν η παλιά σας συσκευή είναι τηλέφωνο Mi:</string>
+    <string name="contact_records_permission_desc">Για τη μεταφορά του ιστορικού κλήσεων σε άλλες συσκευές</string>
     <string name="contacts">Επαφές</string>
+    <string name="contacts_permission_desc">Για τη μεταφορά επαφών σε άλλες συσκευές</string>
     <string name="copyright">Πνευματικά Δικαιώματα</string>
     <string name="current_user_not_supported_summary">Οι τρέχουσες ρυθμίσεις συστήματος περιορίζουν τη μεταφορά δεδομένων χρησιμοποιώντας το Mi Mover.</string>
     <string name="current_user_not_supported_title">Δεν είναι δυνατή η μεταφορά στοιχείων</string>
+    <string name="data_read_white_permission_desc">Για τη μεταφορά στοιχείων σε άλλες συσκευές</string>
     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
     <string name="date_picker_dialog_title">Ορισμός ημερομηνίας</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
@@ -273,12 +277,12 @@
     <string name="host_dialog_message">Βεβαιωθείτε ότι η πιο πρόσφατη έκδοση του Mi Mover είναι εγκατεστημένη στην άλλη συσκευή. διαφορετικά, ενδέχεται να μην είναι δυνατή η σύνδεση δύο συσκευών.</string>
     <string name="host_dialog_title">Δεν είναι δυνατή η σύνδεση για μεγάλο χρονικό διάστημα</string>
     <string name="host_install_hint">"Ο Mi Mover δεν έχει εγκατασταθεί?"</string>
-    <string name="host_new_device_hint">Αυτή η συσκευή</string>
     <string name="host_manual_connect_link_text">Εάν η εύρεση του ενεργού σημείου από την παλιά σας συσκευή διαρκεί πολύ, δοκιμάστε να συνδεθείτε μη αυτόματα.</string>
     <string name="host_memory_insuff_cancel">Ακύρωση</string>
     <string name="host_memory_insuff_confirm">Επιλέξτε ξανά</string>
     <string name="host_memory_insuff_summary">Δεν υπάρχει αρκετός χώρος αποθήκευσης στη νέα συσκευή για να ξεκινήσει η μεταφορά.</string>
     <string name="host_memory_insuff_title">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
+    <string name="host_new_device_hint">Αυτή η συσκευή</string>
     <string name="hsa_code_null">Ο κωδικός επαλήθευσης δεν μπορεί να είναι κενός</string>
     <string name="hsa_input_tip">Το αναγνωριστικό σας Apple χρησιμοποιεί έλεγχο ταυτότητας δύο παραγόντων. Βάλτε κωδικό επιβεβαίωσης.</string>
     <string name="hsa_send_again">Αποστολή ξανά</string>
@@ -331,11 +335,12 @@
     <string name="international_new_trans_intro_question_8">8. Γιατί δεν είναι δυνατή η μεταφορά μηνυμάτων κειμένου και δεδομένων ορισμένων εφαρμογών τρίτων?</string>
     <string name="international_scanner_send_dialog_message">Δεν είναι δυνατή η μεταφορά μηνυμάτων κειμένου και δεδομένων ορισμένων εφαρμογών τρίτων. Μην απενεργοποιείτε το Wi-Fi ή κάνετε εναλλαγή μεταξύ δικτύων κατά τη μεταφορά.</string>
     <string name="label">MIUI SDK</string>
-    <string name="lack_perm_msg">Το Mi Mover χρειάζεται τις ακόλουθες Άδειες για σωστή λειτουργία: &lt;b&gt;%s&lt;/b&gt;.</string>
+    <string name="lack_perm_msg">Το Mi Mover χρειάζεται τις ακόλουθες Άδειες για σωστή λειτουργία: &lt;b>%s&lt;/b></string>
     <string name="lack_perm_title">Απαιτούνται Άδειες</string>
     <string name="launcher">Διάταξη αρχικής οθόνης</string>
     <string name="less_than_1_minute">Λιγότερο από 1 λεπτό</string>
     <string name="loading_data">Μισό λεπτό…</string>
+    <string name="location_permission_desc">Για εύρεση συσκευών σε κοντινή απόσταση</string>
     <string name="location_permission_request">Για σύνδεση με άλλες κοντινές συσκευές</string>
     <string name="login">Συνδεθείτε</string>
     <string name="login_failed">Αδύνατη η σύνδεση. Προσπάθησε ξανά.</string>
@@ -407,6 +412,7 @@
     <string name="month_september_shortest">Σ</string>
     <string name="more">Περισσότερα</string>
     <string name="morning">ΠΜ</string>
+    <string name="msg_permission_desc">Για τη μεταφορά μηνυμάτων σε άλλες συσκευές</string>
     <string name="name">Ονομα</string>
     <string name="name_password_not_consistent">Το αναγνωριστικό και ο κωδικός πρόσβασης Apple που εισάγατε δεν ταιριάζουν</string>
     <string name="need_location_permission_confirm">Ρυθμίσεις</string>
@@ -524,6 +530,7 @@
     <string name="permission_call_log_title">Πρόσβαση στο ιστορικό κλήσεων</string>
     <string name="permission_contacts_summary">Για τη μεταφορά επαφών από την παλαιά συσκευή σε νέα</string>
     <string name="permission_contacts_title">Πρόσβαση στις επαφές</string>
+    <string name="permission_grant_request">Για να μπορέσει να μεταφέρει αυτό το στοιχείο, το Mi Mover χρειάζεται τη \"%1$s\" άδεια.</string>
     <string name="permission_locale_summary">Για σύνδεση σε κοντινά δίκτυα Wi-Fi</string>
     <string name="permission_locale_title">Πρόσβαση σε πληροφορίες θέσης</string>
     <string name="permission_message_summary">Για τη μεταφορά μηνυμάτων από την παλιά συσκευή σε νέα</string>
@@ -532,6 +539,8 @@
     <string name="permission_phone_title">Πρόσβαση σε πληροφορίες συσκευής</string>
     <string name="permission_read_storage_summary">Για τον καθορισμό της ποσότητας του διαθέσιμου χώρου αποθήκευσης και την εκτίμηση του μεγέθους του αρχείου</string>
     <string name="permission_read_storage_title">Πρόσβαση σε χώρο αποθήκευσης</string>
+    <string name="permission_request_title">\"%1$s\" Απαιτείται άδεια</string>
+    <string name="permission_setting_button">Ρυθμίσεις</string>
     <string name="permission_storage_summary">Για μεταφορά αρχείων και φωτογραφιών στη νέα σας συσκευή</string>
     <string name="permission_storage_title">Πρόσβαση και αποθήκευση αρχείων και φωτογραφιών που είναι αποθηκευμένα στη συσκευή σας</string>
     <string name="permission_wifi_summary">Για μεταφορά αντικειμένων στη νέα σας συσκευή</string>
@@ -564,6 +573,7 @@
     <string name="reconnect">Σύνδεση ξανά</string>
     <string name="recovery_progress">Επαναφορά στοιχείων (%1$d/%2$d)…</string>
     <string name="recreate_soft_ap_tips">Αγγίξτε το παρακάτω κουμπί και δοκιμάστε ξανά.</string>
+    <string name="request_all_permission_title">Απαιτούμενες άδειες</string>
     <string name="restore_data_to_device_content">Τα στοιχεία σας συγχρονίστηκαν με το Xiaomi Cloud. Εισέλθετε στο λογαριασμό μου για να τα επαναφέρετε.</string>
     <string name="restore_data_to_device_title">Επαναφορά στοιχείων σε αυτήν τη συσκευή</string>
     <string name="restore_right_now">Επαναφορά</string>
@@ -734,7 +744,7 @@
     <string name="time_picker_dialog_title">Ρυθμίστε την ώρα</string>
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
-    <string name="time_spent">Χρόνος: &lt;g id=\"time\"&gt;%1$s&lt;/g&gt;</string>
+    <string name="time_spent">Χρόνος: %1$s</string>
     <string name="title_open_wlan">Ενεργοποίηση WIFI</string>
     <string name="title_request_alert_window_perm">Αποδοχή αιωρούμενων παραθύρων</string>
     <string name="title_request_package_stats_perm">Απαιτούνται Άδειες</string>
@@ -829,4 +839,10 @@
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Χθές</string>
+    <string name="request_all_permission_content">"Το Mi Mover πρέπει να έχει πρόσβαση στα ακόλουθα, για να μεταφέρει στοιχεία σε μια νέα συσκευή:
+- Τοποθεσία
+- Επαφές
+- Ιστορικό κλήσεων
+- Μηνύματα κειμένου
+- Αποθήκευση"</string>
 </resources>

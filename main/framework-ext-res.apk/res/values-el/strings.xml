@@ -98,6 +98,7 @@
     <string name="first_back_long_press_message">Για προσαρμογή αγγίξτε παρατεταμένα την λειτουργία πλήκτρων πλοήγησης, πηγαίνετε στις Ρυθμίσεις > Πρόσθετες Ρυθμίσεις > Πλήκτρα</string>
     <string name="flip_screen_camera_tip">Περιστρέψτε την συσκευή για χρήση της Κάμερας</string>
     <string name="fm_record_smaple_prefix_miui">Εγγραφή FM</string>
+    <string name="fold_small_not_split">"Ο Διαχωρισμός οθόνης δεν υποστηρίζεται σε εξωτερική οθόνη"</string>
     <string name="force_exit_message">Επιβολή τερματισμού %1$s</string>
     <string name="force_exit_skip_message">Αδυναμία τερματισμού του %1$s γιατί είναι βασική ενότητα του συστήματος.</string>
     <string name="fourhours">2 ώρες</string>
