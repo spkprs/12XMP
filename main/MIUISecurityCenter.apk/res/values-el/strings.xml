@@ -602,7 +602,7 @@
     <string name="applock_bind_account_dialog_content">Ο Mi λογαριασμός είναι ο μόνος τρόπος για να επαναφέρετε το Κλείδωμα εφαρμογής σας σε περίπτωση που το ξεχάσετε. Συνδεθείτε για να προσθέσετε το Mi λογαριασμό.</string>
     <string name="applock_bind_account_dialog_title">Προσθέστε τον Mi λογαριασμό σας</string>
     <string name="applock_bind_account_title">Ξεχάσατε τον κωδικό</string>
-    <string name="applock_close_dialog_summary">Όλες οι κρυφές εφαρμογές θα εμφανιστούν, οι συντομεύσεις στην Αρχική οθόνη θα επαναφερθούν και ο κωδικός κλειδώματος εφαρμογών θα διαγραφεί. Απενεργοποιείτε το Κλείδωμα Εφαρμογής ?</string>
+    <string name="applock_close_dialog_summary">Ο κωδικός πρόσβασης κλειδώματος εφαρμογής θα διαγραφεί. Να απενεργοποιήσω το Κλείδωμα εφαρμογών τώρα;</string>
     <string name="applock_close_dialog_title">Απενεργοποίηση κλειδώματος ;</string>
     <string name="applock_exit_account_info">Ο λογαριασμός θα καταργηθεί αυτόματα όταν αποσυνδεθείτε</string>
     <string name="applock_face_unlock_summary">Ξεκλείδωμα εφαρμ. με χρήση Δεδομ. προσώπου</string>
@@ -964,6 +964,10 @@
     <string name="cetus_invisible_mode_warn_location">"Είσαι Ανώνυμος. Αναστέλλονται οι άδειες για την θέση σας."</string>
     <string name="cetus_invisible_mode_warn_open">Η Ανώνυμη λειτουργία αναστέλλει το μικρόφωνο, την κάμερα και τις άδειες που σχετίζονται με την τοποθεσία για όλες τις εφαρμογές. Ενεργοποίηση;</string>
     <string name="cetus_invisible_mode_warn_record_audio">"Είσαι Ανώνυμος. Αναστέλλονται οι άδειες για το μικρόφωνο."</string>
+    <string name="charge_high_temp_warning_dialog_ok">Κατανοητό</string>
+    <string name="charge_high_temp_warning_dialog_text">Φαίνεται ότι η θύρα φόρτισης έχει υπερθερμανθεί τώρα. Αποσυνδέστε το φορτιστή και αφήστε τη μπαταρία να κρυώσει πριν ξεκινήσετε ξανά τη φόρτιση.</string>
+    <string name="charge_high_temp_warning_text">Αποσυνδέστε το φορτιστή και αφήστε τη μπαταρία να κρυώσει.</string>
+    <string name="charge_high_temp_warning_title">Η θύρα φόρτισης είναι πολύ ζεστή</string>
     <string name="charger_detect_button_ok">Κατανοητό</string>
     <string name="charger_detect_info1">Ελέγξτε αν τροφοδοτικό - καλώδιο είναι σωστά.</string>
     <string name="charger_detect_info2">"Η φόρτιση μπορεί επίσης να επιβραδυνθεί εάν χρησιμοποιείτε μη τυπικά ή παλιά τροφοδοτικά και καλώδια."</string>
@@ -3243,6 +3247,7 @@
     <string name="privacy_app_permission_manage_summary">Διαχείριση Αδειών εγκατεστημένων εφαρμογών</string>
     <string name="privacy_app_permission_manage_title">Διαχείριση Αδειών</string>
     <string name="privacy_apps">Κρυφές εφαρμογές</string>
+    <string name="privacy_apps_add">Προσθήκη</string>
     <string name="privacy_apps_begin_use">Έναρξη</string>
     <string name="privacy_apps_button_know">Κατανοητό</string>
     <string name="privacy_apps_category_title">Κρυφές εφαρμογές</string>
@@ -3254,9 +3259,13 @@
     <string name="privacy_apps_manage_dialog_title">Σχετικά με τις κρυφές εφαρμογές</string>
     <string name="privacy_apps_manager_dialog_message">Τα εικονίδια των εφαρμογών δεν θα εμφανίζονται στην Αρχική οθόνη μετά την απόκρυψη τους.Απόκρυψη αυτής της εφαρμογής?</string>
     <string name="privacy_apps_next_stup">Επόμενο</string>
-    <string name="privacy_apps_shield_message_summary">Να μην εμφανίζονται ειδοποιήσεις για προστατευμένες εφαρμογές</string>
-    <string name="privacy_apps_shield_message_title">Να μην εμφανίζονται ειδοποιήσεις</string>
-    <string name="privacy_apps_tutorial">Οδηγίες</string>
+    <string name="privacy_apps_password_enable_summay">Προστασία ιδιωτικών αρχείων με Κλείδωμα εφαρμογών</string>
+    <string name="privacy_apps_password_enable_title">Κλείδωμα εφαρμογής</string>
+    <string name="privacy_apps_shield_message_summary">"Να μην εμφανίζονται οι ειδοποιήσεις από κρυφές εφαρμογές"</string>
+    <string name="privacy_apps_shield_message_title">Απόκρυψη ειδοποιήσεων</string>
+    <string name="privacy_apps_tutorial">Χειρονομίες</string>
+    <string name="privacy_apps_tutorial_dlg_message_1">Απλώστε δύο δάχτυλα στην αρχική οθόνη για να προβάλετε τις κρυφές εφαρμογές</string>
+    <string name="privacy_apps_tutorial_dlg_message_2">Σημείωση: Όταν αποκρύπτετε μια εφαρμογή, αποκρύπτεται μόνο η συντόμευση στην αρχική οθόνη.</string>
     <string name="privacy_apps_tutorial_dlg_title">Πώς να βρείτε κρυφές εφαρμογές</string>
     <string name="privacy_apps_tutorial_prompt_pageone">Αυτή η λειτουργία σάς επιτρέπει να αποκρύψετε εικονίδια εφαρμογών, ώστε να μην εμφανίζονται πλέον στην Αρχική οθόνη σας.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Αφού εισάγετε τον κωδικό σας, θα εμφανιστεί ο φάκελος με τις κρυφές εφαρμογές.</string>
@@ -3426,6 +3435,12 @@
     <string name="privacy_search_key_7">Πληροφορίες τοποθεσίας</string>
     <string name="privacy_search_key_8">Χωρίς παρακολούθηση</string>
     <string name="privacy_search_key_9">Εικονικό αναγνωριστικό</string>
+    <string name="privacy_search_keyword_1">Απόρρητο</string>
+    <string name="privacy_search_keyword_2">Απόκρυψη εφαρμογών</string>
+    <string name="privacy_search_keyword_3">Απόκρυψη εικονιδίων</string>
+    <string name="privacy_search_keyword_4">Απόκρυψη συντομεύσεων αρχικής οθόνης</string>
+    <string name="privacy_search_keyword_5">Ιδιωτικές εφαρμογές</string>
+    <string name="privacy_search_keyword_6">Απόκρυψη</string>
     <string name="privacy_show_other_permissions">Εμφάνιση άλλων αδειών</string>
     <string name="privacy_show_password">Εμφάνιση κωδικών πρόσβασης</string>
     <string name="privacy_show_password_summary">Διατηρήστε τους κωδικούς πρόσβασης ορατούς για μικρό χρονικό διάστημα</string>

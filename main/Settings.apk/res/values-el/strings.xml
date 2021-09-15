@@ -3840,6 +3840,7 @@
     <string name="lost_internet_access_switch">Εναλλαγή σε δεδομένα κινητής τηλεφωνίας</string>
     <string name="lost_internet_access_text">Μπορείτε να κάνετε εναλλαγή σε δίκτυο κινητής τηλεφωνίας όταν δεν έχετε καλή σύνδεση Wi‑Fi. Ενδέχεται να χρησιμοποιηθούν δεδομένα.</string>
     <string name="lost_internet_access_title">Το Wi‑Fi δεν είναι συνδεδεμένο στο διαδίκτυο</string>
+    <string name="low_dc_light_title">Λειτουργία κατά του τρεμοπαίγματος σε χαμηλό φωτισμό</string>
     <string name="low_label">Χαμηλή</string>
     <string name="low_storage_summary">Η αποθήκευση είναι χαμηλή. %1$s χρησιμοποιείται - %2$s ελεύθερος</string>
     <string name="macaddr_label">MAC διεύθ.:</string>

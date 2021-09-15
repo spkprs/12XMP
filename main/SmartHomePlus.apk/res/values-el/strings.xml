@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code_cancel_error">Ακύρωση ενέργειας</string>
+    <string name="code_default_error">"Δεν ήταν δυνατή η ολοκλήρωση της ενέργειας"</string>
+    <string name="code_device_offline">Η συσκευή είναι εκτός σύνδεσης</string>
+    <string name="code_did_is_empty">Η συσκευή είναι κενή</string>
+    <string name="code_did_not_exist">Η συσκευή δεν υπάρχει</string>
+    <string name="code_env_error">Σφάλμα περιβάλλοντος εφαρμογής</string>
+    <string name="code_infonull_error">Δε βρέθηκαν πληροφορίες συσκευής</string>
+    <string name="code_modelnull_error">Δεν βρέθηκε συσκευή</string>
+    <string name="code_offline_error">Η συσκευή είναι εκτός σύνδεσης</string>
+    <string name="code_permissiondeny_error">Άρνηση δικαιωμάτων εφαρμογής</string>
+    <string name="code_plugin_df_error">Μη εύρεση μονάδας δυναμικού χαρακτηριστικού</string>
+    <string name="code_serviceregister_error">Σφάλμα καταχώρισης υπηρεσίας εφαρμογής</string>
+    <string name="code_streammuch_error">Περιμένετε</string>
+    <string name="code_unknown_error">"Δεν ήταν δυνατή η ολοκλήρωση της ενέργειας, δοκιμάστε ξανά"</string>
+    <string name="code_whitelist_error">Έλεγχος λευκής λίστας</string>
+    <string name="connected">Σε σύνδεση</string>
+    <string name="continue_press_enter_shutdown_menu">Συνεχίστε να πατάτε παρατεταμένα για να εισέλθετε στη σελίδα για την απενεργοποίηση.</string>
+    <string name="control_center_shortcut_disable">Δεν προστέθηκε</string>
+    <string name="control_center_shortcut_enable">Προστέθηκε</string>
+    <string name="copy">Αντιγραφή</string>
+    <string name="expand_button_title">Προηγμένα</string>
+    <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
+    <string name="find_new_tag">Εύρεση νέας Magic Control Bridge</string>
+    <string name="find_no_devices">Δεν βρέθηκαν συσκευές</string>
+    <string name="gesture_shortcut_uwb">UWB</string>
+    <string name="goto_help">Προβολή Βοήθειας</string>
+    <string name="how_to_use_uwb">Πώς μπορώ να χρησιμοποιήσω το Xiaomi Magic Control?</string>
+    <string name="how_to_use_uwb_detail">"Αρχικά, βεβαιωθείτε ότι η συσκευή-στόχος βρίσκεται κοντά, ότι η σύνδεση δικτύου του τηλεφώνου σας λειτουργεί σωστά και ότι το Bluetooth είναι ενεργοποιημένο. Στη συνέχεια, ενεργοποιήστε τη λειτουργία Magic Control στο τηλέφωνό σας. Για να το κάνετε αυτό, μπορείτε να πατήσετε παρατεταμένα το κουμπί λειτουργίας, να πατήσετε δύο φορές το κουμπί λειτουργίας ή να ενεργοποιήσετε τη λειτουργία μέσω της πύλης της οθόνης κλειδώματος ή της συντόμευσης του κέντρου ελέγχου. Παρακαλούμε επιλέξτε μία από τις παραπάνω μεθόδους που προτιμάτε. Μόλις ενεργοποιηθεί η λειτουργία Magic Control, στρέψτε το πίσω μέρος του τηλεφώνου σας προς τη συσκευή-στόχο για να τη συνδέσετε. Μόλις συνδεθεί, ο πίνακας ελέγχου της συσκευής θα εμφανιστεί στο τηλέφωνό σας."</string>
+    <string name="icon_content_description">Εικονίδιο διαλόγου</string>
+    <string name="item_view_role_description">Καρτέλα</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="mijiaplus_cancel">Ακύρωση</string>
+    <string name="mijiaplus_confirm">Λήψη</string>
+    <string name="mj_plus_app_name">Mi Home Plus</string>
+    <string name="mj_try_scan_again">Δοκιμάστε ξανά</string>
+    <string name="mj_uwb_bluetooth_not_ready">Ο φωνητικός έλεγχος Xiaomi AI δεν είναι διαθέσιμος.</string>
+    <string name="mj_uwb_camera_permission_denied">Δεν υπάρχει άδεια πρόσβασης στην Κάμερα</string>
+    <string name="mj_uwb_check_aoa_fail">Η βαθμονόμηση απέτυχε λόγω υπερβολικής μετακίνησης.</string>
+    <string name="mj_uwb_check_aoa_ok">OK</string>
+    <string name="mj_uwb_check_distance_timeout">Η βαθμονόμηση έχει λήξει.</string>
+    <string name="mj_uwb_check_succeed">Η βαθμονόμηση ολοκληρώθηκε</string>
+    <string name="mj_uwb_close_to_auth">Πλησιάστε στα 2 μέτρα για να ολοκληρώσετε την ασφαλή επαλήθευση..</string>
+    <string name="mj_uwb_common_device_loading">Παρακαλώ περιμένετε…</string>
+    <string name="mj_uwb_confirm_aoa_device">Βαθμονόμηση αυτής της συσκευής;</string>
+    <string name="mj_uwb_connect_fail">"Δεν ήταν δυνατή η σύνδεση. Δοκιμάστε ξανά αργότερα"</string>
+    <string name="mj_uwb_connected">Σε σύνδεση</string>
+    <string name="mj_uwb_find_devices">Εύρεση συσκευών</string>
+    <string name="mj_uwb_ignore">Αγνόηση</string>
+    <string name="mj_uwb_input_security_code_on_tv">Εισαγάγετε τον κωδικό επαλήθευσης που εμφανίζεται στη TV.</string>
+    <string name="mj_uwb_install_help_info">"Παρακαλούμε συνδέστε το Magic Control Bridge με μια τηλεόραση όπως στην παραπάνω εικόνα για να διασφαλίσετε ότι λειτουργεί με επιτυχία.
+
+Σύνδεση του καλωδίου τηλεόρασης: το ένα άκρο συνδέεται στην υποδοχή τηλεόρασης της Magic Control Bridge- το άλλο άκρο USB στη θύρα USB της τηλεόρασης.
+
+Σύνδεση του καλωδίου τροφοδοσίας: το ένα άκρο τύπου C συνδέεται στην υποδοχή τροφοδοσίας της Magic Control Bridge, το άλλο άκρο USB σε έναν προσαρμογέα τροφοδοσίας για σταθερή παροχή ρεύματος.."</string>
+    <string name="mj_uwb_install_help_title">Οδηγίες του Magic Control Bridge με τηλεόραση</string>
+    <string name="mj_uwb_know_it">Το γνωρίζω</string>
+    <string name="mj_uwb_login_mitv_account">Συνδεθείτε στο λογαριασμό Mi για να αποκτήσετε πρόσβαση σε περισσότερες λειτουργίες.</string>
+    <string name="mj_uwb_miracast">Μετάδοση καθρέφτη…</string>
+    <string name="mj_uwb_mitv_control_power_off">Η τηλεόραση είναι κλειστή.</string>
+    <string name="mj_uwb_mitv_control_power_off_fail">Διακοπή ισχύος, παρακαλώ επανασυνδέστε</string>
+    <string name="mj_uwb_mitv_control_power_oning">Ενεργοποίηση, παρακαλώ περιμένετε…</string>
+    <string name="mj_uwb_mitv_name">Xiaomi Smart TV</string>
+    <string name="mj_uwb_more_action">Περισσότερες λειτουργίες</string>
+    <string name="mj_uwb_no_blemac_hash_popup_info">"Δεν μπορώ να ελέγξω την τηλεόραση αυτή τη στιγμή. Παρακαλούμε επιλέξτε τον άλλο τρόπο για να ενεργοποιήσετε την TV."</string>
+    <string name="mj_uwb_no_blemac_popup_info">Αυτό το τηλέφωνο δεν έχει επαληθευτεί και δεν έχει εξουσιοδοτηθεί από την τηλεόραση για τον έλεγχό της. Παρακαλούμε επαληθεύστε το ενώ η τηλεόραση είναι ενεργοποιημένη και δοκιμάστε ξανά.</string>
+    <string name="mj_uwb_no_permit">Χωρίς άδεια</string>
+    <string name="mj_uwb_not_support_miracast">"Αυτή η τηλεόραση δεν υποστηρίζει mirror casting."</string>
+    <string name="mj_uwb_not_support_xiaoai">Αυτή η τηλεόραση δεν υποστηρίζει τον φωνητικό έλεγχο Xiaomi AI</string>
+    <string name="mj_uwb_ok_button">OK</string>
+    <string name="mj_uwb_power_off_info_bottom">Μέθοδος εγκατάστασης: Συνδέστε το ένα άκρο του καλωδίου τροφοδοσίας στη διασύνδεση ισχύος στο πίσω μέρος μιας ζεύξης δακτύλου και συνδέστε το άλλο άκρο στον προσαρμογέα ή στην πρίζα επέκτασης για τροφοδοσία.</string>
+    <string name="mj_uwb_power_off_info_top">Για να εξασφαλίσετε την κανονική χρήση της λειτουργίας Magic Control της τηλεόρασης, παρακαλώ συνδέστε το καλώδιο τροφοδοσίας όπως φαίνεται στην παραπάνω εικόνα</string>
+    <string name="mj_uwb_power_off_tv">Το καλώδιο τροφοδοσίας δεν είναι συνδεδεμένο</string>
+    <string name="mj_uwb_pre_check_aoa_img_info">Η βαθμονόμηση είναι διαθέσιμη μόνο για το Xiaomi Magic Control προς το παρόν.</string>
+    <string name="mj_uwb_pre_check_aoa_info">Βαθμονομήστε την ακρίβεια μεταξύ του τηλεφώνου και της συσκευής UWB για να βρείτε μια συσκευή ταχύτερα και ακριβέστερα.</string>
+    <string name="mj_uwb_record_permission_denied">Δεν έχετε δικαίωμα εγγραφής ήχου</string>
+    <string name="mj_uwb_retry">Δοκιμάστε ξανά</string>
+    <string name="mj_uwb_scan_title">Σημείο στη συσκευή προορισμού</string>
+    <string name="mj_uwb_security_code">Εξουσιοδότηση και επαλήθευση</string>
+    <string name="mj_uwb_security_code_error">Σφάλμα εισαγωγής κωδικού επαλήθευσης</string>
+    <string name="mj_uwb_security_code_timeout">Έληξε το χρονικό όριο του κωδικού επαλήθευσης</string>
+    <string name="mj_uwb_see_help">Προβολή Βοήθειας</string>
+    <string name="mj_uwb_select_check_device">Επιλέξτε τη συσκευή που θα βαθμονομηθεί.</string>
+    <string name="mj_uwb_select_target_device">Επιλογή της συσκευής προορισμού</string>
+    <string name="mj_uwb_start">Έναρξη</string>
+    <string name="mj_uwb_start_check_aoa_btn">Έναρξη βαθμονόμησης</string>
+    <string name="mj_uwb_tag_has_upgrade_version">Magic Control Bridge έχει ενημέρωση V%s.</string>
+    <string name="mj_uwb_tag_name">Magic Control Bridge</string>
+    <string name="mj_uwb_tag_power_not_connect">Χωρίς σύνδεση σε καλώδιο τροφοδοσίας</string>
+    <string name="mj_uwb_third_device_help_info">Δυστυχώς, η συσκευή σας δεν είναι συμβατή με το Magic Control Bridge. Κάντε κλικ στις Συνήθεις ερωτήσεις για να δείτε τις υποστηριζόμενες συσκευές.</string>
+    <string name="mj_uwb_third_device_help_title">"Η συσκευή δεν υποστηρίζεται."</string>
+    <string name="mj_uwb_third_tv_name">Άλλες συσκευές</string>
+    <string name="mj_uwb_try_to_scan">Προσπάθεια σάρωσης</string>
+    <string name="mj_uwb_tv_history_network_error">Λυπούμαστε...κάτι δεν πάει καλά, ανανεώστε και δοκιμάστε ξανά.</string>
+    <string name="mj_uwb_tv_history_refresh">Επαναφόρτωση</string>
+    <string name="mj_uwb_tv_item_progress">%d επεισόδιο</string>
+    <string name="mj_uwb_tv_mode">Λειτουργία τετραγώνου</string>
+    <string name="mj_uwb_tv_mode_info">Η τηλεόραση βρίσκεται αυτή τη στιγμή σε τετράγωνη λειτουργία και δεν υποστηρίζει λειτουργίες ελέγχου.</string>
+    <string name="mj_uwb_tv_player_progress">%s επεισόδιο</string>
+    <string name="mj_uwb_tvcard_voicecontrol">Ακρόαση…</string>
+    <string name="mj_uwb_upgrade_tag_now">Ενημέρωση τώρα</string>
+    <string name="mj_uwb_uwb_loading_card">Φόρτωση, παρακαλώ περιμένετε...</string>
+    <string name="mj_uwb_uwb_no_permission">Ο διαχειριστής αυτής της συσκευής επιτρέπει τον έλεγχο αυτής της συσκευής μόνο στα μέλη του λογαριασμού αυτού του σπιτιού, παρακαλούμε γίνετε μέλος του σπιτιού ή ζητήστε από τον διαχειριστή να αλλάξει τα δικαιώματα για το Magic Control σε Οποιονδήποτε.</string>
+    <string name="mj_uwb_uwb_restart">Ξεκινήστε ξανά</string>
+    <string name="mj_uwb_uwb_third_tv_tag_not_valid">Magic Control Bridge έχει συνδεθεί. Εάν θέλετε να το χρησιμοποιήσετε με σκηνές τηλεόρασης, επαναφέρετε το Magic Control Bridge που είναι συνδεδεμένη και χρησιμοποιήστε την ξανά μετά την επαναφορά..</string>
+    <string name="mj_uwb_uwb_third_tv_tag_not_valid_title">Magic Control Bridge έχει συνδεθεί.</string>
+    <string name="not_set">Δεν έχει οριστεί</string>
+    <string name="notification_channel_other">Άλλα</string>
+    <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
+    <string name="scan_again">Ξεκινήστε ξανά</string>
+    <string name="scan_interrupt">Διακοπή σάρωσης</string>
+    <string name="search_menu_title">Αναζήτηση</string>
+    <string name="send">Αποστολή</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="try_to_bind">Πρόκειται να δημιουργηθεί συσχετισμός</string>
+    <string name="uwb_accept">Συμφωνώ</string>
+    <string name="uwb_aim_at_device_and_do_not_move">"Σημαδέψτε τη συσκευή.
+Πατήστε για εκκίνηση και παραμείνετε ακίνητος για 5 δευτερόλεπτα"</string>
+    <string name="uwb_ble_fail">Το Bluetooth δεν είναι ενεργοποιημένο. Ελέγξτε τις ρυθμίσεις Bluetooth.</string>
+    <string name="uwb_ble_success">Ενεργοποίηση Bluetooth</string>
+    <string name="uwb_cancel_hint">Πατήστε Δεν είναι ενεργοποιημένο για να κλείσετε την πύλη κλειδώματος οθόνης και η πύλη μπορεί να ανοίξει στις ρυθμίσεις οποιαδήποτε στιγμή.</string>
+    <string name="uwb_check_device_at_the_right_distance">"Σημαδέψτε τη συσκευή.
+Κρατήστε περίπου 2 μέτρα μακριά από τη συσκευή."</string>
+    <string name="uwb_check_setting">Έλεγχος των ρυθμίσεων</string>
+    <string name="uwb_common_qs">Βοήθεια</string>
+    <string name="uwb_common_questions">Βοήθεια</string>
+    <string name="uwb_confirm">Ok</string>
+    <string name="uwb_control_center">Συντόμευση κέντρου ελέγχου</string>
+    <string name="uwb_control_center_disable_toast">Μεταβείτε στο κέντρο ελέγχου για να προσθέσετε ένα διακόπτη</string>
+    <string name="uwb_control_center_enable_toast">Τραβήξτε προς τα κάτω για να εισέλθετε στο κέντρο ελέγχου για χρήση</string>
+    <string name="uwb_do_not_move_in_5_second">"Σημαδέψτε τη συσκευή.
+Παραμείνετε ακίνητος για %d δευτερόλεπτα"</string>
+    <string name="uwb_down_than_right_aoa">"Σημαδέψτε τη συσκευή.
+Κίνηση λίγο πάνω"</string>
+    <string name="uwb_download_mijia">Magic Control πρέπει να εγκαταστήσετε το SmartHome App, η έκδοση του SmartHome App είναι παλιά. Ενημερώστε πρώτα το SmartHome App.</string>
+    <string name="uwb_exit">Έξοδος</string>
+    <string name="uwb_fail_title">"Δεν μπόρεσε να ενεργοποιηθεί το Xiaomi Magic Control."</string>
+    <string name="uwb_guide_cancel">Δεν ενεργοποιήθηκε</string>
+    <string name="uwb_guide_cancel_open">Δεν ενεργοποιήθηκε</string>
+    <string name="uwb_guide_confirm">Δοκιμάστε τώρα</string>
+    <string name="uwb_guide_hint">Ενεργοποιήστε το Xiaomi Magic Control για μια ολοκαίνουργια εμπειρία ελέγχου. Απλά στρέψτε αυτό το τηλέφωνο προς μια έξυπνη συσκευή που υποστηρίζει Xiaomi Magic Control σε κοντινή απόσταση για να συνδεθείτε ασύρματα και να ελέγξετε την έξυπνη συσκευή.</string>
+    <string name="uwb_guide_title">Καλώς ήρθατε στο “Xiaomi Magic Control”</string>
+    <string name="uwb_left_than_right_aoa">"Σημαδέψτε τη συσκευή.
+Κίνηση λίγο δεξιά"</string>
+    <string name="uwb_less_than_right_distance">"Σημαδέψτε τη συσκευή.
+Κίνηση λίγο προς τα πίσω"</string>
+    <string name="uwb_lock_sceen_entrance">"Εισαγωγή συντόμευσης οθόνης κλειδώματος"</string>
+    <string name="uwb_mi_quick_shortcut">Xiaomi Magic Control</string>
+    <string name="uwb_mijia_low_version">Magic Control πρέπει να εγκαταστήσετε την εφαρμογή SmartHome App, η έκδοση της εφαρμογής SmartHome App είναι παλιά, ενημερώστε πρώτα την εφαρμογή SmartHome App.</string>
+    <string name="uwb_mijia_low_version_title">SmartHome App η έκδοση είναι παλιά</string>
+    <string name="uwb_mijia_not_installed_title">SmartHome App δεν είναι εγκατεστημένη</string>
+    <string name="uwb_more_than_right_distance">"Σημαδέψτε τη συσκευή.
+Λίγο πιο κοντά"</string>
+    <string name="uwb_open_way">Μέθοδος ενεργοποίησης</string>
+    <string name="uwb_other">Άλλα</string>
+    <string name="uwb_permission_account">Για τον εντοπισμό συσκευών, την επαλήθευση ασφάλειας κ.λπ.</string>
+    <string name="uwb_permission_agree_desc">Εάν δεν συμφωνείτε να καλέσετε τις παραπάνω απαραίτητες άδειες, αυτή η υπηρεσία δεν θα λειτουργεί κανονικά. Αφού συμφωνήσετε να ανοίξετε, μπορείτε επίσης να μεταβείτε στις Ρυθμίσεις> Δικαιώματα για να ακυρώσετε την εξουσιοδότηση ανά πάσα στιγμή για να τερματίσετε την υπηρεσία.</string>
+    <string name="uwb_permission_ble">Χρησιμοποιείται για την εύρεση κοντινών συσκευών UWB.</string>
+    <string name="uwb_permission_camera">Χρησιμοποιείται για σημείο βοήθειας και σύνδεση της συσκευής.</string>
+    <string name="uwb_permission_message">Καλώς ήρθατε στο Mi Home Plus για να χρησιμοποιήσετε το Xiaomi Magic Control. Απλά στρέψτε αυτό το τηλέφωνο προς μια έξυπνη συσκευή που υποστηρίζει Xiaomi Magic Control σε κοντινή απόσταση για να συνδεθείτε ασύρματα και να ελέγξετε την έξυπνη συσκευή.</string>
+    <string name="uwb_permission_title">Απαιτούμενα δικαιώματα (για τις βασικές υπηρεσίες και λειτουργίες αυτής της εφαρμογής)</string>
+    <string name="uwb_power_hint">Πατήστε και κρατήστε πατημένο το κουμπί λειτουργίας για 0,5 δευτερόλεπτα για να ενεργοποιήσετε γρήγορα το Xiaomi Magic Control.Αφού ενεργοποιήσετε αυτό το κουμπί συντόμευσης, η συσκευή μπορεί να απενεργοποιηθεί πατώντας και κρατώντας πατημένο το κουμπί λειτουργίας για 3 δευτερόλεπτα.</string>
+    <string name="uwb_power_title">Πατήστε παρατεταμένα το κουμπί λειτουργίας για να ενεργοποιήσετε το Xiaomi Magic Control.</string>
+    <string name="uwb_retry">Δοκιμάστε ξανά</string>
+    <string name="uwb_right_than_right_aoa">"Σημαδέψτε τη συσκευή.
+Μετακίνηση λίγο αριστερά"</string>
+    <string name="uwb_scan_calibration">Βαθμονόμηση της ακρίβειας ανίχνευσης συσκευής</string>
+    <string name="uwb_scan_calibration_summary">Βελτιστοποίηση της εμπειρίας εντοπισμού συσκευών</string>
+    <string name="uwb_scan_device">Εντοπίσιμη απόσταση</string>
+    <string name="uwb_setting_guide_info_desc">Ενεργοποιήστε το Magic Control και στρέψτε το τηλέφωνο προς μια έξυπνη συσκευή που υποστηρίζει το Xiaomi Magic Control σε κοντινή απόσταση για ασύρματη σύνδεση και έλεγχο της έξυπνης συσκευής.</string>
+    <string name="uwb_setting_later">Δεν ενεργοποιήθηκε</string>
+    <string name="uwb_shortcut">Κουμπί συντόμευσης</string>
+    <string name="uwb_shortcut_entries_power_double">Κάντε διπλό κλικ στο κουμπί λειτουργίας</string>
+    <string name="uwb_shortcut_entries_power_long">Πατήστε και κρατήστε πατημένο το κουμπί λειτουργίας για 0,5 δευτερόλεπτα.</string>
+    <string name="uwb_shortcut_entries_power_none">Κανένα</string>
+    <string name="uwb_title">Xiaomi Magic Control</string>
+    <string name="uwb_up_than_right_aoa">"Σημαδέψτε τη συσκευή.
+Μετακίνηση λίγο κάτω"</string>
+    <string name="uwb_wifi_fail">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο, ελέγξτε τη σύνδεση δικτύου."</string>
+    <string name="uwb_wifi_success">Η σύνδεση δικτύου λειτουργεί σωστά.</string>
+    <string name="what_can_uwb_do">Τι είναι το Xiaomi Magic Control;</string>
+    <string name="what_can_uwb_do_detail">Το Xiaomi Magic Control είναι ένας νέος τρόπος σύνδεσης του τηλεφώνου σας με έξυπνες συσκευές. Με το chip UWB, το τηλέφωνο και οι έξυπνες συσκευές σας μπορούν να ανιχνεύσουν την απόσταση και την κατεύθυνση μεταξύ τους και μπορείτε να συνδέσετε και να ελέγξετε τις έξυπνες συσκευές υποδεικνύοντας το τηλέφωνό σας προς αυτές.</string>
+    <string name="what_device_uwb_supported">Ποιες συσκευές μπορούν να ελεγχθούν από το Xiaomi Magic Control;</string>
+    <string name="what_device_uwb_supported_detail">"Μπορείτε να κατευθύνετε ένα τηλέφωνο Xiaomi με τσιπ UWB προς έξυπνες συσκευές για να τις ελέγξετε.
+
+Ποιες συσκευές υποστηρίζουν το Xiaomi Magic Control για σύνδεση;
+1. Τηλεοράσεις Xiaomi με τεχνολογία UWB, όπως Xiaomi TV Master 77\" OLED.
+2. Οι τηλεοράσεις Xiaomi με το Xiaomi Magic Control για σύνδεση με ετικέτα, %s."</string>
+    <string name="what_device_uwb_supported_detail_placeholder">Προβολή λεπτομερειών</string>
+</resources>
