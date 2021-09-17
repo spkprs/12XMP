@@ -301,6 +301,9 @@
   <string name="miliao_account_login">Είσοδος στο Mi Talk</string>
   <string name="miui_feedback_main_item_catch_full_log">Λήψη αρχείων καταγραφής</string>
   <string name="miui_feedback_main_item_feedback_list">Τα σχόλιά μου</string>
+  <string name="miuix_access_state_desc">Επιλεγμένα</string>
+  <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
+  <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>

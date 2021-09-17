@@ -455,7 +455,7 @@
     <string name="several_days_use_time">Χρόνος οθόνης: %2$s</string>
     <string name="short_eared_owl">Κουκουβάγια</string>
     <string name="shortcut_created">Η συντόμευση υπάρχει ήδη</string>
-    <string name="silent_ringtone_hint">Ο ήχος είναι σε Σίγαση. Αυξήστε την ένταση και προσπαθήστε ξανά.</string>
+    <string name="silent_ringtone_hint">Απενεργοποιήστε πρώτα την Αθόρυβη Λειτουργία</string>
     <string name="silver_pheasant">Ασημένιος φασιανός</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>

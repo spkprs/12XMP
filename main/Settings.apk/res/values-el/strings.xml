@@ -1109,6 +1109,7 @@
     <string name="bluetooth_phonebook_request">Αίτημα πρόσβασης στο βιβλίο επαφών</string>
     <string name="bluetooth_pin_values_hint">Συνήθως 0000 ή 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Πρέπει να είναι 16 ψηφία</string>
+    <string name="bluetooth_plugins_check_summary_new">Βρέθηκε νέα έκδοση του πρόσθετου bluetooth</string>
     <string name="bluetooth_pref_summary">Να επιτρέπεται στο τηλέφωνό σας να επικοινωνεί με κοντινές συσκευές Bluetooth</string>
     <string name="bluetooth_preference_connected_devices">Συνδεδεμένες συσκευές</string>
     <string name="bluetooth_preference_device_settings">Ρυθμίσεις συσκευής</string>
