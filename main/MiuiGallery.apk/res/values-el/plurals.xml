@@ -596,4 +596,12 @@
         <item quantity="other">Συγχ/μός %d στοιχ.</item>
         <item quantity="one">Συγχ/μός %d στοιχ.</item>
     </plurals>
+     <plurals name="trash_purge_dialog_message_cloud">
+         <item quantity="other">%d επιλεγμένα στοιχεία θα διαγραφούν οριστικά από το cloud και όλες τις συγχρονισμένες συσκευές. Διαγραφή οπωσδήποτε?</item>
+         <item quantity="one">%d επιλεγμένο στοιχείο θα διαγραφεί οριστικά από το cloud και όλες τις συγχρονισμένες συσκευές. Διαγραφή οπωσδήποτε?</item>
+     </plurals>
+     <plurals name="trash_purge_dialog_message_local">
+         <item quantity="other">%d τα επιλεγμένα στοιχεία θα διαγραφούν οριστικά. Διαγραφή οπωσδήποτε?</item>
+         <item quantity="one">%d τα επιλεγμένο στοιχείο θα διαγραφεί οριστικά. Διαγραφή οπωσδήποτε?</item>
+     </plurals>
 </resources>

@@ -272,6 +272,7 @@
     <string name="pa_cta_dialog_desc_location">Για την παροχή προτάσεων μετακίνησης</string>
     <string name="pa_cta_dialog_desc_phone_state">Για την αναγνώριση της συσκευής σας με βάση το IMEI</string>
     <string name="pa_cta_dialog_desc_storage">Για στοιχεία προσωρινής αποθήκευσης</string>
+    <string name="pa_download">Λήψη</string>
     <string name="pa_edit">Επεξ/σία</string>
     <string name="pa_edit_color">Χρωματικός συνδυασμός</string>
     <string name="pa_edit_color_group">Χρωματικός συνδυασμός</string>
@@ -326,7 +327,7 @@
     <string name="pa_net_unavailable">"Δεν ήταν δυνατή η σύνδεση με το δίκτυο"</string>
     <string name="pa_notification_chanel_name_widget_offline">Ειδοποιήσεις Cloud</string>
     <string name="pa_notification_chanel_name_widget_offline_des">Ειδοποιήσεις για ενέργειες που σχετίζονται με το cloud</string>
-    <string name="pa_picker_classic_widget">Κλασσικό γραφικό</string>
+    <string name="pa_picker_classic_widget">Γραφικά Android</string>
     <string name="pa_picker_detail_add_maml_net_unavailable">"Δεν μπόρεσε να συνδεθεί στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.."</string>
     <string name="pa_picker_detail_add_to_home">Προσθήκη στην αρχική οθόνη</string>
     <string name="pa_picker_detail_add_to_minus">Προσθήκη στο Βοηθός MIUI</string>
@@ -435,6 +436,8 @@
     <string name="pa_sports_all_match">Προβολή όλων</string>
     <string name="pa_sports_all_title">Προσθέστε ομάδες και εκδηλώσεις</string>
     <string name="pa_sports_concern_club">Προσθήκη</string>
+    <string name="pa_sports_download_douyu_tip">Εγκαταστήστε το Douyu για να δείτε τις πληροφορίες σχετικά με τις αθλητικές εκδηλώσεις.</string>
+    <string name="pa_sports_download_hupu_tip">Εγκαταστήστε το Hupu για να δείτε τις πληροφορίες σχετικά με αθλητικές εκδηλώσεις.</string>
     <string name="pa_sports_fav_add">Προσθήκη</string>
     <string name="pa_sports_fav_cancel_club">Απόκρυψη αυτής της ομάδας;</string>
     <string name="pa_sports_fav_cancel_league">Απόκρυψη αυτής της εκδήλωσης?</string>
