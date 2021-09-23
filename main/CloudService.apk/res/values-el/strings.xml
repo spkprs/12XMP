@@ -523,6 +523,15 @@
     <string name="no_network">"Δεν είναι δυνατή η σύνδεση στο δίκτυο"</string>
     <string name="no_sim">Δεν ανιχνεύθηκε κάρτα SIM</string>
     <string name="not_set">Δεν ορίστηκε</string>
+    <string name="noti_quota_button_text">Αναβάθμιση</string>
+    <string name="noti_quota_full_sum">Αναβαθμίστε το πακέτο σας για συνέχεια συγχ/σμού στοιχείων.</string>
+    <string name="noti_quota_full_sum_without_button">Αποκτήστε περισσότερη αποθ/ση για συνέχεια συγχ/σμού στοιχείων.</string>
+    <string name="noti_quota_full_title">Η αποθ/ση Cloud είναι γεμάτη</string>
+    <string name="noti_quota_full_title_without_button">Η αποθ/ση Cloud είναι γεμάτη</string>
+    <string name="noti_quota_low_sum">Αναβαθμίστε το πακέτο σας για συνέχεια συγχ/σμού στοιχείων.</string>
+    <string name="noti_quota_low_sum_without_button">Αποκτήστε περισσότερη αποθ/ση για συνέχεια συγχ/σμού στοιχείων.</string>
+    <string name="noti_quota_low_title">Χωρίς αρκετή αποθ/ση Cloud</string>
+    <string name="noti_quota_low_title_without_button">Χωρίς αρκετή αποθ/ση Cloud</string>
     <string name="notification_reinstall_key_text">Επαληθεύστε την ταυτότητά σας και δοκιμάστε ξανά</string>
     <string name="notification_sync_fail_title">"Αδυναμία συγχ/σμού κωδικών"</string>
     <string name="notification_update_key_text">Ο κωδικός πρόσβασης του διαχειριστή κωδικών πρόσβασης άλλαξε. Επαληθεύστε τον νέο κωδικό πρόσβασης</string>
@@ -595,7 +604,7 @@
     <string name="send_last_location_title">Εντοπισμός πριν από την απενεργοποίηση</string>
     <string name="share_cancel">ακύρωση κοινής χρήσης</string>
     <string name="share_failed">αποτυχία κοινής χρήσης</string>
-    <string name="share_location_app_name">Εύρεση</string>
+    <string name="share_location_app_name">Εύρεση συσκευής</string>
     <string name="share_location_dialog_confirm">Κατάλαβα</string>
     <string name="share_location_dialog_content">Τώρα μπορείτε να χρησιμοποιήσετε τη συντόμευση στην Αρχική οθόνη για ταχύτερη πρόσβαση στις ρυθμίσεις.</string>
     <string name="share_location_dialog_title">Προσοχή</string>

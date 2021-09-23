@@ -896,6 +896,7 @@
     <string name="beauty_camera">Καλλωπισμός για κλήσεις βίντεο</string>
     <string name="beauty_camera_summary">Χρήση του Beaufy για κλήσεις βίντεο WeChat</string>
     <string name="beauty_camera_switch">Beautify</string>
+    <string name="beauty_fc_assistant">Βοηθός εμπρός Κάμερας</string>
     <string name="billing_cycle">Κύκλος χρέωσης</string>
     <string name="billing_cycle_fragment_summary">Μηνιαία εκκίνηση %1$s</string>
     <string name="billing_cycle_less_than_one_day_left">Λιγότερο από 1 ημέρα αριστερά</string>
