@@ -451,7 +451,7 @@
     <string name="picture_color_mode">Λειτουργία χρώματος εικόνας</string>
     <string name="picture_color_mode_desc">Χρήση sRGB</string>
     <string name="plugin_alert_cancel">Αργότερα</string>
-    <string name="plugin_alert_kill">Παύση</string>
+    <string name="plugin_alert_kill">Επανεκκίνηση</string>
     <string name="plugin_alert_text">Σταματήστε τις ρυθμίσεις και επανεκκινήστε το Bluetooth για να εφαρμόσετε τις αλλαγές.</string>
     <string name="plugin_alert_title">Ενημέρωση πρόσθετου</string>
     <string name="plugin_download_create_client_failed">Αποτυχία δημιουργίας πελάτη.</string>

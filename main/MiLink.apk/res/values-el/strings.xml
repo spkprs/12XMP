@@ -219,6 +219,7 @@
     <string name="tile_label">Μετάδοση</string>
     <string name="toast_guide_show_more">Μάθε περισσότερα</string>
     <string name="toast_guide_title">Εξερευνήστε τις νέες μας λειτουργίες εδώ</string>
+    <string name="toast_invisible_mode">"Είστε ινκόγκνιτο. Αδύνατη η Μετάδοση τώρα."</string>
     <string name="toast_msg_for_multi_window">"Αδύνατη η χρήση στη λειτουργία Διαίρεσης οθόνης"</string>
     <string name="toast_msg_for_small_window"> "Μπορείτε να ελαχιστοποιήσετε το παράθυρο που χρησιμοποιείται για να μπορείτε να χρησιμοποιήσετε άλλες δυνατότητες του τηλεφώνου σας χωρίς να διακόπτετε τη διαδικασία Μετάδοσης. "</string>
     <string name="toast_nfc_dont_move">"Μην απομακρύνετε το τηλέφωνό σας"</string>

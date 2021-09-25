@@ -1110,7 +1110,9 @@
     <string name="bluetooth_phonebook_request">Αίτημα πρόσβασης στο βιβλίο επαφών</string>
     <string name="bluetooth_pin_values_hint">Συνήθως 0000 ή 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Πρέπει να είναι 16 ψηφία</string>
-    <string name="bluetooth_plugins_check_summary_new">Βρέθηκε νέα έκδοση του πρόσθετου bluetooth</string>
+    <string name="bluetooth_plugins_check_summary">Συνδεθείτε στο δίκτυο για έλεγχο ενημερώσεων</string>
+    <string name="bluetooth_plugins_check_summary_new">Διατίθεται μια ενημέρωση</string>
+    <string name="bluetooth_plugins_check_title">Ενημέρωση προσθέτου Bletooth</string>
     <string name="bluetooth_pref_summary">Να επιτρέπεται στο τηλέφωνό σας να επικοινωνεί με κοντινές συσκευές Bluetooth</string>
     <string name="bluetooth_preference_connected_devices">Συνδεδεμένες συσκευές</string>
     <string name="bluetooth_preference_device_settings">Ρυθμίσεις συσκευής</string>
@@ -6790,6 +6792,11 @@
     <string name="style_and_wallpaper_settings_title">Στυλ και ταπετσαρίες</string>
     <string name="style_suggestion_summary">Δοκιμάστε διαφορετικά στυλ, ταπετσαρίες, ρολόγια και πολλά άλλα</string>
     <string name="style_suggestion_title">Προσαρμόστε το Pixel σας</string>
+    <string name="stylus_connect_fail">"Αδύνατη η σύνδεση. Επανάληψη επισύναψης."</string>
+    <string name="stylus_connect_fail_no_battery">Φορτίστε τη γραφίδα σας τώρα</string>
+    <string name="stylus_connect_fail_no_reason">"Αδύνατη η σύνδεση"</string>
+    <string name="stylus_connect_fail_not_open_gps">"Αδύνατη η σύνδεση. Ενεργοποιήστε τις υπηρεσίες τοποθεσίας και προσπαθήστε ξανά."</string>
+    <string name="stylus_connecting">Σύνδεση…</string>
     <string name="stylus_ota_check_failed_battery">"Δεν ήταν δυνατός ο έλεγχος. Η μπαταρία της γραφίδας σας τελειώνει."</string>
     <string name="stylus_ota_check_failed_info">"Δεν ήταν δυνατός ο έλεγχος της έκδοσης υλικολογισμικού. Προσαρτήστε ξανά τη γραφίδα σας."</string>
     <string name="stylus_ota_check_update">Έλεγχος για Ενημερώσεις</string>

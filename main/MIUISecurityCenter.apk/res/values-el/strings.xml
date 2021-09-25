@@ -766,8 +766,8 @@
     <string name="battery_charge_estimating">Υπολογισμός</string>
     <string name="battery_charge_full">Φορτίστηκε</string>
     <string name="battery_charging_prompt">Φορτίζεται</string>
-    <string name="battery_desc_ambient_display">Κατανάλωση ισχύος από την \"Πάντα Ενεργή\"</string>
-    <string name="battery_desc_apps">Χρήση μπαταρίας εφαρμογής</string>
+    <string name="battery_desc_ambient_display">Χρήση μπατ. \"Πάντα Ενεργή\"</string>
+    <string name="battery_desc_apps">Χρήση μπαταρίας εφαρμ.</string>
     <string name="battery_desc_bluetooth">Χρήση μπαταρίας Bluetooth</string>
     <string name="battery_desc_display">Χρήση μπαταρίας οθόνης</string>
     <string name="battery_desc_other_apps">Σύνολο μπατ. άλλων εφαρμ.</string>
