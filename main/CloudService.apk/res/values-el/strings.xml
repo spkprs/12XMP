@@ -617,7 +617,7 @@
     <string name="share_location_guide_action_btn_text">Ενεργοποίηση</string>
     <string name="share_location_guide_extra_btn_text">Παράλειψη</string>
     <string name="share_location_menu_create_shortcut">Συντόμευση στην Αρχική Οθόνη</string>
-    <string name="share_location_menu_finddevice_settings">Εύρεση ρυθμίσεων συσκευής</string>
+    <string name="share_location_menu_finddevice_settings">Ρυθμίσεις Εύρεσης συσκευής</string>
     <string name="share_location_menu_help">Βοήθεια και σχόλια</string>
     <string name="share_location_menu_messages">Ιστορικό μηνυμάτων</string>
     <string name="share_location_start_navigation_error">"Δεν ήταν δυνατή η εύρεση χαρτών στη συσκευή σας"</string>
