@@ -3021,6 +3021,7 @@
     <string name="gxzw_quick_open_title">Συντομεύσεις</string>
     <string name="handy_mode">Λειτουργία με ένα χέρι</string>
     <string name="handy_mode_enable">Λειτουργία με ένα χέρι</string>
+    <string name="handy_mode_no_touch_assistant">"Η λειτουργία με \"Ένα χέρι\" θα λειτουργήσει μόνο αν χρησιμοποιείτε πλήκτρα για πλοήγηση συστήματος. Μπορείτε να κάνετε εναλλαγή μεταξύ χειρονομιών και πλήκτρων στην ενότητα \"Αρχική οθόνη > Βασικές επιλογές > Πλοήγηση συστήματος\" στις Ρυθμίσεις."</string>
     <string name="handy_mode_size">Μέγεθος οθόνης</string>
     <string name="handy_mode_tips">Σύρετε αριστερά ή δεξιά ξεκινώντας από το πλήκτρο Home για να μετακινήσετε την οθόνη προς μία πλευρά.</string>
     <string name="handy_mode_tips_full_screen">Όταν χρησιμοποιείτε Χειρονομίες πλήρους οθόνης, μπορείτε να ενεργοποιήσετε τη Λειτουργία με ένα χέρι χρησιμοποιώντας τον Βοηθό Αφής. Μπορείτε επίσης να μεταβείτε στη χρήση Κουμπιών αντί για Χειρονομίες πλήρους οθόνης.</string>
@@ -3243,6 +3244,7 @@
     <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
     <string name="input_settings">Ρυθμίσεις εισόδου</string>
     <string name="input_text">Γραμμή εισόδου κειμένου</string>
+    <string name="insert_sim_card_and_try_again">Εισάγετε την κάρτα SIM και προσπαθήστε ξανά.</string>
     <string name="install_all_warning">Το τηλέφωνό σας και τα προσωπικά δεδομένα είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές από άγνωστες πηγές. Συμφωνείτε ότι είστε αποκλειστικά υπεύθυνοι για κάθε ζημιά στο τηλέφωνο ή απώλεια δεδομένων που μπορεί να προκύψουν από τη χρήση αυτών των εφαρμογών.</string>
     <string name="install_applications">Άγνωστες πηγές</string>
     <string name="install_applications_title">Να επιτρέπονται όλες οι πηγές εφαρμογών</string>
@@ -7216,6 +7218,7 @@
     <string name="unrestricted_app_title">Χρήση απεριόριστων δεδομένων</string>
     <string name="unrestricted_data_saver">Απεριόριστη πρόσβαση δεδ.</string>
     <string name="unsupported_setting_summary">Η ρύθμιση δεν υποστηρίζεται σε αυτό το τηλέφωνο</string>
+    <string name="unsupported_usim_card">Μη υποστηριζόμενη κάρτα USIM.</string>
     <string name="update_new_version">Διαθέσιμη ενημέρωση</string>
     <string name="update_progress_for_updates">Ενημέρωση (%s)</string>
     <string name="upload_debug_log_summary">Κοινή χρήση δεδομ. για βελτίωση του MIUI</string>

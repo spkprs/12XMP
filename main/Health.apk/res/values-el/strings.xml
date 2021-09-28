@@ -101,6 +101,7 @@
     <string name="average_menstruation_days">Μέση διάρκεια</string>
     <string name="avg_altitude">Μέσο ύψος</string>
     <string name="avg_day">Μέση</string>
+    <string name="avg_earphone_listening_duration">Ακουστικά</string>
     <string name="avg_finish_stand">Καθημ. μέση κατάστ.</string>
     <string name="avg_freq">Μέση συχνότητα</string>
     <string name="avg_heart_rate">Μέσος καρδιακός ρυθμός</string>
@@ -109,6 +110,7 @@
     <string name="avg_low_pressure">Μέση διαστολική (χαμηλή)</string>
     <string name="avg_pace">Μέσος ρυθμός</string>
     <string name="avg_steps">Ημερήσια Βήματα</string>
+    <string name="avg_treble_duration">Έντονοι ήχοι</string>
     <string name="awake_count">Ξύπνησα</string>
     <string name="awake_count_abnormal_description">Ξύπνησες πολύ κατά τη διάρκεια της νύχτας.</string>
     <string name="awake_count_normal_description">Ξύπνησες μια φορά τη νύχτα. Αυτό είναι φυσιολογικό.</string>
@@ -197,6 +199,7 @@
     <string name="clear_text_end_icon_content_description">Εκκαθ. κειμένου</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="click_finish_stand">Πατήστε για εγγραφή</string>
+    <string name="click_to_solve">Βοήθεια</string>
     <string name="climb">Αναρρίχηση σκάλες</string>
     <string name="climbing">Αναρρίχηση</string>
     <string name="close">Απενεργοποίηση</string>
@@ -372,12 +375,15 @@
     <string name="each_week_day_format3">Κάθε %1$s μέχρι %2$s</string>
     <string name="early">Νωρίς</string>
     <string name="early_morning">Πρωί</string>
+    <string name="earphone_listening_duration">Ακουστικά</string>
     <string name="edit_aid_file">Επεξεργασία</string>
     <string name="edit_basic_info_desc">Βασικές πληροφορίες</string>
     <string name="edit_immediately">Εισαγωγή πληροφοριών</string>
     <string name="edit_sleep_record_button">Επεξεργασία</string>
     <string name="elliptical_machine">Ελλειπτικός</string>
     <string name="emergency_contact">Επαφή έκτακτης ανάγκης</string>
+    <string name="emergency_lock_show_subtitle">Βρείτε την Επείγουσα Ιατρική ταυτότητα πατώντας \"Επείγουσα ταυτότητα\" και \"Επείγουσα Ιατρική ταυτότητα\" ενώ η οθόνη σας είναι κλειδωμένη.</string>
+    <string name="emergency_lock_show_title">Εμφάνιση όταν είναι κλειδωμένο</string>
     <string name="empty_data">-</string>
     <string name="enable">Ενεργή</string>
     <string name="enable_go_now">Ενεργό</string>
@@ -394,6 +400,7 @@
     <string name="equivalent_exercise">≈%1$s χλμ περπάτημα (%2$s kcal)</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
+    <string name="evaluation_origin_health">Οι προτάσεις παρέχονται από την Υγεία.</string>
     <string name="evening">Απόγευμα</string>
     <string name="every_day">Κάθε μέρα</string>
     <string name="excessive">Υπεραρκετά</string>
@@ -465,6 +472,7 @@
     <string name="finish_stand">Τέλος ορθοστασίας</string>
     <string name="finish_stand2">Ορθιος</string>
     <string name="finished_rate">Ολοκληρώθηκε το %1$d%%</string>
+    <string name="first_aid_card">Επείγουσα Ιατρική ταυτότητα</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_numeric_day">dd</string>
@@ -523,6 +531,7 @@
     <string name="health_setting">Ρυθμίσεις Υγείας</string>
     <string name="health_uninstall_dialog_content">"Το Xiaomi Health είναι μια εφαρμογή συστήματος. Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μετρήσετε τα βήματα, να παρακολουθήσετε τον ύπνο, τις περιόδους και το βάρος, καθώς και να συγχρονίσετε τα στατιστικά σας στο cloud. Δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή αφού την απεγκαταστήσετε."</string>
     <string name="health_uninstall_dialog_title">Απεγκατάσταση της Xiaomi Health;</string>
+    <string name="hearing">Ακρόαση</string>
     <string name="heart_rate">Καρδιακός παλμός</string>
     <string name="height">Ύψος</string>
     <string name="high">Υψηλή</string>
@@ -565,7 +574,9 @@
     <string name="hr_fp_area">Σαρωτής δακτ. αποτ/μάτων</string>
     <string name="hr_fp_detect_desc">Η ροή του αίματος στα δάκτυλα αυξάνεται κατά τη διάρκεια του καρδιακού παλμού.Μέσω της φωτεινής πηγής στην περιοχή δακτυλικών αποτυπωμάτων κάτω από την οθόνη, μπορεί να επιτευχθεί η συχνότητα αλλαγής του αίματος στα δάκτυλα. Η συχνότητα μετατρέπεται σε παλμικό σήμα για τον υπολογισμό της ακριβούς καρδιακής συχνότητας.</string>
     <string name="hr_fp_detect_principle_desc">"Το αίμα δεν είναι τελείως αδιαφανές. επομένως, το φως μπορεί να περάσει μέσα από αυτό. Με κάθε καρδιακό παλμό, το αίμα ρέει στα δάχτυλά σας, εμποδίζοντας περισσότερο φως από ότι μεταξύ των καρδιακών παλμών. Το έντονο φως στην περιοχή του σαρωτή δακτυλικών αποτυπωμάτων κάτω από την οθόνη μας επιτρέπει να εντοπίσουμε τις αλλαγές στην ροή του αίματος σας, να αναλύσουμε τα μοτίβα και να τα μετατρέψουμε σε τιμές καρδιακού ρυθμού."</string>
+    <string name="hr_fp_detect_principle_desc_2">"Σημείωση: Βεβαιωθείτε ότι το δάχτυλό σας καλύπτει πλήρως το εικονίδιο δακτυλικών αποτυπωμάτων κατά τη διάρκεια της μέτρησης. Μην ασκείτε δύναμη, καθώς μπορεί να εμποδίσει τη ροή του αίματος στο δάχτυλό σας και να κάνει τα αποτελέσματα ανακριβή. Αυτή η μέτρηση παρέχεται μόνο για την αναφορά σας. Δεν μπορεί να αντικαταστήσει τις ιατρικές εξετάσεις."</string>
     <string name="hr_fp_detect_principle_desc_3">Οι εξετάσεις μας δείχνουν ότι αυτή η μέθοδος μετρά τον καρδιακό σου ρυθμό με ένα σφάλμα μόλις ≤ 3 BPM.</string>
+    <string name="hr_fp_detect_start_desc">Καλύψτε το εικονίδιο με το δάχτυλό σας</string>
     <string name="hr_fp_detecting">"Μην κουνάτε το δάχτυλό σας"</string>
     <string name="hr_fp_report_common_desc">Ο κανονικός καρδιακός ρυθμός κυμαίνεται από 60 έως 100 παλμούς ανά λεπτό. Καρδιακός ρυθμός χαμηλότερος από 60 ΠΑΛ είναι ένδειξη βραδυκαρδίας, ενώ καρδιακός ρυθμός μεγαλύτερος από 100 ΠΑΛ είναι αποδεκτός ως ταχυκαρδία σε ενήλικες.</string>
     <string name="hr_heart_rate_unit">Καρδιακός παλμός (ΠΑΛ)</string>
@@ -663,6 +674,7 @@
     <string name="light_sleep_time_decrease_description">Ο ελαφρύς ύπνος σου είναι πολύ λίγος.</string>
     <string name="light_sleep_time_increase_description">Ο ελαφρύς ύπνος σου είναι πολύ μεγάλος.</string>
     <string name="light_sleep_time_normal_description">Έχετε επαρκή ποσότητα ελαφρού ύπνου</string>
+    <string name="listening_duration">Ακουστικά</string>
     <string name="load_failed">"Δεν ήταν δυνατή η φόρτωση στοιχείων. Περιμένετε ένα λεπτό ή δύο και προσπαθήστε ξανά."</string>
     <string name="loading">Μισό λεπτό…</string>
     <string name="location_perm_description">Για παρακολούθηση υπαίθριων προπονήσεων και καταγραφή διαδρομών</string>
@@ -676,6 +688,15 @@
     <string name="location_service_dialog_title">Το GPS είναι απενεργοποιημένο</string>
     <string name="location_service_ntfc_content">Xiaomi Health</string>
     <string name="location_service_ntfc_title">Αναζήτηση για GPS…</string>
+    <string name="lock_not_support_description">Για να είναι διαθέσιμη η Επείγουσα Ιατρική ταυτότητα από την οθόνη κλειδώματος, πατήστε Περισσότερα > Επεξεργασία και ενεργοποιήστε την επιλογή Εμφάνιση όταν είναι κλειδωμένη.</string>
+    <string name="lock_show_dialog_content">Μπορείτε να αποκτήσετε πρόσβαση στην Επείγουσα Ιατρική ταυτότητα χωρίς να ξεκλειδώσετε το τηλέφωνό σας.\nΕάν δεν θέλετε να μοιραστείτε τις πληροφορίες σας, μπορείτε να απενεργοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="lock_show_dialog_title">Προσοχή</string>
+    <string name="lock_show_solve_description">Για να εμφανίσετε την Επείγουσα Ιατρική ταυτότητα στην οθόνη κλειδώματος, επιτρέψτε στην Υγεία την εμφάνιση στην οθόνη κλειδώματος.</string>
+    <string name="lock_show_solve_go">Ρυθμίσεις</string>
+    <string name="lock_show_solve_path">Πατήστε \"Ρυθμίσεις\" παρακάτω, επιλέξτε \"Εμφάνιση στην οθόνη κλειδώματος\" και επιλέξτε \"Να επιτρέπεται πάντα\".</string>
+    <string name="lock_show_solve_title">Προσθέστε πληροφορίες στην οθόνη κλειδώματος</string>
+    <string name="lock_support_description">Η Επείγουσα Ιατρική ταυτότητα μπορεί να προβληθεί πατώντας \"Επείγουσα ταυτότητα\" και \"Επείγουσα Ιατρική ταυτότητα\" ενώ η οθόνη σας είναι κλειδωμένη.</string>
+    <string name="lock_support_description2">"Δεν μπορείτε να βρείτε την Ιατρική ταυτότητα στην οθόνη κλειδώματος;"</string>
     <string name="login_and_open_sync">Είσοδος και ενεργοποίηση συγχρονισμού</string>
     <string name="login_and_open_sync2">Είσοδος και ενεργοποίηση συγχρονισμού</string>
     <string name="low">Χαμηλή</string>
@@ -791,6 +812,8 @@
     <string name="min_pace">Χαμηλότερος ρυθμός</string>
     <string name="minimum">Ελάχιστα</string>
     <string name="minute">Λ</string>
+    <string name="miuix_access_state_desc">Επιλεγμένα</string>
+    <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
@@ -807,7 +830,8 @@
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
-    <string name="miuix_appcompat_select_item">Επιλέξτε αντ/μενα</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
+    <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -1504,6 +1528,10 @@
     <string name="tb_go_next_a_day">Προηγούμενη ημέρα</string>
     <string name="tb_go_on_detection">Συνεχίσετε</string>
     <string name="tb_has_snore_dream_talk">Η ομιλία και το ροχαλητό ανιχνεύονται</string>
+    <string name="tb_hearing_card">Ακρόαση | Έκθεση σε ακουστικά: %1$s | Ηχογραφημένα: %2$s.</string>
+    <string name="tb_hearing_column">%1$s | Έκθεση σε ακουστικά: %2$s | Έντονοι ήχοι: %3$s.</string>
+    <string name="tb_hearing_daily_card">%1$s | Έκθεση σε ακουστικά: %2$s | Έντονοι ήχοι: %3$s.</string>
+    <string name="tb_hearing_wm_card">%1$s | Μέση έκθεση στα ακουστικά: %2$s | Μέση έκθεση σε έντονο ήχο: %3$s.</string>
     <string name="tb_heart_rate_max_min">Καρδιακός ρυθμός. Υψηλός: %1$d. Χαμηλός: %2$d.</string>
     <string name="tb_home_blood_pressure_card">Αρτηριακή πίεση. Συστολική: %1$d. Διαστολική: %2$d. Εγγραφές: %3$s. Κατάσταση: %4$s.</string>
     <string name="tb_home_blood_pressure_card_no_data">Αρτηριακή πίεση. Χωρίς δεδομένα.</string>
@@ -1579,6 +1607,7 @@
     <string name="tb_user_step_card_info">Ημερήσιος στόχος: %1$s, για %2$s ή %3$s.</string>
     <string name="tb_user_step_target_btn">Αλλαγή στόχου</string>
     <string name="tb_user_weight_card_info">ΔΜΣ %1$s, %2$s. Συνιστώμενο βάρος: %3$s.</string>
+    <string name="tb_volume_list_item">%1$s | Ήχοι περιβάλλοντος: %3$s (%2$d dB).</string>
     <string name="tb_weight_choice">%2$s από %1$s είναι %3$s</string>
     <string name="tb_weight_decrease">Χαμένο βάρος</string>
     <string name="tb_weight_has_record">Ζύγιση που βρέθηκε</string>
@@ -1673,6 +1702,8 @@
     <string name="total_slip">Αριθμός strokes</string>
     <string name="total_time_label">Συνολικός χρόνος</string>
     <string name="treadmill">Διάδρομος</string>
+    <string name="treble_duration">Έντονοι ήχοι</string>
+    <string name="treble_sum_duration">Έντονοι ήχοι</string>
     <string name="try_again">Προσπάθησε ξανά</string>
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Τρι</string>
@@ -1712,6 +1743,15 @@
     <string name="visceral_fat">Εσωτ. Οργάνα</string>
     <string name="visceral_fat_descripe_content">Το σπλαχνικό λίπος είναι απαραίτητο για τη σταθεροποίηση και την προστασία των εσωτερικών οργάνων. Ωστόσο, το υψηλό σπλαχνικό λίπος αυξάνει τον κίνδυνο καρδιαγγειακών και μεταβολικών ασθενειών.</string>
     <string name="voice_remind">"Αυξήσαμε την ένταση, ώστε να ακούτε καλύτερα τις οδηγίες."</string>
+    <string name="volume_decibel">dB</string>
+    <string name="volume_decibel_abridge">dB</string>
+    <string name="volume_high">Έντονοι</string>
+    <string name="volume_high_description">"Για να αποφύγετε την πρόκληση βλάβης στην ακοή σας, χρησιμοποιήστε ακουστικά που ακυρώνουν τον θόρυβο. Μην ανεβάζετε την ένταση του ήχου για να καλύψετε το θόρυβο."</string>
+    <string name="volume_level">Ήχοι περιβάλλοντος</string>
+    <string name="volume_normal">OK</string>
+    <string name="volume_normal_description">Η έκθεση σε ήπιους ήχους δεν προκαλεί βλάβη στην ακοή. Μπορούν να βοηθήσουν τη συγκέντρωση.</string>
+    <string name="volume_too_high">Πολύ δυνατός</string>
+    <string name="volume_too_high_description">Η επαναλαμβανόμενη, παρατεταμένη έκθεση σε πολύ δυνατούς ήχους μπορεί να προκαλέσει βλάβη στην ακοή. Για να προστατέψετε την ακοή σας, μείνετε μακριά από δυνατούς θορύβους ή σκεφτείτε να φορέσετε ωτοασπίδες ή ακουστικά ακύρωσης θορύβου.</string>
     <string name="walk">Περπάτημα</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>
@@ -1739,8 +1779,6 @@
     <string name="year">Έτος</string>
     <string name="yesterday">Χθες</string>
     <string name="yoga">Γιόγκα</string>
-    <string name="hr_fp_detect_principle_desc_2">"Σημείωση: Βεβαιωθείτε ότι το δάχτυλό σας καλύπτει πλήρως το εικονίδιο δακτυλικών αποτυπωμάτων κατά τη διάρκεια της μέτρησης. Μην ασκείτε δύναμη, καθώς μπορεί να εμποδίσει τη ροή του αίματος στο δάχτυλό σας και να κάνει τα αποτελέσματα ανακριβή. Αυτή η μέτρηση παρέχεται μόνο για την αναφορά σας. Δεν μπορεί να αντικαταστήσει τις ιατρικές εξετάσεις."</string>
-    <string name="hr_fp_detect_start_desc">Καλύψτε το εικονίδιο με το δάχτυλό σας</string>
     <string name="auth_dialog_description">"Ενεργοποίηση προτάσεων;
 
 Για να σας παρέχουμε προτάσεις, θα μοιραστούμε τα δεδομένα υγείας σας με έναν τρίτο πάροχο υπηρεσιών. Τα στοιχεία που θα μοιραστούμε περιλαμβάνουν προσωπικά στοιχεία (ηλικία, φύλο), καταστάσεις υγείας (ύψος, βάρος, ρουτίνα γυμναστικής), δεδομένα συμπεριφοράς (χρόνος έναρξης και λήξης, καθώς και διάρκεια των μαθημάτων σας).
