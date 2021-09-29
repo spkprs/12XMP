@@ -133,6 +133,8 @@
     <string name="sleepmode_privacy_link">Λεπτομέριες ασφάλειας και ιδιωτικότητας</string>
     <string name="sleepmode_privacy_title">Κατάσταση αδράνειας</string>
     <string name="sucess">Εντάξει</string>
+    <string name="title_history">Ιστορικό</string>
+    <string name="title_home">Αρχική</string>
     <string name="update_profile_failture_not_connect_wifi">Δεν ήταν δυνατή η ενημέρωση. Συνδεθείτε στο Wi-Fi και δοκιμάστε ξανά.</string>
     <string name="update_profile_sucess">Ενημερώθηκε από το διακομιστή με επιτυχία</string>
     <string name="vip_feedback">VIP ανατροφοδότηση</string>

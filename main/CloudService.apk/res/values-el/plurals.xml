@@ -112,5 +112,17 @@
         <item quantity="other">%d σημειώσεις</item>
         <item quantity="one">%d σημείωση</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s ώρ.</item>
+        <item quantity="one">%s ώρ.</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s λεπ.</item>
+        <item quantity="one">%s λεπ.</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s δευτ.</item>
+        <item quantity="one">%s δευτ.</item>
+    </plurals>
 </resources>
 

@@ -3103,7 +3103,7 @@
     <string name="headset_remove_message_indicate">Η %1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν το λογαριασμό Mi.</string>
     <string name="headset_settings_title">Εφέ Ήχου</string>
     <string name="headset_spatial_audio">Περιφερειακός ήχος</string>
-    <string name="headset_toast_tip_disconnect_others">Τα ακουστικά δεν μπορούν να ρυθμιστούν,  ίσως είναι συνδεδεμένα σε άλλο τηλέφωνο</string>
+    <string name="headset_toast_tip_disconnect_others">Φαίνεται ότι τα ακουστικά σας είναι συνδεδεμένα σε άλλη συσκευή τώρα</string>
     <string name="headset_unsaved_device">Αφαίρεση της συσκευής</string>
     <string name="headset_unsaved_devices">Χρησιμοποιείται σε άλλες συσκευές</string>
     <string name="hearing_aids_category">Βοηθητικά εργαλεία ακοής</string>
