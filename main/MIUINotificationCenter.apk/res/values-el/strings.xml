@@ -35,9 +35,9 @@
     <string name="back">Πίσω</string>
     <string name="cancel">Ακύρωση</string>
     <string name="category_other">Άλλο</string>
-    <string name="channel_keyguard_hide_content">Εμφάνιση όλων των ειδοποιήσεων αλλά απόκρυψη περιεχομένων</string>
-    <string name="channel_keyguard_show_content">Εμφάνιση όλων των ειδοποιήσεων και των περιεχομένων τους</string>
-    <string name="channel_keyguard_show_nothing">"Να μην εμφανίζεται καμία ειδοποίηση"</string>
+    <string name="channel_keyguard_hide_content">Εμφάνιση ειδοποιήσεων αλλά απόκρυψη περιεχομένων</string>
+    <string name="channel_keyguard_show_content">Εμφάνιση ειδοποιήσεων και των περιεχομένων τους</string>
+    <string name="channel_keyguard_show_nothing">"Χωρίς εμφάνιση ειδοποιήσεων"</string>
     <string name="channel_name_aggregation">Ομαδοποιημένες ειδοποιήσεις</string>
     <string name="channel_name_notification">Ειδοποιήσεις εφαρμογών</string>
     <string name="channel_name_recovered">Ανακτημένες ειδοποιήσεις</string>
