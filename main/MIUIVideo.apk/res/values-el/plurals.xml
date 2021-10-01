@@ -184,4 +184,8 @@
         <item quantity="other">%d φάκελοι</item>
         <item quantity="one">%d φάκελος</item>
     </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Αυτή η λειτουργία θα απεν/ποιηθεί για %s ημέρες</item>
+        <item quantity="one">Αυτή η λειτουργία θα απεν/ποιηθεί για %s ημέρα</item>
+    </plurals>
 </resources>
