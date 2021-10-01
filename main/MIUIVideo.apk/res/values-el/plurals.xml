@@ -114,7 +114,7 @@
     </plurals>
     <plurals name="s_double_tap_forward">
         <item quantity="other">Διπλό άγγιγμα για %d δευτ. εμπρός</item>
-        <item quantity="one">Double tap to fast forward by %d εμπρός</item>
+        <item quantity="one">Διπλό άγγιγμα για %d εμπρός</item>
     </plurals>
     <plurals name="s_forward_tip">
         <item quantity="other">%1$s δευτ.</item>
@@ -180,4 +180,8 @@
         <item quantity="other">%d στοιχεία</item>
         <item quantity="one">%d στοιχείο</item>
      </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d φάκελοι</item>
+        <item quantity="one">%d φάκελος</item>
+    </plurals>
 </resources>
