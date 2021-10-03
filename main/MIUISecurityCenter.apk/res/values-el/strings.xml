@@ -2192,7 +2192,7 @@
     <string name="manual_input_free_traffic">Ρύθμιση δωρεάν χρήσης δεδομένων</string>
     <string name="manual_input_traffic">Ορισμός χρήσης δεδομένων</string>
     <string name="manual_item_white_list_summary">Αποτρέψτε τη βελτιστοποίηση των επιλεγμένων στοιχείων</string>
-    <string name="manual_item_white_list_title">Σάρωση Εξαιρέσεων</string>
+    <string name="manual_item_white_list_title">Εξαίρεση Σάρωσης</string>
     <string name="mark_agent">Αντιπρ. πωλήσεων</string>
     <string name="mark_agent_block">Επισήμανση ως αντιπρ. πωλήσεων</string>
     <string name="mark_agent_block_large">Μεσάζων</string>

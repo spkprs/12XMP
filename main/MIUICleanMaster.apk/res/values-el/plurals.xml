@@ -82,9 +82,13 @@
         <item quantity="one">Διαγραφή %d φωτογραφίας;</item>
      </plurals>
      <plurals name="dialog_content_delete_image_from_all_devices_confirm">
-        <item quantity="other">Διαγραφή %1$s φωτογραφιών από όλες τις συσκευές;</item>
+        <item quantity="other">Διαγραφή %1$s φωτογραφίες από όλες τις συσκευές;</item>
         <item quantity="one">Διαγραφή %1$s φωτογραφίας από όλες τις συσκευές;</item>
      </plurals>
+    <plurals name="every_x_day">
+        <item quantity="other">Κάθε %d ημ.</item>
+        <item quantity="one">Κάθε %d ημ.</item>
+    </plurals>
      <plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;Data>Ελευθερώθηκαν &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (αρκετά για &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> τραγούδια)&lt;/Data></item>
         <item quantity="one">&lt;Data>Ελευθερώθηκε &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (αρκετά για &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> τραγούδι)&lt;/Data></item>
