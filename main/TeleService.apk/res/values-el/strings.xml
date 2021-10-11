@@ -863,6 +863,7 @@
     <string name="emergency_information_confirm_hint">Πατήστε ξανά για να προβάλετε πληροφορίες</string>
     <string name="emergency_information_hint">Πληροφορίες έκτακτης ανάγκης</string>
     <string name="emergency_information_owner_hint">Ιδιοκτήτης</string>
+    <string name="emergency_medical_records">Ιατρικό Μητρώο</string>
     <string name="emm_cause_11">Ο τρέχων πάροχος δεν υποστηρίζει αυτήν την υπηρεσία.</string>
     <string name="emm_cause_14">Η τρέχουσα εταιρεία κινητής τηλεφωνίας δεν υποστηρίζει υπηρεσίες δεδομένων κινητής τηλεφωνίας.</string>
     <string name="emm_cause_2">Δεν ήταν δυνατή η εγγραφή του αριθμού τηλεφώνου. Απενεργοποιήστε τη συσκευή σας και, στη συνέχεια, ενεργοποιήστε την ξανά και δοκιμάστε ξανά.</string>

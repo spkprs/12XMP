@@ -1034,7 +1034,8 @@
   <string name="permgrouprequestdetail_location">Η εφαρμογή θα έχει πρόσβαση στην τοποθεσία μόνο ενώ χρησιμοποιείτε την εφαρμογή</string>
   <string name="permission_remember_choice">Θυμηθείτε</string>
   <string name="permission_request_notification_title">Απαιτείται άδεια</string>
-  <string name="permission_request_notification_with_subtitle">Ζητήθηκε άδεια\nγια το λογαριασμό %s.</string>
+  <string name="permission_request_notification_for_app_with_subtitle">Απαιτείται άδεια από %1$s\nγια λογαριασμό %2$s.</string>
+  <string name="permission_request_notification_with_subtitle">Απαιτείται άδεια\nγια το λογαριασμό %s.</string>
   <string name="permlab_acceptHandover">Συνέχιση κλήσης από άλλη εφαρμογή</string>
   <string name="permlab_access_notification_policy">Πρόσβαση στη λειτουργία \"Μην Ενοχλείτε\"</string>
   <string name="permlab_accessBackgroundLocation">Πρόσβαση θέσης στο παρασκήνιο</string>

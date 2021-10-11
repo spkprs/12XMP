@@ -269,6 +269,7 @@
     <string name="get_ph_ticket">Λάβετε κωδικό</string>
     <string name="get_phone_bind_exceed_limit">Μπορείτε να συσχετίσετε έως 3 λογαριασμούς Mi με έναν αριθμό τηλεφώνου. Δεν είναι δυνατή η προσθήκη νέων λογαριασμών.</string>
     <string name="get_phone_verifycode_exceed_limit">Έχουν σταλεί πάρα πολλοί κωδικοί επαλήθευσης σε αυτόν τον αριθμό. Περιμένετε 24 ώρες και δοκιμάστε ξανά.</string>
+    <string name="goto_confirm">Ρυθμίσεις</string>
     <string name="goto_sign_up">Δημιουργήστε λογαριασμό</string>
     <string name="history_list_no_data">Δεν υπάρχουν στοιχεία εδώ</string>
     <string name="hour_1">Κάθε ώρα</string>
@@ -581,8 +582,10 @@
     <string name="recommend_switch_dlg_title">Να απενεργοποιήσετε τις συστάσεις;</string>
     <string name="recommend_switch_title">Εξατομικευμένες συστάσεις</string>
     <string name="refresh_network">Ανανέωση</string>
-    <string name="remove">Αφαιρέστε</string>
+    <string name="remove">Αφαίρεση</string>
     <string name="req_permission_dis_tip">Απαιτούνται Άδειες</string>
+    <string name="require_permission">Απαιτούμενες άδειες</string>
+    <string name="require_permission_text">Για να αποθηκεύετε και να προβάλλετε στοιχεία, επιτρέψτε στο Wallpaper Carousel την πρόσβαση στον αποθηκευτικό χώρο.</string>
     <string name="resend_active_email">Επανάληψη αποστολής</string>
     <string name="resend_email_reach_limit_message">Ζητήσατε πάρα πολλά email επαλήθευσης. Βεβαιωθείτε ότι το email επαλήθευσης δεν βρίσκεται στο φάκελο Spam των Εισερχομένων σας.</string>
     <string name="resend_email_reach_limit_title">Πάρα πολλές προσπάθειες</string>
@@ -762,6 +765,9 @@
     <string name="subscribe_update_time_setting">Ορισμός διαφορετικού χρονικού διαστήματος</string>
     <string name="summary">"Συμφωνείτε με την &lt;a href='%s'>Πολιτική Απορρήτου&lt;/a> μας για προβολή περιεχομένου μέσω διαδικτύου. Εάν διαφωνείτε, οι τοπικές ταπετσαρίες σας θα είναι ακόμα διαθέσιμες."</string>
     <string name="summary2">"Χρησιμοποιώντας αυτήν τη λειτουργία, συμφωνείτε με την &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Συμφωνία Χρήστη&lt;/font>&lt;/a> και &lt;font color='#0D84FF'>&lt;a href='%2$s'>Πολιτική Απορρήτου&lt;/font>&lt;/a> μας. Αυτή η λειτουργία χρειάζεται σύνδεση στο  Internet για να λειτουργήσει κανονικά."</string>
+    <string name="summary3">"Καλώς ήρθατε στο Wallpaper Carousel! Εγγραφείτε στις αγαπημένες σας κατηγορίες για την λήψη νέων εικόνων στην οθόνη κλειδώματος. Η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για συλλογή απαιτούμενων προσωπικών δεδομένων για σωστή λειτουργία. &lt;br>Για την παροχή πρόσθετων υπηρεσιών, ενδέχεται να ζητήσουμε την άδεια πρόσβασης και αποθήκευσης στοιχείων στο χώρο αποθήκευσης αυτής της συσκευής.&lt;br>Για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστης, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνήστε με τα εξής &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Συμφωνία χρήσης&lt;/font>&lt;/a> και &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Πολιτική απορρήτου&lt;/font>&lt;/a> πριν την χρήση της."</string>
+    <string name="summary4">"Καλώς ήρθατε στο Wallpaper Carousel! Εδώ μπορείτε να εγγραφείτε στις αγαπημένες σας κατηγορίες ταπετσαριών για να λαμβάνετε συχνά νέες εικόνες στην Οθόνη Κλειδώματος. "</string>
+    <string name="summary5">"Για την παροχή πρόσθετων υπηρεσιών, ενδέχεται να ζητήσουμε την άδεια πρόσβασης και αποθήκευσης στοιχείων στον αποθηκευτικό χώρο αυτής της συσκευής.. "</string>
     <string name="summary_international">"Χρησιμοποιώντας αυτήν τη λειτουργία, συμφωνείτε με την &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Συμφωνία Χρήστη&lt;/font>&lt;/a> και &lt;font color='#0D84FF'>&lt;a href='%2$s'>Πολιτική Απορρήτου&lt;/font>&lt;/a>. Αυτή η λειτουργία χρειάζεται σύνδεση στο Internet για να λειτουργήσει κανονικά."</string>
     <string name="sunday">Κυριακή</string>
     <string name="sure_close_gallery">Απενεργοποιήτε το καρουσέλ ταπετσαρία;</string>

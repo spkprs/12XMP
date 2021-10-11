@@ -225,6 +225,7 @@
     <string name="development_settings_summary">Ορισμός επιλογών για την ανάπτυξη εφαρμογών</string>
     <string name="development_settings_title">Επιλογές ανάπτυξης</string>
     <string name="device_picker">Ρυθμίσεις συσκευής Bluetooth</string>
+    <string name="device_update_plugin">Νέα έκδοση</string>
     <string name="direct_boot_unaware_dialog_message">Σημείωση: Μετά από μια επανεκκίνηση, αυτή η εφαρμογή δεν μπορεί να ξεκινήσει μέχρι να ξεκλειδώσετε το τηλέφωνό σας</string>
     <string name="disable_overlays">Απενεργοποίηση επικαλύψεων HW</string>
     <string name="disable_overlays_summary">Να χρησιμοποιείτε πάντα gpu για σύνθεση οθόνης</string>
@@ -450,6 +451,7 @@
     <string name="perm_ble_lab">Πρόσβαση στις ρυθμίσεις BLE</string>
     <string name="picture_color_mode">Λειτουργία χρώματος εικόνας</string>
     <string name="picture_color_mode_desc">Χρήση sRGB</string>
+    <string name="play_decode_audio">Αναπαραγωγή ήχου</string>
     <string name="plugin_alert_cancel">Αργότερα</string>
     <string name="plugin_alert_kill">Επανεκκίνηση</string>
     <string name="plugin_alert_text">Σταματήστε τις ρυθμίσεις και επανεκκινήστε το Bluetooth για να εφαρμόσετε τις αλλαγές.</string>
@@ -465,12 +467,16 @@
     <string name="plugin_install_timeout">Χρόνος αναμονής εγκατάστασης.</string>
     <string name="plugin_last_update_going">Η τελευταία ενημέρωση συνεχίζεται.</string>
     <string name="plugin_no_update">"Είναι ήδη η τελευταία έκδοση."</string>
+    <string name="plugin_ota_finish">Επιτυχής ενημέρωση έκδοσης Β/Τ</string>
+    <string name="plugin_ota_indicate">Επανεκκινήστε το Β/Τ και συνδέστε τα ακουστικά</string>
+    <string name="plugin_ota_messages1">Προσθέστε περισσότερα ακουστικά Β/Τ</string>
+    <string name="plugin_ota_messages2">Ενημέρωση της υπηρεσίας Β/Τ framework</string>
+    <string name="plugin_ota_progress">Ενημέρωση τώρα</string>
     <string name="plugin_start_update">Έναρξη ενημέρωσης πρόσθετων...</string>
     <string name="plugin_update_failed">Αποτυχία ενημέρωσης:</string>
     <string name="plugin_update_notification_summary">Η ενημέρωση του πρόσθετου Bluetooth ολοκληρώθηκε. Κάντε επανεκκίνηση των ρυθμίσεων και του Bluetooth για να εφαρμοστούν οι αλλαγές.</string>
     <string name="plugin_update_notification_title">Ενημέρωση πρόσθετου Bluetooth</string>
     <string name="plugin_update_success">Επιτυχής ενημέρωσης πρόσθετων Bluetooth.</string>
-    <string name="play_decode_audio">Αναπαραγωγή ήχου</string>
     <string name="pointer_location">Θέση δείκτη</string>
     <string name="pointer_location_summary">Επικάλυψη οθόνης που εμφανίζει τρέχοντα δεδομένα αφής</string>
     <string name="power_charging">%1$s - %2$s</string>
@@ -565,6 +571,7 @@
     <string name="stop_speech">Διακοπή ομιλίας</string>
     <string name="strict_mode">Ενεργοποιημένη η αυστηρή λειτουργία</string>
     <string name="strict_mode_summary">Οθόνη φλας όταν οι εφαρμογές κάνουν μεγάλες λειτουργίες στο κύριο νήμα</string>
+    <string name="stylus_ota_check_update">Ενημέρωση τώρα</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="tap_to_sign_up">Πατήστε για εγγραφή</string>
     <string name="tether_settings_title_all">Πρόσδεση &amp; φορητό hotspot</string>

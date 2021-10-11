@@ -664,6 +664,7 @@
     <string name="show_most_popular_apps_you_used">Εμφάνιση εφαρμογών συχνής χρήσης στο συρτάρι</string>
     <string name="show_recents_recommend_title">Εμφάνιση συστάσεων</string>
     <string name="slide_to_open_newhome">Σύρετε προς τα πάνω για να ανοίξετε το Κέντρο περιεχομένου</string>
+    <string name="small_window">Αιωρούμενο παράθυρο</string>
     <string name="small_window_button_complete">Τέλος</string>
     <string name="small_window_edit_content">Προσθέστε έως %d εφαρμογές</string>
     <string name="small_window_edit_title">Τρέχουσες εφαρμογές</string>

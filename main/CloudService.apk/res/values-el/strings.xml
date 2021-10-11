@@ -619,6 +619,7 @@
     <string name="share_location_guide2_title">Βοηθήστε  φίλους και οικογένεια</string>
     <string name="share_location_guide3_desc">Βεβαιωθείτε ότι οι φίλοι και η οικογένειά σας είναι ασφαλείς, ελέγχοντας τις πληροφορίες τοποθεσίας που μοιράστηκαν</string>
     <string name="share_location_guide3_title">Παραμείνετε ασφαλείς</string>
+    <string name="share_location_guide_action_btn_loading_text">Μισό λεπτό…</string>
     <string name="share_location_guide_action_btn_text">Ενεργοποίηση</string>
     <string name="share_location_guide_extra_btn_text">Παράλειψη</string>
     <string name="share_location_menu_create_shortcut">Συντόμευση στην Αρχική Οθόνη</string>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="item_text_ending">Επεξ.Κειμ.</string>
     <string name="abbreviation_unit_milliseconds">%sμδ</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -33,12 +32,9 @@
     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
-    <string name="candidate_control_done">Τέλος</string>
     <string name="accept">Αποδέχομαι</string>
     <string name="action_bar_edit_hint">Πληκτρολογήστε για να δοκιμάσετε το νέο πληκτρολόγιο...</string>
     <string name="activate_facemoji">Ενεργοποιήστε το πληκτρολόγιο για να ρυθμίσετε δροσερά θέματα και να στείλετε Emojis</string>
-    <string name="amino_starters">Εκκινήσεις</string>
-    <string name="app_full_name">Emoji Keyboard</string>
     <string name="activate_notification_summary1">Το κείμενό σας θα μετατραπεί σε Emoji εάν ενεργοποιηθεί</string>
     <string name="activate_notification_summary3">Μεταφορτώστε και μοιραστείτε το δικό σας προσαρμοσμένο θέμα</string>
     <string name="activate_notification_title1">Αλλαγή Πληκτρολογίου</string>
@@ -66,9 +62,11 @@
     <string name="amino_borders">Σύνορα</string>
     <string name="amino_fonts">Γραμματοσειρές</string>
     <string name="amino_headers">Κεφαλίδες</string>
+    <string name="amino_starters">Εκκινήσεις</string>
     <string name="android_provide">Τα Emoji προσφέρονται δωρεάν από την Google.</string>
     <string name="announce_keyboard_hidden">Απόκρυψη πληκτρολογίου</string>
     <string name="announce_keyboard_mode">Εμφάνιση πληκτρολογίου %s</string>
+    <string name="app_full_name">Emoji Keyboard</string>
     <string name="app_name">Emoji Keyboard</string>
     <string name="app_name_lite">Emoji Keyboard</string>
     <string name="app_version">έκδοση %1s</string>
@@ -123,6 +121,7 @@
     <string name="button_default">Προεπιλογή</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_download_dict">Ακύρωση</string>
+    <string name="candidate_control_done">Τέλος</string>
     <string name="candidate_copy">ΑΝΤΙΓΡΑΦΟ</string>
     <string name="candidate_emoji_title_aa">Τέχνη</string>
     <string name="candidate_emoji_title_emoji">Emoji</string>
@@ -1318,10 +1317,10 @@
     <string name="sticker_no_support">Δεν υποστηρίζεται κινούμενο αυτοκόλλητο.</string>
     <string name="sticker_title">Αυτοκόλλητα</string>
     <string name="storage_no_avaliable_size_toast_content">Δεν υπάρχει αρκετή αποθήκευση της κάρτας SD. Διαγράψτε κάποιο περιεχόμενο και δοκιμάστε ξανά %1$s</string>
-    <string name="submit">Υποβλήθηκε</string>
-    <string name="submit_fail">Αποτυχία υποβολής</string>
     <string name="store_picture_message">Να επιτρέπεται η διαφήμιση να αποθηκεύει εικόνα στη συλλογή εικόνων;</string>
     <string name="store_picture_title">Αποθήκευση εικόνας</string>
+    <string name="submit">Υποβλήθηκε</string>
+    <string name="submit_fail">Αποτυχία υποβολής</string>
     <string name="subtype_bulgarian_bds">%s (BDS)</string>
     <string name="subtype_dialog_language_setting">Ρυθμίσεις γλώσσας</string>
     <string name="subtype_dialog_select_languages">Επιλογή γλωσσών</string>
