@@ -2,11 +2,12 @@
 <!-- Parsed by jbart3h -->
 <resources>
     <string name="cancel">Ακύρωση</string>
+    <string name="doc_photo_adjust_section_talkback">Περικοπή &amp; Επεξ/σία</string>
     <string name="doc_photo_adjust_section_title">Σύρετε για προσαρμογή</string>
     <string name="doc_photo_cancel">Ακύρωση</string>
     <string name="doc_photo_confirm">Έξοδος</string>
     <string name="doc_photo_doc_photo_title">Επεξεργασία εγγράφου</string>
-    <string name="doc_photo_enhance_bin">Μ&amp;Α</string>
+    <string name="doc_photo_enhance_bin">Μ &amp; Α</string>
     <string name="doc_photo_enhance_bin_desc">Ασπρόμαυρο αντίγραφο</string>
     <string name="doc_photo_enhance_color">Βελτιωμένο</string>
     <string name="doc_photo_enhance_color_desc">Βελτιωμένη έγχρωμη σάρωση</string>
