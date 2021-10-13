@@ -472,6 +472,7 @@
     <string name="plugin_ota_messages1">Προστέθηκε υποστήριξη για περισσότερα μοντέλα ακουστικών.</string>
     <string name="plugin_ota_messages2">Ενημερώθηκε η υπηρεσία Β/Τ framework</string>
     <string name="plugin_ota_progress">Ενημέρωση...</string>
+    <string name="plugin_ota_tip_text">Επανεκκινήστε το Β/Τ και τις σχετικές υπηρεσίες συστήματος, συνδέστε τα ακουστικά Β/Τ</string>
     <string name="plugin_start_update">Έναρξη ενημέρωσης πρόσθετων...</string>
     <string name="plugin_update_failed">Αποτυχία ενημέρωσης:</string>
     <string name="plugin_update_notification_summary">Η ενημέρωση του πρόσθετου Bluetooth ολοκληρώθηκε. Κάντε επανεκκίνηση των ρυθμίσεων και του Bluetooth για να εφαρμοστούν οι αλλαγές.</string>
@@ -571,6 +572,13 @@
     <string name="stop_speech">Διακοπή ομιλίας</string>
     <string name="strict_mode">Ενεργοποιημένη η αυστηρή λειτουργία</string>
     <string name="strict_mode_summary">Οθόνη φλας όταν οι εφαρμογές κάνουν μεγάλες λειτουργίες στο κύριο νήμα</string>
+    <string name="stylus_firmware_failed_summary">Επανατοποθετήστε τη Γραφίδα, επανεκκινήστε το Β/Τ και δοκιμάστε ξανά..</string>
+    <string name="stylus_firmware_failed_title">"Δεν ήταν δυνατή η ενημέρωση του υλικολογισμικού"</string>
+    <string name="stylus_firmware_success_summary">Συνδέστε τη Γραφίδα για ζεύξη.</string>
+    <string name="stylus_firmware_success_title">Το ενημερωμένο υλικολογισμικό ολοκληρώθηκε με επιτυχία</string>
+    <string name="stylus_firmware_timeout_summary">Λήξη χρονικού ορίου σύνδεσης. Δοκιμάστε ξανά.</string>
+    <string name="stylus_firmware_update_summary">Ενημέρωση υλικολογισμικού Γραφίδας…</string>
+    <string name="stylus_firmware_update_title">Υλικολογισμικό Γραφίδας</string>
     <string name="stylus_ota_check_update">Ενημέρωση</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="tap_to_sign_up">Πατήστε για εγγραφή</string>

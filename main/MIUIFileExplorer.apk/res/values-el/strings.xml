@@ -17,6 +17,7 @@
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">space</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="app_name_recorder">Εγγραφή</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Clear query</string>

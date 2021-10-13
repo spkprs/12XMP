@@ -261,6 +261,7 @@
     <string name="set_password_action">Ορισμός κωδικού πρόσβασης</string>
     <string name="set_password_message">Ορισμός νέου κωδικού πρόσβασης;</string>
     <string name="set_password_title">Ορισμός κωδικού πρόσβασης</string>
+    <string name="shortcut_no_support_on_pc_mode">"Αυτή η χειρονομία δεν υποστηρίζεται στη λειτουργία PC"</string>
     <string name="shutdown_confirm_title">Απενεργοποίηση συσκευής τώρα;</string>
     <string name="shutdown_progress">Τερματισμός…</string>
     <string name="silence_mode">Αθόρυβη λειτουργία</string>

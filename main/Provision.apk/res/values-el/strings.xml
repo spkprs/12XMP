@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_non_personal_data">Αν αποσύρετε τη συγκατάθεσή σας για την πρόσβαση και τη χρήση μη προσωπικών δεδομένων από τη συσκευή σας, οι υπηρεσίες Wallpaper Carousel θα απενεργοποιηθούν και τυχόν συλλεχθέντα δεδομένα θα διαγραφούν εντός της περιόδου που καθορίζεται από τους ισχύοντες νόμους και κανονισμούς.</string>
     <string name="accessibility_enabled">Η πρόσβασης είναι ενεργή.</string>
     <string name="agree">Συμφωνώ</string>
     <string name="agree_and_next">Συμφωνώ</string>
+    <string name="agree_cookie">Αποδοχή cookies</string>
     <string name="agree_terms">Έχω διαβάσει και συμφωνώ με την Συμφωνία Χρήστη και την Πολιτική Απορρήτου.</string>
     <string name="agree_terms_input_method_facemoji">Έχω διαβάσει και συμφωνώ με την Πολιτική Απορρήτου Facemoji.</string>
     <string name="agree_terms_input_method_kika">Έχω διαβάσει και συμφωνώ με την πολιτική προστασίας προσωπικών δεδομένων της Kika.</string>
+    <string name="agreement_declare_use_network_and_location_china">"Επιπλέον, οι ακόλουθες υπηρεσίες θα συνδεθούν στο δίκτυο και θα έχουν πρόσβαση στην τοποθεσία σας: "</string>
+    <string name="agreement_declare_use_network_china">Θα συνδεθεί στο δίκτυο.</string>
     <string name="ai_button_desc">Το κουμπί AI σάς επιτρέπει να ενεργοποιήσετε το Mi AI και να χρησιμοποιήσετε συντομεύσεις Mi AI.</string>
     <string name="ai_button_double_press">Διπλό πάτημα</string>
     <string name="ai_button_double_press_desc">Διπλό πάτημα στο κουμπί AI για ολοκλήρωση προσαρμοσμένων εργασιών</string>
@@ -41,6 +45,9 @@
     <string name="content_description_start">Έναρξη</string>
     <string name="content_introduction">Το κέντρο περιεχομένου ομαδοποιεί περιεχόμενο και υπηρεσίες από πολλαπλά κανάλια. Εδώ μπορείτε να διαβάσετε άρθρα, να παρακολουθήσετε βίντεο, να δείτε καθημερινά Προτεινόμενα στοιχεία και να λάβετε συστάσεις περιεχομένου.</string>
     <string name="continue_to_enable_accessibility">Κρατήστε πατημένα δύο δάχτυλα για να ενεργοποιήσετε την προσβασιμότητα.</string>
+    <string name="cookies_content_one">"Όταν αγγίζετε τις εικόνες και τις ιστορίες στο Wallpaper Carousel, θα ανοίξουμε τις πλήρεις εκδόσεις τους στο πρόγραμμα περιήγησής σας. Η Taboola, ο αξιόπιστος τρίτος πάροχος περιεχομένου, μπορεί κατόπιν να προτείνει πρόσθετο περιεχόμενο και διαφημίσεις που προσαρμόζονται στα ενδιαφέροντά σας. Αν συμφωνήσετε να ενεργοποιήσετε αυτήν τη λειτουργία, η Taboola θα τοποθετήσει τα cookies στη συσκευή σας μέσω του προγράμματος περιήγησης, όπως περιγράφεται στο Taboola &lt;a href =%1$s>Πολιτική cookie&lt;/a>.Αν απορρίψετε τη χρήση των cookies, τα στοιχεία Wallpaper Carousel θα συνεχίσουν να εμφανίζονται στην οθόνη κλειδώματος και οι πλήρεις ιστορίες θα ανοίξουν στο πρόγραμμα περιήγησής σας, αλλά δεν θα επιλεγούν ειδικά για εσάς πρόσθετες προτάσεις. Μπορείτε να αλλάξετε τις προτιμήσεις σας οποιαδήποτε στιγμή από τις Ρυθμίσεις."</string>
+    <string name="cookies_content_two">"Αποφασίστε αν θέλετε οι έμπιστοι πάροχοι περιεχομένου τρίτων να χρησιμοποιούν cookies για να εξατομικεύουν συστάσεις περιεχομένου και διαφημίσεις με βάση τα ενδιαφέροντά σας."</string>
+    <string name="cookies_title">Εξατομικευμένο περιεχόμενο και cookies</string>
     <string name="data_traffic_enable_dialog_title">"Εάν δεν είστε συνδεδεμένοι στο WiFi τώρα, η συσκευή σας θα χρησιμοποιήσει δεδομένα κινητής τηλεφωνίας. Η χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να προκαλέσει πρόσθετες χρεώσεις φορέα".</string>
     <string name="desc_fingerprint">Χρησιμοποιήστε το δακτυλικό σας αποτύπωμα για να ξεκλειδώσετε τη συσκευή σας, να επαληθεύσετε συναλλαγές Mi Pay, ή για να συνδεθείτε σε εφαρμογές και υπηρεσίες.</string>
     <string name="desc_international_fingerprint">Χρησιμοποιήστε το δακτυλικό σας αποτύπωμα για να ξεκλειδώσετε τη συσκευή σας ή για να συνδεθείτε σε εφαρμογές και υπηρεσίες.</string>
@@ -190,11 +197,14 @@
     <string name="position_subheading">Πληροφορίες θέσης</string>
     <string name="pref_title_data_slot">SIM Δεδομένων</string>
     <string name="pref_title_voice_slot">SIM Κλήσεων</string>
+    <string name="privacy_content_one">"Οι συστάσεις του Wallpaper Carousel υποστηρίζονται από την Taboola, τον αξιόπιστο πάροχο περιεχομένου τρίτου μέρους. Για την παροχή αυτού του περιεχομένου, η Taboola πρέπει να έχει πρόσβαση και να αποθηκεύει μη προσωπικά δεδομένα από τη συσκευή σας, συμπεριλαμβανομένης της γλώσσας του συστήματός σας και του τύπου του προγράμματος περιήγησης. Μπορείτε να μάθετε πώς χρησιμοποιεί η Taboola τα δεδομένα που συλλέγονται στις Taboola's &lt;a href =%1$s>Πολιτική απορρήτου&lt;/a> και &lt;a href =%2$s>Συμφωνία χρήστη&lt;/a>. Διαβάστε και συμφωνήστε με τους όρους και τις προϋποθέσεις που προβλέπονται στα παρόντα έγγραφα πριν συνεχίσετε. Εάν δεν συμφωνήσετε, οι υπηρεσίες του Wallpaper Carousel θα απενεργοποιηθούν."</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="privacy_provision_more">Σχετικά με το απόρρητό σας</string>
     <string name="privacy_provision_summary">Η προστασία του Απορρήτου σας είναι δέσμευση πίσω από το σχεδιασμό των προϊόντων μας</string>
     <string name="privacy_provision_text">Δεσμευόμαστε να σεβόμαστε και να προστατεύουμε την ιδιωτικότητά σας. Δίνοντας προτεραιότητα στην έρευνα και την ανάπτυξη στον τομέα της ασφάλειας των πληροφοριών, η Xiaomi εργάζεται συνεχώς για τη βελτίωση των μεθόδων, των πρακτικών και των τεχνικών λύσεων που διαφυλάσσουν τα δεδομένα σας. Μοιραζόμαστε επίσης τα τελευταία επιτεύγματά μας με τους εταίρους μας προκειμένου να διασφαλίσουμε την ιδιωτικότητά σας σε όλους τους τομείς.</string>
     <string name="privacy_provision_title">Απόρρητο</string>
+    <string name="privacy_refuse">"Δεν συμφωνώ"</string>
+    <string name="privacy_title">Όροι &amp; Πολιτική απορρήτου</string>
     <string name="protect_persoanl_info_statement">Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.</string>
     <string name="provision_back">Πίσω</string>
     <string name="provision_inputmethod_policy_description"><Data>Δείτε την &lt;a href=%1$s>Πολιτική απορρήτου&lt;/a > του επιλεγμένου πληκτρολογίου.</Data></string>
@@ -202,6 +212,7 @@
     <string name="provision_next">Επόμενο</string>
     <string name="provision_skip_underline">Παράλειψη</string>
     <string name="recorder_introduction">Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να εγγράψετε ήχο και να δημιουργήσετε εφεδρικές εγγραφές στο cloud.</string>
+    <string name="refuse_cookie">Απόρριψη cookies</string>
     <string name="require_authority_statement">Για να μπορέσουμε να σας παρέχουμε βασικές υπηρεσίες, πρέπει να δώσετε τις ακόλουθες Άδειες προκειμένου να συλλέξουμε τα προσωπικά σας στοιχεία:</string>
     <string name="require_miuidaemon_authority_statement">Για να μας επιτρέψετε να σας παράσχουμε αυτήν την υπηρεσία, πρέπει να εκχωρήσετε τα ακόλουθες άδειες, προκειμένου να συλλέξουμε τα προσωπικά σας στοιχεία:</string>
     <string name="require_network_authority_statement">Για να μπορέσουμε να σας παρέχουμε βασικές υπηρεσίες, πρέπει να συνδεθείτε στο διαδίκτυο και να δώσετε τις ακόλουθες Άδειες προκειμένου να συλλέξουμε τα προσωπικά σας στοιχεία:</string>
@@ -257,22 +268,56 @@
     <string name="start_up_slogan">Η ζωή γίνεται ευκολότερη</string>
     <string name="summary_not_set">Χωρίς ρύθμιση</string>
     <string name="system_navigation_mode">Λειτουργία πλοήγησης Συστήματος</string>
+    <string name="term_condition_detail">"Λάβετε καθημερινά εκπληκτικές εικόνες και συναρπαστικές ιστορίες στην οθόνη κλειδώματος. Αυτή η λειτουργία δεν θα χρησιμοποιήσει τα δεδομένα σας για εξατομίκευση χωρίς τη συγκατάθεσή σας. Διαβάστε και συμφωνήστε με τις οδηγίες του παρόχου περιεχομένου τρίτου μέρους &lt;a href =%1$s>Πολιτική απορρήτου&lt;/a> και &lt;a href =%2$s>Συμφωνία χρήστη&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία."</string>
     <string name="terms_of_use">Όροι και Προϋποθέσεις</string>
     <string name="terms_of_use_label">Παρακαλούμε διαβάστε τους Όρους Χρήσης και την Πολιτική Απορρήτου για να καταλάβετε τι είδους πληροφορίες συλλέγουμε, πώς τις χρησιμοποιούμε και τι επιλογές είναι διαθέσιμες σε εσάς.\nΠρέπει να συμφωνήσετε με τους Όρους Χρήσης και την Πολιτική Απορρήτου πριν χρησιμοποιήσετε το MIUI.\n%s και με τα στοιχεία λογαριασμού Mi θα συνδεθεί στο δίκτυο για να προσδιορίσουν την τοποθεσία σας.</string>
+    <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">, Mi Store πρόσθετα συστήματος</string>
-    <string name="terms_of_use_label_mab">, MAB</string>
-    <string name="terms_of_use_label_package">, Εγκαταστάτης πακέτων</string>
-    <string name="terms_of_use_label_phrase">, Συχνές φράσεις</string>
-    <string name="terms_of_use_label_systemhelper">, Υπηρεσία αυτοεξυπηρέτησης</string>
-    <string name="terms_of_use_label_updater">, Εφαρμ. Ενημέρωσης</string>
+    <string name="terms_of_use_label_RMS">Διαχειριστής αδειών</string>
+    <string name="terms_of_use_label_ai_assistant">AI Βοηθός</string>
+    <string name="terms_of_use_label_app_vault">Βοηθός MIUI</string>
+    <string name="terms_of_use_label_back">Υπηρεσία αντιγράφων</string>
+    <string name="terms_of_use_label_ble">Παροχή συγχωνευμένων τοποθεσιών</string>
+    <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
+    <string name="terms_of_use_label_communication_service">Υπηρεσία Επικοινωνίας Διαδικτύου Xiaomi</string>
+    <string name="terms_of_use_label_finddevice">Εύρεση συσκευής</string>
+    <string name="terms_of_use_label_game">Παιχνίδια</string>
+    <string name="terms_of_use_label_home">Αρχική οθόνη</string>
+    <string name="terms_of_use_label_htmlViewer">HTML Προβολή</string>
+    <string name="terms_of_use_label_htmlviewer">HTML Προβολή</string>
+    <string name="terms_of_use_label_info_assistant">Mi Link</string>
+    <string name="terms_of_use_label_joyose">Joyose</string>
+    <string name="terms_of_use_label_landscape">Λειτουργία βελτιστοποίησης προβολής τοπίου</string>
+    <string name="terms_of_use_label_mab">MAB</string>
+    <string name="terms_of_use_label_mi_account">Mi Στοιχεία λογαριασμού</string>
+    <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
+    <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
+    <string name="terms_of_use_label_os">OS AI Ρυθμίσεις</string>
+    <string name="terms_of_use_label_package">Εγκαταστάτης πακέτων</string>
+    <string name="terms_of_use_label_parallel_windows">Παράλληλα παράθυρα</string>
+    <string name="terms_of_use_label_phrase">Συχνές φράσεις</string>
+    <string name="terms_of_use_label_power_detection">Ανιχνευτής ενέργειας</string>
+    <string name="terms_of_use_label_power_performance">Μπαταρία και απόδοση</string>
+    <string name="terms_of_use_label_quickapp">Γρήγορες εφαρμογές</string>
+    <string name="terms_of_use_label_secure">Εφαρμογή ασφαλούς στοιχείου</string>
+    <string name="terms_of_use_label_simcard">Mi SIM υπηρεσίες ενεργοποίησης</string>
+    <string name="terms_of_use_label_smart_service">Έξυπνες υπηρεσίες</string>
+    <string name="terms_of_use_label_statistics">Στατιστικά</string>
+    <string name="terms_of_use_label_systemhelper">Υπηρεσία αυτοεγγραφής</string>
+    <string name="terms_of_use_label_translation">Μεταφραστική υπηρεσία</string>
+    <string name="terms_of_use_label_updater">Πρόγραμμα ενημέρωσης</string>
+    <string name="terms_of_use_label_use_location_and_network_global">"Πριν χρησιμοποιήσετε το MIUI, πρέπει να διαβάσετε και να συμφωνήσετε με τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου. Κατά την ενεργοποίηση της συσκευής σας, οι ακόλουθες υπηρεσίες θα συνδεθούν στο δίκτυο και θα αποκτήσουν πρόσβαση στην τοποθεσία σας: "</string>
+    <string name="terms_of_use_label_use_network_china">"Πριν χρησιμοποιήσετε το MIUI, πρέπει να διαβάσετε και να συμφωνήσετε με τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου. Κατά την ενεργοποίηση της συσκευής σας, οι ακόλουθες υπηρεσίες θα συνδεθούν στο δίκτυο: "</string>
+    <string name="terms_of_use_label_wallpaper">Ταπετσαρίες</string>
     <string name="terms_of_use_lable_apps">Mi υπηρεσίες, υπηρεσίες Mi SIM, Xiaomi Cloud, Εύρεση συσκευής, Αρχική οθόνη, Παιχνίδια, MIUI Daemon, εξαρτήματα του συστήματος MSA, υπηρεσίες μετάφρασης, Γρήγορες εφαρμογές, Προσωπικό βοηθό, στατιστικά στοιχεία, Mi Link</string>
     <string name="terms_of_use_lable_apps_wifi_device">Υπηρεσίες Mi, Xiaomi Cloud, Εύρεση συσκευής, Αρχική οθόνη, Παιχνίδια, MIUI Daemon, στοιχεία συστήματος MSA, Υπηρεσία μετάφρασης, SDK MIUI, Γρήγορες εφαρμογές, Αποθήκη εφαρμογών, στατιστικά στοιχεία, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">\n\nΠρέπει να συμφωνήσετε με την πολιτική απορρήτου της Facemoji πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="terms_of_use_lable_default_input_method_kika">\n\nΠρέπει να συμφωνήσετε με την πολιτική απορρήτου της Kika πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="terms_of_use_lable_default_input_method_mint">\n\nΑποδοχή της Mint Keyboard πολιτική απορρήτου πριν τη χρήση του.</string>
-    <string name="terms_of_use_lable_gms">, Υπηρεσίες Google Play</string>
-    <string name="terms_of_use_lable_smart_cards">, Έξυπνες κάρτες</string>
-    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
+    <string name="terms_of_use_lable_gms">Υπηρεσίες Google Play</string>
+    <string name="terms_of_use_lable_smart_cards">Έξυπνες κάρτες</string>
+    <string name="terms_of_use_lable_vsimcore">MConnService</string>
+    <string name="terms_of_use_lable_xmsf">Xiaomi πλαίσιο υπηρεσιών</string>
     <string name="terms_privacy_policy_input_method_facemoji">Πολιτική απορρήτου Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Kika Πολιτική Απορρήτου</string>
     <string name="title_fingerprint">Ορισμός κλειδώματος οθόνης</string>
@@ -299,6 +344,7 @@
     <string name="wc_notice_link_privacy_index">Πολιτική απορρήτου</string>
     <string name="wc_notice_link_summary">"Ανάγνωση και αποδοχή τις %1$s και %2$s υπηρεσίες παροχής περιεχομένου τρίτου μέρους πριν από τη χρήση αυτής της λειτουργίας."</string>
     <string name="welcome">Καλωσορίσατε!</string>
+    <string name="withdraw_consent">Εάν αποσύρετε τη συγκατάθεσή σας, οι υπηρεσίες του Wallpaper Carousel θα απενεργοποιηθούν..</string>
     <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
     <string name="other_settings_upload_debug_log_detail">"Βελτιώστε την εμπειρία σας σε συσκευές MIUI στέλνοντας αυτόματα δεδομένα διαγνωστικών, συσκευών και χρήσης εφαρμογών στην Xiaomi. Αυτό θα βοηθήσει στη βελτίωση της διάρκειας ζωής της μπαταρίας, του συστήματος MIUI και της σταθερότητας των εφαρμογών και άλλα.
 Τα δεδομένα που θα στείλετε θα περιέχουν γενικές πληροφορίες σχετικά με τη συσκευή σας και τον τρόπο χρήσης της (π.χ. επίπεδο μπαταρίας, δραστηριότητα συστήματος και εφαρμογών και σφάλματα). Τα δεδομένα θα χρησιμοποιηθούν για τη βελτίωση των συσκευών MIUI.

@@ -35,7 +35,7 @@
     <string name="align_type">Στοίχιση</string>
     <string name="am">ΠΜ</string>
     <string name="aod_component">Πάντα ενεργή οθόνη</string>
-    <string name="aod_show_date_and_time">Ημερομηνία και ώρα</string>
+    <string name="aod_show_date_and_time">Ώρα</string>
     <string name="app_name">Πίσω οθόνη</string>
     <string name="apply">Εφαρμογή</string>
     <string name="apply_succeed">Επιτυχής εφαρμογή</string>
@@ -50,8 +50,17 @@
     <string name="color_change_with_time_description">Αυτόματη αλλαγή χρώματος κειμένου καθ όλη τη μέρα</string>
     <string name="color_change_with_time_title">Αυτόματη αλλαγή χρωμάτων</string>
     <string name="component_battery">Μπαταρία</string>
-    <string name="component_date_time">Ημερομηνία και ώρα</string>
+    <string name="component_date_time">Ώρα</string>
     <string name="component_notification">Ειδοποιήσεις</string>
+    <string name="contentDescripton_back">Πίσω</string>
+    <string name="contentDescripton_horizontal_center">Οριζόντια διάταξη. Στοίχιση στο κέντρο.</string>
+    <string name="contentDescripton_horizontal_left">Οριζόντια διάταξη. Αριστερή στοίχιση.</string>
+    <string name="contentDescripton_horizontal_right">Οριζόντια διάταξη. Δεξιά στοίχιση.</string>
+    <string name="contentDescripton_increase">Περισσότερα</string>
+    <string name="contentDescripton_reduce">Λιγότερα</string>
+    <string name="contentDescripton_vertical_center">Κατακόρυφη διάταξη. Στοίχιση στο κέντρο.</string>
+    <string name="contentDescripton_vertical_left">Κατακόρυφη διάταξη. Αριστερή στοίχιση.</string>
+    <string name="contentDescripton_vertical_right">Κατακόρυφη διάταξη. Δεξιά στοίχιση.</string>
     <string name="copy">Αντιγραφή</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />

@@ -176,4 +176,12 @@
         <item>Ενεργοποίηση συγχρονισμού</item>
         <item>Σημειώσεις;Cloud;Συγχρονισμός;Υπηρεσίες cloud;Cloud Xiaomi</item>
     </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Πρόσβαση σε συμβάντα ημερολογίου</item>
+        <item>Αποστολή SMS</item>
+        <item>Ανάγνωση MMS</item>
+        <item>Πρόσβαση στις Επαφές</item>
+        <item>Επεξεργασία και διαγραφή επαφών</item>
+        <item>Πρόσβαση σε φωτογραφίες και αρχεία στη συσκευή</item>
+    </string-array>
 </resources>
