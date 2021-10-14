@@ -877,5 +877,21 @@
         <item quantity="other">%d φορές</item>
         <item quantity="one">%d φορά</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Ενεργοποίηση της λειτουργίας εστίασης για %d λεπ.</item>
+        <item quantity="one">Ενεργοποίηση της λειτουργίας εστίασης για %d λεπ.</item>
+    </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Μετά το κλείδωμα της οθόνης για %d λεπ.</item>
+        <item quantity="one">Μετά το κλείδωμα της οθόνης για %d λεπ.</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d λεπ.</item>
+        <item quantity="one">%d λεπ.</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Μετά το κλείδωμα της οθόνης %d λεπ.</item>
+        <item quantity="one">Μετά το κλείδωμα της οθόνης %d λεπ.</item>
+    </plurals>
 </resources>
 

@@ -7,6 +7,9 @@
      <string name="captcha">Captcha</string>
      <string name="change_find_device_status_failed">Αδυναμία ξεκλειδώματος. %s.</string>
      <string name="close">Κλείσιμο</string>
+     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Για πρόσβαση στον αριθμό τηλεφώνου προκειμένου να εντοπιστεί αυτή η συσκευή όταν δεν είναι συνδεδεμένη στο διαδίκτυο"</string>
+     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Για τον εντοπισμό αυτής της συσκευής όταν δεν είναι συνδεδεμένη στο Διαδίκτυο"</string>
+     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Για τον εντοπισμό της συσκευής σας και τη μετάβαση στην κατάσταση απώλειας</string>
      <string name="default_debt_msg_words">Αυτή η συσκευή είναι κλειδωμένη λόγω καθυστερημένης πληρωμής δόσης.\nΕπικοινωνήστε με τον αντιπρόσωπο πωλήσεων για λεπτομέρειες.</string>
      <string name="default_lock_msg_words">Αυτή η συσκευή συνδέεται με έναν υπάρχοντα Λογαριασμό Mi. Για λόγους ασφαλείας, πρέπει να εισαγάγετε τον κωδικό πρόσβασης για να επαληθεύσετε τη συσκευή.</string>
      <string name="default_lock_msg_words_with_phone">Γεια σας! Έχασα τη συσκευή μου. Θα μπορούσατε να επικοινωνήσετε μαζί μου; Ευχαριστώ!</string>
