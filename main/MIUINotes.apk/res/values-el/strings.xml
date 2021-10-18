@@ -416,6 +416,7 @@
     <string name="note_gesture_guide_step3">Κρατήστε παρατεταμένα μια σημείωση και έπειτα σύρετέ την πάνω σε ένα φάκελο για να την μετακινήσετε εκεί</string>
     <string name="note_header_first_enter_guide">Τραβήξτε προς τα κάτω για περισσότερα</string>
     <string name="note_invalid_mindnote_hint">"Οι χάρτες mind δεν είναι διαθέσιμοι σε αυτήν την έκδοση. Ενημερώστε την εφαρμογή για να χρησιμοποιήσετε αυτήν τη δυνατότητα."</string>
+    <string name="note_item_default_title">Κενό σημείωμα</string>
     <string name="note_link_email">Αποστολή email</string>
     <string name="note_link_other">Άνοιγμα χάρτη</string>
     <string name="note_link_select">Επιλογή κειμένου</string>
@@ -488,6 +489,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Σύρετε προς τα επάνω με 2 δάχτυλα για να διαγράψετε σημειώσεις χωρίς επιβεβαίωση</string>
     <string name="pref_desc_todo_float_mode">Σύρετε από την αριστερή άκρη στην Αρχική οθόνη για να ανοίξετε την εργαλειοθήκη εργασιών</string>
     <string name="pref_excerpt_link_float">Λήψη υπενθύμισης για τη δημιουργία αποσπάσματος κάθε φορά που αντιγράφεται μια διεύθυνση URL</string>
+    <string name="pref_permission_allowed">Χορηγήθηκε</string>
+    <string name="pref_permission_manage">Λεπτομέρειες αδειών</string>
+    <string name="pref_permission_manage_key_contact">Πρόσβαση σε Επαφές</string>
+    <string name="pref_permission_manage_key_recording">Εγγραφή ήχου</string>
+    <string name="pref_permission_manage_key_storage">Πρόσβαση σε αποθήκευση</string>
+    <string name="pref_permission_not_allowed">Δεν χορηγήθηκε</string>
     <string name="pref_quick_note_desc">Χρησιμοποιήστε τη συντόμευση στην άκρη της οθόνης για να δημιουργήσετε σημειώσεις και εργασίες, καθώς και να αποθηκεύσετε αντιγραμμένες διευθύνσεις URL, κείμενο και εικόνες στις Σημειώσεις.</string>
     <string name="pref_remind_type_summary">Αναπαραγωγή ήχου υπενθύμισης σε αθόρυβη λειτουργία</string>
     <string name="pref_remind_type_summary_new">Παράβλεψη της λειτουργίας Σίγασης και διατήρηση του ήχου αναπαραγωγής μέχρι να απενεργοποιηθεί η ειδοποίηση</string>
@@ -755,9 +762,9 @@
     <string name="todo_module_name">Εργασίες</string>
     <string name="todo_notify_alarm_title">Υπενθύμιση εργασιών</string>
     <string name="todo_schedule_time_expired">" (Έληξε)"</string>
-    <string name="todo_schedule_time_repeat_day">, κάθε μέρα</string>
     <string name="todo_schedule_time_md">dd/MM</string>
     <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
+    <string name="todo_schedule_time_repeat_day">, κάθε μέρα</string>
     <string name="todo_schedule_time_repeat_month">, κάθε μήνα</string>
     <string name="todo_schedule_time_repeat_normal_workday">, Δευτέρα έως Παρασκευή</string>
     <string name="todo_schedule_time_repeat_week">, κάθε εβδομάδα</string>
@@ -810,6 +817,9 @@
     <string name="widget_havenot_content">Χωρίς περιεχόμενο. Αγγίξτε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, αγγίξτε παρατεταμένα &amp; σύρετε μία άκρη.</string>
     <string name="widget_havenot_content_new">Πατήστε για δημιουργία μιάς Σημείωσης. Παρατεταμένα για αλλαγή μεγέθους.</string>
     <string name="widget_note_list_page_title">Επιλογή σημείωσης</string>
+    <string name="widget_size_item_big">Μεγάλο</string>
+    <string name="widget_size_item_medium">Μεσαίο</string>
+    <string name="widget_size_item_small">Μικρό</string>
     <string name="widget_take_notes_title">Σημειώσεις</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Οχι τώρα</string>

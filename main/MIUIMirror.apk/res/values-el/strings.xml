@@ -37,6 +37,8 @@
     <string name="close">Κλείστε</string>
     <string name="confirm_device_credential_password">Χρήση κωδικού</string>
     <string name="copy">Αντίγραφο</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Για τη μετάδοση ήχου κατά τη Μετάδοση</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Για τη μεταφορά αρχείων μεταξύ συσκευών</string>
     <string name="date_picker_lunar">Κινέζικο παραδοσιακό ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="default_boss_terminal_name">Mi Notebook</string>
@@ -229,6 +231,7 @@
     <string name="settings_pc_history_title">Ιστορικό σύνδεσης</string>
     <string name="settings_pc_trusted_title">Αυτόματη σύνδεση</string>
     <string name="settings_pc_use_tile">Σχετικά με τη λειτουργία</string>
+    <string name="settings_permission_description">Λεπτομέρειες αδειών</string>
     <string name="settings_privacy_policy">Πολιτική απορρήτου</string>
     <string name="settings_scanner_button">Σαρωτής</string>
     <string name="settings_scanner_summary">Σύνδεση με MIUI+ με χρήση κώδικα QR</string>

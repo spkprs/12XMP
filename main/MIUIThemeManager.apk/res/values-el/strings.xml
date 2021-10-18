@@ -86,6 +86,7 @@
     <string name="app_disable_transparent_wallpaper">Χωρίς διαφανή ταπετσαρία</string>
     <string name="app_enable_transparent_wallpaper">Με διαφανή ταπετσαρία</string>
     <string name="app_name">Θέματα</string>
+    <string name="application_list_permission_desc">Για την προβολή εφαρμογών συμβατών με διαφανείς ταπετσαρίες</string>
     <string name="apply_choosen_type_resource">Εφαρμογή επιλεγμένων στοιχείων</string>
     <string name="apply_default_font_tip">Χρήση της τρέχουσας γραμ/σειράς του συστήματος?</string>
     <string name="apply_failed">"Αδύνατη η εφαρμογή"</string>
@@ -380,6 +381,7 @@
     <string name="has_mamual_hide_font">Κρυφά</string>
     <string name="has_mamual_hide_theme">Κρυφά</string>
     <string name="has_mamual_hide_wallpaper">Κρυφά</string>
+    <string name="head_portraits">Φωτογραφία προφίλ</string>
     <string name="hide_free_aod">Να μην εμφανίζονται δωρεάν θέματα</string>
     <string name="hide_free_font">Απόκρυψη δωρεάν γραμ/σειρών</string>
     <string name="hide_free_theme">Απόκρυψη δωρεάν θεμάτων</string>
@@ -576,6 +578,9 @@
     <string name="my_gifts">Δώρα</string>
     <string name="my_gifts_purchased">Αγορασμένα</string>
     <string name="my_gifts_received">Ληφθέντα</string>
+    <string name="need_to_open_application_permission_desc">Για να μάθετε ποιες εφαρμογές είναι συμβατές με τις διαφανείς ταπετσαρίες, επιτρέψτε στα Θέματα να αποκτήσουν πρόσβαση στη λίστα των εφαρμογών που είναι εγκατεστημένες στη συσκευή σας.</string>
+    <string name="need_to_open_permission">Απαιτούνται Άδειες</string>
+    <string name="need_to_open_storage_permission_desc">Για να μπορέσετε να χρησιμοποιήσετε και να κατεβάσετε στοιχεία στα Θέματα, επιτρέψτε πρώτα στην εφαρμογή να αποκτήσει πρόσβαση στον αποθηκευτικό χώρο.</string>
     <string name="network_exception">Αδυναμία σύνδεσης. Ελέξτε το δίκτυό σας και ξαναδοκιμάστε.</string>
     <string name="no_cta_agreed">"Το GetApps δεν διαθέτει δικαιώματα CTA"</string>
     <string name="no_data">Αδυναμία σύνδεσης στο δίκτυο</string>
@@ -631,6 +636,7 @@
     <string name="present_local_themes_subtitle">Προσαρμόστε τη συσκευή σας</string>
     <string name="present_official_themes">Επίσημη επιλογή</string>
     <string name="present_online_themes">Λήψη Online</string>
+    <string name="privacy_settings">Απόρρητο</string>
     <string name="provision_default_theme_title">Προεπιλεγμένο</string>
     <string name="provision_loading_tips">Μισό λεπτό…</string>
     <string name="provision_second_title">Επιλέξτε ένα από τα διάφορα προεπιλεγμένα θέματα</string>
@@ -945,6 +951,8 @@
     <string name="show_mamual_hide_theme">Εμφάνιση δωρεάν θεμάτων</string>
     <string name="show_mamual_hide_wallpaper">Εμφάνιση δωρεάν ταπετσαριών</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_migration_exit_msg">Για να καταστήσουμε τα Θέματα συμβατά με τις νέες εκδόσεις του Android, μετακινήσαμε τα ληφθέντα στοιχεία σας σε μια νέα θέση. Επανεκκινήστε την εφαρμογή για να εφαρμόσετε τις αλλαγές και να προβάλετε το περιεχόμενο που έχετε λάβει.</string>
+    <string name="storage_permission_denied_desc">Επιτρέψτε την πρόσβαση των Θεμάτων στην αποθήκευση για να μπορείτε να προβάλλετε στοιχεία</string>
     <string name="sunday">Κυριακή</string>
     <string name="super_wallpaper">Σούπερ ταπετσαρίες</string>
     <string name="super_wallpaper_list_footer_text">Μείνετε συντονισμένοι για τις νέες μας κυκλοφορίες!</string>

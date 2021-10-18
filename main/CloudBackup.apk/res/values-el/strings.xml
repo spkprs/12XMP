@@ -42,6 +42,10 @@
     <string name="backup_action_buy_cloud_space">Αποκτήστε περισσότερο χώρο αποθήκευσης</string>
     <string name="backup_action_check_network">Έλεγχος ρυθμίσεων δικτύου</string>
     <string name="backup_action_clean_disk_space">Ελευθερώστε χώρο</string>
+    <string name="backup_action_no_space_with_wechat_off_content">Δεν υπάρχει αρκετός χώρος αποθήκευσης στο cloud για τη δημιουργία αντιγράφων στοιχείων από αυτή τη συσκευή. Δείτε τις διαθέσιμες επιλογές αποθήκευσης στο cloud.</string>
+    <string name="backup_action_no_space_with_wechat_off_title">"Δεν ήταν δυνατή η δημιουργία αντιγράφων στοιχείων"</string>
+    <string name="backup_action_no_space_with_wechat_on_content">Δεν υπάρχει αρκετός χώρος αποθήκευσης στο cloud για τη δημιουργία αντιγράφων των δεδομένων του WeChat. Αναβαθμίστε το πρόγραμμα αποθήκευσης πρώτα.</string>
+    <string name="backup_action_no_space_with_wechat_on_title">"Δεν ήταν δυνατή η δημιουργία αντιγράφων των δεδομένων του WeChat"</string>
     <string name="backup_action_retry_now">Δοκιμάστε ξανά</string>
     <string name="backup_fail_wifi_needed">"Αδυναμία δημιουργίας αντιγράφων, χρειάζεται Wi-Fi."</string>
     <string name="backup_failed_reason_app_usage_denied">Εκχώρηση των απαιτούμενων αδειών για τη δημιουργία αντιγράφων στοιχείων</string>

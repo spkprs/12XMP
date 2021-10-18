@@ -1134,6 +1134,12 @@
     <string name="cta_main_purpose">Καλώς ήρθατε στην Ασφάλεια! Μπορείτε να, εκκαθάριση αχρήστων, εξουδετέρωση ιών, βελτιστοποίηση απόδοσης παιχνιδιών, εξοικονόμηση μπαταρίας, διαχείρηση εφαρμογών και πολλά άλλα.</string>
     <string name="cta_settings">Πρόσβαση στο δίκτυο και στην τοποθεσία</string>
     <string name="current_network_state_not_need_diagnose">Η σύνδεση στο Internet είναι φυσιολογική</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Για την προσθήκη στοιχείων στη λίστα αποκλεισμού</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Για πρόσβαση στο ιστορικό κλήσεων για να εμφανιστούν αποκλεισμένα στοιχεία</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Για την παροχή λειτουργιών λίστας αποκλεισμού και την κλήση επαφών έκτακτης ανάγκης</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Για την αποστολή μηνυμάτων σε αποκλεισμένες επαφές</string>
+    <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Για την προσθήκη στοιχείων στο ιστορικό κλήσεων και τη διαγραφή αποκλεισμένων κλήσεων</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Για την εκτέλεση σάρωσης από ιούς και τη βελτιστοποίηση της συσκευής σας</string>
     <string name="customize_limit_pkg">%s (Προσαρμογή)</string>
     <string name="customizer_mode_user_define_name">Οι κανόνες μου</string>
     <string name="daily_card_setting_fragment_daily_card_brand">Πάροχος</string>

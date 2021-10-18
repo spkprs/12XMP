@@ -76,6 +76,13 @@
     <string name="go_open">Ενεργοποίηση</string>
     <string name="go_update">Ενημέρωση</string>
     <string name="i_know">Κατάλαβα</string>
+    <string name="incompatible_page_summary">"Αυτές οι εφαρμογές δεν είναι συμβατές με την τελευταία έκδοση του Android. Τα προβλήματα συμβατότητας ενδέχεται να επιλυθούν στις επερχόμενες ενημερώσεις εφαρμογών."</string>
+    <string name="incompatible_summary">Εφαρμογές που δεν είναι συμβατές με την τελευταία έκδοση του Android</string>
+    <string name="incompatible_title">Ασύμβατες εφαρμογές</string>
+    <string name="list_title">Εφαρμογές</string>
+    <string name="lowbit_version_page_summary">32-bit εφαρμογές παρουσιάζουν χαμηλότερες επιδόσεις και υψηλότερη κατανάλωση ενέργειας. Μπορεί επίσης να καταρρεύσουν λόγω της έλλειψης εικονικής μνήμης. Η Google δεν θα υποστηρίζει πλέον εφαρμογές 32-bit στις νέες εκδόσεις του Android.</string>
+    <string name="lowbit_version_summary">32-bit οι εφαρμογές μπορεί να καταρρεύσουν και να εξαντλήσουν την μπαταρία</string>
+    <string name="lowbit_version_title">32-bit εφαρμ.</string>
     <string name="no_reminder">"Να μην γίνεται ειδοποίηση για θέματα στην τρέχουσα έκδοση"</string>
     <string name="notification_channel_name">Προβλήματα εφαρμογών</string>
     <string name="notification_content_message">Πατήστε για προβολή λεπτομερειών</string>

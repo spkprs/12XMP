@@ -32,6 +32,7 @@
     <string name="accessible_irregular">Προσαρμοσμένο σχήμα</string>
     <string name="accessible_rect">Ορθογώνιο</string>
     <string name="app_name">Στιγμιότυπο οθόνης</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Για την αποθήκευση στιγμιότυπων οθόνης</string>
     <string name="long_screenshot_guide_text">Πατήστε για να δημιουργήσετε\nένα συρόμενο στιγμιότυπο οθόνης</string>
     <string name="long_screenshot_out_of_memory_error">Η εικόνα είναι πολύ μεγάλη</string>
     <string name="long_screenshot_processing">Γίνεται επεξεργασία…</string>

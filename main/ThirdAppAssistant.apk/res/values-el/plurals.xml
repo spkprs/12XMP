@@ -64,4 +64,12 @@
         <item quantity="other">Ενημέρωση %d εφαρμ. για αποτροπή αναγκαστικού κλεισίματος</item>
         <item quantity="one">Ενημέρωση %d εφαρμ. για αποτροπή αναγκαστικού κλεισίματος</item>
     </plurals>
+    <plurals name="hints_apps_count">
+        <item quantity="other">%d εφαρμ.</item>
+        <item quantity="one">%d εφαρμ.</item>
+    </plurals>
+    <plurals name="lowbit_app_update">
+        <item quantity="other">64-bit εκδόσεις είναι διαθέσιμες για %d εφαρμ.</item>
+        <item quantity="one">64-bit εκδόσεις είναι διαθέσιμες για %d εφαρμ.</item>
+    </plurals>
 </resources>

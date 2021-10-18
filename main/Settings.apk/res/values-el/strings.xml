@@ -2595,6 +2595,7 @@
     <string name="external_ram_dialog_btn_ok">Επανεκκίνηση</string>
     <string name="external_ram_dialog_message">Επανεκκινήστε τη συσκευή σας για να εφαρμόσετε τις αλλαγές.</string>
     <string name="external_ram_dialog_title">Επανεκκίνηση συσκευής</string>
+    <string name="external_ram_remind_toast">Ο αποθηκευτικός χώρος εξαντλείται. Απενεργοποιήθηκε η επέκταση μνήμης προς το παρόν.</string>
     <string name="external_ram_summary">"Προσθέστε %1$s %2$s μνήμη RAM καταλαμβάνοντας χώρο αποθήκευσης. Χρησιμοποιήστε αυτή τη λειτουργία μόνο όταν υπάρχει αρκετός διαθέσιμος χώρος στη συσκευή σας."</string>
     <string name="external_ram_title">Επέκταση μνήμης</string>
     <string name="external_ram_toast">"Δεν είναι δυνατή η χρήση επέκτασης μνήμης λόγω ανεπαρκούς χώρου αποθήκευσης"</string>

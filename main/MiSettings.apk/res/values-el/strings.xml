@@ -612,12 +612,14 @@
     <string name="usage_app_over_content">Έχετε ήδη χρησιμοποιήσει αυτήν την εφαρμογή %s σήμερα.</string>
     <string name="usage_app_over_summary">Έχετε φτάσει το όριο σας. Τέλος χρόνου!</string>
     <string name="usage_app_set_limit_time">Ορισμός ορίου</string>
+    <string name="usage_app_stop_desc">Όλα τα δεδομένα και άδειες Χρόνου οθόνης, συμπεριλαμβανομένων των μεμονωμένων ρυθμίσεων, καθώς και τα σχετικά στοιχεία που είναι αποθηκευμένα τοπικά, θα διαγραφούν μετά την απενεργοποίηση αυτής της λειτουργίας.</string>
     <string name="usage_app_system_app_summary">Αδύνατον να περιοριστεί ο χρόνος οθόνης για εφαρμογές συστήματος</string>
     <string name="usage_app_weekday_limit">Καθημερινές</string>
     <string name="usage_app_weekend_limit">Σαββατοκύριακα</string>
     <string name="usage_beat_fans">Καλύτερο από %s οπαδών Mi</string>
     <string name="usage_continuous_days">Ράβδωση</string>
     <string name="usage_creating_weekly_report">Δημιουργία εβδομαδιαίας αναφοράς...</string>
+    <string name="usage_cta_desc">"Καλώς ήρθατε στις Ρυθμίσεις! Για να σας παρέχει στατιστικά στοιχεία για το χρόνο οθόνης και τη λειτουργία εστίασης, αυτή η εφαρμογή πρέπει να συλλέγει τα ακόλουθα δεδομένα: τον αριθμό των φορών που ξεκλειδώνετε τη συσκευή, τη λίστα των εφαρμογών σας μαζί με την αντίστοιχη διάρκεια χρήσης, τον αριθμό των φορών που ανάβει η οθόνη σας και τις ρυθμίσεις της λειτουργίας εστίασης. Τα δεδομένα που συλλέγονται θα αποθηκεύονται μόνο τοπικά σε αυτή τη συσκευή."</string>
     <string name="usage_current_week_usage">%s μέσος όρος 7 ημερών</string>
     <string name="usage_device_limit_app_prolong">Προσθήκη χρόνου</string>
     <string name="usage_device_limit_app_prolong_time1">Προσθήκη 20 λεπτών</string>

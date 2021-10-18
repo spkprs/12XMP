@@ -45,6 +45,8 @@
     <string name="confirm_cancel_task_files">Ακύρωση αποστολής αρχείων στο %1$s?</string>
     <string name="confirm_cancel_task_images">Ακύρωση αποστολής εικόνων σε %1$s?</string>
     <string name="copy">Αντίγραφο</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Για τη μεταφορά αρχείων μέσω B/Τ &amp; WLAN</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Για αποστολή και λήψη αρχείων</string>
     <string name="default_device_name">Αγνωστη συσκευή</string>
     <string name="device_list_all">Όλες οι συσκευές</string>
     <string name="device_list_more">Περισσότερα</string>
@@ -112,6 +114,7 @@
     <string name="hide">Απόκρυψη</string>
     <string name="i_know">Κατανοητό</string>
     <string name="location_enabled">Το Mi Share ενεργοποιεί τις υπηρεσίες τοποθεσίας για εύρεση κοντινών συσκευών</string>
+    <string name="menu_item_permission_title">Λεπτομέρειες αδειών</string>
     <string name="menu_item_privacy_title">Πολιτική απορρήτου</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
