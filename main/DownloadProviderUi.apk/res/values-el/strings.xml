@@ -88,6 +88,7 @@
     <string name="copy_info">Αντιγράφτηκε στο πρόχειρο. Μπορείτε να το μοιραστείτε με φίλους!</string>
     <string name="creat_task_success">Προστέθηκε σε αναμονή λήψης</string>
     <string name="create_task">Nέα εργασία</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Για λήψη στοιχείων, καθώς και για εμφάνιση και διαχείριση λήψεων</string>
     <string name="delete">Διαγραφή</string>
     <string name="delete_download">Διαγραφή</string>
     <string name="delete_downloads_records">Διαγραφή λήψεων</string>
@@ -118,6 +119,9 @@
     <string name="dialog_media_not_found">Συνδέστε εξωτερικό μέσο αποθήκευσης για λήψη.</string>
     <string name="dialog_msg_disabled_net">%1$s περιορισμένες λήψεις για το τρέχον δίκτυο. Πατήστε για να πάτε στην εφαρμογή Ασφάλεια.</string>
     <string name="dialog_msg_recommend">Δεν θα είστε σε θέση να δείτε τις προτεινόμενες πηγές μετά την απενεργοποίηση. Μπορείτε να επιλέξετε \"Φόρτωση όταν συνδεθεί σε Wi‑Fi\" για να εξοικονομήσετε δεδομένα κινητής.</string>
+    <string name="dialog_privacy_update_button1">Ακύρωση</string>
+    <string name="dialog_privacy_update_button2">Συμφωνώ</string>
+    <string name="dialog_privacy_update_title">Ενημερωμένη πολιτική απορρήτου</string>
     <string name="dialog_queued_body">Το αρχείο προστέθηκε σε αναμονή και θα γίνει σύντομα λήψη</string>
     <string name="dialog_speed_cancel">Ακύρωση</string>
     <string name="dialog_speed_msg">Η χρήση δεδομένων κινητής τηλεφωνίας για τη δοκιμή δικτύου μπορεί να καταναλώσει μεγάλες ποσότητες δεδομένων κινητής τηλεφωνίας. Συνέχεια ούτως ή άλλως;</string>
@@ -127,6 +131,10 @@
     <string name="dialog_title_not_available">Λήψη Απέτυχε</string>
     <string name="dialog_title_queued_body">Το αρχείο δεν είναι έτοιμο ακόμα</string>
     <string name="dialog_title_recommend">Απενεργοποίηση προτεινόμενων πηγών</string>
+    <string name="dialog_user_know_button1">Έξοδος</string>
+    <string name="dialog_user_know_button2">Συμφωνώ</string>
+    <string name="dialog_user_know_content"><Data>"Δεν θα μπορέσετε να συνεχίσετε να χρησιμοποιείτε αυτή τη λειτουργία αν δεν συμφωνήσετε με τη νέα έκδοση της &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a>. Συμφωνήστε με την ενημερωμένη Πολιτική Απορρήτου τώρα?"</Data></string>
+    <string name="dialog_user_know_title">Προσοχή</string>
     <string name="disable">Απενεργοποίηση</string>
     <string name="display_expire_netiv1">Αυτό το μήνα</string>
     <string name="do_not_support_url">Αυτό το είδος URL δεν υποστηρίζεται</string>
@@ -330,10 +338,12 @@
     <string name="paused_waiting_to_retry">Αναμονή για επανάληψη</string>
     <string name="percent_title">%1$s άλλοι το κατέβασαν</string>
     <string name="period_of_validity">Ισχύς:</string>
+    <string name="permission">Άδειες</string>
     <string name="petabyteShort">PB</string>
     <string name="pref_download_revert_default">Αποθήκευση στην προεπιλεγμένη θέση</string>
     <string name="pref_download_settings_title">Όριο λήψης με δεδομένα έως</string>
     <string name="pref_download_storage_path">Αποθήκευση σε νεο φάκελο</string>
+    <string name="pref_permission_description">Λεπτομέρειες αδειών</string>
     <string name="pref_sniff_shortcut">Δημιουργία συντόμευσης</string>
     <string name="pref_summary_any_bytes_popup">Πάντα αναμονή για σύνδεση Wi‑Fi για λήψη αρχείων</string>
     <string name="pref_summary_enable_max_bytes_popup">Εμφάνιση αναδυόμενης ειδοποίησης όταν χρησιμοποιείτε σύνδεση δεδομένων κινητής για να κατεβάσετε περιεχόμενο</string>
@@ -342,6 +352,7 @@
     <string name="pref_title_enable_max_bytes_popup">Εμφάνιση προτροπής χρήσης δεδομένων</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="preferences_title">Ρυθμίσεις</string>
+    <string name="privacy">Απόρρητο</string>
     <string name="privacy_agree_dialog_msg">" "<Data>"Καλώς ορίσατε στις Λήψεις! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για λήψη αρχείων.&lt;BR>Οι λήψεις πρέπει να συλλέγουν τα απαραίτητα προσωπικά στοιχεία για να σας παρέχουν τις υπηρεσίες που δημιουργούν στατιστικά στοιχεία λήψης. Μπορείτε να μάθετε πώς χειριζόμαστε τις πληροφορίες που συλλέγουμε στην &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a>.&lt;BR>Διαβάστε και συμφωνήστε με την &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a> και &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a> πριν χρησιμοποιήσετε τις Λήψεις.&lt;BR>Μπορείτε ανά πάσα στιγμή να αποσύρετε τη συγκατάθεσή σας για την Πολιτική απορρήτου των Λήψεων στις Ρυθμίσεις Εάν δεν συμφωνείτε με την Πολιτική απορρήτου μας, δεν θα μπορείτε να χρησιμοποιήσετε ορισμένες δυνατότητες αυτής της εφαρμογής. Ωστόσο, η βασική του λειτουργικότητα θα εξακολουθεί να είναι διαθέσιμη σε εσάς."</Data>" "</string>
     <string name="privacy_agree_dialog_title">Οροι και Προϋποθέσεις</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>

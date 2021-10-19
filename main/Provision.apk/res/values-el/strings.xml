@@ -132,7 +132,7 @@
     <string name="next">Επόμενο</string>
     <string name="next_fingerprint">Επόμενο</string>
     <string name="note_introduction">Αυτή η εφαρμογή σάς επιτρέπει να δημιουργείτε, να προβάλλετε και να επεξεργάζεστε σημειώσεις.</string>
-    <string name="other_settings">Πρόσθετες ρυθμίσεις</string>
+    <string name="other_settings">Βασικές ρυθμίσεις</string>
     <string name="other_settings_ad_dialog_agree">Ενεργοποίηση</string>
     <string name="other_settings_ad_dialog_content">"Όταν οι εξατομικευμένες και προτάσεις είναι απενεργοποιημένες, θα εξακολουθείτε να βλέπετε την ίδια ποσότητα διαφημίσεων όπως όταν η δυνατότητα είναι ενεργοποιημένη. Ωστόσο, οι διαφημίσεις δεν θα είναι πλέον σχετικές καθώς δεν θα βασίζονται στις προσωπικές προτιμήσεις σας".</string>
     <string name="other_settings_ad_dialog_disagree">Απενεργοποίηση</string>

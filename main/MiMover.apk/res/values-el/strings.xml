@@ -59,6 +59,7 @@
     <string name="cancel_description">Ακύρωση</string>
     <string name="cancel_moving_dialog_message">Παύση εισαγωγής τώρα;</string>
     <string name="cancel_moving_dialog_title">Παύση εισαγωγής</string>
+    <string name="cancel_tranfer">Ακύρωση</string>
     <string name="cannot_use_mi_huanji_button">Κατανοητό</string>
     <string name="cannot_use_mi_huanji_summary">Φαίνεται ότι η MIUI δημιουργεί αντίγραφα ασφαλείας των στοιχείων τώρα. Διακόψτε τη τρέχουσα δημιουργία αντιγράφων ή επανεκκινήστε τη συσκευή σας για να επιτρέψετε στο Mi Mover να ξεκινήσει τη μεταφορά.</string>
     <string name="cannot_use_mi_huanji_title">Δεν είναι δυνατή η μεταφορά τώρα</string>
@@ -249,6 +250,7 @@
     <string name="guest_unfinished_task_alert_btn_positive">Συνέχεια</string>
     <string name="guest_unfinished_task_alert_message">Φαίνεται ότι έχετε ημιτελείς εργασίες μεταφοράς. Συνεχίζετε με τη μεταφορά;</string>
     <string name="guest_unfinished_task_alert_title">Εργασίες που δεν έχουν ολοκληρωθεί</string>
+    <string name="guest_wainting_title">Συνεχίστε στη νέα σας συσκευή</string>
     <string name="hide_password_description">Απόκρυψη κωδικού πρόσβασης</string>
     <string name="host_boot_installation_bottom_tips">Δεν μπορείτε να βρείτε το Mi Mover; Πατήστε για λήψη.</string>
     <string name="host_boot_installation_button">Επόμενο</string>
@@ -273,6 +275,10 @@
     <string name="host_memory_insuff_summary">Δεν υπάρχει αρκετός χώρος αποθήκευσης στη νέα συσκευή για να ξεκινήσει η μεταφορά.</string>
     <string name="host_memory_insuff_title">Δεν υπάρχει αρκετός χώρος αποθήκευσης</string>
     <string name="host_new_device_hint">Η συσκευή σας</string>
+    <string name="host_verify_lock_hint">Εισάγετε κλείδωμα οθόνης</string>
+    <string name="host_verify_lock_retry">Επιβεβαίωση κλείδωμα οθόνης</string>
+    <string name="host_verify_lock_summary">Αυτό θα γίνει το νέο σας κλείδωμα συσκευής</string>
+    <string name="host_verify_lock_title">Εισάγετε το κλείδωμα οθόνης της παλιάς σας συσκευής</string>
     <string name="hsa_code_null">Ο κωδικός επαλήθευσης δεν μπορεί να είναι κενός</string>
     <string name="hsa_input_tip">Το αναγνωριστικό σας Apple χρησιμοποιεί έλεγχο ταυτότητας δύο παραγόντων. Βάλτε κωδικό επιβεβαίωσης.</string>
     <string name="hsa_send_again">Αποστολή ξανά</string>
@@ -303,6 +309,9 @@
     <string name="icloud_signin_fail_message">Το Apple ID σας ήταν κλειδωμένο λόγω λόγων ασφαλείας. Πηγαίνετε στο iforgot.apple.com και ακολουθήστε τις οδηγίες.</string>
     <string name="icloud_start_now">Ξεκινήστε αμέσως</string>
     <string name="icloud_verify_tips">Πατήστε Αποδοχή στη συσκευή iOS και εισαγάγετε τον κωδικό που εμφανίζεται εδώ.</string>
+    <string name="idm_discovery_positive_text">Μεταφορά</string>
+    <string name="idm_discovery_summary">Φαίνεται ότι ενεργοποιείτε μια νέα συσκευή τώρα. Μεταφέρετε στοιχεία από αυτή τη συσκευή στη νέα;</string>
+    <string name="idm_discovery_title">Μεταφέρετε στοιχεία στη νέα σας συσκευή</string>
     <string name="im">IM</string>
     <string name="im_recipient">Είμαι αποδέκτης</string>
     <string name="im_sender">Είμαι αποστολέας</string>
@@ -332,6 +341,9 @@
     <string name="loading_data">Μισό λεπτό…</string>
     <string name="location_permission_desc">Για εύρεση συσκευών σε κοντινή απόσταση</string>
     <string name="location_permission_request">Για σύνδεση με άλλες κοντινές συσκευές</string>
+    <string name="lockscreen_access_pattern_cell_added">Το κελί προστέθηκε</string>
+    <string name="lockscreen_access_pattern_cleared">Απαλοιφή μοτίβου</string>
+    <string name="lockscreen_access_pattern_start">Το μοτίβο ξεκίνησε</string>
     <string name="login">Συνδεθείτε</string>
     <string name="login_failed">Αδύνατη η σύνδεση. Προσπάθησε ξανά.</string>
     <string name="logining">Σύνδεση…</string>
@@ -348,6 +360,7 @@
     <string name="manual_connection_content1">1. Πατήστε \"Σύνδεση στη νέα συσκευή χειροκίνητα \" στην παλιά συσκευή.</string>
     <string name="manual_connection_content2">2. Επιλέξτε το ακόλουθο ενεργό σημείο WiFi.</string>
     <string name="manual_connection_content3">3. Εισάγετε αυτό τον κωδικό στην παλιά συσκευή για σύνδεση.</string>
+    <string name="manual_connection_hint">Πατήστε \"Μη αυτόματη σύνδεση\" στην παλιά συσκευή σας.</string>
     <string name="manual_connection_summary2">"Εάν δεν μπορείτε να βρείτε αυτό το ενεργό σημείο, ανανεώστε τη λίστα των διαθέσιμων δικτύων WiFi και προσπαθήστε ξανά."</string>
     <string name="manual_connection_title">Μη αυτόματη σύνδεση στην παλιά συσκευή</string>
     <string name="message_request_package_stats_perm">Το Mi Mover χρειάζεται αυτήν την άδεια για να δεί ποιες εφαρμογές είναι εγκατεστημένες σε μια συσκευή και να τις μεταφέρει αυτές τις εφαρμογές σε μια άλλη.</string>
@@ -359,6 +372,8 @@
     <string name="miui_wait_link_message_1">Το πλήκτρο \"Είμαι αποστολέας\" βρίσκεται ακριβώς στην αρχική σελίδα του Mi Mover.</string>
     <string name="miui_wait_link_title_1">%d. Πατήστε \"Είμαι αποστολέας\" και περιμένετε μια στιγμή.</string>
     <string name="miui_wait_link_title_2">%d. Επιλέξτε αυτό το hotspot για την παλιά σας συσκευή για να συνδεθείτε.</string>
+    <string name="miuix_access_state_desc">Επιλεγμένες</string>
+    <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
@@ -373,6 +388,7 @@
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
+    <string name="miuix_indexer_selected">Επιλεγμένες %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε κάτω για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανέωση…</string>
@@ -563,11 +579,16 @@
     <string name="prompt_before_transmission_message4_title">Παραμείνετε συνδεδεμένοι σε όλη τη διάρκεια της μεταφοράς</string>
     <string name="prompt_before_transmission_message5_summary">"Η ασύρματη μεταφορά μεγάλων όγκων δεδομένων μπορεί να προκαλέσει ελαφρά υπερθέρμανση, η οποία είναι φυσιολογική. Η συσκευή σας θα κρυώσει αμέσως μετά την ολοκλήρωση της μεταφοράς."</string>
     <string name="prompt_before_transmission_message5_title">Η συσκευή σας μπορεί να ζεσταθεί κατά τη μεταφορά.</string>
+    <string name="provision_cta_title">Μεταφορά από παλιά συσκευή</string>
+    <string name="provision_select_data_null">Επιλέξτε στοιχεία για μεταφορά</string>
     <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">Αδύνατη λήψη QQ</string>
     <string name="qq_app_send_fail">Αδύνατη αποστολή QQ</string>
     <string name="qq_data_external">QQ SD card data</string>
     <string name="quit_now">Έξοδος</string>
+    <string name="receiver">Λήψη</string>
+    <string name="receiver_video_summary">Ξεκλειδώστε την παλιά σας συσκευή, πατήστε \"Μεταφορά\" και σαρώστε αυτή την εικόνα.</string>
+    <string name="receiver_video_title">Μεταφορά από παλιά συσκευή</string>
     <string name="reconnect">Σύνδεση ξανά</string>
     <string name="recovery_progress">Επαναφορά στοιχείων (%1$d/%2$d)…</string>
     <string name="recreate_soft_ap_tips">Αγγίξτε το παρακάτω κουμπί και δοκιμάστε ξανά.</string>
@@ -576,6 +597,10 @@
     <string name="restore_data_to_device_title">Επαναφορά στοιχείων σε αυτήν τη συσκευή</string>
     <string name="restore_right_now">Επαναφορά</string>
     <string name="retry">Δοκιμάστε ξανά</string>
+    <string name="revoke">Ανάκληση συγκατάθεσης</string>
+    <string name="revoke_agree">Ανάκληση της συγκατάθεσης</string>
+    <string name="revoke_confirm_dialog_statement">Αν συνεχίσετε, θα αποσύρετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου της Mi Mover. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και διατηρηθεί θα διαγραφούν εντός της συγκεκριμένης περιόδου σύμφωνα με τους ισχύοντες νόμους και κανονισμούς, εκτός εάν απαιτείται κάτι διαφορετικό. Καθώς η Mi Mover παρέχει τις υπηρεσίες της βάσει της συλλογής των απαραίτητων προσωπικών πληροφοριών, η ανάκληση της συγκατάθεσής σας θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών της Mi Mover.</string>
+    <string name="revoke_confirm_dialog_yes">OK</string>
     <string name="sar">Πληροφορίες έκθεσης RF</string>
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Σάβ</string>
@@ -622,6 +647,8 @@
     <string name="send_sms_for_sync_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="send_verification_code_fail">Δεν ήταν δυνατή η αποστολή του κωδικού επαλήθευσης</string>
     <string name="send_verification_code_fail_tips">\"Βεβαιωθείτε ότι έχετε εισέλθει με αυτόν το λογαριασμό στη συσκευή Apple που διαθέτετε. Διαφορετικά, δεν θα μπορείτε να λάβετε τον κωδικό\".</string>
+    <string name="sender_scanning_code">Τοποθετήστε την εικόνα στο πλαίσιο</string>
+    <string name="sender_scanning_connecting">Connecting with new device…</string>
     <string name="settings_phone">Ρυθμίσεις τηλεφώνου</string>
     <string name="settings_powerkeeper">Δεδομένα μετρητή βημάτων</string>
     <string name="settings_sms">Ρυθμίσεις μηνυμάτων</string>
@@ -641,6 +668,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_transfer">Παράλειψη</string>
     <string name="skip_underline">Παράλειψη αυτού του βήματος</string>
     <string name="sms">SMS</string>
     <string name="soft_ap_create_failed">Αδύνατη η δημιουργία hotspot</string>
@@ -758,7 +786,10 @@
     <string name="trans_receive_time_remained">Λήψη: %1$s | Υπόλοιπο: %2$s</string>
     <string name="trans_send_time_remained">Απεσταλμένα: %1$s | Υπόλοιπο: %2$s</string>
     <string name="trans_show_qr_code_label">Συνδεθείτε στην παλιά συσκευή</string>
+    <string name="trans_show_qr_code_label_for_pad">Ανοίξτε το Mi Mover στην παλιά συσκευή</string>
     <string name="trans_sync_transfer_data_list">Επιλέξτε στοιχεία για μεταφορά στην παλιά συσκευή</string>
+    <string name="trans_sync_transfer_data_list_hint">Μισό λεπτό...</string>
+    <string name="trans_sync_transfer_data_list_summary_for_pad">Επιλέξτε στοιχεία στην παλιά σας συσκευή και πατήστε \"Αποστολή\".</string>
     <string name="trans_time_format_second">Λιγότερο από 1 λεπτό</string>
     <string name="trans_time_spent">Χρόνος: %s</string>
     <string name="transfer_bottom_tip">Δεν θα μπορείτε να χρησιμοποιήσετε Wi-Fi ή Bluetooth κατά τη διάρκεια της μεταφοράς. Μην αφήνετε αυτήν τη οθόνη.</string>

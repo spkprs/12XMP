@@ -83,6 +83,7 @@
     <string name="business_no_result">"Αδυναμία αναγνώρισης της επαγγελματικής κάρτας. Προσπάθησε ξανά."</string>
     <string name="calender">Ημερολόγια</string>
     <string name="call_anyone">Κλήση</string>
+    <string name="call_phone_permissions_text">Επιτρέψτε στον Σαρωτή να πραγματοποιεί κλήσεις για να μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="calories_logo_text">Υποστήριξη AI που παρέχεται από την Health Hope</string>
     <string name="calories_request_interface_text">Υποστήριξη AI</string>
     <string name="camera_error_title">Σφάλμα κάμερας</string>
@@ -355,6 +356,7 @@
     <string name="local_ocr_recognition">Τοπική αναγνώριση</string>
     <string name="local_ocr_recognition_str">Μετάβαση σε μετάφραση χωρίς σύνδεση</string>
     <string name="logistics">Ταχεία παράδοση</string>
+    <string name="logout_service">Απόσυρση συγκατάθεσηςt</string>
     <string name="low_version_tip">Ενημερώστε το MIUI στην πιο πρόσφατη έκδοση του, για να μπορέσετε να χρησιμοποιήσετε το σαρωτή.</string>
     <string name="midnight">Νύχτα</string>
     <string name="mihome_goto_install">Εγκατάσταση</string>
@@ -488,6 +490,7 @@
     <string name="pdf_save_sucess">Αποθηκεύτηκε με επιτυχία</string>
     <string name="pdf_saved_failed">pdf η αποθήκευση απέτυχε</string>
     <string name="pdf_saved_successfully">pdf αποθηκεύτηκε με επιτυχία</string>
+    <string name="permission_management">Άδειες</string>
     <string name="phone">Τηλέφωνο:</string>
     <string name="phone_can_not_be_empty">"Ο αριθμός τηλεφώνου δεν μπορεί να είναι κενός"</string>
     <string name="phone_number">Αριθμός τηλεφώνου</string>
@@ -496,7 +499,10 @@
     <string name="picture_camera_roll">Κατάλογος</string>
     <string name="picture_cancel">Άκύρωση</string>
     <string name="picture_completed">Επιλεγμένες</string>
+    <string name="picture_default_original_image">Κανονική</string>
+    <string name="picture_editor">Επεξεργαστής</string>
     <string name="picture_is_being_saved">Γίνεται αποθήκευση της εικόνας</string>
+    <string name="picture_original_image">Κανονική (%1$s)</string>
     <string name="picture_please_select">Επιλογή</string>
     <string name="picture_preview_num">Προβολή (%1$d)</string>
     <string name="place_barcode_into_rectangle">Βάλτε τον κωδικό μέσα στο πλαίσιο</string>
@@ -516,6 +522,11 @@
     <string name="preparing_sd">Προετοιμασία αποθηκευτικού χώρου…</string>
     <string name="previous">Πίσω</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_update">Ενημερωμένη πολιτική απορρήτου</string>
+    <string name="privacy_policy_update_message">&lt;Data&gt;\"Δεν θα μπορέσετε να συνεχίσετε να χρησιμοποιείτε το Σαρωτή αν δεν συμφωνήσετε με τη νέα έκδοση της &lt;a href=\"%1$s\"&gt;Πολιτική απορρήτου&lt;/a&gt;. Συμφωνείτε με την ενημερωμένη Πολιτική Απορρήτου τώρα;\"&lt;/Data&gt;</string>
+    <string name="privacy_policy_update_welcome">Ενημερώθηκε η πολιτική απορρήτου του Σαρωτή:</string>
+    <string name="privacy_policy_withdrawal_error">Δεν ήταν δυνατή η ανάκληση της συγκατάθεσης. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
+    <string name="privacy_policy_withdrawal_message">&lt;Data&gt;\"Αν συνεχίσετε, θα αποσύρετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου του Σαρωτή. Αυτό θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών του Σαρωτή. Θα πρέπει να συμφωνήσετε με την &lt;a href=\"%1$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt; ξανά αν αποφασίσετε να χρησιμοποιήσετε το Σαρωτή. Αποσύρετε τη συγκατάθεσή σας τώρα;\"&lt;/Data&gt;</string>
     <string name="processing">Επεξεργασία...</string>
     <string name="prompt">Προσοχή</string>
     <string name="qr_code_details">Λεπτομέρειες κωδικού QR:</string>
@@ -529,6 +540,7 @@
     <string name="query_tracking">Παράδοση</string>
     <string name="query_tracknum">Έλεγχος παραγγελίας ταχείας παράδοσης</string>
     <string name="qureyGoods">Αναζήτηση προϊόντων</string>
+    <string name="read_contacts_permissions_text">Επιτρέψτε στον σαρωτή να έχει πρόσβαση στις επαφές για χρήση αυτής της λειτουργίας.</string>
     <string name="recognize">Σάρωση</string>
     <string name="recognize_fail">Αδυναμία ανάγνωσης κωδικού</string>
     <string name="release_lock">Αφήστε το κλείδωμα</string>
@@ -710,9 +722,12 @@
     <string name="url_is_safety">Αυτή η ιστοσελίδα είναι ασφαλής</string>
     <string name="url_is_unknown">Αδυναμία ελέγχου ασφάλειας της ιστοσελίδας</string>
     <string name="url_is_unsafety">Αυτή η ιστοσελίδα δεν είναι ασφαλής</string>
+    <string name="user_agreement">Συμφωνία χρήστη</string>
+    <string name="user_notification">Απόσυρση της συγκατάθεσης</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="vender_info_translation_kingsoft">Υποστηρίζεται από Kingsoft</string>
+    <string name="version_code">"Έκδοση: "</string>
     <string name="visit">Επίσκεψη</string>
     <string name="waybill_num">"Παραγγελία: "</string>
     <string name="web">Ιστοσελίδα:</string>
