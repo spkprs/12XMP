@@ -1880,10 +1880,45 @@
     <string name="prepare_to_drop">Αποθήκευση σε %s</string>
     <string name="preparing_data">Μισό λεπτό…</string>
     <string name="print_log">Εκτύπωση αρχείου καταγραφής</string>
+    <string name="privacy">Πολιτική Απορρήτου</string>
+    <string name="privacy_cloud_confirm">Ενεργ/ση συγχρ/μού</string>
+    <string name="privacy_cloud_confirm_content1">Xiaomi Cloud Πολιτική Απορρήτου</string>
+    <string name="privacy_cloud_confirm_content2">Συμφωνία χρήστη</string>
+    <string name="privacy_cloud_confirm_detail">&lt;Data&gt;\"Αφού ενεργοποιήσετε το συγχρονισμό, οι φωτογραφίες και τα βίντεο από αυτή τη συσκευή θα μεταφορτωθούν στο Xiaomi Cloud και θα συγχωνευτούν με τα στοιχεία που έχουν συγχρονιστεί προηγουμένως (εάν υπάρχουν). Διαβάστε και συμφωνήστε με τις οδηγίες του Xiaomi Cloud\'s &lt;a href=\"%1$s\"&gt;Συμφωνία χρήστη&lt;/a&gt; και &lt;a href=\"%2$s\"&gt;Πολιτική απορρήτου&lt;/a&gt; πριν συνεχίσετε.\"&lt;/Data&gt;</string>
+    <string name="privacy_cloud_confirm_detail_negative">Έξοδος</string>
+    <string name="privacy_cloud_confirm_detail_positive">Αποδοχή</string>
+    <string name="privacy_cloud_confirm_rejected">Η συγκατάθεση στην Πολιτική απορρήτου του Xiaomi Cloud αποσύρθηκε για αυτόν τον λογαριασμό. Δοκιμάστε να χρησιμοποιήσετε έναν διαφορετικό λογαριασμό.</string>
+    <string name="privacy_detail">Προβολή Πολιτικής Απορρήτου</string>
+    <string name="privacy_detail_map">Προβολή Χάρτη Συλλογής Πολιτικής απορρήτου</string>
+    <string name="privacy_entrance">Απόρρητο</string>
+    <string name="privacy_map">Χάρτης Συλλογής</string>
+    <string name="privacy_map_detail">&lt;Data&gt;Αυτή η υπηρεσία σας επιτρέπει να προβάλλετε φωτογραφίες και βίντεο με πληροφορίες τοποθεσίας σε χάρτη. Χρησιμοποιούμε το Baidu Map Open SDK για να σας παρέχουμε αυτή την υπηρεσία. Διαβάστε και συμφωνήστε με &lt;a href=\"%1$s\"&gt;Baidu Πολιτική απορρήτου χάρτη για προϊόντα και υπηρεσίες ανοικτής πλατφόρμας&lt;/a&gt; πριν συνεχίσετε.&lt;/Data&gt;</string>
+    <string name="privacy_map_detail_content">Baidu Πολιτική απορρήτου χάρτη για προϊόντα και υπηρεσίες ανοικτής πλατφόρμας</string>
+    <string name="privacy_permission">Άδειες</string>
+    <string name="privacy_permission_account">Λογαριασμοί</string>
+    <string name="privacy_permission_account_detail">Για σύνδεση και συγχρονισμό στοιχείων με το cloud</string>
+    <string name="privacy_permission_agree">Παραχωρήθηκε</string>
+    <string name="privacy_permission_clip">Πρόσβαση στο πρόχειρο</string>
+    <string name="privacy_permission_clip_detail">Για πρόσβαση σε αντιγραμμένα στοιχεία</string>
+    <string name="privacy_permission_clip_write">Αποθήκευση στοιχείων στο πρόχειρο</string>
+    <string name="privacy_permission_clip_write_detail">Για αντιγραφή στοιχείων</string>
+    <string name="privacy_permission_contact">Επαφές</string>
+    <string name="privacy_permission_contact_detail">Για την ονομασία ατόμων σε φωτογραφίες και βίντεο</string>
+    <string name="privacy_permission_detail">Λεπτομέρειες αδειών</string>
+    <string name="privacy_permission_disagree">Δεν χορηγήθηκε</string>
+    <string name="privacy_permission_location">Τοποθεσία</string>
+    <string name="privacy_permission_location_detail">Για την εμφάνιση φωτογραφιών και βίντεο στο χάρτη</string>
     <string name="privacy_permission_request_message"><Data>Η Συλλογή χρειάζεται πρόσβαση σε %3$s. Οι πληροφορίες που συλλέγουμε θα χρησιμοποιηθούν σύμφωνα με την &lt;a href=\"%1$s\">\"Όροι χρήσης\"&lt;/a> και &lt;a href=\"%2$s\">\"Πολιτική απορρήτου\"&lt;/a>. Επιτρέπετε?</Data></string>
     <string name="privacy_permission_request_negative">Απόρριψη</string>
     <string name="privacy_permission_request_positive">Αποδοχή</string>
     <string name="privacy_permission_request_title">Απαιτούμενες Άδειες</string>
+    <string name="privacy_permission_shotcut">Συντόμευση στην αρχική οθόνη</string>
+    <string name="privacy_permission_shotcut_detail">Για τη δημιουργία συντομεύσεων αρχικής οθόνης</string>
+    <string name="privacy_permission_storage">Αποθήκευση</string>
+    <string name="privacy_permission_storage_detail">Για την αποθήκευση φωτο και βίντεο</string>
+    <string name="privacy_rejected">Ανάκληση συγκατάθεσης</string>
+    <string name="privacy_rejected_map">Ανάκληση της συγκατάθεσης στην Πολιτική Απορρήτου του Χάρτη Συλλογής</string>
+    <string name="privacy_rejected_map_detail">Η απόσυρση της συγκατάθεσής σας στην Πολιτική Απορρήτου του Χάρτη Συλλογής θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών της. Άλλες βασικές λειτουργίες και υπηρεσίες του Χάρτη Συλλογής δεν θα επηρεαστούν. Αποσύρετε ούτως ή άλλως;</string>
     <string name="private_entry_lock_state_activated_text">Αφήστε για άνοιγμα ιδιωτικού φακέλου</string>
     <string name="private_entry_lock_state_enterd_text">Τραβήξτε προς τα κάτω για να ανοίξετε τον ιδιωτικό φάκελο</string>
     <string name="problem_feedback">Σχόλια</string>

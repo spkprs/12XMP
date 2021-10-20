@@ -61,6 +61,7 @@
     <string name="aim_show_original">Εμφάνιση μηνύματος</string>
     <string name="alert_dlg_cancel_button">Ακύρωση</string>
     <string name="alert_dlg_ok_button">OK</string>
+    <string name="allow">OK</string>
     <string name="allow_network_hint">Ενεργοποιήστε το \"Ενημέρωση πληρ. αυτόματα\" ή ελέγξετε την σύνδεση δικτύου</string>
     <string name="already_updated">Ενημερωμένο</string>
     <string name="am">ΠΜ</string>
@@ -149,6 +150,8 @@
     <string name="cm_privacy_dialog_tips">"Οι υπηρεσίες έξυπνων μηνυμάτων παρέχονται από τον φορέα σας. Η υπηρεσία πρέπει να συνδεθεί στο Internet και πρόσβαση στην τοποθεσία σας για να παρέχουν αυτές τις υπηρεσίες. Πρέπει να συμφωνείσετε με τη %1s του φορέα σας πριν ξεκινήσετε. Συμφωνείτε?"</string>
     <string name="cm_privacy_dialog_title">Προσοχή</string>
     <string name="cmcc_privacy">Συμφωνία απορρήτου φορέα της China Mobile</string>
+    <string name="cn_privacy_dialog_title">Προσοχή</string>
+    <string name="cn_privacy_update_dialog_title">Ενημερωμένη πολιτική απορρήτου</string>
     <string name="complain_message_title">Αναφορά</string>
     <string name="compressing">Η εικόνα είναι πολύ μεγάλη. Συμπίεση…</string>
     <string name="confirm">OK</string>
@@ -226,6 +229,8 @@
     <string name="delete_wild_sims_title">Διαγραφή επιλεγμένων αριθμών</string>
     <string name="delivery_report_activity">Αναφορά παράδοσης</string>
     <string name="delivery_toast_body">Μήνυμα ελήφθη από %s</string>
+    <string name="dialog_agree">Αποδοχή</string>
+    <string name="dialog_cancel">Ακύρωση</string>
     <string name="dialog_choice_all_correct_as_normal">Όλα τα μηνύματα από %s</string>
     <string name="dialog_complain_tips">Να επιτρέπεται η σύνδεση των Μηνυμάτων στο δίκτυο για να είναι δυνατή η αναφορά στοιχείων.</string>
     <string name="dialog_message_correct_as_ad">Όλα τα μηνύματα από το %s (εκτός από τους κωδικούς επαλήθευσης) θα μετακινηθούν σε μηνύματα προώθησης.</string>
@@ -234,6 +239,8 @@
     <string name="dialog_message_mx">Το Mi Μήνυμα σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβαρύνσεις. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση της υπηρεσίας. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Πρέπει να συμφωνείτε με τις \"%1$s\" και \"%2$s\" πριν χρησιμοποιήσετε το Mi μήνυμα.</string>
     <string name="dialog_message_networking">Τα μηνύματα πρέπει να χρησιμοποιούν Yellow pages για να είναι σε θέση να παρέχουν αναγνώριση ID αποστολέα. Τα μηνύματα και οι Yellow pages πρέπει να συνδεθούν στο διαδίκτυο και να έχουν πρόσβαση στην τοποθεσία σας για να λειτουργούν κανονικά. Επιτρέπετε?</string>
     <string name="dialog_message_rcs">Το Mobile Messaging της Κίνας σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες της ηπηρωτικής Κίνας χωρίς να χρεώνεστε. Πρέπει να συμφωνήσετε \"%1$s\" πριν χρησιμοποιήσετε το 5G Messaging.</string>
+    <string name="dialog_quit">Έξοδος</string>
+    <string name="dialog_revoke">Ανάκληση</string>
     <string name="dialog_sim_locked_confirm">OK</string>
     <string name="dialog_sim_locked_message">"Η κάρτα SIM δεν λειτουργεί πλήρως με αυτό το τηλέφωνο επειδή δεν συμμορφώνεται με τους όρους και τις προϋποθέσεις της συνδρομής σας. Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περισσότερες πληροφορίες σχετικά με αυτό το ζήτημα, παρακαλούμε επικοινωνήστε με τα κέντρα εξυπηρέτησης της Xiaomi ή το κατάστημα προϊόντων."</string>
     <string name="dialog_smart_message_privacy_tips">Οι υπηρεσίες έξυπνων μηνυμάτων παρέχονται εν μέρει από την Dianhuabang. Πριν από τη χρήση, πρέπει να συμφωνήσετε με την \"%1$s\". Θα πρέπει να συνδεθεί στο Internet και να αποκτήσει πρόσβαση στην τοποθεσία σας για να λειτουργεί κανονικά. Συμφωνείτε?</string>
@@ -490,6 +497,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μισό λεπτό…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδύνατη η φόρτ. στοιχείων</string>
     <string name="mms">MMS</string>
+    <string name="mms_5g_mms_privacy_policy">5G Μηνύματα Πολιτική απορρήτου</string>
+    <string name="mms_5g_mms_privacy_policy_revoke">Ανάκληση της συγκατάθεσης στην Πολιτική Απορρήτου της 5G Messaging</string>
     <string name="mms_block_alert_message">Όλα τα μηνύματα MMS εκτός από τα μηνύματα που αποστέλλονται από εξουσιοδοτημένους αποστολείς θα αποκλειστούν. Οι εξουσιοδοτημένοι αποστολείς περιλαμβάνουν μεταφορείς δικτύου, εθνικά συστήματα κρατήσεων σιδηροδρόμων κ.λπ.</string>
     <string name="mms_block_alert_ok">Αποκλεισμός</string>
     <string name="mms_block_alert_title">Αποκλεισμός MMS</string>
@@ -605,6 +614,7 @@
     <string name="mx_on_sim_2">Mi Μήνυμα κάρτας SIM 2</string>
     <string name="mx_online">Συνδεδεμένο</string>
     <string name="mx_privacy_policy">Mi Message Privacy Policy</string>
+    <string name="mx_privacy_policy_revoke">Ανάκληση της συγκατάθεσης στην Πολιτική Απορρήτου του Mi Message</string>
     <string name="mx_reactivate">Επανενεργοποίηση Mi message</string>
     <string name="mx_recommend_msg">Πατήστε για ενεργοποίηση του Mi message.</string>
     <string name="mx_stranger_recommend_msg">Πατήστε για φραγή μηνυμάτων Mi από άγνωστους αριθμούς</string>
@@ -668,6 +678,7 @@
     <string name="perm_purpose_rcs_account">"Για την εμφάνιση του οδηγού αρχαρίων σε νέους χρήστες"</string>
     <string name="perm_purpose_rcs_phone_state">Για την πρόσβαση στο ΙΜΕΙ για την αναγνώριση της συσκευής σας</string>
     <string name="perm_purpose_rcs_storage">Για την αποθήκευση εικόνων, βίντεο, αρχείων και άλλων συνημμένων RCS</string>
+    <string name="permission_new_retry_dialog_msg">Τα μηνύματα χρειάζονται πρόσβαση στις επαφές για να μπορούν να λειτουργούν κανονικά. Μπορείτε να αλλάξετε τα δικαιώματα στις Ρυθμίσεις > Εφαρμογές > Ρυθμίσεις εφαρμογών συστήματος.</string>
     <string name="permission_retry_deny">Ακύρωση</string>
     <string name="permission_retry_dialog_msg">Η εφαρμ. Μηνύματα χρειάζεται δικαιώματα για να μπορεί να λειτουργήσει κανονικά. Για να δώσετε τα απαιτούμενα δικαιώματα, πατήστε \"Ρυθμίσεις\", επιλέξτε \"Δικαιώματα εφαρμογής\" και επιτρέψτε στην εφαρμογή να έχει πρόσβαση σε τηλέφωνο, SMS και επαφές.</string>
     <string name="permission_retry_setting">Ρυθμίσεις</string>
@@ -733,6 +744,7 @@
     <string name="pref_system_title">Σύστημα</string>
     <string name="pref_title_ad_mms_recognition">Αναγνώριση διαφημιστικών μηνυμάτων</string>
     <string name="pref_title_allow_si_sl_push">Αποδοχή προώθησης WAP</string>
+    <string name="pref_title_authority_management">Λεπτομέρειες αδειών</string>
     <string name="pref_title_auto_delete">Διαγράψτε παλιά μηνύματα</string>
     <string name="pref_title_card_format">Διαμόρφωση επαγγελματικής κάρτας</string>
     <string name="pref_title_collapse_ad_notification">Ομαδοποίηση ειδοποιήσεων σχετικά με διαφημιστικά μηνύματα</string>
@@ -751,6 +763,17 @@
     <string name="pref_title_mms_validity_period">Περίοδος ισχύος MMS</string>
     <string name="pref_title_msg_blocked">Αποκλεισμένα</string>
     <string name="pref_title_notification_body_enabled">Εμφάνιση μηνυμάτων στην οθόνη κλειδώματος</string>
+    <string name="pref_title_perm_audio">Εγγραφή ήχου</string>
+    <string name="pref_title_perm_calander">Πρόσβαση στο ημερολόγιο</string>
+    <string name="pref_title_perm_call">Πραγματοποίηση κλήσεων</string>
+    <string name="pref_title_perm_camera">Χρήση κάμερας</string>
+    <string name="pref_title_perm_location">Τοποθεσία</string>
+    <string name="pref_title_perm_read_call_log">Πρόσβαση στο ιστορικό κλήσεων</string>
+    <string name="pref_title_perm_read_contacts">Πρόσβαση στις Επαφές</string>
+    <string name="pref_title_perm_read_mms">Ανάγνωση SMS</string>
+    <string name="pref_title_perm_send_mms">Αποστολή SMS</string>
+    <string name="pref_title_perm_storage">Πρόσβαση στην Αποθήκευση</string>
+    <string name="pref_title_perm_write_contacts">Επεξεργασία επαφών</string>
     <string name="pref_title_privacy_authority">Εξουσιοδότηση</string>
     <string name="pref_title_privacy_policy_detail">Πολιτική Απορρήτου</string>
     <string name="pref_title_ringtone_repeat">Αριθμός ήχων ειδοποίησης</string>
@@ -774,6 +797,14 @@
     <string name="priority_label">"Προτεραιότητα: "</string>
     <string name="priority_low">Χαμηλή</string>
     <string name="priority_normal">Κανονική</string>
+    <string name="privacy_dialog_error_service">Εμφανίστηκε σφάλμα διακομιστή. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
+    <string name="privacy_dialog_text_policy_link">Πολιτική Απορρήτου</string>
+    <string name="privacy_dialog_tips_revoke" formatted="false">Αν συνεχίσετε, θα ανακαλέσετε τη συγκατάθεσή σας στην Πολιτική απορρήτου της %s. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και διατηρηθεί θα διαγραφούν εντός της συγκεκριμένης περιόδου σύμφωνα με τους ισχύοντες νόμους και κανονισμούς, εκτός εάν απαιτείται κάτι διαφορετικό. Καθώς η %s παρέχει τις υπηρεσίες της βάσει της συλλογής των απαραίτητων προσωπικών πληροφοριών, η ανάκληση της συγκατάθεσής σας θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών της %s. Ανάκληση συγκατάθεσης τώρα;</string>
+    <string name="privacy_dialog_tips_update" formatted="false">%s Η Πολιτική Απορρήτου ενημερώθηκε:\n%s\nΔιαβάστε και συμφωνήστε με τη νέα έκδοση της Πολιτικής Απορρήτου πριν συνεχίσετε.</string>
+    <string name="privacy_dialog_tips_update_confim" formatted="false">Δεν θα μπορέσετε να συνεχίσετε να χρησιμοποιείτε την %s αν δεν συμφωνήσετε με τη νέα έκδοση της Πολιτικής απορρήτου της %s. Συμφωνείτε με την ενημερωμένη Πολιτική Απορρήτου τώρα;</string>
+    <string name="privacy_dialog_title_revoke_confim">Ανάκληση συγκατάθεσης</string>
+    <string name="privacy_dialog_title_update">Ενημερωμένη πολιτική απορρήτου</string>
+    <string name="privacy_dialog_title_update_confim">Δεν είναι δυνατή η χρήση της εφαρμογής</string>
     <string name="privacy_mode_hint">Δεν μπορείτε να στείλετε μηνύματα σε λειτουργία επισκέπτη</string>
     <string name="privacy_password_message1">Ο κωδικός Προσωπικής προστασίας λειτουργεί για φωτογραφίες, σημειώσεις και κρυφούς φακέλους.</string>
     <string name="privacy_password_message2">Χρησιμοποιείστε τον κωδικό Προσωπικής προστασίας. Λειτουργεί για μηνύματα, φωτογραφίες και κρυφούς φακέλους.</string>
@@ -784,6 +815,10 @@
     <string name="privacy_password_title3">Αναβαθμίστε τον κωδικό σας</string>
     <string name="privacy_password_title4">Ο κωδικός αναβαθμίστηκε</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="privacy_policy_name_5g_mms">5G Μηνύματα</string>
+    <string name="privacy_policy_name_mms">Μηνύματα</string>
+    <string name="privacy_policy_name_smart_sms">Έξυπνα μηνύματα</string>
+    <string name="privacy_policy_name_websms">Mi Μήνυμα</string>
     <string name="privacy_state_revoked_cancel">Ακύρωση</string>
     <string name="privacy_state_revoked_content">Ενεργοποιώντας τον διακόπτη, αποσύρετε τη συγκατάθεσή σας για την Πολιτική απορρήτου των μηνυμάτων. Θα σταματήσουμε να συλλέγουμε τα προσωπικά σας στοιχεία. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και διατηρηθεί θα διαγραφούν εντός της συγκεκριμένης περιόδου όπως απαιτείται από τους ισχύοντες νόμους. Το Mi Message και το Smart Messaging που παρέχονται από το Messaging πρέπει να συλλέγουν τα απαραίτητα προσωπικά στοιχεία για να σας παρέχουν βασικές υπηρεσίες. Η απόσυρση της συγκατάθεσής σας στην Πολιτική Απορρήτου των Μηνυμάτων θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών που βασίζονται σε συλλεγόμενα προσωπικά στοιχεία που παρέχονται από το Mi Message και το Smart Messaging.</string>
     <string name="privacy_state_revoked_dialog_title">Ανάκληση συγκατάθεσης</string>
@@ -1101,6 +1136,7 @@
     <string name="smart_messages_network_allow_title">Απαιτείται σύνδεση στο Internet</string>
     <string name="smart_msg_main_purpose">Το Έξυπνο μήνυμα παρέχει ID αποστολέα και υπηρεσίες έξυπνων μενού.</string>
     <string name="smart_msg_privacy_policy">Πολιτική Απορρήτου Έξυπνων Μηνυμάτων</string>
+    <string name="smart_msg_privacy_policy_revoke">Ανάκληση της συγκατάθεσης στην Πολιτική Απορρήτου του Έξυπνα μηνύματα</string>
     <string name="smart_msg_upgrade_main_purpose">"Το Έξυπνο μήνυμα λειτουργεί τώρα με MMS. Θα μπορείτε να χρησιμοποιείτε περισσότερες υπηρεσίες που παρέχονται από τους αποστολείς, καθώς και να λαμβάνετε μηνύματα σε νέες μορφές."</string>
     <string name="sms_card_partner_label">"Συνεργάτης καρτών SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -1173,10 +1209,37 @@
     <string name="system_permission_declare_single_link">Διαβάστε και συμφωνήστε με την %1s πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Διαβάστε και συμφωνήστε με την %1s, %2s, και %3s πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="system_permission_declare_use_network">\"Σύνδεση στο δίκτυο\"</string>
+    <string name="system_permission_disabled">Δεν χορηγήθηκε</string>
+    <string name="system_permission_enabled">Παραχωρήθηκε</string>
+    <string name="system_permission_perm_agree_desc">Επιτρέψτε σε αυτή την εφαρμογή να συνδεθεί στο Internet και παραχωρήστε τα προαιρετικά δικαιώματα για να μπορέσετε να χρησιμοποιήσετε όλες τις λειτουργίες της.</string>
+    <string name="system_permission_perm_all_purpose">Καλώς ήρθατε στα Μηνύματα! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να στέλνετε και να λαμβάνετε μηνύματα κειμένου και πολυμέσων.</string>
     <string name="system_permission_perm_answer_call">Πραγματοποίηση κλήσεων</string>
+    <string name="system_permission_perm_calendar">Για τη δημιουργία συμβάντων Ημερολογίου</string>
+    <string name="system_permission_perm_call_log">Για πρόσβαση στις πρόσφατες επαφές σας κατά τη δημιουργία μηνυμάτων</string>
+    <string name="system_permission_perm_call_phone">Για πραγματοποίηση κλήσεων</string>
+    <string name="system_permission_perm_copy_menu_text">Για πρόσβαση σε στοιχεία που έχουν αντιγραφεί στο πρόχειρο</string>
+    <string name="system_permission_perm_email">Για τη δημιουργία και αποστολή μηνυμάτων emails</string>
+    <string name="system_permission_perm_get_account">Για δημιουργία αντιγράφων στο cloud</string>
+    <string name="system_permission_perm_get_phone_state">Για πρόσβαση στον αριθμό τηλεφώνου και την κατάσταση της συσκευής</string>
+    <string name="system_permission_perm_location">Για πρόσβαση και κοινή χρήση της τοποθεσίας σας</string>
+    <string name="system_permission_perm_new_read_sms">Για πρόσβαση στο περιεχόμενο του μηνύματος</string>
+    <string name="system_permission_perm_new_receive_mms">Για πρόσβαση στο περιεχόμενο του μηνύματος</string>
+    <string name="system_permission_perm_paste_menu_text">Για πρόσβαση και αποθήκευση στοιχείων στο πρόχειρο</string>
+    <string name="system_permission_perm_rcs_call_phone">Για απάντηση, τερματισμό και παρακολούθηση κλήσεων</string>
+    <string name="system_permission_perm_read_contact">Για πρόσβαση σε επαφές κατά τη δημιουργία μηνυμάτων</string>
     <string name="system_permission_perm_read_mms">Ανάγνωση MMS</string>
     <string name="system_permission_perm_read_numbers">Ανάγνωση αριθμών τηλεφώνου</string>
+    <string name="system_permission_perm_read_sms">Επιτρέψτε στα μηνύματα να διαβάζουν SMS</string>
+    <string name="system_permission_perm_record_audio">Για εγγραφή ήχου</string>
     <string name="system_permission_perm_send_mms">Αποστολή MMS</string>
+    <string name="system_permission_perm_send_sms">Για την αποστολή μηνυμάτων κειμένου</string>
+    <string name="system_permission_perm_sms">Για προβολή και αποστολή μηνυμάτων</string>
+    <string name="system_permission_perm_storage">Για προβολή, αποστολή και αποθήκευση αρχείων</string>
+    <string name="system_permission_perm_takephoto">Για τη λήψη φωτογραφιών και βίντεο</string>
+    <string name="system_permission_perm_write_contact">Για τη δημιουργία και επεξεργασία επαφών</string>
+    <string name="system_permission_perm_write_mms">Επιτρέψτε την αποστολή μηνυμάτων για να γράψετε MMS</string>
+    <string name="system_permission_perm_write_sms">Επιτρέψτε την αποστολή μηνυμάτων για να γράψετε SMS</string>
+    <string name="system_permission_requested">Ρωτήστε</string>
     <string name="tab_finance">Οικονομία</string>
     <string name="tab_message">Μηνύματα</string>
     <string name="tab_promotions">Προωθητικά</string>
@@ -1207,9 +1270,19 @@
     <string name="to_label">"Προς "</string>
     <string name="to_send_wrapper">Θα σταλεί στις %s</string>
     <string name="toast_failed_to_close_priv_auth">"Δεν ήταν δυνατή η ανάκληση εξουσιοδότησης. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
+    <string name="toast_new_not_show_microphone_perm_req">Επιτρέψτε στα μηνύματα να έχουν πρόσβαση στο μικρόφωνο για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="toast_not_show_account_perm_req">Επιτρέψτε στα μηνύματα να έχουν πρόσβαση σε λογαριασμούς που είναι αποθηκευμένοι στη συσκευή σας για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="toast_not_show_calendar_perm_req">Επιτρέψτε στα μηνύματα την πρόσβαση στο Ημερολόγιο για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="toast_not_show_call_log_perm_req">Επιτρέψτε στα μηνύματα να έχουν πρόσβαση στο ιστορικό κλήσεών σας για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="toast_not_show_call_perm_req">Επιτρέψτε την πραγματοποίηση κλήσεων μέσω μηνυμάτων για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
     <string name="toast_not_show_camera_perm_req">Επιτρέψτε στα Μηνύματα την χρήση της Κάμερας για να χρησιμοποιήσουν αυτήν τη λειτουργία</string>
+    <string name="toast_not_show_clipboard_perm_req">Επιτρέψτε στα μηνύματα να έχουν πρόσβαση στο πρόχειρο για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="toast_not_show_email_perm_req">Επιτρέψτε στην υπηρεσία μηνυμάτων να έχει πρόσβαση στο email σας για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="toast_not_show_location_perm_req">Επιτρέψτε στα μηνύματα να έχουν πρόσβαση στην τοποθεσία σας για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
     <string name="toast_not_show_microphone_perm_req">Επιτρέψτε στα Μηνύματα την χρήση του μικροφώνου για να χρησιμοποιήσουν αυτήν τη λειτουργία</string>
+    <string name="toast_not_show_send_sms_perm_req">Για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία, επιτρέψτε πρώτα σε αυτή την εφαρμογή να στέλνει μηνύματα.</string>
     <string name="toast_not_show_storage_perm_req">Επιτρέψτε στα Μηνύματα την πρόσβαση στο χώρο αποθήκευσης για να χρησιμοποιήσουν αυτήν τη λειτουργία</string>
+    <string name="toast_not_show_write_contacts_perm_req">Επιτρέψτε την επεξεργασία επαφών μέσω μηνυμάτων για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
     <string name="toast_pending_hangup_msg">Το μήνυμα θα σταλεί μετά το τέλος της κλήσης</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>

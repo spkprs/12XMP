@@ -949,6 +949,10 @@
     <string name="bluetooth_battery_level_untethered">L: %1$s μπαταρία, R: %2$s μπαταρία</string>
     <string name="bluetooth_blacklist_cancel_remove_device">Ακύρωση</string>
     <string name="bluetooth_blacklist_remove_device">Αναίρεση αποκλεισμού</string>
+    <string name="bluetooth_ble_audio_source_remove_fail">Απέτυχε η αφαίρεση της πηγής μετάδοσης, δοκιμάστε ξανά!</string>
+    <string name="bluetooth_ble_audio_stop_synchronize_confirmed">OK</string>
+    <string name="bluetooth_ble_audio_stop_synchronize_message">Μετά τη διακοπή, το ακουστικό δεν θα μπορεί να ακούσει τον ήχο Bluetooth</string>
+    <string name="bluetooth_ble_audio_stop_synchronize_title">Διακοπή συγχρονισμού ήχου</string>
     <string name="bluetooth_broadcasting">Μετάδοση</string>
     <string name="bluetooth_confirm_passkey_msg">Για σύζευξη με:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Σιγουρευτείτε ότι εμφανίζεται αυτός ο κωδικός:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connect_failed">Δεν ήταν δυνατή η σύνδεση. Δοκίμασε ξανά.</string>
@@ -2951,6 +2955,7 @@
     <string name="game_driver_dashboard_title">Προτιμήσεις οδηγού παιχνιδιού</string>
     <string name="game_driver_footer_text">Όταν το Game Driver είναι ενεργοποιημένο, μπορείτε να επιλέξετε να χρησιμοποιήσετε το ενημερωμένο πρόγραμμα οδήγησης γραφικών για εφαρμογές που είναι εγκατεστημένες στη συσκευή.</string>
     <string name="game_storage_settings">Παιχνίδια</string>
+    <string name="gd_setting_title">Έξυπνη εργαλειοθήκη</string>
     <string name="general_text">Πεδίο κειμένου</string>
     <string name="general_time">"Ώρα: %1$d:%2$d. Η μακριά δόνηση αντιπροσωπεύει ώρες, η μικρή δόνηση λεπτά. Θα υπάρξει μια σύντομη παύση μεταξύ ωρών και λεπτών. Πατήστε δύο φορές για δοκιμή."</string>
     <string name="gentle_notifications_also_display">Επίσης, εμφάνιση σε</string>
