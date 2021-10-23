@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="add_remark_hint">Εισάγετε το σχόλιό σας εδώ</string>
+    <string name="add_remark_tip">Πατήστε για να προσθέσετε παρατήρηση</string>
     <string name="agree_description">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet για να μπορεί να χρησιμοποιεί όλες τις δυνατότητές της.</string>
     <string name="alert_message_clear_records">Διαγραφή επιλεγμένων εγγραφών;</string>
     <string name="alert_message_delete_local_record">Διαγραφή αυτής της εγγραφής;</string>
@@ -73,6 +75,7 @@
     <string name="duration_format_minute">%sλ</string>
     <string name="duration_format_second">%sδ</string>
     <string name="empty_recognition_tip">Κενό</string>
+    <string name="empty_tips">Πατήστε το κουμπί για να ξεκινήσετε την εγγραφή</string>
     <string name="err_msg_abandon">η παραγγελία εγκαταλείφθηκε</string>
     <string name="err_msg_complete">ολοκληρώθηκε</string>
     <string name="err_msg_convert_fail">η μετατροπή απέτυχε</string>
@@ -95,6 +98,7 @@
     <string name="error_file_access">Το αρχείο δεν υπάρχει ή έχει καταστραφεί</string>
     <string name="error_filename_illegal_char">Το όνομα αρχείου περιέχει μη έγκυρους χαρακτήρες.</string>
     <string name="error_filename_too_long">Μεγάλο όνομα αρχείου</string>
+    <string name="error_remark_too_long">Η παρατήρησή σας είναι πολύ μεγάλη</string>
     <string name="error_sdcard_access">Αδυναμία πρόσβασης στο χώρο αποθήκευσης</string>
     <string name="error_sdcard_unmounted">Εισάγετε μια κάρτα SD τώρα</string>
     <string name="expand_button_title">Προχωρημένες</string>
@@ -145,6 +149,7 @@
     <string name="no_file">Κενό</string>
     <string name="no_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο"</string>
     <string name="no_playback_file">Επιλέξτε μια εγγραφή για λεπτομέρειες</string>
+    <string name="no_records">Χωρίς ηχογραφήσεις ακόμη εδώ</string>
     <string name="normal_settings_pref_title">Γενικές ρυθμίσεις</string>
     <string name="not_set">Δεν ορίστηκε</string>
     <string name="notification_message_all_paused">Αναμονή για σύνδεση Wi‑Fi.</string>
@@ -262,6 +267,9 @@
     <string name="record_downloading_notification_complete">Η λήψη ολοκληρώθηκε</string>
     <string name="record_downloading_notification_count">Λαμβάνονται %d</string>
     <string name="record_format_preference_title">Μορφή εγγραφής</string>
+    <string name="record_item_title_multi_choice">Επιλογή</string>
+    <string name="record_item_title_remark">Προσθήκη παρατήρησης</string>
+    <string name="record_item_title_send">Μοιραστείτε</string>
     <string name="record_list">Εγγραφές</string>
     <string name="record_list_app">Εγαρμογή εγγραφών</string>
     <string name="record_list_call">Εγγραφές κλήσεων</string>
@@ -332,6 +340,9 @@
     <string name="status_bar_recording">Ηχογράφηση…</string>
     <string name="status_bar_recording_pause">Ηχογράφηση σε παύση</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="tab_all">Όλα</string>
+    <string name="tab_apps">Εφαρμ.</string>
+    <string name="tab_call">Κλήσεις</string>
     <string name="tap_to_record">Πατήστε το κουμπί για εκκίνηση εγγραφής</string>
     <string name="text_btn_backward_3_seconds">3 δευτ πίσω</string>
     <string name="text_btn_complete">Διακοπή</string>

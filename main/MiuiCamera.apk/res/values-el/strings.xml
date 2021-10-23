@@ -357,6 +357,8 @@
     <string name="beauty_makeups_solid">Περίγραμμα</string>
     <string name="beauty_makeups_toughman">Χάλκινο</string>
     <string name="beauty_mode_reset_toast">Εκκαθαρίστηκαν επιτυχώς τα εφέ αναδιαμόρφωσης</string>
+    <string name="beauty_ne">Αρχικό</string>
+    <string name="beauty_no_t">Το Beautify είναι ανενεργό</string>
     <string name="beauty_origin_skincolor">Αρχικό</string>
     <string name="beauty_reset">Επαναφορά</string>
     <string name="beauty_reset_toast">Το εφέ Αισθητικής έχει εκκαθαριστεί</string>
@@ -385,6 +387,11 @@
     <string name="camera_liveshot_off_tip">Ανενεργή Δυναμική λήψη</string>
     <string name="camera_liveshot_on_tip">Δυναμική λήψη</string>
     <string name="camera_mode_options">Λειτουργίες</string>
+    <string name="camera_newcta_audio_message">Για εγγραφή βίντεο με ήχο</string>
+    <string name="camera_newcta_camera_message">Για λήψη φωτό και εγγραφή βίντεο</string>
+    <string name="camera_newcta_message">"Καλώς ήρθατε στην Κάμερα! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να τραβήξετε φωτογραφίες και να εγγράψετε βίντεο. "</string>
+    <string name="camera_newcta_other_message">"Για να σας παρέχουμε πρόσθετες υπηρεσίες ενώ χρησιμοποιείτε την εφαρμογή, ενδέχεται να χρειαστούμε τα δικαιώματα πρόσβασης στην τοποθεσία σας."</string>
+    <string name="camera_newcta_storage_message">Για αποθήκευση και προβολή φωτογραφιών και βίντεο</string>
     <string name="camera_setting">Κάμερα</string>
     <string name="camera_settings_category_development">Πειραματικά χαρακτηριστικά</string>
     <string name="camera_settings_label">Κάμερα</string>
@@ -569,6 +576,8 @@
     <string name="download_cancel_hint">Ακύρωση λήψης %1$s;</string>
     <string name="download_confirm">Λήψη</string>
     <string name="download_hint">%1$s MB δεδομένων θα χρησιμοποιηθούν για τη λήψη στοιχείων. Λήψη οπωσδήποτε;</string>
+    <string name="download_hint_cn">"Φαίνεται ότι η συσκευή σας δεν είναι συνδεδεμένη στο WLAN. Θα γίνει χρήση %1$s MB δεδομένων για λήψη στοιχείων τώρα;"</string>
+    <string name="download_hint_wifi">"Φαίνεται ότι η συσκευή σας δεν είναι συνδεδεμένη στο Wi-Fi. Θα γίνει χρήση %1$s MB δεδομένων για λήψη στοιχείων τώρα;"</string>
     <string name="download_in_progress">Λήψη…</string>
     <string name="download_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="download_waiting">Εκκρεμεί…</string>
@@ -662,6 +671,7 @@
     <string name="film_video_tip">Χρησιμοποιήστε τρίποδο</string>
     <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει το τελευταίο τέταρτο της εγγραφής</string>
     <string name="fragment_tab_name_bokeh">Θόλωση</string>
+    <string name="fromkeyguard_not_permission">Για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία, ξεκλειδώστε πρώτα τη συσκευή σας.</string>
     <string name="front_camera_hint_text_place">Η λήψη selfies θα είναι ευκολότερη\nαν περιστρέψετε το τηλέφωνό σας</string>
     <string name="front_camera_hint_text_rotate">Περιστρέψτε το τηλέφωνό σας</string>
     <string name="hand_gesture_open_tip">Δείξτε την παλάμη για εκκίνηση του χρονοδιακόπτη</string>
@@ -760,6 +770,7 @@
     <string name="live_workspace_title">Πρόχειρα</string>
     <string name="live_workspace_title_edit">Επιλογή στοιχείων για διαγραφή</string>
     <string name="location_access_allow">Συμφωνώ</string>
+    <string name="location_fromkeyguard_not_permission">"Η Κάμερα δεν επιτρέπεται να έχει πρόσβαση στην τοποθεσία σας τώρα. Ξεκλειδώστε πρώτα τη συσκευή σας."</string>
     <string name="location_permission_des">Απομνημόνευση τοποθεσιών για φωτογραφίες και βίντεο</string>
     <string name="location_permission_not_ask_again">Να επιτρέπεται στην κάμερα η πρόσβαση στη θέση σας στις Ρυθμίσεις.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Αποδοχή</string>
@@ -767,6 +778,19 @@
     <string name="lpl_dialog_item_name_burst">Παρατεταμένα για συνεχείς λήψεις</string>
     <string name="lpl_dialog_item_name_record">Παρατεταμένα για εγγραφή βίντεο</string>
     <string name="lpl_dialog_title">Επιλέξτε λειτουργία κλείστρου</string>
+    <string name="lunch_audio_permission_des">Για εγγραφή βίντεο με ήχο</string>
+    <string name="lunch_audio_permission_not_ask_again">Επιτρέψτε σε αυτή την εφαρμογή να καταγράφει ήχο για να μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="lunch_camera_audio_permission_not_ask_again">Επιτρέψτε σε αυτή την εφαρμογή να χρησιμοποιεί την κάμερα και να καταγράφει ήχο για να μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="lunch_camera_permission_des">Για λήψη φωτογραφιών και εγγραφή βίντεο</string>
+    <string name="lunch_camera_permission_not_ask_again">Επιτρέψτε σε αυτή την εφαρμογή να χρησιμοποιεί την κάμερα για να μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="lunch_camera_storge_permission_not_ask_again">Allow this app to use camera and access storage to be able to use this feature.</string>
+    <string name="lunch_dialog_setting">Ρυθμίσεις</string>
+    <string name="lunch_fromkeyguard_not_permission">"Η κάμερα δεν έχει δικαίωμα να εκτελέσει αυτή την ενέργεια τώρα. Ξεκλειδώστε πρώτα τη συσκευή σας."</string>
+    <string name="lunch_fromkeyguard_not_permission_dialog_ok">Κατανοητό</string>
+    <string name="lunch_permission_not_ask_again">Επιτρέψτε σε αυτή την εφαρμογή να χρησιμοποιεί την κάμερα, να έχει πρόσβαση στον αποθηκευτικό χώρο και να εγγράφει ήχο για να μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="lunch_storge_audio_permission_not_ask_again">Επιτρέψτε σε αυτή την εφαρμογή να έχει πρόσβαση στον αποθηκευτικό χώρο και να εγγράφει ήχο για να μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="lunch_storge_permission_des">Για αποθήκευση και προβολή φωτογραφιών και βίντεο</string>
+    <string name="lunch_storge_permission_not_ask_again">Επιτρέψτε σε αυτή την εφαρμογή να έχει πρόσβαση στον αποθηκευτικό χώρο για να μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="lying_direct_hint">Τρέχων προσανατολισμός</string>
     <string name="macro_mode">Λειτουργία Macro</string>
     <string name="macro_mode_tip">Η απόσταση μεταξύ φακού και αντικειμένου δεν πρέπει να υπερβαίνει τα 10εκ</string>
@@ -780,6 +804,7 @@
     <string name="makeup_effect_entry_vitality">Ζωντάνια</string>
     <string name="makeup_reset_toast">Εκκαθαρίστηκαν επιτυχώς τα εφέ μακιγιάζ</string>
     <string name="manual_picture_style">Παράμετροι</string>
+    <string name="manually_raw_tip">"Δεν μπορείτε να χρησιμοποιήσετε το ζουμ σε τύπο RAW"</string>
     <string name="masterfilter_description_title">Φίλτρα ταινίας</string>
     <string name="message_snap_double_confirm">Με το πάτημα του κουμπιού έντασης ενεργοποιείται το NFC. Αντικατάσταση αυτής της λειτουργίας;</string>
     <string name="mimoji_app_name">Fun Cam</string>
@@ -904,6 +929,8 @@
     <string name="mode_edit_cancel">Ακύρωση</string>
     <string name="mode_edit_exit">Εξοδος</string>
     <string name="mode_edit_exit_message">Όλες οι αλλαγές θα χαθούν αν βγείτε τώρα. Έξοδος ούτως ή άλλως;</string>
+    <string name="mode_edit_photo_disable">Παύση λήψης φωτό</string>
+    <string name="mode_edit_video_disable">Παύση εγγραφής βίντεο</string>
     <string name="module_name_beauty">Αισθητική</string>
     <string name="module_name_capture">Φωτογραφία</string>
     <string name="module_name_clone">Κλώνος</string>
@@ -1053,6 +1080,8 @@
     <string name="pref_audio_focus_entry_general">Κανονική</string>
     <string name="pref_audio_focus_entry_rear">Πίσω</string>
     <string name="pref_audio_focus_title">Εστίαση ήχου</string>
+    <string name="pref_auto_boot">Αυτόματη έναρξη</string>
+    <string name="pref_auto_boot_summary">Κάντε την Κάμερα πιο ευέλικτη, επιτρέποντάς την αυτόματη εκκίνηση. Μπορείτε να διαχειριστείτε τις άδειες αυτόματης εκκίνησης στις πληροφορίες της εφαρμογής.</string>
     <string name="pref_burst_shoot_title">Συνεχείς Λήψεις</string>
     <string name="pref_camcorder_settings">Βίντεο</string>
     <string name="pref_camcorder_settings_category">Ρυθμίσεις κάμερας</string>
@@ -1668,8 +1697,8 @@
     <string name="video_tag_flag_title">Σήμανση</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
-    <string name="vlog_video_trans_code_cons">Εισαγωγή…</string>
     <string name="view_privacy_policy">Προβολή Πολιτικής Απορρήτου</string>
+    <string name="vlog_video_trans_code_cons">Εισαγωγή…</string>
     <string name="vv_duartion_hint">%1$s | Τμήμα %2$d | %3$ss</string>
     <string name="vv_hint">Μπορείτε τη λήψη vlogs μόνο σε οριζόντια λειτουργία</string>
     <string name="vv_mode_menu_item_name">VLOG</string>
