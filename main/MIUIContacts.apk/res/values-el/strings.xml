@@ -1133,7 +1133,7 @@
     <string name="privacy_password_title2">Χρήση κωδικού πρόσβασης προστασίας προσωπικών δεδομένων</string>
     <string name="privacy_password_title3">Αναβαθμίστε τον κωδικό πρόσβασής σας</string>
     <string name="privacy_password_title4">Ο κωδικός πρόσβασης αναβαθμίστηκε</string>
-    <string name="privacy_settings_call_phone">Κλήσεις</string>
+    <string name="privacy_settings_call_phone">Πραγμ/ποίηση κλήσεων</string>
     <string name="privacy_settings_call_phone_description">Για πραγματοποίηση κλήσεων σε εφαρμογές τρίτων</string>
     <string name="privacy_settings_contacts">Επαφές και τηλέφωνο</string>
     <string name="privacy_settings_mallowed">Παραχωρήθηκε</string>

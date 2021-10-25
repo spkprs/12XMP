@@ -36,6 +36,7 @@
     <string name="alert_message_delete_record">Η διαγραφή της εγγραφής από τη συσκευή σας θα διαγράψει επίσης αυτήν την εγγραφή από το Xiaomi Cloud. Διαγραφή τώρα;</string>
     <string name="alert_message_delete_record_title">Διαγραφή εγγραφής;</string>
     <string name="all_record">Όλες οι εγγραφές</string>
+    <string name="allowed">Παραχωρήθηκε</string>
     <string name="app_name">Ηχογράφηση</string>
     <string name="app_record">Εφαρμογή εγγραφών</string>
     <string name="app_record_preference_title">Εφαρμογή εγγραφών</string>
@@ -151,6 +152,7 @@
     <string name="no_playback_file">Επιλέξτε μια εγγραφή για λεπτομέρειες</string>
     <string name="no_records">Χωρίς ηχογραφήσεις ακόμη εδώ</string>
     <string name="normal_settings_pref_title">Γενικές ρυθμίσεις</string>
+    <string name="not_allowed">Δεν Παραχωρήθηκε</string>
     <string name="not_set">Δεν ορίστηκε</string>
     <string name="notification_message_all_paused">Αναμονή για σύνδεση Wi‑Fi.</string>
     <string name="notification_playback">Αναπαραγωγή…</string>
@@ -195,6 +197,15 @@
     <string name="pay_error_cancel">Η πληρωμή ακυρώθηκε</string>
     <string name="pay_error_null">Πληρωμή απέτυχε, έλεγχος λογαριασμού</string>
     <string name="pay_error_unknown">Αγνωστο σφάλμα</string>
+    <string name="permission_desc">Λεπτομέρειες αδειών</string>
+    <string name="permission_dialog_cancel">Ακύρωση</string>
+    <string name="permission_dialog_ok">Ρυθμίσεις</string>
+    <string name="permission_record">Εγγραφή ήχου</string>
+    <string name="permission_record_description">Για την παροχή υπηρεσιών ηχογράφησης</string>
+    <string name="permission_storage">Πρόσβαση Αποθήκευσης</string>
+    <string name="permission_storage_description">Για τη διαχείριση εγγραφών και τη λήψη τους από το cloud</string>
+    <string name="permission_storage_description_for_download">Για λήψη εγγραφών από το cloud</string>
+    <string name="permission_storage_description_for_manage_files">Για τη διαχείριση εγγραφών</string>
     <string name="play_speed">%1$.1fX ταχ.</string>
     <string name="playback_delete_records">Διαγραφή εγγραφής</string>
     <string name="playback_share_records">Κοινή χρήση εγγραφής</string>
@@ -215,6 +226,7 @@
     <string name="preference_status_bar_indicator_prompt">Εμφάνιση μπλε ένδειξης στην οθόνη κλειδ/τος στην εγγραφή</string>
     <string name="preference_tip_rename">Χειροκίνητη μετονομασία εγγραφών</string>
     <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
+    <string name="privacy_settings">Απόρρητο</string>
     <string name="recognition_button_add_to_queue">Προσθήκη στην ουρά</string>
     <string name="recognition_button_cancel">Όχι τώρα</string>
     <string name="recognition_button_start">Μετεγγραφή</string>
@@ -282,6 +294,7 @@
     <string name="record_mark_point">Σημειώσεις %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute" />
+    <string name="record_permission_dialog_title">Απαιτούνται άδειες μικροφώνου</string>
     <string name="record_quliaty_preference_title">Ποιότητα εγγραφής</string>
     <string name="record_resotre">Ανάκτηση αρχείων</string>
     <string name="recorder_record">Ήχος</string>
@@ -339,6 +352,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Ηχογράφηση…</string>
     <string name="status_bar_recording_pause">Ηχογράφηση σε παύση</string>
+    <string name="storage_permission_dialog_title">Απαιτούνται άδειες αποθήκευσης</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="tab_all">Όλα</string>
     <string name="tab_apps">Εφαρμ.</string>
@@ -374,6 +388,7 @@
     <string name="user_feedback">Σχόλια</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="view_privacy">Προβολή πολιτικής απορρήτου</string>
     <string name="webview_check_network">Ρυθμίσεις δικτύου</string>
     <string name="webview_data_error">Παρουσιάστηκε σφάλμα</string>
     <string name="webview_locating_fail">"Δεν ήταν δυνατή η εύρεση της τοποθεσίας σας"</string>

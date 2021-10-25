@@ -5701,6 +5701,7 @@
     <string name="rx_link_speed">%1$d Mbps</string>
     <string name="rx_link_speed_label">Λάβετε ταχύτητα σύνδεσης:</string>
     <string name="rx_wifi_speed">Λήψη ταχύτητας σύνδεσης</string>
+    <string name="safe_install_mode_settings">Ασφαλής λειτουργία</string>
     <string name="safety_and_regulatory_info">Εγχειρίδιο ασφάλειας &amp; κανονισμών</string>
     <string name="sar">RF Πληροφορίες έκθεσης</string>
     <string name="saturday">Σάββατο</string>

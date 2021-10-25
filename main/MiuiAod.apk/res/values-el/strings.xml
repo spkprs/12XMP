@@ -188,6 +188,7 @@
     <string name="super_wallpaper_date">EE\ndd.M.</string>
     <string name="super_wallpaper_date_inter">EEEE\ndd.M.</string>
     <string name="temporary_style">Επιλεγμένο χρόνο</string>
+    <string name="temporary_style_5">Για 5 δευτ. μετά το πάτημα</string>
     <string name="temporary_style_summary">Συνιστάται</string>
     <string name="text_color">Χρώμα κειμένου</string>
     <string name="text_length_exceed_limit_alert">*Το κείμενο που πληκτρολογήσατε είναι πολύ μεγάλο</string>
