@@ -104,6 +104,9 @@
     <string name="file_transfer_progress">Πρόοδος: %1$d%%</string>
     <string name="file_transfer_progress_title">Πρόοδος</string>
     <string name="functions_are_being_developed">Αυτή η λειτουργία θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>
+    <string name="global_pad">Το Τάμπλετ μου</string>
+    <string name="global_pc">Το Λάπτοπ μου</string>
+    <string name="global_phone">Το Τηλεφωνό μου</string>
     <string name="go_to_settings">Ρυθμίσεις</string>
     <string name="guide_summary_1">Το άλλο άτομο μπορεί να πατήσει το κουμπί εναλλαγής στον πίνακα ειδοποιήσεων</string>
     <string name="guide_summary_2">"Επιλέξτε τη συσκευή στην οποία θέλετε να στείλετε στοιχεία και πατήστε το εικονίδιό της"</string>

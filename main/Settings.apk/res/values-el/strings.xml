@@ -1713,6 +1713,7 @@
     <string name="confirm_privacy_password">Εισάγετε τον κωδικό Προσωπικής προστασίας</string>
     <string name="confirm_privacy_password_fingerprint">Σαρώστε τον δακτυλικό αποτύπωμα ή Εισάγετε τον κωδικό Προσωπικής προστασίας</string>
     <string name="confirm_reset_aaid">OK</string>
+    <string name="connect_help">Βοήθεια σύνδεσης</string>
     <string name="connect_later">Δεν είναι δυνατή η σύνδεση σε αυτό το δίκτυο αυτήν τη στιγμή. Προσπαθήστε ξανά αργότερα.</string>
     <string name="connect_mode">Τύπος σύνδεσης</string>
     <string name="connect_to_internet">Σύνδεση στο δίκτυο</string>
@@ -5701,6 +5702,7 @@
     <string name="rx_link_speed">%1$d Mbps</string>
     <string name="rx_link_speed_label">Λάβετε ταχύτητα σύνδεσης:</string>
     <string name="rx_wifi_speed">Λήψη ταχύτητας σύνδεσης</string>
+    <string name="safe_install_mode_settings">Ασφαλής λειτουργία</string>
     <string name="safety_and_regulatory_info">Εγχειρίδιο ασφάλειας &amp; κανονισμών</string>
     <string name="sar">RF Πληροφορίες έκθεσης</string>
     <string name="saturday">Σάββατο</string>

@@ -64,4 +64,8 @@
         <item quantity="one">πριν 1 λεπτό</item>
         <item quantity="other">πριν %d λεπ</item>
     </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">Η διάρκεια αναπ/γής για κινούμενα σχέδια δεν μπορεί να υπερβαίνει τα %d δευτ.\nΣε αυτό το σημείο θα διακόπτονται οι μεγάλες κινήσεις.</item>
+        <item quantity="one">Η διάρκεια αναπ/γής για κινούμενα σχέδια δεν μπορεί να υπερβαίνει τα %d δευτ.\nΣε αυτό το σημείο θα διακόπτονται οι μεγάλες κινήσεις.</item>
+    </plurals>
 </resources>

@@ -70,6 +70,9 @@
      <string name="sys_notification_async_open_failed_title">Δεν ήταν δυνατή η ενεργοποίηση της λειτουργίας Εύρεση συσκευής</string>
      <string name="sys_notification_async_verify_content">Η ενημερωμένη Πολιτική Ασφαλείας απαιτεί την επανενεργοποίηση της Εύρεσης συσκευής .</string>
      <string name="sys_notification_async_verify_title">Ενεργοποιήστε ξανά τη λειτουργία Εύρεση συσκευής</string>
+     <string name="talkback_back">Πίσω</string>
+     <string name="talkback_hide_pwd">Απόκρυψη κωδικού</string>
+     <string name="talkback_show_pwd">Εμφάνιση κωδικού</string>
      <string name="time_correction_failure">Αδυναμία διόρθωσης ώρας. %s</string>
      <string name="time_correction_success">Η ώρα διορθώθηκε</string>
      <string name="unlock">Ενεργοποίηση</string>

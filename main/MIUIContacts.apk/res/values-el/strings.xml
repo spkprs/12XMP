@@ -836,6 +836,8 @@
     <string name="miprofile_switch_on_alertdialog_title">Ενημέρωση φωτογραφίας προφίλ</string>
     <string name="missing_name">(Ανώνυμο)</string>
     <string name="missing_required_permission">Έχετε απενεργοποιήσει την απαιτούμενη άδεια.</string>
+    <string name="miuix_access_state_desc">Επιλεγμένα</string>
+    <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
@@ -853,6 +855,8 @@
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
+    <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -1012,6 +1016,7 @@
     <string name="permission_notice_desc_access_fine_location">Για την εισαγωγή επαφών από άλλες συσκευές μέσω Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Για τη χρήση του φωνητικού ταχυδρομείου και της λειτουργίας ηχητικών μηνυμάτων</string>
     <string name="permission_notice_desc_call_phone">Για πραγματοποίηση κλήσεων σε εφαρμογές τρίτων</string>
+    <string name="permission_notice_desc_call_phone_for_pad">Για πραγμ/ποίηση κλήσεων σε εφαρμογές τρίτων</string>
     <string name="permission_notice_desc_camera">Για τη λήψη φωτογραφιών προφίλ</string>
     <string name="permission_notice_desc_read_call_logs">Για την προβολή του ιστορικού κλήσεων</string>
     <string name="permission_notice_desc_read_contacts">Για προβολή επαφών</string>
@@ -1133,9 +1138,12 @@
     <string name="privacy_password_title2">Χρήση κωδικού πρόσβασης προστασίας προσωπικών δεδομένων</string>
     <string name="privacy_password_title3">Αναβαθμίστε τον κωδικό πρόσβασής σας</string>
     <string name="privacy_password_title4">Ο κωδικός πρόσβασης αναβαθμίστηκε</string>
-    <string name="privacy_settings_call_phone">Κλήσεις</string>
+    <string name="privacy_settings_call_phone">Πραγμ/ποίηση κλήσεων</string>
     <string name="privacy_settings_call_phone_description">Για πραγματοποίηση κλήσεων σε εφαρμογές τρίτων</string>
+    <string name="privacy_settings_call_phone_description_for_pad">Για πραγμ/ποίηση κλήσεων σε εφαρμογές τρίτων</string>
+    <string name="privacy_settings_call_phone_for_pad">Πραγμ/ποίηση κλήσεων</string>
     <string name="privacy_settings_contacts">Επαφές και τηλέφωνο</string>
+    <string name="privacy_settings_contacts_for_pad">Απόρρητο</string>
     <string name="privacy_settings_mallowed">Παραχωρήθηκε</string>
     <string name="privacy_settings_mnotallowed">Δεν παραχωρήθηκε</string>
     <string name="privacy_settings_permission_description">Λεπτομέρειες αδειών</string>
@@ -1501,6 +1509,7 @@
     <string name="toast_not_show_read_contacts_perm_req">Για να είναι δυνατή η προβολή επαφών, επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση πρώτα στις επαφές.</string>
     <string name="toast_not_show_read_phone_state_perm_req">Για να μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή με την κάρτα SIM, επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση πρώτα στις πληροφορίες της συσκευής.</string>
     <string name="toast_not_show_storage_perm_req">Για να μπορείτε να προσθέτετε φωτογραφίες προφίλ και να εισάγετε vCards, επιτρέψτε σε αυτή την εφαρμογή να αποκτήσει πρόσβαση πρώτα στο χώρο αποθήκευσης.</string>
+    <string name="toast_not_show_storage_perm_req_for_pad">Για να μπορείτε να προσθέσετε φωτογραφίες προφίλ και εισαγωγή vCards, επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση πρώτα στον χώρο αποθήκευσης.</string>
     <string name="toast_not_show_write_calllogs_perm_req">Για να μπορείτε να διατηρείτε ενημερωμένο το ιστορικό κλήσεων, επιτρέψτε σε αυτήν την εφαρμογή να επεξεργαστεί πρώτα το ιστορικό κλήσεων.</string>
     <string name="toast_not_show_write_contacts_perm_req">Για να είναι δυνατή η προβολή επαφών, επιτρέψτε σε αυτήν την εφαρμογή να επεξεργάζεται πρώτα τις επαφές.</string>
     <string name="toast_start_intent_failed">Δεν ήταν δυνατή η εύρεση εφαρμογών για τη διαχείριση αυτής της ενέργειας</string>

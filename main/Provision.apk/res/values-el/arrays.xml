@@ -6,4 +6,8 @@
         <item>Wi-Fi μόνο</item>
         <item>Ανενεργό</item>
      </string-array>
+    <plurals name="authorization_status_hold_time">
+        <item quantity="other">%d δευτ.</item>
+        <item quantity="one">%d δευτ.</item>
+    </plurals>
 </resources>

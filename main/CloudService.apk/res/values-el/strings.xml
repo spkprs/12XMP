@@ -160,6 +160,7 @@
     <string name="finddevice_miservice_notification_content">Εάν χαθεί, κλειδώστε τη συσκευή σας από απόσταση</string>
     <string name="finddevice_miservice_notification_title">Ενεργοποίηση Εύρεση συσκευής</string>
     <string name="forget_password"><u>Ξέχασα τον κωδικό</u></string>
+    <string name="gallery_auto_sync_fail_noti_content">Ανεπαρκής χώρος αποθήκευσης στο cloud. Αναβαθμίστε για συγχρονισμό φωτό και βίντεο.</string>
     <string name="help_and_feedback">Βοήθεια &amp; σχόλια</string>
     <string name="hint_restore_cross_space">Η διάταξη της αρχικής οθόνης ενδέχεται να μην εμφανίζεται σωστά εάν μεταφέρετε αντικείμενα μεταξύ χώρων.</string>
     <string name="hybrid_provider">Παρέχεται από %1$s</string>
@@ -808,6 +809,8 @@
     <string name="sync_sub_2_intl_sms">Ο φορέας σας μπορεί να χρεώσει για 2 διεθνή μηνύματα SMS που χρησιμοποιούνται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
     <string name="sync_sub_2_sms">Ο φορέας σας μπορεί να χρεώσει για 2 μηνύματα SMS που χρησιμοποιούνται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
     <string name="system_busy_or_network_error">Παρουσιάστηκε σφάλμα. Περιμένετε ένα λεπτό και δοκιμάστε ξανά.</string>
+    <string name="talkback_hide_passcode">Απόκρυψη κωδικού</string>
+    <string name="talkback_show_passcode">Εμφάνιση κωδικού</string>
     <string name="tip_short_cut_added_success">Δημιουργήθηκε με επιτυχία</string>
     <string name="tip_short_cut_already_added">Δημιουργήθηκε</string>
     <string name="title_back">Πίσω</string>
