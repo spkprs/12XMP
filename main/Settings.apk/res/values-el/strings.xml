@@ -4118,7 +4118,7 @@
     <string name="miheadset_formal">Τυπικό</string>
     <string name="miheadset_game_mode">Λειτουργία παιχνιδιών</string>
     <string name="miheadset_game_mode_summary">Μείωση καθυστέρησης ήχου κατά την αναπαραγωγή παιχνιδιών</string>
-    <string name="miheadset_hd_audio_summary">Υποστηρίζει αναπ/γή ήχου υψηλής ανάλυσης 24-bit/96kHz</string>
+    <string name="miheadset_hd_audio_summary">Αναπ/γη %1$d-bit/%2$d kHz ήχος υψηλής πιστότητας</string>
     <string name="miheadset_hd_audio_title">HD ήχος</string>
     <string name="miheadset_ignore">Κατάργηση ζεύξης</string>
     <string name="miheadset_in_ear_check">Ανίχνευση εντός αυτιού</string>

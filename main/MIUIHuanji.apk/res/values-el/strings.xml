@@ -18,6 +18,7 @@
     <string name="antispam">Λίστα των μπλοκαρισμένων</string>
     <string name="app_name">Mi Mover</string>
     <string name="appname_app_data_suffix">%1$s δεδομένα εφαρμογής</string>
+    <string name="app_update_title">Ενημ/ση όλων των εφαρμ.</string>
     <string name="audio">Ήχος</string>
     <string name="audio_video_document">Ήχος, βίντεο και έγγραφα</string>
     <string name="back">Πίσω</string>

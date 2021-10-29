@@ -156,6 +156,9 @@
     <string name="adjust_traffic_carrier_summary_two_day_before">Ενημερώθηκε πριν 2 μέρες</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Ενημερώθηκε χθες στις %s</string>
     <string name="adjust_traffic_data">Ορισμός χρήσης δεδομένων</string>
+    <string name="adv_permission_text">Άδειες</string>
+    <string name="adv_privacy_text">Απόρρητο</string>
+    <string name="adv_version_text">Έκδοση: %s</string>
     <string name="after_the_lock_screen">Η εφαρμογή κλειδώνει μαζί με την οθόνη. Μπορείτε να το αλλάξετε αυτό στις ρυθμίσεις του Κλειδώματος Εφαρμογής.</string>
     <string name="afternoon">Απόγευμα</string>
     <string name="ai_allow_all">Αυτόματα για όλες τις περιπτώσεις</string>
@@ -2089,10 +2092,10 @@
     <string name="gtb_dialog_btn_open">Ενεργοποίηση</string>
     <string name="gtb_dialog_hint_smart_5g">Μπορείτε να ενεργοποιήσετε και να απενεργοποιήσετε αυτό το χαρακτηριστικό στο Game Turbo > Ρυθμίσεις.</string>
     <string name="gtb_dialog_privacy_speed_message">"Πρόκειται να χρησιμοποιήσετε το Xunyou Game Booster. Αυτή η υπηρεσία θα συλλέξει το αναγνωριστικό του λογαριασμού σας Mi για να καταγράψει τη διάρκεια της συμμετοχής σας."</string>
-    <string name="gtb_dialog_privacy_speed_tips">"Διάβασα και συμφώνησα με την Πολιτική απορρήτου του Xunyou Game Booster."</string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>"Διάβασα και συμφώνησα με την Xunyou Game Booster &lt;a href=\"%1$s\">Πολιτική απορρήτου.&lt;/a>"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
     <string name="gtb_dialog_privacy_voice_message">"Πρόκειται να χρησιμοποιήσετε το Xunyou Game Voice Changer. Αυτή η υπηρεσία θα συλλέξει το αναγνωριστικό του λογαριασμού σας Mi για να καταγράψει τη διάρκεια της συμμετοχής σας."</string>
-    <string name="gtb_dialog_privacy_voice_tips">"Διάβασα και συμφώνησα με την Πολιτική απορρήτου της Xunyou Game Voice Changer."</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>"Διάβασα και συμφώνησα με την Xunyou Game Voice Changer &lt;a href=\"%1$s\">Πολιτική απορρήτου.&lt;/a>"</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
     <string name="gtb_dialog_summary_smart_5g">Όποτε το Game Turbo εντοπίζει ένα δίκτυο 5G, μπορεί να συνδέσει τη συσκευή σας στο καλύτερο διαθέσιμο δίκτυο για τη μείωση της καθυστέρησης του δικτύου. Να ενεργοποιηθεί τώρα αυτή η δυνατότητα;</string>
     <string name="gtb_dialog_title_smart_5g">Βελτιστοποίηση δικτύου 5G</string>
@@ -4960,11 +4963,16 @@
     <string name="vb_ve_settings_display_style_tips_new">*Τα εφέ θα εφαρμοστούν μόνο στην περιοχή αναπαραγωγής βίντεο</string>
     <string name="vb_ve_settings_pic_border_stronger">Βελτιωμένα περιγράμματα</string>
     <string name="vb_ve_settings_picture_stronger">Βελτιωμένα κινούμενα γραφικά</string>
+    <string name="vb_video_effects_3d">Ήχος surround</string>
+    <string name="vb_video_effects_3d_summary">Βελτιώστε το βάθος της αναπαραγωγής ήχου σε ακουστικά &amp; ηχεία</string>
+    <string name="vb_video_effects_3d_surround">Ήχος surround</string>
     <string name="vb_video_effects_display_style">Στυλ</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Βελτιωμένος διάλογος</string>
     <string name="vb_video_effects_dolby_headset">" (Μόνο ακουστικά)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos ενεργό</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Εκτεταμένο στερεοφωνικό</string>
+    <string name="vb_video_effects_liquid_summary">Βελτίωση της ευκρίνειας των διαλόγων στα βίντεο</string>
+    <string name="vb_video_effects_only_headphone">Λειτουργεί μόνο σε ακουστικά</string>
     <string name="vb_video_effects_setting_black_white">B&amp;W</string>
     <string name="vb_video_effects_setting_cinema">Cinema</string>
     <string name="vb_video_effects_setting_girl">Κόκκινο</string>
@@ -4982,6 +4990,9 @@
     <string name="vb_video_effects_setting_warmth">Ζεστό</string>
     <string name="vb_video_effects_settings_liquid">Σαφήνεια</string>
     <string name="vb_video_effects_settings_stereo">Ένταση</string>
+    <string name="vb_video_effects_some_headphone">Υποστηρίζεται σε επιλεγμένα μοντέλα ακουστικών</string>
+    <string name="vb_video_effects_spatial">Ήχος σε κίνηση κεφαλής</string>
+    <string name="vb_video_effects_spatial_summary">Ρύθμιση ήχου surround με βάση την κίνηση του κεφαλιού\n*Υποστηρίζεται μόνο σε μοντέλα ακουστικών παιχνιδιών</string>
     <string name="vb_video_effects_srs_premium_sound">Ήχος</string>
     <string name="vb_video_super_division">Αναβάθμιση</string>
     <string name="verify_shut_down_password_content">Να απαιτείται επιβεβαίωση κλειδώματος οθόνης αν η συσκευή σας είναι απενεργοποιημένη ενώ είναι κλειδωμένη</string>

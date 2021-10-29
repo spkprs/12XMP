@@ -9,6 +9,11 @@
     <string name="account_add_title">Επιλέξτε μια υπηρεσία email</string>
     <string name="account_cache_provider">Λογαριασμό Cache Provider</string>
     <string name="account_change">Εναλλαγή λογαριασμών</string>
+    <string name="account_child_dialog_neg_text">Έξοδος</string>
+    <string name="account_child_dialog_pos_text">Αποδοχές Κηδεμόνα</string>
+    <string name="account_child_dialog_text">Αν είστε ανήλικος κάτω των 14 ετών, ενημερώστε τον κηδεμόνα σας ότι πρέπει να διαβάσει &amp; να συμφωνήσει με τη \"Δήλωση της Kingsoft για την Πολιτική Απορρήτου των ανηλίκων\". Θα πρέπει επίσης να ζητήσετε τη συγκατάθεση και την καθοδήγησή του πριν χρησιμοποιήσετε τις υπηρεσίες μας ή πριν μας υποβάλετε οποιαδήποτε προσωπική πληροφορία.\nΓια να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστης, καθώς και τους τρόπους με τους οποίους επεξεργαζόμαστε τα δεδομένα σας, διαβάστε \"Δήλωση της Kingsoft για την Πολιτική Απορρήτου των ανηλίκων\".</string>
+    <string name="account_child_dialog_title">"Δήλωση σχετικά με την Πολιτική Απορρήτου ανηλίκων"</string>
+    <string name="account_child_save_statement">"Δήλωση της Kingsoft σχετικά με την Πολιτική Απορρήτου ανηλίκων"</string>
     <string name="account_duplicate_dlg_message_fmt">Χρησιμοποιείτε ήδη το όνομα χρήστη για τον λογαριασμό \"%s\".</string>
     <string name="account_duplicate_dlg_title">Διπλότυπος λογαριασμός</string>
     <string name="account_failure">Η συνεδρία έληξε</string>
@@ -16,6 +21,12 @@
     <string name="account_options_actionbar_title">Ρυθμίσεις λογαριασμού</string>
     <string name="account_options_sync_title">Ρυθμίσεις συγχρονισμού</string>
     <string name="account_password_spaces_error">Αυτός ο κωδικός ξεκινάει ή τελειώνει με ένα ή παραπάνω χαρακτήρες -κενού-. Πολλοί πάροχοι Email δεν υποστηρίζουν κωδικούς με κενά</string>
+    <string name="account_permission_child_statement">"Δήλωση σχετικά με την Πολιτική Απορρήτου ανηλίκων"</string>
+    <string name="account_permission_dialog_cancel_text">Ανάκληση</string>
+    <string name="account_permission_dialog_text">"Αν συνεχίσετε, θα ανακαλέσετε τη συγκατάθεσή σας για τη Συμφωνία άδειας χρήσης τελικού χρήστη, την Πολιτική απορρήτου και τη Δήλωση προστασίας προσωπικών δεδομένων ανηλίκων. Μετά από αυτό, δεν θα μπορείτε να χρησιμοποιήσετε το WPS Mail και όλα τα δεδομένα που δημιουργούνται σε αυτή τη συσκευή θα διαγραφούν."</string>
+    <string name="account_permission_dialog_title">Ανάκληση συγκατάθεσης</string>
+    <string name="account_permission_private_policy">Πολιτική απορρήτου</string>
+    <string name="account_permission_user_privacy">Άδεια χρήσης τελικού χρήστη</string>
     <string name="account_security_dialog_content_fmt">%s απαιτεί να αναβαθμίσετε τις ρυθμίσεις ασφαλείας σας.</string>
     <string name="account_security_dialog_title">Αναβάθμιση ασφαλείας</string>
     <string name="account_security_policy_explanation_fmt">Ο διακομιστής %s απαιτεί να του επιτρέψετε να ελέγξει απομακρυσμένα μερικές δυνατότητες ασφαλείας για την συσκευή σας.</string>
@@ -180,6 +191,7 @@
     <string name="account_sync_settings_settings">Συγχρονισμός επαφών και ημερολογίου</string>
     <string name="account_sync_settingstip_description">Συγχρονισμός</string>
     <string name="account_waiting_for_folders_msg">Φόρτωση λίστας φακέλων…</string>
+    <string name="privacy_and_private_permission">Συναίνεση στη Συμφωνία Χρήστη &amp; Πολιτική Απορρήτου</string>
     <string name="action_filter">Φίλτρο</string>
     <string name="actionbar_more_option">Περισσότερες επιλογές</string>
     <string name="activity_folder_selection">Επιλέξτε φάκελο</string>
