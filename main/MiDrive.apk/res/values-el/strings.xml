@@ -583,6 +583,15 @@
     <string name="storage_unit_mb">%s MB</string>
     <string name="storage_usb">Συσκευή USB</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="talkback_continue">Συνέχεια</string>
+    <string name="talkback_doc_filter">Κουμπί φίλτρου</string>
+    <string name="talkback_list_play">Αναπ/γή όλων</string>
+    <string name="talkback_next_song">Επόμενο</string>
+    <string name="talkback_pause">Παύση</string>
+    <string name="talkback_play">Αναπ/γή</string>
+    <string name="talkback_previous_song">Προηγ/μενο</string>
+    <string name="talkback_random_play">Τυχαία</string>
+    <string name="talkback_single_play">Επανάληψη</string>
     <string name="temporary_not_available">Αυτή η λειτουργία δεν είναι ακόμη διαθέσιμη</string>
     <string name="text_select_all">Επιλογή όλων</string>
     <string name="text_select_nothing">Αποεπιλογή όλων</string>

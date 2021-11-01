@@ -17,8 +17,8 @@
     <string name="am">ΠΜ</string>
     <string name="antispam">Λίστα των μπλοκαρισμένων</string>
     <string name="app_name">Mi Mover</string>
-    <string name="appname_app_data_suffix">%1$s δεδομένα εφαρμογής</string>
     <string name="app_update_title">Ενημ/ση όλων των εφαρμ.</string>
+    <string name="appname_app_data_suffix">%1$s δεδομένα εφαρμογής</string>
     <string name="audio">Ήχος</string>
     <string name="audio_video_document">Ήχος, βίντεο και έγγραφα</string>
     <string name="back">Πίσω</string>
@@ -261,6 +261,7 @@
     <string name="guest_unfinished_task_alert_message">Φαίνεται ότι έχετε ημιτελείς εργασίες μεταφοράς. Συνεχίζετε με τη μεταφορά;</string>
     <string name="guest_unfinished_task_alert_title">Εργασίες που δεν έχουν ολοκληρωθεί</string>
     <string name="hide_password_description">Απόκρυψη κωδικού πρόσβασης</string>
+    <string name="high_temp_summary">Η συσκευή σας ενδέχεται να θερμανθεί κατά τη μεταφορά μεγάλου όγκου δεδομένων. Αυτό είναι φυσιολογικό και η συσκευή σας θα κρυώσει μετά την ολοκλήρωση της μεταφοράς.</string>
     <string name="host_boot_installation_bottom_tips">Δεν μπορείτε να βρείτε το Mi Mover; Πατήστε για λήψη.</string>
     <string name="host_boot_installation_button">Επόμενο</string>
     <string name="host_boot_installation_content">1. Μεταβείτε στις \"Ρυθμίσεις\" στην παλιά συσκευή σας.\n2. Πληκτρολογήστε \"Mi Mover\" στη γραμμή αναζήτησης.\n3. Πατήστε \"Mi Mover\" στα αποτελέσματα αναζήτησης.</string>
@@ -361,6 +362,7 @@
     <string name="manual_connection_content3">3. Εισάγετε αυτό τον κωδικό πρόσβασης στην παλιά συσκευή για σύνδεση.</string>
     <string name="manual_connection_summary2">"Εάν δεν μπορείτε να βρείτε αυτό το ενεργό σημείο, ανανεώστε τη λίστα των διαθέσιμων δικτύων WI-Fi και δοκιμάστε ξανά."</string>
     <string name="manual_connection_title">Μη αυτόματη σύνδεση στην παλιά συσκευή</string>
+    <string name="message_request_manage_external_storage_perm">Το Mi Mover πρέπει να έχει πρόσβαση σε όλα τα αρχεία αυτής της συσκευής για να μπορέσει να τα μεταφέρει από την παλιά σας συσκευή στη νέα.</string>
     <string name="message_request_package_stats_perm">Το Mi Mover χρειάζεται αυτήν την άδεια για να δεί ποιες εφαρμογές είναι εγκατεστημένες σε μια συσκευή και να τις μεταφέρει αυτές τις εφαρμογές σε μια άλλη.</string>
     <string name="midnight">ΜΜ</string>
     <string name="miui_need_location_permission_summary">\"Επιτρέψτε στο Mi Mover να αποκτήσει πρόσβαση στη τοποθεσία σας, προκειμένου να εντοπίσει κοντινές συσκευές. Θα είναι αδύνατη η χρήση του Mi Mover αν δεν το επιτρέψετε\".</string>
@@ -370,6 +372,7 @@
     <string name="miui_wait_link_message_1">Το πλήκτρο \"Είμαι αποστολέας\" βρίσκεται ακριβώς στην αρχική σελίδα του Mi Mover.</string>
     <string name="miui_wait_link_title_1">%d. Πατήστε \"Είμαι αποστολέας\" και περιμένετε μια στιγμή.</string>
     <string name="miui_wait_link_title_2">%d. Επιλέξτε αυτό το hotspot για την παλιά σας συσκευή για να συνδεθείτε.</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="mms">MMS</string>
     <string name="mms_contacts_calllog">Μηνύματα, επαφές και ιστορικό κλήσεων</string>
     <string name="monday">Δευτέρα</string>
@@ -511,6 +514,7 @@
     <string name="password">Εισάγετε τον κωδικό πρόσβασης</string>
     <string name="password_null">Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός</string>
     <string name="perm_location">Πρόσβαση τοποθεσίας</string>
+    <string name="perm_manage_external_storage">Πρόσβαση σε όλα τα αρχεία</string>
     <string name="perm_package_stats">Αποκτήστε πρόσβαση στα στατιστικά στοιχεία χρήσης της εφαρμογής</string>
     <string name="perm_payment_dspt">Να επιτρέπεται στην εφαρμογή να πληρώνει με τη χρήση της υπηρεσίας Mi Pay</string>
     <string name="perm_payment_lab">Mi Pay</string>
@@ -748,6 +752,7 @@
     <string name="time_spent">Χρόνος: %1$s</string>
     <string name="title_open_wlan">Ενεργοποίηση WIFI</string>
     <string name="title_request_alert_window_perm">Αποδοχή αιωρούμενων παραθύρων</string>
+    <string name="title_request_manage_external_storage_perm">Απαιτούμενες άδειες</string>
     <string name="title_request_package_stats_perm">Απαιτούνται Άδειες</string>
     <string name="title_request_write_settings_perm">Δυνατότητα αλλαγής ρυθμίσεων συστήματος</string>
     <string name="today">Σήμερα</string>

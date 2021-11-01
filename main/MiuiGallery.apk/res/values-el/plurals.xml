@@ -604,4 +604,8 @@
          <item quantity="other">%d τα επιλεγμένα στοιχεία θα διαγραφούν οριστικά. Διαγραφή οπωσδήποτε?</item>
          <item quantity="one">%d τα επιλεγμένο στοιχείο θα διαγραφεί οριστικά. Διαγραφή οπωσδήποτε?</item>
      </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d άλμπουμ συμπερ/μένων %1$s</item>
+        <item quantity="one">%2$d άλμπουμ συμπερ/μένων %1$s</item>
+    </plurals>
 </resources>

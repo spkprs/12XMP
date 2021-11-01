@@ -147,6 +147,13 @@
     <string name="album_page_empty">Κενό</string>
     <string name="album_page_label">Άλμπουμ</string>
     <string name="album_pano_name">Πανόραμα</string>
+    <string name="album_permission_activity_title">Διαχείριση αδειών</string>
+    <string name="album_permission_state_granted">Παραχωρήθηκε</string>
+    <string name="album_permission_state_non_granted">Παραχώρηση</string>
+    <string name="album_permission_subtitle_single">%2$d άλμπουμ ( %1$s)</string>
+    <string name="album_permission_tip_text">Η Συλλογή χρειάζεται άδειες για να συγχρονίζει, επεξεργάζεται, και να διαχειρίζεται τα στοιχεία που εμφανίζονται παρακάτω.</string>
+    <string name="album_permission_title_granted">Παραχωρήθηκε</string>
+    <string name="album_permission_title_non_granted">Χωρίς παραχώρηση</string>
     <string name="album_quota_fulfiled">Πάρα πολλά άλμπουμ. Διαγράψτε μερικά άλμπουμ και δοκιμάστε ξανά.</string>
     <string name="album_rubbish_cant_change_status">Δεν είναι δυνατός ο συγχ/σμός των άλμπουμ που μετακινήθηκαν στα απορρίμματα</string>
     <string name="album_rubbish_clear_all_item_description">Καθαρισμός απορριμμάτων</string>
@@ -280,6 +287,7 @@
     <string name="backup_device_space_low_title">Ανεπαρκής Χώρος</string>
     <string name="backup_dirty_num">Σύνολο: %s</string>
     <string name="backup_dirty_tip">Χωρίς αντίγραφα φωτο &amp; βίντεο</string>
+    <string name="backup_disable_message">Η Συλλογή χρειάζεται καθαρισμό cache εφαρμ, επειδή απεν/ποιήσατε το συγχρονισμό με το cloud.</string>
     <string name="backup_file_over_size_desc">Αδυναμία δημιουργίας αντιγράφων φωτογραφιών μεγαλύτερων από %1$s και βίντεο από %2$s.</string>
     <string name="backup_immediately">Αντίγραφα</string>
     <string name="backup_need_sync_desc">Πατήστε για συνέχεια αντιγράφου</string>
@@ -584,6 +592,7 @@
     <string name="default_relation_name">Νέα ομάδα</string>
     <string name="define_by_user">Προσαρμογή</string>
     <string name="delete">Διαγραφή</string>
+    <string name="delete_account_message">Η Συλλογή χρειάζεται καθαρισμό cache εφαρμ, επειδή έχετε αποσυνδεθεί από τον λογαριασμό Mi.</string>
     <string name="delete_album_failed">Αδυναμία δημιουργίας άλμπουμ</string>
     <string name="delete_album_msg_format">Διαγραφή \"%2$s\" άλμπουμ %1$s %3$s;</string>
     <string name="delete_album_msg_format_cloud">Διαγραφή %1$s %2$s από το Xiaomi Cloud και όλων των συγχρονισμένων συσκευών;</string>
@@ -742,6 +751,8 @@
     <string name="error_storage_full_action">Ελευθερώστε χώρο</string>
     <string name="error_storage_full_msg">Απελευθερώστε χώρο αποθήκευσης στη συσκευή σας και δοκιμάστε ξανά.</string>
     <string name="error_storage_full_tip">Ανεπαρκής Χώρος αποθήκευσης</string>
+    <string name="error_storage_no_write_permission_tip_action">Παραχώρηση</string>
+    <string name="error_storage_no_write_permission_tip_title">"Ορισμένα άλμπουμ απαιτούν άδειες συγχρονισμού. "</string>
     <string name="error_sync_off_action">Ενεργοποιήστε</string>
     <string name="error_sync_off_msg">Βεβαιωθείτε ότι έχετε ενεργοποιήσει το συγχ/σμό με το Xiaomi Cloud.</string>
     <string name="error_sync_off_tip">Ο συγχ/σμός είναι απενεργοποιημένος</string>
@@ -914,6 +925,7 @@
     <string name="filter_popular_autumn">Φθινόπωρο</string>
     <string name="filter_popular_blackred">Σανγκρία</string>
     <string name="filter_popular_bluedream">Ιλιγγιώδης</string>
+    <string name="filter_popular_blues">Blues</string>
     <string name="filter_popular_coffee">Καφές</string>
     <string name="filter_popular_coldsmoke">Δροσερή ομίχλη</string>
     <string name="filter_popular_comic">Anime</string>
@@ -938,6 +950,7 @@
     <string name="filter_popular_smokegreen">Σοφός</string>
     <string name="filter_popular_summercloud">Vesper</string>
     <string name="filter_popular_sunset">Eventide</string>
+    <string name="filter_popular_sunset_gold">Ακτινοβολία</string>
     <string name="filter_popular_wakakusa">Wakakusa</string>
     <string name="filter_popular_watergreen">Έμεραλντ</string>
     <string name="filter_popular_windchime">Chime</string>
@@ -1178,7 +1191,7 @@
     <string name="kilobyteShort">KB</string>
     <string name="limit_height">Το ύψος πρέπει να είναι > 0</string>
     <string name="limit_width">Το πλάτος πρέπει να είναι > 0</string>
-    <string name="live_photo">Ζωντανή φωτό</string>
+    <string name="live_photo">Δυναμική λήψη</string>
     <string name="load_complete">Δεν υπάρχουν άλλα στοιχεία εδώ</string>
     <string name="load_failed">Αδύνατη η φόρτωση των πληροφοριών, δοκιμάσετε ξανά</string>
     <string name="load_relations">Μισό λεπτό…</string>
@@ -1358,6 +1371,7 @@
     <string name="mi_mover_working_desc">Το Mi Mover μεταφέρει στοιχεία…</string>
     <string name="micloud_introduce">Αυτόματος συγχ/σμός φωτογραφιών και βίντεο (απαιτείται λογαριασμός Xiaomi)</string>
     <string name="midnight">Νύχτα</string>
+    <string name="migrate_msg">Ορισμένα άλμπουμ απαιτούν άδειες μετακίνησης στοιχείων μετά από μια ενημέρωση του συστήματος.</string>
     <string name="mishare_all_devices">Όλες οι συσκευές</string>
     <string name="miuix_access_state_desc">Επιλεγμένα</string>
     <string name="miuix_alphabet_indexer_name">Μπάρα ευρετηρίου</string>
@@ -1448,6 +1462,7 @@
     <string name="mosaic_item_talkback_effect8">Flowers</string>
     <string name="mosaic_item_talkback_effect9">Stars</string>
     <string name="mosaic_item_talkback_eraser">Eraser</string>
+    <string name="motion_photo_enter">Δυναμική λήψη</string>
     <string name="motion_photo_play">Αναπαραγωγή</string>
     <string name="move_to_other_albums_tip">Μετακίνηση αυτού του άλμπουμ σε άλλα άλμπουμ;</string>
     <string name="move_to_rubbish_albums_tip">Μετακίνηση των επιλεγμένων άλμπουμ στα απορρίμματα;</string>
@@ -1575,6 +1590,7 @@
     <string name="ocr_using_cellular_text">Η αναγνώριση κειμένου με χρήση δεδομένων κινητής ενδέχεται να δημιουργήσει επιπλέον χρεώσεις από τον πάροχο. Αναγνώριση ούτως ή άλλως;</string>
     <string name="ok">OK</string>
     <string name="onekey_auto">Auto</string>
+    <string name="onekey_beautify_tag_done">Εφαρμοσμένα εφέ</string>
     <string name="onekey_food">Φαγητά</string>
     <string name="onekey_none">Αρχική</string>
     <string name="onekey_portrait">Πορτρέτο</string>
@@ -2012,6 +2028,15 @@
     <string name="rubbish_album_move_to_other_album_success">Μπορείτε να προβάλετε αυτά τα στοιχεία στο \"Άλλα άλμπουμ\" τώρα.</string>
     <string name="rubbish_nomedia_manager_button_text">Διαχείριση άλμπουμ με αρχεία \".nomedia\"</string>
     <string name="runtime_permission_ungranted">Κλειστό Άλμπουμ, χωρίς απαραίτητες άδειες</string>
+    <string name="saf_hyper_link_text">Διαχείριση αδειών</string>
+    <string name="saf_operation_guide_1">"Η Συλλογή χρειάζεται την άδειά σας για προστασία και διαχείριση των δεδομένων σας. "</string>
+    <string name="saf_operation_guide_2">Για να εκχωρήσετε την άδεια, πατήστε \"%1$s\" και, στη συνέχεια, επιλέξτε \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Επόμενο</string>
+    <string name="saf_operation_guide_param2">Πρόσβαση στον φάκελο</string>
+    <string name="saf_requester_cancel">Ακύρωση</string>
+    <string name="saf_requester_title">Αποδοχή στη Συλλογή η πρόσβαση \"%s\"</string>
+    <string name="saf_secret_album">Προσωπικό άλμπουμ</string>
+    <string name="saf_secret_album_guide">Αυτή η εφαρμογή χρειάζεται άδειες για να εμφανίζει στοιχεία από το προσωπικό σας άλμπουμ.</string>
     <string name="same_name_album_exist_and_toast">Ένα άλμπουμ με το ίδιο όνομα υπάρχει ήδη. Δημιουργήθηκε \'%s\' αντί αυτού.</string>
     <string name="samsung_phone">Samsung τηλέφωνο</string>
     <string name="saturday">Σάββατο</string>
@@ -2295,6 +2320,7 @@
     <string name="sticker_tab_talkback_frog">Βάτραχος</string>
     <string name="sticker_tab_talkback_graduate">Αποφοίτηση</string>
     <string name="sticker_tab_talkback_graffito">Μολύβι</string>
+    <string name="sticker_tab_talkback_halloween">Halloween</string>
     <string name="sticker_tab_talkback_line">Γραμμές</string>
     <string name="sticker_tab_talkback_lovely">Εξυπνάδα</string>
     <string name="sticker_tab_talkback_markpen">Μαρκαδόρος</string>
@@ -2570,6 +2596,17 @@
     <string name="unsupported_media_downloading_tip_format">Η προβολή των αρχικών εικόνων %s δεν υποστηρίζεται σε αυτή την έκδοση του Android. Λήψη οπωσδήποτε;</string>
     <string name="unsupported_media_scanned_tip">Εντοπίστηκαν %1$s εικόνες. Η προβολή εικόνων %2$s δεν υποστηρίζεται σε αυτήν την έκδοση του Android.\"</string>
     <string name="unsupported_media_view_tip">Η προβολή των πρωτότυπων εικόνων %s δεν υποστηρίζεται σε αυτήν την έκδοση του Android</string>
+    <string name="update_apk_size">Ενημέρωση μεγέθους πακέτου：%sMB</string>
+    <string name="update_btn_exit">Πίσω</string>
+    <string name="update_btn_negative">Καθυστέρηση</string>
+    <string name="update_btn_positive">Ενημέρωση</string>
+    <string name="update_check">Έλεγχος για ενημερώσεις</string>
+    <string name="update_check_title">Τρέχουσα έκδοση: %s</string>
+    <string name="update_ignore">Αγνόηση</string>
+    <string name="update_latest_version">Ήδη η τελευταία έκδοση</string>
+    <string name="update_network_error">Ελέγξτε το δίκτυο και δοκιμάστε ξανά</string>
+    <string name="update_new_version">Βρέθηκε νέα έκδοση</string>
+    <string name="update_title">Βρέθηκε νέα έκδοση V%s</string>
     <string name="user_agree">Συμφωνώ</string>
     <string name="user_agreement2">" Όροι Χρήσης"</string>
     <string name="user_agreement4">Πολιτική Απορρήτου</string>
@@ -2972,6 +3009,9 @@
     <string name="widget_talkback_custom">Συλλογή. Επιλεγμένες εικόνες.</string>
     <string name="widget_talkback_recommend">Συλλογή. Αναμνήσεις.</string>
     <string name="xiaomi_account_not_exists_toast">Ο λογαριασμός Mi δεν υπάρχει</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Όχι τώρα</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Είναι διαθέσιμη μια ενημέρωση</string>
     <string name="yes">Ναι</string>
     <string name="yesterday">Χθές</string>
     <string name="you_are">Είσαι το μωρό</string>

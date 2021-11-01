@@ -87,6 +87,8 @@
     <string name="app_setting">Εφαρμογές</string>
     <string name="audio_permission_dialog_desc">Η άδεια εγγραφής ήχου έχει κλείσει, ανοίξτε την.</string>
     <string name="audio_permission_dialog_title">Εκχώρηση άδειας εγγραφής ήχου</string>
+    <string name="audio_permission_subtitle">Για ανίχνευση ροχαλητού και ομιλίας</string>
+    <string name="audio_permission_title">Εγγραφή ήχου</string>
     <string name="audio_record_perm_description">Καταγράψτε το ροχαλητό και τα όνειρά σας κατά τη διάρκεια του ύπνου</string>
     <string name="audio_record_permission_description">Για την καταγραφή της ομιλίας και ροχαλητό αναλύοντας τον κύκλο ύπνου σας</string>
     <string name="auth_description">Επιτρέψτε %1$s για συγχρονισμό δεδομένων από τις ακόλουθες συσκευές</string>
@@ -156,6 +158,8 @@
     <string name="bmi_label">ΔΜΣ</string>
     <string name="body_bmi_descripe_content">Ο δείκτης μάζας σώματος (ΔΜΣ) ορίζεται ως η σωματική μάζα σε χιλιόγραμμα διαιρούμενη με το τετράγωνο του ύψους του σώματος σε μέτρα. Η γνώση του ΔΜΣ σας μπορεί να σας βοηθήσει να καταλάβετε εάν το βάρος σας έχει αρνητικές επιπτώσεις στην υγεία σας.</string>
     <string name="body_composition">Σύνθεση σώματος</string>
+    <string name="body_sport_permission_subtitle">Για την παρακολούθηση των βημάτων σας</string>
+    <string name="body_sport_permission_title">Πρόσβαση σε δεδομένα υγείας και δραστηριότητας</string>
     <string name="body_water">Νερό</string>
     <string name="body_water_descripe_content">Το ποσοστό του νερού του σώματος αναφέρεται στην αναλογία νερού στο συνολικό βάρος του ανθρώπινου σώματος. Συνήθως, ο μυϊκός ιστός περιέχει περισσότερο νερό από άλλα μέρη του σώματος.</string>
     <string name="body_weight">Βάρος</string>
@@ -178,6 +182,8 @@
     <string name="buy">Αγορά</string>
     <string name="calories">calories</string>
     <string name="camera_permission_desc">Για ρύθμιση φωτογραφιών προφίλ</string>
+    <string name="camera_permission_subtitle">Για τη λήψη μεταβολών ροής του αίματος, ανίχνευση καρδιακού ρυθμού και ρύθμιση φωτογραφιών προφίλ</string>
+    <string name="camera_permission_title">Χρήση Κάμερας</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_edit">Απόρριψη αλλαγών</string>
     <string name="cancel_mark_end">Η περίοδος δεν έχει λήξει</string>
@@ -214,6 +220,8 @@
     <string name="completed_stand">Ολοκληρώθηκε η ορθοστασία</string>
     <string name="confirm_opening">Επιβεβαίωση εκκίνησης</string>
     <string name="contact_permission_desc">Για τη ρύθμιση επαφών έκτακτης ανάγκης</string>
+    <string name="contact_permission_subtitle">Για τον καθορισμό επαφών έκτακτης ανάγκης</string>
+    <string name="contact_permission_title">Πρόσβαση σε επαφές</string>
     <string name="copy">Αντιγραφή</string>
     <string name="copy_done">Επιτυχής αντιγραφή</string>
     <string name="copyright_statement">Πνευματικά Δικαιώματα © Xiaomi Inc. Με επιφύλαξη παντός δικαιώματος.</string>
@@ -459,6 +467,8 @@
     <string name="expand_all">Προβολή όλων</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
+    <string name="external_storage_permission_subtitle">Για τη ρύθμιση των φωτογραφιών προφίλ</string>
+    <string name="external_storage_permission_title">Πρόσβαση και αποθήκευση στοιχείων στον Αποθ. χώρο</string>
     <string name="fall_sleep_hard">Δυσκολία στον ύπνο</string>
     <string name="falling_duration">Αποκοιμιέμαι</string>
     <string name="falling_duration_normal_description">Ο ύπνος είναι η περίοδος μεταξύ της έναρξης του ύπνου σας και του ύπνου σας εντελώς. Γνωρίζοντας πόσο καιρό σας παίρνει για να κοιμηθείτε είναι σημαντική για τη θεραπεία της αϋπνίας και άλλων ύπνου που σχετίζονται με τις συνθήκες.</string>
@@ -682,6 +692,8 @@
     <string name="location_permission_dialog_negative">Όχι τώρα</string>
     <string name="location_permission_dialog_positive">Επιτρέπεται</string>
     <string name="location_permission_dialog_title">Απαιτούνται Άδειες τοποθεσίας</string>
+    <string name="location_permission_subtitle">Για την παρακολούθηση υπαίθριων προπονήσεων και την καταγραφή διαδρομών</string>
+    <string name="location_permission_title">Πρόσβαση σε τοποθεσία</string>
     <string name="location_service_dialog_content">Ενεργοποιήστε τις υπηρεσίες τοποθεσίας στις Ρυθμίσεις για να μπορείτε να παρακολουθείτε τα προγράμματα σε εξωτερικούς χώρους.</string>
     <string name="location_service_dialog_negative">Όχι τώρα</string>
     <string name="location_service_dialog_positive">Ενεργοποίηση</string>
@@ -1347,6 +1359,9 @@
     <string name="sport_btn_pause">Παύση</string>
     <string name="sport_btn_unlock">Ξεκλείδωμα</string>
     <string name="sport_counter_begin">Ξεκινήστε άμεσα</string>
+    <string name="sport_data_use_subtitle">Για να παρακολουθούμε τις προπονήσεις σας και την πρόοδο της φυσικής σας κατάστασης, συλλέγουμε και επεξεργαζόμαστε τις πληροφορίες σας, συμπεριλαμβανομένων των διαδρομών προπόνησης, των δεδομένων ύπνου, του καρδιακού ρυθμού και του βάρους.</string>
+    <string name="sport_data_use_tip">"Διαβάστε και συμφωνήστε με &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Πολιτική χρήσης δεδομένων Υγείας και Δραστηριότητας&lt;/a>&lt;/font> για να κατανοήσετε καλύτερα πώς συλλέγουμε και επεξεργαζόμαστε τις πληροφορίες σας. Δεν θα μπορείτε να χρησιμοποιήσετε αυτή την υπηρεσία εάν δεν συναινείτε στη συλλογή και επεξεργασία των πληροφοριών αυτών."</string>
+    <string name="sport_data_use_title">Άδειες δεδομένων</string>
     <string name="sport_home_begin">Έναρξη</string>
     <string name="sport_home_set_goal">Ορισμός στόχου</string>
     <string name="sport_invalid_dialog_distance_content">Η απόσταση αυτή είναι πολύ μικρή για να δημιουργήσει εγγραφή.</string>
@@ -1468,6 +1483,7 @@
     <string name="sync_status_never_done">Δεν έχει συγχρονιστεί</string>
     <string name="sync_status_oauth_error">Ο συγχρονισμός προέλευσης δεδομένων απέτυχε, εξουσιοδοτήστε ξανά</string>
     <string name="system_app_setting">Ρυθμίσεις εφαρμογής συστήματος</string>
+    <string name="system_permission">Λεπτομέρειες αδειών</string>
     <string name="systolic_pressure">Συστολική</string>
     <string name="tb_audio_progress_bar">Μπάρα αναπαραγωγής ήχου</string>
     <string name="tb_blood_pressure_day_chart">%1$s. Υψηλότερη συστολική πίεση: %2$d χιλ. υδραργύρου. Χαμηλότερη διαστολική πίεση: %3$d χιλ. υδραργύρου.</string>

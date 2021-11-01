@@ -305,6 +305,7 @@
     <string name="goon_feedback_main">Συνέχεια</string>
     <string name="goto_sign_up">Δημιουργία λογαριασμού</string>
     <string name="hint_feedback_main">Περιγράψτε το πρόβλημα</string>
+    <string name="i_get_it">Κατανοητό</string>
     <string name="identity">Ταυτοποίηση</string>
     <string name="inconsistent_pwd">Οι κωδικοί πρόσβασης δεν ταιριάζουν</string>
     <string name="input_email_address_notice">Θα χρησιμοποιήσουμε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου για να επαληθεύσουμε τον λογαριασμό σας</string>
@@ -597,6 +598,8 @@
     <string name="preference_copied">\"%1$s\" αντιγραφεί στο πρόχειρο.</string>
     <string name="privacy_category_title">Απόρρητο</string>
     <string name="privacy_policy_title">Πολιτική απορρήτου</string>
+    <string name="privacy_policy_update_hint">%1$s Ενημερώθηκε η Πολιτική Απορρήτου:\n%2$s\nΔιαβάστε και συμφωνήστε με τη νέα έκδοση του %3$s πριν συνεχίσετε.</string>
+    <string name="privacy_policy_update_title">Ενημερωμένη πολιτική απορρήτου</string>
     <string name="psw_hint">Κωδικός πρόσβασης</string>
     <string name="psw_sign_in">Συνδεθείτε χρησιμοποιώντας τον κωδικό πρόσβασης</string>
     <string name="refresh">Ανανέωση</string>
@@ -715,6 +718,8 @@
     <string name="user_avatar_update_title">Αλλαγή φωτογραφίας προφίλ</string>
     <string name="user_avatar_uploading">Μισό λεπτό…</string>
     <string name="user_id_hint">Αναγνωριστικό λογαριασμού email/τηλεφώνου/Mi</string>
+    <string name="user_must_known">Προσοχή</string>
+    <string name="user_must_known_content">"Δεν θα μπορείτε να συνεχίσετε να χρησιμοποιείτε τις υπηρεσίες μας αν δεν συμφωνήσετε με τη νέα έκδοση %s μας. Συμφωνείτε με την ενημερωμένη Πολιτική Απορρήτου τώρα;"</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="v_code_title">Εισάγετε τον κωδικό επαλήθευσης</string>
@@ -722,7 +727,11 @@
     <string name="warning_field_invalid">Επιλέξτε ένα έγκυρο %1$s</string>
     <string name="withdraw">Ανάκληση</string>
     <string name="withdraw_consent">Ανάκληση συγκατάθεσης</string>
+    <string name="withdraw_consent_failed">"Αδυναμία ανάκλησης συγκατάθεσης"</string>
+    <string name="withdraw_consent_failed_hint">Παρουσιάστηκε σφάλμα διακομιστή. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Η συσκευή σας πρέπει να συνδεθεί στο δίκτυο για να μπορέσετε να αποσύρετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
     <string name="withdraw_consent_hint">"Αν συνεχίσετε, θα αποσύρετε τη συγκατάθεσή σας στην Πολιτική απορρήτου της %1$s. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και διατηρηθεί θα διαγραφούν εντός της συγκεκριμένης περιόδου σύμφωνα με τους ισχύοντες νόμους και κανονισμούς, εκτός εάν απαιτείται κάτι διαφορετικό. Καθώς η %2$s παρέχει τις υπηρεσίες της με βάση τη συλλογή των απαραίτητων προσωπικών πληροφοριών, η ανάκληση της συγκατάθεσής σας θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών της %3$s. Ανάκληση συγκατάθεσης τώρα;"</string>
+    <string name="withdrawing">Ανάκληση συγκατάθεσης…</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Η σύνδεση με το Διαχειριστή Λήψεων απέτυχε. Ελέγξτε την κατάστασή του στη Διαχείριση εφαρμογών.</string>
     <string name="xiaomi_update_sdk_dialog_message">Εκδοση εισαγωγής %1$s\nΜέγεθος: %2$s</string>
