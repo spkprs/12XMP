@@ -83,6 +83,7 @@
     <string name="attach_transaction">Μεταφορά χρημάτων</string>
     <string name="attach_video">Βίντεο</string>
     <string name="attach_video_call">Κλήση βίντεο</string>
+    <string name="attachment_panel_show_part">Σελίδα %1$d</string>
     <string name="audio_download_failed">η λήψη ήχου απέτυχε</string>
     <string name="audio_message_expired">Αυτό το φωνητικό μήνυμα έχει λήξει.</string>
     <string name="audio_message_mx_offline">Αδυναμία λήψης ήχου. Το Mi Μήνυμα είναι εκτός λειτουργίας ή δεν είναι διαθέσιμο</string>

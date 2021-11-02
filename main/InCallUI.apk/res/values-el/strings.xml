@@ -6,6 +6,8 @@
     <string name="ai_mode_auto">Αυτόματα</string>
     <string name="ai_mode_manual">Μη αυτόματα</string>
     <string name="ai_mode_subtitles">Υπότιτλοι</string>
+    <string name="antifraud_center">Πλατφόρμα προειδοποίησης κατά της Απάτης</string>
+    <string name="antifraud_center_incoming_prompt">"Μην χάνετε καμία κλήση από την επίσημη πλατφόρμα προειδοποίησης κατά της απάτης"</string>
     <string name="antispam_local_marked">Τοπική σήμανση</string>
     <string name="antispam_notification_title">Άγνωστος αριθμός</string>
     <string name="antispam_provider">Αναγνώριση από %s</string>

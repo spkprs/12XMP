@@ -60,4 +60,8 @@
         <item quantity="other">&lt;Data>Η συσκευή είναι πολύ ζεστή.&lt;br>Αυτή η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευτ.&lt;/b>&lt;/font>. Η τρέχουσα πρόοδος αποθηκεύτηκε αυτόματα.&lt;/Data></item>
         <item quantity="one">&lt;Data>Η συσκευή είναι πολύ ζεστή.&lt;br>Αυτή η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευτ.&lt;/b>&lt;/font>. Η τρέχουσα πρόοδος αποθηκεύτηκε αυτόματα.&lt;/Data></item>
     </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Η συσκευή σας έχει υπερθερμανθεί. Η κάμερα θα κλείσει σε %d δευτ. Οι φωτογραφίες ή τα βίντεό σας θα αποθηκευτούν αυτόματα.</item>
+        <item quantity="one">Η συσκευή σας έχει υπερθερμανθεί. Η κάμερα θα κλείσει σε %d δευτ. Οι φωτογραφίες ή τα βίντεό σας θα αποθηκευτούν αυτόματα.</item>
+    </plurals>
 </resources>

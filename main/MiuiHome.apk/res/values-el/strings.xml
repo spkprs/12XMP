@@ -203,6 +203,13 @@
     <string name="content_description_workspace_thumbnail_item">οθόνη προεπισκόπησης，%1$s</string>
     <string name="copy">Αντιγραφή</string>
     <string name="current_preview">Προεπισκόπηση</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Για κλήσεις σε επαφές έκτακτης ανάγκης στη λειτουργία Lite</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Για εμφάνιση επαφών έκτακτης ανάγκης στη λειτουργία Lite</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Για εμφάνιση της κατάστασης της συσκευής</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Για εμφάνιση widget Ημερολογίου</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">Για εμφάνιση widget Συλλογής</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Για πρόσβαση στο όνομα του widget WLAN στο Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Για πρόσβαση και αποθήκευση δεδομένων Αρχικής Οθόνης</string>
     <string name="current_wallpaper">Τρέχουσα ταπετσαρία</string>
     <string name="custom_wallpaper_picker">Αναζήτηση</string>
     <string name="date_picker_lunar">Κινέζικο Παραδ. Ημερ/γιο</string>

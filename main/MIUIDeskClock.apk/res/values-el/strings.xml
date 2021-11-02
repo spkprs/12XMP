@@ -551,6 +551,10 @@
     <string name="tuesday_shortest">Τρι</string>
     <string name="turn_off_a_repeat_alarm">Διακοπή Αφύπνισης</string>
     <string name="turn_off_this_repeat_alarm">Επαναλαμβανόμενης αφύπνισης</string>
+    <string name="tv_blank_list_other_text">Τίποτα εδώ ακόμα</string>
+    <string name="tv_blank_list_show_text">Τίποτα εδώ ακόμα. Αναζητήστε μια τοποθεσία για να την προσθέσετε στο παγκόσμιο ρολόι σας.</string>
+    <string name="tv_world_clock_edit_title1">Οι Τοποθεσίες εμφανίζονται στην Αρχική οθόνη</string>
+    <string name="tv_world_clock_edit_title2">Άλλες αποθηκευμένες τοποθεσίες</string>
     <string name="upcoming_alarm">Επόμενη Αφύπνιση: %s</string>
     <string name="upcoming_alarm_hint">Διακοπή Αφύπνισης τώρα</string>
     <string name="update_health_app">Ενημέρωση Mi Health</string>
@@ -578,8 +582,10 @@
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
     <string name="week_ringtone_recommend_desc">Ο ήχος της φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Να οριστεί ως προεπιλεγμένος;</string>
+    <string name="white_noise">Θόρυβος περιβάλλοντος</string>
     <string name="white_noise_selector">Επιλογή ήχου</string>
     <string name="workday_alarm_clock">Αφύπνιση εργάσιμης ημέρας</string>
+    <string name="worldclock_edit_label">Παγκόσμιο Ρολόι</string>
     <string name="worldclock_empty_text">Χωρίς ρολόι</string>
     <string name="worldclock_input_hint_text">Εύρεση Χώρας ή Πόλης</string>
     <string name="worldclock_local_time">Τοπική ώρα</string>

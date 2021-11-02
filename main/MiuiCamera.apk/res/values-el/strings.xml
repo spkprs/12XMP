@@ -978,6 +978,11 @@
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="object_track_enable_toast">Για να επιλέξετε ένα αντικείμενο, πατήστε ταυτόχρονα δύο διαγώνια σημεία γύρω του.</string>
     <string name="only_mimoji_multi_window_mode_not_supported">Αυτή η δυνατότητα δεν μπορεί να χρησιμοποιηθεί σε λειτουργία πολλαπλών παραθύρων</string>
+    <string name="pad_cannot_connect_camera_twice">"Ακόμα δεν μπορεί να συνδεθεί με την κάμερα. Δοκιμάστε να επανεκκινήσετε τη συσκευή σας."</string>
+    <string name="pad_close_back_flash_toast">"Η συσκευή σας υπερθερμανθεί. Δεν είναι δυνατή η χρήση φλας τώρα."</string>
+    <string name="pad_close_night_algo_toast_thermal">Ψύξτε τη συσκευή σας για να μπορέσετε να ορίσετε την έκθεση</string>
+    <string name="pad_pref_camera_lying_summary">Ειδοποιήστε σχετικά με τον τρέχοντα προσανατολισμό όταν η συσκευή είναι παράλληλη με το έδαφος</string>
+    <string name="pad_super_night_toast">Κρατήστε τη συσκευή σας σταθερή κατά τη λήψη φωτογραφίας</string>
     <string name="pano_click_to_toggle_direction">Άγγιγμα βέλους για αλλαγή κατεύθυνσης</string>
     <string name="pano_go_on_moving">Συνεχής μετακίνηση  συσκευής κατά μήκος της γραμμής.</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Ευθυγραμμίστε το βέλος με τη γραμμή αναφοράς</string>

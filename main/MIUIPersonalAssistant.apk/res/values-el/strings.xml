@@ -419,7 +419,7 @@
     <string name="pa_shortcut_add_limit">Προσθέσετε έως και %1$d συντομεύσεις</string>
     <string name="pa_shortcut_apps">Εφαρμογές</string>
     <string name="pa_shortcut_desc_add_button">Κάντε κλικ για να προσθέσετε %1$s στην αρχική σελίδα</string>
-    <string name="pa_shortcut_desc_add_button_install">Κάντε κλικ στο Εγκατ. %2$s για χρήση%1$s</string>
+    <string name="pa_shortcut_desc_add_button_install">Για χρήση του %2$s εγκατ/στε το %1$s πρώτα.</string>
     <string name="pa_shortcut_desc_delete_button">Κάντε κλικ για να αφαιρέσετε το %1$s από την πρώτη σελίδα</string>
     <string name="pa_shortcut_desc_more_button">Κάντε κλικ για να μεταβείτε στη σελίδα Όλες οι λειτουργίες</string>
     <string name="pa_shortcut_download_tip">Για χρήση του \"%2$s\", εγκαταστήστε %1$s πρώτα.</string>

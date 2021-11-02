@@ -58,6 +58,10 @@
     <string name="allow_mock_location">Να επιτρέπονται ψευδείς τοποθεσίες</string>
     <string name="allow_mock_location_summary">Να επιτρέπονται ψευδείς τοποθεσίες</string>
     <string name="animator_duration_scale_title">Κλίμ. διάρ. Animator</string>
+    <string name="anti_fraud_notification_msg">Επιστρέψτε αυτήν την κλήση για να αποφύγετε την απάτη τηλεπικοινωνιών</string>
+    <string name="anti_fraud_notification_title">Προειδοποίηση κατά της Απάτης</string>
+    <string name="antifraud_center">Πλατφόρμα προειδοποίησης κατά της Απάτης</string>
+    <string name="antifraud_center_incoming_prompt">"Μην χάνετε καμία κλήση από την επίσημη πλατφόρμα προειδοποίησης κατά της απάτης"</string>
     <string name="answer_incoming_call">Απάντηση</string>
     <string name="answering_ends_other_call">Εάν απαντήσετε θα τερματίσετε την %1$s κλήση σας</string>
     <string name="answering_ends_other_calls">Εάν απαντήσετε θα τερματίσετε τις %1$s κλήσεις σας</string>
