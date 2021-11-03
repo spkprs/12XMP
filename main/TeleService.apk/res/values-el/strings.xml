@@ -199,6 +199,8 @@
     <string name="apn_settings_not_available">Οι ρυθμίσεις ονόματος σημείου πρόσβασης δεν είναι διαθέσιμες για αυτόν τον χρήστη</string>
     <string name="app_name">Προτίμηση</string>
     <string name="app_process_limit_title">Όριο διαδικασίας παρασκηνίου</string>
+    <string name="arrears_sim_summary">Ανανεώστε την συνδρομή σας για να παραμείνετε συνδεδεμένοι.</string>
+    <string name="arrears_sim_title">Ανεπαρκείς πόροι</string>
     <string name="atr_disable">Αναφορές κυκλοφορίας ανενεργές</string>
     <string name="atr_enable">Αναφορές κυκλοφορίας ενεργές</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>

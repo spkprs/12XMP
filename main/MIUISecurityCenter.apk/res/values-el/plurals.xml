@@ -893,5 +893,12 @@
         <item quantity="other">Μετά το κλείδωμα της οθόνης %d λεπ.</item>
         <item quantity="one">Μετά το κλείδωμα της οθόνης %d λεπ.</item>
     </plurals>
+  <plurals name="gd_app_edit_desc">
+     <item quantity="other">Προσθέστε έως %d εφαρμογές. Σύρετε τα στοιχεία για αναδιάταξη.</item>
+      <item quantity="one">Προσθέστε έως %d εφαρμογές. Σύρετε το στοιχείο για αναδιάταξη.</item>
+  </plurals>
+  <plurals name="gd_app_edit_desc_new">
+      <item quantity="other">Προσθέστε έως %d εφαρμογές. Σύρετε τα στοιχεία για αναδιάταξη.</item>
+  </plurals>
 </resources>
 
