@@ -32,6 +32,7 @@
     <string name="about_item_function">Νέα χαρακτηριστικά</string>
     <string name="about_net_error">Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
     <string name="about_newest">Ταπετσαρίες Καρουσέλ είναι ενημερωμένη.</string>
+    <string name="about_permission">Άδειες</string>
     <string name="about_update">Ενημέρωση</string>
     <string name="account_bind_secure_email_title">Προσθήκη e-mail ανάκτησης</string>
     <string name="account_bind_secure_phone_title">Προσθήκη αριθμού τηλεφώνου ανάκτησης</string>
@@ -94,6 +95,7 @@
     <string name="add_wallpaper">Προσθέστε ταπετσαρίες</string>
     <string name="addcw_apply_btn_txt">Προσθέστε ταπετσαρία</string>
     <string name="afternoon">Απόγευμα</string>
+    <string name="allowed">Παραχωρήθηκε</string>
     <string name="am">ΠΜ</string>
     <string name="app_name">Mi Wallpaper Carousel</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">Αγνοήστε αυτή την έκδοση</string>
@@ -113,9 +115,14 @@
     <string name="back_icon_content_description">Πίσω</string>
     <string name="bind_sign_in_title">Προσθέστε Λογαριασμό Mi</string>
     <string name="cancel">Ακύρωση</string>
+    <string name="cancel_button">ΝΑΙ</string>
     <string name="cancel_international">Ακύρωση</string>
     <string name="cancel_lockscreen">Ακύρωση</string>
+    <string name="cancel_mfashiongallery_service">Ακύρωση υπηρεσιών Καρουζέλ ταπετσαρίες</string>
     <string name="cancel_network">Εξοδος</string>
+    <string name="cancel_service">Ακύρωση υπηρεσιών</string>
+    <string name="cancel_service_running">Ακύρωση υπηρεσιών…</string>
+    <string name="cancel_service_summary">"Αν συνεχίσετε, θα ακυρώσετε τις υπηρεσίες του Wallpaper Carousel. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και διατηρηθεί θα διαγραφούν εντός της συγκεκριμένης περιόδου σύμφωνα με τους ισχύοντες νόμους και κανονισμούς, εκτός εάν απαιτείται κάτι διαφορετικό. Ακυρώνετε τις υπηρεσίες ούτως ή άλλως;"</string>
     <string name="carousel_declaration_btn_text">Ενεργοποιήστε το Καρουσέλ ταπετσαρίας</string>
     <string name="carousel_declaration_cta">"Το Καρουσέλ ταπετσαρίες απαιτεί σύνδεση στο διαδίκτυο για να λειτουργήσει σωστά. Για να αποκτήσετε πρόσβαση στο διαδικτυακό περιεχόμενο, πρέπει να συμφωνείτε με την &lt;a href='%s'>Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε?"</string>
     <string name="carousel_declaration_cta_btn_text">Συμφωνώ</string>
@@ -151,6 +158,7 @@
     <string name="confirm_bundled_phone_dialog_title">Επιβεβαίωση σχετικού αριθμού τηλεφώνου</string>
     <string name="confirm_new_pwd">Επιβεβαίωση νέου κωδικού πρόσβασης</string>
     <string name="confirm_unbundled_phone_dialog_message">Αυτός ο αριθμός τηλεφώνου συσχετίστηκε με το Mi λογαριασμό %2$s σε %1$s. Δεν θα συσχετίζεται πλέον με το Mi λογαριασμό %3$s, εάν συνεχίσετε. Συνέχεια;</string>
+    <string name="copy">Αντιγραφή</string>
     <string name="create_shortcut">Δημιουργία συντόμευσης στην Αρχική οθόνη</string>
     <string name="create_shortcut_btn">Δημιουργία</string>
     <string name="create_shortcut_title">Δημιουργία συντόμευσης σε αρχική οθόνη</string>
@@ -253,8 +261,11 @@
     <string name="error_invalid_bind_address">Η διεύθυνση email που εισαγάγατε δεν είναι έγκυρη.</string>
     <string name="evening">Απόγευμα</string>
     <string name="exceed_binded_phone_times_notice">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με έναν άλλο λογαριασμό Mi.</string>
+    <string name="expand_button_title">Προηγμένες</string>
     <string name="explorer_activity_title">Καρουσέλ ταπετσαρίας</string>
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
+    <string name="external_storage_permission">Πρόσβαση σε Αποθήκευση</string>
+    <string name="external_storage_permission_summary">Για την επιλογή προσαρμοσμένων ταπετσαριών και την αποθήκευση ληφθέντων στοιχείων</string>
     <string name="failed_dup_secure_phone_number">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με έναν άλλο λογαριασμό Mi</string>
     <string name="favor_list_no_data">Δεν υπάρχουν στοιχεία εδώ.</string>
     <string name="favor_list_title">Αγαπημένες</string>
@@ -341,7 +352,12 @@
     <string name="lockscreen_magazine_summary">Επιλέξτε κατηγορίες</string>
     <string name="lockscreen_magazine_system_title">Προεπιλογή</string>
     <string name="lockscreen_magazine_title">Καρουσέλ Ταπετσαρίες</string>
+    <string name="logout">Αποσύνδεση</string>
     <string name="logout_account">Έξοδος</string>
+    <string name="logout_cancel">Ακύρωση</string>
+    <string name="logout_confirm">OK</string>
+    <string name="logout_summary">"Μετά την αποσύνδεσή σας δεν θα μπορείτε να συγχρονίσετε τις συνδρομές και τις προσαρμοσμένες ρυθμίσεις σας σε όλες τις συσκευές. Αποσύνσεση ούτως ή άλλως;"</string>
+    <string name="logout_title">Έξοδος τώρα;</string>
     <string name="look_str">Δημοφιλή</string>
     <string name="main_fragment_title_discover">Ανακαλύψτε</string>
     <string name="main_fragment_title_home">Προτάσεις</string>
@@ -441,6 +457,10 @@
     <string name="no_phone">Δεν υπάρχει αριθμός τηλεφώνου</string>
     <string name="no_pic_data">Δεν ήταν δυνατή η εύρεση εικόνων</string>
     <string name="noon">Μεσημέρι</string>
+    <string name="not_allowed">Δεν έχει χορηγηθεί</string>
+    <string name="not_cancel_button">ΟΧΙ</string>
+    <string name="not_revoke_button">Ακύρωση</string>
+    <string name="not_set">Δεν έχει οριστεί</string>
     <string name="ok">OK</string>
     <string name="ok_enable_network_prov">Συμφωνώ</string>
     <string name="ok_enable_network_prov2">Συμφωνώ</string>
@@ -552,8 +572,10 @@
     <string name="passport_wrong_voice">Ο κωδικός που εισαγάγατε είναι εσφαλμένος</string>
     <string name="password_toggle_content_description">Εναλλαγή προβολής κωδικού πρόσβασης</string>
     <string name="permission_account_tip">Πληροφορίες πρόσβασης λογαριασμού</string>
+    <string name="permission_manager">Λεπτομέρειες αδειών</string>
     <string name="permission_storage_read_tip">Πρόσβαση σε φωτογραφίες αποθηκευμένες στη συσκευή σας</string>
     <string name="permission_storage_tip">Αποθήκευση στοιχείων που έχετε λάβει στη συσκευή σας</string>
+    <string name="personalized">Εξατομίκευση</string>
     <string name="phone_bind_too_many">Αυτό το τηλέφωνο έχει συσχετιστεί με αρκετούς Λογαριασμούς Mi σε σύντομο χρονικό διάστημα. Δοκιμάστε να χρησιμοποιήσετε έναν άλλο αριθμό τηλεφώνου.</string>
     <string name="phone_hint">Αριθμός τηλεφώνου</string>
     <string name="phone_num_use_for">Ο αριθμός τηλεφώνου χρησιμοποιείται για:</string>
@@ -564,7 +586,15 @@
     <string name="platform_unavailable_wechat">Εγκαταστήστε WeChat</string>
     <string name="platform_unavailable_wechatmoment">Εγκαταστήστε WeChat</string>
     <string name="platform_unavailable_weibo">Εγκαταστήστε το Weibo</string>
+    <string name="preference_copied">\"%1$s\" αντιγραφή στο πρόχειρο.</string>
+    <string name="privacy_policy">Πολιτική απορρήτου</string>
     <string name="privacy_setting">Ρυθμίσεις απορρήτου</string>
+    <string name="privacy_update_cancel">Ακύρωση</string>
+    <string name="privacy_update_confirm">Συμφωνώ</string>
+    <string name="privacy_update_quit">Έξοδος</string>
+    <string name="privacy_update_summary1">Ενημερώθηκε η Πολιτική Απορρήτου του Wallpaper Carousel:</string>
+    <string name="privacy_update_summary2">"Διαβάστε και συμφωνήστε με τη νέα έκδοση της &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Πολιτική απορρήτου&lt;/font>&lt;/a> πριν συνεχίσετε."</string>
+    <string name="privacy_update_summary3">"Δεν θα μπορείτε να συνεχίσετε να χρησιμοποιείτε το Wallpaper Carousel αν δεν συμφωνήσετε με τη νέα έκδοση της &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Πολιτική απορρήτου&lt;/font>&lt;/a>. Συμφωνείτε με την ενημερωμένη Πολιτική Απορρήτου τώρα;"</string>
     <string name="prv_end"><CDATA>"Αυτά προς το παρόν."</CDATA></string>
     <string name="prv_loading"><CDATA>Ένα λεπτό </CDATA></string>
     <string name="prv_nodata"><CDATA>Δεν υπάρχουν δεδομένα</CDATA></string>
@@ -595,6 +625,16 @@
     <string name="restart_action">Έναρξη από την αρχή</string>
     <string name="restart_phone_bind_message">Μπορεί να χρειαστεί λίγος χρόνος για τη λήψη SMS. Να ξαναρχίσουμε;</string>
     <string name="restart_phone_bind_title">Αλλαγή τηλεφώνου ανάκτησης</string>
+    <string name="revoke_button">Ανάκληση</string>
+    <string name="revoke_failed1">Σφάλμα</string>
+    <string name="revoke_failed2">Σφάλμα</string>
+    <string name="revoke_failed_internet">Εμφανίστηκε σφάλμα δικτύου. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
+    <string name="revoke_failed_internet_confirm">Κατανοητό</string>
+    <string name="revoke_failed_service">Εμφανίστηκε σφάλμα διακομιστή. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
+    <string name="revoke_failed_service_confirm">Κατανοητό</string>
+    <string name="revoke_privacy">Ανάκληση της συγκατάθεσης</string>
+    <string name="revoke_privacy_running">Ανάκληση της συγκατάθεσης…</string>
+    <string name="revoke_privacy_summary">"Εάν συνεχίσετε, θα αποσύρετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου του Wallpaper Carousel. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και διατηρηθεί θα διαγραφούν εντός της συγκεκριμένης περιόδου σύμφωνα με τους ισχύοντες νόμους και κανονισμούς, εκτός εάν απαιτείται κάτι διαφορετικό. Καθώς η Wallpaper Carousel παρέχει τις υπηρεσίες της με βάση τη συλλογή των απαραίτητων προσωπικών πληροφοριών, η ανάκληση της συγκατάθεσής σας θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών της Wallpaper Carousel. Ανάκληση συγκατάθεσης τώρα;"</string>
     <string name="rv_with_footer_empty">Τίποτα ακόμα.</string>
     <string name="rv_with_footer_loading"><CDATA>Ένα λεπτό </CDATA></string>
     <string name="rv_with_footer_pull_load_more">Τραβήξτε προς τα κάτω για να δείτε περισσότερα</string>
@@ -843,6 +883,8 @@
     <string name="user_avatar_update_title">Αλλαγή φωτογραφίας προφίλ</string>
     <string name="user_avatar_uploading">Μισό λεπτό…</string>
     <string name="user_id_hint">Email/τηλέφωνο/Mi λογαριασμός</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
     <string name="v_code_title">Εισάγετε τον κωδικό επαλήθευσης</string>
     <string name="view_privacy_policy">Πολιτική Απορρήτου</string>
     <string name="wallpaper">Ταπετσαρία</string>
