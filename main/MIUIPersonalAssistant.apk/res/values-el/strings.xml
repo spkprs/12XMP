@@ -455,8 +455,8 @@
     <string name="pa_picker_detail_app_not_off_shelf">Τα γραφικά αυτής της εφαρμογής δεν είναι πλέον διαθέσιμα</string>
     <string name="pa_picker_detail_bottom_bt_source_home">Αρχική οθόνη</string>
     <string name="pa_picker_detail_bottom_bt_source_minus">Βοηθός MIUI</string>
-    <string name="pa_picker_detail_bottom_bt_text_to_home">Προσθήκη στην επιφάνεια εργασίας</string>
-    <string name="pa_picker_detail_bottom_bt_text_to_minus">Προσθήκη στην Αρχική</string>
+    <string name="pa_picker_detail_bottom_bt_text_to_home">Προσθήκη στην Aρχική οθόνη</string>
+    <string name="pa_picker_detail_bottom_bt_text_to_minus">Προσθήκη στο Βοηθό MIUI</string>
     <string name="pa_picker_detail_bottom_bt_text_un_install">Εγκαταστήστε την εφαρμογή για να χρησιμοποιήσετε τα γραφικά της</string>
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Ενημερώστε την εφαρμογή για να χρησιμοποιήσετε τα γραφικά της</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Άνοιγμα Βοηθός MIUI για προσθήκη γραφικών από εδώ.</string>
