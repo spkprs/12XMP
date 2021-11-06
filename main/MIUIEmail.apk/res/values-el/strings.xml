@@ -473,6 +473,7 @@
     <string name="dialog_system_auto_sync_account_no_open">Ενεργοποίηση συγχρονισμού λογαριασμού για αυτόματη λήψη emails</string>
     <string name="dialog_system_auto_sync_master_no_open">Ενεργοποίηση συγχρονισμού για αυτόματη λήψη emails</string>
     <string name="disable_admin_warning">ΠΡΟΣΟΧΗ: Απενεργοποιώντας την δυνατότητα της εφαρμογής Email να διαχειρίζεται την συσκευής σας, η συσκευή θα διαγράψει όλους τους λογαριασμούς email που το απαιτούν, μαζί με τα email, επαφές, ημερολόγια, γεγονότα ημερολογίου και άλλα δεδομένα.</string>
+    <string name="disallow_qq_auth_how_get_auth_code">Πώς μπορώ να λάβω έναν κωδικό εξουσιοδότησης;</string>
     <string name="discard">Απόρριψη</string>
     <string name="discard_drafts">Απόρριψη πρόχειρων</string>
     <string name="dismiss_tip_hover_text">Παράβλεψη συμβουλών</string>
@@ -972,6 +973,7 @@
     <string name="ntes_send_to_content">Εάν ο τρέχων αριθμός τηλεφώνου σας σχετίζεται με το λογαριασμό, πατήστε \"Αποστολή SMS\".</string>
     <string name="ntes_verification_code">Εισαγωγή κωδικού: %s</string>
     <string name="oauth_error_description">Σφάλμα ελέγχου ταυτότητας</string>
+    <string name="oauth_find_browser_error_description">Εγκαταστήστε το πρόγραμμα περιήγησης πριν συνδεθείτε.</string>
     <string name="oauth_gmail_login_notify">Εισάγετε το όνομα χρήστη και τον κωδικό πρόσβασης του Google λογαριασμού σας στην επόμενη σελίδα σύνδεσης.</string>
     <string name="oauth_login_continue">Συνέχεια</string>
     <string name="oauth_login_continue_qq">Λάβετε έναν κωδικό πρόσβασης και συνδεθείτε στο ></string>
