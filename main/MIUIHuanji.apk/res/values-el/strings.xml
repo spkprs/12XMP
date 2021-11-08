@@ -171,6 +171,7 @@
     <string name="err_bakfile_broken">Δεν είναι δυνατή η χρήση αυτού του αντιγράφου ασφαλείας.</string>
     <string name="err_bakfile_not_exist">Δεν υπάρχει αρχείο αντιγράφων ασφαλείας.</string>
     <string name="err_binder_died">Η εφαρμογή τερματίστηκε απροσδόκητα.</string>
+    <string name="err_install_incompatible">Πρόβλημα συμβατότητας</string>
     <string name="err_low_storage">Ανεπαρκής χώρος αποθήκευσης</string>
     <string name="err_no_gms">Μη συμβατή έκδοση εφαρμογής. Εγκαταστήστε αυτήν την εφαρμογή ξεχωριστά.</string>
     <string name="err_not_allow">Δεν υποστηρίζεται</string>

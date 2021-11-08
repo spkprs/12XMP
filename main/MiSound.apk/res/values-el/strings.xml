@@ -259,6 +259,9 @@
     <string name="sound_transmission_title">Ασύρματο μικρόφωνο</string>
     <string name="spatial_audio">Παρακολούθηση κίνησης κεφαλής</string>
     <string name="spatial_audio_summary">Προσαρμόστε τον ήχο surround βάσει κίνησης της κεφαλής σας</string>
+    <string name="speaker_scenario_selection">Έκδοση ηχητικών εφέ ηχείου</string>
+    <string name="speaker_scenario_selection_another">Αρχικό</string>
+    <string name="speaker_scenario_selection_default">DXO</string>
     <string name="start_test_sound">Ξεκινήστε τη δοκιμή</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>

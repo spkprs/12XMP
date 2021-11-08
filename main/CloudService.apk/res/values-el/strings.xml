@@ -56,6 +56,9 @@
     <string name="cloud_find_device_off">Off</string>
     <string name="cloud_find_device_on">On</string>
     <string name="cloud_lab_title">Εργαστήριο Cloud</string>
+    <string name="cloud_service_open_authorization">"Καλώς ήρθατε στις υπηρεσίες Xiaomi Cloud! Μπορείτε να χρησιμοποιήσετε το Xiaomi Cloud για να συγχρονίσετε τις σημειώσεις, τις φωτογραφίες και τα βίντεο, τις εγγραφές και άλλα στοιχεία από εφαρμογές συστήματος σε όλες τις συνδεδεμένες συσκευές. Τα αντίγραφα ασφαλείας διάταξης αρχικής οθόνης θα αποθηκευτούν επίσης στο Xiaomi Cloud. Θα μπορείτε να προβάλετε όλα τα συγχρονισμένα στοιχεία στη διεύθυνση i.mi.com."</string>
+    <string name="cloud_service_title">Xiaomi Cloud</string>
+    <string name="open_service_title">Ενεργοποίηση</string>
     <string name="cloud_space_full_gallery_notification_content_text">Αναβαθμίστε το σχέδιό σας για να αποκτήσετε περισσότερο χώρο αποθήκευσης στο cloud</string>
     <string name="cloud_storage_already_full">Πλήρης η αποθ. Cloud: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Σε χρήση: %1$s/%2$s</string>
@@ -553,7 +556,7 @@
     <string name="noti_quota_low_title_without_button">Χωρίς αρκετή αποθ/ση Cloud</string>
     <string name="notification_reinstall_key_text">Επαληθεύστε την ταυτότητά σας και δοκιμάστε ξανά</string>
     <string name="notification_sync_fail_title">"Αδυναμία συγχ/σμού κωδικών"</string>
-    <string name="notification_update_key_text">Ο κωδικός πρόσβασης του διαχειριστή κωδικών πρόσβασης άλλαξε. Επαληθεύστε τον νέο κωδικό πρόσβασης</string>
+    <string name="notification_update_key_text">Ο κωδ. διαχειρ. άλλαξε. Επαληθ. νέου</string>
     <string name="pay_info_dialog_confirm_to_pay">Πληρωμή %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Χρήση υπόλοιπων Mi Coins: %s</string>
     <string name="pay_info_dialog_title">Επιλέξτε τρόπο πληρωμής</string>

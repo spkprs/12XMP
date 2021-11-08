@@ -572,6 +572,8 @@
     <string name="create_new_face">Νέο άτομο</string>
     <string name="create_quick_icon_on_desk">Δημιουργία συντομεύσεων</string>
     <string name="creating_baby_album">Δημιουργία άλμπουμ…</string>
+    <string name="creativity_summary">Εμφάνιση πρόσθετων λειτουργιών δημιουργίας και επεξεργασίας</string>
+    <string name="creativity_title">Δημιουργικότητα</string>
     <string name="crop_label">Κόψιμο</string>
     <string name="cta_agreement_declare"><Data>Για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστης καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνείστε με &lt;a href=\"%1$s\">Συμφωνία χρήσης&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a> πριν τη χρήση της.</Data></string>
     <string name="cta_network_declare">Για να συγχρονίσετε φωτογραφίες και βίντεο με το Xiaomi Cloud, αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο..</string>

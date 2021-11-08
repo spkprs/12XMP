@@ -156,7 +156,7 @@
     <string name="permission_MIUIDaemon_introduction">Το MIUI Daemon σάς επιτρέπει να μεταφέρετε δεδομένα από τη συσκευή σας όταν η οθόνη είναι κατεστραμμένη.</string>
     <string name="permission_access_calendar">Πρόσβαση στο ημερολόγιο</string>
     <string name="permission_access_calendar_fast_application_summary">Για να επιτρέπετε στις Γρήγορες εφαρμογές να έχουν πρόσβαση στο ημερολόγιο;</string>
-    <string name="permission_account">Πρόσβαση σε πληροφορίες λογαριασμού</string>
+    <string name="permission_account">Πρόσβαση σε λογαριασμούς στη συσκευή σας</string>
     <string name="permission_account_introduction">Για να συνδεθείτε με το Λογαριασμό Mi</string>
     <string name="permission_application_package_introduction">Για πρόσβαση στην αποθήκευση για την ανάλυση και τη σάρωση πακέτων εγκατάστασης</string>
     <string name="permission_backup">Πρόσβαση στον Αποθ. χώρο</string>
@@ -205,14 +205,14 @@
     <string name="permission_photo_video_introduction">Για τη λήψη φωτογραφιών, την εγγραφή βίντεο και τη χρήση φλας</string>
     <string name="permission_picture_introduction">Για αποθήκευση, επεξεργασία και συγχρονισμό φωτογραφιών και βίντεο</string>
     <string name="permission_read_app_list">Πρόσβαση στη λίστα των εφαρμογών που είναι εγκατεστημένες σε αυτή τη συσκευή</string>
-    <string name="permission_read_application_list_summary">Για τη διαχείριση εγκατεστημένων εφαρμογών και πακέτων εγκατάστασης</string>
+    <string name="permission_read_application_list_summary">Για ενημέρωση των ληφθέντων εφαρμογών και επιβεβαίωση των πληροφοριών εφαρμογής που χρησιμοποιούνται από το πρόγραμμα εγκατάστασης πακέτου</string>
     <string name="permission_read_call_records">Επεξεργασία ιστορικού κλήσεων</string>
     <string name="permission_read_call_records_introduction">Για την προσθήκη στοιχείων στο ιστορικό κλήσεων και τη διαγραφή των αποκλεισμένων κλήσεων</string>
     <string name="permission_read_contacts">Πρόσβαση στις επαφές</string>
     <string name="permission_read_contacts_introduction">Για επαλήθευση της ταυτότητάς σας</string>
     <string name="permission_read_device_store">Πρόσβαση στον αποθηκευτικό χώρο</string>
     <string name="permission_read_device_store_summary">Για πρόσβαση σε ληφθέντα αρχεία προέλευσης και διευθέτηση προέλευσης αρχείων;</string>
-    <string name="permission_read_message">Ανάγνωση SMS</string>
+    <string name="permission_read_message">Πρόσβαση σε μηνύματα κειμένου</string>
     <string name="permission_read_message_introduction">Για την επαλήθευση της ιδιοκτησίας της συσκευής σας</string>
     <string name="permission_read_note_introduction">Για πρόσβαση σε σημειώσεις και συνημμένα</string>
     <string name="permission_read_send_message">Αποστολή και λήψη SMS</string>
@@ -232,7 +232,7 @@
     <string name="permission_read_write_device_store_camera_summary">Για αποθήκευση αρχείων στη συσκευή σας μετά τη λήψη φωτο ή βίντεο.</string>
     <string name="permission_read_write_device_store_download_summary">Για αποθήκευση, προσπέλαση και διαχείριση περιεχομένου που έχει ληφθεί.</string>
     <string name="permission_read_write_device_store_fast_application_summary">Για να επιτρέπεται στις γρήγορες εφαρμογές η πρόσβαση, η προσωρινή μνήμη και η επεξεργασία αρχείων;</string>
-    <string name="permission_read_write_file">Πρόσβαση και αποθήκευση φωτογραφιών και αρχείων στη συσκευή</string>
+    <string name="permission_read_write_file">Πρόσβαση και αποθήκευση αρχείων και φωτογραφιών στη συσκευή σας</string>
     <string name="permission_read_write_file_introduction">Για πρόσβαση, αποθήκευση και προσωρινή αποθήκευση στοιχείων στη συσκευή σας</string>
     <string name="permission_read_write_phone_store">Για πρόσβαση και αποθήκευση στοιχείων στην αποθήκευση;</string>
     <string name="permission_read_write_phone_store_summary">Για πρόσβαση και αποθήκευση στοιχείων Αρχικής οθόνης;</string>

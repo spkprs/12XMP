@@ -43,6 +43,7 @@
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="default_boss_terminal_name">Mi Notebook</string>
     <string name="default_error_msg">Άγνωστο σφάλμα</string>
+    <string name="device_max_screen_count_toast">Αυτή η συσκευή υποστηρίζει μόνο το ταυτόχρονο άνοιγμα δύο παραθύρων</string>
     <string name="display_max_screen_count_toast">Μπορείτε να ανοίξετε έως και 3 παράθυρα σε αυτήν την έκδοση</string>
     <string name="display_not_support_secondary_toast">Δεν είναι δυνατό το άνοιγμα αυτής της εφαρμογής σε νέο παράθυρο</string>
     <string name="download_aborted">"Δεν ήταν δυνατή η μεταφορά λόγω διακοπής σύνδεσης"</string>
