@@ -10,6 +10,8 @@
     <string name="freeform_demo_final_restart">Ξεκινήστε από την αρχή</string>
     <string name="freeform_demo_final_title">Είστε έτοιμοι!</string>
     <string name="freeform_demo_go_on">Επόμενο</string>
+    <string name="freeform_demo_next_tutorial">Επόμενο</string>
+    <string name="freeform_demo_previous_tutorial">Πίσω</string>
     <string name="freeform_demo_title_finish">Τέλεια!</string>
     <string name="freeform_demo_title_skip">Παράλειψη</string>
     <string name="freeform_slide_to_small_freeform">Ελαχιστ/ση Αιωρούμενου παραθ.</string>

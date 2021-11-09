@@ -1545,6 +1545,7 @@
     <string name="close_optimization_option">Απενεργοποίηση</string>
     <string name="close_privacy_thumbnail_blur_title">Χωρίς Θόλωση προεπισκόπησης</string>
     <string name="close_slave_wifi_hint">Αποσύνδεση από βοηθητικά δίκτυα WiFi πριν από τη Μετάδοση</string>
+    <string name="closed_beta">Σταθερή (εσωτερική)</string>
     <string name="cloud_backup_section_title">Αντίγραφα στο Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Ρυθμίσεις αντιγράφων</string>
     <string name="cloud_category_text">Cloud</string>
