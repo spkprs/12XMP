@@ -2885,7 +2885,7 @@
     <string name="pc_hidemode_normal_title">Κανονική</string>
     <string name="pc_hidemode_performance">Απόδοση</string>
     <string name="pc_hidemode_performance_title">Λειτουργία απόδοσης</string>
-    <string name="pc_hidemode_power_save">Εξοικον/ση μπαταρίας</string>
+    <string name="pc_hidemode_power_save">Εξοικονόμηση</string>
     <string name="pc_install_manager">Εγκατάσταση μέσω USB</string>
     <string name="pc_main_activity_back">Πίσω</string>
     <string name="pc_main_battery_text_day">Προστέθηκαν %1$sΛεπ, περίπου %2$sΗμ απομένουν</string>
@@ -2903,7 +2903,7 @@
     <string name="pc_performance_mode_noti_summary">Η λειτουργία απόδοσης μπορεί να αυξήσει την κατανάλωση ενέργειας και να οδηγήσει σε προβλήματα υπερθέρμανσης</string>
     <string name="pc_performance_mode_noti_title">Βελτιωμένη απόδοση συσκευής</string>
     <string name="pc_search_keywords_battery">Μπαταρία</string>
-    <string name="pc_search_keywords_battery_save">Εξοικονόμηση μπαταρίας</string>
+    <string name="pc_search_keywords_battery_save">Εξοικονόμηση</string>
     <string name="pc_search_keywords_battery_use">Χρήση μπαταρίας</string>
     <string name="pc_search_keywords_capacity">Χωρητικότητα μπαταρίας</string>
     <string name="pc_search_keywords_property">Απόδοση</string>

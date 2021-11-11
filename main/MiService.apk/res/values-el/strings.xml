@@ -95,6 +95,7 @@
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
+    <string name="i_get_it">Κατανοητό</string>
     <string name="icon_add_description">Προσθήκη συντόμευσης στην Αρχική Οθόνη</string>
     <string name="icon_remove_confirm">Αφαίρεση</string>
     <string name="icon_remove_description_content">"\"Υπηρεσίες &amp; σχόλια\" είναι εφαρμογή συστήματος. Θα εξακολουθείτε να μπορείτε να το χρησιμοποιήσετε μέσω των ρυθμίσεων αφού καταργήσετε τη συντόμευση της αρχικής οθόνης."</string>
@@ -356,6 +357,8 @@
     <string name="permission_user_protocol">Συμφωνία χρήστη (υποχρεωτική)</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" αντιγρ. στο πρόχειρο.</string>
+    <string name="privacy_policy_update_hint">"%1$s Ενημερώθηκε η Πολιτική Απορρήτου:\n%2$s\nΔιαβάστε και συμφωνήστε με τη νέα έκδοση του %3$s πριν συνεχίσετε."</string>
+    <string name="privacy_policy_update_title">Ενημερώθηκε η Πολιτική Απορρήτου</string>
     <string name="public_authorize_now">Ρυθμίσεις</string>
     <string name="public_loading_text">Μισό λεπτό…</string>
     <string name="public_net_error_retry">Προσπαθήστε ξανά</string>
@@ -462,10 +465,16 @@
     <string name="tuesday">Τρίτη</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
+    <string name="user_must_known">Προσοχή</string>
+    <string name="user_must_known_content">"Δεν θα μπορείτε να συνεχίσετε να χρησιμοποιείτε τις υπηρεσίες μας αν δεν συμφωνήσετε με τη νέα έκδοση των %s μας. Συμφωνείτε?"</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
+    <string name="withdraw_consent_failed">"Δεν ήταν δυνατή η ανάκληση της συγκατάθεσης"</string>
+    <string name="withdraw_consent_failed_hint">Παρουσιάστηκε σφάλμα διακομιστή. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Η συσκευή σας πρέπει να συνδεθεί στο δίκτυο για να μπορέσετε να αποσύρετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
+    <string name="withdrawing">Ανάκληση συγκατάθεσης…</string>
     <string name="yesterday">Εχθές</string>
 </resources>
