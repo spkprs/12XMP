@@ -40,7 +40,9 @@
     <string name="accessibility_recent_task_exit">Κλείσιμο Πρόσφατα</string>
     <string name="accessibility_recent_task_locked_state">Κλειδώθηκε</string>
     <string name="accessibility_recent_task_memory_info">Συνολική RAM: %2$s | Διαθέσιμη RAM: %1$s. Καθαρισμός με διπλό άγγιγμα.</string>
+    <string name="accessibility_recent_task_show_menu">Περισσότερες επιλογές</string>
     <string name="accessibility_recent_task_unlocked_state">Ξεκλειδώθηκε</string>
+    <string name="accessibility_recents_item_dismissed">%1$s Εκκαθαρίστηκαν</string>
     <string name="accessibility_recents_item_open_app_info">Άνοιγμα πληροφοριών εφαρμογής %s.</string>
     <string name="accessibility_splite_screen_primary">Προστέθηκε ως η κύρια εφαρμογή στη Διαιρούμενη οθόνη</string>
     <string name="accessibility_splite_screen_secondary">Προστέθηκε ως η δευτερεύουσα εφαρμογή στη Διαιρούμενη οθόνη</string>
@@ -203,6 +205,7 @@
     <string name="content_description_workspace_thumbnail_item">οθόνη προεπισκόπησης，%1$s</string>
     <string name="copy">Αντιγραφή</string>
     <string name="current_preview">Προεπισκόπηση</string>
+    <string name="current_wallpaper">Τρέχουσα ταπετσαρία</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Για κλήσεις σε επαφές έκτακτης ανάγκης στη λειτουργία Lite</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Για εμφάνιση επαφών έκτακτης ανάγκης στη λειτουργία Lite</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Για εμφάνιση της κατάστασης της συσκευής</string>
@@ -210,7 +213,6 @@
     <string name="custom_define_permission_desc_android.permission_group.CAMERA">Για εμφάνιση widget Συλλογής</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Για πρόσβαση στο όνομα του widget WLAN στο Android Q</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Για πρόσβαση και αποθήκευση δεδομένων Αρχικής Οθόνης</string>
-    <string name="current_wallpaper">Τρέχουσα ταπετσαρία</string>
     <string name="custom_wallpaper_picker">Αναζήτηση</string>
     <string name="date_picker_lunar">Κινέζικο Παραδ. Ημερ/γιο</string>
     <string name="date_time_picker_dialog_title">Ρύθμιση Ημέρ/Ώρας</string>
@@ -239,6 +241,7 @@
     <string name="disable_wallpaper_scroll">Απενεργοποίηση κύλισης ταπετσαρίας</string>
     <string name="double_tap_to_lock_title">Πατήστε δύο φορές για κλείδωμα της οθόνης</string>
     <string name="download_action">Λήψη</string>
+    <string name="drag_icon_to_homescreen_guide">Πατήστε συνεχώς ένα εικονίδιο εφαρμογής και, σύρετέ το για να προσθέσετε μια συντόμευση στην Αρχική οθόνη.</string>
     <string name="drawer_background">Φόντο</string>
     <string name="drawer_background_dark">Σκοτεινό</string>
     <string name="drawer_background_light">Φωτεινό</string>

@@ -377,6 +377,8 @@
     <string name="mtp_device">Συσκευή πολυμέσων (MTP)</string>
     <string name="mtp_label">MTP</string>
     <string name="name_empty">Πρέπει να εισάγετε ένα όνομα.</string>
+    <string name="need_open_content">Επιτρέψτε στη Διαχείριση αρχείων την πρόσβαση στις φωτογραφίες και τα αρχεία σας για χρήση αυτής τη λειτουργίας.</string>
+    <string name="need_open_permission">Απαιτούμενες άδειες</string>
     <string name="need_read_storage_permission">Ο Explorer απαιτεί άδεια πρόσβασης στον χώρο αποθήκευσης της συσκευής</string>
     <string name="network_not_available">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="new_folder_name">Ανώνυμος φάκελος</string>
@@ -387,6 +389,7 @@
     <string name="no_enough_storage_indication">Ο χώρος της συσκευής είναι γεμάτος.</string>
     <string name="no_enough_storage_title">Ανεπαρκής χώρος</string>
     <string name="no_file">Κενό</string>
+    <string name="no_permission">Χορηγήστε τις απαιτούμενες άδειες για πρόσβαση σε αυτή τη λειτουργία</string>
     <string name="no_wifi">Δεν υπάρχει δίκτυο Wi‑Fi</string>
     <string name="no_wifi_hint">Δε βρέθηκε σύνδεση Wi‑Fi</string>
     <string name="not_added_category">Διαθέσιμες</string>
@@ -596,6 +599,8 @@
     <string name="title_expire_video">Πρόκειται να λήξουν</string>
     <string name="title_recent">Πρόσφατα</string>
     <string name="title_select_volume">Επιλέξτε φάκελο</string>
+    <string name="to_open">Ρυθμίσεις</string>
+    <string name="to_setting">Ρυθμίσεις</string>
     <string name="toast_file_not_can_read">Δεν βρέθηκε εφαρμογή να χειριστεί αυτή την ενέργεια</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>

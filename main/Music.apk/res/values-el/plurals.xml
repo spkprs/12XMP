@@ -207,4 +207,8 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">%d λεπ. απομένουν</item>
         <item quantity="one">%d λεπ. απομένει</item>
      </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d από τα τραγούδια αποθηκεύονται σε έναν εξωτερικό φάκελο. Χορηγήστε τις απαιτούμενες άδειες για τη διαγραφή τους.</item>
+        <item quantity="one">%d από τα τραγούδια αποθηκεύονται σε έναν εξωτερικό φάκελο. Χορηγήστε τις απαιτούμενες άδειες για τη διαγραφή του.</item>
+    </plurals>
 </resources>

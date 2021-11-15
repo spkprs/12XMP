@@ -178,7 +178,7 @@
     <string name="enable_local_backup">Ενεργοποίηση τοπικών αντιγράφων</string>
     <string name="enable_local_backup_and_restore">Ενεργοποίηση τοπικών αντιγράφων</string>
     <string name="enable_local_backup_tips">Ενεργοποιήστε αυτήν τη λειτουργία για να αποθηκεύετε αντίγραφα στη συσκευή και να τα αντιγράψετε στον υπολογιστή σας ή στη συσκευή αποθήκευσης USB. Ενεργοποίηση τώρα;</string>
-    <string name="enable_local_backup_tips_global">Ενεργοποιήστε αυτή τη λειτουργία για να δημιουργήσετε αντίγραφα ή να επαναφέρετε δεδομένα στη συσκευή ή στο PC σας. Ενεργοποίηση;</string>
+    <string name="enable_local_backup_tips_global">Ενεργοποιήστε αυτή τη λειτουργία για να αποθηκεύετε αντίγραφα σε αυτή τη συσκευή και να τα αντιγράφετε στο PC σας. Ενεργοποίηση;</string>
     <string name="err_acquire_system_service">Αδύνατη η εκκίνηση της υπηρεσίας συστήματος.</string>
     <string name="err_authentication_failed">Ο έλεγχος ταυτότητας απέτυχε</string>
     <string name="err_bakfile_broken">Αδυναμία χρήσης αυτού του αντιγράφου ασφαλείας.</string>
@@ -786,4 +786,8 @@
     <string name="xiaomi_update_dialog_message">Σας παρουσιάζουμε την έκδοση %1$s \u000d\nΜέγεθος: %2$s</string>
     <string name="xiaomi_update_dialog_message_diff">Σας παρουσιάζουμε την έκδοση %1$s \u000d\nΜέγεθος ενημέρωσης Delta: %2$s</string>
     <string name="xiaomi_update_dialog_title">Μια νέα έκδοση είναι διαθέσιμη!</string>
+    <string name="new_local_detail_description_global">"Σημείωση:
+%1$d. Αντιγράψτε τα αντίγραφα ασφαλείας στο PC σας για να αποφύγετε την απώλεια δεδομένων. %2$s.
+%3$d. Τα αντίγραφα ασφαλείας θα αποθηκεύονται στο MIUI-Backup-AllBackup.
+%4$d. Ορισμένες εφαρμογές ενδέχεται να μην υποστηρίζουν αντίγραφα ασφαλείας."</string>
 </resources>

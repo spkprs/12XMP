@@ -395,6 +395,7 @@
     <string name="mihome_update_title">Ενημέρωση Mi Home</string>
     <string name="miuix_access_state_desc">Επιλεγμένα</string>
     <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
