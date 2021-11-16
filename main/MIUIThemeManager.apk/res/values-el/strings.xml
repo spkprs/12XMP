@@ -101,6 +101,7 @@
     <string name="apply_success_not_enable_aod">Ενεργοποιήστε την \"Πάντα στην Οθόνη\" στις Ρυθμίσεις πρώτα</string>
     <string name="apply_success_not_support_aod">Δεν είναι δυνατό να συνδυαστεί στην \"Πάντα στην Οθόνη\" με θέματα σε αυτήν τη συσκευή. Τα υπόλοιπα στοιχεία αυτού του θέματος εφαρμόστηκαν με επιτυχία.</string>
     <string name="apply_theme_with_ringtones">Ενεργοποίηση ήχων κλήσης</string>
+    <string name="apply_warning_get_device_dialog_message">Για να μπορέσετε να χρησιμοποιήσετε το περιεχόμενο που έχετε κατεβάσει, επιτρέψτε πρώτα σε αυτή τη λειτουργία να αποκτήσει πρόσβαση στο αναγνωριστικό της συσκευής σας. Μπορείτε να χορηγήσετε αυτή την άδεια στις Ρυθμίσεις > Απόρρητο.</string>
     <string name="apply_warning_tip_get_device_status">Αποδοχή πρόσβασης στο ID σας στην επιλογή Προφίλ > Ρυθμίσεις πρώτα.</string>
     <string name="audio_duration_minutes_format">%1$d λεπτά</string>
     <string name="audio_duration_seconds_format">%1$d δευτ.</string>
@@ -117,12 +118,16 @@
     <string name="backup_theme_name">Το Αντίγραφο μου</string>
     <string name="backup_theme_progress_message">Δημιουργία αντιγράφων ασφαλείας των αρχείων θεμάτων, παρακαλώ περιμένετε…</string>
     <string name="backup_theme_success_message">Η δημιουργία αντιγράφων ασφαλείας θεμάτων ήταν επιτυχής</string>
+    <string name="basic_mode">Λειτουργία εκτός σύνδεσης</string>
+    <string name="basic_mode_desc">"Τα Θέματα δεν θα συνδέονται στο Διαδίκτυο και θα χρησιμοποιούν μόνο τοπικό περιεχόμενο. Τα προσωπικά σας στοιχεία δεν θα συλλέγονται."</string>
     <string name="boot_audio_dialog_cancel">Ακύρωση</string>
     <string name="boot_audio_dialog_confirm">OK</string>
     <string name="boot_audio_dialog_content">Ο ήχος εκκίνησης είναι απενεργοποιημένος τώρα. Να τον ενεργοποιήσουμε και να εφαρμόσουμε αυτόν τον ήχο;</string>
     <string name="boot_audio_dialog_title">Προσοχή</string>
     <string name="both_all_apply_failured">Αδύνατη η εφαρμογή ταπετσαρίας</string>
     <string name="both_all_apply_success">Ταπετσαρία εφαρμόστηκε</string>
+    <string name="browse_mode">Διαδικτυακή λειτουργία</string>
+    <string name="browse_mode_desc">"Τα Θέματα θα συνδέονται στο Διαδίκτυο και θα χρησιμοποιούν τόσο τοπικό όσο και διαδικτυακό περιεχόμενο. Τα προσωπικά σας στοιχεία δεν θα συλλέγονται."</string>
     <string name="browser_local_resource">Τοπικές πηγές</string>
     <string name="can_not_apply">Δεν μπορεί να εφαρμοστεί</string>
     <string name="can_not_apply_error">"Αυτή η μορφή βίντεο δεν υποστηρίζεται"</string>
@@ -142,6 +147,7 @@
     <string name="clear_text_end_icon_content_description">Εκκαθ. κειμένου</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="close">Κλείσιμο</string>
+    <string name="close_custom_permission_warning_text">"Χωρίς δικαιώματα αποθήκευσης, αυτή η εφαρμογή δεν θα μπορεί να κατεβάσει στοιχεία και να εξατομικεύσει τη συσκευή σας. Απενεργοποίηση;"</string>
     <string name="common_applying">Εφαρμογή…</string>
     <string name="common_downloading">Λήψη…</string>
     <string name="common_format_date_no_year">MM/dd</string>
@@ -173,6 +179,7 @@
     <string name="current_using_lockscreen_wallpaper_text">Οθόνη κλειδώματος</string>
     <string name="current_version">Τρέχουσα έκδοση: %1$s</string>
     <string name="current_version_incompatible">Ασυμβατότητα έκδοσης</string>
+    <string name="custom_storage_permission_desc">Για να μπορέσετε να αλλάξετε τις προτιμήσεις εξατομίκευσης και να αποθηκεύσετε τα στοιχεία που έχετε κατεβάσει, επιτρέψτε πρώτα σε αυτή τη λειτουργία την πρόσβαση στον αποθηκευτικό χώρο. Μπορείτε να χορηγήσετε αυτό το δικαίωμα στις Ρυθμίσεις > Απόρρητο.</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημέρας και ώρας</string>
     <string name="de_apply_icons">Εικονίδια εφαρμ.</string>
     <string name="de_apply_icons_and_wallpaper">Εικονίδια και Ταπετσαρίες</string>
@@ -253,7 +260,13 @@
     <string name="dialog_apply_lock_screen_wallpaper_content">Το τρέχον θέμα ενδέχεται να μην υποστηρίζει την αλλαγή της ταπετσαρίας οθόνης κλειδώματος.</string>
     <string name="dialog_apply_lock_screen_wallpaper_warning">Ταπετσαρία οθόνης κλειδώματος</string>
     <string name="dialog_content_get_device_status">Αυτή η εφαρμογή χρειάζεται πρόσβαση στο ID σας για έλεγχο ταυτότητας των στοιχείων που αγοράστηκαν στις άλλες συσκευές σας. Ίσως να μην είναι δυνατή η χρήση ορισμένων από τα αγορασμένα στοιχεία μετά την απενεργοποίηση αυτής της λειτουργίας. Απενεργοποίηση;</string>
+    <string name="dialog_negative_button_text">Όχι τώρα</string>
+    <string name="dialog_positive_button_text">Αποδοχή</string>
     <string name="dialog_show_never">Να μην εμφανιστεί ξανά.</string>
+    <string name="dialog_trans_wallpaper_offline_detail">"Οι διαφανείς ταπετσαρίες δεν είναι πλέον διαθέσιμες επειδή δεν υποστηρίζονται από το Android 12."</string>
+    <string name="dialog_trans_wallpaper_offline_inform_detail">Οι διαφανείς ταπετσαρίες δεν είναι πλέον διαθέσιμες λόγω των περιορισμών και των ζητημάτων συμβατότητας του Android 12.</string>
+    <string name="dialog_trans_wallpaper_offline_inform_title">Διαφανείς ταπετσαρίες</string>
+    <string name="dialog_trans_wallpaper_offline_title">"Οι διαφανείς ταπετσαρίες δεν είναι διαθέσιμες"</string>
     <string name="display">Εμφάνιση</string>
     <string name="do_not_allow">Περιορισμένο</string>
     <string name="download_failed">Η λήψη απέτυχε!</string>
@@ -449,6 +462,7 @@
     <string name="lockscreen_magazine_title">Καθημερινές Ταπετσαρίες</string>
     <string name="lockscreen_wallpaper">Οθόνη κλειδώματος</string>
     <string name="lockstyle_personal_settings">Προσαρμογή</string>
+    <string name="login_theme">Συνδεθείτε στα Θέματα</string>
     <string name="long_click_can_hide_resource">Πατήστε παρατεταμένα για απόκρυψη στοιχείων</string>
     <string name="material_slider_range_end">Τέλος περιοχής,</string>
     <string name="material_slider_range_start">Έναρξη περιοχής,</string>
@@ -630,6 +644,7 @@
     <string name="personalize_icon_title">Εικονίδια</string>
     <string name="personalize_notify_ringtone_title">Ειδοποιήσεις</string>
     <string name="personalize_notify_style_title">Εφέ</string>
+    <string name="personalize_recommend_switch_desc">Λάβετε εξατομικευμένες συστάσεις περιεχομένου με βάση το ID συσκευής</string>
     <string name="personalize_second_space_not_support_set_font">"Αδύνατη η αλλαγή γραμ/σειράς στο Δεύτερο χώρο"</string>
     <string name="personalize_theme_entrance">Θέματα</string>
     <string name="personalize_third_font">Γραμματοσειρές</string>
@@ -718,6 +733,9 @@
     <string name="privacy_read_statement">Συμφωνήστε πρώτα με τους όρους και τις προϋποθέσεις</string>
     <string name="privacy_read_the_updated_privacy_policy_content">Διαβάστε και συμφωνήστε με τη νέα έκδοση της &lt;font color =\'#37A5FF\'&gt;&lt;a href=\'%1$s\'&gt;Πολιτική απορρήτου&lt;/font&gt;&lt;/a&gt; πριν συνεχίσετε.</string>
     <string name="privacy_reading_the_application_list">Πρόσβαση στη λίστα των εφαρμογών που είναι εγκατεστημένες σε αυτή τη συσκευή</string>
+    <string name="privacy_remind_user_mode_agree">Συμφωνώ</string>
+    <string name="privacy_remind_user_mode_content"><Data>Συμφωνήστε με την Πολιτική Απορρήτου μας για χρήση αυτής της λειτουργίας. Διαβάστε την &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a>&lt;/font> για να μάθετε πώς συλλέγουμε, χρησιμοποιούμε, αποκαλύπτουμε, επεξεργαζόμαστε και αποθηκεύουμε τις προσωπικές πληροφορίες που μας παρέχετε όταν χρησιμοποιείτε τα Θέματα.</Data></string>
+    <string name="privacy_remind_user_mode_title">Προσοχή</string>
     <string name="privacy_revoke_agree_content">Ανάκληση συγκατάθεσης</string>
     <string name="privacy_revoke_agree_content_1">1. Όλες οι παραγγελίες (συμπεριλαμβανομένων των πληρωμένων παραγγελιών) που έγιναν στις συσκευές Xiaomi στις οποίες χρησιμοποιήσατε τον λογαριασμό Mi. Δεν θα μπορείτε πλέον να χρησιμοποιήσετε τα προϊόντα που αγοράσατε.</string>
     <string name="privacy_revoke_agree_content_2">2. Όλες οι πληροφορίες σχετικά με τα likes, τα σχόλια, τις αξιολογήσεις και τους followers που δημιουργήθηκαν στις συσκευές Xiaomi στις οποίες χρησιμοποιήσατε το λογαριασμό Mi.</string>
@@ -725,6 +743,8 @@
     <string name="privacy_revoke_agree_data_warning">Τα ακόλουθα δεδομένα θα διαγραφούν μόνιμα ή θα ανωνυμοποιηθούν μετά την ανάκληση της συγκατάθεσης (εκτός εάν προβλέπεται διαφορετικά από νόμους και κανονισμούς ή απαιτείται από ρυθμιστικές αρχές):</string>
     <string name="privacy_revoke_succeed">Η συγκατάθεση ανακλήθηκε με επιτυχία</string>
     <string name="privacy_revoking_warning">Ανάκληση συγκατάθεσης…</string>
+    <string name="privacy_select_mode">Επιλογή λειτουργίας</string>
+    <string name="privacy_select_mode_desc">"Εφόσον δεν έχετε συμφωνήσει με την Πολιτική απορρήτου μας, επιλέξτε μία από τις ακόλουθες λειτουργίες:"</string>
     <string name="privacy_settings">Απόρρητο</string>
     <string name="privacy_update_prompt_title">Ενημερωμένη πολιτική απορρήτου</string>
     <string name="private_pad_fold_revoke_agree_detail_content_1">1. Βεβαιωθείτε ότι έχετε το δικαίωμα να ανακαλέσετε τη συγκατάθεσή σας πριν συνεχίσετε.\n2. Η ανάκληση της συγκατάθεσής σας στην Πολιτική απορρήτου της ταπετσαρίας και της εξατομίκευσης δεν θα επηρεάσει την κανονική χρήση άλλων προϊόντων Xiaomi.\n3. Η ανάκληση της συγκατάθεσης είναι μια μη αναστρέψιμη ενέργεια. Δημιουργήστε αντίγραφα ασφαλείας όλων των σημαντικών στοιχείων πριν συνεχίσετε, καθώς ενδέχεται να διαγραφούν οριστικά. Να θυμάστε ότι δεν θα είστε σε θέση να επανεξετάσετε την απόφασή σας μετά την ανάκληση της συγκατάθεσής σας. Τα ακόλουθα δεδομένα θα διαγραφούν μόνιμα ή θα ανωνυμοποιηθούν μετά την ανάκληση της συγκατάθεσης (εκτός εάν προβλέπεται διαφορετικά από νόμους και κανονισμούς ή απαιτείται από ρυθμιστικές αρχές):</string>
@@ -734,12 +754,14 @@
     <string name="provision_loading_tips">Μισό λεπτό…</string>
     <string name="provision_second_title">Επιλέξτε ένα από τα διάφορα προεπιλεγμένα θέματα</string>
     <string name="provision_title">Επιλέξτε ένα θέμα</string>
+    <string name="prvicay_permission_not_allow_desc">Αυτή η εφαρμογή χρειάζεται πρόσβαση στον αποθηκευτικό χώρο για να διαγράψει όλα τα δεδομένα που δημιουργούνται σε αυτή τη συσκευή. Χωρίς αυτή την άδεια, ορισμένα δεδομένα ενδέχεται να μην διαγραφούν. Ακύρωση υπηρεσιών ούτως ή άλλως;\nΜπορείτε να παραχωρήσετε αυτή την άδεια στις Ρυθμίσεις > Απόρρητο.</string>
     <string name="pull_down_view_error_message">Ώχ!!. Δεν υπάρχει σύνδεση. Ελέξτε το δίκτυό σας και ξαναδοκιμάστε..</string>
     <string name="pull_down_view_refresh">Ανανέωση</string>
     <string name="pull_down_view_title">Τι νέο υπάρχει</string>
     <string name="purchased_list">Λίστα αγορασμένων</string>
     <string name="purchased_list_current">Βελτιστοποιημένα θέματα</string>
     <string name="purchased_list_legacy">Θέματα παλαιού τύπου</string>
+    <string name="read_and_agree_account_privacy"><Data>"Διάβασα και συμφώνησα στον λογαριασμό ΜΙ &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Συμφωνία χρήστη&lt;/a>&lt;/font> και &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Πολιτική απορρήτου&lt;/a>&lt;/font>."</Data></string>
     <string name="recently_used">Πρόσφατη χρήση</string>
     <string name="recommend_trigger">Εξατομικευμένες προτάσεις</string>
     <string name="recommend_trigger_summary">Ενεργοποιήστε για να λαμβάνετε προτάσεις βάσει των προτιμήσεών σας</string>
@@ -1189,6 +1211,7 @@
     <string name="to_activate_the_account">Ενεργοποίηση του Mi λογαριασμού σας τώρα</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
+    <string name="trans_wallpaper_offline_notice">"Οι διαφανείς ταπετσαρίες δεν είναι διαθέσιμες"</string>
     <string name="transparency_pref_summary">Επιλέξτε την διαφάνεια της ταπετσαρίας</string>
     <string name="transparency_pref_title">Επίπεδο αδιαφάνειας</string>
     <string name="transparent_wallpaper">Διάφανη ταπετσαρία</string>
@@ -1257,6 +1280,7 @@
     <string name="video_wallpaper_import">Πατήστε για προσθήκη στοιχείων</string>
     <string name="vip_level_dialog_positive">Γνωρίζω</string>
     <string name="vip_level_dialog_title">Συμβουλές</string>
+    <string name="voice_input">Φωνητική είσοδος</string>
     <string name="wallpaper_24h">24Ω</string>
     <string name="wallpaper_apply">Εφαρμογή</string>
     <string name="wallpaper_crop">Περικοπή</string>

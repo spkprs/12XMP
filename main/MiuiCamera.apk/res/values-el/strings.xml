@@ -155,6 +155,7 @@
     <string name="accessibility_preview_selected">Επιλεγμένα</string>
     <string name="accessibility_preview_shrink">Σμίκρυνση</string>
     <string name="accessibility_preview_zoom_tip">%1$.1fX προεπισκόπηση</string>
+    <string name="accessibility_privacy_watermark">Προστατευμένο υδατογράφημα</string>
     <string name="accessibility_pro_parameters_panel_on">Άνοιγμα μενού με τις παραμέτρους PRO</string>
     <string name="accessibility_pro_video_simple_mode">Λειτουργία Lite</string>
     <string name="accessibility_protrait">Πορτρέτο</string>
@@ -561,6 +562,10 @@
     <string name="dialog_google_lens_option_0">Google Lens (Προτείνεται)</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_ok_time">OK (%ds)</string>
+    <string name="dialog_privacy_watermark_button_cancel">Ακύρωση</string>
+    <string name="dialog_privacy_watermark_button_input">Εισαγωγή</string>
+    <string name="dialog_privacy_watermark_msg">Εισαγωγή κειμένου</string>
+    <string name="dialog_privacy_watermark_title">Προστατευμένο υδατογράφημα</string>
     <string name="dirty_tip_toast">Ο φακός είναι βρώμικος. Καθαρίστε τον.</string>
     <string name="do_not_remind_me">Να μην εμφανιστεί ξανά</string>
     <string name="doc_shortcut_long">Έγγραφα</string>
@@ -991,6 +996,8 @@
     <string name="network_connection_prerequisites_china">Ενεργοποιήστε το BT και Wi-Fi στο Κέντρο Ελέγχου για χρήση εγγραφής Διπλού τηλεφώνου.</string>
     <string name="network_connection_rejected">Απορρίφθηκε</string>
     <string name="network_connection_timed_out">Λήξη χρονικού ορίου σύνδεσης</string>
+    <string name="newbie_privacy_watermark_msg">Χρησιμοποιήστε υδατογραφήματα για να προστατεύσετε τα έγγραφά σας από μη εξουσιοδοτημένη αντιγραφή</string>
+    <string name="newbie_privacy_watermark_title">Προστατέψτε τα έγγραφά σας</string>
     <string name="no_storage">Εισαγωγή κάρτας SD πριν από τη χρήση κάμερας</string>
     <string name="not_enough_space">Η κάρτα SD είναι πλήρης</string>
     <string name="not_set">Δεν έχει οριστεί</string>
@@ -1059,6 +1066,7 @@
     <string name="pixel_ai_108_close">Κλείσιμο AI 100 εκατομ. υπέρ ζωντανά</string>
     <string name="popup_tip_3d_beauty_intro_text">3D Αισθητική</string>
     <string name="popup_tips_near_range_mode">Κλείσιμο εστίασης</string>
+    <string name="popup_tips_privacy_watermark_edit">Επεξεργασία υδατογραφήματος</string>
     <string name="portait_effect_entry_blackwhite">Μ/Α</string>
     <string name="portait_effect_entry_cool">Mint</string>
     <string name="portait_effect_entry_dusk">Σούρουπο</string>
@@ -1434,6 +1442,11 @@
     <string name="pref_popup_camera_title">Αναδυόμενη Κάμερα</string>
     <string name="pref_priority_storage_title">Αποθήκευση σε κάρτα SD</string>
     <string name="pref_privacy_title">Πολιτική Απορρήτου</string>
+    <string name="pref_privacy_watermark_edit">Προσαρμοσμένο κείμενο</string>
+    <string name="pref_privacy_watermark_edit_clear_history">Εκκαθάριση ιστορικού</string>
+    <string name="pref_privacy_watermark_edit_history">Ιστορικό</string>
+    <string name="pref_privacy_watermark_entry">Προστατευμένο υδατογράφημα</string>
+    <string name="pref_privacy_watermark_switch">Εμφάνιση διακόπτη υδατογραφήματος</string>
     <string name="pref_qc_focus_position_title">Εστίαση</string>
     <string name="pref_qc_focus_position_title_abbr">F</string>
     <string name="pref_retain_ai_scene">Κάμερα AI</string>

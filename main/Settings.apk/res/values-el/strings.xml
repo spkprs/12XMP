@@ -1294,6 +1294,7 @@
     <string name="brightness">Φωτεινότητα</string>
     <string name="brightness_auto_adjust_off">Η φωτεινότητα της οθόνης θα παραμένει πάντα σταθερή</string>
     <string name="brightness_auto_adjust_on">Η φωτεινότητα της οθόνης θα προσαρμόζεται ανάλογα με το φως στο περιβάλλον σας</string>
+    <string name="brightness_auto_summary">Προσαρμόστε τη φωτεινότητα στο φως περιβάλλοντος για εξοικονόμηση μπαταρίας</string>
     <string name="brightness_summary">Ρυθμίστε τη φωτεινότητα της οθόνης</string>
     <string name="brightness_title">Φωτεινότητα</string>
     <string name="bssid_label">BSSID:</string>
@@ -3143,6 +3144,7 @@
     <string name="hide_extra_apps">Εμφάνιση χρήσης εφαρμογής</string>
     <string name="hide_silent_icons_summary">Τα εικονίδια από ήπιες ειδοποιήσεις δεν εμφανίζονται στη γραμμή κατάστασης</string>
     <string name="hide_silent_icons_title">Απόκρυψη εικονιδίων από ήπιες ειδοποιήσεις</string>
+    <string name="high_brightness_hint_summary">Ένα μικρό εικονίδιο ήλιου θα εμφανιστεί στο επάνω μέρος της οθόνης όταν ο φωτισμός του περιβάλλοντος είναι έντονος.</string>
     <string name="high_label">Υψηλή</string>
     <string name="high_performance_notif_summary">Η συσκευή μπορεί να υπερθερμανθεί.</string>
     <string name="high_performance_notif_title">Υψηλή απόδοση ενεργή</string>
@@ -4017,6 +4019,7 @@
     <string name="memory_usage_apps">Μνήμη σε χρήση από εφαρμογές</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s μέση χρήση μνήμης τις τελευταίες 3 ώρες</string>
+    <string name="memorycard_calculating">Υπολογισμός…</string>
     <string name="menu_cancel">Απόρριψη</string>
     <string name="menu_check">Εμπειρία</string>
     <string name="menu_delete">Διαγραφή χειρονομίας</string>
@@ -5726,6 +5729,7 @@
     <string name="scanning_status_text_wifi_on_ble_on">Τόσο η σάρωση WiFi όσο και στο Bluetooth είναι ενεργή</string>
     <string name="scheduled_style">Προγραμματισμός</string>
     <string name="screen">Οθόνη</string>
+    <string name="screen_brightness">Φωτεινότητα οθόνης</string>
     <string name="screen_cancel">Ακύρωση</string>
     <string name="screen_color_and_optimize">Χρώματα &amp; Αντίθεση</string>
     <string name="screen_color_and_optimize_disabled">"Αδύνατη η ρύθμιση του συνδυασμού χρωμάτων και της θερμοκρασίας σε Λειτουργία Ανάγνωσης"</string>
@@ -6569,6 +6573,7 @@
     <string name="smart_battery_manager_title">Διαχείριση μπαταριών</string>
     <string name="smart_battery_summary">Περιορίστε την μπαταρία για εφαρμογές που δεν χρησιμοποιείτε συχνά</string>
     <string name="smart_battery_title">Αυτόματη διαχείριση εφαρμογών</string>
+    <string name="smart_dual_sim_title">Έξυπνη διπλή SIM</string>
     <string name="smart_home_select_smart_device">Εφαρμογή για τη διαχείριση Έξυπνων Οικιακών Συσκευών</string>
     <string name="smart_home_title">Έξυπνο Σπίτι</string>
     <string name="smart_home_value_none">Χωρίς</string>
@@ -6969,7 +6974,7 @@
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
     <string name="sunlight_mode">Λειτουργία Ηλιοφάνειας</string>
-    <string name="sunlight_mode_summary">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος όταν η αυτόματη φωτεινότητα είναι ανενεργή</string>
+    <string name="sunlight_mode_summary">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος για αποφυγή υπερβολικού σκότους της οθόνης.</string>
     <string name="sunlight_mode_summary_new">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος για αποτροπή μείωσης φωτισμού της οθόνης. Ένα μικρό εικονίδιο του ήλιου θα εμφανιστεί στο επάνω μέρος της οθόνης όταν το φως του περιβάλλοντος είναι ισχυρό.</string>
     <string name="supl_not_set">&lt;Δεν έχει οριστεί></string>
     <string name="supplicant_state_label">Υποχρεωτική κατάσταση:</string>
@@ -8195,6 +8200,7 @@
     <string name="wifi_modify">Τροποποίηση</string>
     <string name="wifi_more">Περισσότερα</string>
     <string name="wifi_multi_network_acceleration">Έξυπνη επιτάχυνση δικτύου</string>
+    <string name="wifi_multi_network_acceleration_title">Επιτάχυνση δικτύου</string>
     <string name="wifi_multiple_cert_added">(Προστέθηκαν πολλαπλά πιστοποιητικά)</string>
     <string name="wifi_network_optimization">Βελτιστοποίηση σύνδεσης</string>
     <string name="wifi_network_prefix_length">Μήκος προθέματος δικτύου</string>

@@ -148,6 +148,7 @@
     <string name="accessibility_wifi_signal_full">Το σήμα WiFi είναι πλήρες.</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi 3 γραμμές.</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi 2 γραμμές.</string>
+    <string name="according_to_carrier">Εμφάνιση προτιμήσεων</string>
     <string name="active_input_method_subtypes">Ενεργές μέθοδοι εισαγωγής</string>
     <string name="adb_keys_warning_message">Να ανακαλέσετε την πρόσβαση στον εντοπισμό σφαλμάτων USB από όλους τους υπολογιστές που έχετε εξουσιοδοτήσει προηγουμένως;</string>
     <string name="adb_warning_message">Ο εντοπισμός σφαλμάτων USB προορίζεται μόνο για αναπτυξιακούς σκοπούς. Χρησιμοποιήστε το για να αντιγράψετε δεδομένα μεταξύ του υπολογιστή και της συσκευής σας, να εγκαταστήσετε εφαρμογές στη συσκευή σας χωρίς ειδοποίηση και να διαβάσετε δεδομένα καταγραφής.</string>
@@ -844,6 +845,8 @@
     <string name="do_not_show_again">Χωρίς επανεμφάνιση</string>
     <string name="domain_address_title">Διακομιστής</string>
     <string name="doneButton">Ολοκληρώθηκε</string>
+    <string name="dsda_summary">5G+4G αναμονή διπλής SIM υποστηρίζεται σε επιλεγμένα δίκτυα</string>
+    <string name="dsda_title">Ενεργοποίηση 5G+4G DSDA</string>
     <string name="dtmf_tone_entries_long">Μακρύς</string>
     <string name="dtmf_tone_entries_normal">Κανονικός</string>
     <string name="dtmf_tones_summary">Ρυθμίστε το μήκος των τόνων DTMF</string>
@@ -975,6 +978,7 @@
     <string name="fiveg_hosted_mode_summary">Αυτόματη επιλογή βέλτιστου δικτύου για αποθήκευση μπαταρίας</string>
     <string name="fiveg_hosted_mode_title">5G Έξυπνη εναλλαγή</string>
     <string name="fiveg_icon_type1">Τύπος εικονιδίου NR :</string>
+    <string name="fiveg_info">Προβολή πληροφοριών 5G</string>
     <string name="fiveg_infos">5G Πληρ/ρίες</string>
     <string name="fiveg_network_config_type1">"Διαμόρφωση δικτύου Τύπου  : "</string>
     <string name="fiveg_network_mode_default">Αυτόματα</string>
@@ -982,6 +986,8 @@
     <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
     <string name="fiveg_network_mode_title">Επιλογή λειτουργίας δικτύου 5G</string>
     <string name="fiveg_plmn_info_list1">Λίστα πληροφοριών PLMN:</string>
+    <string name="fiveg_power_switch_summary">Κάνει τη συνδεσιμότητα 5G λιγότερο ενεργοβόρα σε ορισμένα σενάρια</string>
+    <string name="fiveg_power_switch_title">5G εξοικονόμηση μπαταρίας</string>
     <string name="fiveg_restrict_dcnr1">"Περιορισμένο DCNR  : "</string>
     <string name="fiveg_sa_switch_open_dialog_content">Η σύνδεση 5G ενδέχεται να είναι ασταθής σε αυτόνομη λειτουργία, η οποία μπορεί να επηρεάσει τις υπηρεσίες τηλεφωνίας. Ενεργοποίηση της λειτουργίας SA ούτως ή άλλως;</string>
     <string name="fiveg_sa_switch_open_dialog_title">Προσοχή</string>
@@ -990,6 +996,7 @@
     <string name="fiveg_sa_switch_title_slot0">SIM %d SA λειτουργία</string>
     <string name="fiveg_sa_switch_title_slot1">SIM %d SA λειτουργία</string>
     <string name="fiveg_sa_switch_warning_toast">Επανεκκινήστε τη συσκευή σας για εφαρμογή αλλαγών.</string>
+    <string name="fiveg_sa_vice_switch_summary">Επιτρέψτε στη δευτερεύουσα SIM να χρησιμοποιεί ανεξάρτητο δίκτυο 5G</string>
     <string name="fiveg_sa_vice_switch_title">SA σε δευτερεύουσα κάρτα SIM</string>
     <string name="fiveg_signal_strength1">"Ισχύς σήματος 5G : "</string>
     <string name="fiveg_switch_status1">"Κατάσταση διακόπτη 5G : "</string>
@@ -1008,6 +1015,8 @@
     <string name="force_resizable_activities_summary">Κάντε όλες τις δραστηριότητες με δυνατότητα αλλαγής μεγέθους για πολλά παράθυρα, ανεξάρτητα από τις τιμές διακήρυξης.</string>
     <string name="force_rtl_layout_all_locales">Επιβολή κατεύθυνσης διάταξης RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Επιβολή κατεύθυνσης διάταξης οθόνης σε RTL για όλες τις τοπικές ρυθμίσεις</string>
+    <string name="forced_to_display">Εμφάνιση ισχύος</string>
+    <string name="forced_to_hide">Απόκρυψη ισχύος</string>
     <string name="four_point_five_switch_summary">Χρησιμοποιήστε 4,5G για αύξηση ταχύτητας σύνδεσης για βελτίωση της ποιότητας φωνής.</string>
     <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">lte αριθμός καναλιού</string>
@@ -1023,6 +1032,7 @@
     <string name="fw_get_in_vm_failed">Δεν ήταν δυνατή η ανάκτηση και αποθήκευση των τρεχουσών ρυθμίσεων του αριθμού προώθησης.\nΑλλαγή σε νέο πάροχο ούτως ή άλλως;</string>
     <string name="general_news_settings">Γενικές Ειδήσεις</string>
     <string name="general_setting">Ρυθμίσεις</string>
+    <string name="general_settings_category">Γενικά</string>
     <string name="get_pin2">Πληκτρολογήστε τον κωδικό PIN2</string>
     <string name="get_smsc_address_error">Δεν είναι δυνατή η σύνδεση με το δίκτυο. Ελέγξτε τη σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
     <string name="get_smsc_address_timeout">Λήξη χρονικού ορίου σύνδεσης</string>
@@ -1362,6 +1372,8 @@
     <string name="msim_switch_data_conn_toast_for_h2xct">Η υποδοχή κάρτας SIM 2 υποστηρίζει μόνο δίκτυα GSM. Προτιμώμενος τύπος δικτύου για αυτή την υποδοχή έχει αλλάξει σε \"μόνο 2G\".</string>
     <string name="multi_category_disable">Πολλαπλών κατηγοριών ανενεργό</string>
     <string name="multi_category_enable">Πολλαπλών κατηγοριών ενεργό</string>
+    <string name="n28_summary">Χρήση ζώνης συχνοτήτων 803MHz</string>
+    <string name="n28_title">N28 μπάντα</string>
     <string name="name">Όνομα</string>
     <string name="national_disable">Εθνικές ειδήσεις απενεργοποιημένες</string>
     <string name="national_enable">Εθνικές ειδήσεις ενεργοποιημένες</string>
@@ -1466,10 +1478,12 @@
     <string name="onscreenShowDialpadText">Πληκτρολόγιο</string>
     <string name="onscreenSwapCallsText">Εναλλαγή</string>
     <string name="onscreenVideoCallText">Κλήση βίντεο</string>
+    <string name="opconfig_info">Προβολή πληροφοριών OpConfig</string>
     <string name="open_miui">Ενεργοποίηση</string>
     <string name="opened_dual_4g_confirm_prompt">Φαίνεται οτι έχετε μια κάρτα SIM 4G. Η Διπλή 4G ενεργοποιήθηκε αυτόματα.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">Η SIM %1$s υποστηρίζει μόνο 4G. Για να βεβαιωθείτε ότι λειτουργεί κανονικά, η Διπλή 4G να είναι ενεργοποιημένη.</string>
     <string name="operator">Πάροχος</string>
+    <string name="optimization_settings_category">Βελτιστοποίηση</string>
     <string name="optional_summary">&lt;Προαιρετικό></string>
     <string name="osu_completing_sign_up">Ολοκλήρωση εγγραφής…</string>
     <string name="osu_connect_failed">Δεν ήταν δυνατή η σύνδεση</string>
@@ -1499,6 +1513,7 @@
     <string name="other_available_phone_accounts">Άλλοι διαθέσιμοι λογαριασμοί</string>
     <string name="other_settings">Άλλες ρυθμίσεις κλήσεων</string>
     <string name="other_settings_category">Άλλα</string>
+    <string name="other_settings_categorys">Πρόσθετες λειτουργίες</string>
     <string name="overlay_display_devices_title">Προσομοίωση δευτερευουσών οθονών</string>
     <string name="overseas_roaming_setting">Διεθνής περιαγωγή</string>
     <string name="pane_title_emergency_dialpad">Πληκτρολόγιο κλήσης έκτακτης ανάγκης</string>
@@ -1788,6 +1803,8 @@
     <string name="running_process_item_user_label">Χρήστης: %1$s</string>
     <string name="runningservices_settings_summary">Δείτε και ελέγξτε τις τρέχουσες υπηρεσίες</string>
     <string name="runningservices_settings_title">Υπηρεσίες εκτέλεσης</string>
+    <string name="sa_switch_debug_summary">Εμφάνιση επιλογών λειτουργίας δικτύου 5G στις πρόσθετες ρυθμίσεις SIM</string>
+    <string name="sa_switch_debug_title">Εμφάνιση επιλογών λειτουργίας δικτύου 5G</string>
     <string name="save">Αποθήκευση</string>
     <string name="saved_network">Αποθηκεύονται από %1$s</string>
     <string name="saving_account">Αποθήκευση λογαριασμού…</string>
@@ -1842,6 +1859,12 @@
     <string name="show_screen_updates_summary">Αναβοσβήνουν ολόκληρες επιφάνειες παραθύρων κατά την ενημέρωση</string>
     <string name="show_touches">Εμφάνιση πατημάτων</string>
     <string name="show_touches_summary">Εμφάνιση οπτικών σχολίων για πατήματα</string>
+    <string name="show_volte_switch_summary">Εμφάνιση του διακόπτη VoLTE στις λειτουργίες SIM</string>
+    <string name="show_volte_switch_title">Εμφάνιση διακόπτη VoLTE</string>
+    <string name="show_vonr_switch_summary">Εμφάνιση του διακόπτη VoNR στις λειτουργίες SIM</string>
+    <string name="show_vonr_switch_title">Εμφάνιση διακόπτη VoNR</string>
+    <string name="show_vowifi_switch_summary">Εμφάνιση του διακόπτη κλήσεων WLAN στις λειτουργίες SIM</string>
+    <string name="show_vowifi_switch_title">Εμφάνιση διακόπτη κλήσεων WLAN</string>
     <string name="simContacts_airplaneMode">Για να εισάγετε επαφές από την κάρτα SIM, απενεργοποιήστε πρώτα τη λειτουργία πτήσης.</string>
     <string name="simContacts_empty">Δεν υπάρχουν επαφές στην κάρτα SIM.</string>
     <string name="simContacts_emptyLoading">Ανάγνωση από την κάρτα SIM…</string>
@@ -2001,6 +2024,7 @@
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Για να χρησιμοποιήσετε %1$s, βεβαιωθείτε ότι τα δεδομένα κινητής τηλεφωνίας και η περιαγωγή δεδομένων είναι ενεργοποιημένα για την κάρτα SIM %2$d. Μπορείτε να τις αλλάξετε στις ρυθμίσεις δικτύου κινητής τηλεφωνίας.</string>
     <string name="switch_dds_to_sub_alert">Ορίστε αυτήν την κάρτα ως προεπιλεγμένη κάρτα δεδομένων.</string>
     <string name="switch_dds_to_sub_alert_msg">Αλλάξτε τα δεδομένα κινητής τηλεφωνίας σε CT SIM</string>
+    <string name="switch_debug_menu">Πρόσθετες ρυθμίσεις δικτύου</string>
     <string name="t9_indexing_method_pinyin">Αλφαβητικά</string>
     <string name="t9_indexing_method_title">Αναζήτηση T9</string>
     <string name="t9_indexing_method_zhuyin">Φωνητικά Zhuyin</string>
@@ -2131,6 +2155,8 @@
     <string name="uplmn_list_setting_add_plmn">Νέο PLMN</string>
     <string name="uplmn_list_setting_title">Προτιμώμενα δίκτυα</string>
     <string name="uplmn_numeric_is_empty">Εισάγετε ένα αναγνωριστικό δικτύου</string>
+    <string name="uplmn_summary">Εμφάνιση διαθέσιμων προτιμήσεων δικτύου φορέα στις λεπτομέρειες SIM</string>
+    <string name="uplmn_title">Προτιμήσεις δικτύου φορέα</string>
     <string name="usb_audio_disable_routing">Απενεργοποίηση δρομολόγησης ήχου USB</string>
     <string name="usb_audio_disable_routing_summary">Απενεργοποιήστε την αυτόματη δρομολόγηση σε περιφερειακά ήχου USB</string>
     <string name="use_system_language_to_select_input_method_subtypes">Χρησιμοποιήστε γλώσσες συστήματος</string>

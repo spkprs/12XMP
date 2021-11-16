@@ -901,5 +901,9 @@
       <item quantity="other">Προσθέστε έως %d εφαρμ. Σύρετε για αναδιάταξη.</item>
       <item quantity="one">Προσθέστε έως %d εφαρμ. Σύρετε για αναδιάταξη.</item>
   </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Επιτρέπεται για %s εφαρμ.</item>
+        <item quantity="one">Επιτρέπεται για %s εφαρμ.</item>
+    </plurals>
 </resources>
 

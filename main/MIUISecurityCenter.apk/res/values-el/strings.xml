@@ -1766,6 +1766,7 @@
     <string name="gamebooster_network_dialog_cn_message">"Αδύνατη η χρήση του Game Turbo όταν δεν επιτρέπεται στην \"Ασφάλεια\" η σύνδεση στο Internet και να αποκτήσει πρόσβαση στην τοποθεσία σας. Αποδοχή;"</string>
     <string name="gamebooster_network_dialog_message">Να επιτρέπεται στην Ασφάλεια η πρόσβαση στο δίκτυο προκειμένου να χρησιμοποιήσει όλες τις λειτουργίες της ενίσχυσης ταχύτητας παιχνιδιών;</string>
     <string name="gamebooster_network_dialog_title">Μερικές λειτουργίες δεν είναι διαθέσιμες</string>
+    <string name="gamebox_ai_subtitle">AI υπότιτλοι</string>
     <string name="gamebox_app_not_find">Εγκατάσταση της εφαρμογής πρώτα.</string>
     <string name="gamebox_brightness">Φωτεινότητα</string>
     <string name="gamebox_browser_not_find">Εγκαταστήστε πρώτα το πρόγραμμα περιήγησης Mi</string>
@@ -3149,6 +3150,11 @@
     <string name="power_center_super_wireless_charge_noti_title">Η γρήγορη ασύρματη φόρτιση είναι ενεργή</string>
     <string name="power_center_super_wireless_charge_summary">"Αυξήστε την ταχύτητα του ανεμιστήρα ψύξης για ταχύτερη φόρτιση"</string>
     <string name="power_center_super_wireless_charge_toast_close">Η γρήγορη ασύρματη φόρτιση είναι ανενεργή</string>
+    <string name="power_center_surface_temp_high">Hot</string>
+    <string name="power_center_surface_temp_higher">Warm</string>
+    <string name="power_center_surface_temp_low">Cold</string>
+    <string name="power_center_surface_temp_lower">Cool</string>
+    <string name="power_center_surface_temp_normal">Κανονικό</string>
     <string name="power_center_time_to_boot">Ώρα ενεργοποίησης</string>
     <string name="power_center_time_to_shutdown">Ώρα απενεργοποίησης</string>
     <string name="power_center_title">Μπαταρία</string>

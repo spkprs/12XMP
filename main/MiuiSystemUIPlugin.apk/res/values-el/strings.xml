@@ -148,6 +148,7 @@
     <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="quick_controls_subtitle">Προσθήκη στοιχείων ελέγχου για τις συνδεδεμένες συσκευές σας</string>
     <string name="quick_controls_title">Στοιχεία ελέγχου συσκευής</string>
+    <string name="quick_settings_aitranslate_label">MI AI Μετάφραση</string>
     <string name="quick_settings_hang_label">Αναδυόμενα παράθυρα</string>
     <string name="quick_settings_hang_on">Μπορείτε να χρησιμοποιήσετε τα αναδυόμενα παράθυρα τώρα</string>
     <string name="quick_settings_pcmode_cancel_button">Ακύρωση</string>

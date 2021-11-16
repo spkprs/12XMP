@@ -1230,6 +1230,10 @@
     <string name="return_call_dialing">Κλήση</string>
     <string name="return_call_incoming">Εισερχόμενη</string>
     <string name="ringLabelsGroup">Ήχος κλήσης</string>
+    <string name="saf_permission_dialog_content">"Το Android δεν επιτρέπει στις Επαφές και στο Τηλέφωνο την πρόσβαση σε εγγραφές κλήσεων από προεπιλογή. Επιτρέψτε σε αυτές, την πρόσβαση στις εγγραφές κλήσεων για να μπορείτε να τις δείτε".</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Αποδοχή</string>
+    <string name="saf_permission_dialog_later">Αργότερα</string>
+    <string name="saf_permission_dialog_title">Επιτρέψτε στις Επαφές και στο Τηλέφωνο να έχουν πρόσβαση στις εγγραφές κλήσεων</string>
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σ</string>

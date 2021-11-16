@@ -136,6 +136,7 @@
     <string name="material_timepicker_select_time">Επιλέξτε ώρα</string>
     <string name="material_timepicker_text_input_mode_description">Κάντε εναλλαγή στη λειτουργία εισαγωγής κειμένου, για την εισαγωγή της ώρας.</string>
     <string name="midnight">Νύχτα</string>
+    <string name="music_null">Δεν παίζει</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή αντικειμένων</string>
