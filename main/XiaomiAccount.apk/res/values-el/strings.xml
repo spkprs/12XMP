@@ -277,6 +277,7 @@
     <string name="mipay_indentity_done">Βεβαιωθείτε</string>
     <string name="mipay_others">Αλλα</string>
     <string name="mipay_transit_card">Κάρτα μεταφοράς</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>

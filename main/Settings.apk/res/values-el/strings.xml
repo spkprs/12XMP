@@ -6648,6 +6648,8 @@
     <string name="sound_title">Ήχος</string>
     <string name="sound_vibrate_settings">Ήχος &amp; δόνηση</string>
     <string name="sound_work_settings">Ήχοι προφίλ εργασίας</string>
+    <string name="speed_mode">Λειτουργία ταχύτητας</string>
+    <string name="speed_mode_summary">Για την αποσφαλμάτωση εφαρμογών.</string>
     <string name="speaker">Ηχείο</string>
     <string name="speaker_clean">Καθαρισμός Ηχείου</string>
     <string name="special_access">Ειδική πρόσβαση στην εφαρμογή</string>

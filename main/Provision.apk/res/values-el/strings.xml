@@ -328,7 +328,7 @@
     <string name="service_policy_adjust_content">Xunlei Πολιτική απορρήτου</string>
     <string name="service_policy_download"><Data>Διαβάστε και συμφωνήστε με τις &lt;a href=%1$s>Xunlei Πολιτική απορρήτου&lt;/a > και &lt;a href=%1$s>Xunlei Network Services Συμφωνία χρήστη&lt;/a > πριν συνεχίσετε.</Data></string>
     <string name="service_privacy_index">Πολιτική Απορρήτου</string>
-    <string name="service_security_over_r"><Data>Διαβάστε και συμφωνήστε με την &lt;a href=%1$s>Πολιτική απορρήτου&lt;/a >.&lt;br/>&lt;br/>Σύμφωνα με τα πρότυπα του Android R, μια εφάπαξ άδεια θα ανακληθεί εντός (περίπου &lt;xliff:g example=5 δευτ id=short>%2$s&lt;/xliff:g>) μετά τη διακοπή της λειτουργίας της αντίστοιχης εφαρμογής. Εάν ανοίξετε την εφαρμογή κατά τη διάρκεια αυτού του σύντομου χρονικού διαστήματος, η άδεια θα ανακληθεί τότε.</Data></string>
+    <string name="service_security_over_r"><Data>Διαβάστε και συμφωνήστε με την &lt;a href=%1$s>Πολιτική απορρήτου&lt;/a>.&lt;br/>&lt;br/> Σύμφωνα με του Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g> πρότυπα, μια εφάπαξ άδεια θα ανακληθεί εντός καθορισμένου χρόνου (περίπου &lt;xliff:g example=5 δευτ id=short>%3$s&lt;/xliff:g>)μετά τη διακοπή της λειτουργίας της αντίστοιχης εφαρμογής. Εάν ανοίξετε την εφαρμογή κατά τη διάρκεια αυτού του σύντομου χρονικού διαστήματος, η άδεια θα ανακληθεί τότε.</Data></string>
     <string name="service_sim_activation">SIM ενεργοποίηση κάρτας</string>
     <string name="servicestate_title">Δήλωση σχετικά με τις βασικές υπηρεσίες</string>
     <string name="setting_locale">Ρύθμιση τοποθεσίας…</string>
