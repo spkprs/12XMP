@@ -216,4 +216,32 @@
     <item quantity="other">%d επιλεγμένα στοιχεία</item>
     <item quantity="one">%d επιλεγμένο στοιχείο</item>
   </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d αυριανές εκδηλ.</item>
+        <item quantity="one">%d αυριανή εκδήλ.</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">Επόμενη εκδήλ. σε %d λεπ.</item>
+        <item quantity="one">Επόμενη εκδήλ. σε %d λεπ.</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d τρέχουσες εκδηλώσεις</item>
+        <item quantity="one">%d τρέχουσα εκδήλωση</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s ημ.</item>
+        <item quantity="one">%1$s ημ.</item>
+    </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">%d προγρ/σμένες εκδηλ. για σήμερα</item>
+        <item quantity="one">%d προγρ/σμένες εκδήλ. για σήμερα</item>
+    </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">Σε %d λεπ.</item>
+        <item quantity="one">Σε %d λεπ.</item>
+    </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">%d περισ. εκδηλ.</item>
+        <item quantity="one">%d περισ. εκδήλ.</item>
+    </plurals>
 </resources>
