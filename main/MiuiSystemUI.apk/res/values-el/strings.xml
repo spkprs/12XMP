@@ -340,6 +340,7 @@
     <string name="adb_warning_title">Επιτρέπετε την κατ. σφαλμ. USB?</string>
     <string name="add_tile">Προσθήκη διακόπτη</string>
     <string name="adjust_button_width">Ρυθμίστε το πλάτος πλήκτρου</string>
+    <string name="afternoon">Απόγευμα</string>
     <string name="airplane_mode">Πτήση</string>
     <string name="alarm_template">στο %1$s</string>
     <string name="alarm_template_far">στις %1$s</string>
@@ -347,6 +348,7 @@
     <string name="allow_mock_location_summary">Να επιτρέπονται οι ψευδείς τοποθεσίες</string>
     <string name="always_use_accessory">Χρήση προεπιλογών για αυτό το αξεσουάρ USB</string>
     <string name="always_use_device">Χρήση προεπιλογών για αυτή τη συσκευή USB</string>
+    <string name="am">ΠΜ</string>
     <string name="animator_duration_scale_title">Κλίμακα Διάρκειας Κίνησης</string>
     <string name="apn_settings_not_available">Οι ρυθμίσεις ονόματος σημείου πρόσβασης δεν είναι διαθέσιμες για αυτόν το χρήστη</string>
     <string name="app_accessed_mic">%1$s πρόσβαση στο μικρόφωνό σας</string>
@@ -787,6 +789,7 @@
     <string name="error_disable_esim_msg">Η eSIM δεν μπορεί να απενεργοποιηθεί λόγω σφάλματος.</string>
     <string name="error_disable_esim_title">Δεν είναι δυνατή η απενεργοποίηση της eSIM</string>
     <string name="ethernet_label">Ethernet</string>
+    <string name="evening">Απόγευμα</string>
     <string name="expand_button_title">Προχωρημένες</string>
     <string name="expanded_header_battery_charged">Φορτισμένο</string>
     <string name="expanded_header_battery_charging">Φορτίζεται</string>
@@ -1033,7 +1036,6 @@
     <string name="ir_mcc">432</string>
     <string name="keep_screen_on">Παραμένει ενεργή</string>
     <string name="keep_screen_on_summary">Η οθόνη δεν θα κλείσει ποτέ όταν φορτίζεται</string>
-    <string name="keyguard_invalid_sim_puk_hint">Ο κωδικός PUK πρέπει να περιέχει %1$d ψηφία.</string>
     <string name="keyboard_key">\"</string>
     <string name="keyboard_key_back">Πίσω</string>
     <string name="keyboard_key_backspace">Backspace</string>
@@ -1118,6 +1120,7 @@
     <string name="keyguard_indication_trust_disabled">Η συσκευή θα παραμείνει κλειδωμένη μέχρι να ξεκλειδώσετε με το χέρι</string>
     <string name="keyguard_indication_trust_unlocked">Διατηρούνται ξεκλείδωτα από TrustAgent</string>
     <string name="keyguard_instructions_when_pattern_disabled">Πατήστε Μενού για να ξεκλειδώσετε.</string>
+    <string name="keyguard_invalid_sim_puk_hint">Ο κωδικός PUK πρέπει να περιέχει %1$d ψηφία.</string>
     <string name="keyguard_left_mi_wallet">Αριθμομηχανή</string>
     <string name="keyguard_left_remotecentral">Μηνύματα</string>
     <string name="keyguard_left_smarthome">Επαφές</string>
@@ -1308,6 +1311,8 @@
     <string name="manage_notifications_text">Διαχείριση</string>
     <string name="managed_profile_foreground_toast">Χρησιμοποιείτε το προφίλ εργασίας σας</string>
     <string name="managed_user_title">Όλες οι εφαρμογές εργασίας</string>
+    <string name="material_timepicker_am">ΠΜ</string>
+    <string name="material_timepicker_pm">ΜM</string>
     <string name="mdb_entering">Εκκίνηση…</string>
     <string name="mdb_restore_cancel">Άκυρο</string>
     <string name="mdb_restore_info1">Επαναφορά δεδομένων του τηλεφώνου σας</string>
@@ -1330,6 +1335,7 @@
     <string name="memory_leak">Διαρροή μνήμης</string>
     <string name="menu_ime">Διακόπτης πληκτρολογίου</string>
     <string name="mic_active">Ενεργό μικρόφωνο</string>
+    <string name="midnight">Νύχτα</string>
     <string name="miui_guide_dialog_button_negative_text">Ρυθμίσεις</string>
     <string name="miui_guide_dialog_button_positive_text">Εντάξει</string>
     <string name="miui_guide_dialog_message">Οι ήχοι πολυμέσων (μουσική, βίντεο κ.λπ.) θα εξακολουθήσουν να αναπαράγονται σε λειτουργία αθόρυβης λειτουργίας. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</string>
@@ -1699,6 +1705,7 @@
     <string name="pip_skip_to_prev">Μετάβαση στην προηγούμενη</string>
     <string name="please_slide_agian">Σύρετε ξανά</string>
     <string name="plugins">Πρόσθετα</string>
+    <string name="pm">ΜΜ</string>
     <string name="pointer_location">Θέση δείκτη</string>
     <string name="pointer_location_summary">Επικάλυψη οθόνης που προβάλει τα τρέχοντα δεδομένα αφής</string>
     <string name="power_charging">%1$s - %2$s</string>

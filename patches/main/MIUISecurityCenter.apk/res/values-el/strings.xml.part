@@ -4,4 +4,6 @@
   <string name="card_main_hbassistant_title">Εργασίες</string>
   <string name="card_main_deepclean_wechat_title">Προστασία</string>
   <string name="card_main_deepclean_qq_title">Χρονοδιακόπτης</string>
+  <string name="dev_usb_opt_title">Λειτουργία Προγραμματιστή</string>
+  <string name="dev_usb_opt_summary">Απενεργ/ση Λειτουργίας Προγραματιστή και απασφαλ/ση USB  κατά την βελτιστοποίηση</string>
 </resources>
