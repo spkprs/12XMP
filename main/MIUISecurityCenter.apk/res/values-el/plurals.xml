@@ -890,8 +890,8 @@
         <item quantity="one">%d λεπ.</item>
     </plurals>
     <plurals name="summary_result_lock_screen_format">
-        <item quantity="other">Μετά το κλείδωμα της οθόνης %d λεπ.</item>
-        <item quantity="one">Μετά το κλείδωμα της οθόνης %d λεπ.</item>
+        <item quantity="other">Μετά από %d λεπ. κλείδωμα οθόνης</item>
+        <item quantity="one">Μετά από %d λεπ. κλείδωμα οθόνης</item>
     </plurals>
   <plurals name="gd_app_edit_desc">
      <item quantity="other">Προσθέστε έως %d εφαρμ. Σύρετε για αναδιάταξη.</item>
