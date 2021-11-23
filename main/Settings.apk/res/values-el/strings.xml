@@ -2919,6 +2919,7 @@
     <string name="freeform_guide_move_title">Μετακίνηση</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Σύρετε το αιωρούμενο παράθυρο στη γωνία της οθόνης</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Ελαχιστοποίησηση</string>
+    <string name="freeform_guide_multi_window">Πολυεργασία</string>
     <string name="freeform_guide_notification_drop_down_summary">Πατήστε και, τραβήξτε προς τα κάτω μια ειδοποίηση</string>
     <string name="freeform_guide_notification_drop_down_title">Άνοιγμα</string>
     <string name="freeform_guide_settings">Αιωρούμενο παράθυρο</string>
@@ -2927,6 +2928,7 @@
     <string name="freeform_guide_slide_up_to_close_summary">Σύρετε προς τα πάνω από τη γραμμή ενεργειών</string>
     <string name="freeform_guide_slide_up_to_close_title">Κλείσιμο</string>
     <string name="freeform_vedio_description">· Πατήστε παρατεταμένα και, τραβήξτε προς τα κάτω μια ειδοποίηση για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.\n· Πατήστε \"Αιωρούμενα παράθυρα\" στα Πρόσφατα για να επιλέξετε εφαρμογές.</string>
+    <string name="freeform_vedio_description_pad">Σύρετε στοιχεία από την κάτω γραμμή για να ανοίξετε κυμαινόμενα παράθυρα</string>
     <string name="frequently_fragment_delete">Διαγραφή</string>
     <string name="frequently_fragment_tempty">Τα στοιχεία με συχνή χρήση θα πρέπει να αναφέρονται εδώ</string>
     <string name="friday">Παρασκευή</string>
@@ -6149,6 +6151,7 @@
     <string name="secure_keyguard_business_title">Κωδικός κλειδώματος οθόνης</string>
     <string name="secure_lock_encryption_warning">Επειδή έχετε ενεργοποιημένη την υπηρεσία προσβασιμότητας, η συσκευή σας δεν θα χρησιμοποιήσει το κλείδωμα οθόνης για βελτίωση της κρυπτογράφησης δεδομένων.</string>
     <string name="security_center_title">Ασφάλεια</string>
+    <string name="security_check_progress_dialog_message">Έλεγχος για θέματα ασφαλείας…</string>
     <string name="security_dashboard_summary">Κλείδωμα οθόνης, δακτυλικό αποτύπωμα</string>
     <string name="security_dashboard_summary_face">Κλείδωμα οθόνης, ξεκλείδωμα προσώπου</string>
     <string name="security_dashboard_summary_no_fingerprint">Κλείδωμα οθόνης</string>

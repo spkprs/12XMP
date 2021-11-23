@@ -2,7 +2,7 @@
 <resources>
     <string name="account_other">Άλλα</string>
     <string name="actionbar_button_up_description">Πίσω</string>
-    <string name="app_name">Υπηρεσία UniPlay</string>
+    <string name="app_name">Μετάδοση</string>
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>

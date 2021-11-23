@@ -194,6 +194,12 @@
     <string name="context_menu_send_sms">Αποστολή μηνύματος</string>
     <string name="context_menu_view_contact">Προβολή επαφής</string>
     <string name="context_menu_view_mms">Προβολή MMS</string>
+    <string name="conv_content_defraud_tip">Αναφορά απάτης</string>
+    <string name="conv_content_risk">Απεστάλη από άγνωστο αριθμό</string>
+    <string name="conv_head_link_tip">Αναφορά απάτης</string>
+    <string name="conv_head_risk_tip">Μπορεί να είναι υπερατλαντική απάτη</string>
+    <string name="conv_item_official">Επίσημη</string>
+    <string name="conv_item_risk_tip">Κίνδυνος</string>
     <string name="conversation">Μηνύματα</string>
     <string name="conversation_listitem_avatar">Εικονίδιο</string>
     <string name="converting_to_picture_message">Μετατροπή σε μήνυμα πολυμέσων…</string>
@@ -434,6 +440,7 @@
     <string name="menu_new_manual">Εισάγετε αριθμό τηλεφώνου</string>
     <string name="menu_pick_from_contact">Επιλέξτε από τις επαφές</string>
     <string name="menu_preferences">Ρυθμίσεις</string>
+    <string name="menu_report">Ανατροφοδότηση</string>
     <string name="menu_send_as_common">Αποστολή ως SMS</string>
     <string name="menu_sms_block">Σε Λίστα αποκλεισμού</string>
     <string name="menu_traffic_destination">Προορισμός</string>

@@ -106,6 +106,7 @@
     <string name="mic_sound">Μικρόφωνο</string>
     <string name="miuix_access_state_desc">Επιλεγμένα</string>
     <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="mtrl_badge_numberless_content_description">Νέα ειδοποίηση</string>
     <string name="mtrl_chip_close_icon_content_description">Αφαίρεση %1$s</string>

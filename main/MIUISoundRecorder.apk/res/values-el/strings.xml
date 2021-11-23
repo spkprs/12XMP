@@ -109,6 +109,7 @@
     <string name="head_set_tip_dialog_ok">Το κατάλαβα</string>
     <string name="head_set_tip_dialog_title">Χρήση εσωτ. μικροφώνου</string>
     <string name="invalid_argument">Μη έγκυρη παράμετρος</string>
+    <string name="invisible_mode_error_tip">Απενεργοποιήστε τη λειτουργία Incognito στις Ρυθμίσεις για να μπορέσετε να χρησιμοποιήσετε το μικρόφωνο.</string>
     <string name="keywords_search_call_record">Εγγραφή κλήσεων, Εγγραφή κλήσης, Εγγραφή κλήσεων, Εγγραφές κλήσεων</string>
     <string name="keywords_search_record">Νέα εγγραφή, Προσθήκη εγγραφής, Εγγραφή, Εγγραφές, Μεταγραφή, Μεταγραφή, Εγγραφή, Ηχογράφηση, Ηχογράφηση, Εφαρμογή εγγραφής, Εγγραφή εφαρμογής, Πώς μπορώ να καταγράψω, Τρόπος εγγραφής ήχου, Πού είναι η συσκευή εγγραφής, Εγγραφή MIUI</string>
     <string name="keywords_search_record_list">Εγγραφή, Αντίγραφα, Μεταγραφές, Εγγραφή, Καταγραφή μεριδίων, Καταγραφή μεριδίων, Καταγραφή, Ηχογραφήσεις</string>
@@ -132,6 +133,10 @@
     <string name="mi_account_msg">Συνδεθείτε λογαριασμό Mi για να χρήση ακρίβειας αναγνώρισης στο διαδίκτυο, με 30 λεπτά δωρεάν για νέο χρήστη</string>
     <string name="mi_account_ok">Είσοδος</string>
     <string name="mi_account_title">Λογαριασμός Mi</string>
+    <string name="miuix_access_state_desc">Επιλεγμένα</string>
+    <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
+    <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Ανανεώνεται…</string>
@@ -227,6 +232,7 @@
     <string name="preference_tip_rename">Χειροκίνητη μετονομασία εγγραφών</string>
     <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
     <string name="privacy_settings">Απόρρητο</string>
+    <string name="progress">Γραμμή εξέλιξης αναπαραγωγής</string>
     <string name="recognition_button_add_to_queue">Προσθήκη στην ουρά</string>
     <string name="recognition_button_cancel">Όχι τώρα</string>
     <string name="recognition_button_start">Μετεγγραφή</string>
@@ -325,6 +331,11 @@
     <string name="rename_no_more_tip">Να μην εμφανιστεί ξανά</string>
     <string name="retry">Επανάληψη</string>
     <string name="runtime_permission_ungranted">Αδυναμία χρήσης της Ηχογράφησης λόγω ανεπαρκών δικαιωμάτων</string>
+    <string name="saf_permission_dialog_content">Λόγω των περιορισμών του Android, η Εγγραφή χρειάζεται άδεια πρόσβασης σε εγγραφές που έχουν γίνει από άλλες εφαρμογές. Επιτρέψτε την πρόσβαση σε αυτές τις εγγραφές για να μπορείτε να τις δείτε.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Ρυθμίσεις</string>
+    <string name="saf_permission_dialog_later">Όχι ευχαριστώ</string>
+    <string name="saf_permission_dialog_no_more_tip">"Μην εμφανιστεί ξανά"</string>
+    <string name="saf_permission_dialog_title">Απαιτούμενες άδειες</string>
     <string name="save_as">Αποθήκευση ως</string>
     <string name="save_record_dialog_title">Αποθήκευση εγγραφής</string>
     <string name="search_app">Ηχογράφηση</string>
@@ -339,6 +350,7 @@
     <string name="search_silent_mode">Σίγαση κουδουνίσματος κατά την εγγραφή</string>
     <string name="search_tip_rename">Χειροκίνητη μετονομασία εγγραφών</string>
     <string name="service_instructions">Ifly όροι υπηρεσίας</string>
+    <string name="settings_saf_permission">Άδεια διαχείρισης αρχείων</string>
     <string name="share">Κοινή χρήση</string>
     <string name="share_dialog_title">Κοινή χρήση μέσω</string>
     <string name="shortcut_records">Εγγραφές</string>

@@ -776,6 +776,7 @@
     <string name="transfer_bottom_tip">Δεν θα μπορείτε να χρησιμοποιήσετε Wi-Fi ή Bluetooth κατά τη διάρκεια της μεταφοράς. Μην αφήνετε αυτήν τη οθόνη.</string>
     <string name="transfer_finish_bottom_tip">Αν δεν πρόκειται να χρησιμοποιήσετε πάλι την παλιά συσκευή σας, μπορείτε να διαγράψετε όλα τα δεδομένα σε αυτήν αφού επιβεβαιώσετε ότι όλα τα σημαντικά στοιχεία μεταφέρθηκαν με επιτυχία.</string>
     <string name="transfer_finish_summary">Μεταφέρθηκε %1$s (%2$s)</string>
+    <string name="transfer_long_pause_in_progress">Μεταφέρεται…</string>
     <string name="transfer_lose_connect_summary">Φαίνεται ότι η σύνδεση διακόπηκε. Σύνδεση ξανά.</string>
     <string name="transfer_lose_connect_title">Η σύνδεση διακόπτεται</string>
     <string name="transfer_multi_connect_summary">Η μεταφορά σας διακόπηκε για λόγους ασφαλείας. Μπορείτε να πατήσετε \"Σύνδεση ξανά\" για να συνεχίσετε οπωσδήποτε.</string>

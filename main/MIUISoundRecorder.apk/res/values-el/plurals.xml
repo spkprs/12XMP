@@ -72,4 +72,8 @@
         <item quantity="other">%d ηχογραφήσεις</item>
         <item quantity="one">%d ηχογράφηση</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d νέες εγγραφές</item>
+        <item quantity="one">%d νέα εγγραφή</item>
+    </plurals>
 </resources>

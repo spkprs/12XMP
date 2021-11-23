@@ -1370,6 +1370,7 @@
     <string name="msim_sim_radio_off">Απενεργοποιημένη</string>
     <string name="msim_switch_data_conn_toast">Βεβαιωθείτε για την κανονική είσοδο στο Internet, επιλέξατε ως προτιμώμενο δίκτυο το 4G (προτίμηση 3G ), μπορείτε να το αλλάξετε στις πληροφ. SIM.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Η υποδοχή κάρτας SIM 2 υποστηρίζει μόνο δίκτυα GSM. Προτιμώμενος τύπος δικτύου για αυτή την υποδοχή έχει αλλάξει σε \"μόνο 2G\".</string>
+    <string name="mtn_simlock_text_tip">Η τοποθετημένη κάρτα SIM δεν πληροί τις απαιτήσεις. Πρέπει να τοποθετήσετε μια κάρτα SIM που απαιτείται από το συμβόλαιο πριν χρησιμοποιήσετε το τηλέφωνο. Για λεπτομέρειες, παρακαλούμε επικοινωνήστε με τον τοπικό φορέα σας.</string>
     <string name="multi_category_disable">Πολλαπλών κατηγοριών ανενεργό</string>
     <string name="multi_category_enable">Πολλαπλών κατηγοριών ενεργό</string>
     <string name="n28_summary">Χρήση ζώνης συχνοτήτων 803MHz</string>
@@ -1871,6 +1872,7 @@
     <string name="simContacts_title">Διαχείριση επαφών κάρτας SIM</string>
     <string name="simFdnContacts_empty">Δεν υπάρχουν επαφές σταθερού αριθμού κλήσης.</string>
     <string name="sim_accounts">Λογαριασμοί SIM</string>
+    <string name="sim_can_not_read">Η υποδοχή κάρτας %d μπορεί να διαβάσει μόνο την κάρτα SIM του φορέα MTN</string>
     <string name="sim_card_num">Sim %s</string>
     <string name="sim_change_data_message">Χρήση %1$s αντί %2$s για δεδομένα κινητής τηλεφωνίας;</string>
     <string name="sim_change_data_title">Αλλαγή SIM δεδομένων;</string>
@@ -1946,6 +1948,7 @@
     <string name="smart_dual_sim_title">Έξυπνη Διπλή SIM</string>
     <string name="smart_forwarding_settings_menu">Έξυπνη προώθηση</string>
     <string name="smart_forwarding_settings_menu_summary">Όταν ένας αριθμός δεν είναι προσβάσιμος, προωθήστε πάντα κλήσεις στον άλλο αριθμό σας</string>
+    <string name="smart_multinetwork_acceleration_title">Έξυπνη επιτάχυνση πολλαπλών δικτύων</string>
     <string name="sms_messages_title">Sms</string>
     <string name="smsc_dialog_message">Βεβαιωθείτε ότι ο αριθμός που πληκτρολογείτε είναι σωστός. Διαφορετικά, δεν θα μπορείτε να στέλνετε ή να λαμβάνετε SMS. Επικοινωνήστε με τον πάροχό σας για να επιβεβαιώσετε τον αριθμό SMSC.</string>
     <string name="speed_label_fast">Γρήγορη</string>
@@ -2263,7 +2266,7 @@
     <string name="wfcmode_wifi_preferred">Μέσω Wi-Fi</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Το σημείο πρόσβασης είναι προσωρινά γεμάτο</string>
     <string name="wifi_auto_sel_wapi_cert">Αυτόματη επιλογή</string>
-    <string name="wifi_call_accept">Παράλειψη</string>
+    <string name="wifi_call_accept">Αποδοχή</string>
     <string name="wifi_call_available_message">Μπορείτε να πραγματοποιείτε τώρα κλήσεις χρησιμοποιώντας Wi-Fi. Εάν είστε συνδεδεμένοι σε ένα δίκτυο Wi-Fi, θα είστε σε θέση να μιλάτε ακόμη και όταν βρίσκεστε στις περιοχές που δεν διαθέτουν κάλυψη δικτύου κινητής τηλεφωνίας.</string>
     <string name="wifi_call_available_title">Ενεργοποίηση κλήσεων Wi-Fi</string>
     <string name="wifi_call_cancel">Περισσότερα</string>

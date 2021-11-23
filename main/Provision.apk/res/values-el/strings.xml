@@ -36,6 +36,7 @@
     <string name="clock_introduction">Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να προβάλετε την ώρα, καθώς και χρονοδιακόπτη, παγκόσμιο ρολόι, χρονόμετρο, ρύθμιση συναγερμών και πολλά άλλα.</string>
     <string name="close">Κλείσιμο</string>
     <string name="close_location_service_setting">Μπορείτε να επιλέξετε την απενεργοποίηση πρόσβασης στην τοποθεσία στις Ρυθμίσεις > Προστασία απορρήτου > Διαχείρηση ή περιορισμός Αδειών για μεμονωμένες εφαρμογές στην Ασφάλεια.</string>
+    <string name="cloud_service_discount">Εκπτώσεις πακέτων αποθήκευσης</string>
     <string name="cm_terms_content">Για την βελτίωση των παρεχόμενων υπηρεσιών, ο πάροχος δικτύου κινητής της επιλογής σας, μπορεί να συλλέξει τα προσωπικά σας δεδομένα και πληροφορίες σχετικά με αυτή τη συσκευή στους διακομιστές του χρησιμοποιώντας δίκτυα Wi‑Fi ή δεδομένα κινητής. Αυτές οι πληροφορίες θα χρησιμοποιηθούν μόνο για στατιστικούς λόγους, για την βελτίωση των παρεχόμενων υπηρεσιών και την παροχή πιο εξατομικευμένου περιεχομένου. Οι πληροφορίες αυτές δεν θα χρησιμοποιηθούν για την αναγνώρισή σας προσωπικά και δεν θα αποκαλυφθούν σε τρίτους.</string>
     <string name="cm_terms_title">Όροι Χρήσης Δικτύου Κινητής Τηλεφωνίας</string>
     <string name="compass_introduction">Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για πλοήγηση, καθώς και να δείτε συντεταγμένες, ατμοσφαιρική πίεση και υψόμετρο.</string>
@@ -76,6 +77,7 @@
     <string name="enable_accessibility_dialog_message">Ενεργοποιήσατε το TalkBack έχοντας πατήσει στην οθόνη με 2 δάκτυλα για παραπάνω από 10 δευτ.. Το TalkBack παρέχει φωνητική βοήθεια για άτομα με προβλήματα όρασης. Εάν το ενεργοποιήσατε κατά λάθος, πατήστε το πλήκτρο Ακύρωση και στην συνέχεια κάντε διπλό χτύπημα στην οθόνη.</string>
     <string name="enable_accessibility_dialog_negative_btn">Ακύρωση</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="exclusive_member_merchandise">Αποκλειστικά προϊόντα</string>
     <string name="fast_application_introduction">Το πλαίσιο υπηρεσιών γρήγορων εφαρμογών είναι ένα βασικό πλαίσιο υπηρεσιών που υποστηρίζει τη διανομή και τη λειτουργία γρήγορων εφαρμογών.</string>
     <string name="fast_pairing_introduction">Το Mi Link χρησιμοποιεί τις δυνατότητες Bluetooth του MIUI για να σας επιτρέπει να συνδέεστε γρήγορα με κοντινές συσκευές Bluetooth.</string>
     <string name="font_hint_large">Προεπιλογή κειμένου</string>
@@ -110,6 +112,8 @@
     <string name="location_location">Οι υπηρεσίες διάσωσης μπορούν να λάβουν την τρέχουσα τοποθεσία σας κατόπιν αιτήματος</string>
     <string name="location_miui">Για να μπορέσετε να χρησιμοποιήσετε το MIUI, πρέπει να συμφωνήσετε με τους παραπάνω όρους και προϋποθέσεις</string>
     <string name="lockscreen_introduction">Το Καρουσέλ ταπετσαρίες σας επιτρέπει να έρχονται καθημερινά νέες εικόνες στην οθόνη κλειδώματος.</string>
+    <string name="member_exclusive_medal">Σήμα μέλους</string>
+    <string name="membership_rights_tip">Συνδεθείτε στο λογαριασμό σας Mi για να απολαμβάνετε αποκλειστικά προνόμια</string>
     <string name="message_introduction">Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για αποστολή και λήψη SMS.</string>
     <string name="mi_account_introduction">Ο λογαριασμός Mi σας επιτρέπει την καταχώριση, είσοδο και διαχείριση λογαριασμών συστήματος.</string>
     <string name="mint_keyboard_oobe_checkbox">"Διάβασα και συμφώνησα με την πολιτική απορρήτου πληκτρολογίου Mint Keyboard"</string>
@@ -341,6 +345,11 @@
     <string name="sim_card_detection">Τοποθετήστε την κάρτα SIM</string>
     <string name="sim_card_detection_info">Για να τοποθετήσετε την κάρτα SIM, διαβάστε τις οδηγίες που παραλάβατε με την συσκευή σας.</string>
     <string name="sim_card_detection_mobile_not_available">Η κάρτα SIM δεν μπόρεσε να συνδεθεί στο δίκτυο</string>
+    <string name="sim_card_dial_card1">SIM1 για κλήσεις</string>
+    <string name="sim_card_dial_card2">SIM2 για κλήσεις</string>
+    <string name="sim_card_do_not_select_dial_card">Επιλέξτε κάρτα SIM για κλήση</string>
+    <string name="sim_card_network_card1">Δεδομένα SIM1</string>
+    <string name="sim_card_network_card2">Δεδομένα SIM2</string>
     <string name="sim_dectection_next">Συνέχεια</string>
     <string name="sim_redetection">Ελέγξτε ξανά</string>
     <string name="sim_scard_detecting_check_mobile_not_available">Η κάρτα SIM δεν μπόρεσε να συνδεθεί σε ένα έγκυρο δίκτυο παρόχου. Βεβαιωθείτε ότι έχετε επαρκείς πόρους για το υπόλοιπό σας και προσπαθήστε να συνδεθείτε ξανά.</string>
@@ -431,6 +440,9 @@
     <string name="wc_notice_link_summary">"Ανάγνωση και αποδοχή τις %1$s και %2$s υπηρεσίες παροχής περιεχομένου τρίτου μέρους πριν από τη χρήση αυτής της λειτουργίας."</string>
     <string name="welcome">Καλωσορίσατε!</string>
     <string name="withdraw_consent">Εάν αποσύρετε τη συγκατάθεσή σας, οι υπηρεσίες του Wallpaper Carousel θα απενεργοποιηθούν..</string>
+    <string name="xiaomi_game_discounts">Προωθητικές ενέργειες παιχνιδιού</string>
+    <string name="xiaomi_membership_rights">Μέλος Xiaomi Cloud</string>
+    <string name="xiaomi_video_discount">Προσφορές Mi Video</string>
     <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
     <string name="other_settings_upload_debug_log_detail">"Βοηθήστε να βελτιώσετε την εμπειρία της συσκευής σας MIUI στέλνοντας αυτόματα δεδομένα διάγνωσης, χρήσης συσκευής και εφαρμογών στην Xiaomi. Αυτό θα σας βοηθήσει να βελτιώσετε τη διάρκεια ζωής της μπαταρίας, τη σταθερότητα του συστήματος και των εφαρμογών MIUI και πολλά άλλα.
 Τα δεδομένα που θα στείλετε θα περιέχουν γενικές πληροφορίες σχετικά με τη συσκευή σας και τον τρόπο χρήσης της (π.χ. επίπεδο μπαταρίας, δραστηριότητα συστήματος και εφαρμογών και σφάλματα). Τα δεδομένα θα χρησιμοποιηθούν για τη βελτίωση των συσκευών MIUI.
