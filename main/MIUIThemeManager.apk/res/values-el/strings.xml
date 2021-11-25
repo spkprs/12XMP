@@ -651,6 +651,7 @@
     <string name="personalize_title">Ταπετσαρία και εξατομίκευση</string>
     <string name="personalize_wallpaper_sub_title">Super ταπετσαρίες και προβαλλόμενες εικόνες</string>
     <string name="personalize_wallpaper_title">Ταπετσαρία</string>
+    <string name="personalized_cta_content_text">Καλώς ήρθατε στα Θέματα! Διαχειριστείτε τις ταπετσαρίες σας, τους ήχους κλήσης, τις γραμ/σειρές και πολλά άλλα..</string>
     <string name="phone_exit_theme_warning_content">Μετά την αποσύνδεσή σας δεν θα μπορείτε να εκτελέσετε τις ακόλουθες ενέργειες:\n1. Προβολή και χρήση των στοιχείων που αγοράσατε ή προσθέσατε στα αγαπημένα σας.\n2. Να προσθέσετε σχόλια και συμπάθειες, να ακολουθήσετε άλλα άτομα και να αλληλεπιδράσετε μαζί τους.</string>
     <string name="phone_exit_theme_warning_title">Έξοδος από θέματα;</string>
     <string name="phone_log_in_theme">Είσοδος στα θέματα</string>

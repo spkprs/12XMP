@@ -505,6 +505,7 @@
   <string name="individuation_recommend_message">Ενεργοποιήστε τις συστάσεις για να λαμβάνετε εξατομικευμένες προτάσεις με βάση τις προτιμήσεις σας.</string>
   <string name="individuation_recommend_title">Συστάσεις</string>
   <string name="input_hint_prefix">Εισάγετε %1$s</string>
+  <string name="input_length_exceeds_limit">Το κείμενο που πληκτρολογήσατε είναι πολύ μεγάλο</string>
   <string name="installing_apk">Εγκατάσταση…</string>
   <string name="insufficient_balance">ανεπαρκής ισορροπία, επαναφόρτιση τώρα</string>
   <string name="insufficient_charge">η επαναφόρτιση δεν είναι αρκετή, αν χρειαστεί να αγοράσετε παρακαλώ συνεχίστε να επαναφορτίσετε</string>
@@ -875,7 +876,10 @@
   <string name="reply_comment_hint">Απάντηση σε %s:</string>
   <string name="report">Έκθεση</string>
   <string name="report_comment_success">Θα εξετάσουμε την αναφορά σας. Ευχαριστώ για τα σχόλιά σας.</string>
+  <string name="request_agree">Αποδοχή</string>
   <string name="request_camera_permission_message">Αυτή η υπηρεσία πρέπει να ζητήσει την άδειά σας, ακολουθώντας αυστηρά τους σχετικούς νόμους για την προστασία των προσωπικών σας στοιχείων: &lt;br>&lt;br>&lt;b>Πρόσβαση Κάμερας: εμπειρία υπηρεσιών καταγραφής σε πραγματικό χρόνο για τη ρύθμιση του Avatar &lt;/b>&lt;br>&lt;br> Εάν δεν συμφωνήσετε με τις παραπάνω άδειες, αυτή η λειτουργία δεν θα λειτουργήσει σωστά, αλλά δεν θα επηρεάσει τη χρήση των βασικών λειτουργιών αυτής της εφαρμογής. Μπορείτε να επιλέξετε να απενεργοποιήσετε τις παραπάνω  άδειες από τις ρυθμίσεις του συστήματος για να αποσύρετε τη συγκατάθεσή σας.</string>
+  <string name="request_cancel">Ακύρωση</string>
+  <string name="request_gallery_permission_message">Να επιτρέπεται η πρόσβαση στη Συλλογή:&lt;br />Για τη ρύθμιση φωτογραφιών προφίλ</string>
   <string name="restart_download">Επανεκκίνηση</string>
   <string name="restart_immediate">Επανεκκίνηση</string>
   <string name="resume_download">Συνεχίσετε</string>

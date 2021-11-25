@@ -2924,6 +2924,7 @@
     <string name="freeform_guide_notification_drop_down_title">Άνοιγμα</string>
     <string name="freeform_guide_settings">Αιωρούμενο παράθυρο</string>
     <string name="freeform_guide_slide_to_small_freeform_summary">Κρατήστε πατημένο το κάτω μέρος του παραθύρου και σύρετέ το στην επάνω δεξιά γωνία.\nΑυτή η δυνατότητα λειτουργεί μόνο όταν η πλοήγηση του συστήματος έχει ρυθμιστεί σε χειρονομίες.</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Σύρετε τη γωνία για να ελαχιστ/σετε μια εφαρμογή</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Ελαχιστοποίηση εφαρ/γής</string>
     <string name="freeform_guide_slide_up_to_close_summary">Σύρετε προς τα πάνω από τη γραμμή ενεργειών</string>
     <string name="freeform_guide_slide_up_to_close_title">Κλείσιμο</string>
@@ -4487,6 +4488,8 @@
     <string name="multi_network_acceleration_app_settings">Επιτάχυνση δικτύου για εφαρμογές</string>
     <string name="multi_touch_points_category_title">Σημεία Multi-touch</string>
     <string name="multi_touch_points_preference">Επανεκκίνηση για να ενεργοποιήσετε τις ρυθμίσεις</string>
+    <string name="multi_window_cvw_summary">Σύρετε τη γωνία για μετάβαση σε ένα Αιωρούμενο παράθυρο και προσαρμογή μεγέθους του</string>
+    <string name="multi_window_cvw_title">Αιωρούμενο παράθυρο</string>
     <string name="multifunction_keyboard">Πολυσύνθετη</string>
     <string name="music_equalizer">Ισοσταθμιστής</string>
     <string name="musicfx_title">Μουσικά εφέ</string>

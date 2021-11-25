@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="current_page_number">
+        <item quantity="other">Προβολή σελ. %d</item>
+        <item quantity="one">Προβολή σελ. %d</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">Συνολικά %d σελ.</item>
+        <item quantity="one">Συνολικά %d σελ.</item>
+    </plurals>
+</resources>

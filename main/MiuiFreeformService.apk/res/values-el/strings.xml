@@ -16,6 +16,7 @@
     <string name="freeform_demo_title_skip">Παράλειψη</string>
     <string name="freeform_slide_to_small_freeform">Ελαχιστ/ση Αιωρούμενου παραθ.</string>
     <string name="freeform_slide_to_small_freeform_summary">Κρατήστε τη γραμμή ενεργειών και σύρετε στην γωνία</string>
+    <string name="freeform_slide_to_small_freeform_summary_pad">Σύρετε τη γωνία για να ελαχιστ/σετε μια εφαρμογή</string>
     <string name="fullscreen_slide_to_small_freeform">Ελαχιστοποίηση εφαρμογής</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Σύρετε από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία</string>
     <string name="how_to_close_or_fullscreen_freeform">Κλείσιμο Αιωρούμενων παραθύρων ή μετάβαση σε Πλήρη οθόνη</string>
@@ -33,6 +34,8 @@
     <string name="how_to_slide_up_to_close">Κλείσιμο</string>
     <string name="how_to_slide_up_to_close_summary">Σάρωση προς τα επάνω από τη γραμμή ενεργειών ενός Αιωρούμενου παραθύρου</string>
     <string name="how_to_use_freeform">Τρόπος χρήσης των Αιωρούμενων παραθύρων</string>
+    <string name="multi_window_cvw">Αιωρούμενο παράθυρο</string>
+    <string name="multi_window_cvw_summary">Σύρετε τη γωνία για μετάβαση σε ένα Αιωρούμενο παράθυρο και προσαρμογή μεγέθους του</string>
     <string name="not_set">Δεν ρυθμίστηκε</string>
     <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="v7_preference_off">OFF</string>
