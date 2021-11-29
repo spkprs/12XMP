@@ -60,7 +60,9 @@
     <string name="high_temp_state_message">Η συσκευή σας έχει υπερθερμανθεί. Τα Δεδομένα κινητής, το σημείο Πρόσβασης Wi-Fi, το GPS και η Κάμερα θα περιοριστούν.</string>
     <string name="hints_loading_text">Μισό λεπτό…</string>
     <string name="important_warning">Προσοχή</string>
+    <string name="kill_all_back_pro_toast_message">"Δεν μπορείτε να χρησιμοποιήσετε όλες τις διεργασίες παρασκηνίου λόγω υπερθέρμανσης της συσκευής"</string>
     <string name="kill_pkg_toast_message">"Αδύνατη η χρήση εφαρμ. λόγω υπερθέρμανσης συσκευής"</string>
+    <string name="kill_some_back_pro_toast_message">"Δεν μπορείτε να χρησιμοποιήσετε κάποια διαδικασία στο παρασκήνιο λόγω υπερθέρμανσης της συσκευής"</string>
     <string name="lasttime_applist_cloud">Ενημερώσεις εφαρμογών:</string>
     <string name="lasttime_feature_cloud">Ενημερωμένες λειτουργίες:</string>
     <string name="low_battery_percent_summary">Ποσοστό: %s</string>

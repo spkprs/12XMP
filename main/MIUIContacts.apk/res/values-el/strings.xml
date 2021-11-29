@@ -680,6 +680,7 @@
     <string name="insertContactDescription">Δημιουργία επαφής</string>
     <string name="insertGroupDescription">Δημιουργία ομάδας</string>
     <string name="invalidContactMessage">Η επαφή δεν υπάρχει</string>
+    <string name="item_offical">Επίσημο</string>
     <string name="keep_local">Διατήρηση τοπικού</string>
     <string name="keep_local_btn">Χρήση εσωτ. μνήμης τηλεφώνου</string>
     <string name="label_custom_type">Προσαρμογή</string>
@@ -1015,7 +1016,7 @@
     <string name="percentage">%1$s%2$s</string>
     <string name="permission_notice_desc_access_fine_location">Για την εισαγωγή επαφών από άλλες συσκευές μέσω Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Για τη χρήση του φωνητικού ταχυδρομείου και της λειτουργίας ηχητικών μηνυμάτων</string>
-    <string name="permission_notice_desc_call_phone">Για πραγματοποίηση κλήσεων σε εφαρμογές τρίτων</string>
+    <string name="permission_notice_desc_call_phone">Για πραγματοποίηση κλήσεων μέσω συντομεύσεων από την Αρχική οθόνη</string>
     <string name="permission_notice_desc_call_phone_for_pad">Για πραγμ/ποίηση κλήσεων σε εφαρμογές τρίτων</string>
     <string name="permission_notice_desc_camera">Για τη λήψη φωτογραφιών προφίλ</string>
     <string name="permission_notice_desc_read_call_logs">Για την προβολή του ιστορικού κλήσεων</string>
@@ -1027,7 +1028,7 @@
     <string name="permission_notice_desc_write_contacts">Για τη διαχείριση επαφών</string>
     <string name="permission_notice_desc_write_external_storage">Για την προσθήκη φωτογραφιών προφίλ και την εισαγωγή vCards</string>
     <string name="permission_retry_deny">Ακύρωση</string>
-    <string name="permission_retry_dialog_msg">Για να μπορείτε να χρησιμοποιείτε την κάρτα SIM σας με αυτήν την εφαρμογή, να διαχειρίζεστε τις επαφές σας και να διατηρείτε ενημερωμένο το ιστορικό κλήσεων, επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση και να επεξεργάζεται τις επαφές σας και το ιστορικό κλήσεων, καθώς και να έχει πρόσβαση στις πληροφορίες της συσκευής.</string>
+    <string name="permission_retry_dialog_msg">Για να μπορείτε να χρησιμοποιείτε την κάρτα SIM με αυτήν την εφαρμογή, για κλήσεις μέσω συντομεύσεων της αρχικής οθόνης, την διαχείριση Επαφών και ενημερωμένο ιστορικό κλήσεων, επιτρέψτε σε αυτήν την εφαρμογή την πρόσβαση και επεξεργασία των παραπάνω, καθώς την πρόσβαση στις πληροφορίες της συσκευής.</string>
     <string name="permission_retry_dialog_msg_pad">Για να μπορείτε να χρησιμοποιήσετε την κάρτα SIM σας με αυτήν την εφαρμογή και να διαχειριστείτε τις επαφές σας, επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση και να επεξεργάζεται τις επαφές σας, καθώς και να έχει πρόσβαση στις πληροφορίες της συσκευής.</string>
     <string name="permission_retry_setting">Ρυθμίσεις</string>
     <string name="phoneLabelsGroup">Τηλέφωνο</string>
@@ -1139,7 +1140,7 @@
     <string name="privacy_password_title3">Αναβαθμίστε τον κωδικό πρόσβασής σας</string>
     <string name="privacy_password_title4">Ο κωδικός πρόσβασης αναβαθμίστηκε</string>
     <string name="privacy_settings_call_phone">Πραγμ/ποίηση κλήσεων</string>
-    <string name="privacy_settings_call_phone_description">Για πραγματοποίηση κλήσεων σε εφαρμογές τρίτων</string>
+    <string name="privacy_settings_call_phone_description">Για πραγματοποίηση κλήσεων μέσω συντομεύσεων από την Αρχική οθόνη</string>
     <string name="privacy_settings_call_phone_description_for_pad">Για πραγμ/ποίηση κλήσεων σε εφαρμογές τρίτων</string>
     <string name="privacy_settings_call_phone_for_pad">Πραγμ/ποίηση κλήσεων</string>
     <string name="privacy_settings_contacts">Επαφές και τηλέφωνο</string>

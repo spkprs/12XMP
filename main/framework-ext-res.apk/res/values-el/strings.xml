@@ -84,6 +84,7 @@
     <string name="dock_tip_splitscreen_landscape_float">Κρατήστε και σύρετε προς τα κάτω για να μεταβείτε σε ένα Αιωρούμενο παράθυρο.</string>
     <string name="dock_tip_splitscreen_portrait_drag">Σύρετε την κάθετα για να αλλάξετε τις θέσεις των δύο παραθύρων των εφαρμογών.</string>
     <string name="dock_tip_splitscreen_portrait_float">Κρατήστε και σύρετε αριστερά ή δεξιά της οθόνης για μετάβαση σε ένα Αιωρούμενο παράθυρο.</string>
+    <string name="edit_frequent_phrases">Επεξεργασία συχνών φράσεων</string>
     <string name="eighthours">8 ώρες</string>
     <string name="enable_livetalk_summary">Εξοικονομήστε 70% στις χρεώσεις σας</string>
     <string name="enable_livetalk_title">Ενεργοποίηση πακέτου Top-up</string>

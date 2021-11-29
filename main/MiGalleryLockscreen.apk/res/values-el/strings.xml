@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="login_app">Σύνδεση</string>
+    <string name="login_app_cancel">Ακύρωση</string>
+    <string name="login_app_confirm">Είσοδος</string>
+    <string name="login_xiaomi_account_summary">"Διάβασα και συμφώνησα με Mi Λογαριασμό &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Συμφωνία χρήστη&lt;/font>&lt;/a> και &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Πολιτική απορρήτου&lt;/font>&lt;/a>."</string>
+    <string name="not_agree_summary">Συμφωνήστε πρώτα με τους όρους και τις προϋποθέσεις μας</string>
+    <string name="privacy_update_title1">Ενημερωμένη πολιτική απορρήτου</string>
+    <string name="privacy_update_title2">Προσοχή</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
@@ -593,8 +600,8 @@
     <string name="privacy_update_confirm">Συμφωνώ</string>
     <string name="privacy_update_quit">Έξοδος</string>
     <string name="privacy_update_summary1">Ενημερώθηκε η Πολιτική Απορρήτου του Wallpaper Carousel:</string>
-    <string name="privacy_update_summary2">"Διαβάστε και συμφωνήστε με τη νέα έκδοση της &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Πολιτική απορρήτου&lt;/font>&lt;/a> πριν συνεχίσετε."</string>
-    <string name="privacy_update_summary3">"Δεν θα μπορείτε να συνεχίσετε να χρησιμοποιείτε το Wallpaper Carousel αν δεν συμφωνήσετε με τη νέα έκδοση της &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Πολιτική απορρήτου&lt;/font>&lt;/a>. Συμφωνείτε με την ενημερωμένη Πολιτική Απορρήτου τώρα;"</string>
+    <string name="privacy_update_summary2">"Διαβάστε και συμφωνήστε με τη νέα έκδοση της &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Πολιτική απορρήτου&lt;/font>&lt;/a> πριν συνεχίσετε."</string>
+    <string name="privacy_update_summary3">"Δεν θα μπορείτε να συνεχίσετε να χρησιμοποιείτε το Wallpaper Carousel αν δεν συμφωνήσετε με τη νέα έκδοση του &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Πολιτική απορρήτου&lt;/font>&lt;/a>. Συμφωνείτε με την ενημερωμένη Πολιτική Απορρήτου τώρα;"</string>
     <string name="prv_end"><CDATA>"Αυτά προς το παρόν."</CDATA></string>
     <string name="prv_loading"><CDATA>Ένα λεπτό </CDATA></string>
     <string name="prv_nodata"><CDATA>Δεν υπάρχουν δεδομένα</CDATA></string>

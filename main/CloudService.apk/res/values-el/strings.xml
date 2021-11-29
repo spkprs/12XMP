@@ -106,8 +106,10 @@
     <string name="dialog_add_shortcut_title">Προσθήκη συντόμευσης</string>
     <string name="dialog_msg_restore_require_wlan_china">Η επαναφορά αντιγράφων ασφαλείας απαιτεί σύνδεση σε WiFi.</string>
     <string name="dialog_storage_full_title">Ο χώρος αποθήκευσης στο cloud είναι πλήρης</string>
-    <string name="dialog_storage_low_content">Κάντε αναβάθμιση του σχεδίου αποθήκευσης στο cloud για να μπορείτε να συγχρονίζετε κανονικά στοιχεία.</string>
+    <string name="dialog_storage_low_content">Αναβαθμίστε το πρόγραμμα αποθήκευσης για να συνεχίσετε το συγχρονισμό στοιχείων.</string>
     <string name="dialog_storage_low_title">Ανεπαρκής χώρος αποθήκευσης στο cloud</string>
+    <string name="dialog_storage_upgrade_later">Όχι ευχαριστώ</string>
+    <string name="dialog_storage_upgrade_now">Αναβάθμιση</string>
     <string name="dialog_title_prompt">Προσοχή</string>
     <string name="dialog_title_require_wlan_china">Σύνδεση στο WiFi</string>
     <string name="disable_find_device_error">Αδυναμία απενεργοποίησης Εύρεσης συσκευής. %1$s</string>

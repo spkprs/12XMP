@@ -637,6 +637,7 @@
     <string name="auto_sync_account_title">Αυτόματος συγχρονισμός δεδομένων</string>
     <string name="auto_sync_personal_account_title">Αυτόματος συγχρονισμός προσωπικών δεδομένων</string>
     <string name="auto_sync_work_account_title">Αυτόματος συγχρονισμός δεδομένων εργασίας</string>
+    <string name="auto_task_operation_close">Κλείσιμο</string>
     <string name="autofill_app">Υπηρ. αυτόμ. συμπλήρωσης</string>
     <string name="autofill_confirmation_message">"&lt;b>Βεβαιωθείτε ότι εμπιστεύεστε αυτήν την εφαρμογή&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> χρησιμοποιεί αυτό που εμφανίζεται στην οθόνη σας για να προσδιορίσει τι μπορεί να συμπληρωθεί αυτόματα.</string>
     <string name="autofill_keywords">αυτόματη, συμπλήρωση, αυτόματη συμπλήρωση</string>
@@ -1033,6 +1034,8 @@
     <string name="bluetooth_enable_alphanumeric_pin">Το PIN περιέχει γράμματα ή σύμβολα</string>
     <string name="bluetooth_enable_page_scan">Ενεργοποίηση Β/Τ σάρωσης σελίδας</string>
     <string name="bluetooth_enable_page_scan_summary">Ενεργ/Απενεργοποίηση Β/Τ δοκιμή σάρωσης σελίδας</string>
+    <string name="bluetooth_enable_pts_test">Ενεργοποίηση δοκιμής bluetooth PTS</string>
+    <string name="bluetooth_enable_pts_test_summary">Απενεργοποίηση/ενεργοποίηση PTS για δοκιμή Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Πληκτρολογήστε τον κωδικό σύζευξης και στη συνέχεια πατήστε Επιστροφή ή Είσοδος</string>
     <string name="bluetooth_enter_passkey_other_device">Μπορεί επίσης να χρειαστεί να πληκτρολογήσετε αυτόν τον κωδικό στην άλλη συσκευή.</string>
     <string name="bluetooth_enter_pin_other_device">Μπορεί επίσης να χρειαστεί να πληκτρολογήσετε αυτόν τον κωδικό στην άλλη συσκευή.</string>
@@ -4031,6 +4034,7 @@
     <string name="menu_duration_3h">3 ώρες</string>
     <string name="menu_duration_6h">6 ώρες</string>
     <string name="menu_hide_system">Απόκρυψη συστήματος</string>
+    <string name="menu_item_notification_power_text">Βελτιστοποίηση μπαταρίας</string>
     <string name="menu_key">Πλήκτρο Μενού</string>
     <string name="menu_new">Νέο APN</string>
     <string name="menu_proc_stats_duration">Διάρκεια</string>
@@ -4948,6 +4952,7 @@
     <string name="owner_info_settings_summary">Χωρίς</string>
     <string name="owner_info_settings_title">Πληροφορίες Κατόχου</string>
     <string name="owner_space">Πρώτο προφίλ</string>
+    <string name="p2p_summary_enable_GPS">Αυτό λειτουργεί όταν οι υπηρεσίες τοποθεσίας είναι ενεργοποιημένες</string>
     <string name="packages_subtitle">Περιλαμβανόμενα πακέτα</string>
     <string name="pad_add_fingerprint_finish_message">Πατήστε \"Τέλος\" για πρόσθετες ρυθμίσεις</string>
     <string name="pad_add_fingerprint_message">Αγγίξτε το δάκτυλό σας στο κουμπί Power</string>
@@ -6654,8 +6659,6 @@
     <string name="sound_title">Ήχος</string>
     <string name="sound_vibrate_settings">Ήχος &amp; δόνηση</string>
     <string name="sound_work_settings">Ήχοι προφίλ εργασίας</string>
-    <string name="speed_mode">Λειτουργία ταχύτητας</string>
-    <string name="speed_mode_summary">Για την αποσφαλμάτωση εφαρμογών.</string>
     <string name="speaker">Ηχείο</string>
     <string name="speaker_clean">Καθαρισμός Ηχείου</string>
     <string name="special_access">Ειδική πρόσβαση στην εφαρμογή</string>
@@ -6667,6 +6670,10 @@
     <string name="speed_label_slow">Αργός</string>
     <string name="speed_label_very_fast">Πολύ Γρήγορα</string>
     <string name="speed_label_very_slow">Πολύ Αργή</string>
+    <string name="speed_mode">Λειτουργία ταχύτητας</string>
+    <string name="speed_mode_noti_summary">Η λειτουργία ταχύτητας θα αυξήσει την κατανάλωση ενέργειας και την παραγωγή θερμότητας</string>
+    <string name="speed_mode_noti_title">Λειτουργία ταχύτητας ενεργή</string>
+    <string name="speed_mode_summary">Όταν είναι ενεργοποιημένη, η απόδοση θα φτάσει στην ακραία κατάσταση, αλλά θα αυξήσει την κατανάλωση ενέργειας και θα παράγει θερμότητα. Παρακαλούμε ενεργοποιήστε το προσεκτικά</string>
     <string name="spell_checker_master_switch_title">Χρήση ορθογραφικού ελέγχου</string>
     <string name="spell_checker_not_selected">Δεν έχει επιλεγεί</string>
     <string name="spellchecker_language">Γλώσσα</string>

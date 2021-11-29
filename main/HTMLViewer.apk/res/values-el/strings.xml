@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
+     <string name="action_use_network">Χρήση</string>
      <string name="ad_service">Υπηρεσία διαφημίσεων</string>
      <string name="app_label">Προβολή HTML</string>
      <string name="app_name_which_call">Εφαρμογή: %s</string>
      <string name="app_version_which_call">Έκδοση εφαρμογής: %s</string>
      <string name="autoconnect">Αυτόματη σύνδεση</string>
      <string name="close">Κλείσιμο</string>
+     <string name="error_continue_via_browser">Λεπτομέρειες</string>
      <string name="ime_privacy_policy">Επιλέξτε πληκτρολόγιο</string>
+     <string name="instruction">Σημαντικές πληροφορίες ασφάλειας</string>
      <string name="legal_written_offer">Γραπτή προσφορά</string>
      <string name="license_host_unreachable">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Για να δείτε αυτές τις πληροφορίες τώρα,\nπηγαίνετε σε %s σε άλλη συνδεδεμένη συσκευή.</string>
      <string name="loading">Μισό λεπτό…</string>
-     <string name="instruction">Σημαντικές πληροφορίες ασφάλειας</string>
      <string name="mibi_license">Mi Credits Συμφωνία Χρήστη</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε για ανανέωση</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Ανανεώθηκε με επιτυχία</string>
@@ -41,5 +43,6 @@
      <string name="settings_safetylegal_activity_title">Πληροφορίες ασφαλείας</string>
      <string name="settings_safetylegal_activity_unreachable">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Για να δείτε αυτές τις πληροφορίες τώρα, πηγαίνετε στο %s από οποιονδήποτε υπολογιστή συνδεδεμένο στο Internet.</string>
      <string name="settings_safetylegal_title">Πληροφορίες ασφαλείας</string>
+     <string name="ssl_error_untrusted">"Το πιστοποιητικό δεν έχει εκδοθεί από αξιόπιστη αρχή πιστοποιητικών. Χρήση οπωσδήποτε;"</string>
      <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
