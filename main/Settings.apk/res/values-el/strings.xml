@@ -2563,6 +2563,7 @@
     <string name="enterprise_privacy_settings_summary_with_name">Η διαχείριση των αλλαγών και των ρυθμίσεων γίνεται από %s</string>
     <string name="enterprise_privacy_usage_stats">Ο χρόνος και τα δεδομένα που αφιερώνονται σε κάθε εφαρμογή</string>
     <string name="enterprise_privacy_wipe_device">Ο διαχειριστής μπορεί να διαγράψει όλα τα δεδομένα της συσκευής</string>
+    <string name="environmental_speech_recognition">Αναγνώριση ήχου περιβάλλοντος</string>
     <string name="erase_application">Διαγραφή εφαρμογών</string>
     <string name="erase_application_description">Διαγραφή εγκατεστημένων εφαρμογών</string>
     <string name="erase_data">Διαγραφή</string>

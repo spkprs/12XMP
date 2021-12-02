@@ -17,6 +17,10 @@
     <string name="am">ΠΜ</string>
     <string name="antispam">Λίστα των μπλοκαρισμένων</string>
     <string name="app_name">Mi Mover</string>
+    <string name="app_update_64_dialog_cancel">Όχι τώρα</string>
+    <string name="app_update_64_dialog_confirm">Ενημέρωση</string>
+    <string name="app_update_64_dialog_title">Ενημέρωση σε αρχιτεκτονική 64-bit</string>
+    <string name="app_update_64_notfication_body">Ενημέρωση για αύξηση απόδοσης εφαρμογής</string>
     <string name="app_update_title">Ενημ/ση όλων των εφαρμ.</string>
     <string name="appname_app_data_suffix">%1$s δεδομένα εφαρμογής</string>
     <string name="audio">Ήχος</string>

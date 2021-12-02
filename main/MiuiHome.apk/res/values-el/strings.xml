@@ -384,7 +384,7 @@
     <string name="lock_screen_wallpaper">Ταπετσαρία οθόνης κλειδώματος</string>
     <string name="maml_download_dialog_cancel_text">Αναμονή για Wi-Fi</string>
     <string name="maml_download_dialog_cancel_text_china">Αναμονή για WLAN</string>
-    <string name="maml_download_dialog_checkbox_text">"Χωρίς επανεμφάνιση"</string>
+    <string name="maml_download_dialog_checkbox_text">"Χωρίς επανεμφάνιση για %d λεπ."</string>
     <string name="maml_download_dialog_confirm_text">Λήψη</string>
     <string name="maml_download_dialog_message">%s MB των δεδομένων θα χρησιμοποιηθούν για τη λήψη αυτού του στοιχείου. Λήψη ούτως ή άλλως;</string>
     <string name="maml_download_dialog_title">Προειδοποίηση δεδομένων</string>

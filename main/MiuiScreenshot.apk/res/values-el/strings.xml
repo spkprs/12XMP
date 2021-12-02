@@ -37,9 +37,15 @@
     <string name="long_screenshot_intercepted_error">"Αδύνατη η λήψη στιγμιότυπου οθόνης. Δοκιμάστε ξανά."</string>
     <string name="long_screenshot_out_of_memory_error">Η εικόνα είναι πολύ μεγάλη</string>
     <string name="long_screenshot_processing">Γίνεται επεξεργασία…</string>
+    <string name="long_screenshot_processing_description_accessibility">Επεξεργασία</string>
     <string name="long_screenshot_stop">Τέλος</string>
     <string name="long_screenshot_top_msg">Γίνεται δημιουργία στιγμιότυπου οθόνης…</string>
+    <string name="long_screenshot_top_msg_description_accessibility">Δημιουργία στιγμιότ. οθόνης</string>
     <string name="long_screenshot_top_msg_manual">Αποκόψτε το στιγμιότυπο οθόνης και πατήστε το κουμπί για ολοκλήρωση</string>
+    <string name="miuix_access_state_desc">Επιλεγμένα</string>
+    <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
+    <string name="miuix_indexer_selected">Επιλεγμένα %s</string>   
     <string name="notification_channel_alerts">Ειδοποιήσεις</string>
     <string name="partial_screenshot_edit">Επεξεργασία</string>
     <string name="partial_screenshot_failed_to_capture_title">"Αυτή η εφαρμογή δεν επιτρέπει τη λήψη στιγμιότυπων οθόνης"</string>
