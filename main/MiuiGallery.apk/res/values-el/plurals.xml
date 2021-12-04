@@ -608,4 +608,12 @@
         <item quantity="other">%2$d άλμπουμ συμπερ/μένων %1$s</item>
         <item quantity="one">%2$d άλμπουμ συμπερ/μένων %1$s</item>
     </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="one">%d λεπ.</item>
+        <item quantity="other">%d λεπ.</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="one">%d δευτ.</item>
+        <item quantity="other">%d δευτ.</item>
+    </plurals>
 </resources>
