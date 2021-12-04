@@ -621,6 +621,12 @@
     <string name="device_status_sending">Sending…</string>
     <string name="device_status_success">Sent successfully</string>
     <string name="device_status_waiting">Waiting…</string>
+    <string name="device_storage_space_low_dialog_des">Αποθηκεύστε πρωτότυπες φωτο και βίντεο στο cloud, διατηρώντας μικρότερα αντίγραφα υψηλής ποιότητας σε αυτή τη συσκευή, ώστε να ελευθερώσετε %s αποθηκευτικού χώρου.</string>
+    <string name="device_storage_space_low_dialog_title">Λίγος αποθηκευτικός χώρος</string>
+    <string name="device_storage_space_low_notice_des">Συγχρονίστε φωτο και βίντεο στο cloud για να ελευθερώσετε %s</string>
+    <string name="device_storage_space_low_notice_title">Εξαντλείται ο αποθηκευτικός χώρος</string>
+    <string name="device_storage_space_low_textline_button">Έναρξη</string>
+    <string name="device_storage_space_low_textline_des">"Ελευθερώστε %s αποθ. χώρου. "</string>
     <string name="device_type_pc">Computer</string>
     <string name="disable_auto_upload_tip">Απενεργ. συγχρ. στο Xiaomi Cloud για αυτό το άλμπουμ;</string>
     <string name="disable_auto_upload_title">Απενεργοποιήστε το συγχ/σμό στο Xiaomi Cloud</string>
@@ -1096,6 +1102,7 @@
     <string name="help">Δεν μπορείτε να βρείτε συσκευές;</string>
     <string name="help_content">Εάν δεν μπορείτε να βρείτε τη συσκευή που χρειάζεστε, ζητήστε από το άλλο άτομο να ενεργοποιήσει το Mi Share.</string>
     <string name="hidden_album_display_name">Κρυφό άλμπουμ</string>
+    <string name="hide_nearby_photos">Απόκρυψη κοντινών φωτο και βίντεο</string>
     <string name="home_menu_all_photos">Εμφάνιση όλων</string>
     <string name="home_menu_art_still">Τέχνη</string>
     <string name="home_menu_camera">Εμφάνιση μόνο στοιχείων Κάμερας</string>
@@ -1165,6 +1172,7 @@
     <string name="input_or_select_a_name">Εισάγετε ή επιλέξτε ένα όνομα</string>
     <string name="input_relation_name">Εισάγετε το όνομα της ομάδας</string>
     <string name="install_fail">Αδύνατη η φόρτωση της προσθήκης λόγω σφάλματος.</string>
+    <string name="install_media_editor_latest_message">Για να επεξεργαστείτε στοιχεία, κατεβάστε πρώτα το πιο πρόσφατο πρόσθετο.</string>
     <string name="install_media_editor_message">Για να επεξεργαστείτε στοιχεία, πραγματοποιήστε λήψη πρώτα της προσθήκης. Λήψη τώρα;</string>
     <string name="install_media_editor_title">Λήψη προσθήκης</string>
     <string name="internal_storage_device">Εσωτερική αποθήκευση</string>
@@ -1341,6 +1349,7 @@
     <string name="map_grant_position_permission_after_declined_twice_message">Για να προβάλετε φωτογραφίες και βίντεο στο χάρτη, επιτρέψτε πρώτα στη Συλλογή να αποκτήσει πρόσβαση στη θέση σας.</string>
     <string name="map_grant_position_permission_subtitle">Για την εμφάνιση κοντινών φωτογραφιών και βίντεο στο χάρτη</string>
     <string name="map_guide_message">Προβολή φωτογραφίες και βίντεό σας στο χάρτη</string>
+    <string name="map_location">Μετακίνηση στην τρέχουσα θέση</string>
     <string name="map_positioning_failed_tip">"Αδυναμία λήψης πληροφοριών θέσης λόγω αδύναμου σήματος"</string>
     <string name="map_privacy_dialog_message"><Data>Αυτή η υπηρεσία σας επιτρέπει να προβάλλετε φωτογραφίες και βίντεο με πληροφορίες τοποθεσίας σε χάρτη. Χρησιμοποιούμε το Baidu Map Open SDK για να σας παρέχουμε αυτή την υπηρεσία. Διαβάστε &lt;a href=\"%1$s\">Baidu Map Πολιτική απορρήτου για προϊόντα και υπηρεσίες ανοικτής πλατφόρμας&lt;/a> για να μάθετε περισσότερα.</Data></string>
     <string name="map_privacy_dialog_title">Χάρτης Συλλογής</string>
@@ -1374,6 +1383,12 @@
     <string name="micloud_introduce">Αυτόματος συγχ/σμός φωτογραφιών και βίντεο (απαιτείται λογαριασμός Xiaomi)</string>
     <string name="midnight">Νύχτα</string>
     <string name="migrate_msg">Ορισμένα άλμπουμ απαιτούν άδειες μετακίνησης στοιχείων μετά από μια ενημέρωση του συστήματος.</string>
+    <string name="miplay_adjust_volume">Ρυθμίστε την ένταση στο %d</string>
+    <string name="miplay_pause_video">Παύση</string>
+    <string name="miplay_play_video">Αναπ/γή</string>
+    <string name="miplay_seekbar_content_description">Πρόοδος αναπ/γής: %1$s %2$s</string>
+    <string name="miplay_stop_video">Διακοπή αναπ/γής βίντεο</string>
+    <string name="miplay_volume_btn">Ένταση</string>
     <string name="mishare_all_devices">Όλες οι συσκευές</string>
     <string name="miuix_access_state_desc">Επιλεγμένα</string>
     <string name="miuix_alphabet_indexer_name">Μπάρα ευρετηρίου</string>
@@ -1667,6 +1682,7 @@
     <string name="operation_unforce_top">Ξεκαρφίτσωμα</string>
     <string name="operation_unhide">Επανεμφάνιση</string>
     <string name="operation_video_compress">Συμπίεση βίντεο</string>
+    <string name="operation_watermark">Υδατ/φημα προστασίας</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orientation_lock_tip">Η περιστροφή κλειδώθηκε</string>
@@ -1695,6 +1711,11 @@
     <string name="permission_contacts_desc_2">Για τη συσχέτιση ατόμων σε φωτογραφίες με επαφές</string>
     <string name="permission_contacts_name">Επαφές</string>
     <string name="permission_contacts_name_2">Πρόσβαση σε επαφές</string>
+    <string name="permission_custom_cta_network_button_negative">"Δεν συμφωνώ"</string>
+    <string name="permission_custom_cta_network_button_positive">Συμφωνώ</string>
+    <string name="permission_custom_cta_network_title">Προσοχή</string>
+    <string name="permission_location">Τοποθεσία</string>
+    <string name="permission_location_desc">Για την εμφάνιση φωτό και βίντεο στο χάρτη</string>
     <string name="permission_optional_category">Προαιρετικές Άδειες</string>
     <string name="permission_phone_desc">Για αιτήσεις δικτύου που βασίζονται στο ID συσκευής</string>
     <string name="permission_phone_name">Τηλέφωνο</string>
@@ -1762,6 +1783,7 @@
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Φαίνεται ότι δεν είστε συνδεδεμένοι στο Wi-Fi. Να χρησιμοποιηθούν %1$d MB δεδομένων για τη λήψη της προσθήκης;"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Φαίνεται ότι δεν είστε συνδεδεμένοι στο Wi-Fi. Να χρησιμοποιηθούν %1$d MB δεδομένων για τη λήψη της προσθήκης;"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Λήψη προσθήκης</string>
+    <string name="photo_editor_privacy_watermark">Υδατ/φημα προστασίας</string>
     <string name="photo_editor_remove_watermark">Αφαίρεση υδατογραφήματος</string>
     <string name="photo_editor_remove_watermark_on">Προσθήκη υδατογραφήματος</string>
     <string name="photo_editor_remover">Διαγραφή</string>
@@ -1822,6 +1844,7 @@
     <string name="photo_editor_talkback_undo">Αναίρεση</string>
     <string name="photo_editor_text">Υδατ/φημα</string>
     <string name="photo_editor_transition_image_view">photo_view</string>
+    <string name="photo_editor_watermark_default">ΜΗΝ ΑΝΤΙΓΡΑΦΕΙ</string>
     <string name="photo_font_cancel_download">Ακύρωση</string>
     <string name="photo_font_download">Λήψη</string>
     <string name="photo_font_download_failed_for_notwork">Αδυναμία λήψης. Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
@@ -2049,6 +2072,14 @@
     <string name="scan_barcode_to_join">Σάρωση κωδικού QR για σύνδεση σε άλμπουμ.</string>
     <string name="scan_qr_code_buttom_text">Σάρωση κωδικού QR για προβολή του άλμπουμ.</string>
     <string name="scanning_device_tips">Αναζήτηση για συσκευές κοντά... Βεβαιωθείτε ότι η άλλη συσκευή είναι σε ανιχνεύσιμη λειτουργία.</string>
+    <string name="scope_storage_dialog_cancel_btn">Ακύρωση</string>
+    <string name="scope_storage_dialog_confirm_btn">Επόμενο</string>
+    <string name="scope_storage_dialog_description">Οι άδειες της Συλλογής ενημερώθηκαν. Επιτρέψτε την πρόσβαση σε αυτόν τον φάκελο, ώστε να μπορεί να προβάλει το περιεχόμενό του.</string>
+    <string name="scope_storage_dialog_guide_content"><Data>Πατήστε &lt;b>\"%1$s\"&lt;/b> και μετά επιλέξτε &lt;b>\"%2$s\"&lt;/b>.</Data></string>
+    <string name="scope_storage_dialog_guide_title">Πώς να παραχωρήσετε άδεια</string>
+    <string name="scope_storage_dialog_title">Απαιτούμενες άδειες</string>
+    <string name="scope_storage_operation_btn_1">Αποθήκευση</string>
+    <string name="scope_storage_operation_btn_2">Πρόσβαση σε αυτόν τον φάκελο</string>
     <string name="screen_doodle_talkback_size">Πλάτος γραμμής Σκίτσου</string>
     <string name="screen_editor_btn_delete">Διαγραφή</string>
     <string name="screen_editor_btn_save">Αποθήκ/ση</string>
@@ -2207,6 +2238,7 @@
     <string name="show_in_other_albums_disable_toast_long_press_menu">Μεταφέρθηκε με επιτυχία, πηγαίνετε σε άλλο Άλμπουμ για προβολή</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Μεταφέρθηκε με επιτυχία, πηγαίνετε στο Άλμπουμ για προβολή</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Η μετακίνηση στον κάδο ολοκληρώθηκε με επιτυχία</string>
+    <string name="show_nearby_photos">Εμφάνιση κοντινών φωτό και βίντεο</string>
     <string name="signature_dialog_clear">Εκκαθάριση</string>
     <string name="signature_manage_dialog_title_string">Υπογραφή</string>
     <string name="signature_view_add_signature_String">Προσθήκη υπογραφής</string>
@@ -2985,6 +3017,9 @@
     <string name="vlog_video_trans_code_cons">Επεξεργασία αρχείου υψηλής ανάλυσης…</string>
     <string name="voice_assistant">Είσοδος φωνής</string>
     <string name="watch_all_photo">Συλλογή</string>
+    <string name="watermark_enter">Υδατ/φημα προστασίας</string>
+    <string name="watermark_summary">Αναγνώριση φωτογραφιών από ταυτότητες που είναι αποθηκευμένες σε αυτήν τη συσκευή και λήψη προτροπών για προσθήκη υδατογραφημάτων προστασίας.</string>
+    <string name="watermark_title">Υδατ/φημα προστασίας</string>
     <string name="web_sso_login_fail">Πρέπει να συνδεθείτε ξανά</string>
     <string name="web_sso_login_message">Είσοδος…</string>
     <string name="webview_reload">Δοκιμάστε ξανά</string>
