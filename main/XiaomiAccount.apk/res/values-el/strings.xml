@@ -79,6 +79,7 @@
     <string name="account_user_phone">Τηλέφωνο</string>
     <string name="account_user_phone_show">Τηλέφωνο: %s</string>
     <string name="account_user_region">Περιοχή</string>
+    <string name="account_verify_guide_verify_phone_desc">Επιβεβαιώστε το τηλέφωνο ανάκτησης</string>
     <string name="account_xiaomi_service">Υπηρεσίες</string>
     <string name="action_add_phone">Πρόσθεσε αριθμό τηλεφώνου</string>
     <string name="action_retry">Επανάληψη</string>
@@ -116,6 +117,10 @@
     <string name="cloud_description_closed">Σε χρήση | Ανεν. συγχ/μος</string>
     <string name="cloud_description_normal">Σε χρήση</string>
     <string name="cloud_service">Mi Cloud</string>
+    <string name="cloud_service_status_backup_not_open">Το αντίγραφο ασφάλειας είναι ανενεργό</string>
+    <string name="cloud_service_status_cloud_not_open">Off</string>
+    <string name="cloud_service_status_storage_full">Η Αποθήκευση είναι πλήρης</string>
+    <string name="cloud_service_status_storage_not_enough">Δεν υπάρχει αρκετός χώρος</string>
     <string name="collect_diagnosis_log">Συλλογή καταγραφής διαγνωστικών</string>
     <string name="com_facebook_device_auth_instructions">Επισκεφτείτε τη διεύθυνση &lt;b&gt;facebook.com/device&lt;/b&gt; και συμπληρώστε τον παραπάνω κωδικό.</string>
     <string name="com_facebook_image_download_unknown_error">Προέκυψε μη αναμενόμενο σφάλμα κατά τη λήψη μιας εικόνας.</string>
@@ -305,6 +310,8 @@
     <string name="notify_network_restricted_content_hidden_state">Η δραστηριότητα παρασκηνίου του λογαριασμού Mi έχει περιοριστεί. Πατήστε για να επιτρέψετε.</string>
     <string name="notify_network_restricted_content_mobile_network">Η πρόσβαση στο Internet του λογαριασμού Mi έχει περιοριστεί. Πατήστε για να επιτρέψετε.</string>
     <string name="notify_network_restricted_title">Ο λογαριασμός Mi δεν μπορεί να συνδεθεί στο δίκτυο</string>
+    <string name="notify_verify_again_security_phone">Επιβεβαίωση</string>
+    <string name="notify_verify_security_phone">Τηλέφωνο</string>
     <string name="oauth_get_scopes_failed">Δεν ήταν δυνατή η λήψη πληροφοριών λογαριασμού</string>
     <string name="oauth_getting_scopes">Επαλήθευση λογαριασμού…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> θα ληφθούν τις ακόλουθες Άδειες:&lt;br> &lt;br> %3$s</string>

@@ -822,6 +822,12 @@
     <string name="title_back">Πίσω</string>
     <string name="title_reg">Δημιουργία Λογαριασμού Mi</string>
     <string name="trying_to_connect_to_network">Σύνδεση στο δίκτυο…</string>
+    <string name="update_dialog_check_button_text">Έλεγχος για ενημερώσεις</string>
+    <string name="update_dialog_ignore_button_text">Όχι ευχαριστώ</string>
+    <string name="update_dialog_no_internet_toast_text">Ελέγξτε τη σύνδεσή σας στο Διαδίκτυο και δοκιμάστε ξανά</string>
+    <string name="update_dialog_no_update_toast_text">Η τρέχουσα έκδοση είναι ενημερωμένη</string>
+    <string name="update_dialog_title">Διαθέσιμη ενημέρωση</string>
+    <string name="update_dialog_update_button_text">Ενημέρωση</string>
     <string name="user_agreement_content">Χρησιμοποιώντας αυτήν την υπηρεσία, συμφωνείτε με %s.</string>
     <string name="user_agreement_link">Xiaomi Cloud\'s Όροι χρήσης</string>
     <string name="user_agreement_p5">\n\n</string>

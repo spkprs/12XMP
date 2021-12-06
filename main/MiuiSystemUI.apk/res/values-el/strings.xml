@@ -820,6 +820,7 @@
     <string name="face_unlock_fail">Αδύνατη η επαλήθευση προσώπου</string>
     <string name="face_unlock_fail_retry">Αδύνατη η επαλήθευση του προσώπου σας. Αγγίξτε παραπάνω και προσπαθήστε ξανά.</string>
     <string name="face_unlock_fail_retry_global">Αγγίξτε παραπάνω για χρήση Δεδομένων Προσώπου</string>
+    <string name="face_unlock_locked">"Αδυναμία χρήσης Ξεκλειδώματος Προσώπου τώρα"</string>
     <string name="face_unlock_not_found">Δεν μπορώ να σας αναγνωρίσω</string>
     <string name="face_unlock_open_eye">Ανοίξτε τα μάτια σας λίγο πιο πολύ</string>
     <string name="face_unlock_password_and_fingerprint">Εισαγάγετε κωδικό ή χρησιμοποιήστε αποτύπωμα για ξεκλείδωμα</string>
@@ -1008,8 +1009,10 @@
     <string name="input_password_hint_text">Εισάγετε τον κωδικό</string>
     <string name="input_password_hint_text_v11">Εισαγωγή κωδικού</string>
     <string name="input_pattern_after_boot_msg">Η σχεδίαση Μοτίβου είναι απαραίτητη κατά την επανεκκίνηση της συσκευής</string>
+    <string name="input_pattern_after_face_not_allowed">Εισάγετε τον κωδικό πρόσβασής σας τουλάχιστον μία φορά κάθε %d ώρες για να διατηρήσετε αυτή τη συσκευή ασφαλή.</string>
     <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
     <string name="input_pattern_hint_text_v11">Σχεδίαση μοτίβου</string>
+    <string name="input_pattern_or_finger_after_face_not_allowed">Εισάγετε τον κωδικό πρόσβασής σας ή χρησιμοποιήστε το δακτυλικό σας αποτύπωμα τουλάχιστον μία φορά κάθε %d ώρες για να διατηρήσετε αυτή τη συσκευή ασφαλή.</string>
     <string name="input_pin_after_boot_msg">Η εισαγωγή PIN είναι απαραίτητη κατά την επανεκκίνηση της συσκευής</string>
     <string name="input_pin_code">Εισάγετε το PIN</string>
     <string name="input_pin_hint_text_v11">Εισαγωγή PIN</string>

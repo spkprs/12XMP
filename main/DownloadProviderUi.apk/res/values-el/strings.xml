@@ -347,6 +347,7 @@
     <string name="pref_download_revert_default">Αποθήκευση στην προεπιλεγμένη θέση</string>
     <string name="pref_download_settings_title">Όριο λήψης με δεδομένα έως</string>
     <string name="pref_download_storage_path">Αποθήκευση σε νεο φάκελο</string>
+    <string name="pref_download_storage_path_2">Φάκελος για τα ληφθέντα στοιχεία</string>
     <string name="pref_permission_description">Λεπτομέρειες αδειών</string>
     <string name="pref_sniff_shortcut">Δημιουργία συντόμευσης</string>
     <string name="pref_summary_any_bytes_popup">Πάντα αναμονή για σύνδεση Wi‑Fi για λήψη αρχείων</string>

@@ -2046,6 +2046,7 @@
     <string name="gd_setting_title">Πλευρική Μπάρα</string>
     <string name="gd_setting_vtb">Εμφάνιση ενώ παίζετε παιχνίδια</string>
     <string name="gd_setting_vtb_desc">Ειδικές λειτουργίες για την αναπ/γή βίντεο</string>
+    <string name="gd_splite_screen_tips">"Η Διαιρούμενη οθόνη δεν υποστηρίζει Αιωρούμενα παράθυρα"</string>
     <string name="gdpr_msg"><Data>"Για να μπορέσουμε να εντοπίσουμε τους κινδύνους ασφαλείας και να προστατεύσουμε τα δεδομένα σας, πρέπει να συλλέξουμε τις απαραίτητες πληροφορίες σχετικά με τη συσκευή σας. Διαβάστε και αποδεχτείτε τους &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Πολιτική Απορρήτου&lt;/a>πριν χρησιμοποιήσετε τις υπηρεσίες μας. Σε περίπτωση που δεν μας επιτρέπετε να συλλέξουμε τέτοιες πληροφορίες, θα εξακολουθείτε να μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή, αλλά ορισμένες λειτουργίες δεν θα είναι διαθέσιμες για εσάς. "</Data></string>
     <string name="ge">个</string>
     <string name="get_detail_by_click">Πατήστε για προβολή λεπτομερειών</string>
@@ -2853,6 +2854,7 @@
     <string name="pc_abnormal_scan_reason_use_GPS">Χρησιμοποιεί πολύ συχνά τις υπηρ. Τοποθεσίας</string>
     <string name="pc_abnormal_scan_reason_wake_system">Ξυπνά το Σύστημα πολύ συχνά</string>
     <string name="pc_activity_title">Βελτιστοποίηση μπαταρίας</string>
+    <string name="pc_battery_chart_loading">Μισό λεπτό…</string>
     <string name="pc_battery_detail_curve_reference_now">Τώρα</string>
     <string name="pc_battery_detail_device_item_title">Στατιστικά χρήσης μπαταρίας</string>
     <string name="pc_battery_history_battery_detail_menu_item">Λεπτομέρειες</string>
@@ -5005,6 +5007,7 @@
     <string name="vb_ve_settings_picture_stronger">Βελτιωμένα κινούμενα γραφικά</string>
     <string name="vb_video_effects_3d">Ήχος surround</string>
     <string name="vb_video_effects_3d_summary">Βελτιώστε το βάθος της αναπαραγωγής ήχου σε ακουστικά &amp; ηχεία</string>
+    <string name="vb_video_effects_3d_summary_headset">Αύξηση της αίσθησης βάθους και περιβάλλοντος στα ακουστικά</string>
     <string name="vb_video_effects_3d_surround">Ήχος surround</string>
     <string name="vb_video_effects_display_style">Στυλ</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Βελτιωμένος διάλογος</string>
