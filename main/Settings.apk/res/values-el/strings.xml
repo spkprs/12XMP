@@ -1745,6 +1745,7 @@
     <string name="connected_wifi">Συνδεδεμένο</string>
     <string name="connecting_to_vpn">Σύνδεση σε VPN</string>
     <string name="connection_and_sharing">Σύνδεση &amp; Κοινή χρήση</string>
+    <string name="connection_control">Διαχείριση συνδέσεων</string> 
     <string name="contact_data">Επαφές</string>
     <string name="content_capture">Περιεχόμενο εφαρμογής</string>
     <string name="content_capture_summary">Να επιτρέπεται στις εφαρμογές η αποστολή περιεχομένου στο σύστημα Android</string>
@@ -3306,6 +3307,7 @@
     <string name="intent_sender_resource_label">Πόρος:</string>
     <string name="intent_sender_sendbroadcast_text">Αποστολή μετάδοσης</string>
     <string name="intent_sender_startactivity_text">Έναρξη δραστηριότητας</string>
+    <string name="interconnection">Διασυνδεσιμότητα</string>
     <string name="interaction_control_category_title">Στοιχεία ελέγχου αλληλεπίδρασης</string>
     <string name="interesting_text">Οι ρεαλιστικές απτικές αισθήσεις κάνουν την αλληλεπίδρασή σας με την οθόνη πιο καθαρή και αρθρωτή.</string>
     <string name="interesting_title">Ρεαλιστική αφή</string>

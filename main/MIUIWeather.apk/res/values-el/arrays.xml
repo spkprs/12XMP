@@ -126,7 +126,7 @@
         <item>ΒΔ</item>
      </string-array>
      <string-array name="wind_unit_detail">
-        <item>Κλίμακα μποφόρ</item>
+        <item>Κλίμακα Μποφόρ</item>
         <item>Χλμ ανά ώρα (km/h)</item>
         <item>Μέτρα ανά δευτ (m/s)</item>
         <item>Μίλια ανά ώρα (mph)</item>

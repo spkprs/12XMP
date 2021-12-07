@@ -475,6 +475,7 @@
     <string name="pc_todo_fast_create_hint">Εισάγετε κείμενο και πατήστε \"Enter\" για να προσθέσετε μια μη ολοκληρωμένη εργασία</string>
     <string name="pc_todo_set_remind_time_hint">Ορισμός ώρας</string>
     <string name="permdesc_accessNote">Κακόβουλες εφαρμογές μπορούν να το χρησιμοποιήσουν για να αποκτήσουν πρόσβαση στις προσωπικές σας πληροφορίες.</string>
+    <string name="permission_data_shared_desc">Σημειώσεις Δήλωση Κοινής Χρήσης Δεδομένων Τρίτων</string> 
     <string name="permission_get_account_desc">Συγχρονισμός σημειώσεων με το cloud</string>
     <string name="permission_intro_contact">Για την επισήμανση σημειώσεων που λαμβάνονται κατά τη διάρκεια κλήσεων</string>
     <string name="permission_intro_microphone">Για την εγγραφή φωνητικών σημειώσεων</string>

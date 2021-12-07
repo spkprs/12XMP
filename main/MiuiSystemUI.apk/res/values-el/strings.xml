@@ -1010,6 +1010,7 @@
     <string name="input_password_hint_text_v11">Εισαγωγή κωδικού</string>
     <string name="input_pattern_after_boot_msg">Η σχεδίαση Μοτίβου είναι απαραίτητη κατά την επανεκκίνηση της συσκευής</string>
     <string name="input_pattern_after_face_not_allowed">Εισάγετε τον κωδικό πρόσβασής σας τουλάχιστον μία φορά κάθε %d ώρες για να διατηρήσετε αυτή τη συσκευή ασφαλή.</string>
+    <string name="input_pattern_after_restart_msg">Επιβεβαιώστε το κλείδωμα οθόνης για να συνεχίσετε</string> 
     <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
     <string name="input_pattern_hint_text_v11">Σχεδίαση μοτίβου</string>
     <string name="input_pattern_or_finger_after_face_not_allowed">Εισάγετε τον κωδικό πρόσβασής σας ή χρησιμοποιήστε το δακτυλικό σας αποτύπωμα τουλάχιστον μία φορά κάθε %d ώρες για να διατηρήσετε αυτή τη συσκευή ασφαλή.</string>
