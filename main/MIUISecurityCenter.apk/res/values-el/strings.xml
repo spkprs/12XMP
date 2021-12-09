@@ -4574,13 +4574,13 @@
     <string name="system_permission_declare_privacy_declare">Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές Νομοθεσίες, Κανονισμούς και πολιτικές απορρήτου. Σημειώστε ότι αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τις ακόλουθες Άδειες για τη συλλογή των προσωπικών σας στοιχείων:</string>
     <string name="system_permission_declare_privacy_no_network">Αυτή η εφαρμογή χρειάζεται τις ακόλουθες Άδειες για να μπορεί να λειτουργήσει κανονικά:</string>
     <string name="system_permission_declare_privacy_no_permission">Σημειώστε ότι αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και να συλλέξει τις απαιτούμενες προσωπικές πληροφορίες προκειμένου να λειτουργήσει κανονικά.</string>
-    <string name="system_permission_declare_privacy_policy"><Data>Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a> before you continue.</Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a> πριν συνεχίσετε.</Data></string>
     <string name="system_permission_declare_revoke_system">Μπορείτε να εξέλθετε από την Εφαρμογή.</string>
     <string name="system_permission_declare_revoke_uninstallable">Μπορείτε να αποσυνδεθείτε, να απεγκαταστήσετε αυτήν την εφαρμογή ή να ανακαλέσετε την εξουσιοδότησή σας στην Ασφάλεια > Διαχείρηση Εφαρμογών > Άδειες > Άδειες.</string>
     <string name="system_permission_declare_title">Προσοχή</string>
     <string name="system_permission_declare_use_network">Σύνδεση στο δίκτυο</string>
     <string name="system_permission_declare_use_network_no_permission">Σύνδεση στο δίκτυο</string>
-    <string name="system_permission_declare_user_agreement"><Data>Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> before you continue.</Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> πριν συνεχίσετε.</Data></string>
     <string name="system_permission_perm_answer_call">Πραγματοποίηση Κλήσεων</string>
     <string name="system_permission_perm_optional">" (προαιρετικά)"</string>
     <string name="system_permission_perm_read_mms">Ανάγνωση MMS</string>

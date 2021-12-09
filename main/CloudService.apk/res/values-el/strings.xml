@@ -36,6 +36,9 @@
     <string name="added_successfully">Προστέθηκε με επιτυχία</string>
     <string name="agree_and_continue">Συμφωνώ</string>
     <string name="agreement_and_privacy_description">"Διαβάστε και συμφωνήστε με του Xiaomi Cloud &lt;a href=%1$s>&lt;u>Πολιτική απορρήτου&lt;/u>&lt;/a> και &lt;a href=%2$s>&lt;u>Συμφωνία χρήστη&lt;/u>&lt;/a> πριν συνεχίσετε."</string>
+    <string name="alert_sync_data_merge_dialog_title">Τα στοιχεία θα συγχωνευθούν</string>
+    <string name="alert_sync_merge_dialog_cancel">Ακύρωση</string>
+    <string name="alert_sync_merge_dialog_confirm">Ενεργοποίηση</string>
     <string name="antispam_sync">Ρυθμίσεις \"Μην Ενοχλείτε\"</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Μη έγκυρο όνομα χρήστη ή κωδικού πρόσβασης</string>
@@ -58,7 +61,6 @@
     <string name="cloud_lab_title">Εργαστήριο Cloud</string>
     <string name="cloud_service_open_authorization">"Καλώς ήρθατε στις υπηρεσίες Xiaomi Cloud! Μπορείτε να χρησιμοποιήσετε το Xiaomi Cloud για να συγχρονίσετε τις σημειώσεις, τις φωτογραφίες και τα βίντεο, τις εγγραφές και άλλα στοιχεία από εφαρμογές συστήματος σε όλες τις συνδεδεμένες συσκευές. Τα αντίγραφα ασφαλείας διάταξης αρχικής οθόνης θα αποθηκευτούν επίσης στο Xiaomi Cloud. Θα μπορείτε να προβάλετε όλα τα συγχρονισμένα στοιχεία στη διεύθυνση i.mi.com."</string>
     <string name="cloud_service_title">Xiaomi Cloud</string>
-    <string name="open_service_title">Ενεργοποίηση</string>
     <string name="cloud_space_full_gallery_notification_content_text">Αναβαθμίστε το σχέδιό σας για να αποκτήσετε περισσότερο χώρο αποθήκευσης στο cloud</string>
     <string name="cloud_storage_already_full">Πλήρης η αποθ. Cloud: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Σε χρήση: %1$s/%2$s</string>
@@ -78,6 +80,7 @@
     <string name="connect_network_china">Σύνδεση με WIFI ή εισαγωγή κάρτας SIM</string>
     <string name="connect_wlan">Συνδεθείτε στο Wi‑Fi</string>
     <string name="connect_wlan_china">Σύνδεση στο WIFI</string>
+    <string name="contact_alert_sync_data_merge_dialog_msg">Εάν ενεργοποιήσετε τον συγχρονισμό, οι επαφές που μεταφορτώνονται από αυτή τη συσκευή θα συγχωνευθούν με τις επαφές που είναι αποθηκευμένες στο cloud. Ενεργοποίηση;</string>
     <string name="copy">Αντιγραφή</string>
     <string name="cta_notification_content_text">Να επιτρέπεται σε %s η σύνδεση στο Internet για να είναι δυνατή η επαναφορά στοιχείων</string>
     <string name="cta_notification_content_title">"Δεν είναι δυνατή η επαναφορά στοιχείων από %s"</string>
@@ -114,6 +117,7 @@
     <string name="dialog_title_require_wlan_china">Σύνδεση στο WiFi</string>
     <string name="disable_find_device_error">Αδυναμία απενεργοποίησης Εύρεσης συσκευής. %1$s</string>
     <string name="do_not_merge">Ακύρωση</string>
+    <string name="open_service_title">Ενεργοποίηση</string>
     <string name="early_morning">Πρωί</string>
     <string name="enable_find_device_error">Αδυναμία ενεργοποίησης Εύρεσης συσκευής. %1$s</string>
     <string name="enable_find_device_success">Εύρεση συσκευής ενεργή.</string>

@@ -109,6 +109,7 @@
     <string name="channel_name_timer">Χρονόμετρο</string>
     <string name="check_theme_app_install">Βεβαιωθείτε ότι η εφαρμογή Θέματα είναι εγκατεστημένη στη συσκευή σας.</string>
     <string name="check_voice_assist_app_version">Ενημερώστε το Mi AI στην τελευταία του έκδοση.</string>
+    <string name="cities_show_limit_desc">"Δεν μπορείτε να εμφανίσετε περισσότερα ρολόγια"</string>
     <string name="city_time_contrast_desc">Πατήστε για σύγκριση χρόνου σε διαφορετικές πόλεις</string>
     <string name="click_listen_news_container">点击早间听新闻卡片</string>
     <string name="clock_bg_button_setting_summary_common">Επιλέξτε χρώμα φόντου για την εφαρμογή Ρολογιού</string>

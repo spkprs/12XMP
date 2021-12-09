@@ -5,12 +5,12 @@
     <string name="activate_auto_sms_notification_desc_1_card">Τα SMS αποστέλλονται για να ενεργοποιήσουν τη υπηρεσία \"Εύρεση Συσκευής\"</string>
     <string name="activate_auto_sms_notification_desc_2_cards">Το SMS αποστέλλεται από την κάρτα SIM %s για ενεργοποίηση της υπηρεσίας \"Εύρεση Συσκευής\"</string>
     <string name="activate_auto_sms_notification_title">Ενεργοποίηση κάρτας SIM</string>
-    <string name="activate_feature_call_log_sync">Συγχρονισμός ιστορικού κλήσεων</string>
+    <string name="activate_feature_call_log_sync">Συγχ/σμός ιστορικού κλήσεων</string>
     <string name="activate_feature_default_name">Mi υπηρεσίες</string>
     <string name="activate_feature_find_device">Τοποθέτηση SMS</string>
     <string name="activate_feature_live_talk">Συμπληρωματικό πακέτο</string>
     <string name="activate_feature_mi_roaming">Mi Περιαγωγή</string>
-    <string name="activate_feature_mms_sync">Συγχρονισμός μηνυμάτων</string>
+    <string name="activate_feature_mms_sync">Συγχ/σμός μηνυμάτων</string>
     <string name="activate_feature_mx">Mi Μήνυμα</string>
     <string name="activate_feature_mx_and_voip">Mi μήνυμα και φωνή</string>
     <string name="activate_feature_register_xiaomi_account">Ρύθμιση λογαριασμού Mi</string>

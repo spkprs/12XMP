@@ -68,4 +68,40 @@
     <item quantity="other">%1$d εταιρείες στο widget</item>
     <item quantity="one">%1$d εταιρεία στο widget</item>
   </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Κατάστημα widget. Λίστα εφαρμ. %d στοιχεία στη λίστα εφαρμ.</item>
+        <item quantity="one">Κατάστημα widget. Λίστα εφαρμ. %d στοιχείο στη λίστα εφαρμ.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Αριθμός %d στη λίστα.</item>
+        <item quantity="one">Αριθμός %d στη λίστα.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">Το στοιχείο περιέχει %d widgets. Διπλό πάτημα για να ανοίξετε την περιγραφή του.</item>
+        <item quantity="one">Το στοιχείο περιέχει %d widget. Διπλό πάτημα για να ανοίξετε την περιγραφή του.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Κατάστημα widget. Λίστα εφαρμ. %d στοιχεία στη λίστα.</item>
+        <item quantity="one">Κατάστημα widget. Λίστα εφαρμ. %d στοιχείο στη λίστα.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Αριθμός %d στη λίστα.</item>
+        <item quantity="one">Αριθμός %d στη λίστα.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">Το στοιχείο περιέχει %d widgets. Διπλό πάτημα για να ανοίξετε την περιγραφή του.</item>
+        <item quantity="one">Το στοιχείο περιέχει %d widget. Διπλό πάτημα για να ανοίξετε την περιγραφή του.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Κατάστημα widget. Λίστα εφαρμ. %d στοιχεία στη λίστα.</item>
+        <item quantity="one">Κατάστημα widget. Λίστα εφαρμ. %d στοιχείο στη λίστα.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Αριθμός %d στη λίστα.</item>
+        <item quantity="one">Αριθμός %d στη λίστα.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">Το στοιχείο περιέχει %d widgets. Διπλό πάτημα για να ανοίξετε την περιγραφή του.</item>
+        <item quantity="one">Το στοιχείο περιέχει %d widget. Διπλό πάτημα για να ανοίξετε την περιγραφή του.</item>
+    </plurals>
 </resources>

@@ -68,4 +68,20 @@
         <item quantity="other">Η διάρκεια αναπ/γής για κινούμενα σχέδια δεν μπορεί να υπερβαίνει τα %d δευτ.\nΣε αυτό το σημείο θα διακόπτονται οι μεγάλες κινήσεις.</item>
         <item quantity="one">Η διάρκεια αναπ/γής για κινούμενα σχέδια δεν μπορεί να υπερβαίνει τα %d δευτ.\nΣε αυτό το σημείο θα διακόπτονται οι μεγάλες κινήσεις.</item>
     </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Μειωμένο απόσταση χαρακτήρων. Απόσταση %s.</item>
+        <item quantity="one">Μειωμένο απόσταση χαρακτήρα. Απόσταση %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Αυξημένη απόσταση χαρακτήρων. Απόσταση %s.</item>
+        <item quantity="one">Αυξημένη απόσταση χαρακτήρα. Απόσταση %s.</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Αυξημένη απόσταση γραμμών. Απόσταση %s.</item>
+        <item quantity="one">Αυξημένη απόσταση γραμμής. Απόσταση %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Μειωμένη απόσταση γραμμών. Απόσταση %s.</item>
+        <item quantity="one">Μειωμένη απόσταση γραμμής. Απόσταση %s.</item>
+    </plurals>
 </resources>

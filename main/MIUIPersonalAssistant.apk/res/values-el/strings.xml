@@ -249,27 +249,38 @@
     <string name="night">Βράδυ</string>
     <string name="noon">Μεσημέρι</string>
     <string name="not_set">Δεν ρυθμίστηκε</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s επιλεγμένα.</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s επιλεγμένα.</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s επιλεγμένα.</string>
+    <string name="pa_edit_switch">Εναλλαγή</string>
+    <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Μισό λεπτό…</string>
+    <string name="pa_picker_list_load_complete">Φόρτωση περισσότερα</string>
+    <string name="pa_picker_list_load_end">Τέλος στοιχείων προς εμφάνιση</string>
+    <string name="pa_picker_list_load_failed">"Αδυναμία φόρτωσης στοιχείων, δοκιμάσετε ξανά"</string>
+    <string name="pa_picker_list_loading">Μισό λεπτό…</string>
+    <string name="pa_sports_widget_empty_basketball">Καλαθοσφαίριση</string>
+    <string name="pa_sports_widget_empty_football">Ποδόσφαιρο</string>
+    <string name="pa_sports_widget_empty_game">Honor of Kings</string>
+    <string name="pa_sports_widget_empty_recommend">Προτεινόμενο</string>
     <string name="pa_accessibility_home_search">Αναζήτηση, διπλό πάτημα για εκκίνηση</string>
     <string name="pa_accessibility_home_widget_drag">Σύρσιμο στοιχείου</string>
     <string name="pa_accessibility_home_widget_drag_move">Μετακίνηση στη σειρά %1$d, θέση %2$d</string>
     <string name="pa_accessibility_home_widget_drop_workspace">Μεταφέρθηκε στη σειρά %1$d, θέση %2$d</string>
-    <string name="pa_accessibility_picker_back">Κατάστημα widget. Επιλέξατε την ενέργεια της επιστροφής. Διπλό πάτημα για να επιστρέψετε πίσω.</string>
+    <string name="pa_accessibility_picker_back">Πίσω</string>
     <string name="pa_accessibility_picker_search_cancel">Γραμμή αναζήτησης widget. Διπλό πάτημα για ακύρωση.</string>
     <string name="pa_accessibility_picker_search_tips">Γραμμή αναζήτησης widget. Διπλό πάτημα για αναζήτηση.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop" formatted="false">Κατάστημα Widget Λίστα εφαρμογών Σύνολο %s στοιχείων Επί του παρόντος επιλεγμένο %s Στοιχείο %s που περιέχει %s widgets Διπλό κλικ για να μεταβείτε στην εισαγωγή widget</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop" formatted="false">Κατάστημα Widget Λίστα εφαρμογών Σύνολο %s στοιχείων Επί του παρόντος επιλεγμένο %s Στοιχείο %s που περιέχει %s widgets Διπλό κλικ για να μεταβείτε στην εισαγωγή widget</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">Κατάστημα Widget Λίστα εφαρμογών Σύνολο %s στοιχείων Επί του παρόντος επιλεγμένο %s Στοιχείο %s που περιέχει %s widgets Διπλό κλικ για να μεταβείτε στην εισαγωγή widget</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">%s. Επιλέξτε το κουμπί στο κάτω μέρος. Διπλό πάτημα για να προσθέσετε αυτό το στοιχείο στην Αρχική οθόνη.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">%s. Επιλέξτε το κουμπί στο κάτω μέρος. Διπλό πάτημα για να προσθέσετε αυτό το στοιχείο στο Βοηθό MIUI.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Διπλό πάτημα για προσθήκη του στοιχείου στην Αρχική οθόνη.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Διπλό πάτημα για προσθήκη του στοιχείου στο Βοηθό MIUI.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Επεξ/σία</string>
-    <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Επιλεγμένο widget %s. Σύρετε για να προσθέσετε αυτό το στοιχείο στην αρχική οθόνη.</string>
-    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Επιλεγμένο widget %s. Σύρετε για να προσθέσετε αυτό το στοιχείο στο Βοηθό MIUI.</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Επιλεγμένο widget. Σύρετε για προσθήκη στην Αρχική οθόνη.</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Επιλεγμένο widget. Σύρετε για προσθήκη στο Βοηθό MIUI.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Κατάστημα widget. Επιλέξτε για να δείτε όλα τα γραφικών για %s. Διπλό πάτημα για να δείτε όλα τα γραφικά για %s.</string>
     <string name="pa_accessibility_picker_widget_group_item" formatted="false">Κατάστημα widget. %s επιλεγμένο. Διπλό πάτημα για να ανοίξετε %s.</string>
-    <string name="pa_accessibility_picker_widget_item_add_to_desktop">Κατάστημα widget. %s επιλεγμένο. Σύρετε για να προσθέσετε αυτό το στοιχείο στην αρχική οθόνη. Διπλό πάτημα για να προβάλετε τις λεπτομέρειες του widget.</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">Κατάστημα widget. %s επιλεγμένο. Σύρετε για να προσθέσετε αυτό το στοιχείο στο Βοηθός MIUI. Διπλό πάτημα για να προβάλετε τις λεπτομέρειες του widget.</string>
-    <string name="pa_accessibility_picker_widget_item_add_to_third">Κατάστημα widget. %s επιλεγμένο. Σύρετε για να το χρησιμοποιήσετε τώρα. Διπλό πάτημα για να δείτε τις λεπτομέρειες του widget.</string>
-    <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">%s. Επιλέξατε το κουμπί επεξεργασίας. Διπλό πάτημα για επεξεργασία.</string>
+    <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Διπλό πάτημα για επεξεργασία.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Γραφικό στοιχείο</string>
     <string name="pa_app_label">Βοηθός MIUI</string>
     <string name="pa_base_time_just_now">Μόλις τώρα</string>
@@ -290,7 +301,7 @@
     <string name="pa_disclaimer_title">Αποποίηση ευθυνών</string>
     <string name="pa_download">Λήψη</string>
     <string name="pa_edit">Επεξ/σία</string>
-    <string name="pa_edit_apply">εφαρμογή</string>
+    <string name="pa_edit_apply">Εφαρμογή</string>
     <string name="pa_edit_color">Χρωματικός συνδυασμός</string>
     <string name="pa_edit_color_group">Χρωματικός συνδυασμός</string>
     <string name="pa_edit_every_month">Κάθε μήνα</string>
@@ -467,7 +478,7 @@
     <string name="pa_picker_detail_download_app_dialog_message_install_suffix">Προστέθηκε</string>
     <string name="pa_picker_detail_download_app_dialog_message_upgrade_prefix">Ενημέρωση</string>
     <string name="pa_picker_detail_download_maml_dialog_cancel">Αναμονή για WLAN</string>
-    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">Μην εμφανιστεί ξανά</string>
+    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">"Χωρίς εμφάνιση για %d λεπ."</string>
     <string name="pa_picker_detail_download_maml_dialog_confirm">Λήψη</string>
     <string name="pa_picker_detail_download_maml_dialog_message">%s δεδομένων κινητής απαιτείται για να κατεβάσετε αυτό το widget τώρα. Κατεβάστε έτσι κι αλλιώς?</string>
     <string name="pa_picker_detail_download_maml_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>

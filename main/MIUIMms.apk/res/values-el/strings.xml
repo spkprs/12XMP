@@ -457,7 +457,7 @@
     <string name="message_failed">Απέτυχε</string>
     <string name="message_failed_and_cotanct_operator">Παρουσιάστηκε σφάλμα. <font color="#1c86ee">Επικοινωνήστε με το φορέα</font>.</string>
     <string name="message_failed_and_feedback">Παρουσιάστηκε σφάλμα. <font color="#1c86ee">Αναφορά προβλήματος</font>.</string>
-    <string name="message_failed_body">Πατήστε για να ελέγξετε το μήνυμα και προσπαθήστε ξανά.</string>
+    <string name="message_failed_body">Ελέγξετε το μήνυμα και προσπαθήστε ξανά.</string>
     <string name="message_number">Αριθμός τηλεφώνου:</string>
     <string name="message_pending">Αποστολή</string>
     <string name="message_queued">Αδύνατη η αποστολή του μηνύματος. Θα σταλεί όταν η υπηρεσία θα είναι διαθέσιμη.</string>
