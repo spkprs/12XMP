@@ -150,12 +150,12 @@
     <string name="open_game_accelerate">Ενεργοποιήστε το Game Turbo</string>
     <string name="p2p_location_des">Για σύνδεση της συσκευής σας με εξωτερικές οθόνες</string>
     <string name="path_setting_cast">Σύνδεση &amp; κοινή χρήση/Μετάδοση</string>
-    <string name="path_setting_cast_demo">Σύνδεση &amp;  κοινή χρήση/Μετάδοση/ Επιδείξεις</string>
-    <string name="path_setting_cast_demo_document">Σύνδεση &amp;  κοινή χρήση/Μετάδοση/ Επιδείξεις/ Έγγραφα</string>
-    <string name="path_setting_cast_demo_gallery">Σύνδεση &amp;  κοινή χρήση/Μετάδοση/ Επιδείξεις/Φωτό &amp; βίντεο</string>
-    <string name="path_setting_cast_demo_game">Σύνδεση &amp;  κοινή χρήση/Μετάδοση/ Επιδείξεις/Παιχνίδια</string>
-    <string name="path_setting_cast_feature">Σύνδεση &amp;  κοινή χρήση/Μετάδοση/Ειδικά χαρακτηριστικά</string>
-    <string name="path_setting_cast_help">Σύνδεση &amp;  κοινή χρήση/Μετάδοση/Βοήθεια</string>
+    <string name="path_setting_cast_demo">Σύνδεση &amp; κοινή χρήση/Μετάδοση/ Επιδείξεις</string>
+    <string name="path_setting_cast_demo_document">Σύνδεση &amp; κοινή χρήση/Μετάδοση/ Επιδείξεις/ Έγγραφα</string>
+    <string name="path_setting_cast_demo_gallery">Σύνδεση &amp; κοινή χρήση/Μετάδοση/ Επιδείξεις/Φωτό &amp; βίντεο</string>
+    <string name="path_setting_cast_demo_game">Σύνδεση &amp; κοινή χρήση/Μετάδοση/ Επιδείξεις/Παιχνίδια</string>
+    <string name="path_setting_cast_feature">Σύνδεση &amp; κοινή χρήση/Μετάδοση/Ειδικά χαρακτηριστικά</string>
+    <string name="path_setting_cast_help">Σύνδεση &amp; κοινή χρήση/Μετάδοση/Βοήθεια</string>
     <string name="privacy_agree">Συμφωνώ</string>
     <string name="privacy_detail"><Data>Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και να συλλέξει τα απαιτούμενα προσωπικά δεδομένα για να μπορεί να λειτουργήσει κανονικά. Για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστη, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και αποδεχτείτε την &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>.</Data></string>
     <string name="privacy_detail_extra"><Data>Ορισμένες δυνατότητες παρέχονται από τρίτο πάροχο υπηρεσιών HappyCast. Πριν από τη χρήση αυτής της δυνατότητας, διαβάστε και αποδεχτείτε &lt;a href=%1$s>HappyCast Πολιτική απορρήτου&lt;/a> και &lt;a href=%2$s>HappyCast Νομική δήλωση&lt;/a>.</Data></string>

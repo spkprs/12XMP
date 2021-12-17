@@ -643,6 +643,9 @@
     <string name="double_tap_for_hr_preview_108m">Διπλό άγγιγμα για μετάβαση σε προεπισκόπηση 108MP</string>
     <string name="double_tap_to_higher_definition">Διπλό άγγιγμα για μετάβαση σε προεπισκόπηση HD</string>
     <string name="download_canceled">Η λήψη ακυρώθηκε</string>
+    <string name="download_delete_error_desc">"Αδύνατη η επαναφορά του στοιχείου επειδή το διαγράψατε από τη συσκευή και το Cloud. Αφαίρεση κενόυ αρχείου;"</string>
+    <string name="download_delete_error_positive">Αφαίρεση</string>
+    <string name="download_delete_error_title">Λείπει το στοιχείο</string>
     <string name="download_error_format">Αδύνατη η λήψη %s</string>
     <string name="download_error_tip">. Οι λήψεις διακόπηκαν.</string>
     <string name="download_retry_message">Αδύνατη η λήψη αρχείων, έλεγχος σύνδεσης δικτύου και δοκιμή ξανά</string>
@@ -1095,6 +1098,7 @@
     <string name="grant_permission_unlock_and_set_2">Ξεκλείδωμα</string>
     <string name="grant_permission_write_clipboard">Για την αντιγραφή στοιχείων, να επιτρέπεται σε αυτήν την εφαρμογή η αποθήκευση στοιχείων στο πρόχειρο.</string>
     <string name="group_header_title_immutable_album">Οργάνωση</string>
+    <string name="group_header_title_media_group">Τύποι πολυμέσων</string>
     <string name="group_header_title_third_album">Περισσότερα άλμπουμ</string>
     <string name="group_header_title_user_create_album">Τα άλμπουμ μου</string>
     <string name="has_invalid_recipient">Μη έγκυρος παραλήπτης (ες): %1$s</string>
@@ -1110,7 +1114,7 @@
     <string name="home_menu_collage">Κολάζ</string>
     <string name="home_menu_id_photo">ID</string>
     <string name="home_menu_macarons">Magic vignette</string>
-    <string name="home_menu_magic_matting">Μαγεία</string>
+    <string name="home_menu_magic_matting">Κόψιμο</string>
     <string name="home_menu_photo_movie">Κλίπ</string>
     <string name="home_menu_print">Εκτύπωση φωτογραφιών</string>
     <string name="home_menu_video_post">Εφέ βίντεο</string>
@@ -1163,7 +1167,7 @@
     <string name="image_with_time">Η φωτό λήφθηκε στις %s</string>
     <string name="image_with_time_and_location">Η φωτό λήφθηκε στις %1$s. Τοποθεσία: %2$s.</string>
     <string name="impunity_declaration_settings">Προβολή ειδοποίησης δικτύου</string>
-    <string name="impunity_declaration_summary">Προβολή ειδοποίησης δικτύου σε κάθε εκκίνηση του άλμπουμ</string>
+    <string name="impunity_declaration_summary">Προβολή ειδοποίησης δικτύου στην επόμενη εκκίνηση του άλμπουμ</string>
     <string name="initializing_cloud">Αρχικοποίηση του Cloud Άλμπουμ…</string>
     <string name="input_a_name">Εισάγετε το όνομα</string>
     <string name="input_baby_name">Εισάγετε το όνομα</string>
@@ -1262,7 +1266,7 @@
     <string name="magic_eraser">Γόμα</string>
     <string name="magic_error_adding_filter">"Αδύνατη η εφαρμογή του φίλτρου"</string>
     <string name="magic_exporting">Αποθήκευση…</string>
-    <string name="magic_filter">Μαγεία</string>
+    <string name="magic_filter">Κόψιμο</string>
     <string name="magic_filter_dsc">Δημιουργία πορτραίτων με εντυπωσιακό φόντο</string>
     <string name="magic_galery">Συλλογή</string>
     <string name="magic_hight">Ύψος</string>
@@ -1289,14 +1293,14 @@
     <string name="magic_matting_download_failed_for_notwork">"Αδύνατη η λήψη. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά."</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">"Φαίνεται ότι η συσκευή σας δεν είναι συνδεδεμένη σε Wi-Fi. Λήψη της προσθήκης με χρήση δεδομένων κινητής ;"</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">"Φαίνεται ότι η συσκευή σας δεν είναι συνδεδεμένη σε Wi-Fi. Λήψη της προσθήκης με χρήση δεδομένων κινητής ;"</string>
-    <string name="magic_matting_download_sdk_without_wifi_title">Λήψη της προσθήκης \"Μαγεία\"</string>
+    <string name="magic_matting_download_sdk_without_wifi_title">Λήψη της προσθήκης \"Κόψιμο\"</string>
     <string name="magic_matting_download_with_metered_network_msg">Φαίνεται ότι η συσκευή σας είναι συνδεδεμένη σε δίκτυο επί πληρωμή. Η λήψη αρχικών αρχείων μπορεί να έχει ως αποτέλεσμα πρόσθετες χρεώσεις. Λήψη οπωσδήποτε;</string>
     <string name="magic_matting_download_with_metered_network_title">Δίκτυο επί πληρωμή</string>
     <string name="magic_matting_error_px">"Αυτό το μέγεθος εικόνας δεν υποστηρίζεται"</string>
     <string name="magic_matting_face_fail">"Αδύνατη η επεξεργασία προσώπου"</string>
     <string name="magic_matting_load_data_fail">"Αδύνατη η φόρτωση δεδομένων"</string>
-    <string name="magic_matting_module_finish">Η λήψη της προσθήκης \"Μαγεία\" ολοκληρώθηκε με επιτυχία</string>
-    <string name="magic_matting_module_loading">Λήψη της προσθήκης \"Μαγεία\"...</string>
+    <string name="magic_matting_module_finish">Η λήψη της προσθήκης \"Κόψιμο\" ολοκληρώθηκε με επιτυχία</string>
+    <string name="magic_matting_module_loading">Λήψη της προσθήκης \"Κόψιμο\"...</string>
     <string name="magic_max_px">Αυτή η εικόνα είναι πολύ μεγάλη</string>
     <string name="magic_metered_network_msg">Φαίνεται ότι η συσκευή σας είναι συνδεδεμένη σε δίκτυο επί πληρωμή. Η λήψη αρχικών αρχείων μπορεί να έχει ως αποτέλεσμα πρόσθετες χρεώσεις. Λήψη οπωσδήποτε;</string>
     <string name="magic_metered_network_title">Δίκτυο επί πληρωμή</string>
@@ -1351,6 +1355,7 @@
     <string name="map_guide_message">Προβολή φωτογραφίες και βίντεό σας στο χάρτη</string>
     <string name="map_location">Μετακίνηση στην τρέχουσα θέση</string>
     <string name="map_positioning_failed_tip">"Αδυναμία λήψης πληροφοριών θέσης λόγω αδύναμου σήματος"</string>
+    <string name="map_privacy_dialog_content"><Data>Αυτή η υπηρεσία σας επιτρέπει να προβάλλετε φωτο και βίντεο με πληροφορίες τοποθεσίας σε χάρτη. Χρησιμοποιούμε το Baidu Map Open SDK για αυτήν την υπηρεσία. Διαβάστε και συμφωνήστε με &lt;a href=\"%1$s\">Χάρτης Συλλογής Δήλωση τρίτων κοινής χρήσης δεδομένων&lt;/a> πριν συνεχίσετε.</Data></string>
     <string name="map_privacy_dialog_message"><Data>Αυτή η υπηρεσία σας επιτρέπει να προβάλλετε φωτογραφίες και βίντεο με πληροφορίες τοποθεσίας σε χάρτη. Χρησιμοποιούμε το Baidu Map Open SDK για να σας παρέχουμε αυτή την υπηρεσία. Διαβάστε &lt;a href=\"%1$s\">Baidu Map Πολιτική απορρήτου για προϊόντα και υπηρεσίες ανοικτής πλατφόρμας&lt;/a> για να μάθετε περισσότερα.</Data></string>
     <string name="map_privacy_dialog_title">Χάρτης Συλλογής</string>
     <string name="map_privacy_policy">Πολιτική απορρήτου Χάρτη Συλλογής</string>
@@ -1362,6 +1367,16 @@
     <string name="mark_operation_processing">Επεξεργασία…</string>
     <string name="mark_operation_succeeded">Προστέθηκε με επιτυχία</string>
     <string name="mark_people_ignore_info_message">Πατήστε παρατεταμένα τις φωτογραφίες των ατόμων για να τις προσθέσετε σε ομάδες</string>
+    <string name="media_type_burst_photo">Συνεχείς</string>
+    <string name="media_type_clone_photo">Κλώνοι</string>
+    <string name="media_type_doc_photo">Έγγραφα</string>
+    <string name="media_type_fast_motion_video">Χρονοκαθ/ριση</string>
+    <string name="media_type_front_photo">Αυτοφωτογ/φιση</string>
+    <string name="media_type_live_vv">Vlog</string>
+    <string name="media_type_motion_photo">Δυναμική</string>
+    <string name="media_type_pano_photo">Πανόραμα</string>
+    <string name="media_type_portrait_photo">Πορτρέτο</string>
+    <string name="media_type_slow_motion_video">Αργή Κίνηση</string>
     <string name="megabyteShort">MB</string>
     <string name="member_menu_vipname_free">Δωρεάν</string>
     <string name="member_menu_vipname_mega">Mega</string>
@@ -1936,6 +1951,7 @@
     <string name="privacy_map">Χάρτης Συλλογής</string>
     <string name="privacy_map_detail">&lt;Data&gt;Αυτή η υπηρεσία σας επιτρέπει να προβάλλετε φωτογραφίες και βίντεο με πληροφορίες τοποθεσίας σε χάρτη. Χρησιμοποιούμε το Baidu Map Open SDK για να σας παρέχουμε αυτή την υπηρεσία. Διαβάστε και συμφωνήστε με &lt;a href=\"%1$s\"&gt;Baidu Πολιτική απορρήτου χάρτη για προϊόντα και υπηρεσίες ανοικτής πλατφόρμας&lt;/a&gt; πριν συνεχίσετε.&lt;/Data&gt;</string>
     <string name="privacy_map_detail_content">Baidu Πολιτική απορρήτου χάρτη για προϊόντα και υπηρεσίες ανοικτής πλατφόρμας</string>
+    <string name="privacy_map_detail_content_new">Χάρτης Συλλογής Δήλωση τρίτων κοινής χρήσης δεδομένων</string>
     <string name="privacy_permission">Άδειες</string>
     <string name="privacy_permission_account">Λογαριασμοί</string>
     <string name="privacy_permission_account_detail">Για σύνδεση και συγχρονισμό στοιχείων με το cloud</string>
@@ -1958,9 +1974,12 @@
     <string name="privacy_permission_shotcut_detail">Για τη δημιουργία συντομεύσεων αρχικής οθόνης</string>
     <string name="privacy_permission_storage">Αποθήκευση</string>
     <string name="privacy_permission_storage_detail">Για την αποθήκευση φωτο και βίντεο</string>
+    <string name="privacy_reject_map_detail_new"><Data>"Ανάκληση συγκατάθεσής της &lt;a href=\"%1$s\">Χάρτης Συλλογής Δήλωση τρίτων κοινής χρήσης δεδομένων&lt;/a> θα θεωρηθεί ότι αρνείται να αποδεχθεί τις υπηρεσίες του Χάρτη Εικόνων. Θα εξακολουθείτε να μπορείτε να χρησιμοποιείτε κανονικά άλλες δυνατότητες Συλλογής. Απόσυρση συγκατάθεσής;"</Data></string>
     <string name="privacy_rejected">Ανάκληση συγκατάθεσης</string>
     <string name="privacy_rejected_map">Ανάκληση της συγκατάθεσης στην Πολιτική Απορρήτου του Χάρτη Συλλογής</string>
     <string name="privacy_rejected_map_detail">Η απόσυρση της συγκατάθεσής σας στην Πολιτική Απορρήτου του Χάρτη Συλλογής θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών της. Άλλες βασικές λειτουργίες και υπηρεσίες του Χάρτη Συλλογής δεν θα επηρεαστούν. Αποσύρετε ούτως ή άλλως;</string>
+    <string name="privacy_rejected_map_new">Ανάκληση συγκατάθεσής Χάρτης Συλλογής Δήλωση τρίτων κοινής χρήσης δεδομένων</string>
+    <string name="privacy_rejected_pos_btn">Ανάκληση</string>
     <string name="private_entry_lock_state_activated_text">Αφήστε για άνοιγμα ιδιωτικού φακέλου</string>
     <string name="private_entry_lock_state_enterd_text">Τραβήξτε προς τα κάτω για να ανοίξετε τον ιδιωτικό φάκελο</string>
     <string name="problem_feedback">Σχόλια</string>
