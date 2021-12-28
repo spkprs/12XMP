@@ -1344,6 +1344,10 @@
     <string name="miui_guide_dialog_button_positive_text">Εντάξει</string>
     <string name="miui_guide_dialog_message">Οι ήχοι πολυμέσων (μουσική, βίντεο κ.λπ.) θα εξακολουθήσουν να αναπαράγονται σε λειτουργία αθόρυβης λειτουργίας. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Ξεκλειδώθηκε από συσκευή Bluetooth</string>
+    <string name="miui_keyboard_shortcut_click">Πάτημα</string>
+    <string name="miui_keyboard_shortcut_double_click">Διπλό πάτημα</string>
+    <string name="miui_keyboard_shortcut_system_dock">Εμφάνιση γραμμής γρήγορης πρόσβασης εφαρμογών</string>
+    <string name="miui_keyboard_shortcut_system_quickly_recent">Εναλλαγή μεταξύ πρόσφατων εφαρμογών</string>
     <string name="miui_notification_menu_aggregate_feedback">Σχόλια</string>
     <string name="miui_notification_menu_allow">Αποδοχή</string>
     <string name="miui_notification_menu_feedback_success">Σας ευχαριστούμε για τα σχόλιά σας!</string>

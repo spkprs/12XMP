@@ -307,6 +307,7 @@
     <string name="no_share_file_content">Το αρχείο που επιλέξατε έχει ήδη διαγραφεί</string>
     <string name="no_share_files">Δεν είναι δυνατός ο διαμοιρασμός αρχείων που έχουν ήδη διαγραφεί</string>
     <string name="no_share_files_content">Μερικά από τα αρχεία που προσπαθείτε να διαμοιράσετε έχουν ήδη διαγραφεί. Τα υπόλοιπα διαμοιράστηκαν με επιτυχία</string>
+    <string name="no_support_modify_path">"Δεν μπορείτε να αλλάξετε τη θέση για ληφθέντα στοιχεία για λόγους ασφαλείας"</string>
     <string name="no_vip_info">Αποκτήστε συνδρομή Xunlei για επιτάχυνση των λήψεων</string>
     <string name="no_vip_show_info">Επιταχύνετε τις λήψεις σας\nσε όλες τις συσκευές σας με την Xunlei</string>
     <string name="not_set">Δεν ορίστηκε</string>

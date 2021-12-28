@@ -644,6 +644,7 @@
     <string name="hybrid_webpage_not_available">Η ιστοσελίδα δεν είναι διαθέσιμη</string>
     <string name="ic_menu_back">Πίσω</string>
     <string name="ic_menu_done">Ολοκληρώθηκε</string>
+    <string name="identify_numbers_text">Ενεργοποιήστε το Caller ID για τον εντοπισμό κλήσεων spam</string>
     <string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
     <string name="imei_invalid">Άκυρο IMEI</string>

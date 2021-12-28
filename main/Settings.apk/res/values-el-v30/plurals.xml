@@ -60,4 +60,8 @@
         <item quantity="other">"Βρίσκεστε %1$d βήματα μακριά από το άνοιγμα πληροφοριών συσκευής."</item>
         <item quantity="one">"Βρίσκεστε %1$d βήμα μακριά από το άνοιγμα πληροφοριών συσκευής."</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d δευτ.</item>
+        <item quantity="one">%d δευτ.</item>
+    </plurals>
 </resources>

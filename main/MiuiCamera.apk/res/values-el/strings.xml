@@ -1341,8 +1341,10 @@
     <string name="pref_camera_touch_focus_delay_title">Επέκταση του χρονικού ορίου εστίασης αφής</string>
     <string name="pref_camera_touchafaec_entry_off">Off</string>
     <string name="pref_camera_touchafaec_entry_on">On</string>
-    <string name="pref_camera_track_focus_preferred_description">"Ενεργοποιήστε για να διατηρήσετε την εστίαση αυτόματα σε άτομα και ζώα. Θα μπορείτε επίσης να επιλέξετε θέματα για παρακολούθηση με μη αυτόματο τρόπο."</string>
-    <string name="pref_camera_track_focus_preferred_title">Παρακολούθηση εστίασης</string>
+    <string name="pref_camera_track_focus_intro_description">Όταν βγάζετε φωτογραφίες ή τραβάτε βίντεο με κινούμενα θέματα, αυτή η λειτουργία ανιχνεύει ανθρώπους, γάτες και σκύλους και τα κρατάει σε αυτόματα σε εστίαση. Επιπλέον, μπορείτε επίσης να κάνετε διπλό πάτημα σε οποιοδήποτε θέμα για να παρακολουθήσετε την κίνηση.</string>
+    <string name="pref_camera_track_focus_intro_goto">Ενεργοποίηση</string>
+    <string name="pref_camera_track_focus_preferred_description">Κρατήστε ανθρώπους, γάτες και σκύλους που κινούνται σε αυτόματη εστίαση ή διπλοπατήστε οποιοδήποτε θέμα για να το παρακολουθήσετε.</string>
+    <string name="pref_camera_track_focus_preferred_title">Εστίαση παρακολούθησης κίνησης</string>
     <string name="pref_camera_ubifocus_title">Επανεστίαση</string>
     <string name="pref_camera_ultra_wide_ldc_description">Διόρθωση της παραμορφωμένης εικόνας σε υπέρ ευρυγώνιας λειτουργίας</string>
     <string name="pref_camera_ultra_wide_ldc_title">Διόρθωση παραμόρφωσης σε λήψεις Υπέρ Ευρείας γωνίας</string>

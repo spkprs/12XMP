@@ -1084,6 +1084,8 @@
     <string name="show_mamual_hide_font">Εμφάνιση δωρεάν γραμματοσειρών</string>
     <string name="show_mamual_hide_theme">Εμφάνιση δωρεάν θεμάτων</string>
     <string name="show_mamual_hide_wallpaper">Εμφάνιση δωρεάν ταπετσαριών</string>
+    <string name="show_theme_community">Συντόμευση Κοινότητας</string>
+    <string name="show_theme_community_desc">Εμφάνιση ή απόκρυψη της συντόμευσης της κοινότητας Θεμάτων</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_migration_exit_msg">Για να καταστήσουμε τα Θέματα συμβατά με τις νέες εκδόσεις του Android, μετακινήσαμε τα ληφθέντα στοιχεία σας σε μια νέα θέση. Επανεκκινήστε την εφαρμογή για να εφαρμόσετε τις αλλαγές και να προβάλετε το περιεχόμενο που έχετε λάβει.</string>
     <string name="storage_permission_denied_desc">Επιτρέψτε την πρόσβαση των Θεμάτων στην αποθήκευση για να μπορείτε να προβάλλετε στοιχεία</string>
@@ -1096,6 +1098,7 @@
     <string name="super_wallpaper_setting_choose_position_btn_text">Επιλογή θέσης</string>
     <string name="super_wallpaper_setting_coordinate_title">Συντεταγμένες</string>
     <string name="super_wallpaper_setting_view_height_title">Υψόμετρο</string>
+    <string name="supersave_mode_toast_message">"Αυτή η λειτουργία δεν είναι διαθέσιμη όταν χρησιμοποιείτε τη λειτουργία Υπέρ εξοικ. μπατ. Απενεργοποιήστε τη για να μπορέσετε να τη χρησιμοποιήσετε."</string>
     <string name="support_theme_store_des">Τα καλά θέματα δημιουργούνται πάντα από ταλαντούχους σχεδιαστές. Η εφαρμογή μας περιέχει έναν μικρό αριθμό διαφημίσεων που μας επιτρέπουν να υποστηρίξουμε το έργο τους.</string>
     <string name="support_theme_store_supported">Ευχαριστώ για την υποστήριξη!</string>
     <string name="support_theme_store_title">Υποστηρίξτε τους σχεδιαστές μας</string>

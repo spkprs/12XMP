@@ -409,6 +409,8 @@
     <string name="menu_lock">Κλείδωμα διάταξης Αρχικής οθόνης</string>
     <string name="menu_more">Περισσότερα</string>
     <string name="menu_new_display_open">Άνοιγμα σε νέο παράθυρο</string>
+    <string name="menu_no_word">"Μην εμφανίζεται κείμενο"</string>
+    <string name="menu_no_word_setting_tip" formatted="false">Διάταξη %d×%d χωρίς κείμενο</string>
     <string name="menu_pc_open">Άνοιγμα με πρόγραμμα υπολογιστή</string>
     <string name="menu_picktheme">Επιλογή θέματος</string>
     <string name="menu_reset_scene">Επαναφορά στην προεπιλεγμένη σκηνή</string>

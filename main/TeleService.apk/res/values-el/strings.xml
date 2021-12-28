@@ -999,6 +999,7 @@
     <string name="fiveg_sa_vice_switch_summary">Επιτρέψτε στη δευτερεύουσα SIM να χρησιμοποιεί ανεξάρτητο δίκτυο 5G</string>
     <string name="fiveg_sa_vice_switch_title">SA σε δευτερεύουσα κάρτα SIM</string>
     <string name="fiveg_signal_strength1">"Ισχύς σήματος 5G : "</string>
+    <string name="fiveg_switch_per_slot_summary">Χρησιμοποιήστε το 5G για να αυξήσετε την ταχύτητα  δεδομένων κινητής</string>
     <string name="fiveg_switch_status1">"Κατάσταση διακόπτη 5G : "</string>
     <string name="fiveg_switch_title">Χρήση δικτύων 5G</string>
     <string name="fiveg_upperlayer_indication1">"Κατάσταση ένδειξης ανώτερου επιπέδου  : "</string>

@@ -525,4 +525,8 @@
     <item quantity="other">Κάθε %d δευτ</item>
     <item quantity="one">Κάθε %d δευτ</item>
   </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d δευτ.</item>
+        <item quantity="one">%d δευτ.</item>
+    </plurals>
 </resources>

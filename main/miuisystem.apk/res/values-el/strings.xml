@@ -139,8 +139,11 @@
     <string name="vip_login">Πατήστε για να συνδεθείτε</string>
     <string name="vip_not_login">Δεν έχετε συνδεθεί</string>
     <string name="vip_sign">Υπογραφή:</string>
+    <string name="wallpaper_group_black_gobi_title">Άμμος της Γκόμπι</string>
     <string name="wallpaper_group_black_white_title">Μαύρο και άσπρο</string>
     <string name="wallpaper_group_color_move_title">Υγρά χρώματα</string>
+    <string name="wallpaper_group_crystallization_subtitle">Ομορφιά της επιστήμης</string>
+    <string name="wallpaper_group_crystallization_title">Κρυσταλλοποίηση</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Δυναμικό νεφέλωμα</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>

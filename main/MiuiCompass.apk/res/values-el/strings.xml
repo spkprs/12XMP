@@ -95,6 +95,7 @@
     <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="mobiledata_alert_dialog_message">Σύνδεση στο διαδίκτυο για τη βαθμονόμηση υψομέτρου;</string>
     <string name="mobiledata_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
+    <string name="new_cta_app_purpose">Προβολή κατευθύνσεων και συντεταγμένων</string>
     <string name="new_cta_v2_app_purpose">Εμφάνιση κατευθύνσεων, συντεταγμένων, ατμοσφαιρικής πίεσης και τρέχοντος υψομέτρου</string>
     <string name="new_permission_camera_desc">Για βαθμονόμηση</string>
     <string name="new_permission_location_desc">Για εμφάνιση συντεταγμένων</string>

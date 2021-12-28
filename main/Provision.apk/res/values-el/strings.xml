@@ -145,6 +145,7 @@
     <string name="other_settings">Βασικές ρυθμίσεις</string>
     <string name="other_settings_ad_dialog_agree">Ενεργοποίηση</string>
     <string name="other_settings_ad_dialog_content">"Όταν οι εξατομικευμένες και προτάσεις είναι απενεργοποιημένες, θα εξακολουθείτε να βλέπετε την ίδια ποσότητα διαφημίσεων όπως όταν η δυνατότητα είναι ενεργοποιημένη. Ωστόσο, οι διαφημίσεις δεν θα είναι πλέον σχετικές καθώς δεν θα βασίζονται στις προσωπικές προτιμήσεις σας".</string>
+    <string name="other_settings_ad_dialog_content_for_global">"Όταν οι εξατομικευμένες διαφημιστικές προτάσεις είναι ανενεργές, θα εξακολουθείτε να βλέπετε την ίδια ποσότητα διαφημίσεων στις εφαρμογές του συστήματος MIUI όπως όταν η λειτουργία είναι ενεργή. Οι διαφημίσεις από την Xiaomi και τις πλατφόρμες τρίτων, ωστόσο, δεν θα είναι πλέον σχετικές, καθώς δεν θα βασίζονται στις προσωπικές σας προτιμήσεις."</string>
     <string name="other_settings_ad_dialog_disagree">Απενεργοποίηση</string>
     <string name="other_settings_ad_disable_summary">Ενεργοποίηση εξατομικευμένων διαφημίσεων</string>
     <string name="other_settings_ad_enable">Εξατομικευμένες διαφημίσεις</string>
@@ -363,6 +364,7 @@
     <string name="skip_gesture_guide_dialog_title">Χειρονομίες πλήρους οθόνης</string>
     <string name="skip_underline">Παράλειψη</string>
     <string name="start_up_slogan">Η ζωή γίνεται ευκολότερη</string>
+    <string name="start_up_slogan_thirteen_china">Όπου όλα τα πράγματα συνδέονται!!!</string>
     <string name="summary_not_set">Χωρίς ρύθμιση</string>
     <string name="system_navigation_mode">Λειτουργία πλοήγησης Συστήματος</string>
     <string name="systemdesktop_introduction">Το πρόσθετο της υπηρεσίας αρχικής οθόνης σας παρέχει βασικές λειτουργίες, όπως η αρχική οθόνη, το UI του συστήματος και τα στιγμιότυπα οθόνης.</string>

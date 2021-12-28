@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_ad_service_instructions_for_global">Σχετικά με τις υπηρεσίες διαφημίσεων και το απόρρητο στις εφαρμογές του συστήματος MIUI</string>
     <string name="accessibility_autoclick_custom_title">Προσαρμογή</string>
     <string name="accessibility_autoclick_default_title">Ανενεργό</string>
     <string name="accessibility_autoclick_description">Το αυτόματο κλικ λειτουργεί με ένα συνδεδεμένο ποντίκι. Μπορείτε να ρυθμίσετε τον δείκτη του ποντικιού να κάνει κλικ αυτόματα όταν σταματάει να κινείται για ένα συγκεκριμένο χρονικό διάστημα.</string>
@@ -109,6 +110,7 @@
     <string name="app_permissions_summary_more">Εφαρμογές που χρησιμοποιούν %1$s και άλλα</string>
     <string name="asst_capability_ranking_summary">Αυτόματη ταξινόμηση ειδοποιήσεων κατά συνάφεια</string>
     <string name="asst_capability_ranking_title">Προσαρμ. ταξιν. ειδοπ.</string>
+    <string name="auto_clean_summary_new">Παίξτε ένα ηχητικό σήμα %d-δευτ. για να καθαρίσετε το ηχείο. Χρησιμοποιήστε αυτή τη λειτουργία πολλές φορές στη σειρά για σημαντικές ποσότητες βρωμιάς.</string>
     <string name="auto_connect_disable">Η αυτόματη σύνδεση είναι απενεργοποιημένη</string>
     <string name="auto_sync_account_title">Αυτόματος συγχρονισμός δεδομένων εφαρμογής</string>
     <string name="available_via_app">Διαθέσιμο μέσω %1$s</string>
@@ -222,6 +224,8 @@
     <string name="delete_blob_text">Διαγραφή κοινόχρηστων δεδομένων</string>
     <string name="demote_conversation_summary">Κατάργηση από την ενότητα συζητήσεων</string>
     <string name="demote_conversation_title">Δεν είναι συνομιλία</string>
+    <string name="dialog_speaker_auto_clean_content_new">"Πρόκειται να αναπαράγετε τον ήχο που θα καθαρίσει το ηχείο. Ρυθμίστε την ένταση του ήχου στο μέγιστο για καλύτερο αποτέλεσμα."</string>
+    <string name="dialog_speaker_auto_clean_title_new">Καθαρισμός ηχείου</string>
     <string name="disable_wifi_hotspot_title">Να μην χρησιμοποιηθεί σημείο πρόσβασης Wi‑Fi</string>
     <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Κοινή χρήση διαδικτύου μόνο μέσω Bluetooth και Ethernet</string>
     <string name="disable_wifi_hotspot_when_bluetooth_on">Κοινοποίηση μόνο μέσω Bluetooth</string>
@@ -251,6 +255,9 @@
     <string name="ethernet_tether_checkbox_text">Σύνδεση Ethernet</string>
     <string name="ethernet_tethering_subtext">Μοιραστείτε τη σύνδεση του τηλεφώνου στο διαδίκτυο μέσω USB Ethernet</string>
     <string name="exceptional_case">Εξαιρέσεις</string>
+    <string name="external_ram_dialog_icon_confirm">Κατανοητό</string>
+    <string name="external_ram_dialog_icon_info">Το σύστημα θα επεκτείνει τη μνήμη RAM κατά %1$s %2$s.</string>
+    <string name="external_ram_dialog_icon_title">Η επέκταση μνήμης είναι ενεργή</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Προστατεύοντας το τηλέφωνό σας με μια επιλογή κλειδώματος οθόνης, κανείς δεν θα μπορεί να το χρησιμοποιήσει σε περίπτωση απώλειας ή κλοπής. Θα χρειαστείτε επίσης μια επιλογή κλειδώματος οθόνης για να ρυθμίσετε το Ξεκλείδωμα προσώπου. Για επιστροφή, πατήστε Ακύρωση.</string>
     <string name="face_unlock_set_unlock_password">Ξεκλείδωμα προσώπου + κωδικός πρόσβασης</string>
     <string name="face_unlock_set_unlock_pattern">Ξεκλείδωμα προσώπου + μοτίβο</string>
@@ -446,6 +453,8 @@
     <string name="private_dns_broken">Δεν είναι δυνατή η πρόσβαση στον ιδιωτικό διακομιστή DNS.</string>
     <string name="private_dns_mode_on">Ενεργό</string>
     <string name="profile_connect_timeout_subtext">Πρόβλημα κατά τη σύνδεση. Απενεργοποιήστε τη συσκευή και ενεργοποιήστε την ξανά</string>
+    <string name="progress_dialog_speaker_auto_clean_button">Stop</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Εκκαθάριση ηχείου…</string>
     <string name="promote_conversation_summary">Προσθήκη στην ενότητα συζήτησης</string>
     <string name="promote_conversation_title">Αυτή είναι μια συνομιλία</string>
     <string name="quick_controls_lower">Στοιχεία ελέγχου συσκευής</string>
@@ -453,6 +462,7 @@
     <string name="quick_settings_media_player_summary">Εμφανίζει και διατηρεί το πρόγραμμα αναπαραγωγής πολυμέσων στις Γρήγορες ρυθμίσεις. Απαιτείται επανεκκίνηση.</string>
     <string name="repeat_days_in_week">Επανάληψη</string>
     <string name="reset_dashboard_summary_onlyApps">Μπορεί να γίνει επαναφορά των εφαρμογών</string>
+    <string name="reset_network_title_noSim">Επαναφορά WLAN και Bluetooth</string>
     <string name="right_edge">Δεξιά άκρη</string>
     <string name="ring_volume_title">Ένταση ήχου κουδουνίσματος και ειδοποιήσεων</string>
     <string name="ringer_mode_setting_summary">Σίγαση κλήσεων και ειδοποιήσεων</string>
@@ -534,6 +544,7 @@
     <string name="tethering_interface_options">Σύνδεση</string>
     <string name="time_zen_mode_turn_off">Απενεργοποίηση χρόνου</string>
     <string name="time_zen_mode_turn_on">Ενεργοποίηση χρόνου</string>
+    <string name="toast_disconnect_earphone">Αποσυνδέστε τα ακουστικά και δοκιμάστε ξανά</string>
     <string name="twilight_mode_launch_location">Ρυθμίσεις θέσης</string>
     <string name="twilight_mode_location_off_dialog_message">Η τοποθεσία της συσκευής που απαιτείται για τον προσδιορισμό της δύσης και της ανατολής.</string>
     <string name="unlock_set_unlock_pin_summary">Εισάγετε %1$d-%2$d ψηφία για ξεκλείδωμα συσκευής</string>
@@ -546,6 +557,7 @@
     <string name="usagestats_device_notification_des_reset">Όριο σήμερα: %1$s | %2$s απομένει</string>
     <string name="usagestats_device_timeout_des">Χρησιμοποιείτε τη συσκευή σας για %1$dω %2$dλ σήμερα. Κάντε ένα διάλειμα!</string>
     <string name="use_open_wifi_automatically_title">Σύνδεση σε δημόσια δίκτυα</string>
+    <string name="use_personalized_ad_service_summary_for_global">"Όταν οι εξατομικευμένες διαφημιστικές προτάσεις είναι ανενεργές, θα εξακολουθείτε να βλέπετε την ίδια ποσότητα διαφημίσεων στις εφαρμογές του συστήματος MIUI όπως όταν η λειτουργία είναι ενεργή. Οι διαφημίσεις από την Xiaomi και τις πλατφόρμες τρίτων, ωστόσο, δεν θα είναι πλέον σχετικές, καθώς δεν θα βασίζονται στις προσωπικές σας προτιμήσεις."</string>
     <string name="user_certificate">Πιστ. χρήστη VPN και εφαρμογής</string>
     <string name="user_switch_to_user">Εναλλαγή σε %s</string>
     <string name="user_you">Εσείς (%s)</string>

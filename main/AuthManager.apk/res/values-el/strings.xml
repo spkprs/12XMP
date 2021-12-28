@@ -111,7 +111,7 @@
     <string name="HIPS_Perm_show_when_locked">Εμφάνιση στην Οθόνη κλειδώματος</string>
     <string name="HIPS_Perm_show_when_locked_Desc">να εμφανίζεται στην Οθόνη κλειδώματος</string>
     <string name="HIPS_Perm_tencentControl">Πρόσβαση σε μηνύματα σε εφαρμογές κοινωνικών μέσων</string>
-    <string name="HIPS_Perm_tencentControl_Desc">Επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση στα μηνύματα WeChat και QQ</string>
+    <string name="HIPS_Perm_tencentControl_Desc">Πρόσβαση σε εικόνες και αρχεία που έχουν αποθηκευτεί από το WeChat και το QQ</string>
     <string name="HIPS_Perm_use_sip">Υπηρεσίες Βίντεο</string>
     <string name="HIPS_Perm_use_sip_Desc">να κάνει χρήση υπηρεσιών SIP για ροή βίντεο</string>
     <string name="HIPS_Perm_write_clipboard">Αποθήκευση στοιχείων στο πρόχειρο</string>
@@ -177,6 +177,7 @@
     <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="never_ask_again">Να μην ερωτηθώ ξανά μετά τον περιορισμό</string>
     <string name="no">Όχι</string>

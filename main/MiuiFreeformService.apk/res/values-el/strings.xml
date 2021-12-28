@@ -4,7 +4,7 @@
     <string name="bottom_bar_smallwindow_text">Καρφίτσωμα</string>
     <string name="contentDescription">Μετακίνηση του παραθύρου</string>
     <string name="copy">Αντιγραφή</string>
-    <string name="expand_button_title">Προχωρημένες</string>
+    <string name="expand_button_title">Προηγμένες</string>
     <string name="freeform_demo_back">Πίσω</string>
     <string name="freeform_demo_final_over">Τέλος</string>
     <string name="freeform_demo_final_restart">Ξεκινήστε από την αρχή</string>
@@ -14,6 +14,7 @@
     <string name="freeform_demo_previous_tutorial">Πίσω</string>
     <string name="freeform_demo_title_finish">Τέλεια!</string>
     <string name="freeform_demo_title_skip">Παράλειψη</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Σύρετε τη γωνία για να ελαχιστοποιήσετε μια εφαρμογή</string>
     <string name="freeform_slide_to_small_freeform">Ελαχιστ/ση Αιωρούμενου παραθ.</string>
     <string name="freeform_slide_to_small_freeform_summary">Κρατήστε τη γραμμή ενεργειών και σύρετε στην γωνία</string>
     <string name="freeform_slide_to_small_freeform_summary_pad">Σύρετε τη γωνία για να ελαχιστ/σετε μια εφαρμογή</string>
@@ -36,6 +37,7 @@
     <string name="how_to_use_freeform">Τρόπος χρήσης των Αιωρούμενων παραθύρων</string>
     <string name="multi_window_cvw">Αιωρούμενο παράθυρο</string>
     <string name="multi_window_cvw_summary">Σύρετε τη γωνία για μετάβαση σε ένα Αιωρούμενο παράθυρο και προσαρμογή μεγέθους του</string>
+    <string name="multi_window_cvw_title">Κινούμενο παράθυρο</string>
     <string name="not_set">Δεν ρυθμίστηκε</string>
     <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="v7_preference_off">OFF</string>

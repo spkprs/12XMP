@@ -249,19 +249,6 @@
     <string name="night">Βράδυ</string>
     <string name="noon">Μεσημέρι</string>
     <string name="not_set">Δεν ρυθμίστηκε</string>
-    <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s επιλεγμένα.</string>
-    <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s επιλεγμένα.</string>
-    <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s επιλεγμένα.</string>
-    <string name="pa_edit_switch">Εναλλαγή</string>
-    <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Μισό λεπτό…</string>
-    <string name="pa_picker_list_load_complete">Φόρτωση περισσότερα</string>
-    <string name="pa_picker_list_load_end">Τέλος στοιχείων προς εμφάνιση</string>
-    <string name="pa_picker_list_load_failed">"Αδυναμία φόρτωσης στοιχείων, δοκιμάσετε ξανά"</string>
-    <string name="pa_picker_list_loading">Μισό λεπτό…</string>
-    <string name="pa_sports_widget_empty_basketball">Καλαθοσφαίριση</string>
-    <string name="pa_sports_widget_empty_football">Ποδόσφαιρο</string>
-    <string name="pa_sports_widget_empty_game">Honor of Kings</string>
-    <string name="pa_sports_widget_empty_recommend">Προτεινόμενο</string>
     <string name="pa_accessibility_home_search">Αναζήτηση, διπλό πάτημα για εκκίνηση</string>
     <string name="pa_accessibility_home_widget_drag">Σύρσιμο στοιχείου</string>
     <string name="pa_accessibility_home_widget_drag_move">Μετακίνηση στη σειρά %1$d, θέση %2$d</string>
@@ -269,9 +256,15 @@
     <string name="pa_accessibility_picker_back">Πίσω</string>
     <string name="pa_accessibility_picker_search_cancel">Γραμμή αναζήτησης widget. Διπλό πάτημα για ακύρωση.</string>
     <string name="pa_accessibility_picker_search_tips">Γραμμή αναζήτησης widget. Διπλό πάτημα για αναζήτηση.</string>
+    <string name="pa_accessibility_picker_suit_item_add_to_desktop">Κατάστημα widget. %s επιλεγμένο. Διπλό πάτημα για να δείτε λεπτομέρειες.</string>
+    <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Κατάστημα widget. %s επιλεγμένο. Διπλό πάτημα για να δείτε λεπτομέρειες.</string>
+    <string name="pa_accessibility_picker_suit_item_add_to_third">Κατάστημα widget. %s επιλεγμένο. Διπλό πάτημα για να δείτε λεπτομέρειες.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop" formatted="false">Κατάστημα Widget Λίστα εφαρμογών Σύνολο %s στοιχείων Επί του παρόντος επιλεγμένο %s Στοιχείο %s που περιέχει %s widgets Διπλό κλικ για να μεταβείτε στην εισαγωγή widget</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s επιλεγμένα.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop" formatted="false">Κατάστημα Widget Λίστα εφαρμογών Σύνολο %s στοιχείων Επί του παρόντος επιλεγμένο %s Στοιχείο %s που περιέχει %s widgets Διπλό κλικ για να μεταβείτε στην εισαγωγή widget</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s επιλεγμένα.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">Κατάστημα Widget Λίστα εφαρμογών Σύνολο %s στοιχείων Επί του παρόντος επιλεγμένο %s Στοιχείο %s που περιέχει %s widgets Διπλό κλικ για να μεταβείτε στην εισαγωγή widget</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s επιλεγμένα.</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Διπλό πάτημα για προσθήκη του στοιχείου στην Αρχική οθόνη.</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Διπλό πάτημα για προσθήκη του στοιχείου στο Βοηθό MIUI.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Επεξ/σία</string>
@@ -312,6 +305,7 @@
     <string name="pa_edit_select_image">Μορφή</string>
     <string name="pa_edit_set_time">Ορισμός ώρας</string>
     <string name="pa_edit_state_onoff">Έλεγχος κατάστασης</string>
+    <string name="pa_edit_switch">Εναλλαγή</string>
     <string name="pa_edit_text">Εμφανιζόμενο στοιχείο</string>
     <string name="pa_edit_text_align">Στοίχιση</string>
     <string name="pa_edit_text_max_length">Αυτό το κείμενο είναι πολύ μεγάλο</string>
@@ -489,6 +483,7 @@
     <string name="pa_picker_detail_maml_download_error">Δεν ήταν δυνατή η λήψη</string>
     <string name="pa_picker_detail_modify_maml">Επεξ/σία</string>
     <string name="pa_picker_detail_net_error">Σφάλμα δικτύου. Πατήστε για να δοκιμάσετε ξανά.</string>
+    <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Μισό λεπτό…</string>
     <string name="pa_picker_detail_small_widget">Widgets</string>
     <string name="pa_picker_detail_theme_app_cta">Ρυθμίσεις</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Εκχώρηση δικαιωμάτων στα θέματα για τη χρήση αυτού του γραφικού. "</string>
@@ -502,14 +497,19 @@
     <string name="pa_picker_list_app_footer_classic_widget">Κλασσικό γραφικό</string>
     <string name="pa_picker_list_app_title">Εφαρμογές με γραφικά</string>
     <string name="pa_picker_list_app_widget_count">%s</string>
+    <string name="pa_picker_list_load_complete">Φόρτωση περισσότερα</string>
+    <string name="pa_picker_list_load_end">Τέλος στοιχείων προς εμφάνιση</string>
+    <string name="pa_picker_list_load_failed">"Αδυναμία φόρτωσης στοιχείων, δοκιμάσετε ξανά"</string>
+    <string name="pa_picker_list_loading">Μισό λεπτό…</string>
     <string name="pa_picker_loading">Μισό λεπτό…</string>
-    <string name="pa_picker_maml_list_activity_title">Προσθήκη widget</string>
+    <string name="pa_picker_maml_list_activity_title">Προσθήκη widgets</string>
     <string name="pa_picker_permission_denied">Ο Βοηθός MIUI πρέπει να έχει πρόσβαση στην κατάσταση εγκατάστασης\nγια να εμφανίσει widgets</string>
     <string name="pa_picker_request">Ρυθμίσεις</string>
     <string name="pa_picker_retry">Προσπαθήστε ξανά</string>
     <string name="pa_picker_search_empty">Αδυναμία εύρεσης αποτελεσμάτων</string>
     <string name="pa_picker_search_error">Δεν μπόρεσε να συνδεθεί στο δίκτυο</string>
     <string name="pa_picker_search_layout_cancel">Ακύρωση</string>
+    <string name="pa_picker_suit_list_activity_title">Πακέτα εξατομίκευσης</string>
     <string name="pa_picker_tips_count_limit_forbidden">Δεν μπορείτε να προσθέσετε περισσότερα στον Βοηθός MIUI. Διαγράψτε παλαιότερα γραφικά για να προσθέσετε νέα.</string>
     <string name="pa_picker_toast_add_successfully">Προστέθηκε με επιτυχία</string>
     <string name="pa_picker_toast_count_limit_forbidden">Δεν μπορείτε να προσθέσετε περισσότερα</string>
@@ -622,6 +622,10 @@
     <string name="pa_sports_title">Αθλητισμός</string>
     <string name="pa_sports_unstalled_tip_douyu">Εγκαταστήστε πρώτα το Douyu</string>
     <string name="pa_sports_unstalled_tip_hupu">Εγκαταστήστε πρώτα το Hupu</string>
+    <string name="pa_sports_widget_empty_basketball">Καλαθοσφαίριση</string>
+    <string name="pa_sports_widget_empty_football">Ποδόσφαιρο</string>
+    <string name="pa_sports_widget_empty_game">Honor of Kings</string>
+    <string name="pa_sports_widget_empty_recommend">Προτεινόμενο</string>
     <string name="pa_stock_add_stock_button">Προσθήκη</string>
     <string name="pa_stock_color_scheme_label">Χρωματικός συνδυασμός</string>
     <string name="pa_stock_delisted">(Διαγράφηκε)</string>

@@ -87,6 +87,7 @@
     <string name="calories_logo_text">Υποστήριξη AI που παρέχεται από την Health Hope</string>
     <string name="calories_request_interface_text">Υποστήριξη AI</string>
     <string name="camera_error_title">Σφάλμα κάμερας</string>
+    <string name="camera_permissions_text">Επιτρέψτε στον Σαρωτή να έχει πρόσβαση στην κάμερα για να μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="camera_stealth_mode_message">Αδύνατη η σύνδεση με την Κάμερα. Αν απαιτείται, απενεργοποιήστε την Αόρατη λειτουργία.</string>
     <string name="camera_stealth_mode_title">Αόρατη λειτουργία Ενεργή</string>
     <string name="can_only_be_English_Chinese">Η γλώσσα της online μετάφρασης μπορεί να είναι μόνο Αγγλικά και απλοποιημένα Κινέζικα</string>
@@ -296,6 +297,7 @@
     <string name="food_module_thumbs_up">Μου αρέσει</string>
     <string name="food_module_tip">Τοποθέτηση της τροφής μέσα στο πλαίσιο</string>
     <string name="food_module_title_food">Θερμίδες</string>
+    <string name="format_error">Άκυρος κωδικός πρόσβασης</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
@@ -338,6 +340,8 @@
     <string name="kuaidi100_data">Παρέχεται από Kuaidi 100</string>
     <string name="label_choose_picture">Επιλογή εικόνας</string>
     <string name="label_flash_light">Φλάς</string>
+    <string name="label_flash_light_off">Ο φακός είναι σβηστός</string>
+    <string name="label_flash_light_on">Ο φακός είναι αναμμένος</string>
     <string name="language_entry_chinese_cn">Απλοποιημένα Κινέζικα</string>
     <string name="language_entry_english">Αγγλικά</string>
     <string name="language_entry_french">Γαλλικά</string>
@@ -345,6 +349,7 @@
     <string name="language_entry_japanese">Ιαπωνικά</string>
     <string name="language_entry_korean">Κορεάτικα</string>
     <string name="language_entry_spanish">Ισπανικά</string>
+    <string name="language_translate_entry_auto">Αυτόματα</string>
     <string name="language_value_chinese_cn">chinese_cn</string>
     <string name="language_value_english">english</string>
     <string name="language_value_french">french</string>
@@ -391,6 +396,7 @@
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_item">Επιλογή αντικειμένων</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
@@ -566,6 +572,12 @@
     <string name="scanHistory_open">Ενεργό</string>
     <string name="scan_result">Αποτέλεσμα</string>
     <string name="scan_support_type">WeChat, Alipay, QR codes, barcodes</string>
+    <string name="screenshot_copy_text">Αντιγραφή κειμένου</string>
+    <string name="screenshot_save_image">Αποθήκευση εικόνας</string>
+    <string name="screenshot_save_image_error">"Αδύνατη η αποθήκευση της εικόνας"</string>
+    <string name="screenshot_save_image_success">Αποθήκευση εικόνας με επιτυχία</string>
+    <string name="screenshot_shared_image">Κοινοποίηση εικόνας</string>
+    <string name="screenshot_translation_running">Μετάφραση…</string>
     <string name="sdk_not_ready">Προετοιμασία SDK. Δοκιμάστε ξανά αργότερα.</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="secure_access_web_url">Μετάβαση στην ιστοσελίδα</string>
@@ -595,6 +607,7 @@
     <string name="smart_scan_code">Έξυπνος σαρωτής</string>
     <string name="spaceIsLow_content">Δεν υπάρχει αρκετός χώρος. Ελευθερώστε λίγο χώρο.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_permissions_text">Επιτρέψτε στον Σαρωτή να έχει πρόσβαση στον χώρο της συσκευής για να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="store_feedback_prompt">Εισαγάγετε τα σχόλιά σας πρώτα</string>
     <string name="store_location_dialog">Αυτή η υπηρεσία παρέχεται από το Dianping. Όλες οι φωτογραφίες που κάνατε λήψη κατά τη χρήση αυτής της υπηρεσίας, συμπεριλαμβανομένων των πληροφοριών σχετικά με τη τοποθεσία, θα κοινοποιηθούν στο Dianping για να ληφθούν πληροφορίες σχετικά με τα καταστήματα.</string>
     <string name="store_location_fail">"Δεν ήταν δυνατή η λήψη πληροφοριών τοποθεσίας"</string>
@@ -678,8 +691,10 @@
     <string name="translate_auto_unlock">Ξεκλείδωμα μετάφρασης</string>
     <string name="translate_copy_success">Επιτυχές Αντίγραφο</string>
     <string name="translate_dest_lang">Γλώσσα προορισμού</string>
+    <string name="translate_export">Εξαγωγή</string>
     <string name="translate_fail">"Αδυναμία μετάφρασης"</string>
     <string name="translate_loading">Μεταφράζεται…</string>
+    <string name="translate_long_screen">Κύληση μετάφρασης</string>
     <string name="translate_parallel_2_lines">Βεβαιωθείτε ότι το κείμενο είναι παράλληλο με τις γραμμές στην οθόνη</string>
     <string name="translate_save_fail">"Αδυναμία αποθήκευσης σημείωσης"</string>
     <string name="translate_src_lang">Πηγή γλώσσας</string>
@@ -728,6 +743,7 @@
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
     <string name="vender_info_translation_kingsoft">Υποστηρίζεται από Kingsoft</string>
     <string name="version_code">"Έκδοση: "</string>
+    <string name="view_origin_text">Αρχικό κείμενο</string>
     <string name="visit">Επίσκεψη</string>
     <string name="waybill_num">"Παραγγελία: "</string>
     <string name="web">Ιστοσελίδα:</string>
