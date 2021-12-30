@@ -90,6 +90,13 @@
     <string name="guide_window_operation">Σύρετε από το πλάι προς το κέντρο της οθόνης</string>
     <string name="guide_window_title">Πηγαίνετε πίσω</string>
     <string name="http_buffer_size">HTTP μέγεθος cache</string>
+    <string name="invisible_mode_dialog_cancel">Ακύρωση</string>
+    <string name="invisible_mode_dialog_message">"Δεν μπορείτε να χρησιμοποιήσετε το MIUI+ Screen Combo όταν είστε στο ινκόγκνιτο. Απενεργοποιήστε πρώτα τη λειτουργία Incognito."</string>
+    <string name="invisible_mode_dialog_positive">Απενεργοποίηση</string>
+    <string name="invisible_mode_dialog_title">"Είστε ινκόγκνιτο"</string>
+    <string name="invisible_mode_toast">Απενεργοποιήστε πρώτα τη λειτουργία Incognito</string>
+    <string name="loading_view_abort_close_text">Κλείστε</string>
+    <string name="loading_view_abort_text">Η σύνδεση τερματίστηκε.\nΚλείστε αυτή τη σελίδα και προσπαθήστε ξανά.</string>   
     <string name="loading">Μισό λεπτό…</string>
     <string name="log_warning">"Η εναλλαγή των διακοπτών καταγραφής μπορεί να αυξήσει τους κινδύνους ασφαλείας και να επηρεάσει την απόδοση. Χρησιμοποιήστε αυτές τις εναλλαγές μόνο όταν είναι απαραίτητο."</string>
     <string name="low_version_dialog_message">Ενημερώστε το MIUI+ στο PC σας ή κατεβάστε την τελευταία έκδοση από plus.miui.com.</string>

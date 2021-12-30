@@ -192,7 +192,7 @@
     <string name="document_spin">Περιστροφή</string>
     <string name="document_take_a_single">Μια σελίδα</string>
     <string name="document_take_multiple_shots">Πολλαπλές σελίδες</string>
-    <string name="document_title">Λήψη φωτογραφίας του εγγράφου</string>
+    <string name="document_title">Λήψη φωτογραφίας εγγράφου</string>
     <string name="document_top_panel_title">Φωτογραφία εγγράφου</string>
     <string name="done">Ολοκληρώθηκε</string>
     <string name="downloadAiVison">Εγκαταστήστε μια προσθήκη για να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
@@ -510,6 +510,7 @@
     <string name="picture_is_being_saved">Γίνεται αποθήκευση της εικόνας</string>
     <string name="picture_original_image">Κανονική (%1$s)</string>
     <string name="picture_please_select">Επιλογή</string>
+    <string name="picture_preview">Προβολή</string>
     <string name="picture_preview_num">Προβολή (%1$d)</string>
     <string name="place_barcode_into_rectangle">Βάλτε τον κωδικό μέσα στο πλαίσιο</string>
     <string name="plant_fail">"Αδύνατη η αναγνώριση"</string>

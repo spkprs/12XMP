@@ -1176,6 +1176,7 @@
     <string name="input_or_select_a_name">Εισάγετε ή επιλέξτε ένα όνομα</string>
     <string name="input_relation_name">Εισάγετε το όνομα της ομάδας</string>
     <string name="install_fail">Αδύνατη η φόρτωση της προσθήκης λόγω σφάλματος.</string>
+    <string name="install_media_editor_function_message">Κάνετε Λήψη της τελευταίας έκδοσης του Gallery Editor για χρήση του \"%1$s\".</string>    
     <string name="install_media_editor_latest_message">Για να επεξεργαστείτε στοιχεία, κατεβάστε πρώτα το πιο πρόσφατο πρόσθετο.</string>
     <string name="install_media_editor_message">Για να επεξεργαστείτε στοιχεία, πραγματοποιήστε λήψη πρώτα της προσθήκης. Λήψη τώρα;</string>
     <string name="install_media_editor_title">Λήψη προσθήκης</string>
