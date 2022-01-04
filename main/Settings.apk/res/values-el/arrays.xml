@@ -1659,4 +1659,12 @@
     <item>Κάθε 3 δευτ.</item>
     <item>Κάθε 5 δευτ.</item>
   </string-array>
+  <string-array name="inputdebuglog_select_level_entries">
+    <item>Επίπεδο 0</item>
+    <item>Επίπεδο 1</item>
+    <item>Επίπεδο 2</item>
+    <item>Επίπεδο 3</item>
+    <item>Επίπεδο 4</item>
+    <item>Επίπεδο 5</item>
+   </string-array>
 </resources>

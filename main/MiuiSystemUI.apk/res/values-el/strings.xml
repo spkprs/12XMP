@@ -521,7 +521,7 @@
     <string name="broadcast_tile">Διακόπτης Μετάδοσης</string>
     <string name="bt_hci_snoop_log">Ενεργοποιήστε το αρχείο καταγραφής snoop Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Καταγράψτε όλα τα πακέτα HCI Bluetooth σε ένα αρχείο</string>
-    <string name="bt_is_off">Το Bluetooth είναι απενεργοποιημένο</string>
+    <string name="bt_is_off">Το B/T είναι ανενεργό</string>
     <string name="bubble_accessibility_action_add_back">Προσθήκη στη στοίβα</string>
     <string name="bubble_accessibility_action_move">Μετακινήσετε</string>
     <string name="bubble_accessibility_action_move_bottom_left">Μετακίνηση κάτω αριστερά</string>

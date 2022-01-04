@@ -478,6 +478,7 @@
     <string name="feedback_need_permission_msg">Επιτρέψτε η Xiaomi Health να γράφει σε εξωτερικό χώρο αποθήκευσης για να δημιουργεί εγγραφές που χρησιμοποιούνται για σχόλια.</string>
     <string name="feedback_permission_denied_msg">Η Xiaomi Health δεν μπορεί να αποθηκεύει εγγραφές σε εξωτερικό αποθηκευτικό χώρο. Χορηγήστε στη Xiaomi health τις απαιτούμενες άδειες στις ρυθμίσεις.</string>
     <string name="fewer">Λίγο</string>
+    <string name="find_new_verision">Διαθέσιμη έκδοση %s</string>
     <string name="finish">Ολοκλήρωση</string>
     <string name="finish_stand">Τέλος ορθοστασίας</string>
     <string name="finish_stand2">Ορθιος</string>
