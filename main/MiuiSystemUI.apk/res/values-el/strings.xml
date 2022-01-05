@@ -1018,6 +1018,7 @@
     <string name="input_pin_code">Εισάγετε το PIN</string>
     <string name="input_pin_hint_text_v11">Εισαγωγή PIN</string>
     <string name="input_puk_code">Εισάγετε το PUK</string>
+    <string name="input_second_pattern_after_restart_msg">Επιβεβαίωση κωδικού Δεύτερου χώρου για συνέχεια</string>
     <string name="install_other_apps">Εγκατάσταση άγνωστων εφαρμογών</string>
     <string name="installer_cd_button_title">Εγκαταστήστε την εφαρμογή Android File Transfer για Mac</string>
     <string name="instant_apps">Άμεσες εφαρμογές</string>

@@ -6,6 +6,9 @@
     <string name="airplane_error_msg">Δεν μπορείτε να χρησιμοποιήσετε το Bluetooth όταν το τηλέφωνο βρίσκεται σε λειτουργία πτήσης</string>
     <string name="airplane_error_title">Λειτουργία πτήσης</string>
     <string name="app_name">Bluetooth</string>
+    <string name="aptx_notification_aptx">Η συσκευή υποστηρίζει Qualcomm® aptX™</string>
+    <string name="aptx_notification_aptx_adaptive">Η συσκευή υποστηρίζει Qualcomm® aptX™ Adaptive</string>
+    <string name="aptx_notification_aptx_hd">Η συσκευή υποστηρίζει Qualcomm® aptX™ HD</string>
     <string name="auth_notif_message">Πληκτρολογήστε το κλειδί της περιόδου σύνδεσης για το %1$s</string>
     <string name="auth_notif_ticker">Αίτημα ελέγχου ταυτότητας Obex</string>
     <string name="auth_notif_title">Κλειδί περιόδου σύνδεσης</string>

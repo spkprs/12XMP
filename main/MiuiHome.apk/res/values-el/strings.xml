@@ -622,6 +622,10 @@
     <string name="recents_title_market">Εύρεση εφαρμογών</string>
     <string name="recents_title_security_scan">Σάρωση ασφαλείας</string>
     <string name="recents_tv_small_window_text">Αιωρούμενα παράθυρα</string>
+    <string name="recents_worldcirculate_text">Αφήστε για επιλογή</string>
+    <string name="recnets_worldcirculate_display_computer_info">Η εφαρμ. λειτουργεί στο %s.</string>
+    <string name="recnets_worldcirculate_display_default_info">Πατήστε για επαναφορά εδώ.</string>
+    <string name="recnets_worldcirculate_display_pad_info">Η εφαρμ. λειτουργεί στο %s.</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">Προτάσεις εφαρμογών</string>
     <string name="recommend_apps_default_title">Κενό</string>
