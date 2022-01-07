@@ -317,6 +317,8 @@
     <string name="mi_router_label">Router</string>
     <string name="mi_share">MiShare</string>
     <string name="midnight">Νύχτα</string>
+    <string name="midriver_install_button_text">Εγκατάσταση</string>
+    <string name="midriver_not_install_title">Mi Drive είναι απεγκατ/μένο</string>
     <string name="midrop_msg_1">Ενεργοποιήστε το Mi Drop στην άλλη συσκευή</string>
     <string name="midrop_msg_2">Όταν το Mi Drop είναι ενεργό, μπορείτε να αναζητήσετε συσκευές σε κοντινή απόσταση και να στείλετε αρχεία</string>
     <string name="midrop_send_files">Επιλέξτε αρχεία για αποστολή</string>
@@ -498,6 +500,7 @@
     <string name="refresh_fail">刷新失败</string>
     <string name="refresh_success">Η ανανέωση ολοκληρώθηκε</string>
     <string name="refreshing">正在刷新</string>
+    <string name="reinstall_midriver_message">Εγκαταστήστε ξανά τώρα?</string>
     <string name="release_enter_private">Αφήστε για άνοιγμα ιδιωτικού φακέλου</string>
     <string name="release_refresh">释放立即刷新</string>
     <string name="remainder_size">Υπόλοιπο: %s</string>
