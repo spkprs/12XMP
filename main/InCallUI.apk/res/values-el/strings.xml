@@ -236,6 +236,7 @@
     <string name="video_call_downgrade_insufficient_bandwidth">Ανεπαρκές εύρος ζώνης, υποβάθμιση σε φωνητική κλήση</string>
     <string name="video_conference_caller_info_name">%1$s\'s τηλεδιάσκεψη</string>
     <string name="video_crbt_title">Αναπαραγωγή βίντεο προφίλ…</string>
+    <string name="voice_control_deny_permission_msg">"Αδύνατη η χρήση φωνητικού ελέγχου τώρα. Επιτρέψτε να καταγράψει πρώτα ήχο."</string>
     <string name="voicemail">Τηλεφωνητής</string>
     <string name="volte_call">Κλήσεις VoLTE</string>
     <string name="volume_boost_text">Πλήρης ενίσχυση έντασης</string>

@@ -1076,6 +1076,8 @@
     <string name="shortcut_show_tip">" \"Να μην εμφανιστεί ξανά \""</string>
     <string name="shortcut_title">Σας αρέσουν οι ταπετσαρίες μας;</string>
     <string name="show_free_aod">Εμφάνιση δωρεάν θεμάτων</string>
+    <string name="show_exchange">Συντόμευση Κέντρου Εξαργύρωσης</string>
+    <string name="show_exchange_desc">Εμφάνιση ή απόκρυψη συντόμευσης του Κέντρου Εξαργύρωσης</string>
     <string name="show_free_font">Εμφάνιση δωρεάν γραμματοσειρών</string>
     <string name="show_free_theme">Εμφάνιση δωρεάν θεμάτων</string>
     <string name="show_free_wallpaper">Εμφάνιση δωρεάν ταπετσαριών</string>

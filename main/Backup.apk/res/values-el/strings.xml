@@ -73,13 +73,14 @@
     <string name="backup_error">Σφάλμα αντιγράφου</string>
     <string name="backup_failed">Αποτυχία αντιγράφου</string>
     <string name="backup_file_error">Αδύνατη η δημιουργία αντιγράφων</string>
-    <string name="backup_finished">Η αντιγραφή ολοκληρώθηκε</string>
+    <string name="backup_finished">Το Αντίγραφο ολοκληρώθηκε</string>
     <string name="backup_hint">Μην απενεργοποιήσετε το τηλέφωνο ίσως χάσετε δεδομένα</string>
     <string name="backup_hint_onpad">Κρατήστε τη συσκευή σας σε λειτουργία</string>
     <string name="backup_hint_pad">Διατήρηση συσκευής ενεργή</string>
     <string name="backup_is_running">Λήψη αντιγράφου συσκευής</string>
     <string name="backup_new">Νέο:</string>
-    <string name="backup_progress">Αντιγραφή…</string>
+    <string name="backup_notification_title">Το \"Αντίγραφο\" λειτουργεί…</string>
+    <string name="backup_progress">Αντίγραφο…</string>
     <string name="backup_report">Προβολή λεπτομερειών</string>
     <string name="backup_security_tips_message">Ορισμένες εφαρμογές ενδέχεται να μην υποστηρίζουν την επαναφορά.</string>
     <string name="backup_security_tips_title">Το αντιγ. ίσως μην λειτουργήσει</string>
