@@ -413,6 +413,8 @@
     <string name="aod_style_description">Εμφάνιση ρολογιού, ημερομηνίας, ώρας, ειδοποιήσεων και άλλων στοιχείων όταν η οθόνη είναι ανενεργή</string>
     <string name="aod_style_title">Εμφάνιση</string>
     <string name="aod_to_close">Απενεργοποίηση</string>
+    <string name="ap_connect_failed">"Δεν ήταν δυνατή η σύνδεση"</string>
+    <string name="ap_connected_battery_level">" | Μπαταρία %1$s"</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Τύπος ταυτοποίησης</string>
     <string name="apn_auth_type_chap">CHAP</string>

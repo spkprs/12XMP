@@ -552,12 +552,13 @@
     <string name="pa_picker_toast_count_limit_warning">Προστέθηκε με επιτυχία. Να θυμάστε ότι η τοποθέτηση πολλών γραφικών στην Αρχική οθόνη μπορεί να επιβραδύνει τη συσκευή σας..</string>
     <string name="pa_picker_toast_screen_cell_locked">Η διάταξη της αρχικής οθόνης σας είναι κλειδωμένη. Δεν μπορείτε να προσθέσετε γραφικά.</string>
     <string name="pa_privacy_text">Απόρρητο</string>
+    <string name="pa_recommend_add_btn">Εκκίνηση</string>
     <string name="pa_recommend_add_msg">Προσθήκη</string>
     <string name="pa_recommend_card">Συστάσεις</string>
     <string name="pa_recommend_card_add_des">Προσθέστε αυτό το widget στο Βοηθός MIUI</string>
     <string name="pa_recommend_card_image_content_des">Αυτό είναι ένα widget. Ανοίξτε το κατάστημα widget μας για να μάθετε περισσότερα.</string>
     <string name="pa_recommend_card_image_text_null_des">Κανένα στοιχείο</string>
-    <string name="pa_recommend_card_summary">Λήψη προτάσεων γραφικών στοιχείων</string>
+    <string name="pa_recommend_card_summary">Προτάσεις γραφικών στοιχείων</string>
     <string name="pa_recommend_card_text_des">%s. Ανοίξτε το κατάστημα widget μας για να μάθετε περισσότερα.</string>
     <string name="pa_recommend_card_title">Συνιστάται</string>
     <string name="pa_recommend_no_network">Κατεβάστε πρώτα την εφαρμογή</string>

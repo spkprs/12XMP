@@ -104,4 +104,8 @@
         <item quantity="other">Το στοιχείο περιέχει %d widgets. Διπλό πάτημα για να ανοίξετε την περιγραφή του.</item>
         <item quantity="one">Το στοιχείο περιέχει %d widget. Διπλό πάτημα για να ανοίξετε την περιγραφή του.</item>
     </plurals>
+     <plurals name="pa_edit_text_limit">
+         <item quantity="one">Εισάγετε έως και %1$d χαρακτήρα</item>
+         <item quantity="other">Εισάγετε έως και %1$d χαρακτήρες</item>
+     </plurals>
 </resources>
