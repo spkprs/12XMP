@@ -280,6 +280,7 @@
     <string name="instruction">Εισάγετε την παρακάτω διεύθυνση στον FTP client: </string>
     <string name="instruction_pre_pad">Πατήστε για εκκίνηση του διακομιστή FTP</string>
     <string name="instruction_pre_phone">Πατήστε για εκκίνηση του διακομιστή FTP</string>
+    <string name="internal_storage">Εσωτ. Αποθήκευση</string>
     <string name="item_view_role_description">Καρτέλα</string>
     <string name="just_now">Μόλις τώρα</string>
     <string name="kilobyteShort">KB</string>

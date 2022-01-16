@@ -33,6 +33,7 @@
     <string name="account_security_title">Ασφάλεια συσκευής</string>
     <string name="account_security_verification">Επαλήθευση λογαριασμού</string>
     <string name="account_set_up_change_type_note">Εάν θέλετε να ρυθμίσετε το λογαριασμό μεταγωγής πριν POP3 και IMAP, θα πρέπει πρώτα να διαγράψετε το λογαριασμό, την εκ νέου είσοδο ρυθμίσετε.</string>
+    <string name="account_setup_domain_invalid_toast">Ο τομέας email που εισάγατε είναι λάθος, ελέξτε το.</string>
     <string name="account_setting">Λογαριασμοί</string>
     <string name="account_setting_general_summry">Ορισμός κοινών λειτουργιών μέσω Email</string>
     <string name="account_setting_general_title">Ρυθμίσεις λειτουργιών</string>
