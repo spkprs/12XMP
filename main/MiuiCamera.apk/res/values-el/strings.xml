@@ -1341,6 +1341,8 @@
     <string name="pref_camera_touch_focus_delay_title">Επέκταση του χρονικού ορίου εστίασης αφής</string>
     <string name="pref_camera_touchafaec_entry_off">Off</string>
     <string name="pref_camera_touchafaec_entry_on">On</string>
+    <string name="pref_camera_track_eye_preferred_description">Παρακολουθήστε την κίνηση των ματιών για να διατηρήσετε την εστίαση των ματιών όταν ένα άτομο βρίσκεται στο κάδρο</string>
+    <string name="pref_camera_track_eye_preferred_title">Εστίαση ανίχνευσης ματιών</string>
     <string name="pref_camera_track_focus_intro_description">Όταν βγάζετε φωτογραφίες ή τραβάτε βίντεο με κινούμενα θέματα, αυτή η λειτουργία ανιχνεύει ανθρώπους, γάτες και σκύλους και τα κρατάει σε αυτόματα σε εστίαση. Επιπλέον, μπορείτε επίσης να κάνετε διπλό πάτημα σε οποιοδήποτε θέμα για να παρακολουθήσετε την κίνηση.</string>
     <string name="pref_camera_track_focus_intro_goto">Ενεργοποίηση</string>
     <string name="pref_camera_track_focus_preferred_description">Κρατήστε ανθρώπους, γάτες και σκύλους που κινούνται σε αυτόματη εστίαση ή διπλοπατήστε οποιοδήποτε θέμα για να το παρακολουθήσετε.</string>
@@ -1421,6 +1423,7 @@
     <string name="pref_hdr10_video_mode_description">Βελτιστοποιεί τα χρώματα &amp; την αντίθεση για βίντεο 4K &amp; 8K αυτόματα. Τα βελτιστοποιημένα βίντεο μπορούν να αναπαραχθούν μόνο σε συσκευές συμβατές με HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_hdr10plus_video_mode_description">Βελτιστοποιεί τα χρώματα &amp; την αντίθεση για βίντεο 4K και 8K. Αυτή η δυνατότητα λειτουργεί μόνο σε συσκευές συμβατές με HDR10+.</string>
+    <string name="pref_hybrid_video_mode_description">Χρησιμοποιήστε την τεχνολογία HLG για να βελτιώσετε τα χρώματα και το δυναμικό εύρος των βίντεο που έχουν καταγραφεί σε υψηλή ανάλυση</string>
     <string name="pref_i_n_r_b">Έξυπνη μείωση θορύβου</string>
     <string name="pref_k_h">Ζωντανής μετάδοσης ενδοωτικά ακουστικά</string>
     <string name="pref_k_s_i">Παρακολούθηση ηχογραφημένου ήχου με τα ακουστικά όταν είναι συνδεδεμένα</string>

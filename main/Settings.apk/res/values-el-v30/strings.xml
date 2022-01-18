@@ -245,11 +245,11 @@
     <string name="enable_adb_wireless_summary">Λειτουργία εντοπισμού σφαλμάτων όταν το Wi‑Fi είναι συνδεδεμένο</string>
     <string name="enable_blurs_on_windows_summary">Ενεργοποιεί τα θαμπώματα παραθύρου σε επίπεδο σύνθεσης. Απαιτεί την επανεκκίνηση συσκευής</string>
     <string name="enable_blurs_on_windows_title">Ενεργοποιεί τα θαμπώματα</string>
-    <string name="enable_sizecompat_freeform">Ενεργοποίηση sizecompat ελεύθερης μορφής.</string>
-    <string name="enable_sizecompat_freeform_summary">Επιτρέπει σε εφαρμογές sizecompat να εμφανίζονται με ελεύθερη μορφή.</string>
+    <string name="enable_sizecompat_freeform">Εξαναγκασμός αλλαγής μεγέθους παραθύρων</string>
+    <string name="enable_sizecompat_freeform_summary">Αποδοχή εκτέλεσης εφαρμ. με περιορισμούς συμβατότητας σε παράθυρα με δυνατότητα αλλαγής μεγέθους</string>
     <string name="enable_verbose_vendor_logging">Ενεργ. λεπτ. καταγραφής προμ.</string>
     <string name="enable_verbose_vendor_logging_summary">Συμπερίληψη πρόσθετων αρχείων καταγραφής προμηθευτή για συγκεκριμένες συσκευές στις αναφορές σφαλμάτων, τα οποία ενδέχεται να περιέχουν ιδιωτικές πληροφορίες, να χρησιμοποιούν περισσότερη μπαταρία ή/και να χρησιμοποιούν περισσότερο αποθηκευτικό χώρο.</string>
-    <string name="enabled_5g_mode_title">Enable 5G</string>
+    <string name="enabled_5g_mode_title">Ενεργ/ση 5G</string>
     <string name="enhanced_connectivity">Βελτιωμένη συνδεσιμότητα</string>
     <string name="enhanced_connectivity_summary">Επιτρέπει τη λειτουργία Βελτιωμένης συνδεσιμότητας.</string>
     <string name="ethernet_tether_checkbox_text">Σύνδεση Ethernet</string>

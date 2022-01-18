@@ -3144,14 +3144,14 @@
     <string name="headset_find_tip_title">Προσοχή</string>
     <string name="headset_find_title">Βρείτε τα ακουστικά σας</string>
     <string name="headset_find_voice_warning">Προειδοποίηση υψηλής έντασης</string>
-    <string name="headset_head_tracking_desc">Προσαρμόστε τον ήχο surround βάσει κίνησης της κεφαλής σας</string>
+    <string name="headset_head_tracking_desc">Ρύθμιση καθηλωτικού ήχου με βάση την κίνηση της κεφαλής</string>
     <string name="headset_head_tracking_title">Παρακολούθηση κίνησης κεφαλής</string>
     <string name="headset_notification_switch_summary">Εμφάνιση κατάστασης στο γραφικό στοιχείο στον Πίνακα ειδοποίησης όταν τα ακουστικά είναι συνδεδεμένα</string>
     <string name="headset_notification_switch_title">Γραφικό στοιχείο Πίνακα</string>
     <string name="headset_remove_message">Κατάργηση σύζευξης;</string>
     <string name="headset_remove_message_indicate">Η %1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν το λογαριασμό Mi.</string>
     <string name="headset_settings_title">Εφέ Ήχου</string>
-    <string name="headset_spatial_audio">Περιφερειακός ήχος</string>
+    <string name="headset_spatial_audio">Διαστατικός ήχος</string>
     <string name="headset_toast_tip_disconnect_others">Φαίνεται ότι τα ακουστικά σας είναι συνδεδεμένα σε άλλη συσκευή τώρα</string>
     <string name="headset_unsaved_device">Αφαίρεση της συσκευής</string>
     <string name="headset_unsaved_devices">Χρησιμοποιείται σε άλλες συσκευές</string>
@@ -7040,7 +7040,7 @@
     <string name="surround_sound_all_desc">Βελτίωση βάθος ήχου ακουστικών και ηχείων</string>
     <string name="surround_sound_only_headset_desc">Βελτίωση βάθος ήχου ακουστικών</string>
     <string name="surround_sound_only_speaker_desc">Βελτίωση βάθος ήχου ηχείων</string>
-    <string name="surround_sound_title">Περιφεριακός ήχος</string>
+    <string name="surround_sound_title">Καθηλωτικός ήχος</string>
     <string name="suwFontSecondary">google-sans</string>
     <string name="suwFontSecondaryMedium">google-sans-medium</string>
     <string name="suw_back_button_label">Πίσω</string>
