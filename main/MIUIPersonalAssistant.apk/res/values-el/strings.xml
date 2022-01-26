@@ -292,6 +292,13 @@
     <string name="pa_accessibility_home_widget_drag">Σύρσιμο στοιχείου</string>
     <string name="pa_accessibility_home_widget_drag_move">Μετακίνηση στη σειρά %1$d, θέση %2$d</string>
     <string name="pa_accessibility_home_widget_drop_workspace">Μεταφέρθηκε στη σειρά %1$d, θέση %2$d</string>
+    <string name="pa_accessibility_olympic_bronze_medal">Χάλκινο μετάλλιο</string>
+    <string name="pa_accessibility_olympic_gold_medal">Χρυσό μετάλλιο</string>
+    <string name="pa_accessibility_olympic_info_title">Πληροφορίες</string>
+    <string name="pa_accessibility_olympic_silver_medal">Ασημένιο μετάλλιο</string>
+    <string name="pa_accessibility_olympic_the_first">Πρώτη θέση: %s</string>
+    <string name="pa_accessibility_olympic_the_second">Δεύτερη θέση: %s</string>
+    <string name="pa_accessibility_olympic_the_third">Τρίτη θέση: %s</string>
     <string name="pa_accessibility_picker_back">Πίσω</string>
     <string name="pa_accessibility_picker_search_cancel">Γραμμή αναζήτησης widget. Διπλό πάτημα για ακύρωση.</string>
     <string name="pa_accessibility_picker_search_tips">Γραμμή αναζήτησης widget. Διπλό πάτημα για αναζήτηση.</string>
@@ -490,6 +497,13 @@
     <string name="pa_net_unavailable">Δεν ήταν δυνατή η σύνδεση με το δίκτυο</string>
     <string name="pa_notification_chanel_name_widget_offline">Ειδοποιήσεις Cloud</string>
     <string name="pa_notification_chanel_name_widget_offline_des">Ειδοποιήσεις για ενέργειες που σχετίζονται με το cloud</string>
+    <string name="pa_olympic_country_name">Ομάδα</string>
+    <string name="pa_olympic_info_content">Τα δεδομένα αυτά παρέχονται από τρίτους και ενδέχεται να ενημερώνονται με καθυστέρηση.</string>
+    <string name="pa_olympic_label">Μετάλλια</string>
+    <string name="pa_olympic_medal_count">Συνολικά μετάλλια</string>
+    <string name="pa_olympic_medals_description">Ελέγξτε την κατάταξη των Ολυμπιακών μεταλλίων</string>
+    <string name="pa_operation_switch_summary">Πρόσφατα δημοφιλή widgets</string>
+    <string name="pa_operation_switch_title">Δημοφιλείς προσφορές</string>
     <string name="pa_picker_classic_widget">Γραφικά Android</string>
     <string name="pa_picker_detail_add_maml_net_unavailable">Δεν μπόρεσε να συνδεθεί στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά..</string>
     <string name="pa_picker_detail_add_to_home">Προσθήκη στην αρχική οθόνη</string>
@@ -555,7 +569,7 @@
     <string name="pa_picker_toast_count_limit_warning">Προστέθηκε με επιτυχία. Να θυμάστε ότι η τοποθέτηση πολλών γραφικών στην Αρχική οθόνη μπορεί να επιβραδύνει τη συσκευή σας..</string>
     <string name="pa_picker_toast_screen_cell_locked">Η διάταξη της αρχικής οθόνης σας είναι κλειδωμένη. Δεν μπορείτε να προσθέσετε γραφικά.</string>
     <string name="pa_privacy_text">Απόρρητο</string>
-    <string name="pa_recommend_add_btn">Εκκίνηση</string>
+    <string name="pa_recommend_add_btn">Έναρξη</string>
     <string name="pa_recommend_add_msg">Προσθήκη</string>
     <string name="pa_recommend_card">Συστάσεις</string>
     <string name="pa_recommend_card_add_des">Προσθέστε αυτό το widget στο Βοηθός MIUI</string>
@@ -594,6 +608,8 @@
     <string name="pa_setting_privacy_perm_granted">Παραχωρήθηκε</string>
     <string name="pa_setting_privacy_perm_install_app">Πρόσβαση στη λίστα των εφαρμογών που είναι εγκατεστημένες σε αυτή τη συσκευή</string>
     <string name="pa_setting_privacy_perm_install_app_desc">Για την παροχή προτάσεων εφαρμογών</string>
+    <string name="pa_setting_privacy_perm_location">Πρόσβαση Θέσης</string>
+    <string name="pa_setting_privacy_perm_location_desc">Για τον υπολογισμό της περιφερειακής κατάταξης Leaderboard Super Slites</string>
     <string name="pa_setting_privacy_perm_not_granted">Δεν χορηγήθηκε</string>
     <string name="pa_setting_privacy_perm_storage">Προσβαση στην αποθήκευση</string>
     <string name="pa_setting_privacy_policy">Πολιτική απορρήτου</string>
@@ -636,6 +652,8 @@
     <string name="pa_shortcut_setting_select_other_applications">Επιλέξτε άλλες εφαρμογές</string>
     <string name="pa_shortcut_widget_label">Γρήγορη πρόσβαση</string>
     <string name="pa_shortcut_widget_label_4x2">Συντομεύσεις</string>
+    <string name="pa_ski_foreground_service_noitification_name">Πρόσβαση στην τοποθεσία</string>
+    <string name="pa_ski_foreground_service_title">Ο Βοηθός MIUI προσπαθεί να αποκτήσει πρόσβαση στην τοποθεσία σας</string>
     <string name="pa_smart_shortcut_widget_label">Προτάσεις εφαρμογών</string>
     <string name="pa_sports_action_live">Ζωντανά</string>
     <string name="pa_sports_action_preview">Προβολή</string>
