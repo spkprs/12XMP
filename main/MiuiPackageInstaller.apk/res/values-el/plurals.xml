@@ -32,4 +32,7 @@
         <item quantity="other">%1$s άδειες</item>
         <item quantity="one">%1$s άδεια</item>
     </plurals>
+    <plurals name="password_wrong_retry_msg">
+        <item quantity="other">Πολλές αποτυχημένες προσπάθειες ξεκλειδώματος, προσπαθήστε ξανά μετά από %1$S δευτ.</item>
+    </plurals>
 </resources>

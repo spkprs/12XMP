@@ -32,6 +32,9 @@
     <string name="agenda_request_perm">Επιτρέψτε πρώτα στην εφαρμογή να έχει πρόσβαση στο Ημερολόγιο</string>
     <string name="am">ΠΜ</string>
     <string name="app_name">Προβολή ένδειξης κουκκίδων τηλεειδοποίησης</string>
+    <string name="app_olympic_card_service_des">Ελέγξτε την κατάταξη των Ολυμπιακών μεταλλίων</string>
+    <string name="app_olympic_card_title">Μετάλλια</string>
+    <string name="app_olympic_card_title_info">Τα δεδομένα αυτά παρέχονται από τρίτους και ενδέχεται να ενημερώνονται με καθυστέρηση.</string>
     <string name="app_pa_setting_about_title">Σχετικά με την εφαρμογή</string>
     <string name="app_pa_setting_individualization_title">Εξατομίκευση</string>
     <string name="app_pa_setting_perm_calendar">Πρόσβαση στο Ημερολόγιο</string>

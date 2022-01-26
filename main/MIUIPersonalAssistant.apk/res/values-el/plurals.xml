@@ -108,4 +108,24 @@
          <item quantity="one">Εισάγετε έως και %1$d χαρακτήρα</item>
          <item quantity="other">Εισάγετε έως και %1$d χαρακτήρες</item>
      </plurals>
+    <plurals name="app_accessibility_olympic_bronze_medal_count">
+        <item quantity="one">%d χάλκινο μετάλλιο</item>
+        <item quantity="other">%d χάλκινα μετάλλια</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_gold_medal_count">
+        <item quantity="one">%d χρυσό μετάλλιο</item>
+        <item quantity="other">%d χρυσά μετάλλια</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_medal_count">
+        <item quantity="one">%d συνολικά μετάλλια</item>
+        <item quantity="other">%d συνολικά μετάλλια</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_rank">
+        <item quantity="one">Θέση %d</item>
+        <item quantity="other">Θέση %d</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_silver_medal_count">
+        <item quantity="one">%d ασημένιο μετάλλιο</item>
+        <item quantity="other">%d ασημένια μετάλλια</item>
+    </plurals>
 </resources>
