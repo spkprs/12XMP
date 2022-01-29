@@ -1400,6 +1400,8 @@
     <string name="midnight">Νύχτα</string>
     <string name="migrate_msg">Ορισμένα άλμπουμ απαιτούν άδειες μετακίνησης στοιχείων μετά από μια ενημέρωση του συστήματος.</string>
     <string name="miplay_adjust_volume">Ρυθμίστε την ένταση στο %d</string>
+    <string name="miplay_circulate_failed">"Αδύνατη η μεταφορά αναπαραγωγής. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά."</string>
+    <string name="miplay_circulating_msg">Μεταφορά αναπαραγωγής…</string>
     <string name="miplay_pause_video">Παύση</string>
     <string name="miplay_play_video">Αναπ/γή</string>
     <string name="miplay_seekbar_content_description">Πρόοδος αναπ/γής: %1$s %2$s</string>
