@@ -80,6 +80,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Έληξε</string>
     <string name="alert_title">Ειδοποιήσεις ημερολογίου</string>
+    <string name="already_num">Χρόνος από %s</string>
     <string name="all_events">Όλες οι εκδηλώσεις</string>
     <string name="am">AM</string>
     <string name="anniversary_event_title">Επέτειος: %1$s</string>
@@ -355,7 +356,7 @@
     <string name="import_help">Βοήθεια</string>
     <string name="import_text">Εισαγωγή</string>
     <string name="imported">Εισάγονται</string>
-    <string name="in_progress">Τώρα</string>
+    <string name="in_progress">Σε εξέλιξη</string>
     <string name="insert_event_dialog_btn_negative">Όχι</string>
     <string name="insert_event_dialog_btn_positive">Ναι</string>
     <string name="insert_event_dialog_message">Προσθήκη γεγονότος στο ημερολόγιο;</string>
@@ -540,7 +541,7 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Μετάβαση σε λειτουργία εισαγωγής κειμένου</string>
     <string name="mtrl_picker_toggle_to_year_selection">Πατήστε για εναλλαγή στην επιλογή ενός έτους</string>
     <string name="mtrl_slider_range_content_description">%1$s έως %2$s</string>
-    <string name="near_agenda_view">Επερχόμενα γεγονότα</string>
+    <string name="near_agenda_view">Προσεχείς εκδηλ.</string>
     <string name="network_not_available">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="new_event_description">Νέο</string>
     <string name="night">PM</string>
@@ -765,10 +766,10 @@
     <string name="solar_term_winter_begins">Winter Begins</string>
     <string name="solar_term_winter_solstice">Winter Solstice</string>
     <string name="solar_to_lunar_chinese_calendar">Gregorian to Chinese</string>
-    <string name="spec_agenda_view">Εκδηλώσεις</string>
+    <string name="spec_agenda_view">Ειδικές εκδηλ.</string>
     <string name="start_date_calculate">Υπολογισμός</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="still_num">%s ξεκινά σε</string>
+    <string name="still_num">Χρόνος έως %s</string>
     <string name="subscribe_card">Εγγραφείτε τώρα</string>
     <string name="subscribe_card_success">Εγγραφή με επιτυχία! Ελέγξτε τις λεπτομέρειες στην αρχική σελίδα.</string>
     <string name="subscribe_card_success_for_homepage">Εγγραφή στο “%1$s” επιτυχώς</string>
@@ -958,10 +959,10 @@
     <string name="widget_events">Τα επόμενα γεγονότα</string>
     <string name="widget_get_weather_info">Πληροφορίες για τον καιρό</string>
     <string name="widget_no_events">Επόμενο, χωρίς ατζέντα</string>
-    <string name="widget_normal_agenda_tip_empty">Χωρίς προσεχείς εκδηλώσεις</string>
+    <string name="widget_normal_agenda_tip_empty">Καμία εκδήλωση για σήμερα.</string>
     <string name="widget_normal_agenda_today_done">"Οι σημερινές εκδηλώσεις ολοκληρώθηκαν"</string>
     <string name="widget_normal_more_event">Περισσότερες εκδηλώσεις</string>
-    <string name="widget_normal_new_event">Νέα εκδήλωση</string>
+    <string name="widget_normal_new_event">Προσθήκη εκδήλωσης</string>
     <string name="widget_normal_weekN">Εβδομ %d</string>
     <string name="widget_select_style">Επιλέξτε στυλ</string>
     <string name="widget_spec_agenda_birth_today">Σήμερα</string>

@@ -44,9 +44,11 @@
     <string name="dolby_dax_profile_dynamic">Δυναμικό</string>
     <string name="dolby_dax_setting">Dolby εφέ</string>
     <string name="dolby_dax_title">Περιφεριακός ήχος</string>
-    <string name="effect_3dsurround">Περιφεριακός ήχος</string>
+    <string name="effect_3dsurround">Εντυπωσιακός ήχος</string>
     <string name="effect_3dsurround_summary">Βελτίωση βάθος ήχου ακουστικών και ηχείων</string>
     <string name="effect_3dsurround_summary_headphone">Βελτίωση βάθος ήχου ακουστικών</string>
+    <string name="effect_virtual_surround">Εικονικός εντυπωσιακός ήχος</string>
+    <string name="effect_virtual_surround_summary">"Εμπλουτισμένο βάθος ήχου και βίντεο σε ακουστικά (Αυτό δεν θα λειτουργήσει όταν αναπαράγεται ήχος %.1f)"</string>
     <string name="eq_auto">Προσαρμογή</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_cancel">Ακύρωση</string>
@@ -314,7 +316,7 @@
     <string name="sound_transmission_stop">Παύση</string>
     <string name="sound_transmission_title">Ασύρματο μικρόφωνο</string>
     <string name="spatial_audio">Παρακολούθηση κίνησης κεφαλής</string>
-    <string name="spatial_audio_summary">Προσαρμόστε τον ήχο surround βάσει κίνησης της κεφαλής σας</string>
+    <string name="spatial_audio_summary">Ρυθμίστε τον Εντυπωσιακό ήχο βάσει κίνησης του κεφαλιού σας</string>
     <string name="speaker_scenario_resume">Επαναφορά αρχικών εφέ</string>
     <string name="speaker_scenario_selection">Έκδοση ηχητικών εφέ ηχείου</string>
     <string name="speaker_scenario_selection_another">Αρχικό</string>

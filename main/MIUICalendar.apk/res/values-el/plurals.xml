@@ -244,4 +244,12 @@
         <item quantity="other">%d περισ. εκδηλ.</item>
         <item quantity="one">%d περισ. εκδήλ.</item>
     </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d ημ.</item>
+        <item quantity="one">%d ημ.</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">Εβδομάδα %d</item>
+        <item quantity="one">Εβδομάδα %d</item>
+    </plurals>
 </resources>

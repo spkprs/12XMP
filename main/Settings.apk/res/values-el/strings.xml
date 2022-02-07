@@ -2839,7 +2839,7 @@
     <string name="flashback_summary">Εμφάνιση πληροφοριών κλειδιού όταν οι εφαρμογές εμφανίζονται ως αιωρούμενα παράθυρα</string>
     <string name="flashback_support_apps_title">Διαθέσιμες εφαρμογές</string>
     <string name="flashback_title">Κάρτες εφαρμογών</string>
-    <string name="flashback_wangzhe_summary">Εμφάνιση αντίστροφης μέτρησης στο παιχνίδι</string>
+    <string name="flashback_wangzhe_summary">Εμφάνιση αντίστροφης μέτρησης ανάστασης</string>
     <string name="floating_window_switch_label">Εμφάνιση αναδυόμενων παράθυρων</string>
     <string name="floating_window_switch_label_disable">Απόκρυψη αναδυόμενων παράθυρων</string>
     <string name="fluency_mode">Κινήσεις συστήματος</string>
@@ -3151,6 +3151,8 @@
     <string name="headset_remove_message">Κατάργηση σύζευξης;</string>
     <string name="headset_remove_message_indicate">Η %1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν το λογαριασμό Mi.</string>
     <string name="headset_settings_title">Εφέ Ήχου</string>
+    <string name="headset_silent_upgrade_switch_summary">"Ενημέρωση του υλικολογισμικού των ακουστικών αυτόματα όταν πληρούνται όλες οι απαιτούμενες προϋποθέσεις"</string>
+    <string name="headset_silent_upgrade_switch_title">Αυτόματη ενημέρωση</string>
     <string name="headset_spatial_audio">Διαστατικός ήχος</string>
     <string name="headset_toast_tip_disconnect_others">Φαίνεται ότι τα ακουστικά σας είναι συνδεδεμένα σε άλλη συσκευή τώρα</string>
     <string name="headset_unsaved_device">Αφαίρεση της συσκευής</string>
