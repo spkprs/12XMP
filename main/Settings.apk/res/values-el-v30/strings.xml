@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Intelligentpickfree">Ανίχνευση φωνής</string>
     <string name="about_ad_service_instructions_for_global">Σχετικά με τις υπηρεσίες διαφημίσεων και το απόρρητο στις εφαρμογές του συστήματος MIUI</string>
     <string name="accessibility_autoclick_custom_title">Προσαρμογή</string>
     <string name="accessibility_autoclick_default_title">Ανενεργό</string>
@@ -107,9 +108,17 @@
     <string name="add_virtual_keyboard">Διαχείριση πληκτρολογίων οθόνης</string>
     <string name="allow_manage_external_storage_description">Να επιτρέπεται σε αυτήν την εφαρμογή η ανάγνωση, η τροποποίηση και η διαγραφή όλων των αρχείων σε αυτήν τη συσκευή και σε κάθε συνδεδεμένη μονάδα αποθήκευσης. Εάν εκχωρηθούν σχετικά δικαιώματα, η εφαρμογή μπορεί να έχει πρόσβαση σε αρχεία χωρίς να έχετε ενημερωθεί ρητά.</string>
     <string name="allow_overlay_description">Επιτρέψτε σε αυτήν την εφαρμογή να εμφανίζεται πάνω από άλλες εφαρμογές που χρησιμοποιείτε. Αυτή η εφαρμογή θα μπορεί να δει τα σημεία που πατάτε ή να αλλάζει το περιεχόμενο που εμφανίζεται στην οθόνη.</string>
+    <string name="anc_auto">Αυτόματα</string>
+    <string name="anc_depth">Ισχυρή</string>
+    <string name="anc_mild">Ελαφριά</string>
     <string name="app_permissions_summary_more">Εφαρμογές που χρησιμοποιούν %1$s και άλλα</string>
     <string name="asst_capability_ranking_summary">Αυτόματη ταξινόμηση ειδοποιήσεων κατά συνάφεια</string>
     <string name="asst_capability_ranking_title">Προσαρμ. ταξιν. ειδοπ.</string>
+    <string name="auto_anc_closed">Off</string>
+    <string name="auto_anc_fifteen_recover">%d δευτ.</string>
+    <string name="auto_anc_five_recover">%d δευτ.</string>
+    <string name="auto_anc_not_recover">Συνέχεια</string>
+    <string name="auto_anc_ten_recover">%d δευτ.</string>
     <string name="auto_clean_summary_new">Παίξτε ένα ηχητικό σήμα %d-δευτ. για να καθαρίσετε το ηχείο. Χρησιμοποιήστε αυτή τη λειτουργία πολλές φορές στη σειρά για σημαντικές ποσότητες βρωμιάς.</string>
     <string name="auto_connect_disable">Η αυτόματη σύνδεση είναι απενεργοποιημένη</string>
     <string name="auto_sync_account_title">Αυτόματος συγχρονισμός δεδομένων εφαρμογής</string>
@@ -235,6 +244,8 @@
     <string name="disable_wifi_hotspot_when_usb_and_ethernet_on">Κοινή χρήση διαδικτύου μόνο μέσω USB και Ethernet</string>
     <string name="disable_wifi_hotspot_when_usb_on">Κοινή χρήση διαδικτύου μόνο μέσω USB</string>
     <string name="disabled_by_administrator_summary">Μη διαθέσιμη</string>
+    <string name="double_connect">Διπλή σύνδεση</string>
+    <string name="double_connect_summary">Για σύνδεση με δύο συσκευές</string>
     <string name="double_twist_for_camera_mode_title">Αναστροφή κάμερας για selfie</string>
     <string name="double_twist_for_camera_suggestion_title">Ταχύτερη λήψη φωτογραφιών selfie</string>
     <string name="doze_always_on_summary">Αυξημένη χρήση μπαταρίας</string>
@@ -288,6 +299,9 @@
     <string name="important_conversations_summary">Εμφάνιση στο επάνω μέρος της ενότητας συνομιλιών</string>
     <string name="important_conversations_summary_bubbles">Να προβάλλονται στο επάνω μέρος της ενότητας συνομιλιών ως αιωρούμενα συννεφάκια.</string>
     <string name="imsi_protection_warning">Αυτό το δίκτυο λαμβάνει ένα μοναδικό αναγνωριστικό το οποίο μπορεί να χρησιμοποιηθεί για τον εντοπισμό της τοποθεσίας της συσκευής. &lt;annotation id=\"url\"&gt;Μάθετε περισσότερα&lt;/annotation&gt;</string>
+    <string name="inputdebuglog_select_level">Επίπεδο καταγραφής εισόδου</string>
+    <string name="inputdebuglog_select_level_show">Επίπεδο %d</string>
+    <string name="inputdebuglog_select_level_summary">Επιλογή επιπέδου</string>
     <string name="instruction">Σημαντικές πληροφορίες ασφάλειας</string>
     <string name="interact_across_profiles_app_detail_title">Συνδεδεμένες προσωπικές εφαρμογές και εφαρμογές εργασίας</string>
     <string name="interact_across_profiles_consent_dialog_app_data_summary">Αυτή η εφαρμογή έχει πρόσβαση στην προσωπική εφαρμογή %1$s.</string>
@@ -357,6 +371,7 @@
     <string name="media_transfer_this_device_name">Ηχείο τηλεφώνου</string>
     <string name="media_transfer_wired_device_name">Ενσύρματη συσκευή ήχου</string>
     <string name="media_transfer_wired_usb_device_name">Ενσύρματο ακουστικό</string>
+    <string name="mi_headset_healthy">Υγεία ακοής</string>
     <string name="miui_wifi_wakeup_summary">Το Wi-Fi θα ενεργοποιηθεί αυτόματα όταν η συσκευή σας εντοπίσει αποθηκευμένα δίκτυα κοντά και θα απενεργοποιηθεί μετά από 15 λεπτά, αν δεν έχει πραγματοποιηθεί σύνδεση</string>
     <string name="mute_media_sound_title">Σίγαση πολυμέσων σε αθόρυβη λειτουργία</string>
     <string name="network_2G_3G_preferred">2G/3G Προτιμάται</string>
@@ -544,6 +559,9 @@
     <string name="tethering_interface_options">Σύνδεση</string>
     <string name="time_zen_mode_turn_off">Απενεργοποίηση χρόνου</string>
     <string name="time_zen_mode_turn_on">Ενεργοποίηση χρόνου</string>
+    <string name="transparent_human_voice">Φωνή</string>
+    <string name="transparent_normal">Κανονική</string>
+    <string name="transparent_surroundings">Περιβάλλοντος</string>
     <string name="toast_disconnect_earphone">Αποσυνδέστε τα ακουστικά και δοκιμάστε ξανά</string>
     <string name="twilight_mode_launch_location">Ρυθμίσεις θέσης</string>
     <string name="twilight_mode_location_off_dialog_message">Η τοποθεσία της συσκευής που απαιτείται για τον προσδιορισμό της δύσης και της ανατολής.</string>

@@ -12,6 +12,7 @@
     <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
     <string name="APN_NAME_CUWAP">China Unicom WAP</string>
     <string name="Accounts_settings_title">Λογαριασμοί</string>
+    <string name="Intelligentpickfree">Ανίχνευση φωνής</string>
     <string name="a11y_settings_label">Ρυθμίσεις Προσβασιμότητας</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
     <string name="abc_action_bar_up_description">Πλοήγηση επάνω</string>
@@ -384,6 +385,9 @@
     <string name="ambient_display_tap_screen_title">Πατήστε για να ελέγξετε το τηλέφωνο</string>
     <string name="ambient_display_title">Πατήστε δύο φορές για να ελέγξετε το τηλέφωνο</string>
     <string name="ambient_display_wake_screen_title">Ξυπνήστε οθόνη</string>
+    <string name="anc_auto">Αυτόματα</string>
+    <string name="anc_depth">Ισχυρή</string>
+    <string name="anc_mild">Ελαφριά</string>
     <string name="android_beam_disabled_summary">Για να χρησιμοποιήσετε αυτή τη λειτουργία, ενεργοποιήστε το NFC</string>
     <string name="android_beam_explained">Μπορείτε να στείλετε μια ιστοσελίδα, βίντεο ή άλλο περιεχόμενο από την οθόνη σας σε μια άλλη συσκευή, απλά ακουμπώντας τις συσκευές μεταξύ τους (συνήθως πλάτη με πλάτη).</string>
     <string name="android_beam_label">Android Beam</string>
@@ -587,6 +591,11 @@
     <string name="audio_share_confirm">Κοινή χρήση</string>
     <string name="auto_adjst_effect_summary">Αυτόματη ρύθμιση θερμοκρασίας χρώματος στο φως περιβάλλοντος</string>
     <string name="auto_adjust_effect_title">Αυτόματη ρύθμιση της θερμοκρασίας</string>
+    <string name="auto_anc_closed">Off</string>
+    <string name="auto_anc_fifteen_recover">%d δευτ.</string>
+    <string name="auto_anc_five_recover">%d δευτ.</string>
+    <string name="auto_anc_not_recover">Συνέχεια</string>
+    <string name="auto_anc_ten_recover">%d δευτ.</string>
     <string name="auto_brightness_default_title">Κανονικό</string>
     <string name="auto_brightness_description">Η φωτεινότητα της οθόνης σας θα προσαρμοστεί αυτόματα στο περιβάλλον και τις δραστηριότητές σας. Μπορείτε να μετακινήσετε το ρυθμιστικό χειροκίνητα για να βοηθήσετε την προσαρμοστική φωτεινότητα να μάθει τις προτιμήσεις σας.</string>
     <string name="auto_brightness_disclaimer">Βελτιστοποιήστε το επίπεδο φωτεινότητας για το διαθέσιμο φως. Όταν είναι ενεργή η εφαρμογή, μπορείτε να προσαρμόσετε τη φωτεινότητα προσωρινά.</string>
@@ -2370,6 +2379,8 @@
     <string name="done_button">Τέλος</string>
     <string name="double_click_power_key">Διπλό πάτημα πλήκτρου Power</string>
     <string name="double_click_volume_down_when_lock">Πατήστε δύο φορές το πλήκτρο μείωσης Έντασης όταν η οθόνη είναι κλειδωμένη</string>
+    <string name="double_connect">Διπλή σύνδεση</string>
+    <string name="double_connect_summary">Για σύνδεση με δύο συσκευές</string>
     <string name="double_knock">Διπλό πάτημα συνδιασμού</string>
     <string name="double_tap_power_for_camera_suggestion_title">Ανοίξτε γρήγορα την κάμερα</string>
     <string name="double_tap_power_for_camera_summary">Για να ανοίξετε γρήγορα την κάμερα, πατήστε δύο φορές το κουμπί λειτουργίας. Αυτή η ενέργεια μπορεί να πραγματοποιηθεί από οποιαδήποτε οθόνη.</string>
@@ -3296,6 +3307,9 @@
     <string name="input_pattern_hint_text">Σχεδιάστε το μοτίβο ξεκλειδώματος</string>
     <string name="input_settings">Ρυθμίσεις εισόδου</string>
     <string name="input_text">Γραμμή εισόδου κειμένου</string>
+    <string name="inputdebuglog_select_level">Επίπεδο καταγραφής εισόδου</string>
+    <string name="inputdebuglog_select_level_show">Επίπεδο %d</string>
+    <string name="inputdebuglog_select_level_summary">Επιλογή επιπέδου</string>
     <string name="insert_sim_card_and_try_again">Εισάγετε την κάρτα SIM και προσπαθήστε ξανά.</string>
     <string name="install_all_warning">Το τηλέφωνό σας και τα προσωπικά δεδομένα είναι πιο ευάλωτα σε επιθέσεις από εφαρμογές από άγνωστες πηγές. Συμφωνείτε ότι είστε αποκλειστικά υπεύθυνοι για κάθε ζημιά στο τηλέφωνο ή απώλεια δεδομένων που μπορεί να προκύψουν από τη χρήση αυτών των εφαρμογών.</string>
     <string name="install_applications">Άγνωστες πηγές</string>
@@ -4089,6 +4103,7 @@
     <string name="menu_stats_total">Σύνολα χρήσης</string>
     <string name="menu_stats_unplugged">%1$s από την αποσύνδεση</string>
     <string name="menu_use_uss">Χρήση Uss</string>
+    <string name="mi_headset_healthy">Υγεία ακοής</string>
     <string name="mi_pay">Mi Πορτοφόλι</string>
     <string name="mi_pay_indonesia">Mi Pay Account</string>
     <string name="mi_pay_summary">Κάρτα Λεωφορείου/Mi Πληρωμή/Εξομοιωτής Κάρτας</string>
@@ -7234,6 +7249,9 @@
     <string name="trackball_wake_title">Αφύπνιση trackball</string>
     <string name="traffic_none">Χωρίς</string>
     <string name="transition_animation_scale_title">Μετάβασης κίνησης</string>
+    <string name="transparent_human_voice">Φωνή</string>
+    <string name="transparent_normal">Κανονική</string>
+    <string name="transparent_surroundings">Περιβάλλοντος</string>
     <string name="trigger_carrier_provisioning">Προμήθεια φορέα ενεργ/σης</string>
     <string name="truetone_summary">Ρύθμιση χρωμάτων στο φως περιβάλλοντος</string>
     <string name="truetone_title">Προσαρμογή χρωμάτων</string>
