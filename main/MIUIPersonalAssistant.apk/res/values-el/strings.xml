@@ -544,7 +544,7 @@
     <string name="pa_picker_home_app_group_title">Εφαρμογές με γραφικά</string>
     <string name="pa_picker_home_group_more">Όλες</string>
     <string name="pa_picker_home_request_failed">Σφάλμα δικτύου</string>
-    <string name="pa_picker_home_search_hint">Αναζήτηση</string>
+    <string name="pa_picker_home_search_hint">Αναζήτηση widgets</string>
     <string name="pa_picker_home_title">Προσθήκη γραφικών στοιχείων</string>
     <string name="pa_picker_item_retry">Αδυναμία φόρτωσης στοιχείων. Ξαναπροσπαθήστε.</string>
     <string name="pa_picker_list_app_footer_classic_widget">Κλασσικό γραφικό</string>
@@ -566,6 +566,7 @@
     <string name="pa_picker_tips_count_limit_forbidden">Δεν μπορείτε να προσθέσετε περισσότερα στον Βοηθός MIUI. Διαγράψτε παλαιότερα γραφικά για να προσθέσετε νέα.</string>
     <string name="pa_picker_toast_add_successfully">Προστέθηκε με επιτυχία</string>
     <string name="pa_picker_toast_count_limit_forbidden">Δεν μπορείτε να προσθέσετε περισσότερα</string>
+    <string name="pa_picker_toast_count_limit_forbidden_for_type">"Δεν μπορείτε να προσθέσετε περισσότερα widgets αυτού του τύπου"</string>
     <string name="pa_picker_toast_count_limit_warning">Προστέθηκε με επιτυχία. Να θυμάστε ότι η τοποθέτηση πολλών γραφικών στην Αρχική οθόνη μπορεί να επιβραδύνει τη συσκευή σας..</string>
     <string name="pa_picker_toast_screen_cell_locked">Η διάταξη της αρχικής οθόνης σας είναι κλειδωμένη. Δεν μπορείτε να προσθέσετε γραφικά.</string>
     <string name="pa_privacy_text">Απόρρητο</string>
@@ -685,7 +686,11 @@
     <string name="pa_sports_widget_empty_game">Honor of Kings</string>
     <string name="pa_sports_widget_empty_recommend">Προτεινόμενο</string>
     <string name="pa_stock_add_stock_button">Προσθήκη</string>
+    <string name="pa_stock_change_cp_code_alert">Αυτή η λειτουργία μπορεί να προκαλέσει αδυναμία σωστής απεικόνισης των δεδομένων</string>
+    <string name="pa_stock_change_cp_code_error">"Αδύνατη η αλλγή πηγής δεδομένων"</string>
+    <string name="pa_stock_change_cp_code_progress_msg">Συγχρονισμός δεδομένων…</string>
     <string name="pa_stock_color_scheme_label">Χρωματικός συνδυασμός</string>
+    <string name="pa_stock_data_source_label">Επιλογή πηγής δεδομένων</string>
     <string name="pa_stock_delisted">(Διαγράφηκε)</string>
     <string name="pa_stock_desc_add_stock">Προσθήκη %1$s</string>
     <string name="pa_stock_desc_add_success">Προστέθηκε με επιτυχία</string>
@@ -712,7 +717,7 @@
     <string name="pa_stock_search_loading">Μισό λεπτό…</string>
     <string name="pa_stock_szzs">SSE</string>
     <string name="pa_stock_update_limitation_tip">Οι πληροφορίες για τα χρηματιστήρια των ΗΠΑ και του Χονγκ Κονγκ ενημερώνονται με καθυστέρηση 15 λεπτών..</string>
-    <string name="pa_stock_webview_bottom_button">Άνοιγμα</string>
+    <string name="pa_stock_webview_bottom_button">Λήψη</string>
     <string name="pa_stock_webview_bottom_text">Ανοίξτε το πρόγραμμα-πελάτη για να δείτε περισσότερες πληροφορίες</string>
     <string name="pa_stock_webview_title_tiger_brokers">tiger securities</string>
     <string name="pa_stock_widget_button_add_stock">Προσθήκη</string>

@@ -400,6 +400,7 @@
   <string name="face_error_timeout">Δοκιμάστε ξανά τον έλεγχο ταυτότητας προσώπου.</string>
   <string name="face_error_unable_to_process">Δεν είναι δυνατή η επαλήθευση του προσώπου. Δοκίμασε ξανά.</string>
   <string name="face_error_user_canceled">Ο έλεγχος ταυτότητας προσώπου ακυρώθηκε από τον χρήστη</string>
+  <string name="face_error_vendor_unknown">Κάτι πήγε λάθος. Δοκιμάστε ξανά.</string>
   <string name="face_icon_content_description">Εικονίδιο προσώπου</string>
   <string name="face_name_template">Πρόσωπο %d</string>
   <string name="face_recalibrate_notification_content">Για να βελτιώσετε την αναγνώριση, παρακαλούμε να εγγραφείτε εκ νέου το πρόσωπό σας</string>
@@ -438,6 +439,7 @@
   <string name="fingerprint_error_timeout">Λήξη χρονικού ορίου δακτυλικού αποτυπώματος. Δοκιμάστε ξανά.</string>
   <string name="fingerprint_error_unable_to_process">Δοκιμάστε ξανά.</string>
   <string name="fingerprint_error_user_canceled">Η λειτουργία δακτυλικών αποτυπωμάτων ακυρώθηκε από τον χρήστη.</string>
+  <string name="fingerprint_error_vendor_unknown">Κάτι πήγε λάθος. Δοκιμάστε ξανά.</string>
   <string name="fingerprint_icon_content_description">Εικονίδιο δακτυλικών αποτυπωμάτων</string>
   <string name="fingerprint_name_template">Δάκτυλο %d</string>
   <string name="fingerprints">Αποτυπώματα:</string>

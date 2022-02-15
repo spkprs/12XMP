@@ -94,6 +94,7 @@
     <string name="free_send_net_booster_tip">Απολαύστε πιο ομαλά τα παιχνίδια με την δωρεάν ενίσχυση ταχύτητας δικτύου.</string>
     <string name="game_booster">Βελτιστοποίηση ταχύτητας παιχνιδιού</string>
     <string name="gamebooster_network_dialog_message">Επιτρέπετε στην ασφάλεια να συνδεθεί στο δίκτυο για να χρησιμοποιήσετε όλες τις δυνατότητες του Game Turbo;</string>
+    <string name="gamebooster_network_dialog_message_pad">Επιτρέψτε στην Aσφάλεια να συνδεθεί στο δίκτυο για να χρησιμοποιήσετε όλες τις δυνατότητες του Game Turbo?</string>
     <string name="gamebooster_network_dialog_title">Μερικές λειτουργίες δεν είναι διαθέσιμες</string>
     <string name="gamebox_no_network_btn">Επαναφόρτωση</string>
     <string name="gb_adv_touch_adv_title">Κλασική λειτουργία (προεπιλογή)</string>
@@ -140,6 +141,7 @@
     <string name="gb_game_speed_closed_fail">"Δεν ήταν δυνατή η απενεργοποίηση της λειτουργίας ταχύτητας Φωτός"</string>
     <string name="gb_game_speed_open">Η λειτουργία ταχύτητας Φωτός είναι ενεργή</string>
     <string name="gb_game_speed_open_fail">"Δεν ήταν δυνατή η ενεργοποίηση της λειτουργίας ταχύτητας Φωτός"</string>
+    <string name="gb_global_settings">Γενικές ρυθμίσεις</string>
     <string name="gb_gpu_control_anisotropic_filtering">Ανισοτροπικό φιλτράρισμα</string>
     <string name="gb_gpu_control_anti_aliasing">Ομαλοποίηση</string>
     <string name="gb_gpu_control_fps">Ρυθμός καρέ</string>
@@ -171,6 +173,9 @@
     <string name="gb_pannel_control_mode_high_quality">Υψηλή ποιότητα</string>
     <string name="gb_pannel_control_mode_normal">Προεπιλογή</string>
     <string name="gb_pannel_control_mode_power_saving">Εξοικονόμηση ενέργειας</string>
+    <string name="gb_webwindow_schemedialog_accept">Άνοιγμα</string>
+    <string name="gb_webwindow_schemedialog_cancel">Ακύρωση</string>
+    <string name="gb_webwindow_schemedialog_title">Άνοιγμα παιχνiδιών τώρα?</string>
     <string name="gb_weixinpay_can_not_complete">Δεν είναι δυνατή η ολοκλήρωση της πληρωμής. Εγκαταστήστε για να συνεχίσετε.</string>
     <string name="gdpr_msg"><Data>"Για να χρησιμοποιήσετε τα χαρακτηριστικά της Ασφάλειας, πρέπει να συμφωνείσετε ότι η Xiaomi θα συλλέγει, επεξεργαστεί και θα χρησιμοποιήσει τα προσωπικά σας δεδομένα, συμπεριλαμβανομένων πληροφοριών για τους τρόπους χρήσης της Ασφάλειας (π.χ. στατιστικά δεδομένων, πληροφορίες για κακόβουλα προγράμματα, σχετικά με τη συσκευή σας) και άλλες πληροφορίες που καθορίζονται στην &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Πολιτική Απορρήτου&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_message">"Πρόκειται να χρησιμοποιήσετε το Xunyou Game Booster. Αυτή η υπηρεσία θα συλλέξει το ID Mi Λογαριασμό σας για να καταγράψει τη διάρκεια της συμμετοχής σας."</string>

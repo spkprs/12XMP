@@ -574,6 +574,9 @@
     <string name="pay_info_dialog_mibi_balance_prefix">Χρήση υπόλοιπων Mi Coins: %s</string>
     <string name="pay_info_dialog_title">Επιλέξτε τρόπο πληρωμής</string>
     <string name="permission_management">Λεπτομέρειες αδειών</string>
+    <string name="permission_status_allow">Παραχωρήθηκε</string>
+    <string name="permission_status_deny">Δεν παραχωρήθηκε</string>
+    <string name="permission_status_loading">Πρόσβαση στην κατάσταση της συσκευής…</string>
     <string name="phone_number_required_dspt_provision">"Αυτή η υπηρεσία απαιτεί τον αριθμό τηλεφώνου σας. "</string>
     <string name="picker_list_empty">Χωρίς επαφές εδώ</string>
     <string name="picker_search_empty">Δεν ήταν δυνατή η εύρεση επαφών</string>
@@ -616,6 +619,18 @@
     <string name="privacy_policy_revoked_msg">Η συγκατάθεση για την Πολιτική Απορρήτου της Xiaomi Cloud αποσύρθηκε για αυτόν τον λογαριασμό. Δοκιμάστε να χρησιμοποιήσετε διαφορετικό λογαριασμό.</string>
     <string name="privacy_policy_update_msg">Η Πολιτική απορρήτου του Xiaomi Cloud ενημερώθηκε:&lt;br/>%1$s&lt;br/>Διαβάστε και αποδεχτείτε τη νέα έκδοση της &lt;a href=%2$s>&lt;u>Πολιτική απορρήτου&lt;/u>&lt;/a> πριν συνεχίσετε.</string>
     <string name="privacy_policy_update_title">Ενημερωμένη Πολιτική Απορρήτου</string>
+    <string name="privacy_runtime_perm_calendar_desc">Για συγχρονισμό συμβάντων ημερολογίου</string>
+    <string name="privacy_runtime_perm_calendar_title">Πρόσβαση στο ημερολόγιο</string>
+    <string name="privacy_runtime_perm_call_log_desc">Για συγχρονισμό αρχείων κλήσεων</string>
+    <string name="privacy_runtime_perm_call_log_title">Πρόσβαση και επεξεργασία αρχείων κλήσεων</string>
+    <string name="privacy_runtime_perm_contacts_desc">Για συγχρονισμό επαφών</string>
+    <string name="privacy_runtime_perm_contacts_title">Πρόσβαση και επεξεργασία επαφών</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Για συγχρονισμό φωτογραφιών προφίλ επαφών και συνημμένων μηνυμάτων</string>
+    <string name="privacy_runtime_perm_external_storage_title">Πρόσβαση Αποθήκευσης</string>
+    <string name="privacy_runtime_perm_phone_state_desc">Για πρόσβαση στον αριθμό και κατάσταση της συσκευής</string>
+    <string name="privacy_runtime_perm_phone_state_title">Πρόσβαση στις πληροφορίες συσκευής</string>
+    <string name="privacy_runtime_perm_sms_desc">Για συγχρονισμό μηνυμάτων</string>
+    <string name="privacy_runtime_perm_sms_title">Πρόσβαση μηνυμάτων</string>
     <string name="privacy_settings">Απόρρητο</string>
     <string name="provision_back">Πίσω</string>
     <string name="provision_next">Επόμενο</string>

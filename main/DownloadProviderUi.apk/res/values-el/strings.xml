@@ -69,6 +69,7 @@
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_running_download">Ακύρωση</string>
     <string name="cancle">Ακύρωση</string>
+    <string name="category">Κατηγορία</string>
     <string name="character_counter_content_description">Έγινε υπέρβαση ορίου χαρακτήρων κατά %1$d από %2$d</string>
     <string name="check_new_downloaded_action">Προβολή</string>
     <string name="check_new_downloaded_file">Βρέθηκε ένα νέο αρχείο</string>
@@ -140,6 +141,7 @@
     <string name="do_not_support_url">Αυτό το είδος URL δεν υποστηρίζεται</string>
     <string name="doc_filter">Έγγραφα</string>
     <string name="download">Λήψεις</string>
+    <string name="downloadCount">Λήψεις</string>
     <string name="download_auth">Λήψη άδειας…</string>
     <string name="download_complete">Ολοκληρώθηκαν</string>
     <string name="download_description_content">"Οι \"Λήψεις\" είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να διαχειριστείτε τις \"Λήψεις\" σας αφού τις καταργήσετε."</string>
@@ -317,6 +319,7 @@
     <string name="notify_install_guide_title">Επιτυχής εγκατάσταση %s</string>
     <string name="notify_not_support">Αυτές οι ειδοποιήσεις δεν υποστηρίζονται. Ενημέρωση τώρα</string>
     <string name="notify_only_wifi_download">Αναμονή για Wi‑Fi</string>
+    <string name="nowInstall">Εγκατάσταση</string>
     <string name="one_month">Ένας μήνας</string>
     <string name="only_support_torrent">Μόνο αρχεία torrent υποστηρίζονται</string>
     <string name="open">Άνοιγμα</string>
@@ -466,6 +469,7 @@
     <string name="shortcut_dialog_create">Δημιουργία</string>
     <string name="shortcut_dialog_title">Δημιουργία συντόμευσης στη Αρχική οθόνη;</string>
     <string name="show_more">Εμφάνιση %s αρχείων ακόμα</string>
+    <string name="size">Μέγεθος</string>
     <string name="sniff_associate_text">Πατήστε την παρακάτω λέξη-κλειδί για να βρείτε περισσότερες πηγές</string>
     <string name="sniff_bt_text">Αρχείο torrent</string>
     <string name="sniff_btn_text">Εύρεση πηγής</string>

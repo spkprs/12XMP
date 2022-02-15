@@ -151,6 +151,8 @@
     <string name="network_tip_dialog_title">Απαιτείται σύνδεση στο Internet</string>
     <string name="network_unavailable_tip">Συνδεθείτε στο δίκτυο.</string>
     <string name="new_record_name">Νέα εγγραφή</string>
+    <string name="new_saf_permission_dialog_content">Ενημερώθηκαν τα δικαιώματα εγγραφής. Επιτρέψτε στη συσκευή εγγραφής να έχει πρόσβαση στις εγγραφές κλήσεων.\n\nΠώς να χορηγήσετε το δικαίωμα\nΠατήστε \"%1$s\" και, στη συνέχεια, επιλέξτε \"%2$s\".</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Επόμενο</string>
     <string name="no_content">Χωρίς στοιχεία εδώ ακόμη</string>
     <string name="no_file">Κενό</string>
     <string name="no_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο"</string>
@@ -386,6 +388,7 @@
     <string name="text_play_speed_1_0">Κανονική ταχύτητα</string>
     <string name="text_play_speed_1_5">1.5X ταχύτητα</string>
     <string name="text_play_speed_2_0">2X ταχύτητα</string>
+    <string name="this_folder">Χρήση αυτού του φακέλου</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
