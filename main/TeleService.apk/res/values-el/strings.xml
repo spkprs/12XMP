@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_External_Storage">Χώρος Αποθήκευσης</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Πρόσβαση και αποθήκευση αρχείων και φωτό στη συσκευή σας</string>
+    <string name="HIPS_Perm_Read_Contact">Επαφές</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Πρόσβαση στις επαφές σας</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM εταιρική ξεκλειδώσετε PIN</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Εταιρική ξεκλειδώσετε αίτηση ανεπιτυχής.</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Ζητώντας RUIM εταιρική ξεκλειδώσετε…</string>

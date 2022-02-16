@@ -190,6 +190,7 @@
     <string name="calllog_menu_blacklist">Αποκλεισμός</string>
     <string name="calllog_menu_edit_before_call">Επεξεργασία</string>
     <string name="calllog_menu_send_sms">Στείλτε ένα μήνυμα</string>
+    <string name="calllog_record_none_toast">Δεν υπάρχουν εγγραφές κλήσης για προβολή</string>
     <string name="callrecordview_item_newcontact">Νέα επαφή</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d λεπ %2$d δευ</string>
     <string name="callrecordview_item_op_time_missed">Χωρίς σύνδεση</string>
@@ -931,6 +932,9 @@
     <string name="name_phonetic_middle">Φωνητικό μεσαίο όνομα</string>
     <string name="name_prefix">Πρόθεμα</string>
     <string name="name_suffix">Κατάληξη</string>
+    <string name="new_saf_permission_dialog_content">Ενημέρωση αδειών Επαφών. Επιτρέψτε στις Επαφές την πρόσβαση σε εγγραφές κλήσεων.\n\nΠώς να παραχωρήσετε την άδεια\nΠατήστε \"%1$s\" και, στη συνέχεια, επιλέξτε \"%2$s\".</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Επόμενο</string>
+    <string name="new_saf_permission_dialog_title"><b>Απαιτούμενες άδειες</b></string>
     <string name="next">Επόμενο</string>
     <string name="next_birthday">Επόμενα γενέθλια: %s</string>
     <string name="nfc_vcard_file_name">Λήψη επαφής μέσω NFC</string>
@@ -1488,6 +1492,7 @@
     <string name="theme_dialog_confirm_button">Κατανοητό</string>
     <string name="theme_dialog_confirm_content">"Αυτή η έκδοση \"Επαφών\" δεν υποστηρίζει το θέμα που εφαρμόζεται αυτήν τη στιγμή."</string>
     <string name="theme_dialog_confirm_title">"Αδυναμία εφαρμογής θέματος"</string>
+    <string name="this_folder">Χρήση αυτού του φακέλου</string>
     <string name="three_letter">ΔΕΖ</string>
     <string name="thursday">Πέμπτη</string>
     <string name="thursday_short">Πεμ</string>
