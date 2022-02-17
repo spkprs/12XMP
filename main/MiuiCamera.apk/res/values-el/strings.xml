@@ -1071,6 +1071,7 @@
     <string name="popup_tips_near_range_mode">Κλείσιμο εστίασης</string>
     <string name="popup_tips_privacy_watermark_edit">Επεξεργασία υδατογραφήματος</string>
     <string name="portait_effect_entry_blackwhite">Μ/Α</string>
+    <string name="portait_effect_entry_cold_white">Αστροφεγγιά</string>
     <string name="portait_effect_entry_cool">Mint</string>
     <string name="portait_effect_entry_dusk">Σούρουπο</string>
     <string name="portait_effect_entry_fairytale">Childhood</string>
@@ -1084,6 +1085,7 @@
     <string name="portait_effect_entry_riddle">Candy</string>
     <string name="portait_effect_entry_romance">Romantic</string>
     <string name="portait_effect_entry_sepia">Σέπια</string>
+    <string name="portait_effect_entry_shallots">Ηλιαχτίδα</string>
     <string name="portait_effect_entry_story">Ιστορία</string>
     <string name="portait_effect_entry_tea">Τσάι</string>
     <string name="portrait_bokeh_first_tips">Χρησιμοποιήστε τη λειτουργία Πορτρέτου για να \nθολώσετε το φόντο στις φωτογραφίες σας</string>
@@ -1366,7 +1368,8 @@
     <string name="pref_camera_video_tag">Να επιτρέπεται η Σήμανση βίντεο</string>
     <string name="pref_camera_video_tag_description">Πατήστε \"Σήμανση\" κατά την λήψη ενός βίντεο για να μπορέσετε να επιστρέψετε σε επισημασμένες στιγμές κατά τη διάρκεια της αναπαραγωγής</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Κλείστρο</string>
-    <string name="pref_camera_volumekey_function_entry_timer">Χρονοδιακόπτης</string>
+    <string name="pref_camera_volumekey_function_entry_timer">Χρονο/πτης</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Χρονο/πτης (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Ένταση</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Ζούμ</string>
     <string name="pref_camera_volumekey_function_title">Λειτουργία κουμπιών έντασης</string>

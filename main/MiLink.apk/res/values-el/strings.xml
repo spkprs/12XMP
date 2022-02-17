@@ -129,6 +129,10 @@
     <string name="help_page_text_55">Αν δεν μπορείτε να συνδεθείτε στο δίκτυο, βεβαιωθείτε ότι η εξωτερική οθόνη υποστηρίζει τη λειτουργία Miracast και ότι είναι ενεργοποιημένη. Σε ορισμένα μοντέλα, αυτό το χαρακτηριστικό ονομάζεται Wireless Display, Screen Mirroring ή Multiple screens. Δείτε τις παρακάτω πληροφορίες για να μάθετε πώς να ενεργοποιήσετε το Miracast.\n%1$d. Σε περίπτωση προβλημάτων, μπορείτε να υποβάλετε τις προτάσεις σας μέσω της εφαρμογής \"Υπηρεσίες &amp; Σχόλια\".</string>
     <string name="help_page_text_55_global">Αν δεν μπορείτε να συνδεθείτε στο δίκτυο, βεβαιωθείτε ότι η εξωτερική οθόνη υποστηρίζει τη λειτουργία Miracast και ότι είναι ενεργοποιημένη. Σε ορισμένα μοντέλα, αυτό το χαρακτηριστικό ονομάζεται Wireless Display, Screen Mirroring ή Multiple screens. Δείτε τις παρακάτω πληροφορίες για να μάθετε πώς να ενεργοποιήσετε το Miracast.\n%1$d. Σε περίπτωση προβλημάτων, μπορείτε να υποβάλετε τις προτάσεις σας μέσω της εφαρμογής \"Υπηρεσίες &amp; Σχόλια\".</string>
     <string name="help_page_text_end">"Εάν το εμπορικό σήμα της συσκευής σας δεν περιλαμβάνεται εδώ, επικοινωνήστε με τον κατασκευαστή για να μάθετε περισσότερα σχετικά με τη λειτουργία της μετάδοσης."</string>
+    <string name="invisible_mode_dialog_content">"Αδύνατη η χρήση της \"Μετάδοσης\" ότανε είστε σε \"Ανώνυμη\" λειτουργία. Απενεργοποιήστε την πρώτα."</string>
+    <string name="invisible_mode_dialog_content_audio_relay">"Αδύνατη η μεταφορά της \"Αναπαραγωγής\" ότανε είστε σε \"Ανώνυμη\" λειτουργία. Απενεργοποιήστε την πρώτα."</string>
+    <string name="invisible_mode_dialog_pos">Απενεργ/ση</string>
+    <string name="invisible_mode_dialog_title">Είστε \"Ανώνυμος\"</string>
     <string name="keyguard_security_setting_privacy_policy">Πολιτική απορρήτου</string>
     <string name="miplay_accessibility_cast">Επιλογή συσκευής</string>
     <string name="miplay_accessibility_cover">Εξώφυλλο</string>
