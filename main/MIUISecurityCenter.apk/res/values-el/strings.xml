@@ -1140,6 +1140,7 @@
     <string name="copy">Αντιγραφή</string>
     <string name="cpu_usage_android_system">Σύστημα Android</string>
     <string name="cpu_usage_process_run_time_little_time">Λιγότερο από 1 λεπτό</string>
+    <string name="cpu_usage_process_run_time_little_time_new">Λιγότερο από %d λεπτό</string>
     <string name="cpu_usage_view_action_btn_text">Προβολή</string>
     <string name="create_gamebooster_destop">Δημιουργήθηκε με επιτυχία η συντόμευση στην Αρχική οθόνη</string>
     <string name="create_shortcut">Δημιουργία συντόμευσης στην αρχική οθόνη του Game Turbo</string>
@@ -1648,6 +1649,7 @@
     <string name="first_aid_card_consume_power_button2">Απενεργοποίηση</string>
     <string name="first_aid_card_consume_power_summary1">Περισσότερες από 5 εφαρμογές επιτρέπεται η αυτόματη εκκίνηση. Περιορίστε τις για εξοικονόμηση μπαταρίας.</string>
     <string name="first_aid_card_consume_power_summary2">Απενεργοποίηση Hotspot για εξοικονόμηση μπαταρίας</string>
+    <string name="first_aid_card_consume_power_summary_app">Επιτρέπεται η αυτόματη εκκίνηση περισσότερων από %d εφαρμογών. Περιορίστε τις για εξοικονόμηση μπαταρίας.</string>
     <string name="first_aid_card_consume_power_title">Χρήση μπαταρίας</string>
     <string name="first_aid_card_kadun_button1">Απελευθέρωση</string>
     <string name="first_aid_card_kadun_button2">Περιορισμός</string>
@@ -4626,8 +4628,10 @@
     <string name="system_anti_fraud_dialog_content">"Φαίνεται ότι μόλις λάβατε ένα τηλεφώνημα ή μήνυμα απάτης. Η συνέχιση αυτής της πληρωμής μπορεί να χρεώσει."</string>
     <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Εάν το προσωπικό εξυπηρέτησης πελατών, οι αρχές ή τα άτομα που μπορεί να γνωρίζετε σας ζητήσουν να συμπληρώσετε αυτή την πληρωμή, &lt;/font>&lt;font = color=#F22424>επαληθεύστε την ταυτότητά τους πριν συνεχίσετε.&lt;/font></string>
     <string name="system_anti_fraud_dialog_image_txt">Προστασία έναντι απάτης</string>
+    <string name="system_anti_fraud_dialog_message">Προστασία από απάτη</string>
     <string name="system_anti_fraud_dialog_title">Προειδοποίηση έναντι απάτης</string>
-    <string name="system_app">Εφαρμ.Συστήματος</string>
+    <string name="system_anti_fraud_dialog_title2">Προειδοποίηση από απάτη</string>
+    <string name="system_app">Εφαρμ. Συστήματος</string>
     <string name="system_app_permission_instruction">Αυτή η εφαρμογή χρειάζεται τις ακόλουθες άδειες για την παροχή βασικών υπηρεσιών συστήματος. Η διαχείριση των αδειών είναι περιορισμένη για αυτή την εφαρμογή, καθώς η αλλαγή των καταστάσεων των αδειών θα οδηγήσει σε ανωμαλίες στη λειτουργία του συστήματος.</string>
     <string name="system_application">Εφαρμ.Συστήματος</string>
     <string name="system_permission_declare_agree">Αποδοχή</string>

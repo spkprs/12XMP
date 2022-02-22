@@ -15,6 +15,7 @@
     <string name="atrace_saving">Αποθήκευση atrace log…</string>
     <string name="atrace_start">Εγγραφή atrace log…</string>
     <string name="base_info">Βασικές πληροφορίες</string>
+    <string name="checking_intranet">Έλεγχος σύνδεσης intranet…</string>
     <string name="cloud_addr_info">Πληροφορίες Cloud</string>
     <string name="cloud_china_addr">Ενημέρωση δεδομένων Κινεζικού διακομιστή</string>
     <string name="cloud_international_addr">Ενημέρωση δεδομένων διεθνούς διακομιστή</string>
@@ -34,9 +35,11 @@
     <string name="config_suggest_description">Προσδιορίζει εφαρμογές και λειτουργίες για διατήρηση σημαντικών διεργασιών. \nΗ εξοικονόμηση θα επεξεργάζεται επιλεκτικά τις σημαντικές εφαρμογές.</string>
     <string name="config_suggest_suffix_title">Εξοικονόμηση MIUI (συνιστάται)</string>
     <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Σύνδεση στο intranet</string>
     <string name="current_cloud_addr_is">Διακομιστής ελέγχου Cloud, η διεύθυνση είναι:</string>
     <string name="dark_mode">Σκοτεινή λειτουργία</string>
     <string name="dark_mode_summary">Μεταβείτε σε μια παλέτα σκούρου χρώματος για εξοικονόμηση ενέργειας μπαταρίας</string>
+    <string name="delete_data_confirm">Διαγραφή αυτό το στοιχείο τώρα;</string>
     <string name="disable_hide_mode">Απενεργοποίηση εξοικονόμησης ενέργειας</string>
     <string name="disable_hide_mode_warning">Η απενεργοποίηση της εξοικονόμησης ενέργειας μπορεί να αυξήσει την κατανάλωση ενέργειας</string>
     <string name="empty_title_apps_container_list">Χωρίς εφαρμογές</string>
@@ -60,9 +63,9 @@
     <string name="high_temp_state_message">Η συσκευή σας έχει υπερθερμανθεί. Τα Δεδομένα κινητής, το σημείο Πρόσβασης Wi-Fi, το GPS και η Κάμερα θα περιοριστούν.</string>
     <string name="hints_loading_text">Μισό λεπτό…</string>
     <string name="important_warning">Προσοχή</string>
-    <string name="kill_all_back_pro_toast_message">"Δεν μπορείτε να χρησιμοποιήσετε όλες τις διεργασίες παρασκηνίου λόγω υπερθέρμανσης της συσκευής"</string>
+    <string name="kill_all_back_pro_toast_message">Η συσκευή σας υπερθερμάνθηκε. Έκλεισαν προς το παρόν όλες τις εφαρμογές που εκτελούνται στο παρασκήνιο.</string>
     <string name="kill_pkg_toast_message">"Αδύνατη η χρήση εφαρμ. λόγω υπερθέρμανσης συσκευής"</string>
-    <string name="kill_some_back_pro_toast_message">"Δεν μπορείτε να χρησιμοποιήσετε κάποια διαδικασία στο παρασκήνιο λόγω υπερθέρμανσης της συσκευής"</string>
+    <string name="kill_some_back_pro_toast_message">Η συσκευή σας υπερθερμάνθηκε. Έκλεισαν προς το παρόν ορισμένες εφαρμογές που εκτελούνται στο παρασκήνιο.</string>
     <string name="lasttime_applist_cloud">Ενημερώσεις εφαρμογών:</string>
     <string name="lasttime_feature_cloud">Ενημερωμένες λειτουργίες:</string>
     <string name="low_battery_percent_summary">Ποσοστό: %s</string>
@@ -132,11 +135,13 @@
     <string name="sleep_config_enhance_title">Κατάσταση αδράνειας</string>
     <string name="sleepmode_disclaimer_agree">Συμφωνώ</string>
     <string name="sleepmode_disclaimer_cancel">Ακύρωση</string>
-    <string name="sleepmode_privacy_content">Αυτή η λειτουργία θα χρησιμοποιεί τα δεδομένα συστήματος και πληροφορίες της συσκευής, τα οποία δεν θα μεταφορτωθούν στο διακομιστή.</string>
+    <string name="sleepmode_privacy_content">"Αυτή η λειτουργία χρειάζεται πρόσβαση σε πληροφορίες στο σύστημα και συσκευή σας. Αυτές δεν θα μεταφορτωθούν στους διακομιστές μας."</string>
     <string name="sleepmode_privacy_link">Λεπτομέριες ασφάλειας και ιδιωτικότητας</string>
     <string name="sleepmode_privacy_title">Κατάσταση αδράνειας</string>
     <string name="stricter_high_temp_state_message">"Φαίνεται ότι η συσκευή έχει υπερθερμανθεί. Προς το παρόν χρήση μόνο Τηλεφώνου &amp; Επαφών."</string>
     <string name="sucess">Εντάξει</string>
+    <string name="thermal_cancel">Ακύρωση</string>
+    <string name="thermal_confirm">OK</string>
     <string name="title_history">Ιστορικό</string>
     <string name="title_home">Αρχική</string>
     <string name="update_profile_failture_not_connect_wifi">Δεν ήταν δυνατή η ενημέρωση. Συνδεθείτε στο Wi-Fi και δοκιμάστε ξανά.</string>

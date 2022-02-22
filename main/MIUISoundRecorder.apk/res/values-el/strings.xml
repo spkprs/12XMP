@@ -207,6 +207,8 @@
     <string name="permission_desc">Λεπτομέρειες αδειών</string>
     <string name="permission_dialog_cancel">Ακύρωση</string>
     <string name="permission_dialog_ok">Ρυθμίσεις</string>
+    <string name="permission_read_phone_state">Πρόσβαση σε πληροφορίες συσκευής</string>
+    <string name="permission_read_phone_state_description">Για πρόσβαση στην κατάσταση κλήσεων προκειμένου να διακόπτεται αυτόματα η εγγραφή όταν δέχεστε κλήσεις</string>
     <string name="permission_record">Εγγραφή ήχου</string>
     <string name="permission_record_description">Για την παροχή υπηρεσιών ηχογράφησης</string>
     <string name="permission_storage">Πρόσβαση Αποθήκευσης</string>

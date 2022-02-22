@@ -185,4 +185,24 @@
         <item quantity="other">%d εφαρμ. με προσωρινά αποθηκ. βίντεο</item>
         <item quantity="one">%d εφαρμ. με προσωρινό αποθηκ. βίντεο</item>
     </plurals>
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">Επιλέχθηκαν %d εφαρμ. για εκκαθάριση δεδομένων</item>
+        <item quantity="one">Επιλέχθηκε %d εφαρμ. για εκκαθάριση δεδομένων</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> εφαρμ. χρησιμοποιούν πολύ αποθηκ. χώρο&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font>  εφαρμ. χρησιμοποιούν πολύ αποθηκ. χώρο&lt;/Data></item>
+    </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">Επιλέχθηκαν %d εφαρμ. για επαναφορά</item>
+        <item quantity="one">Επιλέχθηκε %d εφαρμ. για επαναφορά</item>
+    </plurals>
+    <plurals name="select_app">
+        <item quantity="other">Επιλέχθηκαν %d εφαρμ.</item>
+        <item quantity="one">Επιλέχθηκε %d εφαρμ.</item>
+    </plurals>
+    <plurals name="unload_app_selected_app">
+        <item quantity="other">Επιλέχθηκαν %d εφαρμ. για απεγκ/ταση</item>
+        <item quantity="one">Επιλέχθηκε %d εφαρμ. για απεγκ/ταση</item>
+    </plurals>
 </resources>

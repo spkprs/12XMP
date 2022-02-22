@@ -52,6 +52,7 @@
     <string name="activity_title_uninstall_apps">Εφαρμογές</string>
     <string name="activity_title_video">Διαγραφή βίντεο</string>
     <string name="activity_title_white_list">Εξαιρέσεις</string>
+    <string name="ad_description" formatted="false">%s | Έκδοση %s | %s | %s</string>
     <string name="ad_install_success_dialog_lunch">Άνοιγμα</string>
     <string name="ad_install_success_dialog_title">Εγκαταστήθηκε %1$s επιτυχώς. Άνοιγμα τώρα?</string>
     <string name="afternoon">Απόγευμα</string>
@@ -67,9 +68,13 @@
     <string name="app_clean_group_document_send">Αποστολή αρχείων</string>
     <string name="app_clean_group_image_recv">Λήψη εικόνων</string>
     <string name="app_clean_group_image_send">Αποστολή εικόνων</string>
+    <string name="app_cleaned">Εκκαθαρίστηκε επιτυχώς</string>
     <string name="app_description_content">Η Εκκαθάριση εντοπίζει σκουπίδια στην συσκευή σας και ελευθερώνει αποθηκευτικό χώρο. Βεβαιωθείτε πως δεν χρειάζεστε τις λειτουργίες αυτές πριν την απεγκατάσταση της εφαρμογής.</string>
     <string name="app_description_title">Σχετικά με την Εκκαθάριση</string>
     <string name="app_name">JunkEngine</string>
+    <string name="app_reset">Επαναφορά</string>
+    <string name="app_specific_clean">Εκκαθαριστής εφαρμ.</string>
+    <string name="app_unload">Απεγκατάσταση</string>
     <string name="app_usage_never">Χωρίς πρόσφατη χρήση</string>
     <string name="app_usage_recently">Πρόσφατη χρήση</string>
     <string name="appcleaner_g_audio_summary_qq">Permanently delete QQ voice messages</string>
@@ -173,6 +178,7 @@
     <string name="cached_garbage">Μνήμη cache</string>
     <string name="call_log">Αρχεία κλήσεων</string>
     <string name="cancel">Ακύρωση</string>
+    <string name="cancel_select_all">Αποεπιλογή όλων</string>
     <string name="cd_back">πίσω</string>
     <string name="cd_check_box_checked">ελέγχονται</string>
     <string name="cd_check_box_middle">μερική επιλογή</string>
@@ -183,6 +189,10 @@
     <string name="cd_scanning">Σάρωση...</string>
     <string name="cd_settings">ρυθμίσεις</string>
     <string name="cd_sort_type">είδος ταξινόμησης</string>
+    <string name="clean_ing">Εκκαθάριση…</string>
+    <string name="clean_item_tip_data_app">Εκκαθάριση δεδομένων για %s</string>
+    <string name="clean_item_tip_reset_app">Επαναφορά %s</string>
+    <string name="clean_item_tip_unload_app">Απεγκατάσταση %s</string>
     <string name="clean_master_icon_recall_button_text">Προσθήκη</string>
     <string name="clean_master_icon_recall_dialog_button_negative">Όχι, ευχαριστώ</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Προσθήκη</string>
@@ -193,6 +203,7 @@
     <string name="clean_master_icon_recall_title">Ταχύτερος καθαρισμός απορριμμάτων</string>
     <string name="clean_master_icon_recall_toast_text">Προστέθηκε με επιτυχία η συντόμευση του καθαρισμού</string>
     <string name="clean_summary">Εκκαθαρίστηκαν %1$s</string>
+    <string name="clear_app_data">Εκκαθάριση</string>
     <string name="clear_bigfiles">Διαγραφή μεγάλων αρχείων, διπλών φωτό και παρωχημένα στοιχεία</string>
     <string name="clear_immediately">Καθαρισμός τώρα</string>
     <string name="clear_safe_notify">Κοινοποίηση στο widget</string>
@@ -202,7 +213,10 @@
     <string name="confirm_auto_cleaner">OK</string>
     <string name="conn_of_function_safe">Σύνδεση δικτύου για ασφάλεια</string>
     <string name="connecting">Σύνδεση…</string>
+    <string name="continue_check">Select</string>
+    <string name="continue_to_do">Συνέχεια</string>
     <string name="copy">Αντίγραφο</string>
+    <string name="data_selected">Επιλεγμένα στοιχεία</string>
     <string name="date_picker_lunar">Κινεζικό Παραδ. Ημερ/γιο</string>
     <string name="date_time_picker_dialog_title">Ρύθμιση Ημ/Ώρας</string>
     <string name="dc_activity_title">Βαθύς Καθαρισμός</string>
@@ -263,6 +277,7 @@
     <string name="default_cache_type">Αρχεία δεδομένων</string>
     <string name="delete_confirm">Διαγραφή</string>
     <string name="delete_confirm_msg">Διαγραφή όλων των επιλεγμένων αρχείων μόνιμα;</string>
+    <string name="delete_slected_data">Επαναφορά</string>
     <string name="desc_image">εικόνα</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Διαγραφή επίσης και από το Mi Cloud</string>
     <string name="dialog_content_select_all_confirm">Κρατάτε αντίγραφο αυτής της φωτογραφίας;</string>
@@ -482,7 +497,10 @@
     <string name="install_time_invalid">--</string>
     <string name="installed">Εγκαταστήθηκε</string>
     <string name="installing">Εγκατάσταση</string>
+    <string name="is_Scanning">Σάρωση…</string>
+    <string name="item_content_app_reset">%s κατειλημμένα</string>
     <string name="item_title_process_mode">Επιλέξτε μια ενέργεια</string>
+    <string name="jump_to_next">Skip</string>
     <string name="junk_syscache_alert_desc">δεν συνιστούμε να καθαρίσετε αυτήν την προσωρινή μνήμη,Ο καθαρισμός θα επηρεάσει την κανονική λειτουργία των Εφαρμογών</string>
     <string name="junk_tag_RF_DalvikCacheLeftovers">Υπολείμματα συστήματος λογισμικού (Dalvik-Cache)</string>
     <string name="junk_tag_RF_DemoVideo_LG">LG Επίδειξη βίντεο κινητού τηλεφώνου</string>
@@ -653,10 +671,12 @@
     <string name="nb_clear_set">Καθαρίστε την κρυφή μνήμη, προβολή πληροφοριών μπαταρίας και λίστα αποκλεισμού στον πίνακα  ειδοποιήσεων</string>
     <string name="network_not_available">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
     <string name="news_change">Αλλαγή</string>
+    <string name="next_step">Επόμενο</string>
     <string name="night">Απόγευμα</string>
     <string name="no_network">Αδύνατη η σύνδεση στο δίκτυο, δοκιμάστε ξανά</string>
     <string name="no_network_btn">Δοκιμάστε ξανά</string>
     <string name="noon">Μεσημέρι</string>
+    <string name="not_selected_tips">Επιλέξτε εφαρμογές πρώτα.</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="notification_apk_clean_button_text">Καθαρισμός</string>
     <string name="notification_checker_installed_apk_hint">Περιττή η διατήρησή τους</string>
@@ -812,6 +832,9 @@
     <string name="recommend_news">Λήψη συστάσεων</string>
     <string name="recommend_the_following">Λάβετε τις παρακάτω ενέργειες για να αξιοποιήσετε στο μέγιστο τη συσκευή σας</string>
     <string name="recommended">Προτεινόμενα</string>
+    <string name="reset_app_dialog_summary">"Πρόκειται να επαναφέρετε τις εφαρμογές που έχετε επιλέξει. Όλα τα δεδομένα τους (σύνδεσης, ρυθμίσεων, εικόνων, βίντεο, αρχείων, συνομιλιών) θα διαγραφούν οριστικά, επαναφέροντας τες στην αρχική τους κατάσταση."</string>
+    <string name="reset_app_dialog_title">Επαναφορά εφαρμογών</string>
+    <string name="reset_selected">Επαναφορά %s</string>
     <string name="resutl_function_deep_clean_summary">"\"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; περισσότερα αρχεία μπορούν να διαγραφούν. Απελευθερώστε περισσότερο χώρο.\" "</string>
     <string name="resutl_function_qq_clean_summary">" \"Καθαρίστε &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; της προσωρινής μνήμης που δημιουργείται από το QQ\" "</string>
     <string name="resutl_function_wechat_clean_summary">"\"&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt;  WeChat cache. Απελευθερώστε περισσότερο χώρο.\" "</string>
@@ -825,6 +848,7 @@
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="security_center_slogan">Ασφάλεια. Πάντα σε επιφυλακή.</string>
     <string name="see_more">Περισσότερα</string>
+    <string name="select_all">Επιλογή όλων</string>
     <string name="set_immediately">Ορισμός</string>
     <string name="seton_immediately">Ενεργοποίηση</string>
     <string name="share">Μοιραστείτε</string>
@@ -833,6 +857,7 @@
     <string name="similar_image_scaning">Ελεγχος…</string>
     <string name="similar_image_title">Φωτογραφίες</string>
     <string name="sponsored">Χορηγείται</string>
+    <string name="start_clean">Εκκίνηση</string>
     <string name="start_downloading_app">Εκκίνηση λήψης: %1$s</string>
     <string name="start_install">Εγκατάσταση τώρα</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -854,6 +879,11 @@
     <string name="time_picker_dialog_title">Ρύθμιση ώρας</string>
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
+    <string name="tips_app_reset_dialog">Η επαναφορά απελευθερώνει τον αποθηκευτικό χώρο στο μέγιστο βαθμό χωρίς να απεγκαταστήσετε την εφαρμογή. Ωστόσο, Όλα τα δεδομένα τους (σύνδεσης, ρυθμίσεων, εικόνων, βίντεο, αρχείων, συνομιλιών) θα διαγραφούν οριστικά.</string>
+    <string name="tips_app_reset_result_page">Επαναφορά εφαρμογών για να διαγράψετε όλα τα δεδομένα τους και να τις επαναφέρετε στην αρχική τους κατάσταση</string>
+    <string name="tips_app_reset_top">Η επαναφορά επαναφέρει τις εφαρμογές στην αρχική τους κατάσταση και διαγράφει όλα τα δεδομένα τους.</string>
+    <string name="tips_app_specific_clean_result_page">Ελευθερώστε αποθηκευτικό χώρο</string>
+    <string name="tips_data_page">Δοκιμάστε την εκκαθάριση δεδομένων εφαρμογών για να ελευθερώσετε χώρο αποθήκευσης</string>
     <string name="tips_low_storage_dialog_cancel">Ακύρωση</string>
     <string name="tips_low_storage_dialog_msg_qq">Το μέγεθος της κρυφής μνήμης QQ έχει φτάσει τα 3 GB. Αυτό μπορεί να επιβραδύνει τη συσκευή σας. Καθαρισμός προσωρινής μνήμης QQ τώρα;</string>
     <string name="tips_low_storage_dialog_msg_qq_new">Το μέγεθος cache QQ έφτασε στα %d GB. Αυτό μπορεί να επιβραδύνει τη συσκευή σας. Εκκαθάριση cache QQ τώρα;</string>
@@ -876,6 +906,9 @@
     <string name="tips_of_traffic_notification">Προβάλετε τα στατιστικά στοιχεία για δεδομένα στον πίνακα ειδοποίησης</string>
     <string name="tips_of_traffic_pack_threshold">Αγοράστε περισσότερα δεδομένα όταν πρόκειται να φτάσετε το όριο</string>
     <string name="tips_of_virus_scan">Σαρώστε τη συσκευή σας για ιούς τακτικά για ασφαλή λειτουργία</string>
+    <string name="tips_reset_page">Δοκιμάστε να επαναφέρετε τις εφαρμογές για να διαγράψετε όλα τα δεδομένα τους και να ελευθερώσετε χώρο αποθήκευσης.</string>
+    <string name="tips_result_ad">Δοκιμάστε αυτές τις εφαρμογές στον ελεύθερο χώρο;</string>
+    <string name="tips_unload_page">"Δοκιμάστε να απεγκαταστήσετε τις εφαρμογές που δεν έχετε χρησιμοποιήσει εδώ και %d ημέρες."</string>
     <string name="title_auto_cleaner">Υπενθύμιση καθαρισμού.</string>
     <string name="title_delete_cache">Διαγραφή της cache εφαρμογών</string>
     <string name="title_delete_clipboard">Περιεχόμενο πρόχειρου</string>
@@ -892,6 +925,7 @@
     <string name="title_of_traffic_notification">Γραμμή στατιστικών στοιχείων</string>
     <string name="title_optimizer">Οροι και Προϋποθέσεις</string>
     <string name="title_share_link">Κοινόχρηστη διεύθυνση URL</string>
+    <string name="to_reset_app">Επαναφορά</string>
     <string name="toast_add_white_list_success">Προστέθηκε επιτυχώς στις εξαιρέσεις</string>
     <string name="toast_app_no_residual_on_sdcard">Η εφαρμογή δεν έχει αποθηκευμένα αρχεία στην κάρτα SD σας</string>
     <string name="toast_backup_is_running">Η δημιουργία αντιγράφων εκτελείται ήδη</string>
@@ -922,6 +956,7 @@
     <string name="tuesday_shortest">Τρί</string>
     <string name="unlike">Όχι ευχαριστώ</string>
     <string name="update_date_format">MM/dd/yyyy</string>
+    <string name="updating_tips">Μισό λεπτό…</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="video_clean">Διαγρ προσωρ αποθ βίντεο</string>

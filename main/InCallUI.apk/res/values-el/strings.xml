@@ -211,6 +211,9 @@
     <string name="relay_call_device_name">Συνδεδεμένη συσκ. (%1$s)</string>
     <string name="relay_deny_permission_msg">"Δεν είναι δυνατή η απενεργοποίηση κλήσεων χωρίς την άδεια εγγραφής ήχου"</string> 
     <string name="relay_grant_permissions_on_phone">Εκχώρηση άδειας για εγγραφή ήχου στο τηλέφωνό σας</string> 
+    <string name="relay_known">Κατανοητό</string>
+    <string name="relay_network_error">Σφάλμα δικτύου</string>
+    <string name="relay_network_error_msg">"Δεν είναι δυνατή η λήψη κλήσεων σε αυτήν τη συσκευή λόγω σφάλματος δικτύου. Αλλάξτε πάλι στο τηλέφωνό σας."</string>
     <string name="remind_unlock_message">Η συσκευή σας είναι κλειδωμένη τώρα. \"%s\" θα είναι διαθέσιμη αφού ξεκλειδώσετε τη συσκευή σας. Ξεκλείδωμα τώρα?</string>
     <string name="respond_via_sms_custom_message">Γράψτε το δικό σας…</string>
     <string name="select_audio_dialog_title">Επιλέξτε λειτουργία απάντησης</string>

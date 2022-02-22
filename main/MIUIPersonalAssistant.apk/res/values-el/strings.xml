@@ -584,6 +584,7 @@
     <string name="pa_rtk_more_content_description">Επιλογές</string>
     <string name="pa_rtk_more_text">Δεν ενδιαφέρομαι</string>
     <string name="pa_rtk_place_holder_text">Αυτό το widget μεταφέρθηκε στο πίνακα σας προς το παρόν</string>
+    <string name="pa_rtk_unlike_text">Ξεκαρφίτσωμα</string>
     <string name="pa_rts_summary">Τοποθετήστε τα πιο συχνά χρησιμοποιούμενα γραφικά στοιχεία στον πίνακα εργαλείων</string>
     <string name="pa_rts_text">Πίνακας εργαλείων</string>
     <string name="pa_scan">Σάρωση</string>
