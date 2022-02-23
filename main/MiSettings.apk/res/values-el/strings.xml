@@ -231,7 +231,7 @@
     <string name="hsv_space_color_saturation">Κορεσμός</string>
     <string name="hsv_space_color_value">Τιμή</string>
     <string name="intelligent_radio_btn_summary">Ρυθμίστε το ρυθμό ανανέωσης δυναμικά με βάση τα σενάρια για να εξισορροπήσετε την απόδοση με την κατανάλωση ενέργειας</string>
-    <string name="intelligent_radio_btn_title">Αυτόματα (συνιστάται)</string>
+    <string name="intelligent_radio_btn_title">Προεπιλογή (συνιστάται)</string>
     <string name="intelligent_recognition_item_summary">Χρησιμοποιήστε έναν καθορισμένο ήχο κλήσης για κλήσεις από υπηρεσίες παράδοσης και ταξί. Αυτή η δυνατότητα θα λειτουργήσει όταν το %s οριστεί ως προεπιλεγμένος τόνος κουδουνίσματος.</string>
     <string name="intelligent_recognition_item_title">Προσδιορισμός υπηρεσιών</string>
     <string name="item_anura">Anura</string>

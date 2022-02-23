@@ -377,6 +377,10 @@
     <string name="reach_upper_limit">Δεν είναι δυνατή η προσθήκη περισσότερων χρονομέτρων</string>
     <string name="read_external_storage_permission_desc">Για τη ρύθμιση προσ/μένων ήχων κλήσης</string>
     <string name="read_internal_storage">Πρόσβαση σε χώρο αποθήκευσης</string>
+    <string name="read_phone_state">Προσβαση στις πληροφ. συσκευής</string>
+    <string name="read_phone_state_desc">Πρόσβαση στην κατάσταση κλήσης όταν ηχεί το κουδούνισμα</string>
+    <string name="read_phone_state_desc_when_request">Πρόσβαση στην κλήση για αυτόματη παύση του κουδουνίσματος κατά τη λήψη κλήσεων</string>
+    <string name="remark_hint">Εισαγωγή ετικέτας</string>
     <string name="remind_ringtone">Ήχος</string>
     <string name="repeat_count">Φορές</string>
     <string name="repeat_count_value_five">5</string>
