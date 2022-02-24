@@ -88,6 +88,7 @@
     <string name="app_enable_transparent_wallpaper">Με διαφανή ταπετσαρία</string>
     <string name="app_name">Θέματα</string>
     <string name="application_list_permission_desc">Για την προβολή εφαρμογών συμβατών με διαφανείς ταπετσαρίες</string>
+    <string name="application_notify_title">Προσοχή</string>
     <string name="apply_choosen_type_resource">Εφαρμογή επιλεγμένων στοιχείων</string>
     <string name="apply_default_font_tip">Χρήση της τρέχουσας γραμ/σειράς του συστήματος?</string>
     <string name="apply_failed">"Αδύνατη η εφαρμογή"</string>
@@ -170,6 +171,7 @@
     <string name="component_title_video_wallpaper">Βίντεο ταπετσαριών</string>
     <string name="component_title_wallpaper">Ταπετσαρία</string>
     <string name="concentration_old_period">Περισσότερα</string>
+    <string name="configure_success_not_enable_aod">Εφαρμόστηκε με επιτυχία. Ενεργοποιήστε στο \"Πάντα στην Οθόνη\" το θέμα.</string>
     <string name="copy">Αντίγραφο</string>
     <string name="count_down_tip">%ds υπόλοιπο</string>
     <string name="create_home_icon">Συντόμευση αρχικής οθόνης</string>
@@ -1107,6 +1109,7 @@
     <string name="storage_permission_denied_desc">Επιτρέψτε την πρόσβαση των Θεμάτων στην αποθήκευση για να μπορείτε να προβάλλετε στοιχεία</string>
     <string name="sunday">Κυριακή</string>
     <string name="super_wallpaper">Σούπερ ταπετσαρίες</string>
+    <string name="super_wallpaper_dialog_content">Η Εξοικ. μπαταρίας θα απενεργοποιήσει τα δυναμικά χαρακτηριστικά των ταπετσαριών.</string>
     <string name="super_wallpaper_list_footer_text">Μείνετε συντονισμένοι για τις νέες μας κυκλοφορίες!</string>
     <string name="super_wallpaper_list_label">Super ταπετσαρίες</string>
     <string name="super_wallpaper_setting_apply_success_toast">Εφαρμόστηκε με επιτυχία</string>
@@ -1318,6 +1321,7 @@
     <string name="video_not_support_message">Αυτό το βίντεο μπορεί να εμφανίζεται λάθος ή να επιβραδύνει τη συσκευή σας. Εφαρμογή οπωσδήποτε?</string>
     <string name="video_not_support_title">Αυτό το βίντεο είναι πολύ μεγάλο</string>
     <string name="video_silence_apply_success">Επιτυχής διαμόρφωση σε βίντεο χωρίς ήχο</string>
+    <string name="video_wallpaper_apply_warning">Αυτή η ταπετσαρία θα εφαρμοστεί στην Αρχική και στην οθόνη κλειδώματος. Εφαρμογή τώρα;</string>
     <string name="video_wallpaper_import">Πατήστε για προσθήκη στοιχείων</string>
     <string name="vip_level_dialog_positive">Γνωρίζω</string>
     <string name="vip_level_dialog_title">Συμβουλές</string>

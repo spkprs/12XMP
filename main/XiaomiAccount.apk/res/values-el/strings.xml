@@ -298,6 +298,7 @@
     <string name="my_device_title">Τρέχουσα συσκευή</string>
     <string name="need_install_wechat">Εγκατάσταση πρώτα του WeChat</string>
     <string name="night">Απόγευμα</string>
+    <string name="no_account_or_forget_password">Δημιουργία λογαριασμού ή ξεχάσατε τον κωδικό;</string>
     <string name="no_install">Μη εγκατ/νο</string>
     <string name="no_network_btn">Ανανέωση</string>
     <string name="no_network_title">Αδυναμία σύνδεσης στο δίκτυο.</string>
