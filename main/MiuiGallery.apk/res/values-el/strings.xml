@@ -479,6 +479,7 @@
     <string name="cloud_full_space_tip_negative">Όχι τώρα</string>
     <string name="cloud_full_space_tip_positive">Αναβάθμιση</string>
     <string name="cloud_full_space_tip_title">Ανεπαρκής χώρος αποθήκευσης στο cloud</string>
+    <string name="cloud_full_space_tip_title_completely">Η Αποθ. Cloud είναι πλήρης</string>
     <string name="cloud_guide_auto_backup_title">Επιλέξτε τα άλμπουμ για συγχ/σμό</string>
     <string name="cloud_guide_login_title">Αυτόματη δημιουργία αντιγράφων φωτογραφιών και βίντεο</string>
     <string name="cloud_guide_welcome_title">MiCloud</string>
@@ -1204,6 +1205,7 @@
     <string name="kick_sharer_failed">Αποτυχία διαγραφής κοινόχρηστου</string>
     <string name="kick_sharer_successfully">Επιτυχής διαγραφή κοινόχρηστου</string>
     <string name="kilobyteShort">KB</string>
+    <string name="last_some_performance_title">Στοιχεία που είδα</string>
     <string name="limit_height">Το ύψος πρέπει να είναι > 0</string>
     <string name="limit_width">Το πλάτος πρέπει να είναι > 0</string>
     <string name="live_photo">Δυναμική λήψη</string>
@@ -1699,6 +1701,7 @@
     <string name="operation_too_often">Υπέρβαση ορίου συχνότητας, παρακαλώ δοκιμάστε μετά από 1 λεπτό.</string>
     <string name="operation_unforce_top">Ξεκαρφίτσωμα</string>
     <string name="operation_unhide">Επανεμφάνιση</string>
+    <string name="operation_upgrade_gallery">Ενημέρωση</string>
     <string name="operation_video_compress">Συμπίεση βίντεο</string>
     <string name="operation_watermark">Υδατ/φημα προστασίας</string>
     <string name="oppo">OPPO</string>
@@ -2220,8 +2223,8 @@
     <string name="send_file_beautify_failed">Αδύνατη η Κοινή χρήση</string>
     <string name="send_files_by">Αποστολή αρχείων μέσω</string>
     <string name="send_files_to">Αποστολή στοιχείων προς</string>
-    <string name="send_heif_summary">Μετατροπή εικόνων HEIF σε JPEG για εξασφάλιση συμβατότητας</string>
-    <string name="send_heif_title">Μετατροπή HEIF σε JPEG πριν την αποστολή</string>
+    <string name="send_heif_summary">Μετατροπή εικόνων HEIF σε JPEG πριν την αποστολή</string>
+    <string name="send_heif_title">Μετατροπή HEIF πριν την αποστολή</string>
     <string name="send_multiple_files_hint_format">Αποστολή πολλαπλών αρχείων ( %s )</string>
     <string name="send_public_url">Αποστολή URL του άλμπουμ</string>
     <string name="send_secret_file_failed">Αδύνατη η Κοινή χρήση</string>

@@ -33,7 +33,7 @@
     <string name="account_security_title">Ασφάλεια συσκευής</string>
     <string name="account_security_verification">Επαλήθευση λογαριασμού</string>
     <string name="account_set_up_change_type_note">Εάν θέλετε να ρυθμίσετε το λογαριασμό μεταγωγής πριν POP3 και IMAP, θα πρέπει πρώτα να διαγράψετε το λογαριασμό, την εκ νέου είσοδο ρυθμίσετε.</string>
-    <string name="account_setup_domain_invalid_toast">Ο τομέας email που εισάγατε είναι λάθος, ελέξτε το.</string>
+    <string name="account_setup_domain_invalid_toast">Εισάγετε έναν έγκυρο τομέα email</string>
     <string name="account_setting">Λογαριασμοί</string>
     <string name="account_setting_general_summry">Ορισμός κοινών λειτουργιών μέσω Email</string>
     <string name="account_setting_general_title">Ρυθμίσεις λειτουργιών</string>
@@ -244,6 +244,9 @@
     <string name="attachment_canceling">Ακυρώνεται...</string>
     <string name="attachment_decoding">Ολοκληρώθηκε η λήψη συνημμένου και επεξεργάζεται, παρακαλώ περιμένετε.</string>
     <string name="attachment_download_all">Λήψη όλων</string>
+    <string name="attachment_drag_add_inline">Ενσωμάτωση</string>
+    <string name="attachment_drag_add_picture_prompt">Θέλετε να ενσωματώσετε ή επισυνάψετε τις επιλεγμένες εικόνες;</string>
+    <string name="attachment_drag_create_email_prompt">Επισυνάψτε τα επιλεγμένα αρχεία σε ένα νέο email?</string>
     <string name="attachment_image">Εικόνα</string>
     <string name="attachment_list_search_hint">Αναζήτηση συνημμένων</string>
     <string name="attachment_mgr_name">Συνημμένα</string>
@@ -338,15 +341,21 @@
     <string name="clear_display_images_whitelist_title">Εγκρίσεις καθαρής εικόνας</string>
     <string name="click_download_all_content">[ Πατήστε για λήψη περιεχομένου ]</string>
     <string name="click_to_reload">Πατήστε την οθόνη για ανανέωση</string>
+    <string name="close_custom_folder">Απόκρυψη υποφακέλων</string>
     <string name="collapse_recipient_details">Κατάρρευση των στοιχείων του δικαιούχου</string>
     <string name="colon">:</string>
     <string name="compose">Σύνθεση</string>
     <string name="compose_attachment_number_limit">Ο αριθμός  των συνημμένων δεν μπορεί να υπερβαίνει το 10 !</string>
+    <string name="compose_encrypt_lock_description">Κωδικοποίηση</string>
+    <string name="compose_encrypt_unlock_description">Αποκωδικοποίηση</string>
+    <string name="compose_encrypt_unlock_w_description">Δεν είναι αξιόπιστη επαφή</string>
     <string name="compose_event">Πρόσκληση</string>
     <string name="compose_paste_address_oob">Το κείμενο που κάνατε επικόλληση είναι πολύ μεγάλο και έχει περικοπεί</string>
     <string name="compose_picturesexceedlimits">Μπορείτε να προσθέσετε περισσότερες εικόνες ως συνημμένα</string>
     <string name="compose_send">Αποστολή</string>
     <string name="compose_sent">Ολοκληρώθηκε η αποστολή</string>
+    <string name="compose_smime_sign_description">Εφαρμογή υπογραφής</string>
+    <string name="compose_smime_unsign_description">Αφαίρεση υπογραφής</string>
     <string name="compress_failed_and_retry">"Αδυναμία συμπίεσης. Δοκιμάστε ξανά."</string>
     <string name="compress_img">Συμπίεση εικόνων</string>
     <string name="config">139 Mailbox Αριθμό Τηλεφώνου Έχει Ρυθμιστεί</string>
@@ -869,6 +878,7 @@
     <string name="message_invite_title">Πρόσκληση Ημερολογίου</string>
     <string name="message_saved">Το μήνυμα αποθηκεύτηκε ως πρόχειρο.</string>
     <string name="message_view_attachment_background_load">Θα γίνει λήψη ενός ή παραπάνω συνημμένων πριν την αποστολή του προωθημένου μηνύματός σας.</string>
+    <string name="mi_slide_menu">Πλαϊνή μπάρα</string>
     <string name="mi_sync_erroe_toast">"Παρουσιάστηκε σφάλμα δικτύου: "</string>
     <string name="mi_sync_erroe_toast_other">"Παρουσιάστηκε σφάλμα διακομιστή: "</string>
     <string name="mibill_privacy_policy_button1">Όχι τώρα</string>
@@ -1004,6 +1014,7 @@
     <string name="one_month">Μηνιαίο</string>
     <string name="one_week">Εβδομαδιαίο</string>
     <string name="open_calendar_and_contacts_permission">Να επιτρέπεται στο Mail η πρόσβαση στις επαφές και στις πληροφορίες ημερολογίου από τις Ρυθμίσεις</string>
+    <string name="open_custom_folder">Εμφάνιση υποφακέλων</string>
     <string name="open_external_storage_and_calendar_permission">Να επιτρέπεται στο Mail η πρόσβαση στο χώρο αποθήκευσης και στις πληροφορίες ημερολογίου από τις Ρυθμίσεις</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Να επιτρέπεται στο Mail η πρόσβαση στο χώρο αποθήκευσης, στις επαφές και στις πληροφορίες ημερολογίου από τις Ρυθμίσεις</string>
     <string name="open_external_storage_and_contacts_permission">Να επιτρέπεται στο Mail η πρόσβαση στο χώρο αποθήκευσης και στις επαφές από τις Ρυθμίσεις</string>
@@ -1075,9 +1086,12 @@
     <string name="pdf_save_error">Επειδή το σώμα είναι πολύ μεγάλο, δεν είναι δυνατή η εξαγωγή του ως αρχείο PDF</string>
     <string name="pdf_save_no_body">Περιμένετε μέχρι να ολοκληρωθεί επιτυχώς η φόρτωση του κειμένου και δοκιμάστε ξανά</string>
     <string name="pdf_save_to">Αποθηκεύτηκε σε</string>
+    <string name="pdf_signature_add">Προσθήκη νέας υπογραφής</string>
     <string name="pdf_signature_create_title">Σχεδιάστε την υπογραφή σας</string>
+    <string name="pdf_signature_delete">Διαγραφή υπογραφής</string>
     <string name="pdf_signature_manager_max_count">Συμπληρώθηκε ο μέγιστος αριθμός υπογραφών που μπορούν να δημιουργηθούν. Διαγράψτε τις υπάρχουσες υπογραφές πριν τις δημιουργήσετε.</string>
     <string name="pdf_signature_manager_title">Διαχείριση υπογραφών</string>
+    <string name="pdf_signature_select">Επιλογή υπογραφής</string>
     <string name="pdf_viewer_actionbar_more_other">Άνοιγμα με άλλες εφαρμογές</string>
     <string name="pdf_viewer_actionbar_more_wps">Άνοιγμα μρ WPS</string>
     <string name="pdf_viewer_file_damage_toast">Το αρχείο PDF είναι κατεστραμμένο. Ελέγξτε το αρχείο και δοκιμάστε ξανά</string>
@@ -1336,6 +1350,7 @@
     <string name="select_attachment_type">Επιλογή τύπου συνημμένου</string>
     <string name="select_no_file">Δεν υπάρχει επιλεγμένο συνημμένο να μοιραστείτε</string>
     <string name="select_path">Επιλέξτε διαδρομή</string>
+    <string name="selected">Επιλεγμένα</string>
     <string name="send">Αποστολή</string>
     <string name="send_encrypt_dialog_fail_content">Φαίνεται ότι ο παραλήπτης δεν διαθέτει το αξιόπιστο πιστοποιητικό που απαιτείται για την κρυπτογράφηση αυτού του μηνύματος ηλεκτρονικού ταχυδρομείου. Να σταλεί κανονικό μήνυμα ηλεκτρονικού ταχυδρομείου;</string>
     <string name="send_encrypt_dialog_fail_title">Δεν είναι δυνατή η αποστολή κρυπτογραφημένης αλληλογραφίας</string>
@@ -1530,6 +1545,7 @@
     <string name="undo">Αναίρεση</string>
     <string name="unknow">Άγνωστο</string>
     <string name="unread_string">αδιάβαστη συνομιλία</string>
+    <string name="unselected">Αποεπιλεγμένα</string>
     <string name="unzip_file_failed">Αδυναμία αποσυμπίεσης αρχείου</string>
     <string name="update_domain_summary">Ενημέρωση της λίστας των διαθέσιμων τομέων και παραμέτρων</string>
     <string name="update_domain_title">Ενημέρωση ρυθμίσεων τομέα</string>
@@ -1567,7 +1583,7 @@
     <string name="wait_for_sync_title">Αναμονή για συγχρονισμό</string>
     <string name="wait_help_context">wait</string>
     <string name="wait_while_update_db">Ενημέρωση βάσης δεδομένων...</string>
-    <string name="web_view_load_error_tip">Το σώμα αυτού του μηνύματος ηλεκτρονικού ταχυδρομείου δεν μπορούσε να εμφανιστεί σωστά. Αναφέρετε αυτό το πρόβλημα στην ομάδα QQ (952315061).</string>
+    <string name="web_view_load_error_tip">Το πρόγραμμα περιήγησής σας κατέρρευσε. Κατεβάστε την τελευταία έκδοση του Webview από το Google Play για να επιλύσετε αυτό το πρόβλημα.</string>
     <string name="webview_logout">Μπορείτε να προσπαθήσετε να συνδεθείτε ξανά</string>
     <string name="webview_logout_cancel">Όχι τώρα</string>
     <string name="webview_logout_sure">Προσπαθήστε ξανά</string>
