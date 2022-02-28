@@ -1755,7 +1755,7 @@
     <string name="reject_via_sms_summary">Εμφάνιση πλήκτρων για τον τερματισμό κλήσης και αποστολής SMS</string>
     <string name="reject_via_sms_title">Γρήγορες απαντήσεις</string>
     <string name="relay_call_answered_by_other_devices">Αυτή η κλήση απαντήθηκε σε άλλη συσκευή.</string>
-    <string name="relay_call_released_due_to_connect_lost">Η σύνδεση χάθηκε. Συνεχίστε με την κλήση στην άλλη συσκευή σας.</string>
+    <string name="relay_call_released_due_to_connect_lost">Η σύνδεση χάθηκε. Συνεχίστε την κλήση στην άλλη συσκευή σας.</string>
     <string name="relay_connection_service_label">Ενσωματωμένες κλήσεις RELAY</string>
     <string name="remaining_length_format">%1$s υπόλοιπο</string>
     <string name="remove">Διαγραφή</string>
@@ -2370,7 +2370,7 @@
     <string name="wild_prompt_str">Αντικατάσταση χαρακτήρα μπαλαντέρ με</string>
     <string name="window_animation_scale_title">Κλίμακα κινούμενου παραθύρου</string>
     <string name="wrong_password">Ο κωδικός που δώσατε είναι λανθασμένος</string>
-    <string name="xcap_setting_summary">Αποκλεισμός κλήσεων, Φωνητικού ταχυδρ &amp; Προώθηση, &amp; Αναμονή κλήσεων</string>
+    <string name="xcap_setting_summary">Φραγή κλήσεων, Τηλεφωνητής &amp; Προώθηση κλήσης &amp; Αναμονή κλήσης</string>
     <string name="xcap_setting_title">Ρυθμίσεις Υπηρεσίας Κλήσεων</string>
     <string name="zen_alarm_warning">Δεν θα ακούσετε τον επόμενο συναγερμό σας %1$s</string>
     <string name="zen_alarm_warning_indef">Δεν θα ακούσετε τον επόμενο συναγερμό σας %1$s εκτός αν το απενεργοποιήσετε πριν από αυτό</string>

@@ -47,6 +47,7 @@
     <string name="alert_message_delete_excerpt">Διαγραφή αυτής της σημείωσης; Το απόσπασμα θα διαγραφεί επίσης.</string>
     <string name="alert_message_delete_note">Διαγραφή αυτής της σημείωσης;</string>
     <string name="alert_message_edit_anyway">Εάν επεξεργαστείτε αυτό το σημείωμα ορισμένα από τα περιεχόμενά του μπορεί να χαθούν.</string>
+    <string name="alert_message_edit_anyway_new">Αυτή η σημείωση περιέχει μη υποστηριζόμενο περιεχόμενο. Η επεξεργασία του ενδέχεται να προκαλέσει αλλαγές στη μορφή ή απώλεια δεδομένων.</string>
     <string name="alert_message_restore">Αδυναμία ανοίγματος αυτής της σημείωσης. Κάντε πρώτα επαναφορά για να επεξεργαστείτε τα περιεχόμενά της.</string>
     <string name="alert_title_delete">Διαγραφή σημείωσης</string>
     <string name="alert_title_edit_anyway">Αυτό το σημείωμα περιέχει μη υποστηριζόμενο περιεχόμενο</string>
@@ -179,6 +180,7 @@
     <string name="error_send_empty_note">Αδυναμία αποστολής κενής σημείωσης</string>
     <string name="error_send_empty_note_to_weibo">Αδυναμία αποστολής κενής σημείωσης στο Weibo</string>
     <string name="error_unsupport_content">Αυτή η σημείωση περιέχει περιεχόμενο που δεν υποστηρίζεται. Πατήστε εδώ για να βρείτε την απαιτούμενη εφαρμογή</string>
+    <string name="error_unsupport_content_format">Αυτή η σημείωση περιέχει μη υποστηριζόμενο περιεχόμενο. Ενημερώστε σε έκδοση %1$s ή νεότερη.</string>
     <string name="error_widget_exist_for_send_to_desktop">Η σημείωση υπάρχει ήδη στην Αρχική Οθόνη</string>
     <string name="evening">PM</string>
     <string name="exceed_todo_text_limitation">Η περιγραφή της εργασίας είναι πολύ μεγάλη.</string>
@@ -578,6 +580,12 @@
     <string name="select_account_prompt">Συγχρονισμός σημειώσεων</string>
     <string name="send">Αποστολή</string>                                    
     <string name="set_alarm_description">Ορισμός ξυπνητηριού</string>
+    <string name="setting_big_screen_layout_columns">Πλαϊνή μπάρα</string>
+    <string name="setting_big_screen_layout_flat">Πλακίδια</string>
+    <string name="setting_big_screen_layout_title">Διάταξη μεγάλης οθόνης</string>
+    <string name="setting_layout">Διάταξη</string>
+    <string name="setting_micloud_sync_title">Συγχρονισμός με το cloud</string>
+    <string name="setting_note_list_layout_title">Διάταξη</string>
     <string name="setting_other">ΑΛΛΟ</string>
     <string name="setting_privacy">Πολιτική Απορρήτου</string>
     <string name="single_link_excerpt_saving">Αποθήκευση στοιχείων…</string>
@@ -811,6 +819,15 @@
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="view_all_notes">Προβολή όλων</string>
+    <string name="warn_cannot_add_new_bullet">"Δεν μπορείτε να προσθέσετε νέα λίστα με κουκκίδες επειδή η σημείωση είναι πολύ μεγάλη"</string>
+    <string name="warn_cannot_add_new_checkbox">"Δεν μπορείτε να προσθέσετε νέο πλαίσιο ελέγχου επειδή η σημείωση είναι πολύ μεγάλη"</string>
+    <string name="warn_cannot_add_new_doodle">"Δεν μπορείτε να προσθέσετε νέο doodle επειδή η σημείωση είναι πολύ μεγάλη"</string>
+    <string name="warn_cannot_add_new_element">"Δεν μπορείτε να προσθέσετε νέο στοιχείο επειδή η σημείωση είναι πολύ μεγάλη"</string>
+    <string name="warn_cannot_add_new_link_card">"Δεν μπορείτε να προσθέσετε νέο σύνδεσμο επειδή η σημείωση είναι πολύ μεγάλη"</string>
+    <string name="warn_cannot_add_new_picture">"Δεν μπορείτε να προσθέσετε νέα εικόνα επειδή η σημείωση είναι πολύ μεγάλη"</string>
+    <string name="warn_cannot_add_new_style">"Δεν μπορείτε να προσθέσετε νέα μορφή επειδή η σημείωση είναι πολύ μεγάλη"</string>
+    <string name="warn_disable_edit_in_browse_mode">"Δεν μπορείτε να επεξεργαστείτε σημειώσεις σε λειτουργία μόνο για ανάγνωση"</string>
+    <string name="warn_enter_browse_mode">"Είστε σε λειτουργία μόνο για ανάγνωση"</string>
     <string name="web_sso_login_fail">Πρέπει να συνδεθείτε ξανά</string>
     <string name="web_sso_login_message">Σύνδεση…</string>
     <string name="webview_reload">Δοκιμάστε ξανά</string>

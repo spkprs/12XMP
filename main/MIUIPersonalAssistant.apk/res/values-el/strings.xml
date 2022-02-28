@@ -369,6 +369,7 @@
     <string name="pa_express_empty_extra">Πίστα</string>
     <string name="pa_express_empty_title">Δεν υπάρχουν πληροφορίες παράδοσης εδώ</string>
     <string name="pa_express_i_known">OK</string>
+    <string name="pa_express_input_again">Συνδεθείτε ξανά</string>
     <string name="pa_express_inqiury_select_logistics">Επιλέξτε υπηρεσία ταχυμεταφορών</string>
     <string name="pa_express_inquiry">Ελέγξτε την παραγγελία</string>
     <string name="pa_express_inquiry_frequently_used_logistics">Δημοφιλής</string>
@@ -396,6 +397,9 @@
     <string name="pa_express_provider_miguo">Mi Express</string>
     <string name="pa_express_provider_mimall">Mi Store</string>
     <string name="pa_express_provider_shunfeng">SF Express</string>
+    <string name="pa_express_query_fail_content_input_again">"Δεν μπόρεσα να βρω πληροφορίες σχετικά με την ταχεία παράδοση. Ελέγξτε τον αριθμό παρακολούθησης και προσπαθήστε ξανά."</string>
+    <string name="pa_express_query_fail_content_manual_select">"Δεν μπόρεσα να βρω πληροφορίες σχετικά με την ταχεία παράδοση. Δοκιμάστε να επιλέξετε χειροκίνητα μια εταιρεία παράδοσης."</string>
+    <string name="pa_express_query_fail_title">"Αδυναμία λήψης πληροφοριών"</string>
     <string name="pa_express_query_history">Ιστορικό παραγγελιών</string>
     <string name="pa_express_send">Στείλετε</string>
     <string name="pa_express_send_provider_cainiao">Guoguo</string>
@@ -447,8 +451,8 @@
     <string name="pa_express_state_unknown">Δεν υπάρχουν ακόμη στοιχεία</string>
     <string name="pa_express_tail_number">Αριθμός παραγγελίας: %1$s</string>
     <string name="pa_express_title">Γρήγορη παράδοση</string>
-    <string name="pa_express_widget_logout">Συνδεθείτε για να παρακολουθείτε τα πακέτα σας</string>
-    <string name="pa_express_widget_order_42">Εντόπισε πακέτο</string>
+    <string name="pa_express_widget_logout">Συνδεθείτε για να δείτε τα πακέτα ταχείας παράδοσης</string>
+    <string name="pa_express_widget_order_42">Εισάγετε τον αριθμό παρακολούθησης</string>
     <string name="pa_express_widget_post">Αποστολή πακέτου</string>
     <string name="pa_finish">Τέλος</string>
     <string name="pa_font_mi_lan_pro_medium">mipro-medium</string>
@@ -534,6 +538,7 @@
     <string name="pa_picker_detail_install_tip_un_upgrade">Ενημέρωση της εφαρμογής πρώτα</string>
     <string name="pa_picker_detail_launcher_screen_lock">Η διάταξη της αρχικής οθόνης είναι κλειδωμένη. Δεν είναι δυνατή η προσθήκη γραφικών.</string>
     <string name="pa_picker_detail_maml_download_error">Δεν ήταν δυνατή η λήψη</string>
+    <string name="pa_picker_detail_maml_downloading">Λήψη στοιχείων…</string>
     <string name="pa_picker_detail_modify_maml">Επεξ/σία</string>
     <string name="pa_picker_detail_net_error">Σφάλμα δικτύου. Πατήστε για να δοκιμάσετε ξανά.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Μισό λεπτό…</string>

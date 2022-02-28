@@ -517,7 +517,13 @@
     <string name="mms_block_hint">Αυτός ο αποστολέας δεν βρίσκεται στις επαφές σας.\nΑυτό το μήνυμα μπορεί να είναι ανεπιθύμητο.</string>
     <string name="mms_block_hint_highlight">Αποκλεισμός MMS</string>
     <string name="mms_main_purpose">"Για να έχετε πρόσβαση στην πλήρη λειτουργικότητα του προγράμματος ανταλλαγής μηνυμάτων, ενεργοποιήστε το Mi Μήνυμα και το Smart Messaging."</string>
+    <string name="mms_mi_message_main_purpose">Καλώς ήρθατε στο Mi Message! Για την ενεργοποίηση του Mi Message απαιτείται ένα εξερχόμενο μήνυμα SMS. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
+    <string name="mms_mi_message_request_notice">Θέλουμε να αξιοποιήσετε στο έπακρο το Mi Message.</string>
+    <string name="mms_mx_privacy_policy">Mi Message Πολιτική απορρήτου</string>
+    <string name="mms_smart_msg_main_purpose">Το Smart Messaging μπορεί να αναγνωρίζει αναγνωριστικά αποστολέα, να παρέχει υπηρεσίες έξυπνων μενού και να εντοπίζει ύποπτα μηνύματα.</string>
+    <string name="mms_smart_msg_privacy_policy">Smart Messaging Πολιτική απορρήτου</string>
     <string name="mms_title">Messaging</string>
+    <string name="mms_user_agreement">Συμφωνία χρήστη</string>
     <string name="monday">Δευτέρα</string>
     <string name="monday_short">Δευ</string>
     <string name="monday_shortest">Δευ</string>
@@ -1217,14 +1223,18 @@
     <string name="system_permission_declare_disagree">"Ακύρωση"</string>
     <string name="system_permission_declare_double_link" formatted="false">Διαβάστε και συμφωνήστε με την %1s και %2s πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Καλώς ήλθατε στο %1s! %2s</string>
+    <string name="system_permission_declare_mi_message">Καλώς ήρθατε στο Mi Message!</string>
     <string name="system_permission_declare_no_say_no">Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και τις πολιτικές απορρήτου.\nΕάν δεν συμφωνείτε να εκχωρήσετε τέτοιες Άδειες ή να κάνετε κοινή χρήση και να αποστείλετε τα προσωπικά σας στοιχεία, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή.</string>
     <string name="system_permission_declare_privacy_declare">Η εφαρμ. %1s πρέπει να συλλέξει τα δεδομένα σας και απαιτεί τις ακόλουθες Άδειες για να λειτουργήσει κανονικά:</string>
     <string name="system_permission_declare_privacy_declare_new">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τις ακόλουθες Άδειες για να μπορεί να λειτουργεί κανονικά:</string>
     <string name="system_permission_declare_privacy_link">Για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστη, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και αποδεχτείτε τους %1s.</string>
+    <string name="system_permission_declare_rcs">Καλώς ήρθατε στο 5G Messaging!</string>
     <string name="system_permission_declare_revoke_path">Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας και να απενεργοποιήσετε τις υπηρεσίες στις ρυθμίσεις.</string>
     <string name="system_permission_declare_single_link">Διαβάστε και συμφωνήστε με την %1s πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="system_permission_declare_smart_message">Καλώς ήρθατε στο Smart Messaging!</string>
     <string name="system_permission_declare_triple_link" formatted="false">Διαβάστε και συμφωνήστε με την %1s, %2s, και %3s πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="system_permission_declare_use_network">\"Σύνδεση στο δίκτυο\"</string>
+    <string name="system_permission_declare_user_agree">Συμφωνώ</string>
     <string name="system_permission_disabled">Δεν χορηγήθηκε</string>
     <string name="system_permission_enabled">Παραχωρήθηκε</string>
     <string name="system_permission_perm_agree_desc">Επιτρέψτε σε αυτή την εφαρμογή να συνδεθεί στο Internet και παραχωρήστε τα προαιρετικά δικαιώματα για να μπορέσετε να χρησιμοποιήσετε όλες τις λειτουργίες της.</string>
@@ -1256,6 +1266,7 @@
     <string name="system_permission_perm_write_mms">Επιτρέψτε την αποστολή μηνυμάτων για να γράψετε MMS</string>
     <string name="system_permission_perm_write_sms">Επιτρέψτε την αποστολή μηνυμάτων για να γράψετε SMS</string>
     <string name="system_permission_requested">Ρωτήστε</string>
+    <string name="system_permission_user_privacy">Πριν συνεχίσετε, διαβάστε και συμφωνήστε με τους ακόλουθους όρους και προϋποθέσεις.</string>
     <string name="tab_finance">Οικονομία</string>
     <string name="tab_message">Μηνύματα</string>
     <string name="tab_promotions">Προωθητικά</string>
