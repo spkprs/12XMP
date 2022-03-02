@@ -321,6 +321,9 @@
     <string name="exo_download_downloading">Λήψη</string>
     <string name="exo_download_failed">Η λήψη απέτυχε</string>
     <string name="exo_download_notification_channel_name">Λήψεις</string>
+    <string name="exo_download_paused">Λήψεις σε παύση</string>
+    <string name="exo_download_paused_for_network">Λήψεις σε αναμονή για δίκτυο</string>
+    <string name="exo_download_paused_for_wifi">Λήψεις σε αναμονή για WiFi</string>
     <string name="exo_download_removing">Κατάργηση λήψεων</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>

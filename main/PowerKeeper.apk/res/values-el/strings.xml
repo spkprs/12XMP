@@ -92,7 +92,7 @@
     <string name="pk_ma">" μΑ"</string>
     <string name="pk_reset">Επαναφ.</string>
     <string name="pk_start">Έναρξη</string>
-    <string name="pk_stop">Stop</string>
+    <string name="pk_stop">Τέλος</string>
     <string name="pk_time">Χρόνος</string>
     <string name="pk_tm">Διαφανής λειτουργία</string>
     <string name="pk_unit_a">Τιμή (ma)</string>
@@ -150,4 +150,7 @@
     <string name="vip_feedback_enable">Ενεργοποιήστε τα σχόλια VIP</string>
     <string name="warm_configure">Ρυθμίσεις ελέγχου θερμοκρασίας</string>
     <string name="warm_performance_tip">Η συσκευή σας θα ζεσταίνεται όταν εκτελούνται περισσότερες διαδικασίες.</string>
+    <string name="pk_proc">Εμφάνιση ενεργών διαδικασιών</string>
+    <string name="pk_int">Ενημ. κάθε (δ.):</string>
+    <string name="pk_loading">Φόρτωση...</string>
 </resources>

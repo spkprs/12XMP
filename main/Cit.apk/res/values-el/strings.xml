@@ -356,8 +356,9 @@
     <string name="cit_headset_pull_finish_test">Αποσυνδεδεμένα ακουστικά, τελική δοκιμή</string>
     <string name="cit_headset_pull_hint">Αποσυνδέστε τα ακουστικά τώρα</string>
     <string name="cit_hide_menu">Απόκρυψη μενού</string>
+    <string name="cit_history_test_result">Ιστορ. Ελέγχων</string>
     <string name="cit_hvdcp_charger_in">Φόρτιση μέσω (USB_HVDCP)</string>
-    <string name="cit_init_fp_fod_test_tip">Init Fingerprint Test Environment</string>
+    <string name="cit_init_fp_fod_test_tip">Περιβάλον δοκ. Δακτ. Αποτυπ.</string>
     <string name="cit_kayboard_home_down">Κουμπί: HOME</string>
     <string name="cit_kayboard_power_down">Κουμπί: POWER</string>
     <string name="cit_kayboard_volume_down">Κουμπί: VOLUME DOWN</string>

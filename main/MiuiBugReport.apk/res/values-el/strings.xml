@@ -123,7 +123,7 @@
     <string name="bugreport_dialog_submit_content"><Data>"Αποθήκευση τώρα τα αρχεία καταγραφής λογισμικού σε αυτήν τη συσκευή. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και τα δεδομένα τοποθεσίας σας. Μην μοιράζεστε αρχεία καταγραφής με κανέναν άλλο εάν δεν θέλετε να εκτίθενται αυτές οι πληροφορίες. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a>."</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Αγγίξτε για προβολή.</string>
     <string name="bugreport_dump_complete_notification_title">Η αναφορά σφάλματος δημιουργήθηκε</string>
-    <string name="bugreport_dump_start_notification_summary">Διαρκεί μερικά λεπτά.</string>
+    <string name="bugreport_dump_start_notification_summary">"Δημιουργία "</string>
     <string name="bugreport_dump_start_notification_title">Δημιουργία αρχείου...</string>
     <string name="bugreport_tool_log_dumping_desc">Χρειάζεται περίπου ένα λεπτό</string>
     <string name="bugreport_tool_log_dumping_title">Δημιουργία αναφοράς σφάλματος</string>
