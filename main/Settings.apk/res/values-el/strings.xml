@@ -621,7 +621,7 @@
     <string name="auto_brightness_very_low_title">Πολύ χαμηλή</string>
     <string name="auto_caps">Αυτόματη εισαγωγή κεφαλαίων</string>
     <string name="auto_caps_summary">Κεφαλαίο το πρώτο γράμμα στις προτάσεις</string>
-    <string name="auto_clean_description">Σχετικά με αυτή τη λειτουργία\n1. Εκτελέστε αυτή τη λειτουργία μία ή δύο φορές εάν διαπιστώσετε ότι το ηχείο σας είναι ελαφρώς μπλοκαρισμένο από σκόνη.\n2. Εάν είναι έντονα μπλοκαρισμένο, εκτελέστε αυτή τη λειτουργία 2-5 φορές ενώ κουνάτε τη συσκευή σας με το ηχείο στραμμένο προς τα κάτω.</string>
+    <string name="auto_clean_description">Σχετικά με αυτή τη λειτουργία\n1. Εκτελέστε αυτή τη λειτουργία μία ή δύο φορές εάν διαπιστώσετε ότι το ηχείο σας είναι ελαφρώς μπλοκαρισμένο από σκόνη.\n2. Εάν είναι έντονα μπλοκαρισμένο, εκτελέστε αυτή τη λειτουργία %1$d-%2$d φορές ενώ κουνάτε τη συσκευή σας με το ηχείο στραμμένο προς τα κάτω.</string>
     <string name="auto_clean_summary">Παίξτε έναν ήχο 30 δευτ. για να καθαρίσετε το ηχείο</string>
     <string name="auto_clean_summary_new">Παίξτε ένα ηχητικό σήμα %d-δευτ. για να καθαρίσετε το ηχείο. Χρησιμοποιήστε αυτή τη λειτουργία πολλές φορές στη σειρά για σημαντικές ποσότητες βρωμιάς.</string>
     <string name="auto_clean_title">Καθαρισμός ηχείου</string>
@@ -1330,6 +1330,8 @@
     <string name="bt_absVolume_open_dialog_title">Προσοχή</string>
     <string name="bt_absVolume_pre_title">Απόλυτη ένταση</string>
     <string name="bt_absVolume_summary">"Διατηρήστε την ένταση των συσκευών Bluetooth και του τηλεφώνου αυστηρά σταθερή. Μπορείτε να ενεργ-απενεργοποιήσετε αυτήν τη δυνατότητα όταν τα μέσα δεν αναπαράγονται στο παρασκήνιο."</string>
+    <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive θα παρέχει αναπαραγωγή υψηλής ποιότητας και θα μειώσει την καθυστέρηση ήχου για παιχνίδια και βίντεο ενώ θα αυξήσει την κατανάλωση ενέργειας. Η αναπαραγωγή μπορεί να διακοπεί λόγω περιορισμών υλικού Bluetooth και περιβαλλοντικής παρέμβασης.</string>
+    <string name="bt_aptx_adaptive_open_dialog_title">Μετάβαση σε aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Διόρθωση προβλημάτων ήχου</string>
     <string name="bt_audio_share_property">Κοινή χρήση</string>
     <string name="bt_audio_share_switch_summary">Κοινή χρήση ήχου με συνδεδεμένες συσκευές Bluetooth</string>
@@ -1345,6 +1347,8 @@
     <string name="bt_dialog_settings">Ρυθμίσεις</string>
     <string name="bt_hci_snoop_log">Ενεργοποίηση καταγραφής snoop Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Σύλληψη όλων των πακέτων Bluetooth HCI σε ένα αρχείο</string>
+    <string name="bt_lc3plus_open_dialog_summary">LC3plus θα παρέχει αναπαραγωγή υψηλής ποιότητας και θα μειώνει την καθυστέρηση του ήχου για παιχνίδια και βίντεο, ενώ θα αυξάνει την κατανάλωση ενέργειας. Η αναπαραγωγή μπορεί να είναι δύσκολη λόγω περιορισμών υλικού Bluetooth και περιβαλλοντικής παρέμβασης.</string>
+    <string name="bt_lc3plus_open_dialog_title">Μετάβαση σε LC3plus?</string>
     <string name="bt_ldac_declaration">Όταν μια συσκευή Bluetooth υποστηρίζει LDAC, θα συνδεθεί από προεπιλογή. Το LDAC παρέχει εμπειρία υψηλής ποιότητας ήχου, αλλά και αυξάνει την κατανάλωση ενέργειας. Ενδέχεται να προκύψουν ζητήματα κατά την αναπαραγωγή λόγω περιορισμών υλικού Bluetooth</string>
     <string name="bt_ldac_dialog_summary">Το LDAC παρέχει εμπειρία ήχου υψηλής ποιότητας, αλλά αυξάνει και την κατανάλωση ενέργειας. Αυτή η δυνατότητα μπορεί να απενεργοποιηθεί στις Ρυθμίσεις.</string>
     <string name="bt_ldac_dialog_title">Η τρέχουσα συσκευή υποστηρίζει το LDAC, το οποίο έχει συνδεθεί από προεπιλογή:</string>
@@ -4144,12 +4148,15 @@
     <string name="miheadset_ancMedium">Καθημερινά</string>
     <string name="miheadset_ancMild">Απαλό</string>
     <string name="miheadset_anc_indicate">Σύνδεση και ζεύξη ακουστικών</string>
+    <string name="miheadset_anc_manual">Εγχειρίδιο</string>
     <string name="miheadset_audio_mode">Ποιότητα ήχου</string>
     <string name="miheadset_audio_mode_high">Υψηλή</string>
     <string name="miheadset_audio_mode_listen">Χαμηλή</string>
     <string name="miheadset_audio_mode_normal">Κανονική</string>
     <string name="miheadset_audio_quality">Ποιότητα ήχου</string>
     <string name="miheadset_audio_quality_summary">Επιλογή κωδικ/τή ήχου Bluetooth</string>
+    <string name="miheadset_audio_sound_quality">Ποιότητα ήχου</string>
+    <string name="miheadset_audio_sound_quality_summary">Επιλογή κωδικ/τή ήχου Bluetooth</string>
     <string name="miheadset_auto_ack_mode">"Απαντήστε σε κλήσεις αυτόματα όταν φοράτε ακουστικά"</string>
     <string name="miheadset_auto_ack_mode_summary">Αυτόματη απάντηση κλήσεων</string>
     <string name="miheadset_auto_answer_call">Αυτόματη απάντηση κλήσεων</string>
@@ -4159,6 +4166,7 @@
     <string name="miheadset_cancel_device">Ακύρωση</string>
     <string name="miheadset_checkUpdate">Έλεγχος για ενημερώσεις</string>
     <string name="miheadset_closeAnc">Off</string>
+    <string name="miheadset_codec_sample_rate">Bluetooth ρυθμός δειγμ/ληψίας ήχου</string>
     <string name="miheadset_connectHeadsetForFw">Σύνδεση ακουστικών για προβολή της έκδοσης υλικολογισμικού</string>
     <string name="miheadset_connect_play_music">Αυτόματη εκκίνηση αναπαραγωγής όταν τα ακουστικά είναι συνδεδεμένα</string>
     <string name="miheadset_connect_toast_tips">Σύνδεση ακουστικών πρώτα</string>
@@ -4309,14 +4317,21 @@
     <string name="miui_master_clear_summary">Διαγράφει όλα τα δεδομένα στο τηλέφωνο</string>
     <string name="miui_more_special_feature">Εξερευνήστε νέες λειτουργίες</string>
     <string name="miui_optimization_disabled">"Ανενεργή βελτιστοποίηση MIUI "</string>
+    <string name="miui_sos_around_photo_summary">Επισυνάψτε %d φωτογραφίες από την μπροστινή και την πίσω κάμερα στο μήνυμα κειμένου για αποστολή στις επαφές έκτακτης ανάγκης.</string>
+    <string name="miui_sos_around_photo_title">Επισύναψη φωτογραφίες</string>
+    <string name="miui_sos_around_voice_summary">Επισυνάψτε μια ηχογράφηση διάρκειας %d δευτ. στο μήνυμα κειμένου για αποστολή στις επαφές έκτακτης ανάγκης.</string>
+    <string name="miui_sos_around_voice_title">Επισύναψη ηχογράφησης %d δευτ.</string>
     <string name="miui_sos_audio_summary">Αναπαράγετε το μήνυμα SOS μετά την  επαφή επείγουσας ανάγκης</string>
     <string name="miui_sos_audio_title">SOS φωνητικό μήνυμα</string>
+    <string name="miui_sos_call_fire">Φωτιά</string>
+    <string name="miui_sos_call_hospital">Ασθενοφόρο</string>
     <string name="miui_sos_call_log_duration">Διάρκεια</string>
     <string name="miui_sos_call_log_none">Δεν έχω ιστορικό κλήσεων την τελευταία ώρα.</string>
     <string name="miui_sos_call_log_stranger">Άγνωστο</string>
     <string name="miui_sos_call_log_summary">Στείλτε το ιστορικό κλήσεων της τελευταίας 1 ώρας στην επαφή έκτακτης ανάγκης</string>
     <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
     <string name="miui_sos_call_log_title">Αποστολή ιστορικού κλήσεων</string>
+    <string name="miui_sos_call_police">Αστυνομία</string>
     <string name="miui_sos_call_warning_sim_unable">Χωρίς σήμα. Αδύνατη η αποστολή SMS.</string>
     <string name="miui_sos_calling_summary">Η συσκευή σας θα πραγματοποιήσει αυτόματες κλήσεις στις επαφές έκτακτης ανάγκης παίζοντας το φωνητικό μήνυμα SOS που έχετε εγγράψει. Η κλήση θα τερματιστεί αφού ολοκληρωθεί η αναπαραγωγή του μηνύματός σας. Η αυτόματη κλήση θα σταματήσει μετά την πρώτη επιτυχή προσπάθεια.</string>
     <string name="miui_sos_calling_title">Αυτόματη Κλήση</string>
@@ -4328,14 +4343,19 @@
     <string name="miui_sos_emergency_delivered_sms_noname">%1$s έλαβε το μήνυμα</string>
     <string name="miui_sos_emergency_failed_sms">"Δεν ήταν δυνατή η αποστολή μηνύματος στο %1$s (%2$s)"</string>
     <string name="miui_sos_emergency_failed_sms_noname">Αδύνατη η αποστολή μηνυμάτων σε %1s</string>
+    <string name="miui_sos_emergency_title">Έκτακτη ανάγκη SOS</string>
     <string name="miui_sos_enable_switch_summary">Πατήστε γρήγορα το κουμπί [POWER] 5 φορές για να στείλετε ένα μήνυμα κειμένου SOS με την τοποθεσία σας στις επαφές έκτακτης ανάγκης</string>
     <string name="miui_sos_enable_switch_title">Έκτακτη ανάγκη SOS</string>
     <string name="miui_sos_exit_dialog_cancel">Ακύρωση</string>
     <string name="miui_sos_exit_dialog_message">Ενεργοποιήσατε το SOS έκτακτης ανάγκης. Τα στοιχεία της τοποθεσίας αποστέλλονται στις επαφές έκτακτης ανάγκης. Απενεργοποίηση;</string>
     <string name="miui_sos_exit_dialog_ok">OK</string>
     <string name="miui_sos_exit_dialog_title">Απενεργοποίηση SOS</string>
+    <string name="miui_sos_exit_emergency_title">Απενεργοποίηση</string>
+    <string name="miui_sos_exit_send_location_title">Κοινή χρήση της τοποθεσίας σας με τις επαφές έκτακτης ανάγκης σε πραγματικό χρόνο</string>
     <string name="miui_sos_green_guard_summary">Κοινή χρήση πληροφοριών τοποθεσίας σε πραγματικό χρόνο</string>
     <string name="miui_sos_green_guard_title">Γονικοί ελέγχοι</string>
+    <string name="miui_sos_hospital_card">Ιατρική κάρτα</string>
+    <string name="miui_sos_hospital_card_important_info">Οι κρίσιμες ιατρικές πληροφορίες για τις Πρώτες Βοήθειες</string>
     <string name="miui_sos_launch_error">Αδύνατη η ενεργοποίηση έκτακτης ανάγκης SOS</string>
     <string name="miui_sos_launch_error_confirm">Το κατάλαβα</string>
     <string name="miui_sos_launch_error_message">Αδυναμία σύνδεσης στο δίκτυο κινητής τηλεφωνίας. Αδύνατη η χρήση της έκτακτης ανάγκης SOS.</string>
@@ -4362,6 +4382,7 @@
     <string name="miui_sos_settings_category">Ρυθμίσεις SOS</string>
     <string name="miui_sos_statusbar_summary">Πατήστε για απενεργοποίηση</string>
     <string name="miui_sos_statusbar_title">Έκτακτη ανάγκη SOS είναι ενεργή</string>
+    <string name="miui_sos_unknow_contract">Άγνωστη επαφή</string>
     <string name="miui_special_feature">Ειδικά χαρακτηριστικά</string>
     <string name="miui_touch_filtered_touchassistant_warning">Το παράθυρο διαλόγου αδειών καλύπτεται από τον Βοηθό Αφής. Μετακινήστε τον ή απενεργοποιήστε την λειτουργία του.</string>
     <string name="miui_touch_filtered_warning">Εάν μια εφαρμογή καλύπτει το πλαίσιο διαλόγου αδειών. Σύρετε το αντικείμενο μακριά ή κλείστε την εφαρμογή.</string>
@@ -6599,6 +6620,7 @@
     <string name="sim_multi_sims_title">Βρέθηκαν πολλαπλές κάρτες SIM</string>
     <string name="sim_name_hint">Εισάγετε το όνομα της SIM</string>
     <string name="sim_no_inserted_msg">Δεν έχει εισαχθεί καμία κάρτα SIM</string>
+    <string name="sim_no_service">Καμία υπηρεσία</string>
     <string name="sim_notification_summary">Πατήστε για να ορίσετε</string>
     <string name="sim_notification_title">Οι κάρτες SIM άλλαξαν.</string>
     <string name="sim_other_call_settings">Άλλες ρυθμίσεις κλήσεων</string>
@@ -6721,7 +6743,6 @@
     <string name="sos_privacy_dialog_button_cancel">Ακύρωση</string>
     <string name="sos_privacy_dialog_button_ok">Συμφωνώ</string>
     <string name="sos_privacy_dialog_message">Διαβάστε και συμφωνήστε με την %s πριν χρησιμοποιήσετε αυτή τη λειτουργία.\nΑυτή η λειτουργία απαιτεί Άδειες πρόσβασης στην τοποθεσία σας, χρήση δικτύων κινητής τηλεφωνίας και ανάγνωση των επαφών σας. Συμφωνείτε?</string>
-    <string name="sos_privacy_dialog_message_new_version">Το Emergency SOS σάς επιτρέπει να μοιράζεστε την τοποθεσία σας σε πραγματικό χρόνο και να στέλνετε μηνύματα κειμένου στις επαφές έκτακτης ανάγκης.\nΘα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.\nΛάβετε υπόψη ότι αυτή η εφαρμογή πρέπει να συνδεθεί στο Διαδίκτυο και απαιτεί τα ακόλουθα Άδειες για τη συλλογή των προσωπικών σας στοιχείων:\n• Πρόσβαση στον αποθηκευτικό χώρο\nΓια αποθήκευση επαφών έκτακτης ανάγκης\n• Πρόσβαση στις επαφές\nΓια την επισήμανση επαφών ως επαφών έκτακτης ανάγκης\n• Αποστολή SMS\nΓια αποστολή μηνυμάτων κειμένου σε επαφές έκτακτης ανάγκης\n• Πρόσβαση σε τοποθεσία\nΓια κοινή χρήση της τοποθεσίας σας με επαφές έκτακτης ανάγκης\nΕάν δεν συμφωνείτε να εκχωρήσετε τέτοια Άδειες ή να μοιραστείτε και να ανεβάσετε τα προσωπικά σας στοιχεία, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να επιλέξετε να απενεργοποιήσετε ή να μην χρησιμοποιήσετε το SOS έκτακτης ανάγκης σε τέτοιες περιπτώσεις.\nΠριν χρησιμοποιήσετε τις υπηρεσίες μας, διαβάστε και αποδεχτείτε τις υπηρεσίες μας %s.</string>
     <string name="sos_privacy_dialog_title">Οροι και Προϋποθέσεις</string>
     <string name="sos_privacy_policy">Πολιτική απορρήτου</string>
     <string name="sos_privacy_policy_change_endtitle">Διαβάστε και συμφωνήστε με τη νέα έκδοση του %s πριν συνεχίσετε.</string>
@@ -8559,6 +8580,7 @@
     <string name="wifi_tether_configure_ap_text">Ρύθμιση WIFI σημείου Πρόσβασης</string>
     <string name="wifi_tether_configure_ssid_default">Ανδροειδές Hotspot</string>
     <string name="wifi_tether_configure_subtext">Όνομα - %1$s Ασφάλεια  - %2$s</string>
+    <string name="wifi_tether_enabled_nosecurity_summary">"%1$s δεν είναι κρυπτ/φημένο"</string>
     <string name="wifi_tether_enabled_subtext">Το σημείο Πρόσβασης %1$s είναι ενεργό</string>
     <string name="wifi_tether_enabled_summary">%1$s είναι ενεργό</string>
     <string name="wifi_tether_failed_subtext">Σφάλμα Hotspot</string>
@@ -8944,6 +8966,23 @@
     <string name="pad_backup_summary">Αντίγραφα και Επαναφορά στοιχείων σε αυτήν τη συσκευή</string>
     <string name="pad_backup_title">Κινητή συσκευή</string>
     <string name="pad_computer_backup_summary">Αντίγραφα και Επαναφορά στοιχείων με χρήση PC</string>
+    <string name="sos_privacy_dialog_message_new_version">Το Έκτακτη ανάγκη SOS σας επιτρέπει να μοιραστείτε τη θέση σας σε πραγματικό χρόνο και να στείλετε μηνύματα κειμένου στις επαφές έκτακτης ανάγκης.
+Προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.
+Σημειώστε ότι αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο και απαιτεί τις ακόλουθες άδειες για τη συλλογή των προσωπικών σας πληροφοριών:
+• Πρόσβαση στον αποθηκευτικό χώρο
+Για την αποθήκευση επαφών έκτακτης ανάγκης
+• Πρόσβαση στις επαφές
+Για την επισήμανση επαφών ως επαφών έκτακτης ανάγκης
+• Αποστολή SMS
+Για την αποστολή μηνυμάτων κειμένου σε επαφές έκτακτης ανάγκης
+• Πρόσβαση στην τοποθεσία
+Για την κοινή χρήση της τοποθεσίας σας με τις επαφές έκτακτης ανάγκης
+• Ηχογράφηση ήχου
+Για την αποστολή ηχογραφήσεων ήχου περιβάλλοντος σε επαφές έκτακτης ανάγκης
+•  Χρήση κάμερας
+Για την αποστολή φωτογραφιών σε επαφές έκτακτης ανάγκης
+Εάν δεν συμφωνείτε να παραχωρήσετε τέτοια δικαιώματα ή να μοιραστείτε και να ανεβάσετε τις προσωπικές σας πληροφορίες, δεν θα μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή. Μπορείτε να επιλέξετε να απενεργοποιήσετε ή να μην χρησιμοποιήσετε το Έκτακτη ανάγκη SOS σε τέτοιες περιπτώσεις.
+Πριν χρησιμοποιήσετε τις υπηρεσίες μας, διαβάστε και συμφωνήστε με την %s μας.</string>
     <string name="pad_how_backup_content">"Μπορείτε να αποθηκεύσετε αντίγραφα τοπικά ή στο Xiaomi Cloud. Τα τοπικά αντίγραφα μπορούν να αποθηκευτούν στη φορητή συσκευή, τον υπολογιστή ή τη μονάδα USB σας.
 
 Κινητή συσκευή

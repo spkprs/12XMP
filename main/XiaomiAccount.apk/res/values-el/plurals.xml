@@ -5,4 +5,8 @@
         <item quantity="other">" βήματα"</item>
         <item quantity="one">" βήμα"</item>
      </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Βρέθηκαν %d αποτελέσματα</item>
+        <item quantity="one">Βρέθηκε %d αποτελέσμα</item>
+    </plurals>
 </resources>

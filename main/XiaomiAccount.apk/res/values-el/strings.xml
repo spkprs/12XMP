@@ -90,6 +90,8 @@
     <string name="agreement_and_privacy">Όροι και προϋποθέσεις</string>
     <string name="app_name">Mi Λογαριασμός</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="area_code_no_search_result">"Δεν ήταν δυνατή η εύρεση αποτελεσμάτων"</string>
+    <string name="area_code_search_hint">Αναζήτηση χώρας ή περιοχής</string>
     <string name="auth_fail_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά αργότερα</string>
     <string name="authorize_title">Εξουσιοδότηση</string>
     <string name="bind_facebook">Σύνδεση λογαριασμού Facebook</string>

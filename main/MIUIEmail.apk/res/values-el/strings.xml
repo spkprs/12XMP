@@ -33,7 +33,6 @@
     <string name="account_security_title">Ασφάλεια συσκευής</string>
     <string name="account_security_verification">Επαλήθευση λογαριασμού</string>
     <string name="account_set_up_change_type_note">Εάν θέλετε να ρυθμίσετε το λογαριασμό μεταγωγής πριν POP3 και IMAP, θα πρέπει πρώτα να διαγράψετε το λογαριασμό, την εκ νέου είσοδο ρυθμίσετε.</string>
-    <string name="account_setup_domain_invalid_toast">Εισάγετε έναν έγκυρο τομέα email</string>
     <string name="account_setting">Λογαριασμοί</string>
     <string name="account_setting_general_summry">Ορισμός κοινών λειτουργιών μέσω Email</string>
     <string name="account_setting_general_title">Ρυθμίσεις λειτουργιών</string>
@@ -51,6 +50,7 @@
     <string name="account_settings_description_label">Όνομα λογαριασμού</string>
     <string name="account_settings_display">Προβολή</string>
     <string name="account_settings_does_not_support_pop">Το πρωτόκολλο POP3 δεν υποστηρίζει τη ρύθμιση αυτού του στοιχείου</string>
+    <string name="account_settings_does_not_support_pop_attachment">"Το POP3 μπορεί να κατεβάζει αυτόματα συνημμένα αρχεία, αλλά δεν μπορεί να τα επεξεργαστεί"</string>
     <string name="account_settings_edit_quick_responses_label">Γρήγορες απαντήσεις</string>
     <string name="account_settings_edit_quick_responses_summary">Επεξεργαστείτε τα σύντομα μηνύματα που μπορείτε να επικολλήσετε σε μηνύματα ηλεκτρονικού ταχυδρομείου σας</string>
     <string name="account_settings_enforced_label">Πολιτικές</string>
@@ -114,6 +114,7 @@
     <string name="account_setup_correct_address_tips">Εισάγετε έγκυρο email</string>
     <string name="account_setup_creating_account_msg">Δημιουργία λογαριασμού…</string>
     <string name="account_setup_deleting_account_msg">Διαγραφή λογαριασμού…</string>
+    <string name="account_setup_domain_invalid_toast">Εισάγετε έναν έγκυρο τομέα email</string>
     <string name="account_setup_exchange_certificate_title">Πιστοποιητικό πελάτη</string>
     <string name="account_setup_exchange_device_id_label">ID Συσκευής</string>
     <string name="account_setup_exchange_no_certificate">Κανένα</string>
@@ -192,7 +193,6 @@
     <string name="account_sync_settings_settings">Συγχρονισμός επαφών και ημερολογίου</string>
     <string name="account_sync_settingstip_description">Συγχρονισμός</string>
     <string name="account_waiting_for_folders_msg">Φόρτωση λίστας φακέλων…</string>
-    <string name="privacy_and_private_permission">Συναίνεση στη Συμφωνία Χρήστη &amp; Πολιτική Απορρήτου</string>
     <string name="action_filter">Φίλτρο</string>
     <string name="actionbar_more_option">Περισσότερες επιλογές</string>
     <string name="activity_folder_selection">Επιλέξτε φάκελο</string>
@@ -465,6 +465,10 @@
     <string name="del_account_questionnair_hint">Μπορείτε να μας πείτε γιατί διαγράφετε αυτόν τον λογαριασμό;</string>
     <string name="delete">Διαγραφή</string>
     <string name="delete_contact_content">Να διαγραφεί αυτή η επαφή τώρα;</string>
+    <string name="delete_message_dialog_content">Θέλετε να διαγράψετε αυτό το email και να μπλοκάρετε τον αποστολέα;?</string>
+    <string name="delete_message_dialog_left_button">Διαγραφή και αποκλεισμός</string>
+    <string name="delete_message_dialog_right_button">Διαγραφή μόνο</string>
+    <string name="delete_message_dialog_title">Διαγραφή email</string>
     <string name="delete_message_event">Διαγραφή αυτής της πρόσκλησης;</string>
     <string name="delete_message_flow">Διαγραφή ροής μηνυμάτων</string>
     <string name="delete_message_flow_keywords">διαγραφή ροής μηνυμάτων;διαγραφή ανακατεύθυνσης</string>
@@ -678,6 +682,7 @@
     <string name="from_heading">"Από: "</string>
     <string name="general_preference_confirm_delete_label">Επιβεβαίωση πριν την διαγραφή</string>
     <string name="general_preference_confirm_send_label">Επιβεβαίωση πριν την αποστολή</string>
+    <string name="general_preference_delete_message_prompt_title">Ερώτηση πριν τη διαγραφή</string>
     <string name="general_preference_load_picture">Φόρτωση διαδικτυακών εικόνων</string>
     <string name="general_preference_str_auto_translation">Γρήγορη μετάφραση</string>
     <string name="general_preference_str_auto_translation_prompt">Αντιγράψτε το αντίστοιχο περιεχόμενο για να δείτε τα αποτέλεσμα της μετάφρασης</string>
@@ -737,6 +742,8 @@
     <string name="install_mime_sign_cert">Εγκατάσταση πιστοποιητικού υπογραφής S/MIME</string>
     <string name="interact_with_server_error">Αδυναμία σύνδεσης στο διακομιστή</string>
     <string name="invalid_recipient">Η διεύθυνση %s δεν είναι έγκυρη.</string>
+    <string name="invalid_recipient_dialog_message">Εισάγετε μια έγκυρη διεύθυνση email παραλήπτη</string>
+    <string name="invalid_recipient_dialog_title">"Δεν ήταν δυνατή η αποστολή"</string>
     <string name="invalid_recipient_title">Σφάλμα Παραλήπτη</string>
     <string name="invoice_card_amount">Συνολικό ποσό που χρεώνεται</string>
     <string name="invoice_card_buyer">Αγοραστής</string>
@@ -1171,6 +1178,7 @@
     <string name="previous_action">Προηγούμενο</string>
     <string name="print">Εκτύπωση</string>
     <string name="print_scheduler_title">Εκτύπωση Όλων χρονοδιαγραμμάτων</string>
+    <string name="privacy_and_private_permission">Συναίνεση στη Συμφωνία Χρήστη &amp; Πολιτική Απορρήτου</string>
     <string name="privacy_des">Οι πληροφορίες καταγραφής περιέχουν πληροφορίες εντοπισμού σφαλμάτων που εκτυπώνονται από την εφαρμογή ηλεκτρονικού ταχυδρομείου και πληροφορίες της συσκευής σας για να εντοπίσουμε το πρόβλημα που αναφέρετε. Επιλέξτε την παρακάτω \"%1$s\" Αυτό σημαίνει ότι έχετε διαβάσει και συμφωνήσει με την 《%2$s》</string>
     <string name="privacy_policy">Πολιτική απορρήτου</string>
     <string name="privacy_setting_agree">Συμφωνώ</string>
@@ -1316,6 +1324,7 @@
     <string name="request_entity_large">Το ζητούμενο αρχείο είναι μεγάλο!</string>
     <string name="request_permission_activity">Απαιτούνται Άδειες</string>
     <string name="respond_inline">Απάντηση σε μια γραμμή</string>
+    <string name="respond_inline_text">Επεξεργασία αρχικού email</string>
     <string name="retry_login">Παρακαλώ συνδεθείτε ξανά</string>
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Σαβ</string>
@@ -1411,6 +1420,7 @@
     <string name="show_images_all">Φόρτωση και εμφάνιση όλων των εικόνων</string>
     <string name="show_password">Εμφάνιση κωδικού πρόσβασης</string>
     <string name="show_server_cet">Προβολή πιστοποιητικού</string>
+    <string name="shrink">Σύμπτυξη</string>
     <string name="sign_in_dialog_outlook_enterprise">Outlook για επιχειρήσεις (χωρίς ημερολόγιο)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (με ημερολόγιο)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (χωρίς ημερολόγιο)</string>

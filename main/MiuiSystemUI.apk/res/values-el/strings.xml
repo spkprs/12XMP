@@ -1765,6 +1765,7 @@
     <string name="prompt_detecting">Εντοπισμός</string>
     <string name="prompt_safe">Ασφαλές</string>
     <string name="prompt_unknown">Αγνωστο</string>
+    <string name="qs_bill_message_balance">%1$s %2$s απομένει</string>
     <string name="qs_control_big_tile_state_closed">Off</string>
     <string name="qs_control_big_tile_state_closing">Απενεργοποίηση…</string>
     <string name="qs_control_big_tile_state_connected">Συνδεδεμένο</string>
@@ -1796,6 +1797,9 @@
     <string name="qs_rearrange">Επαναδιάταξη των γρήγορων ρυθμίσεων</string>
     <string name="qs_status_phone_muted">Σίγαση τηλεφώνου</string>
     <string name="qs_status_phone_vibrate">Τηλέφωνο σε δόνηση</string>
+    <string name="qs_traffic_message_type_exceed">%1$s %2$s υπέρβαση ορίου</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s απομένει</string>
+    <string name="qs_traffic_message_type_used">Χρήση %1$s %2$s</string>
     <string name="quick_controls_setup_subtitle">Κρατήστε πατημένο το κουμπί λειτουργίας για πρόσβαση στα στοιχεία ελέγχου</string>
     <string name="quick_controls_setup_title">Set up device controls</string>
     <string name="quick_controls_subtitle">Προσθήκη στοιχείων ελέγχου για τις συνδεδεμένες συσκευές σας</string>
