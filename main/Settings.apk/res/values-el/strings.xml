@@ -1366,6 +1366,14 @@
     <string name="bt_lhdc_open_dialog_title">Ενεργοποίηση LHDC;</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Χαρακτηριστικά</string>
+    <string name="bt_plugin_new_version">Ενημέρωση</string>
+    <string name="bt_plugin_preference_button">Ενημέρωση</string>
+    <string name="bt_plugin_preference_msg">Τρέχουσα: %1$s | Νέα: %2$s</string>
+    <string name="bt_plugin_preference_title">Νέα έκδοση</string>
+    <string name="bt_plugin_set_net_dialog_cancle">Ακύρωση</string>
+    <string name="bt_plugin_set_net_dialog_message">Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά.</string>
+    <string name="bt_plugin_set_net_dialog_retry">Δοκιμάστε ξανά</string>
+    <string name="bt_plugin_set_net_dialog_title">"Αδύνατη η σύνδεση στο δίκτυο"</string>
     <string name="bt_pre_summary">Παρέχει μια υψηλής ποιότητας εμπειρία ήχου</string>
     <string name="bt_rarely_used_device_title">Συσκευές με σπάνια χρήση (%d)</string>
     <string name="bt_show_notification_summary">Εμφάνιση μόνιμης ειδοποίησης στον Πίνακα ειδοποιήσεων</string>
