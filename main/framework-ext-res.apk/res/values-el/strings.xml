@@ -191,6 +191,7 @@
     <string name="miaudiovisual_notification_summary">Ενεργοποίηση για εμφάνιση εφέ στην οθόνη κλειδώματος</string>
     <string name="miaudiovisual_notification_title">Ήχος και οπτικά εφέ</string>
     <string name="miui_forbid_poweroff_when_device_locked">Αδύνατη η απενεργοποίηση, η συσκευή είναι κλειδωμένη.</string>
+    <string name="miui_landscape_compat_toast">"Δεν είναι κατάλληλο για αναδίπλωση της συσκευής ενώ χρησιμοποιείτε την εφαρμογή σε οριζόντια διάταξη, συνιστάται η χρήση σε κατακόρυφη διάταξη."</string>
     <string name="miui_multiwindow_not_support_small_window">"%1$s δεν υποστηρίζει Αιωρούμενα παράθυρα"</string>
     <string name="miui_multiwindow_not_support_split">"%1$s δεν υποστηρίζει Διαιρούμενη οθόνη"</string>
     <string name="miui_screen_ratio_hint">Θέμα αναλογίας οθόνης</string>

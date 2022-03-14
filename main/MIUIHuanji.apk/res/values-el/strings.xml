@@ -27,6 +27,10 @@
     <string name="apple_image">Φωτογραφίες</string>
     <string name="apple_video">Βίντεο</string>
     <string name="appname_app_data_suffix">%1$s δεδομένα εφαρμογής</string>
+    <string name="apps_cannot_be_transfered_confirm_button">Εκκίνηση</string>
+    <string name="apps_cannot_be_transfered_next_button">Επόμενο</string>
+    <string name="apps_cannot_be_transfered_summary">"Αυτές οι εφαρμογές 64-bit δεν μπορούν να μεταφερθούν σε μια συσκευή 32-bit. Μπορείτε να τις κατεβάσετε απευθείας από το GetApps μετά τη μεταφορά."</string>
+    <string name="apps_cannot_be_transfered_title">"Δεν είναι δυνατή η μεταφορά αυτών των εφαρμογών"</string>
     <string name="audio">Ήχος</string>
     <string name="audio_video_document">Ήχος, βίντεο και έγγραφα</string>
     <string name="back">Πίσω</string>
@@ -607,6 +611,7 @@
     <string name="reconnect">Σύνδεση ξανά</string>
     <string name="recovery_progress">Επαναφορά στοιχείων (%1$d/%2$d)…</string>
     <string name="recreate_soft_ap_tips">Αγγίξτε το παρακάτω κουμπί και δοκιμάστε ξανά.</string>
+    <string name="refuse_accept">"Δεν συμφωνώ"</string>
     <string name="request_all_permission_title">Απαιτούμενες άδειες</string>
     <string name="restore_data_to_device_content">Τα στοιχεία σας συγχρονίστηκαν με το Xiaomi Cloud. Εισέλθετε στο λογαριασμό μου για να τα επαναφέρετε.</string>
     <string name="restore_data_to_device_title">Επαναφορά στοιχείων σε αυτήν τη συσκευή</string>

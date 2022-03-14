@@ -258,6 +258,7 @@
     <string name="banner_op">Mi Music</string>
     <string name="being_disable_auto_payment">Απενεργοποίηση…</string>
     <string name="being_enable_auto_payment">Ενεργοποίηση…</string>
+    <string name="best_experience">Καλύτερη εμπειρία</string>
     <string name="bill_list_fragment_title">Γραφήματα</string>
     <string name="bind_sign_in_title">Προσθήκη λογαριασμού Mi</string>
     <string name="bluetooth_device">Bluetooth συσκευή ήχου</string>
@@ -674,6 +675,7 @@
     <string name="download_fail_to_fetch_info">Αδυναμία λήψης, προσπάθεια ξανά</string>
     <string name="download_fee_alert_title">Λήψη πληρωμένων τραγουδιών</string>
     <string name="download_filesize_unknown">Άγνωστο</string>
+    <string name="download_free">Λήψη μουσικής</string>
     <string name="download_in_process">ΛΗΨΗ</string>
     <string name="download_info_start_deleted_tasks">Αφαίρεση λήψεων</string>
     <string name="download_list_get_free_vip">Δοκιμή Xunlei</string>
@@ -728,6 +730,7 @@
     <string name="download_while_playing_no_vip_summary">Αυτόματη λήψη τραγουδιών που αναπαράγονται online( εκτός από πληρωμένο περιεχόμενο)</string>
     <string name="download_while_playing_summary">Αυτόματη λήψη τραγουδιών που αναπαράγονται online</string>
     <string name="download_while_playing_title">Λήψη κατά την αναπαραγωγή</string>
+    <string name="downloaded">Downloaded</string>
     <string name="downloaded_empty">Κενή</string>
     <string name="downloading_apk">Λήψη... Προβολή προόδου στην περιοχή ειδοποιήσεων.</string>
     <string name="downloading_apk_black_shark">Κατέβασμα... Προβολή προόδου στα αρχεία.</string>
@@ -893,6 +896,7 @@
     <string name="filter_size_unit">%dKB</string>
     <string name="find_music">Ανακαλύψτε τραγούδια</string>
     <string name="find_psw">Ξεχάσατε τον κωδικό πρόσβασης</string>
+    <string name="find_you_tunes">Βρείτε τις μουσικές σας</string>
     <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
     <string name="first_charge_reward">首充优惠</string>
     <string name="floating_view_dialog_desc">Η μουσική θα σταματήσει να παίζει αν αφήσετε αυτή τη σελίδα τώρα. Αποχωρείτε;</string>
@@ -984,6 +988,7 @@
     <string name="fragment_title_personal">Προσωπική</string>
     <string name="fragment_title_recommend">Επιλεγμένα</string>
     <string name="fragment_title_songgroup_individuation">Προτείνετε λίστες αναπαραγωγής</string>
+    <string name="free">Δωτεάν</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">F</string>
@@ -993,9 +998,12 @@
     <string name="gcm_fallback_notification_channel_label">Διάφορα</string>
     <string name="get_back_pwd">Επαναφορά κωδικού πρόσβασης</string>
     <string name="get_more_favorite_content_after_login">Εισέλθετε για να ανακαλύψετε περισσότερα τραγούδια και βίντεο.</string>
+    <string name="get_one_day_vip">Έχετε %d-ημ. VIP!</string>
+    <string name="get_one_hour_vip">Έχετε %d-ώρ. VIP!</string>
     <string name="get_ph_ticket">Λήψη κώδικα</string>
     <string name="get_phone_bind_exceed_limit">Μπορείτε να συσχετίσετε έως και 3 Λογαριασμούς Mi με έναν αριθμό τηλεφώνου. Δεν είναι δυνατή η προσθήκη νέων λογαριασμών.</string>
     <string name="get_phone_verifycode_exceed_limit">Έχουν σταλεί πάρα πολλοί κωδικοί επαλήθευσης σε αυτόν τον αριθμό. Περιμένετε 24 ώρες και προσπαθήστε ξανά.</string>
+    <string name="get_vip">Αποκτήστε VIP</string>
     <string name="global_search_app_name">Μουσική</string>
     <string name="global_search_description_entry">Απολαύστε μουσική</string>
     <string name="global_search_description_hot">Εβδομαδιαία ενημέρωση</string>
@@ -1078,6 +1086,7 @@
     <string name="hide_album">Απόκρυψη εξώφυλλου άλμπουμ</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_lyric">Απόκρυψη στίχων</string>
+    <string name="hifi_quality">Hi-Fi ποιότητα</string>
     <string name="high_sound_quality">Υψηλή</string>
     <string name="higher_quality_music">Ήχος υψηλής ποιότητας</string>
     <string name="higher_quality_music_summary">Ροή και λήψη αρχείων με μεγαλύτερη ταχύτητα</string>
@@ -1127,6 +1136,7 @@
     <string name="ic_remove_title">Κατάργηση της \"Μουσικής\" από την Αρχική οθόνη;</string>
     <string name="id_namespace">hungama</string>
     <string name="identity">Αναγνώρισης</string>
+    <string name="imported">Εισαγόμενα</string>
     <string name="impunity_declaration_content">Πρέπει να διαβάσετε και να συμφωνήσετε με &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Συμφωνία χρήστη&lt;/a&gt; και &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt; πριν χρησιμοποιήσετε το προϊόν.</string>
     <string name="impunity_declaration_content_agreement">Συμφωνία χρήστη</string>
     <string name="impunity_declaration_content_policy">Πολιτική Προστασίας Προσωπικών Δεδομένων</string>
@@ -1215,6 +1225,7 @@
     <string name="joox_vip_check_to_pay">Αγορά</string>
     <string name="joox_vip_expired_hint">Η συμμετοχή σας σε VIP έληξε. Τα τραγούδια που έχουν ληφθεί από το JOOX θα εμφανίζονται μόνο στα στοιχεία λήψης σας.</string>
     <string name="just_a_second">Μόνο ένα λεπτό.…</string>
+    <string name="just_hit_next">Απλά πατήστε επόμενο</string>
     <string name="karaoke_message">Κατεβάστε το \"Chang Ba\" για να κάνετε τα τραγούδια καραόκε διαθέσιμα;</string>
     <string name="karaoke_negative_text">Αργότερα</string>
     <string name="karaoke_no_accompany">Αυτό το τραγούδι δεν έχει ακόμα έκδοση καραόκε</string>
@@ -1233,6 +1244,7 @@
     <string name="like_comment_success">Άρεσε</string>
     <string name="list_item_play_FM_radio">Αφή για αναπαραγωγή ραδιοφώνου FM</string>
     <string name="list_item_play_all_tracks">Αναπαραγωγή όλων</string>
+    <string name="listen_anywhere">Ακούστε οπουδήποτε</string>
     <string name="live_stream_error">Αυτό το στοιχείο δεν είναι προς το παρόν διαθέσιμο λόγω περιορισμών πνευματικών δικαιωμάτων</string>
     <string name="load_shuffle">Φόρτωση…</string>
     <string name="load_success">Η ανανέωση ολοκληρώθηκε με επιτυχία</string>
@@ -1354,6 +1366,7 @@
     <string name="middle_sound_quality">Κανονική</string>
     <string name="midnight">AM</string>
     <string name="milink_unavaliable_please_update">Το Mi Link δεν είναι διαθέσιμο. Ενημερώστε το MIUI.</string>
+    <string name="millions_songs">Εκατομμύρια τραγουδιών</string>
     <string name="min_sleep_time">%d</string>
     <string name="missing_title">&lt;Άγνωστο&gt;</string>
     <string name="miui_music">Mi Music</string>
@@ -1618,6 +1631,8 @@
     <string name="nowplaying_source_dragonfly">Από QingTingFM</string>
     <string name="offline_song_and_auto_next">Αυτό το τραγούδι δεν είναι διαθέσιμο. Παραλείπεται προς το παρόν.</string>
     <string name="ok">OK</string>
+    <string name="one_day_vip">%d-ημ. VIP</string>
+    <string name="one_hour_vip">%d-ώρ. VIP</string>
     <string name="one_month">1 μήνας</string>
     <string name="online_apk_acquired">Φορτωθεί %d%%</string>
     <string name="online_apk_acquiring">Φόρτωση... %d%%</string>
@@ -2487,6 +2502,7 @@
     <string name="unknown_program_name">Άγνωστο πρόγραμμα</string>
     <string name="unlimited_downloads">Απεριόριστες λήψεις</string>
     <string name="unlimited_offline_songs">Απεριόριστα τραγούδια χωρίς σύνδεση</string>
+    <string name="unlimited_skips">Απεριόριστες παραλείψεις</string>
     <string name="unread_message_count">%s μη αναγνωσμένο</string>
     <string name="update_email_address_dialog_message">Πρέπει να επαληθεύσετε την ταυτότητά σας πριν ενημερώσετε το μήνυμα ηλεκτρονικού ταχυδρομείου ανάκτησης.</string>
     <string name="update_email_address_dialog_title">Ενημέρωση ηλεκτρονικού ταχυδρομείου αποκατάστασης</string>
@@ -2521,6 +2537,7 @@
     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="user_avatar_update_title">Αλλαγή φωτογραφίας προφίλ</string>
     <string name="user_avatar_uploading">Μόνο ένα λεπτό.…</string>
+    <string name="user_experience_program_open">Λόγω περιορισμών πνευματικών δικαιωμάτων, πρέπει να εγγραφείτε στο Πρόγραμμα Εμπειρίας Χρήστη για να μπορείτε να αναπαράγετε τραγούδια που έχετε κατεβάσει. Μπορείτε να το κάνετε αυτό στις Ρυθμίσεις > Κωδικοί πρόσβασης &amp; ασφάλεια > Απόρρητο > Εγγραφή στο Πρόγραμμα εμπειρίας χρήστη.</string>
     <string name="user_id_hint">Αναγνωριστικό λογαριασμού ηλεκτρονικού ταχυδρομείου/τηλεφώνου/Mi</string>
     <string name="user_playlist_plaza">Λίστες αναπαραγωγής</string>
     <string name="user_privacy_dialog_negative_text">Ακυρώσετε</string>
@@ -2587,6 +2604,7 @@
     <string name="waiting_order">正在获取订单信息</string>
     <string name="want_lyric_translation">Αίτηση μεταφρασμένων στίχων</string>
     <string name="want_song_lyric">Πατήστε για εύρεση στίχων</string>
+    <string name="watch_video">Παρακολουθήστε βίντεο</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">W</string>

@@ -1964,9 +1964,9 @@
     <string name="gb_performance_mode">Λειτ. παιχνιδιών</string>
     <string name="gb_performance_tips">Η λειτουργία επιδόσεων βελτιώνει την απόδοση των γραφικών,\nαλλά αυξάνει επίσης την κατανάλωση ενέργειας και επιτρέπει την υπερθέρμανση της συσκευής σας</string>
     <string name="gb_shortcut_pref_title">Συντόμευση στην Αρχική Οθόνη</string>
-    <string name="gb_shoulder_guide_message1">Μετακινήστε το [L] σε οποιαδήποτε λειτουργική θέση για χρήση μέσω του πλήκτρου ώμου.</string>
+    <string name="gb_shoulder_guide_message1">Μετακινήστε το [L] σε οποιαδήποτε λειτουργική θέση για χρήση μέσω αναδυόμενη σκανδάλη.</string>
     <string name="gb_shoulder_guide_message2">Η λειτουργία [1] ενεργοποιείται πατώντας το πλήκτρο. Ενώ η [2] με την απελευθέρωση του πλήκτρου.</string>
-    <string name="gb_shoulder_guide_tips1">Ανοίξτε την εργαλειοθήκη και να ρυθμίσετε τα πλήκτρα ώμου</string>
+    <string name="gb_shoulder_guide_tips1">Ανοίξτε την εργαλειοθήκη και να ρυθμίσετε τις αναδυόμενες σκανδάλες</string>
     <string name="gb_shoulder_guide_title1">Λειτουργία</string>
     <string name="gb_shoulder_guide_title2">Ακολουθία</string>
     <string name="gb_shoulder_key">Αναδυόμενες σκανδάλες</string>
@@ -1992,8 +1992,8 @@
     <string name="gb_shoulder_key_settings_title">Χρήση αναδυόμενων σκανδαλών για το Game Turbo</string>
     <string name="gb_shoulder_key_settings_title_new">Γρήγορη εκκίνηση Game Turbo</string>
     <string name="gb_shoulder_set_left_right">Ρύθμιση [%s]</string>
-    <string name="gb_shoulder_set_title">Ενεργοποιήστε τα πλήκτρα ώμου για να τα ρυθμίσετε</string>
-    <string name="gb_shoulder_set_title2">Μετακινήστε το [%s] σε οποιαδήποτε λειτουργική θέση για χρήση μέσω του πλήκτρου ώμου.</string>
+    <string name="gb_shoulder_set_title">Ενεργοποιήστε τις αναδυόμενες σκανδάλες για ρύθμιση</string>
+    <string name="gb_shoulder_set_title2">Μετακινήστε το [%s] σε οποιαδήποτε λειτουργική θέση για χρήση μέσω αναδυόμενων σκανδαλών.</string>
     <string name="gb_shoulder_single_trigger">Λειτουργία</string>
     <string name="gb_shoulder_subsection_down">Πάτημα</string>
     <string name="gb_shoulder_subsection_trigger">Ακολουθία</string>
@@ -2155,10 +2155,15 @@
     <string name="gs_show_way_vertical">Κάθετα</string>
     <string name="gs_sign_notification">Υπενθυμίστε να κάνετε check in στις 8 μ.μ. καθημερινά</string>
     <string name="gs_slip_gamebox_detail">Χρησιμοποιήστε το ρυθμιστικό ή σύρετε από την επάνω πλευρά της οθόνης για να εμφανιστεί ο πίνακας συντομεύσεων</string>
+    <string name="gtb_after_acceleration">Μετά</string>
+    <string name="gtb_auto_memory_clean">Αυτόματη εκκαθάριση μνήμης</string>
+    <string name="gtb_before_acceleration">Πριν</string>
+    <string name="gtb_brightness_adjust">Φωτεινότητα</string>
     <string name="gtb_brightness_dialog_right_btn">Συνέχεια</string>
     <string name="gtb_brightness_dialog_sub_message">*Μπορείτε να ενεργ/απενεργοποιήσετε την λειτουργία στις Ρυθμίσεις.</string>
     <string name="gtb_content_switch">Προτάσεις περιεχομένου</string>
     <string name="gtb_content_switch_summary">Λήψη προτάσεων περιεχομένου σχετικά με παιχνίδια</string>
+    <string name="gtb_deep_garbage_cleaning">Εκτέλεση βαθύ καθαρισμό…</string>
     <string name="gtb_dialog_btn_close">Απενεργοποίηση</string>
     <string name="gtb_dialog_btn_open">Ενεργοποίηση</string>
     <string name="gtb_dialog_hint_smart_5g">Μπορείτε να ενεργοποιήσετε και να απενεργοποιήσετε αυτό το χαρακτηριστικό στο Game Turbo > Ρυθμίσεις.</string>
@@ -2170,8 +2175,11 @@
     <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
     <string name="gtb_dialog_summary_smart_5g">Όποτε το Game Turbo εντοπίζει ένα δίκτυο 5G, μπορεί να συνδέσει τη συσκευή σας στο καλύτερο διαθέσιμο δίκτυο για τη μείωση της καθυστέρησης του δικτύου. Να ενεργοποιηθεί τώρα αυτή η δυνατότητα;</string>
     <string name="gtb_dialog_title_smart_5g">Βελτιστοποίηση δικτύου 5G</string>
+    <string name="gtb_dnd">Μην Ενοχλείτε</string>
     <string name="gtb_exit_game_to_gtb">Άνοιγμα gamebox</string>
     <string name="gtb_exit_game_to_home">Επιστροφή στην Αρχική Οθόνη</string>
+    <string name="gtb_garbage_clean">Ελευθερώστε χώρο αποθήκευσης</string>
+    <string name="gtb_garbage_cleaned_tip">Ελευθερώστε %1$s για να αυξήσετε την απόδοση</string>
     <string name="gtb_guide_finish">Παράλειψη</string>
     <string name="gtb_guide_game_mode_tips">Επιλέξτε την προτιμώμενη λειτουργία παιχνιδιού</string>
     <string name="gtb_guide_gtb_button_done">Τέλος</string>
@@ -2185,6 +2193,17 @@
     <string name="gtb_guide_gtb_line_xspace">Αναβαθμίστε το παιχνίδι σας με το ολοκαίνουργιο Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">"Χρησιμοποιήστε άλλες εφαρμογές ενώ παίζετε"</string>
     <string name="gtb_guide_small_window_app_title">Κινητά παράθυρα</string>
+    <string name="gtb_intelligent_garbage_clean">Ελευθερώστε χώρο αποθήκευσης</string>
+    <string name="gtb_memory_clean">Εκκαθάριση μνήμης</string>
+    <string name="gtb_mode_normal">Κανονική</string>
+    <string name="gtb_mode_performance">Απόδοση</string>
+    <string name="gtb_open_performance_mode_tip">Η λειτουργία επιδόσεων θα βελτιώσει την εμπειρία παιχνιδιού σας, ενώ παράλληλα θα αυξήσει την κατανάλωση ενέργειας και θα θερμάνει τη συσκευή σας.</string>
+    <string name="gtb_phone_accelerate">Ενίσχυση απόδοσης</string>
+    <string name="gtb_realtime_performance_monitoring">Παρακολούθηση απόδοσης</string>
+    <string name="gtb_screenrecord">Εγγραφή</string>
+    <string name="gtb_screenshot">Στιγμιότυπο</string>
+    <string name="gtb_screenshot_pinned">Στιγμιότυπο</string>
+    <string name="gtb_setting">Ρυθμίσεις</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Αποκλείστε όλες τις υπηρεσίες επικοινωνίας στη δευτερεύουσα SIM κατά τη διάρκεια συνεδριών παιχνιδιών για να διατηρήσετε σταθερή τη σύνδεση και να αποφύγετε την εναλλαγή μεταξύ δικτύων. Το μπλοκάρισμα της δευτερεύουσας SIM θα ξεμπλοκαριστεί όταν σταματήσετε να παίζετε.</string>
     <string name="gtb_setting_item_summary_smart_5g">Όποτε το Game Turbo εντοπίζει ένα δίκτυο 5G, μπορεί να συνδέσει τη συσκευή σας στο καλύτερο διαθέσιμο δίκτυο για τη μείωση της καθυστέρησης του δικτύου</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Αύξηση της ταχύτητας σύνδεσης κατά 10%-20% όταν γίνεται σύνδεση σε δρομολογητές Mi/Redmi</string>
@@ -2195,8 +2214,12 @@
     <string name="gtb_spring_festival_back_game">Επιστροφή στο παιχνίδι</string>
     <string name="gtb_spring_festival_goto_gameturbo">Προβολή</string>
     <string name="gtb_spring_festival_guide_know">Κατανοητό</string>
+    <string name="gtb_start_phone_accelerate">Ενίσχυση</string>
+    <string name="gtb_stop_accelerate">Παύση</string>
+    <string name="gtb_timer">Χρονόμετρο</string>
+    <string name="gtb_voice_changer">Αλλαγή φωνής</string>
     <string name="gtb_wlan_speed_tips">Χρήση Mi WiFi…</string>
-    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Εσφαλμένος πάροχος;&lt;/U>&lt;/font>"</string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;u>Εσφαλμένος πάροχος;&lt;/u>&lt;/font>"</string>
     <string name="guide_operator_text">Ο τρέχων φορέας σας:</string>
     <string name="guide_quck_open">Ενεργοποιήστε</string>
     <string name="guide_second_text">Αφού ορίσετε τον φορέα σας, το MIUI θα παρακολουθεί καθημερινά τη χρήση δεδομένων κινητής τηλεφωνίας καθημερινά στέλνοντας δωρεάν SMS. Όταν το MIUI εντοπίσει ότι έχετε υπερβεί το όριο δεδομένων σας, θα αποσυνδεθεί από το δίκτυο και θα σας ειδοποιήσει.</string>
