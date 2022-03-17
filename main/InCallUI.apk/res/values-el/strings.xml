@@ -11,6 +11,10 @@
     <string name="antispam_local_marked">Τοπική σήμανση</string>
     <string name="antispam_notification_title">Άγνωστος αριθμός</string>
     <string name="antispam_provider">Αναγνώριση από %s</string>
+    <string name="bluetooth_permission_content">Λόγω της ενημέρωσης εξουσιοδότησης του συστήματος, απαιτείται η εξουσιοδότησή σας για να λάβετε τη λίστα συσκευών Bluetooth.</string>
+    <string name="bluetooth_permission_grant_immediately">Εξουσιοδότηση άμεσα</string>
+    <string name="bluetooth_permission_later">Αργότερα</string>
+    <string name="bluetooth_permission_title">Παρέχει πρόσβαση σε συσκευές bluetooth</string>
     <string name="callFailed_cb_enabled">Δεν μπορείτε να πραγματοποιήσετε εξερχόμενες κλήσεις όσο η φραγή κλήσεων είναι ενεργοποιημένη.</string>
     <string name="callFailed_congestion">Απασχολημένο δίκτυο</string>
     <string name="callFailed_dialToDial">Το αίτημα κλήσης τροποποιήθηκε ως κλήση με διαφορετικό αριθμό.</string>
@@ -139,6 +143,7 @@
     <string name="emergency_call_dialog_number_for_display">Αριθμός έκτακτης ανάγκης</string>
     <string name="enter_ai_assistant">Χρήση</string>
     <string name="enter_ai_assistant_tip">"Η AI (Τεχνητή Νοημοσύνη) μπορεί να μετατρέψει το κείμενο σε ομιλία, αν δεν σας εξυπηρετεί να μιλήσετε τώρα. Να χρησιμοποιηθεί για αυτήν την κλήση;"</string>
+    <string name="font_camera_tip">Διπλώστε τη συσκευή για χρήση εμπρός Κάμερας</string>
     <string name="inCallLabel">Τηλέφωνο</string>
     <string name="incall_bubble_hangup_click_hint">Αγγίξτε ξανά για επιστροφή στην κλήση</string>
     <string name="incall_call_type_label_sip">Κλήση Διαδικτύου</string>

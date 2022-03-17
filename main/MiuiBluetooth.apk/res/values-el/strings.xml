@@ -170,6 +170,14 @@
     <string name="bluetooth_talkback_phone">Τηλέφωνο</string>
     <string name="bt_hci_snoop_log">Ενεργοποίηση καταγραφής παρακολούθησης Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Καταγραφή πακέτων Bluetooth. (Εναλλαγή Bluetooth μετά την αλλαγή αυτής της ρύθμισης)</string>
+    <string name="bt_plugin_update_dialog_cancle">Όχι τώρα</string>
+    <string name="bt_plugin_update_dialog_title">Ενημέρωση Bluetooth</string>
+    <string name="bt_plugin_update_dialog_update">Ενημέρωση</string>
+    <string name="bt_plugin_update_done_dialog_exit">Εφαρμογή</string>
+    <string name="bt_plugin_update_done_dialog_msg">Για να εφαρμόσετε τις αλλαγές, οι Ρυθμίσεις θα κλείσουν και το Bluetooth θα αποσυνδεθεί.</string>
+    <string name="bt_plugin_update_done_dialog_title">Εφαρμογή αλλαγών</string>
+    <string name="bt_plugin_update_done_toast">Ενημερώθηκε με επιτυχία</string>
+    <string name="bt_plugin_update_notification_updating">Ενημέρωση Bluetooth</string>
     <string name="bugreport_in_power">Συντόμευση αναφοράς σφάλματος</string>
     <string name="bugreport_in_power_summary">Εμφάνιση κουμπιού στο μενού τροφοδοσίας για τη λήψη αναφοράς σφάλματος</string>
     <string name="button_convert_fbe">Σκουπίστε και μετατρέψτε…</string>

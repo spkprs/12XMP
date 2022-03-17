@@ -1754,6 +1754,9 @@
     <string name="priority_onboarding_show_at_top_text">SΕμφάνιση στο επάνω μέρος της ενότητας συνομιλίας</string>
     <string name="priority_onboarding_show_avatar_text">Εμφάνιση εικόνας προφίλ στην οθόνη κλειδώματος</string>
     <string name="priority_onboarding_title">Η συνομιλία έχει οριστεί σε προτεραιότητα</string>
+    <string name="privacy_dialog_title">Ειδοποιήσεις για ευαίσθητες ενέργειες</string>
+    <string name="privacy_recent_used_title">Πρόσφατες</string>
+    <string name="privacy_using_title">Τρέχουσες</string>
     <string name="private_dns_mode_off">Off</string>
     <string name="private_dns_mode_opportunistic">Αυτόματη</string>
     <string name="private_dns_mode_provider">Όνομα κεντρικού υπολογιστή υπηρεσίας παροχής Ιδιωτικού DNS</string>
@@ -1958,6 +1961,9 @@
     <string name="recent_task_cleaning">Εκκαθάριση εφαρμογών…</string>
     <string name="recent_task_lock_text">Κλείδωμα</string>
     <string name="recent_task_unlock_text">Ξεκλείδωμα</string>
+    <string name="recent_used_camera">Αυτή η εφαρμογή χρησιμοποίησε κάμερα</string>
+    <string name="recent_used_camera_and_microphone">Αυτή η εφαρμογή κατέγραψε ήχο και χρησιμοποίησε κάμερα</string>
+    <string name="recent_used_microphone">Αυτή η εφαρμογή κατέγραψε ήχο</string>
     <string name="recents_accessibility_split_screen_left">Διαίρεση οθόνης προς τα αριστερά</string>
     <string name="recents_accessibility_split_screen_right">Διαίρεση οθόνης προς τα δεξιά</string>
     <string name="recents_accessibility_split_screen_top">Διαιρέστε την οθόνη προς τα επάνω</string>
@@ -2408,6 +2414,9 @@
     <string name="user_remove_user_message">Όλες οι εφαρμογές και τα δεδομένα αυτού του χρήστη θα διαγραφούν.</string>
     <string name="user_remove_user_remove">Κατάργηση</string>
     <string name="user_remove_user_title">Κατάργηση χρήστη;</string>
+    <string name="using_camera">Αυτή η εφαρμογή χρησιμοποιεί κάμερα</string>
+    <string name="using_camera_and_microphone">Αυτή η εφαρμογή καταγράφει ήχο και χρησιμοποιεί την κάμερα</string>
+    <string name="using_microphone">Αυτή η εφαρμογή καταγράφει ήχο</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="verify_apps_over_usb_summary">Έλεγχος εφαρμογών που έχουν εγκατασταθεί μέσω ADB/ADT για επιβλαβή συμπεριφορά.</string>
