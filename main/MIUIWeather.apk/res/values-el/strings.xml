@@ -182,6 +182,11 @@
     <string name="dialog_msg_score_midrop">Πώς νιώθεις για τον καιρό;</string>
     <string name="dialog_msg_score_not_good">Θα μπορούσατε να μας δώσετε και τα σχόλιά σας;</string>
     <string name="dialog_msg_score_perfect">Ωραία! Αξιολόγηση καιρού και στο Play Store;</string>
+    <string name="dialog_score_bad">Δυσαρεστημένος</string>
+    <string name="dialog_score_general">Ουδέτερος</string>
+    <string name="dialog_score_good">Ικανοποιημένος</string>
+    <string name="dialog_score_very_bad">Πολύ δυσαρεστημένος</string>
+    <string name="dialog_score_very_good">Πολύ ικανοποιημένος</string>
     <string name="dialog_title_score">Αξιολόγηση καιρού</string>
     <string name="dislike_alert_dialog_title">Γιατί δεν θέλετε να δείτε αυτό το περιεχόμενο;</string>
     <string name="download_rsc_tips">Φόρτωση ήχου φόντου…</string>
@@ -382,6 +387,7 @@
     <string name="pad_keyboard_add_city">Προσθήκη Θέσης</string>
     <string name="pad_keyboard_left_switch">Προηγούμενη Θέση</string>
     <string name="pad_keyboard_right_switch">Επόμενη Θέση</string>
+    <string name="pad_real_time_detail_title">Άνετος</string>
     <string name="particulate_matter_exceeded">Υψηλή</string>
     <string name="particulate_matter_not_exceeded">Κανονική</string>
     <string name="particulate_matter_serious_exceeded">Πολύ υψηλή</string>

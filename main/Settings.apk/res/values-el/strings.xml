@@ -3099,6 +3099,8 @@
     <string name="gxzw_quick_open_slow_summary">Αγγίξτε παρατεταμένα το εικονίδιο αποτυπώματος για άνοιγμα μενού συντομεύσεων. Σύρετε για χρήση μιάς συντόμευσης.</string>
     <string name="gxzw_quick_open_slow_title">Παρατεταμένο άγγιγμα.</string>
     <string name="gxzw_quick_open_title">Συντομεύσεις</string>
+    <string name="gxzw_vibrate_summary">Δόνηση στην κινούμενη εικόνας ξεκλειδώματος Δακτ. αποτυπώματος</string>
+    <string name="gxzw_vibrate_title">Δόνηση στο Ξεκλείδωμα</string>
     <string name="handy_mode">Λειτουργία με ένα χέρι</string>
     <string name="handy_mode_enable">Λειτουργία με ένα χέρι</string>
     <string name="handy_mode_no_touch_assistant">"Η λειτουργία με \"Ένα χέρι\" θα λειτουργήσει μόνο αν χρησιμοποιείτε πλήκτρα για πλοήγηση συστήματος. Μπορείτε να κάνετε εναλλαγή μεταξύ χειρονομιών και πλήκτρων στην ενότητα \"Αρχική οθόνη > Βασικές επιλογές > Πλοήγηση συστήματος\" στις Ρυθμίσεις."</string>
