@@ -1116,7 +1116,7 @@
     <string name="preference_privacy_settings_title">Απόρρητο</string>
     <string name="preference_remove_duplicate">Συγχώνευση όμοιων επαφών</string>
     <string name="preference_show_firewall_calllog">Εμφάνιση αποκλεισμένων κλήσεων στο ιστορικό</string>
-    <string name="preference_show_yellowpage_tab_description">Οι Yellow pages ενδέχεται να μην λειτουργούν σωστά όταν αυτή η λειτουργία είναι απενεργοποιημένη.</string>
+    <string name="preference_show_yellowpage_tab_description">"Οι Yellow pages και οι υπηρεσίες τους δεν θα εμφανίζονται αν απενεργοποιήσετε αυτή τη λειτουργία"</string>
     <string name="preference_show_yellowpage_tab_title">Εμφάνιση Yellow pages</string>
     <string name="preference_simple_mode_description">Εμφάνιση φωτογραφιών και άλλων πληροφοριών επαφής στην προβολή λίστας</string>
     <string name="preference_simple_mode_title">Εμφάνιση στοιχείων</string>
@@ -1133,6 +1133,7 @@
     <string name="preference_telocation_summary_teloc_on">Προβολή τοποθεσίας επαφής</string>
     <string name="preference_telocation_title">Τοποθεσία</string>
     <string name="preference_tone_title">Ήχοι</string>
+    <string name="preference_yellowpage_function_setting">Ρυθμίσεις Yellow pages</string>
     <string name="prepare_import">Εισαγωγή επαφών</string>
     <string name="preview_contact_card_title">Εισαγωγή επαφών…</string>
     <string name="preview_incall_show_entry">Προεπισκόπηση βίντεο</string>

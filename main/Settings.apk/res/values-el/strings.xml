@@ -245,6 +245,7 @@
     <string name="activity_picker_label">Επιλέξτε δραστηριότητα</string>
     <string name="activity_title_power_manager">Εξοικονόμησης μπαταρίας;Εξοικονόμηση μπαταρίας</string>
     <string name="ad_service">Υπηρεσίες διαφημίσεων</string>
+    <string name="adapt_embedded">Παράλληλα παράθυρα διαθέσιμα</string>
     <string name="adaptive_sleep_description">Αποτρέπει την απενεργοποίηση της οθόνης σας εάν την κοιτάτε.</string>
     <string name="adaptive_sleep_privacy">Η προσοχή στην οθόνη χρησιμοποιεί την μπροστινή κάμερα για να δει αν κάποιος κοιτάζει την οθόνη. Λειτουργεί στη συσκευή και οι εικόνες δεν αποθηκεύονται ούτε αποστέλλονται ποτέ στην Google.</string>
     <string name="adaptive_sleep_summary_off">Off</string>
@@ -540,6 +541,8 @@
     <string name="application_item_permission">Αποδοχή</string>
     <string name="application_lock_name">Κλείδωμα εφαρμογής</string>
     <string name="application_manager_section_title">Εφαρμογές</string>
+    <string name="application_mode_empty_text">Χωρίς εφαρμογές εδώ ακόμα</string>
+    <string name="application_mode_name">Λειτουργία προβολής εφαρμογών</string>
     <string name="application_permission_manager">Άδειες εφαρμογής</string>
     <string name="application_permissions">Άδειες εφαρμογών</string>
     <string name="application_restrictions">Αποδοχή εφαρμογών και στο περιεχόμενο τους</string>
@@ -5702,6 +5705,7 @@
     <string name="remove_device_admin">Απενεργοποίηση διαχειριστή</string>
     <string name="remove_from_frequently_fragment">Αφαίρεση \"%s\" από τις κοινές ρυθμίσεις</string>
     <string name="remove_managed_profile_label">Αφαίρεση προφίλ εργασίας</string>
+    <string name="rename_words_reached_limit">"Το νέο όνομα δεν μπορεί να είναι μεγαλύτερο από αυτό"</string>
     <string name="repeat">Επανάληψη</string>
     <string name="repeat_call">Ειδοποίηση για επαναλαμβανόμενες κλήσεις</string>
     <string name="repeat_call_info">Κουδούνισμα ή Δόνηση κατά τη λήψη της δεύτερης κλήσης από τον ίδιο αριθμό επαφής ή τηλεφώνου εντός %d λεπτών όταν είναι ενεργό το DND</string>
@@ -6660,9 +6664,11 @@
     <string name="single_key_use_summary">Το πλήκτρο Home αντί των άλλων δύο κουμπιών για κανονική λειτουργία</string>
     <string name="single_press_AI_button">Άγγιγμα πλήκτρου AI</string>
     <string name="size_byte">B</string>
+    <string name="size_embedded">Παράλληλα παράθυρα</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
+    <string name="size_full">Πλήρης οθόνη</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
@@ -7441,6 +7447,7 @@
     <string name="tx_link_speed">%1$d Mbps</string>
     <string name="tx_link_speed_label">Μετάδοση ταχύτητας συνδέσμου:</string>
     <string name="tx_wifi_speed">Μετάδοση ταχύτητας συνδέσμου</string>
+    <string name="unadapt_embedded">"Παράλληλα παράθυρα μη διαθέσιμα"</string>
     <string name="under_keyguard">Κλείδωμα της οθόνης</string>
     <string name="unimportant">Ασήμαντες</string>
     <string name="uninstall_all_users_text">Απεγκατάσταση για όλους τους χρήστες</string>

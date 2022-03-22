@@ -258,6 +258,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_to_image_community">Βρείτε περισσότερα στη Mi Κοινότητα</string>
     <string name="sub_screen_app_name">Πίσω οθόνη</string>
+    <string name="subscreen_brightness">Φωτεινότητα πίσω οθόνης</string>
     <string name="subscreen_could_edit_pic">Σύρετε εικόνες για κλιμάκωση, πατήστε παρατεταμένα για διαγραφή</string>
     <string name="subscreen_other">Άλλα</string>
     <string name="subscreen_other_dialog_cancel">Ακύρωση</string>

@@ -529,4 +529,7 @@
         <item quantity="other">%d δευτ.</item>
         <item quantity="one">%d δευτ.</item>
     </plurals>
+    <plurals name="search_application_count">
+        <item quantity="other">Αναζήτηση εφαρμογών</item>
+    </plurals>
 </resources>

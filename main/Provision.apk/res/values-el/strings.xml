@@ -26,6 +26,7 @@
     <string name="back">Πίσω</string>
     <string name="backup_introduction">Χρησιμοποιήσετε αυτήν την εφαρμογή για να δημιουργήσετε αντίγραφα ασφαλείας και να επαναφέρετε στοιχεία στη συσκευή σας.</string>
     <string name="bluetooth_introduction">Το σύστημα χρησιμοποιεί Bluetooth για ασύρματη επικοινωνία. Για να μπορέσει να λειτουργήσει κανονικά, το Bluetooth χρειάζεται τα ακόλουθα δικαιώματα:</string>
+    <string name="bluetooth_usage_desc">Η αρχική ρύθμιση σάς επιτρέπει να ορίσετε τις βασικές σας προτιμήσεις για αυτή τη συσκευή. Για την επιτυχή ρύθμιση της συσκευής σας, οι υπηρεσίες συστήματος BT θα χρησιμοποιήσουν τις ακόλουθες Άδειες:</string>
     <string name="boot_video_desc">Δείτε τον κόσμο σε 2K</string>
     <string name="boot_video_replay">Επανάληψη αναπαραγωγής</string>
     <string name="boot_video_skip">Παράλειψη</string>
@@ -79,6 +80,7 @@
     <string name="enable_accessibility_dialog_message">Ενεργοποιήσατε το TalkBack έχοντας πατήσει στην οθόνη με 2 δάκτυλα για παραπάνω από 10 δευτ.. Το TalkBack παρέχει φωνητική βοήθεια για άτομα με προβλήματα όρασης. Εάν το ενεργοποιήσατε κατά λάθος, πατήστε το πλήκτρο Ακύρωση και στην συνέχεια κάντε διπλό χτύπημα στην οθόνη.</string>
     <string name="enable_accessibility_dialog_negative_btn">Ακύρωση</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="enable_or_disable_bluetooth">Ενεργ|Απεν/ποίηση BT</string>
     <string name="exclusive_member_merchandise">Αποκλειστικά προϊόντα</string>
     <string name="fast_application_introduction">Το πλαίσιο υπηρεσιών γρήγορων εφαρμογών είναι ένα βασικό πλαίσιο υπηρεσιών που υποστηρίζει τη διανομή και τη λειτουργία γρήγορων εφαρμογών.</string>
     <string name="fast_pairing_introduction">Το Mi Link χρησιμοποιεί τις δυνατότητες Bluetooth του MIUI για να σας επιτρέπει να συνδέεστε γρήγορα με κοντινές συσκευές Bluetooth.</string>
@@ -121,6 +123,7 @@
     <string name="mint_keyboard_oobe_checkbox">"Διάβασα και συμφώνησα με την πολιτική απορρήτου πληκτρολογίου Mint Keyboard"</string>
     <string name="mint_keyboard_oobe_terms">Mint Keyboard πολιτική απορρήτου</string>
     <string name="miui_privacy_policy_no_network">Δεν έχετε μια σύνδεση δικτύου. Δείτε την Πολιτική Απορρήτου στο %s</string>
+    <string name="miui_provision">Αρχική ρύθμιση</string>
     <string name="miui_terms_no_network">Δεν έχετε μια σύνδεση δικτύου. Δείτε την Συμφωνία Χρήστη στο %s</string>
     <string name="miuix_access_state_desc">Επιλεγμένα</string>
     <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
@@ -194,6 +197,7 @@
     <string name="permission_direct_call">Πραγματοποίηση Κλήσεων</string>
     <string name="permission_direct_call_introduction">Για την προσθήκη στοιχείων στη λίστα αποκλεισμού</string>
     <string name="permission_download_introduction">Για την προσωρινή αποθήκευση αποθηκευμένων στοιχείων και την αποθήκευση τους στη συσκευή σας</string>
+    <string name="permission_enable_disable_bluetooth_summary">Για εύρεση συσκευών κοντά σας για σύνδεση και μεταφορά δεδομένων</string>
     <string name="permission_fast_pairing">Για να μπορεί να βρίσκει συσκευές σε κοντινή απόσταση, το Mi Link πρέπει να συνδεθεί στο διαδίκτυο και απαιτεί τα ακόλουθα δικαιώματα:</string>
     <string name="permission_imei_service">Για πρόσβαση στο IMEI για την παροχή υπηρεσιών που σχετίζονται με τη συσκευή σας</string>
     <string name="permission_interaction_introduction">Για την αποθήκευση φωτογραφιών και βίντεο στη συσκευή</string>
