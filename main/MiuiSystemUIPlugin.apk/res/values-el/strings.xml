@@ -34,6 +34,10 @@
     <string name="clear_text_end_icon_content_description">Καθαρισμός κειμένου</string>
     <string name="close">Κλείσιμο</string>
     <string name="control_center_notification_switch_guide">Σάρωση για εναλλαγή μεταξύ Κέντρου Ελέγχου και Πίνακα ειδοποιήσεων</string>
+    <string name="close_invisible_mode_dialog_cancel">Ακύρωση</string>
+    <string name="close_invisible_mode_dialog_message">"Δεν μπορώ να χρησιμοποιήσω το Mi Smart Play τώρα. Απενεργοποιήστε τη λειτουργία Incognito στις Ρυθμίσεις για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία."</string>
+    <string name="close_invisible_mode_dialog_ok">Ρυθμίσεις</string>
+    <string name="close_invisible_mode_dialog_title">"Είστε ινκόγκνιτο"</string>
     <string name="controls_confirmation_message">Επιβεβαίωση αλλαγής για %s</string>
     <string name="controls_dialog_confirmation">Τα στοιχεία ελέγχου ενημερώθηκαν</string>
     <string name="controls_dialog_message">%s πρότεινεται αυτό το στοιχείο ελέγχου για προσθήκη στα αγαπημένα σας.</string>

@@ -11,10 +11,10 @@
     <string name="antispam_local_marked">Τοπική σήμανση</string>
     <string name="antispam_notification_title">Άγνωστος αριθμός</string>
     <string name="antispam_provider">Αναγνώριση από %s</string>
-    <string name="bluetooth_permission_content">Λόγω της ενημέρωσης εξουσιοδότησης του συστήματος, απαιτείται η εξουσιοδότησή σας για να λάβετε τη λίστα συσκευών Bluetooth.</string>
-    <string name="bluetooth_permission_grant_immediately">Εξουσιοδότηση άμεσα</string>
-    <string name="bluetooth_permission_later">Αργότερα</string>
-    <string name="bluetooth_permission_title">Παρέχει πρόσβαση σε συσκευές bluetooth</string>
+    <string name="bluetooth_permission_content">Τα δικαιώματα συστήματος ενημερώθηκαν. Επιτρέψτε σε αυτήν την εφαρμογή να έχει πρόσβαση στα ονόματα των συσκευών Bluetooth ώστε να μπορεί να τα προβάλει.</string>
+    <string name="bluetooth_permission_grant_immediately">Αποδοχή</string>
+    <string name="bluetooth_permission_later">Όχι τώρα</string>
+    <string name="bluetooth_permission_title">Απαιτούμενες άδειες</string>
     <string name="callFailed_cb_enabled">Δεν μπορείτε να πραγματοποιήσετε εξερχόμενες κλήσεις όσο η φραγή κλήσεων είναι ενεργοποιημένη.</string>
     <string name="callFailed_congestion">Απασχολημένο δίκτυο</string>
     <string name="callFailed_dialToDial">Το αίτημα κλήσης τροποποιήθηκε ως κλήση με διαφορετικό αριθμό.</string>

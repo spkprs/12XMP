@@ -1369,6 +1369,7 @@
     <string name="bt_lhdc_open_dialog_title">Ενεργοποίηση LHDC;</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Χαρακτηριστικά</string>
+    <string name="bt_plugin_current_version">Τρέχουσα έκδοση</string>
     <string name="bt_plugin_new_version">Ενημέρωση</string>
     <string name="bt_plugin_preference_button">Ενημέρωση</string>
     <string name="bt_plugin_preference_msg">Τρέχουσα: %1$s | Νέα: %2$s</string>
