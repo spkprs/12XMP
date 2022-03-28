@@ -172,9 +172,6 @@
     <string name="ks_lock_screen">Οθόνη κλειδώματος</string>
     <string name="ks_regional_screen_shot">Στιγμιότυπο (μερικώς)</string>
     <string name="ks_screenshot">Στιγμιότυπο (ολόκληρη η οθόνη)</string>
-    <string name="small_freeform_check_memory_exception_message">Η %1$s προκάλεσε σφάλμα μνήμης. Κλείστε την για αποφυγή καθυστέρησης.</string>
-    <string name="small_freeform_check_memory_exception_negative_message">Ακύρωση</string>
-    <string name="small_freeform_check_memory_exception_positive_message">Κλείστε</string>
     <string name="lenovo_phone">Lenovo τηλέφωνο</string>
     <string name="livetalk_not_enable">Ανενεργό πακέτο Top-up</string>
     <string name="location_usage_restricted_body">Πατήστε για άρση των περιορισμών.</string>
@@ -300,6 +297,9 @@
     <string name="slavewifi_disconnect">Αποσύνδεση</string>
     <string name="slavewifi_notification_title">Χρήση Διπλής ζώνης WiFi</string>
     <string name="slavewifi_settings">Αγγίξτε για αλλαγή ρυθμίσεων</string>
+    <string name="small_freeform_check_memory_exception_message">Η %1$s προκάλεσε σφάλμα μνήμης. Κλείστε την για αποφυγή καθυστέρησης.</string>
+    <string name="small_freeform_check_memory_exception_negative_message">Ακύρωση</string>
+    <string name="small_freeform_check_memory_exception_positive_message">Κλείστε</string>
     <string name="small_freeform_enter_warning">Αιωρούμενο παράθυρο</string>
     <string name="small_freeform_exit_tip">Κλείσιμο κινούμενου παραθύρου</string>
     <string name="small_freeform_memory_toast_app_type">"Δεν μπορεί να ανοίξει τώρα. Αυτή η εφαρμογή απαιτεί πάρα πολλή μνήμη για να λειτουργήσει."</string>
@@ -364,8 +364,8 @@
     <string name="trial_mode_dialog_button_save">Αποθήκευση</string>
     <string name="trial_mode_dialog_message">\"%s\" εκτελείται σε Δοκιμαστική λειτουργία. Η επανεκκίνηση της συσκευής σας ή η μετάβαση σε λειτουργία Light speed θα διαγράψει αυτό το παιχνίδι. Αποθήκευση του παιχνιδιού στον Εσωτερικό χώρο αποθήκευσης;</string>
     <string name="trial_mode_dialog_title">Δοκιμαστική λειτουργία</string>
-    <string name="turn_on_work_profile">Ενεργοποίηση</string>
     <string name="turn_off">Απενεργοποίηση</string>
+    <string name="turn_on_work_profile">Ενεργοποίηση</string>
     <string name="twohours">1 ώρα</string>
     <string name="unknown_caller">Άγνωστος αριθμός</string>
     <string name="unrecognized_manufacture">Άγνωστη μάρκα</string>
