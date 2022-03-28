@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="login_app">Σύνδεση</string>
-    <string name="login_app_cancel">Ακύρωση</string>
-    <string name="login_app_confirm">Είσοδος</string>
-    <string name="login_xiaomi_account_summary">"Διάβασα και συμφώνησα με Mi Λογαριασμό &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Συμφωνία χρήστη&lt;/font>&lt;/a> και &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Πολιτική απορρήτου&lt;/font>&lt;/a>."</string>
-    <string name="not_agree_summary">Συμφωνήστε πρώτα με τους όρους και τις προϋποθέσεις μας</string>
-    <string name="privacy_update_title1">Ενημερωμένη πολιτική απορρήτου</string>
-    <string name="privacy_update_title2">Προσοχή</string>
     <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
     <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
     <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
@@ -310,13 +303,46 @@
     <string name="launch_bg_permission_exception">Να επιτρέπεται η προβολή εναλλασσόμενων εικόνων στα αναδυόμενα παράθυρα κατά την εκτέλεση στο παρασκήνιο στην ασφάλεια</string>
     <string name="like">Προσθήκη στα αγαπημένα</string>
     <string name="liked">Προστέθηκε στα αγαπημένα</string>
+    <string name="lks_cta_dont_mention">"Μην εμφανιστεί ξανά"</string>
+    <string name="lks_cta_ok">Συμφωνώ</string>
+    <string name="lks_cta_reject">"Δεν συμφωνώ"</string>
+    <string name="lks_cta_summary1">Το Wallpaper Carousel παρέχει τα ακόλουθα χαρακτηριστικά:</string>
+    <string name="lks_cta_summary2">"1. Αυτόματα ενημερωμένες ταπετσαρίες&lt;br>2. Φρέσκες εικόνες και ιστορίες στην οθόνη κλειδώματος&lt;br>3. Επιλογές προσαρμογής&lt;br>Αυτή η λειτουργία πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά..&lt;br>&lt;br>Για να παρέχουμε πρόσθετες υπηρεσίες, ενδέχεται να ζητήσουμε άδεια πρόσβασης και αποθήκευσης στοιχείων στον αποθηκευτικό χώρο αυτής της συσκευής. Διαβάστε και συμφωνήστε με την &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Συμφωνία χρήστη&lt;/font>&lt;/a> και &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Πολιτική απορρήτου&lt;/font>&lt;/a> πριν συνεχίσετε."</string>
+    <string name="lks_cta_title">Όροι και προϋποθέσεις</string>
+    <string name="lks_current_lks_wallpaper">Τρέχουσα οθόνη κλειδώματος</string>
+    <string name="lks_data_warning_toast_1">Χρησιμοποιείτε δεδομένα κινητής για να περιηγηθείτε σε ταπετσαρίες.\nΑυτό μπορεί να δημιουργήσει πρόσθετες χρεώσεις.</string>
+    <string name="lks_dislike">"Δεν μου αρέσει"</string>
+    <string name="lks_download">Λήψη</string>
     <string name="lks_left_net_deny">Η σύνδεση δικτύου είναι περιορισμένη</string>
     <string name="lks_left_net_error">Δεν ήταν δυνατή η σύνδεση στο δίκτυο.</string>
     <string name="lks_left_top_notice">Πατήστε εδώ για να επιστρέψετε στην κορυφή</string>
     <string name="lks_left_top_notice_refresh">Πατήστε για προβολή νέων στοιχείων</string>
+    <string name="lks_like">Προσθήκη στα αγαπημένα</string>
+    <string name="lks_liked">Προστέθηκε στα αγαπημένα</string>
     <string name="lks_logo_desc2">Φρέσκιες ταπετσαρίες καθημερινά</string>
     <string name="lks_logo_desc_search">Φρέσκες ταπετσαρίες καθημερινά</string>
+    <string name="lks_loop_icon_ask_cancle">Ακύρωση</string>
+    <string name="lks_loop_icon_ask_dlg">Ενεργοποιήστε την προβολή διαφανειών οθόνης κλειδώματος για να λαμβάνετε καθημερινά νέες εικόνες και ιστορίες στην οθόνη κλειδώματος.</string>
+    <string name="lks_loop_icon_ask_ok">Ενεργοποίηση</string>
+    <string name="lks_loop_icon_ask_title">Παρουσίαση διαφανειών οθόνης κλειδώματος</string>
+    <string name="lks_loop_icon_close_cancle">Ακύρωση</string>
+    <string name="lks_loop_icon_close_dlg">Η προβολή διαφανειών στην οθόνη κλειδώματος θα απενεργοποιηθεί εάν ορίσετε αυτή την εικόνα ως οθόνη κλειδώματος. Ορισμός ως οθόνη κλειδώματος τώρα;</string>
+    <string name="lks_loop_icon_close_ok">OK</string>
+    <string name="lks_loop_icon_close_title">Προσοχή</string>
+    <string name="lks_loop_icon_dlg_title">Παρουσίαση διαφανειών οθόνης κλειδώματος</string>
+    <string name="lks_loop_icon_open_dlg">Η προβολή διαφανειών οθόνης κλειδώματος είναι ενεργοποιημένη και παρέχει καθημερινά νέες εικόνες και ιστορίες στην οθόνη κλειδώματος.</string>
+    <string name="lks_loop_icon_open_ok">Κατανοητό</string>
+    <string name="lks_more">Περισσότερα</string>
+    <string name="lks_more_pics_coming_toast">Έρχονται νέες εικόνες</string>
+    <string name="lks_new_user_help_anime">Σύρετε προς τα πάνω για να δείτε περισσότερα από το Wallpaper Carousel</string>
+    <string name="lks_no_network">"Αδύνατον να συνδεθεί στο δίκτυο"</string>
+    <string name="lks_please_reload">Επαναφόρτωση</string>
+    <string name="lks_related_article">Άρθρο</string>
+    <string name="lks_retry">Δοκιμάστε ξανά</string>
+    <string name="lks_set_as_lks_wallpaper">Ορισμός ως οθόνη κλειδώματος</string>
     <string name="lks_subscription_toast">Η Αλλαγή ταπετσαρίας ολοκληρώθηκε</string>
+    <string name="lks_to_history">Ιστορικό</string>
+    <string name="lks_to_setting">Ρυθμίσεις Carousel ταπετσαρίας</string>
     <string name="llks_add_cate">Εγγραφείτε στο %s</string>
     <string name="llks_auto_switch_wp">Εγγραφείτε στις κατηγορίες που σας αρέσει</string>
     <string name="llks_display_error">Απαιτούνται Άδειες</string>
@@ -359,6 +385,10 @@
     <string name="lockscreen_magazine_summary">Επιλέξτε κατηγορίες</string>
     <string name="lockscreen_magazine_system_title">Προεπιλογή</string>
     <string name="lockscreen_magazine_title">Καρουσέλ Ταπετσαρίες</string>
+    <string name="login_app">Σύνδεση</string>
+    <string name="login_app_cancel">Ακύρωση</string>
+    <string name="login_app_confirm">Είσοδος</string>
+    <string name="login_xiaomi_account_summary">"Διάβασα και συμφώνησα με Mi Λογαριασμό &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Συμφωνία χρήστη&lt;/font>&lt;/a> και &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Πολιτική απορρήτου&lt;/font>&lt;/a>."</string>
     <string name="logout">Αποσύνδεση</string>
     <string name="logout_account">Έξοδος</string>
     <string name="logout_cancel">Ακύρωση</string>
@@ -464,6 +494,7 @@
     <string name="no_phone">Δεν υπάρχει αριθμός τηλεφώνου</string>
     <string name="no_pic_data">Δεν ήταν δυνατή η εύρεση εικόνων</string>
     <string name="noon">Μεσημέρι</string>
+    <string name="not_agree_summary">Συμφωνήστε πρώτα με τους όρους και τις προϋποθέσεις μας</string>
     <string name="not_allowed">Δεν έχει χορηγηθεί</string>
     <string name="not_cancel_button">ΟΧΙ</string>
     <string name="not_revoke_button">Ακύρωση</string>
@@ -602,6 +633,8 @@
     <string name="privacy_update_summary1">Ενημερώθηκε η Πολιτική Απορρήτου του Wallpaper Carousel:</string>
     <string name="privacy_update_summary2">"Διαβάστε και συμφωνήστε με τη νέα έκδοση της &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Πολιτική απορρήτου&lt;/font>&lt;/a> πριν συνεχίσετε."</string>
     <string name="privacy_update_summary3">"Δεν θα μπορείτε να συνεχίσετε να χρησιμοποιείτε το Wallpaper Carousel αν δεν συμφωνήσετε με τη νέα έκδοση του &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Πολιτική απορρήτου&lt;/font>&lt;/a>. Συμφωνείτε με την ενημερωμένη Πολιτική Απορρήτου τώρα;"</string>
+    <string name="privacy_update_title1">Ενημερωμένη πολιτική απορρήτου</string>
+    <string name="privacy_update_title2">Προσοχή</string>
     <string name="prv_end"><CDATA>"Αυτά προς το παρόν."</CDATA></string>
     <string name="prv_loading"><CDATA>Ένα λεπτό </CDATA></string>
     <string name="prv_nodata"><CDATA>Δεν υπάρχουν δεδομένα</CDATA></string>

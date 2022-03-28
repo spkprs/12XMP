@@ -2629,7 +2629,7 @@
     <string name="error_mcc_not3">Το πεδίο MCC πρέπει να αποτελείται από 3 ψηφία</string>
     <string name="error_mnc_not23">Το πεδίο MNC πρέπει να αποτελείται από 2 ή 3 ψηφία</string>
     <string name="error_name_empty">"Το πεδίο Όνομα δε μπορεί να είναι κενό "</string>
-    <string name="error_xcap_not_add">Ο τύπος APN δεν μπορεί να είναι τύπος XCAP.</string>
+    <string name="error_xcap_not_add">"Δεν μπορεί να χρησιμοποιηθεί το XCAP ως τύπος ονόματος σημείου πρόσβασης."</string>
     <string name="estimated_charging_time_left">Μέχρι την πλήρη φόρτιση</string>
     <string name="estimated_time_description">Η εκτίμηση μπορεί να αλλάξει με βάση τη χρήση</string>
     <string name="estimated_time_left">Εκτιμώμενος υπολειπόμενος χρόνος</string>
@@ -2855,6 +2855,8 @@
     <string name="firmware_version">Έκδοση Android</string>
     <string name="fiveg_sa_switch_summary">Ενεργοποίηση λειτουργίας SA του Vice SIM, μόνο για δοκιμή</string>
     <string name="fiveg_sa_vice_switch_title">SA για τη δεύτερη SIM</string>
+    <string name="fiveg_vonr_switch_summary">Χρησιμοποιήστε το VoNR σε περιβάλλοντα δικτύου 5G για να βελτιώσετε την εμπειρία κλήσεων. Αυτή η λειτουργία παρέχεται μόνο για δοκιμαστικούς σκοπούς.</string>
+    <string name="fiveg_vonr_switch_title">Ρυθμίσεις VoNR</string>
     <string name="flash_drive_backup_disable">Συνδέστε πρώτα τη μονάδα USB</string>
     <string name="flash_drive_backup_enable">Χρησιμοποιήστε μια μονάδα USB για δημιουργία αντιγράφων ασφαλείας ή επαναφορά στοιχείων</string>
     <string name="flash_drive_backup_restore">Δημιουργία αντιγρ ή επαναφ σε USB</string>
@@ -2882,6 +2884,10 @@
     <string name="fold_rule_important">Σημαντική</string>
     <string name="fold_rule_unimportant">Ασήμαντη</string>
     <string name="fold_title">Κανόνες για ομαδ/μένες ειδοποιήσεις</string>
+    <string name="font_cta_alert_btn_negative">Ακύρωση</string>
+    <string name="font_cta_alert_btn_positive">Συμφωνώ</string>
+    <string name="font_cta_alert_message">Διαβάστε και συμφωνήστε με τους όρους και τις προϋποθέσεις των Θεμάτων για να συνεχίσετε.</string>
+    <string name="font_cta_alert_title">Όροι και προϋποθέσεις</string>
     <string name="font_setting_weight_toast">"Η τρέχουσα γραμματοσειρά δεν υποστηρίζει την προσαρμογή πάχους"</string>
     <string name="font_settings_jump">Προσβασιμότητα > Μέγεθος εμφάνισης</string>
     <string name="font_settings_recommend_title">"Το μέγεθος του κειμένου δεν είναι αρκετά μεγάλο;"</string>
@@ -7933,6 +7939,7 @@
     <string name="volume_ring_mute">Σίγαση ήχου κλήσης &amp; ειδοποιήσεων</string>
     <string name="volume_system_description">Ένταση συστήματος, κλείστρο κάμερας, κλείδωμα οθόνης και άλλες ειδοποιήσεις συστήματος</string>
     <string name="volume_voice_description">Ένταση φωνής</string>
+    <string name="vonr_switch_title">Χρήση VoNR</string>
     <string name="vpn_always_on_invalid_reason_dns">Οι διευθύνσεις διακομιστή DNS πρέπει να είναι αριθμητικές για το μονίμως ενεργό VPN</string>
     <string name="vpn_always_on_invalid_reason_no_dns">Θα πρέπει να καθοριστεί ένας διακομιστής DNS για το μονίμως ενεργό VPN</string>
     <string name="vpn_always_on_invalid_reason_other">Οι πληροφορίες που έχουν εισαχθεί δεν υποστηρίζουν το μονίμως ενεργό VPN</string>

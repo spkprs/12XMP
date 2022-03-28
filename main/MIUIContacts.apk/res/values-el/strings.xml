@@ -1146,6 +1146,7 @@
     <string name="privacy_password_title2">Χρήση κωδικού πρόσβασης προστασίας προσωπικών δεδομένων</string>
     <string name="privacy_password_title3">Αναβαθμίστε τον κωδικό πρόσβασής σας</string>
     <string name="privacy_password_title4">Ο κωδικός πρόσβασης αναβαθμίστηκε</string>
+    <string name="privacy_settings_blue_scan_connect">Σύνδεση σε κοντινές συσκευές</string>
     <string name="privacy_settings_call_phone">Πραγμ/ποίηση κλήσεων</string>
     <string name="privacy_settings_call_phone_description">Για πραγματοποίηση κλήσεων μέσω συντομεύσεων από την Αρχική οθόνη</string>
     <string name="privacy_settings_call_phone_description_for_pad">Για πραγμ/ποίηση κλήσεων σε εφαρμογές τρίτων</string>
@@ -1516,6 +1517,7 @@
     <string name="toast_for_saving_nickname">"Αποθήκευση Ψευδώνυμου "</string>
     <string name="toast_join_with_empty_contact">Πληκτρολογήστε το όνομα της επαφής πριν από τη συγχώνευσή της με άλλη</string>
     <string name="toast_making_personal_copy">Δημιουργώντας ένα προσωπικό αντίγραφο…</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Επιτρέψτε αυτή τη λειτουργία να συνδέεται με κοντινές συσκευές μέσω Bluetooth για να μπορείτε να εισάγετε επαφές από άλλες συσκευές.</string>
     <string name="toast_not_show_camera_perm_req">Για να μπορέσετε να χρησιμοποιήσετε την κάμερα για τη λήψη φωτογραφιών προφίλ, επιτρέψτε πρώτα σε αυτή την εφαρμογή την λήψη φώτο και βίντεο.</string>
     <string name="toast_not_show_location_perm_req">Για να μπορείτε να εισάγετε επαφές από άλλες συσκευές μέσω Bluetooth, επιτρέψτε πρώτα σε αυτή την εφαρμογή να αποκτήσει πρόσβαση στην τοποθεσία σας.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Για να μπορείτε να προβάλετε το ιστορικό κλήσεων, επιτρέψτε σε αυτήν την εφαρμογή να αποκτήσει πρόσβαση πρώτα στο ιστορικό κλήσεων.</string>

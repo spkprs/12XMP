@@ -63,7 +63,7 @@
     <string name="application_icon">Εικονίδιο εφαρμ.</string>
     <string name="audio_create_normal_state">Απελευθερώστε για δημιουργία. Σύρετε επάνω για ακύρωση.</string>
     <string name="audio_create_will_cancel_state">Απελευθερώστε για ακύρωση</string>
-    <string name="audio_dialog_mode_meeting_sum">Η λειτουργία Συνάντησης σάς επιτρέπει να αναγνωρίζετε τις φωνές %1$d-%2$d διαφορετικών ατόμων. Ορισμένα σφάλματα αναγνώρισης ενδέχεται να εμφανιστούν στην έκδοση Beta.</string>
+    <string name="audio_dialog_mode_meeting_sum">Η λειτουργία Συνάντησης σάς επιτρέπει να αναγνωρίζετε τις φωνές έως και 4 διαφορετικών ατόμων. Ορισμένα σφάλματα αναγνώρισης ενδέχεται να εμφανιστούν στην έκδοση Beta.</string>
     <string name="audio_panel_time_counter_default">00:00</string>
     <string name="audio_toast_file_invalid">Το αρχείο ήχου δεν είναι έγκυρο</string>
     <string name="audio_toast_file_undownload">Το αρχείο ήχου δεν έχει ολοκληρωθεί λήψη ή λείπει</string>
@@ -259,6 +259,7 @@
     <string name="menu_create_folder">Νέος φάκελος</string>
     <string name="menu_delete">Διαγραφή</string>
     <string name="menu_delete_forever">Διαγραφή για πάντα</string>
+    <string name="menu_edit">Επεξεργασία</string>
     <string name="menu_folders">Φάκελοι</string>
     <string name="menu_group">Δημιουργήστε ένα φάκελο</string>
     <string name="menu_hide">Απόκρυψη</string>
@@ -433,6 +434,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Ξεκινήστε να πληκτρολογείτε "</string>
     <string name="note_mindnote_entrance_icon_text">Δημιουργήστε έναν χάρτη mind</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Δημιουργία χάρτη μυαλού</string>
+    <string name="note_module_name">Σημειώσεις</string>
     <string name="note_not_text_stub">Χωρίς κείμενο</string>
     <string name="note_sort_way">Ταξινόμηση σημειώσεων</string>
     <string name="notealert_enter">Ρίξτε μια ματιά</string>
@@ -583,8 +585,9 @@
     <string name="setting_big_screen_layout_columns">Πλαϊνή μπάρα</string>
     <string name="setting_big_screen_layout_flat">Πλακίδια</string>
     <string name="setting_big_screen_layout_title">Διάταξη μεγάλης οθόνης</string>
+    <string name="setting_cloud_service">Υπηρεσίες Cloud</string>
     <string name="setting_layout">Διάταξη</string>
-    <string name="setting_micloud_sync_title">Συγχρονισμός με το cloud</string>
+    <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
     <string name="setting_note_list_layout_title">Διάταξη</string>
     <string name="setting_other">ΑΛΛΟ</string>
     <string name="setting_privacy">Πολιτική Απορρήτου</string>
