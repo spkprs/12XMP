@@ -387,7 +387,7 @@
     <string name="pad_keyboard_add_city">Προσθήκη Θέσης</string>
     <string name="pad_keyboard_left_switch">Προηγούμενη Θέση</string>
     <string name="pad_keyboard_right_switch">Επόμενη Θέση</string>
-    <string name="pad_real_time_detail_title">Άνετος</string>
+    <string name="pad_real_time_detail_title">Δείκτες</string>
     <string name="particulate_matter_exceeded">Υψηλή</string>
     <string name="particulate_matter_not_exceeded">Κανονική</string>
     <string name="particulate_matter_serious_exceeded">Πολύ υψηλή</string>

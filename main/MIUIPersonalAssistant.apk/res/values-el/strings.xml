@@ -311,8 +311,8 @@
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s επιλεγμένα.</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">Κατάστημα Widget Λίστα εφαρμογών Σύνολο %s στοιχείων Επί του παρόντος επιλεγμένο %s Στοιχείο %s που περιέχει %s widgets Διπλό κλικ για να μεταβείτε στην εισαγωγή widget</string>
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s επιλεγμένα.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Διπλό πάτημα για προσθήκη του στοιχείου στην Αρχική οθόνη.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Διπλό πάτημα για προσθήκη του στοιχείου στο Βοηθό MIUI.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Προσθέστε αυτό το στοιχείο στην Αρχική οθόνη.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Προσθέστε αυτό το στοιχείο στο Βοηθό MIUI.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Επεξ/σία</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Επιλεγμένο widget. Σύρετε για προσθήκη στην Αρχική οθόνη.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Επιλεγμένο widget. Σύρετε για προσθήκη στο Βοηθό MIUI.</string>

@@ -477,9 +477,9 @@
     <string name="course_traffic_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="course_unit_speed">χλμ/ώ</string>
     <string name="course_user_info_desc">Για να είναι τα δεδομένα προπόνησης πιο ακριβή, συμπληρώστε τις πληροφορίες προφίλ.</string>
+    <string name="course_video_1080">1080P</string>
     <string name="course_video_4k">4K</string>
     <string name="course_video_720">720P</string>
-    <string name="course_video_1080">1080P</string>
     <string name="data_sleep_reference_detail">1. Principles and Practice of Sleep Medicine, 4η έκδοση\n2. Βασικές αρχές της ιατρικής του ύπνου\n3. Πατέλ, Α. K., Reddy, V., &amp;amp; Araujo, J. Φά. (2020, Απρίλιος). Φυσιολογία, Στάδια Ύπνου. StatPearls Publishing\n4. Τέιλορ, Π. (2020, 30 Μαΐου). Ωρα για ύπνο. Retrieved September 10, 2020, from https://www.pewsocialtrends.org/2009/07/29/nap-time/\n5. Συστάσεις για τη διάρκεια του ύπνου του National Sleep Foundation: μεθοδολογία και σύνοψη αποτελεσμάτων. Υγεία ύπνου, 1(1), 40–43\n6. Εξερευνώντας το παράδοξο του υπνάκου: οι μεσημεριανοί ύπνοι είναι φίλος ή εχθρός;. Ιατρική για τον ύπνο, 37, 88–97\n7. Συστάσεις για την ποιότητα του ύπνου του National Sleep Foundation: πρώτη έκθεση. Υγεία ύπνου. 2017 Feb;3(1):6-19\n8. Εθνικό Ινστιτούτο Νευρολογικών Διαταραχών και Εγκεφαλικού. (ν.δ.). Βασικά στοιχεία του εγκεφάλου: Κατανόηση του ύπνου. Ανακτήθηκε στις 7 Ιουνίου 2017\n9. Διαχείριση της χρόνιας διαταραχής αϋπνίας σε ενήλικες: Κατευθυντήρια γραμμή κλινικής πρακτικής από το Αμερικανικό Κολλέγιο Ιατρών. Ann Intern Med. 2016 Jul 19;165(2):125-33.</string>
     <string name="data_type_energy">Ενέργεια</string>
     <string name="data_type_heart_rate">Καρδιακός ρυθμός</string>
@@ -505,6 +505,8 @@
     <string name="device_add_discovery_paired">Βρέθηκε συσκευή σε σύζευξη</string>
     <string name="device_add_failed">Αδυναμία προσθήκης</string>
     <string name="device_add_new">Προσθήκη συσκευής</string>
+    <string name="device_agree_all">Συμφωνώ σε όλα</string>
+    <string name="device_agree_to_terms">Όροι και προϋποθέσεις</string>
     <string name="device_alarm_notify">Συγχρονισμός ξυπνητηριών από το τηλέφωνο</string>
     <string name="device_all_skills">Όλες οι λειτουργίες</string>
     <string name="device_app_recovery_connect">Σύνδεση</string>
@@ -598,7 +600,7 @@
     <string name="device_language_setting">Γλώσσα</string>
     <string name="device_location_dialog_message">Δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την υπηρεσία εάν δεν παραχωρήσετε τις απαιτούμενες άδειες, αλλά αυτό δεν θα επηρεάσει τη χρήση άλλων υπηρεσιών. Μπορείτε πάντα να περιορίσετε τις άδειες στις Ρυθμίσεις.</string>
     <string name="device_location_dialog_title">Απαιτούνται άδειες</string>
-    <string name="device_lock_off_wrist">Ανίχνευση καρπού</string>
+    <string name="device_lock_off_wrist">PIN</string>
     <string name="device_manager">Συσκευές</string>
     <string name="device_mi_band">Band</string>
     <string name="device_mi_sport_health">Mi Fitness (Τρέχουσα)</string>
@@ -627,6 +629,8 @@
     <string name="device_remove_device_in_other">Μεταβείτε στη σελίδα Συσκευή και πατήστε Κατάργηση σύζευξης.</string>
     <string name="device_remove_fail">Αδυναμία αφαίρεσης</string>
     <string name="device_remove_fail_many_time">Για να καταργήσετε τη σύζευξη της συσκευής, μεταβείτε στη σελίδα Συσκευή και πατήστε Κατάργηση σύζευξης.</string>
+    <string name="device_required_agree_collect_info">&lt;Data>Συμφωνώ στη &lt;a href=\"%1$s\">Συλλογή και χρήση προσωπικών πληροφοριών&lt;/a> (υποχρεωτικό)&lt;/Data></string>
+    <string name="device_required_agree_use_location">&lt;Data>Συμφωνώ στη &lt;a href=\"%1$s\">Συλλογή πληροφοριών τοποθεσίας&lt;/a> (υποχρεωτικό)&lt;/Data></string>
     <string name="device_retry">Προσπαθήστε ξανά</string>
     <string name="device_scan_login">Σαρωτής</string>
     <string name="device_scan_qr_add_device">Προσθήκη συσκευής</string>
@@ -784,6 +788,19 @@
     <string name="device_settings_common_wechat_pay">WeChat</string>
     <string name="device_settings_common_world_clock">Παγκόσμια ώρα</string>
     <string name="device_settings_common_xiaoai">Mi AI</string>
+    <string name="device_settings_contact">Αγαπημένες επαφές</string>
+    <string name="device_settings_contact_add">Προσθήκη</string>
+    <string name="device_settings_contact_add_fail">"Δεν ήταν δυνατή η προσθήκη στις αγαπημένες επαφές. Προσπαθήστε ξανά."</string>
+    <string name="device_settings_contact_delete_fail">"Δεν ήταν δυνατή η διαγραφή. Προσπαθήστε ξανά."</string>
+    <string name="device_settings_contact_edit">Επεξεργασία</string>
+    <string name="device_settings_contact_list_fail">"Δεν ήταν δυνατή η λήψη πληροφοριών επαφής. Προσπαθήστε ξανά."</string>
+    <string name="device_settings_contact_list_tips1">1. Για να καλέσετε τις επαφές σας στη φορητή συσκευή σας, προσθέστε τις στις αγαπημένες σας επαφές.</string>
+    <string name="device_settings_contact_list_tips2">2. Μπορείτε να προσθέσετε έως και 10 αγαπημένες επαφές.</string>
+    <string name="device_settings_contact_search">Αναζήτηση επαφών</string>
+    <string name="device_settings_contact_select">Επιλέξτε επαφή</string>
+    <string name="device_settings_contact_sort">Ταξινόμηση</string>
+    <string name="device_settings_contact_sync_failt">"Δεν ήταν δυνατός ο συγχρονισμός. Προσπαθήστε ξανά."</string>
+    <string name="device_settings_contact_sync_success">Συγχρονίστηκαν επιτυχώς</string>
     <string name="device_settings_continue">Επόμενο</string>
     <string name="device_settings_customize_schedule">Πρόγραμμα</string>
     <string name="device_settings_desc_pressure">Μετρήστε το επίπεδο άγχους σας καθ\' όλη την ημέρα</string>
@@ -882,7 +899,7 @@
     <string name="device_settings_heart_rate_warning_unit">BPM</string>
     <string name="device_settings_helper_keep_alive">Άδειες παρασκηνίου</string>
     <string name="device_settings_high_hr_notify">Υψηλός καρδιακός ρυθμός</string>
-    <string name="device_settings_high_hr_notify_des">Ειδοποίηση όταν ο καρδιακός σας ρυθμός υπερβαίνει το καθορισμένο επίπεδο ενώ είστε ανενεργός για 10 λεπτά</string>
+    <string name="device_settings_high_hr_notify_des">"Ειδοποίηση όταν ο καρδιακός σας ρυθμός παραμένει πάνω από το καθορισμένο επίπεδο ενώ είστε αδρανείς"</string>
     <string name="device_settings_high_hr_notify_threshold">Τιμή ειδοποίησης</string>
     <string name="device_settings_high_pressure_notice_des">Προτροπή για άσκηση αναπνοής όταν το επίπεδο άγχους σας παραμένει πάνω από 80 κατά τη διάρκεια της αφύπνισης</string>
     <string name="device_settings_high_pressure_notice_title">Υπενθύμιση για χαλάρωση</string>
@@ -910,7 +927,7 @@
     <string name="device_settings_limit_bind_switch_tips">Περιορίστε τη σύζευξη της φορετής συσκευής σας με διαφορετική εφαρμογή</string>
     <string name="device_settings_limit_hint">Συμβουλές</string>
     <string name="device_settings_load_data_failed">Αδυναμία φόρτωσης πληροφοριών</string>
-    <string name="device_settings_lock_off_wrist">Ανίχνευση καρπού</string>
+    <string name="device_settings_lock_off_wrist">PIN</string>
     <string name="device_settings_lock_off_wrist_set_pwd">Ορισμός PIN</string>
     <string name="device_settings_long_sit">Ειδοποίηση αδράνειας</string>
     <string name="device_settings_low_hr_warning_title">Χαμηλός καρδιακός ρυθμός</string>
@@ -936,6 +953,7 @@
     <string name="device_settings_night_model_sunset_open">Απενεργοποιημένο μέχρι το ηλιοβασίλεμα</string>
     <string name="device_settings_night_model_tomorrow">Αύριο</string>
     <string name="device_settings_night_start_time">Έναρξη</string>
+    <string name="device_settings_no_contact">Δεν υπάρχουν ακόμα αγαπημένα</string>
     <string name="device_settings_not_open_for_now">Όχι τώρα</string>
     <string name="device_settings_notify_permission_is_not_enabled">Επιτρέψτε πρόσβαση στις Ειδοποιήσεις</string>
     <string name="device_settings_nromal_alarm">Κανονικό</string>
@@ -1065,6 +1083,7 @@
     <string name="device_settings_unwear_close_cofirm_msg">Εάν απενεργοποιήσετε τον κωδικό PIN, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την λειτουργία, συνέχεια παρ\' όλα αυτά;</string>
     <string name="device_settings_unwear_close_cofirm_title">Απενεργοποίηση PIN;</string>
     <string name="device_settings_unwear_close_pwd">Απενεργοποίηση PIN</string>
+    <string name="device_settings_unwear_get_status_fail">"Αδυναμία συγχρονισμού δεδομένων"</string>
     <string name="device_settings_unwear_no_set">Δεν έχει οριστεί</string>
     <string name="device_settings_unwear_set_pwd">PIN</string>
     <string name="device_settings_unwear_set_pwd_huami_alert">Εισαγάγετε 6ψήφιο PIN</string>
@@ -2090,9 +2109,9 @@
     <string name="health_pai_open_hr_check">OK</string>
     <string name="health_pai_open_hr_check_txt">Ενεργοποιήστε τη Συνεχή εποπτεία και ρυθμίστε τη συχνότητα σε 1 λεπ</string>
     <string name="health_pai_suggest_content">Τρέξτε %1$s και διατηρήστε τον καρδιακό σας ρυθμό πάνω από %2$s</string>
+    <string name="health_pai_target_100pai">100 PAI</string>
     <string name="health_pai_target_30pai">30 PAI</string>
     <string name="health_pai_target_50pai">50 PAI</string>
-    <string name="health_pai_target_100pai">100 PAI</string>
     <string name="health_pai_target_disparity">Κερδίστε %1$d PAI</string>
     <string name="health_pai_target_disparity_excellent">Εξαιρετικά! Έχετε κερδίσει 100 PAI.</string>
     <string name="health_pai_target_disparity_finish">Μπορείτε να επιτύχετε το πολύ 75 PAI σε μία ημέρα.</string>
@@ -2210,6 +2229,7 @@
     <string name="health_sleep_whether_to_override_history_records">Υπάρχει ήδη ένα αρχείο ύπνου σε αυτήν τη χρονική περίοδο. Διαγραφή της προηγούμενης εγγραφής;</string>
     <string name="health_snore_detection_close_title">Απενεργοποιείτε την ανίχνευση του ροχαλητού και ομιλίας;</string>
     <string name="health_snore_duration">Ροχαλητό</string>
+    <string name="health_spo2_abnormal_count">Προειδοποιήσεις</string>
     <string name="health_spo2_abnormal_low">Προειδοποιήσεις</string>
     <string name="health_spo2_avg">Μέτριο</string>
     <string name="health_spo2_desc_day">Οξυγόνο αίματος %1$s</string>
@@ -2546,13 +2566,13 @@
     <string name="main_tab_health_name">Υγεία</string>
     <string name="main_tab_status_name">Κατάσταση</string>
     <string name="mapbox_attributionErrorNoBrowser">Δεν υπάρχει εγκατεστημένο πρόγραμμα περιήγησης ιστού στη συσκευή, δεν μπορεί να ανοίξει ιστοσελίδα.</string>
-    <string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK για Android</string>
-    <string name="mapbox_attributionsIconContentDescription">Εικονίδιο απόδοσης. Ενεργοποιήστε για να εμφανιστεί το παράθυρο διαλόγου απόδοσης.</string>
     <string name="mapbox_attributionTelemetryMessage">Βοηθάτε να γίνουν καλύτεροι οι χάρτες OpenStreetMap και Mapbox συνεισφέροντας ανώνυμα δεδομένα χρήσης.</string>
     <string name="mapbox_attributionTelemetryNegative">Διαφωνώ</string>
     <string name="mapbox_attributionTelemetryNeutral">Περισσότερες πληροφορίες</string>
     <string name="mapbox_attributionTelemetryPositive">Συμφωνώ</string>
     <string name="mapbox_attributionTelemetryTitle">Κάντε καλύτερους τους Χάρτες Mapbox</string>
+    <string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK για Android</string>
+    <string name="mapbox_attributionsIconContentDescription">Εικονίδιο απόδοσης. Ενεργοποιήστε για να εμφανιστεί το παράθυρο διαλόγου απόδοσης.</string>
     <string name="mapbox_compassContentDescription">Πυξίδα χάρτη. Ενεργοποιήστε για να επαναφέρετε την περιστροφή του χάρτη στο Βορρά.</string>
     <string name="mapbox_mapActionDescription">Εμφάνιση χάρτη που δημιουργήθηκε με το Mapbox. Κάντε κύλιση σύροντας δύο δάχτυλα. Κάντε ζουμ τσιμπώντας δύο δάχτυλα.</string>
     <string name="mapbox_myLocationViewContentDescription">Προβολή τοποθεσίας. Αυτό δείχνει την τοποθεσία σας στον χάρτη.</string>
@@ -3382,6 +3402,8 @@
     <string name="privacy_permission_read_call_log">Πρόσβαση στο ιστορικό κλήσεων</string>
     <string name="privacy_permission_read_contacts">Πρόσβαση στις επαφές</string>
     <string name="privacy_permission_read_phone_state">Πρόσβαση στις πληροφορίες συσκευής</string>
+    <string name="privacy_permission_record_audio">Εγγραφή ήχου</string>
+    <string name="privacy_permission_record_audio_des">Για την καταγραφή της ομιλίας και του ροχαλητού ενώ αναλύεται ο κύκλος του ύπνου σας</string>
     <string name="privacy_permission_write_read_file">Πρόσβαση στον χώρο αποθήκευσης</string>
     <string name="privacy_sensitive_notify_des">Για να παρακολουθείτε τις προπονήσεις σας και την πρόοδο της φυσικής σας κατάστασης, συλλέγουμε και επεξεργαζόμαστε τις πληροφορίες σας, συμπεριλαμβανομένων των διαδρομών προπόνησης, δεδομένων ύπνου, καρδιακών παλμών και βάρους.</string>
     <string name="privacy_sensitive_notify_msg">&lt;Data>Διαβάστε και αποδεχτείτε τη &lt;a href=\"%1$s\">Συλλογή και Χρήση ευαίσθητων δεδομένων&lt;/a> μας για να κατανοήσετε καλύτερα πώς συλλέγουμε και επεξεργαζόμαστε τις πληροφορίες σας. Δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την υπηρεσία εάν δεν αποδεχτείτε τη συλλογή και την επεξεργασία από εμάς.&lt;/Data></string>
@@ -3721,6 +3743,7 @@
     <string name="stand_notice_title5">Φαίνεται ότι δεν σηκωθήκατε την τελευταία ώρα</string>
     <string name="stand_notice_title6">Έχετε σηκωθεί όρθιοι την τελευταία ώρα;</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="success">Τέλος</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
@@ -3728,6 +3751,8 @@
     <string name="sync_password">Κωδικός</string>
     <string name="sync_user_name">Όνομα χρήστη</string>
     <string name="sync_weather_notification_message">Ενημέρωση δεδομένων καιρού στη φορετή συσκευή σας…</string>
+    <string name="sync_wifi_no_permission_desc">Κοινή χρήση του κωδικού Wi-Fi με τη φορετή συσκευή σας;</string>
+    <string name="sync_wifi_no_permission_title">Κοινή χρήση κωδικού</string>
     <string name="system_error_info">Το σύστημα είναι απασχολημένο. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="taiwan">Ταϊβάν</string>
     <string name="tb_current_select">%1$s</string>
@@ -3883,11 +3908,15 @@
     <string name="trail_label_type">Τύπος</string>
     <string name="trail_lactate_threshold">Κατώφλι</string>
     <string name="trail_low_intensity_description">Μπορούσα να μιλήσω χωρίς να φουσκώσω</string>
+    <string name="trail_map_style_common">Προεπιλογή</string>
+    <string name="trail_map_style_no_label">Χωρίς</string>
+    <string name="trail_map_style_satillite">Δορυφόρος</string>
     <string name="trail_max_stress">Μέγ.</string>
     <string name="trail_middle_intensity_description">Μπορούσα να μιλήσω αλλά όχι να τραγουδήσω</string>
     <string name="trail_month_dialog_go_today">Επιλέχθηκε σήμερα</string>
     <string name="trail_month_dialog_select_date">Έγινε επιλογή %1$s</string>
     <string name="trail_not_exercising">Όχι τώρα</string>
+    <string name="trail_open_mail_points">Χιλιομετρικοί δείκτες</string>
     <string name="trail_pace_best">Ρυθμός</string>
     <string name="trail_press_gym_button">Πατήστε το κουμπί</string>
     <string name="trail_rate_average_heart_rate">BPM</string>
@@ -3983,7 +4012,6 @@
     <string name="trail_sport_feedback_dialog_nagtive_btn">Ακύρωση</string>
     <string name="trail_sport_feedback_dialog_positive_btn">Μεταφόρτωση</string>
     <string name="trail_sport_feedback_edit_hint_new">Εισαγωγή Σχολίων</string>
-    <string name="trail_sport_feedback_lable_title_new">Τι πήγε στραβά;</string>
     <string name="trail_sport_feedback_lable1">Απόσταση</string>
     <string name="trail_sport_feedback_lable2">Ρυθμός</string>
     <string name="trail_sport_feedback_lable3">Διαδρομή</string>
@@ -3992,6 +4020,7 @@
     <string name="trail_sport_feedback_lable6">Διακοπτόμενη προπόνηση στη φορετή συσκευή σας</string>
     <string name="trail_sport_feedback_lable7">Κακή σχεδίαση</string>
     <string name="trail_sport_feedback_lable8">Άλλο</string>
+    <string name="trail_sport_feedback_lable_title_new">Τι πήγε στραβά;</string>
     <string name="trail_sport_feedback_level">Πατήστε ένα αστέρι</string>
     <string name="trail_sport_feedback_level_common">Μέτρια</string>
     <string name="trail_sport_feedback_level_good">Καλή</string>
@@ -4021,6 +4050,7 @@
     <string name="trail_sport_hang_in_air_duration">Χρόνος στον αέρα</string>
     <string name="trail_sport_list_record">Προβολή όλων</string>
     <string name="trail_sport_location_amap">Τοποθεσία GPS Amap</string>
+    <string name="trail_sport_map_edit">Χάρτης</string>
     <string name="trail_sport_max_cadence_desc">Μέγ.: %1$s</string>
     <string name="trail_sport_max_height_desc">Μέγ.: %1$s</string>
     <string name="trail_sport_max_rate_desc">Μέγ.: %1$s</string>
@@ -4078,6 +4108,7 @@
     <string name="trail_sport_summary_max_hrm">Μέγ. BPM</string>
     <string name="trail_sport_summary_rise_height">Κέρδος ανύψωσης (μ)</string>
     <string name="trail_sport_summary_skipping_height">Ύψος άλματος (cm)</string>
+    <string name="trail_sport_summary_speed">Ταχύτητα (χλμ/ω)</string>
     <string name="trail_sport_summary_sport_time">Ώρα</string>
     <string name="trail_sport_summary_steps">Βήματα</string>
     <string name="trail_sport_summary_stroke_count">Χτυπήματα</string>
@@ -4140,7 +4171,14 @@
     <string name="trail_stress">Άγχος</string>
     <string name="trail_stroke_avg_feq">SPM</string>
     <string name="trail_stroke_count">Χτυπήματα</string>
+    <string name="trail_summary_avg_back_swing_duration">Πίσω (δ)</string>
+    <string name="trail_summary_avg_down_swing_duration">Κάτω (δ)</string>
     <string name="trail_summary_best">Εγγραφές</string>
+    <string name="trail_summary_detail_fall_height">Απώλεια Ύψους (μ)</string>
+    <string name="trail_summary_detail_rise_height">Αύξηση Ύψους (μ)</string>
+    <string name="trail_summary_golf_avg_swing_speed">Ταχύτητα (μ/δ)</string>
+    <string name="trail_summary_row_avg_freq">SPM</string>
+    <string name="trail_summary_row_energy_working">Προσπάθεια (kJ)</string>
     <string name="trail_swim_avg_swolf">Μέσο</string>
     <string name="trail_swim_best_swolf">Καλύτερο</string>
     <string name="trail_swim_consume_time">%1$s | %2$s</string>
@@ -4371,9 +4409,9 @@
     <string name="userinfo_xiaomi_account">Mi Λογαριασμός:</string>
     <string name="userinfo_year">Έτος</string>
     <string name="userinfo_yes">Ναι</string>
-    <string name="v_code_title">Εισαγωγή κωδικού επαλήθευσης</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
+    <string name="v_code_title">Εισαγωγή κωδικού επαλήθευσης</string>
     <string name="web_continue">Συνέχεια</string>
     <string name="web_not_find_app">Αδυναμία εύρεσης εφαρμογής</string>
     <string name="web_share_des">Ένα μήνυμα από φίλο σας.</string>

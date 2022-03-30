@@ -114,6 +114,10 @@
     <string name="loading">Φόρτωση...</string>
     <string name="location_service_notice">* Οι υπηρεσίες τοποθεσίας παρέχονται από την Amap.</string>
     <string name="mi_loading_qr">Δημιουργία κώδικα QR…</string>
+    <string name="miuix_access_state_desc">Επιλεγμένα</string>
+    <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
+    <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="mon">Δευ</string>
     <string name="need_bind">Σάρωση κωδικού QR για προσθήκη συσκευής</string>
     <string name="need_network_when_bind">Συνδεθείτε στο δίκτυο για να προσθέσετε συσκευές</string>

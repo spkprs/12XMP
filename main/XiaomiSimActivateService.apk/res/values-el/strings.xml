@@ -25,12 +25,12 @@
     <string name="activate_history_title">Ενεργοποίηση κάρτας SIM</string>
     <string name="activate_phone_cancel_notif_title">Ακυρώθηκε η ενεργοποίηση της SIM</string>
     <string name="activate_phone_cancel_notif_title_msim">Ακυρώθηκε η ενεργοποίηση της SIM %d</string>
-    <string name="activate_phone_failed_notif_title">Αδύνατη ενεργοπ. της SIM</string>
-    <string name="activate_phone_failed_notif_title_msim">Αδύνατη ενεργοπ. της SIM %d</string>
-    <string name="activate_phone_failed_notif_title_sim">Αδύνατη η ενεργοποίηση \"%2$s\" χρήση της κάρτας SIM %1$d</string>
+    <string name="activate_phone_failed_notif_title">Αδυναμία ενεργοπ. της SIM</string>
+    <string name="activate_phone_failed_notif_title_msim">Αδυναμία ενεργοπ. της SIM %d</string>
+    <string name="activate_phone_failed_notif_title_sim">Αδυναμία ενεργ. \"%2$s\" χρήση της κάρτας SIM %1$d</string>
     <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Δημιουργήθηκε λογαριασμός Mi με χρήση SIM %d επιτυχώς</string>
     <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">Αδύνατη η δημιουργία λογαριασμού Mi με χρήση της κάρτας SIM %d</string>
-    <string name="activate_phone_server_failed_notif_title">Αδύνατη η ενεργοποίηση \"%s\"</string>
+    <string name="activate_phone_server_failed_notif_title">Αδυναμία ενεργ. \"%s\"</string>
     <string name="activate_phone_server_success_notif_title">Ενεργοποιήθηκε \"%s\" επιτυχώς</string>
     <string name="activate_phone_success_notif_title">Επιτυχής ενεργοποίηση SIM</string>
     <string name="activate_phone_success_notif_title_msim">Η SIM %d Ενεργοπ. επιτυχώς</string>
@@ -51,7 +51,7 @@
     <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Για ενεργοποίηση \"%2$s\", &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>τοπικό SMS επί πληρωμή&lt;/b> θα αποσταλεί. Ο πάροχός σας θα σας χρεώσει για αυτά τα μηνύματα.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">Δεν μπορεί να βρεθεί ο αριθμός τηλεφώνου σας. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.\nΕισάγετε τον αριθμό τηλεφώνου που συσχετίζεται με τη νέα κάρτα SIM για επανενεργοποιήση %s</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">Αδύνατη η αποστολή μηνύματος ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.\nΕισάγετε τον αριθμό τηλεφώνου που συσχετίζεται με τη νέα κάρτα SIM για να επανενεργοποιήσετε %s</string>
-    <string name="activate_popup_desc_error_device">Μη έγκυρο IMEI. Πατήστε για να προσπαθήσετε ξανά.</string>
+    <string name="activate_popup_desc_error_device">Μη έγκυρο IMEI. Επαναλάβετε.</string>
     <string name="activate_popup_desc_error_device_id">Πληκτρολογήστε *#06# να ελέγξετε το IMEI</string>
     <string name="activate_popup_desc_failed_phone_error">Ο αριθμός τηλεφώνου που καταχωρίσατε δεν είναι έγκυρος.</string>
     <string name="activate_popup_desc_failed_query_info">Δεν μπορεί να βρεθεί ο αριθμό τηλεφώνου σας. Βεβαιωθείτε ότι η κάρτα SIM έχει ενεργοποιηθεί.</string>
@@ -149,7 +149,7 @@
     <string name="checking_client">Έλεγχος περιβάλλοντος ενεργοποίησης</string>
     <string name="close">Κλείσιμο</string>
     <string name="error_checking_client">Παρουσιάστηκε σφάλμα κατά τη διάρκεια ενεργοποίησης</string>
-    <string name="error_checking_client_tip">Δεν ήταν δυνατή ο έλεγχος του περιβάλλοντος ενεργοποίησης. Πατήστε για να προσπαθήσετε ξανά.</string>
+    <string name="error_checking_client_tip">Δεν ήταν δυνατή ο έλεγχος του περιβάλλοντος ενεργοποίησης. Επαναλάβετε.</string>
     <string name="error_network_io">Παρουσιάστηκε σφάλμα δικτύου</string>
     <string name="error_network_io_tip">Ελέγξτε τις ρυθμίσεις δικτύου και προσπαθήστε ξανά</string>
     <string name="error_no_get_send_sms_permission">Να επιτρέπεται η sim %d για να στείλετε sms πρώτα.</string>
@@ -180,9 +180,9 @@
     <string name="send">Αποστολή</string>
     <string name="sim_activate_failed">"Αδυναμία ενεργοποίησης της υπηρεσίας"</string>
     <string name="sim_activate_prepare">Ενεργοποίηση υπηρεσίας</string>
-    <string name="sim_activated_failed_msg">Αδύνατη η ενεργοποίηση της υπηρεσίας. Πατήστε για να προσπαθήσετε ξανά.</string>
+    <string name="sim_activated_failed_msg">Αδυναμία ενεργοποίησης υπηρεσίας. Επαναλάβετε.</string>
     <string name="sim_unactivated_feature_title">\"%s\" δεν ενεργοποιήθηκε</string>
-    <string name="sim_unactivated_msg">Αυτή η υπηρεσία δεν είναι ενεργοποιημένη. Πατήστε για να προσπαθήσετε ξανά.</string>
+    <string name="sim_unactivated_msg">Αυτή η υπηρεσία δεν είναι ενεργοποιημένη. Επαναλάβετε.</string>
     <string name="sim_unactivated_register_xiaomi_account_feature_title">Ο λογαριασμός Mi δεν δημιουργήθηκε</string>
     <string name="sim_unactivated_title">Η κάρτα SIM δεν είναι ενεργοποιημένη</string>
     <string name="waiting_sim_in_service">Αναμονή για την ενεργοποίηση της κάρτας SIM</string>
