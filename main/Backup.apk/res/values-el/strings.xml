@@ -45,6 +45,7 @@
     <string name="alert_title_backup_to_miasist">Δημιουργία αντιγράφων χρησιμοποιώντας το Mi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">Επαναφορά στοιχείων στο τηλέφωνό σας?</string>
     <string name="already_enable_encrypt">Η κρυπτογράφηση ενεργοποιήθηκε</string>
+    <string name="alternative_ui_content">Αυτή η λειτουργία σας επιτρέπει να δημιουργείτε αντίγραφα και να επαναφέρετε στοιχεία χρησιμοποιώντας την κινητή σας συσκευή και τον υπολογιστή σας. Θα πρέπει να συνδεθεί στο διαδίκτυο και απαιτεί τις ακόλουθες υποχρεωτικές Άδειες για να λειτουργήσει κανονικά:</string>
     <string name="am">ΠΜ</string>
     <string name="app_name">Αντίγραφα</string>
     <string name="apps_and_data_item_desc">Εφαρμογές και δεδομένα</string>
@@ -95,7 +96,7 @@
     <string name="button_got_it">OK</string>
     <string name="button_import">Εισαγωγή</string>
     <string name="button_next">Επόμενο</string>
-    <string name="button_ok">Εντάξει</string>
+    <string name="button_ok">Τέλος</string>
     <string name="button_quit">Εξοδος</string>
     <string name="button_return">Πίσω</string>
     <string name="button_send">Αποστολή</string>
@@ -530,6 +531,7 @@
     <string name="permission_read_contacts">Πρόσβαση σε Επαφές</string>
     <string name="permission_read_sms">Πρόσβαση σε Μηνύματα</string>
     <string name="permission_read_storage">Πρόσβαση και αποθήκευση στοιχείων στον αποθηκευτικό χώρο.</string>
+    <string name="permission_read_storage_global">Πρόσβαση αποθήκευσης</string>
     <string name="permission_read_write_storage">Για τη δημιουργία αντιγράφων στοιχείων, επιτρέψτε πρώτα σε αυτή τη λειτουργία να αποκτήσει πρόσβαση στον αποθηκευτικό χώρο.</string>
     <string name="permission_read_write_sys_app">Για τη δημιουργία αντιγράφων και επαναφοράς, μηνύματα, επαφές και ιστορικό κλήσεων, επιτρέψτε πρώτα την πρόσβαση σε αυτά τα στοιχεία.</string>
     <string name="permission_related">Άδειες</string>
@@ -543,6 +545,7 @@
     <string name="permission_show_all_apps_desc">Για να είναι δυνατή η προβολή των εφαρμογών για τις οποίες μπορούν να δημιουργηθούν αντίγραφα, επιτρέψτε την πρόσβαση στη λίστα των εφαρμογών που είναι εγκατεστημένες σε αυτήν τη συσκευή πρώτα.</string>
     <string name="permission_write_calllog">Επεξεργασία ιστορικού κλήσεων</string>
     <string name="permission_write_contacts">Επεξεργασία επαφών</string>
+    <string name="permission_write_storage">Αποθήκευση στοιχείων</string>
     <string name="phone_title">Ρυθμίσεις τηλεφώνου</string>
     <string name="platform_chooser_item_android_mi">Mi phone</string>
     <string name="platform_chooser_item_android_others">Άλλα εμπορικά σήματα</string>
@@ -550,6 +553,7 @@
     <string name="platform_chooser_title">Επιλέξτε την παλιά συσκευή</string>
     <string name="pm">ΜΜ</string>
     <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
+    <string name="privacy_policy_link"><Data>"Για να μάθετε περισσότερα σχετικά με την επεξεργασία δεδομένων σας και τα δικαιώματά σας ως χρήστης, διαβάστε και συμφωνήστε με το &lt;a href='%1s'>Πολιτική απορρήτου&lt;/a> πριν συνεχίσετε."</Data></string>
     <string name="privacy_settings">Απόρρητο</string>
     <string name="privacy_settings_title">Πολιτική απορρήτου</string>
     <string name="progress_backup_hint">"Αντιγραφή "</string>
@@ -570,6 +574,7 @@
     <string name="restore_counts">Επαναφορά:</string>
     <string name="restore_data">Επιλέξτε στοιχεία για επαναφορά</string>
     <string name="restore_failed">Η επαναφορά απέτυχε!</string>
+    <string name="restore_files">Για επαναφορά στοιχείων</string>
     <string name="restore_finished">Η επαναφορά ολοκληρώθηκε</string>
     <string name="restore_is_running">Επαναφορά συσκευής</string>
     <string name="restore_launcher_layout_hit">Επαναφορά ρυθμίσεων Εκκινητή</string>

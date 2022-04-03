@@ -145,6 +145,8 @@
     <string name="accessibility_manual_zen_more_time">Περισσότερο χρόνο.</string>
     <string name="accessibility_no_wifi">Το Wi-Fi αποσυνδέθηκε.</string>
     <string name="accessibility_settings_activity_title">Προσβασιμότητα</string>
+    <string name="actionbar_button_up_description">Πίσω</string>
+    <string name="activity_title_fakecell">Προστασία από ψευδείς σταθμούς βάσης</string>
     <string name="accessibility_wifi_off">Απενεργοποίηση WiFi.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi ένα μπαρ.</string>
     <string name="accessibility_wifi_security_type_none">Άνοιγμα δικτύου</string>
@@ -1011,6 +1013,8 @@
     <string name="flash_when_ring_title">Φωτισμός LED στις Κλήσεις</string>
     <string name="fold_answer_pref_summary">Διπλώστε τη συσκευή για να αποδεχτείτε αυτόματα μια εισερχόμενη κλήση</string>
     <string name="fold_answer_pref_title">Δίπλωμα για αποδοχή κλήσεων</string>
+    <string name="forbidden_fakecell">"Χωρίς σύνδεση σε ψευδείς σταθμούς βάσης"</string>
+    <string name="forbidden_fakecell_summary">Αποτρέψτε τη σύνδεση του τηλεφώνου σας σε ψευδείς σταθμούς βάσης</string>
     <string name="forbidden_network">(απαγορεύεται)</string>
     <string name="force_allow_on_external">Επιβολή δυνατότητας σε εφαρμογές εξωτερικού</string>
     <string name="force_allow_on_external_summary">Μετατρέπει οποιαδήποτε εφαρμογή είναι κατάλληλη για εγγραφή σε εξωτερικό χώρο αποθήκευσης, ανεξάρτητα από τις τιμές διακήρυξης</string>
@@ -2034,6 +2038,7 @@
     <string name="supp_service_over_ut_precautions_dual_sim">Για να χρησιμοποιήσετε %1$s, βεβαιωθείτε ότι τα δεδομένα κινητής τηλεφωνίας είναι ενεργοποιημένα για SIM %2$d. Μπορείτε να το αλλάξετε αυτό στις ρυθμίσεις δικτύου κινητής τηλεφωνίας.</string>
     <string name="supp_service_over_ut_precautions_roaming">Για να χρησιμοποιήσετε %s, βεβαιωθείτε ότι τα δεδομένα κινητής τηλεφωνίας και η περιαγωγή δεδομένων είναι ενεργοποιημένα. Μπορείτε να τις αλλάξετε στις ρυθμίσεις δικτύου κινητής τηλεφωνίας.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Για να χρησιμοποιήσετε %1$s, βεβαιωθείτε ότι τα δεδομένα κινητής τηλεφωνίας και η περιαγωγή δεδομένων είναι ενεργοποιημένα για την κάρτα SIM %2$d. Μπορείτε να τις αλλάξετε στις ρυθμίσεις δικτύου κινητής τηλεφωνίας.</string>
+    <string name="support_forbidden_fakecell">Σημείωση: Ο περιορισμός σύνδεσης σε ψευδείς σταθμούς βάσης μπορεί να μειώσει το σήμα σε περιοχές με κακή κάλυψη.</string>
     <string name="switch_dds_to_sub_alert">Ορίστε αυτήν την κάρτα ως προεπιλεγμένη κάρτα δεδομένων.</string>
     <string name="switch_dds_to_sub_alert_msg">Αλλάξτε τα δεδομένα κινητής τηλεφωνίας σε CT SIM</string>
     <string name="switch_debug_menu">Πρόσθετες ρυθμίσεις δικτύου</string>
