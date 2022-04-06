@@ -68,6 +68,10 @@
     <string name="copy">Αντιγραφή</string>
     <string name="customer_location_judgment">China</string>
     <string name="cut">Αποκοπή</string>
+    <string name="dark_mode_enable">Ενεργοποίηση</string>
+    <string name="dark_mode_suggest_message">Μπορείτε να μεταβείτε αυτόματα σε Σκοτεινή λειτουργία κατά το ηλιοβασίλεμα για μια πιο άνετη εμπειρία θέασης.</string>
+    <string name="dark_mode_suggest_title">"Σκοτεινιάζει"</string>
+    <string name="dark_mode_suggest_toast">Η Σκοτεινή λειτουργία θα ενεργοποιείται αυτόματα κατά το ηλιοβασίλεμα και θα απενεργοποιείται κατά την ανατολή του ήλιου από εδώ και στο εξής.</string>
     <string name="data_usage_context">Εάν το WiFi δεν είναι ενεργό, η συσκευή σας θα συνδεθεί σε ένα δίκτυο κινητής τηλεφωνίας, το οποίο μπορεί να έχει ως αποτέλεσμα πρόσθετες χρεώσεις ανάλογα με το πρόγραμμα πληρωμής σας. Σας ευχαριστούμε!</string>
     <string name="default_device_name">Άγνωστη συσκευή</string>
     <string name="default_name">Προεπιλογή</string>
