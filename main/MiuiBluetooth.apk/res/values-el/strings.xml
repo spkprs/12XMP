@@ -67,7 +67,8 @@
     <string name="blackshark_right_name">H66R</string>
     <string name="ble_device_address">Έξυπνη συσκευή Bluetooth MAC</string>
     <string name="ble_device_profile">Προφίλ συσκευής Bluetooth</string>
-    <string name="ble_device_profile_header_title">Ρυθμίσεις</string>
+    <string name="ble_device_profile_header_title">Περισσότερα</string>
+    <string name="ble_device_profile_summary">Διαχείριση αυτής της συσκευής</string>
     <string name="ble_device_profile_title">Συνδεδεμένη συσκευή BLE</string>
     <string name="ble_device_rename">Μετονομασία</string>
     <string name="ble_profile_1">ble_profile_mi_band</string>
@@ -329,6 +330,10 @@
     <string name="headset_fw_error_failed">"Δεν είναι δυνατή η ενημέρωση. Οι πληροφορίες υλικολογισμικού είναι εσφαλμένες."</string>
     <string name="headset_fw_file_position_failed">"Δεν ήταν δυνατή η πρόσβαση στο αρχείο"</string>
     <string name="headset_fw_file_readfailed">"Δεν ήταν δυνατή η λήψη πληροφοριών ενημέρωσης"</string>
+    <string name="headset_incall_answer">Απάντηση</string>
+    <string name="headset_incall_reject">Ακύρωση</string>
+    <string name="headset_incall_summary">Απαντάτε σε μια κλήση σε %1$s με τα ακουστικά σας; Τα ακουστικά σας θα παραμείνουν συνδεδεμένα στη συσκευή αυτή μετά το τέλος της κλήσης.</string>
+    <string name="headset_incall_title">Απάντηση κλήσης με ακουστικά</string>
     <string name="headset_loss_notify_summary">Φαίνεται ότι τουλάχιστον ένα από τα ακουστικά σας δεν είναι στην υπδοχή φόρτισης. Ρίξτε μια ματιά!</string>
     <string name="headset_loss_notify_summary1">"Φαίνεται ότι τα ακουστικά σας δεν είναι στη θήκη. Βάλτε τα πίσω για να φορτίσουν.."</string>
     <string name="headset_loss_notify_title">Λείπει η ειδοποίηση ακουστικών</string>

@@ -258,6 +258,7 @@
     <string name="sc_notification_warning_content">Η διάταξη μπορεί να είναι μη φυσιολογική στη λειτουργία πλήρους οθόνης .Μπορείτε να επανέλθετε στην κατάσταση πριν την αλλαγή ή να μεταβείτε στις ρυθμίσεις.</string>
     <string name="sc_notification_warning_restore">Επαναφορά</string>
     <string name="sc_notification_warning_settings">Μετάβαση στις ρυθμίσεις</string>
+    <string name="sc_notification_warning_title">Εναλλαγή λειτουργίας προβολής</string>
     <string name="sc_relaunch_dialog_message">"Μπορεί να μην είναι κατάλληλη για αναδιπλούμενη συσκευή, ενώ χρησιμοποιείτε την εφαρμογή. Μπορείτε να επανεκκινήσετε την εφαρμογή για να μεταβείτε σε λειτουργία πλήρους οθόνης. Επανεκκίνηση οπωσδήποτε?"</string>
     <string name="scanning_device_tips">Αναζήτηση συσκευών σε κοντινή απόσταση ... Βεβαιωθείτε ότι η άλλη συσκευή είναι ανιχνεύσιμη.</string>
     <string name="screen_button_notification_text">Για να τα ενεργοποιήσετε, πατήστε τα πλήκτρα \"Home\" και \"Power\" ταυτόχρονα.</string>

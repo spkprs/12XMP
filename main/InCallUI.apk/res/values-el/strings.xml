@@ -225,6 +225,7 @@
     <string name="saf_permission_content">Ενημερώθηκαν οι Άδειες συστήματος. Για να μπορέσετε να καταγράψετε κλήσεις, χορηγήστε πρώτα την Άδεια σας σας.\n\nΠώς να παραχωρήσετε την Άδεια\nΠατήστε \"%1$s\" και, στη συνέχεια, επιλέξτε \"%2$s\".</string>
     <string name="saf_permission_grant_permission_immediately">Επόμενο</string>
     <string name="saf_permission_later">Όχι τώρα</string>
+    <string name="saf_permission_recorder_unlock_screen_message">Για να μπορέσετε να αποθηκεύσετε εγγραφές, ξεκλειδώστε πρώτα τη συσκευή σας. Ξεκλείδωμα τώρα;</string>
     <string name="saf_permission_refused">"Δεν μπορείτε να καταγράψετε κλήσεις λόγω έλλειψης Αδειών"</string>
     <string name="saf_permission_title">Απαιτούνται άδειες</string>
     <string name="saf_permission_use_this_folder">Χρήση αυτού του φακέλου</string>

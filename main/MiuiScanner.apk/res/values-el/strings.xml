@@ -331,7 +331,7 @@
     <string name="importFailed">"Αδύνατη η εισαγωγή"</string>
     <string name="import_contact">Εισαγωγή επαφής</string>
     <string name="import_picture">Εισαγωγή</string>
-    <string name="impunity_declaration_content">Ο Σαρωτής απαιτεί άδεια πρόσβασης στην Κάμερα για δημιουργία φωτογραφιών.\nΜη τον χρησιμοποιείτε για φωτογράφηση αντικειμένων που περιέχουν προσωπικές πληροφορίες.\nΌταν επιλέξετε \"Αποδοχή\", συμφωνείτε με την  &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Πολιτική Απορρήτου&lt;/a>&lt;/font> μας και την πρόσβαση στο διαδίκτυο.</string>
+    <string name="impunity_declaration_content">Ο Σαρωτής απαιτεί άδεια πρόσβασης στην Κάμερα για δημιουργία φωτογραφιών.\nΜη τον χρησιμοποιείτε για φωτογράφηση αντικειμένων που περιέχουν προσωπικές πληροφορίες.\nΌταν επιλέξετε \"Αποδοχή\", συμφωνείτε με την &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Πολιτική Απορρήτου&lt;/a>&lt;/font> μας και την πρόσβαση στο διαδίκτυο.</string>
     <string name="impunity_declaration_negative_text">Έξοδος</string>
     <string name="impunity_declaration_title">Πολιτική Απορρήτου</string>
     <string name="intelligent_recognition">Αναγνώριση</string>
@@ -585,10 +585,10 @@
     <string name="previous">Πίσω</string>
     <string name="privacy_policy">Πολιτική Απορρήτου</string>
     <string name="privacy_policy_update">Ενημερωμένη πολιτική απορρήτου</string>
-    <string name="privacy_policy_update_message"><Data>\"Δεν θα μπορέσετε να συνεχίσετε να χρησιμοποιείτε το Σαρωτή αν δεν συμφωνήσετε με τη νέα έκδοση της &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a>.. Συμφωνείτε με την ενημερωμένη Πολιτική Απορρήτου τώρα;\"</Data></string>
+    <string name="privacy_policy_update_message"><Data>"Δεν θα μπορέσετε να συνεχίσετε να χρησιμοποιείτε το Σαρωτή αν δεν συμφωνήσετε με τη νέα έκδοση της &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a>.. Συμφωνείτε με την ενημερωμένη Πολιτική Απορρήτου τώρα;"</Data></string>
     <string name="privacy_policy_update_welcome">Ενημερώθηκε η πολιτική απορρήτου του Σαρωτή:</string>
     <string name="privacy_policy_withdrawal_error">Δεν ήταν δυνατή η ανάκληση της συγκατάθεσης. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
-    <string name="privacy_policy_withdrawal_message"><Data>\"Αν συνεχίσετε, θα αποσύρετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου του Σαρωτή. Αυτό θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών του Σαρωτή. Θα πρέπει να συμφωνήσετε με την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> ξανά αν αποφασίσετε να χρησιμοποιήσετε το Σαρωτή. Αποσύρετε τη συγκατάθεσή σας τώρα;\"</Data></string>
+    <string name="privacy_policy_withdrawal_message"><Data>"Αν συνεχίσετε, θα αποσύρετε τη συγκατάθεσή σας στην Πολιτική Απορρήτου του Σαρωτή. Αυτό θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών του Σαρωτή. Θα πρέπει να συμφωνήσετε με την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> ξανά αν αποφασίσετε να χρησιμοποιήσετε το Σαρωτή. Αποσύρετε τη συγκατάθεσή σας τώρα;"</Data></string>
     <string name="processing">Επεξεργασία...</string>
     <string name="prompt">Προσοχή</string>
     <string name="qr_code_details">Λεπτομέρειες κωδικού QR:</string>

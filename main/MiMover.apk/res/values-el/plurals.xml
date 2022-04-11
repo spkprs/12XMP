@@ -112,4 +112,8 @@
     <item quantity="other">%d λεπτά</item>
     <item quantity="one">%d λεπτό</item>
   </plurals>
+    <plurals name="apple_install_install_immediately">
+        <item quantity="other">Εγκατάσταση %d εφαρμ.</item>
+        <item quantity="one">Εγκατάσταση %d εφαρμ.</item>
+    </plurals>
 </resources>

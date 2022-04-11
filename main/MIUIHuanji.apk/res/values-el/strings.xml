@@ -25,6 +25,12 @@
     <string name="apple_calendar">Ημερολόγιο εκδηλώσεων</string>
     <string name="apple_contacts">Επαφές</string>
     <string name="apple_image">Φωτογραφίες</string>
+    <string name="apple_install_background_downloading">Λήψη εφαρμογών στο παρασκήνιο…</string>
+    <string name="apple_install_get_data_faild">Εμφανίστηκε σφάλμα</string>
+    <string name="apple_install_install_immediately_default">Εγκατάσταση</string>
+    <string name="apple_install_skip">Παράλειψη</string>
+    <string name="apple_install_sub_title">Οι επιλεγμένες εφαρμογές θα μεταφορτωθούν από το GetApps</string>
+    <string name="apple_install_title">Εφαρμογές από την παλιά σας συσκευή</string>
     <string name="apple_video">Βίντεο</string>
     <string name="appname_app_data_suffix">%1$s δεδομένα εφαρμογής</string>
     <string name="apps_cannot_be_transfered_confirm_button">Εκκίνηση</string>
@@ -139,7 +145,7 @@
     <string name="date_time_done">Τέλος</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="delete_description">Διαγραφή</string>
-    <string name="deselect_all">Αποεπιλέξτε</string>
+    <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="deselect_all_description">Αποεπιλογή όλων</string>
     <string name="dialog_airplane_mode_button">Ρυθμίσεις</string>
     <string name="dialog_airplane_mode_content">"Αδύνατη η λειτουργία Mi Mover με ενεργή \"Πτήση\". Απενεργοποιήστε τη πρώτα στις Ρυθμίσεις."</string>
@@ -637,7 +643,7 @@
     <string name="scanner_send_dialog_btn">Το κατάλαβα</string>
     <string name="scanner_send_dialog_message">Μην απενεργοποιείτε το Wi-Fi ή πραγματοποιείτε εναλλαγή μεταξύ δικτύων κατά τη διάρκεια της μεταφοράς.</string>
     <string name="scanner_size_selected">Επιλεγμένα: %s</string>
-    <string name="scanner_time_remained">Υπολειπ'ομενος χρόνος: %s</string>
+    <string name="scanner_time_remained">Υπολείπονται: %s</string>
     <string name="scanner_title_tip">Επιλέξτε στοιχεία προς μεταφορά</string>
     <string name="scanner_wechat_overwrite_hit">Λόγω περιορισμών εφαρμογών τρίτων, τα ιστορικά συνομιλίας και άλλα δεδομένα εφαρμογών στη νέα συσκευή σας θα αντικατασταθούν από τα δεδομένα της παλιάς μετά την ολοκλήρωση της μεταφοράς.</string>
     <string name="search_action_mode_cancel">Ακύρωση</string>
@@ -646,7 +652,7 @@
     <string name="searching_for_new_device">Αναζήτηση νέων συσκευών...</string>
     <string name="select_all">Επιλογή όλων</string>
     <string name="select_all_description">Επιλογή όλων</string>
-    <string name="select_android_summary">Huawei, OPPO, Vivo, και άλλα</string>
+    <string name="select_android_summary">Huawei, OPPO, Vivo, και άλλων</string>
     <string name="select_empty">Επιλέξτε πρώτα τα στοιχεία για εισαγωγή</string>
     <string name="select_item">Επιλέξτε στοιχεία</string>
     <string name="select_item_calendar">Ημερολόγιο</string>

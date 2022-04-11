@@ -17,6 +17,12 @@
     <string name="am">ΠΜ</string>
     <string name="antispam">Λίστα των μπλοκαρισμένων</string>
     <string name="app_name">Mi Mover</string>
+    <string name="apple_install_background_downloading">Λήψη εφαρμογών στο παρασκήνιο…</string>
+    <string name="apple_install_get_data_faild">Εμφανίστηκε σφάλμα</string>
+    <string name="apple_install_install_immediately_default">Εγκατάσταση</string>
+    <string name="apple_install_skip">Παράλειψη</string>
+    <string name="apple_install_sub_title">Οι επιλεγμένες εφαρμογές θα μεταφορτωθούν από το GetApps</string>
+    <string name="apple_install_title">Εφαρμογές από την παλιά σας συσκευή</string>
     <string name="apps_cannot_be_transfered_confirm_button">Εκκίνηση</string>
     <string name="apps_cannot_be_transfered_next_button">Επόμενο</string>
     <string name="apps_cannot_be_transfered_summary">"Αυτές οι εφαρμογές 64-bit δεν μπορούν να μεταφερθούν σε μια συσκευή 32-bit. Μπορείτε να τις κατεβάσετε απευθείας από το GetApps μετά τη μεταφορά."</string>
@@ -129,7 +135,7 @@
     <string name="date_time_done">Τέλος</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="delete_description">Διαγραφή</string>
-    <string name="deselect_all">Αποεπιλέξτε</string>
+    <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="deselect_all_description">Αποεπιλογή όλων</string>
     <string name="dialog_backup_password_cancel">Ακύρωση</string>
     <string name="dialog_backup_password_change_machine_tips">Δεν θα μπορείτε να μεταφέρετε αντίγραφα ασφαλείας που προστατεύονται με κωδικό πρόσβασης. Απενεργοποιήστε τον κωδικό ασφαλείας πριν χρησιμοποιήσετε το Mi Mover.</string>

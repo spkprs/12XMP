@@ -128,4 +128,8 @@
         <item quantity="other">Οι εκδόσεις 64-bit για %1$d εφαρμ. είναι διαθέσιμες</item>
         <item quantity="one">Μια έκδοση 64-bit για %1$d εφαρμ. είναι διαθέσιμη</item>
     </plurals>
+    <plurals name="apple_install_install_immediately">
+        <item quantity="other">Εγκατάσταση %d εφαρμ.</item>
+        <item quantity="one">Εγκατάσταση %d εφαρμ.</item>
+    </plurals>
 </resources>

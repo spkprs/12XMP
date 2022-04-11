@@ -86,8 +86,11 @@
     <string name="bh_business_style">Επιλογή διασύνδεσης</string>
     <string name="bh_business_style_new">Νέα</string>
     <string name="bh_business_style_old">Παλιά</string>
+    <string name="bh_open_carrier_services_short">Mi Υπηρεσίες μεταφοράς</string>
+    <string name="bh_open_carrier_services_short_reason">Ενεργοποιήστε τη Mi Υπηρεσίες μεταφοράς για χρήση αυτής της λειτουργίας.</string>
+    <string name="bh_qualification_and_certificate">Άδειες και πιστοποίηση</string>
     <string name="bh_system_recommend">Συστάσεις συστήματος</string>
-    <string name="bh_system_recommend_des">Επιτρέψτε μας να αναλύσουμε τις κινήσεις σας για να προτείνουμε ψηφιακά προϊόντα με βάση τα αποτελέσματα</string>
+    <string name="bh_system_recommend_des">"Όταν οι εξατομικευμένες συστάσεις είναι ανενεργές, θα εξακολουθείτε να βλέπετε την ίδια ποσότητα διαφημίσεων όπως όταν η λειτουργία είναι ενεργή, αλλά δεν θα είναι τόσο σχετικές με εσάς."</string>
     <string name="bind_simcard_default">Προεπιλεγμένη SIM για κλήσεις</string>
     <string name="bind_simcard_menu">Ορισμός προεπιλεγμένης SIM για κλήσεις</string>
     <string name="bind_simcard_no_dual">Αδύνατη η εύρεση διπλής κάρτας SIM</string>

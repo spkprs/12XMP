@@ -25,4 +25,8 @@
         <item quantity="other">Επαναφορά %d αρχείων</item>
         <item quantity="one">Επαναφορά %d αρχείου</item>
      </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">Περίπου %s λεπ. απομένουν</item>
+        <item quantity="one">Περίπου %s λεπ. απομένει</item>
+    </plurals>
 </resources>

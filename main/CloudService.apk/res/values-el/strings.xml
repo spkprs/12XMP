@@ -48,6 +48,7 @@
     <string name="bad_authentication">Μη έγκυρο όνομα χρήστη ή κωδικού πρόσβασης</string>
     <string name="btn_restore_wait_china">Αναμονή για WiFi</string>
     <string name="btn_return">Πίσω</string>
+    <string name="btn_revoke_permission">Ανάκληση συγκατάθεσης</string>
     <string name="button_agree">Συμφωνώ</string>
     <string name="button_cancel">Ακύρωση</string>
     <string name="button_quit">Έξοδος</string>

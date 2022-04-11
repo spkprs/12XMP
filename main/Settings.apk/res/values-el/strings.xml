@@ -937,7 +937,7 @@
     <string name="block_list_dialog_title">Αποσύνδεση τώρα;</string>
     <string name="block_list_no_device">Δεν υπάρχουν συνδεδεμένες συσκευές στη λίστα αποκλεισμένων</string>
     <string name="block_list_remove_dialog_content">Αυτή η συσκευή “%s” θα μπορεί να συνδεθεί με αυτό το Hotspot</string>
-    <string name="block_list_remove_dialog_title">Αφαίρεση της “%s” από τη λίστα αποκλεισμένων</string>
+    <string name="block_list_remove_dialog_title">Προσοχή</string>
     <string name="block_list_summary">Προβολή συσκευών που δεν επιτρέπεται η σύνδεση σε αυτό το Hotspot</string>
     <string name="block_list_title">Λίστα αποκλεισμένων</string>
     <string name="block_title">Εμφάνιση ειδοποιήσεων</string>
