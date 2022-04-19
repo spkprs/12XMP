@@ -242,9 +242,9 @@
     <string name="reboot_info_shutdown_alarm">Το τηλέφωνό σας θα ενεργοποιηθεί και θα ηχήσει η Αφύπνιση %s</string>
     <string name="reboot_progress">Επανεκκίνηση…</string>
     <string name="relaunch_action">Επανεκκίνηση εφαρμογής</string>
-    <string name="relaunch_fold_notification_content">\"%s\" η εφαρμογή ενδέχεται να εμφανιστεί μη φυσιολογικά μετά την αναδίπλωση του τηλεφώνου και χρειάζεται επανεκκίνηση για να επανέλθει στο φυσιολογικό.</string>
+    <string name="relaunch_fold_notification_content">Αυτή η εφαρμογή ενδέχεται να εμφανίζεται ασυνήθιστα μετά την αναδίπλωση του τηλεφώνου και χρειάζεται επανεκκίνηση για να επανέλθει στην κανονική λειτουργία.</string>
     <string name="relaunch_notification_title">Επανεκκίνηση εφαρμογής \"%s\"</string>
-    <string name="relaunch_unfold_notification_content">\"%s\" η εφαρμογή ενδέχεται να εμφανιστεί μη φυσιολογικά μετά το ξεδίπλωμα του τηλεφώνου και χρειάζεται επανεκκίνηση για να επανέλθει στο φυσιολογικό.</string>
+    <string name="relaunch_unfold_notification_content">Αυτή η εφαρμογή ενδέχεται να εμφανίζεται ασυνήθιστα μετά το ξεδίπλωμα του τηλεφώνου και χρειάζεται επανεκκίνηση για να επανέλθει στην κανονική λειτουργία.</string>
     <string name="remain">Απομένουν: %s</string>
     <string name="replace">Αντικατάσταση</string>
     <string name="resolver_app_recommend_flag">Συνιστάται</string>

@@ -3392,8 +3392,12 @@
     <string name="item_system_app">Εφαρμογές συστήματος</string>
     <string name="join_two_items">%1$s και %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
-    <string name="keep_legacy_fingerprint">Κρατήστε</string>
+    <string name="keep_legacy_fingerprint">Διατήρηση</string>
     <string name="keep_screen_on">Ενεργή οθόνη</string>
+    <string name="keep_screen_on_after_folding_off_summary">Διατηρεί την εξωτερική οθόνη ενεργή μετά την αναδίπλωση κατά την Κλήση ή την χρήση Κάμερας</string>
+    <string name="keep_screen_on_after_folding_on_summary">Διατηρεί την εξωτερική οθόνη ενεργή μετά την αναδίπλωση για συνέχιση των τρεχουσών εργασιών σας</string>
+    <string name="keep_screen_on_after_folding_text">Διατηρεί την εξωτερική οθόνη ενεργή μετά την αναδίπλωση για συνέχιση των τρεχουσών εργασιών σας</string>
+    <string name="keep_screen_on_after_folding_title">Διατηρήστε την οθόνη ενεργή μετά την αναδίπλωση</string>
     <string name="keep_screen_on_summary">Η οθόνη δεν σβήνει ποτέ κατά τη φόρτιση</string>
     <string name="kernel_version">Έκδοση Kernel</string>
     <string name="key_combination_power_back">Power + Back</string>
@@ -7881,7 +7885,7 @@
     <string name="virtual_sim_global_title">Υπηρεσία δεδομένων κινητής</string>
     <string name="virtual_sim_title">Δίκτυο περιαγωγής δεδομένων</string>
     <string name="virtual_surround_sound_switch_summary">"Εμπλουτισμένο βάθος ήχου για αναπαραγωγή ήχου και βίντεο σε ακουστικά (Αυτή η λειτουργία δεν θα λειτουργήσει όταν αναπαράγεται ήχος %.1f)"</string>
-    <string name="virtual_surround_sound_switch_title">Εικονικός εντυπωσιακός ήχος</string>
+    <string name="virtual_surround_sound_switch_title">Εντυπωσιακός ήχος</string>
     <string name="virus_scan">Σάρωση ιών</string>
     <string name="virus_scan_app_continue">Συνέχεια σάρωσης</string>
     <string name="virus_scan_app_finish">Ολοκληρώθηκε</string>

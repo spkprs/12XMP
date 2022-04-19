@@ -822,8 +822,8 @@
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="view_all_notes">Προβολή όλων</string>
-    <string name="warn_cannot_add_new_bullet">"Δεν μπορείτε να προσθέσετε νέα λίστα με κουκκίδες επειδή η σημείωση είναι πολύ μεγάλη"</string>
     <string name="warn_cannot_add_new_checkbox">"Δεν μπορείτε να προσθέσετε νέο πλαίσιο ελέγχου επειδή η σημείωση είναι πολύ μεγάλη"</string>
+    <string name="warn_cannot_add_new_content">"Δεν μπορείτε να προσθέσετε νέο περιεχόμενο επειδή η σημείωση είναι πολύ μεγάλη"</string>    <string name="warn_cannot_add_new_bullet">"Δεν μπορείτε να προσθέσετε νέα λίστα με κουκκίδες επειδή η σημείωση είναι πολύ μεγάλη"</string>
     <string name="warn_cannot_add_new_doodle">"Δεν μπορείτε να προσθέσετε νέο doodle επειδή η σημείωση είναι πολύ μεγάλη"</string>
     <string name="warn_cannot_add_new_element">"Δεν μπορείτε να προσθέσετε νέο στοιχείο επειδή η σημείωση είναι πολύ μεγάλη"</string>
     <string name="warn_cannot_add_new_link_card">"Δεν μπορείτε να προσθέσετε νέο σύνδεσμο επειδή η σημείωση είναι πολύ μεγάλη"</string>
