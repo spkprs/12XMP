@@ -29,4 +29,8 @@
         <item quantity="other">Περίπου %s λεπ. απομένουν</item>
         <item quantity="one">Περίπου %s λεπ. απομένει</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">"Φαίνεται ότι δεν έχετε δημιουργήσει αντίγραφα για %s εβδομάδες. Δημιουργήστε αντίγραφα για να μην χάσετε τίποτα σημαντικό."</item>
+        <item quantity="one">"Φαίνεται ότι δεν έχετε δημιουργήσει αντίγραφα για %s εβδομάδα. Δημιουργήστε αντίγραφα για να μην χάσετε τίποτα σημαντικό."</item>
+    </plurals>
 </resources>

@@ -43,6 +43,7 @@
     <string name="dialog_scan_message_china">"1. Συνδέστε τηλέφωνο και τηλεόρασή στο ίδιο δίκτυο Wi-Fi.\n\n2. Σε ορισμένα μοντέλα τηλεόρασης, αυτή η λειτουργία είναι διαθέσιμη μόνο όταν είναι ενεργοποιημένη η δημιουργία ειδώλων οθόνης. Δείτε την \"Βοήθεια\" για περισσότερα."</string>
     <string name="dialog_scanning_device">Αναζήτηση για συσκευές σε κοντινή απόσταση…</string>
     <string name="dialog_scanning_precondition">Ενεργοποιήσετε το WiFi και το Bluetooth στο τηλέφωνό σας για να χρησιμοποιήσετε την Ασύρματη Οθόνη.</string>
+    <string name="dialog_scanning_precondition_new_global">Ενεργοποιήστε το Wi-Fi και τις υπηρεσίες τοποθεσίας για να μπορέσετε να χρησιμοποιήσετε τη Μετάδοση. Ενεργοποίηση τώρα;</string>
     <string name="dialog_select_tv">Επιλογή Συσκευής (%d)</string>
     <string name="dialog_show_help">Βοήθεια</string>
     <string name="disconnect">Παύση</string>

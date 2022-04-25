@@ -145,8 +145,6 @@
     <string name="accessibility_manual_zen_more_time">Περισσότερο χρόνο.</string>
     <string name="accessibility_no_wifi">Το Wi-Fi αποσυνδέθηκε.</string>
     <string name="accessibility_settings_activity_title">Προσβασιμότητα</string>
-    <string name="actionbar_button_up_description">Πίσω</string>
-    <string name="activity_title_fakecell">Προστασία από ψευδείς σταθμούς βάσης</string>
     <string name="accessibility_wifi_off">Απενεργοποίηση WiFi.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi ένα μπαρ.</string>
     <string name="accessibility_wifi_security_type_none">Άνοιγμα δικτύου</string>
@@ -155,7 +153,9 @@
     <string name="accessibility_wifi_three_bars">Wi-Fi 3 γραμμές.</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi 2 γραμμές.</string>
     <string name="according_to_carrier">Εμφάνιση προτιμήσεων</string>
+    <string name="actionbar_button_up_description">Πίσω</string>
     <string name="active_input_method_subtypes">Ενεργές μέθοδοι εισαγωγής</string>
+    <string name="activity_title_fakecell">Προστασία από ψευδείς σταθμούς βάσης</string>
     <string name="adb_keys_warning_message">Να ανακαλέσετε την πρόσβαση στον εντοπισμό σφαλμάτων USB από όλους τους υπολογιστές που έχετε εξουσιοδοτήσει προηγουμένως;</string>
     <string name="adb_warning_message">Ο εντοπισμός σφαλμάτων USB προορίζεται μόνο για αναπτυξιακούς σκοπούς. Χρησιμοποιήστε το για να αντιγράψετε δεδομένα μεταξύ του υπολογιστή και της συσκευής σας, να εγκαταστήσετε εφαρμογές στη συσκευή σας χωρίς ειδοποίηση και να διαβάσετε δεδομένα καταγραφής.</string>
     <string name="adb_warning_title">Να επιτρέπεται ο εντοπισμός σφαλμάτων USB;</string>
@@ -837,6 +837,10 @@
     <string name="disable_cfb_forbidden">Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση της προώθησης κλήσεων όταν το τηλέφωνό σας είναι κατειλημμένο.</string>
     <string name="disable_cfnrc_forbidden">Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση της προώθησης κλήσεων όταν το τηλέφωνό σας δεν εντοπίζεται.</string>
     <string name="disable_cfnry_forbidden">Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση της προώθησης κλήσεων όταν το τηλέφωνό σας δεν απαντά.</string>
+    <string name="disable_esim_dialog_summary">Το SIM% S θα ενεργοποιηθεί εάν απενεργοποιήσετε το ESIM τώρα.\nΑπενεργοποιήστε το ESIM ούτως ή άλλως;</string>
+    <string name="disable_esim_dialog_title">Απενεργοποίηση της eSIM</string>
+    <string name="disable_esim_error_toast_message">"Δεν ήταν δυνατή η απενεργοποίηση της eSIM"</string>
+    <string name="disable_esim_progress_activating_message">Απενεργοποίηση eSIM...</string>
     <string name="disable_fdn">Απενεργοποίηση FDN</string>
     <string name="disable_fdn_ok">Ενεργοποίηση FDN</string>
     <string name="disable_overlays">Απενεργοποίηση επικαλύψεων HW</string>
@@ -910,6 +914,11 @@
     <string name="enable_disable_technology_news">Ειδήσεις τεχνολογίας</string>
     <string name="enable_dual_4g_if_dual_ct">Προτιμήστε τα δίκτυα 4G και για τις δύο κάρτες SIM να χρησιμοποιούν VoLTE στη δευτερεύουσα κάρτα SIM όταν είναι εγκατεστημένες δύο κάρτες SIM της China Telecom.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">Το VoLTE απαιτεί συνδεσιμότητα 4G και για τις δύο υποδοχές SIM. Μετάβαση σε Διπλό 4G τώρα;</string>
+    <string name="enable_esim_dialog_summary">Οι SIM%s θα απενεργοποιηθούν αν ενεργοποιήσετε την eSIM τώρα.\nΕνεργοποιήστε την eSIM ούτως ή άλλως;</string>
+    <string name="enable_esim_dialog_title">Ενεργοποίηση eSIM</string>
+    <string name="enable_esim_error_toast_message">"Δεν ήταν δυνατή η ενεργοποίηση της eSIM"</string>
+    <string name="enable_esim_progress_activating_message">Ενεργοποίηση eSIM…</string>
+    <string name="enable_esim_title">Χρήση eSIM</string>
     <string name="enable_fdn">Ενεργοποίηση FDN</string>
     <string name="enable_fdn_ok">Απενεργοποίηση FDN</string>
     <string name="enable_freeform_support">Ενεργοποίηση παραθύρων ελεύθερης σχεδίασης</string>
@@ -938,6 +947,7 @@
     <string name="enhanced_4g_lte_mode_title">Ενισχυμένη λειτουργία 4G LTE</string>
     <string name="enter_callbarring_password">Εισαγωγή κωδικού αποκλεισμού (%d ψηφία)</string>
     <string name="enter_esim_manager">Διαχείριση eSIM</string>
+    <string name="enter_esim_manager_title">Διαχείριση eSIM</string>
     <string name="enter_input" formatted="false">Το μήνυμα USSD πρέπει να είναι μεταξύ %d και %d χαρακτήρες. Δοκιμάστε ξανά.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN SIM:</string>
@@ -950,7 +960,10 @@
     <string name="esim_goto_active">Ενεργή</string>
     <string name="esim_inactive_message">Ανενεργή eSIM</string>
     <string name="esim_inactive_notification_message">Δεν εντοπίστηκε κάρτα SIM. Πατήστε για ενεργοποίηση eSIM.</string>
+    <string name="esim_inactive_notification_message_global">Δεν εντοπίστηκε κάρτα SIM. Πατήστε για ενεργοποίηση eSIM</string>
+    <string name="esim_inactive_notification_title_global">Διπλή SIM &amp; Δίκτυα κινητής</string>
     <string name="esim_inactive_settings_title">Διπλή SIM &amp; δίκτυα κινητής</string>
+    <string name="esim_setting_title">Ρυθμίσεις eSIM</string>
     <string name="exception_error">Σφάλμα δικτύου ή κάρτας SIM.</string>
     <string name="expand_button_title">Προχωρημένος</string>
     <string name="external_source_trusted">Επιτρέπεται</string>
@@ -1436,6 +1449,7 @@
     <string name="new_password_label">Νέος κωδικός (%d ψηφία)</string>
     <string name="new_pin2_label">Νέο PIN2</string>
     <string name="new_pin_label">Νέο PIN</string>
+    <string name="no_active_esim_text">Ανενεργή eSIM</string>
     <string name="no_application">Τίποτα</string>
     <string name="no_change">Δεν έγιναν αλλαγές.</string>
     <string name="no_checked_network">Αδύνατη η σύνδεση στο δίκτυο κινητής για να πραγματοποιήσετε κλήσεις. Επιλογή άλλου δικτύου;</string>
@@ -1852,6 +1866,7 @@
     <string name="send_keepalive_title">Αποστολή KeepAlive</string>
     <string name="sensor_answer_summary">Πλησιάστε το τηλέφωνο στο αυτί σας για να απαντήσετε αυτόματα σε μια εισερχόμενη κλήση</string>
     <string name="sensor_answer_title">Σηκώστε για απάντηση</string>
+    <string name="set_esim_toast_phone_in_call">"Δεν μπορείτε να εκτελέσετε αυτή την ενέργεια κατά τη διάρκεια κλήσεων"</string>
     <string name="set_primary_summary">Χρησιμοποιείται για εξερχόμενες κλήσεις</string>
     <string name="set_primary_title">Ορισμός ως κύριος λογαριασμός</string>
     <string name="set_smsc_address_error">Αποτυχία ορισμού αριθμού</string>
@@ -2039,6 +2054,7 @@
     <string name="supp_service_over_ut_precautions_roaming">Για να χρησιμοποιήσετε %s, βεβαιωθείτε ότι τα δεδομένα κινητής τηλεφωνίας και η περιαγωγή δεδομένων είναι ενεργοποιημένα. Μπορείτε να τις αλλάξετε στις ρυθμίσεις δικτύου κινητής τηλεφωνίας.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Για να χρησιμοποιήσετε %1$s, βεβαιωθείτε ότι τα δεδομένα κινητής τηλεφωνίας και η περιαγωγή δεδομένων είναι ενεργοποιημένα για την κάρτα SIM %2$d. Μπορείτε να τις αλλάξετε στις ρυθμίσεις δικτύου κινητής τηλεφωνίας.</string>
     <string name="support_forbidden_fakecell">Σημείωση: Ο περιορισμός σύνδεσης σε ψευδείς σταθμούς βάσης μπορεί να μειώσει το σήμα σε περιοχές με κακή κάλυψη.</string>
+    <string name="switch_cancel_btn_text">Ακύρωση</string>
     <string name="switch_dds_to_sub_alert">Ορίστε αυτήν την κάρτα ως προεπιλεγμένη κάρτα δεδομένων.</string>
     <string name="switch_dds_to_sub_alert_msg">Αλλάξτε τα δεδομένα κινητής τηλεφωνίας σε CT SIM</string>
     <string name="switch_debug_menu">Πρόσθετες ρυθμίσεις δικτύου</string>

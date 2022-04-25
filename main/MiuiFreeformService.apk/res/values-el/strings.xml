@@ -16,6 +16,8 @@
     <string name="freeform_demo_title_skip">Παράλειψη</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Σύρετε τη γωνία για να ελαχιστοποιήσετε μια εφαρμογή</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Σύρετε τη γωνία για να ελαχιστοποιήσετε μια εφαρμογή</string>
+    <string name="freeform_guide_to_sidehide_summary">Σύρετε γρήγορα το παράθυρο από τη γραμμή ενεργειών στην άκρη της οθόνης.</string>
+    <string name="freeform_guide_to_sidehide_title">Απόκρυψη αιωρούμενων παραθύρων</string>
     <string name="freeform_slide_to_small_freeform">Ελαχιστ/ση Αιωρούμενου παραθ.</string>
     <string name="freeform_slide_to_small_freeform_summary">Κρατήστε τη γραμμή ενεργειών και σύρετε στην γωνία</string>
     <string name="freeform_slide_to_small_freeform_summary_pad">Σύρετε τη γωνία για να ελαχιστ/σετε μια εφαρμογή</string>

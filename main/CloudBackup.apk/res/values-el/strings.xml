@@ -43,6 +43,8 @@
     <string name="backup_action_buy_cloud_space">Αποκτήστε περισσότερο χώρο αποθήκευσης</string>
     <string name="backup_action_check_network">Έλεγχος ρυθμίσεων δικτύου</string>
     <string name="backup_action_clean_disk_space">Ελευθερώστε χώρο</string>
+    <string name="backup_action_long_time_not_backup_action">Αντίγραφο ασφαλείας</string>
+    <string name="backup_action_long_time_not_backup_title">Χωρίς πρόσφατα αντίγραφα</string>
     <string name="backup_action_no_space_with_wechat_off_content">Δεν υπάρχει αρκετός χώρος αποθήκευσης στο cloud για τη δημιουργία αντιγράφων στοιχείων από αυτή τη συσκευή. Δείτε τις διαθέσιμες επιλογές αποθήκευσης στο cloud.</string>
     <string name="backup_action_no_space_with_wechat_off_title">"Δεν ήταν δυνατή η δημιουργία αντιγράφων στοιχείων"</string>
     <string name="backup_action_no_space_with_wechat_on_content">Δεν υπάρχει αρκετός χώρος αποθήκευσης στο cloud για τη δημιουργία αντιγράφων των δεδομένων του WeChat. Αναβαθμίστε το πρόγραμμα αποθήκευσης πρώτα.</string>
@@ -186,10 +188,18 @@
     <string name="dialog_cancel_backup_msg">Η εναλλαγή του διακόπτη τερματίζει τα τρέχοντα αντίγραφα.</string>
     <string name="dialog_cancel_backup_title">Ακύρωση του τρέχοντος αντιγράφου;</string>
     <string name="dialog_cloud_space_not_enough">Αυτό το αντίγραφο ασφάλειας απαιτεί %1$s ελεύθερο χώρο αποθήκευσης στο cloud. Αναβαθμίστε το πρόγραμμα αποθήκευσης για να δημιουργήσετε αντίγραφα των στοιχείων.</string>
+    <string name="dialog_content_cancel_backup">Τα δεδομένα που έχουν ήδη μεταφορτωθεί θα χαθούν εάν ακυρώσετε το αντίγραφο ασφαλείας. Ακύρωση ούτως ή άλλως;</string>
+    <string name="dialog_content_cancel_restore">Τα δεδομένα που έχουν ήδη επαναφερθεί θα διατηρηθούν αν σταματήσετε την επαναφορά. Παύση τώρα;</string>
     <string name="dialog_msg_overwrite_backup">Το τοπικό αντίγραφο είναι διαφορετικό απο του Xiaomi Cloud. Αν συνεχίσετε, το τρέχον θα αντικαταστήσει το προηγούμενο .</string>
     <string name="dialog_msg_restore_require_wlan">Για Επαναφορά αρχείων απαιτείται Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Η επαναφορά αντιγράφων ασφαλείας απαιτεί σύνδεση σε WiFi.</string>
     <string name="dialog_need_permission">Απαιτούνται άδειες</string>
+    <string name="dialog_negative_btn_cancel_backup">Ακύρωση αντιγράφων</string>
+    <string name="dialog_negative_btn_cancel_restore">Παύση επαναφοράς</string>
+    <string name="dialog_positive_btn_cancel_backup">"Μην ακυρώσετε"</string>
+    <string name="dialog_positive_btn_cancel_restore">"Μην παύσετε"</string>
+    <string name="dialog_title_cancel_backup">Ακύρωση αντιγράφων</string>
+    <string name="dialog_title_cancel_restore">Μην ακυρώσετε</string>
     <string name="dialog_title_require_wlan">Σύνδεση σε Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Σύνδεση στο WiFi</string>
     <string name="dialog_wechat_data_close_agree">Συνεχίστε</string>
