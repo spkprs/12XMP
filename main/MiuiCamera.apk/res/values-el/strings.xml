@@ -364,15 +364,24 @@
     <string name="beauty_lens_none">Θόλωση</string>
     <string name="beauty_lens_use_hint">Χρήση μεγάλου διάφραγματος για θόλωση φόντου και κάντε τα αντικείμενα στο προσκήνιο να ξεχωρίζουν.</string>
     <string name="beauty_makeups_bluefemale">Παγετός</string>
+    <string name="beauty_makeups_danyan">Nude</string>
     <string name="beauty_makeups_gentleman">Ασημί</string>
     <string name="beauty_makeups_nude">Γυμνό</string>
     <string name="beauty_makeups_pinkfemale">Πέταλα</string>
+    <string name="beauty_makeups_qianjin">Auburn</string>
+    <string name="beauty_makeups_ruanmei">Teen</string>
     <string name="beauty_makeups_solid">Περίγραμμα</string>
+    <string name="beauty_makeups_subeffect_filter">Φίλτρα</string>
+    <string name="beauty_makeups_subeffect_makeup">Μακιγιάζ</string>
     <string name="beauty_makeups_toughman">Χάλκινο</string>
+    <string name="beauty_makeups_xiazhi">Σκιά κάτω βλεφάρου</string>
+    <string name="beauty_makeups_yanku">Ice queen</string>
+    <string name="beauty_makeups_yuanqi">Fresh</string>
     <string name="beauty_mo_fe">Φυσικό</string>
     <string name="beauty_mo_ma">Κλασικό</string>
     <string name="beauty_mo_or">Αρχικό</string>
     <string name="beauty_mode_reset_toast">Εκκαθαρίστηκαν επιτυχώς τα εφέ αναδιαμόρφωσης</string>
+    <string name="beauty_mutex_toast_tip">&lt;a href=>Απενεργοποιήστε&lt;/a> πρώτα τα εφέ μακιγιάζ</string>
     <string name="beauty_ne">Αρχικό</string>
     <string name="beauty_no_t">Αισθητική ανενεργή</string>
     <string name="beauty_origin_skincolor">Αρχικό</string>
@@ -397,6 +406,7 @@
     <string name="button_normal_video_title">Εγγραφή βίντεο</string>
     <string name="camcorder_tip_8k_max_video_duration">Μπορείτε να εγγράψετε έως και %1$d λεπτά σε 8K</string>
     <string name="camcorder_tip_current_max_video_duration">Μπορείτε να εγγράψετε έως %d λεπτά στην τρέχουσα ανάλυση</string>
+    <string name="camcorder_tip_super_night_video_4k_max_video_duration">Μπορείτε να εγγράψετε έως &amp; %d λεπτά σε 4K</string>
     <string name="camera_disabled">Η Κάμερα έχει απενεργοποιηθεί</string>
     <string name="camera_error_title">Σφάλμα κάμερας</string>
     <string name="camera_facedetection_sub_option_hint">Πειραματική λειτουργία</string>
@@ -530,6 +540,7 @@
     <string name="cta_perm_loc">Τοποθεσία</string>
     <string name="cta_perm_type">"Προαιρετικές άδειες (Χρησιμοποιούνται για την χρήση πρόσθετων λειτουργιών)"</string>
     <string name="cta_user_tips"><Data>Για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστη, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνείστε με τις &lt;a href =%1$s>Συμφωνία χρήστη&lt;/a> &amp; &lt;a href =%2$s>Πολιτική απορρήτου&lt;/a> μας.</Data></string>
+    <string name="custom_content_unavailable_alert">"Δεν μπορείτε να χρησιμοποιήσετε το κείμενο που εισάγατε. Δοκιμάστε κάτι άλλο."</string>
     <string name="custom_sound_art">Retro</string>
     <string name="custom_sound_default">Προεπιλογή</string>
     <string name="custom_sound_modern">Modern</string>
@@ -620,6 +631,7 @@
     <string name="dual_video_user_guide_standalone_content">Λήψη με δύο κάμερες ταυτόχρονα και αποθηκεύστε και τις δύο εγγραφές ως ξεχωριστά βίντεο.</string>
     <string name="dual_video_user_guide_standalone_content_new">Τα βίντεο που λαμβάνονται ταυτόχρονα μπορούν επίσης να διαχωριστούν και να αποθηκευτούν ως δύο αρχεία.</string>
     <string name="edit_blusher">Ρούζ</string>
+    <string name="edit_cheekbone">Ζυγωματικά</string>
     <string name="edit_chin">Πηγούνι</string>
     <string name="edit_color_skin">Τόνος δέρματος</string>
     <string name="edit_eye_large">Μεγάλα μάτια</string>
@@ -627,11 +639,14 @@
     <string name="edit_face_ruddy">Κοκκινωπό</string>
     <string name="edit_face_slender">Λεπτή</string>
     <string name="edit_hairline">Χτένισμα</string>
+    <string name="edit_head_narrow">Μέγεθος κεφαλής</string>
+    <string name="edit_jaw">Κάτω γνάθος</string>
     <string name="edit_jelly_lips">Κραγιόν</string>
     <string name="edit_lips">Χείλια</string>
     <string name="edit_makeup">Makeup</string>
     <string name="edit_neck">Λαιμός</string>
     <string name="edit_nose">Μύτη</string>
+    <string name="edit_nose_tip">Ρινικό άκρο</string>
     <string name="edit_pupil_line">Μολύβι ματιών</string>
     <string name="edit_risorius">Ανεπτυγμένη</string>
     <string name="edit_skin_smooth">Απαλό</string>
@@ -639,6 +654,8 @@
     <string name="edit_slim_nose">Λεπτή μύτη</string>
     <string name="edit_smile">Χαμόγελο</string>
     <string name="edit_solid">Περίγραμμα</string>
+    <string name="edit_temple">Ναοί</string>
+    <string name="edit_touch_up">Μακιγιάζ</string>
     <string name="emoticon">Πακέτο Emoji</string>
     <string name="empty">" "</string>
     <string name="error_fail_to_start_audio_capture">Αδύνατη η εκκίνηση της λήψης ήχου</string>
@@ -1119,6 +1136,10 @@
     <string name="pref_audio_focus_title">Εστίαση ήχου</string>
     <string name="pref_auto_boot">Αυτόματη έναρξη</string>
     <string name="pref_auto_boot_summary">Κάντε την Κάμερα πιο ευέλικτη, επιτρέποντάς την αυτόματη εκκίνηση. Μπορείτε να διαχειριστείτε τις άδειες αυτόματης εκκίνησης στις πληροφορίες της εφαρμογής.</string>
+    <string name="pref_beauty_me_mp_switch_desc">Ρύθμιση εφέ μακιγιάζ για άνδρες σε ομαδικές φωτογραφίες</string>
+    <string name="pref_beauty_me_mp_switch_title">Ρυθμίστε τα εφέ μακιγιάζ για άνδρες</string>
+    <string name="pref_beauty_nvs_wp_desc">Αφαίρεση των κρεατοελιών όταν χρησιμοποιούνται εφέ εξομάλυνσης του δέρματος</string>
+    <string name="pref_beauty_nvs_wp_title">Αφαίρεση κρεατοελιών</string>
     <string name="pref_burst_shoot_title">Συνεχείς Λήψεις</string>
     <string name="pref_camcorder_settings">Βίντεο</string>
     <string name="pref_camcorder_settings_category">Ρυθμίσεις κάμερας</string>
@@ -1414,6 +1435,7 @@
     <string name="pref_e_p_s_n">Εγγραφή ήχου μέσω εξωτερικού μικροφώνου όταν είναι συνδεδεμένα ακουστικά Bluetooth με μικρόφωνο</string>
     <string name="pref_face_beauty_title">Αισθητική</string>
     <string name="pref_fingerprint_capture_title">Κλείστρο με Δακτυλικό αποτύπωμα</string>
+    <string name="pref_focus_view_bg_tip">AE/AF κλειδωμένα</string>
     <string name="pref_front_denoise_default">Ανενεργό</string>
     <string name="pref_front_denoise_summary">Μειώστε τους θορύβους που δημιουργούνται πίσω από την μπροστινή κάμερα</string>
     <string name="pref_front_denoise_title">Επιλογή Φίλτρο θορύβου</string>
@@ -1507,6 +1529,13 @@
     <string name="pref_video_focusmode_entry_continuous">Συνεχής εστίαση</string>
     <string name="pref_video_focusmode_title">Λειτουργία εστίασης</string>
     <string name="pref_video_hfr_title">Βίντεο HFR</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p, %dfps</string>
+    <string name="pref_video_quality_entry_1080p_24fps">Πλήρης HD, 1080p, 24 καρέ/δευτ.</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, %dfps</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, %dfps</string>
+    <string name="pref_video_quality_entry_4kuhd_24fps">Πλήρης HD, 4K, 24 καρέ/δευτ.</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, %dfps</string>
+    <string name="pref_video_quality_entry_720p">HD 720p, %dfps</string>
     <string name="pref_video_quality_title">Ποιότητα βίντεο</string>
     <string name="pref_video_speed_entry_fast">Γρήγορη</string>
     <string name="pref_video_speed_entry_normal">Κανονική</string>

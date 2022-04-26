@@ -3433,7 +3433,7 @@
     <string name="request_error_invalid_token">Αδυναμία επαλήθευσης</string>
     <string name="request_error_network">Παρουσιάστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
     <string name="request_error_unknown">Παρουσιάστηκε σφάλμα συστήματος. Επιστρέψτε πίσω και δοκιμάστε ξανά.</string>
-    <string name="request_gallery_permission_message">Να επιτρέπεται η πρόσβαση στη Συλλογή:&lt;br /&gt;Για ρύθμιση φωτογραφιών προφίλ</string>
+    <string name="request_gallery_permission_message">Να επιτρέπεται η πρόσβαση στη Συλλογή: Για ρύθμιση φωτογραφιών προφίλ</string>
     <string name="resend_active_email">Αποστολή ξανά</string>
     <string name="resend_email_reach_limit_message">Έχετε ζητήσει πάρα πολλά emails επαλήθευσης. Βεβαιωθείτε πως το email επαλήθευσης δεν βρίσκεται στο φάκελο Spam.</string>
     <string name="resend_email_reach_limit_title">Πάρα πολλές προσπάθειες</string>
