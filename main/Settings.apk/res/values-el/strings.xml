@@ -2186,6 +2186,7 @@
     <string name="device_info_label">Πληροφορίες συσκευής</string>
     <string name="device_info_not_available">Μη διαθέσιμο</string>
     <string name="device_internal_memory">Εσωτερικός χώρος</string>
+    <string name="device_mall_card_title">Έλεγχος διαθέσιμων παροχών</string>
     <string name="device_memory">RAM</string>
     <string name="device_miui_more">Δείτε περισσότερα</string>
     <string name="device_miui_version">Έκδοση MIUI</string>
@@ -2687,7 +2688,8 @@
     <string name="face_data_siggesstion_next">Επόμενο</string>
     <string name="face_data_siggesstion_next_time">Επόμενο (%ds)</string>
     <string name="face_data_suggesstion_first">Το ξεκλείδωμα προσώπου είναι λιγότερο ασφαλές από ένα PIN, κωδικό πρόσβασης ή μοτίβο. Η συσκευή σας μπορεί να ξεκλειδωθεί με τη φωτογραφία σας, καθώς και από άτομα ή αντικείμενα με παρόμοια εμφάνιση.</string>
-    <string name="face_data_suggesstion_first_cn">Για χρήση του Ξεκλείδωμα Προσώπου, πρέπει να συλλέξουμε τα δεδομένα του προσώπου σας. Αυτά θα αποθηκευτούν τοπικά σε αυτή τη συσκευή. Για να τα διαγράψετε, αναζητήστε \"Ξεκλείδωμα προσώπου\" στις Ρυθμίσεις και, στη συνέχεια, επιλέξτε Ξεκλείδωμα προσώπου > Δεδομένα προσώπου.\nΤο ξεκλείδωμα προσώπου είναι λιγότερο ασφαλές από το PIN, τον κωδικό πρόσβασης ή το μοτίβο. Η συσκευή σας μπορεί να ξεκλειδωθεί με τη φωτογραφία σας, καθώς και από άτομα ή αντικείμενα με παρόμοια εμφάνιση.</string>
+    <string name="face_data_suggesstion_first_cn">Για χρήση του Ξεκλείδωμα Προσώπου, πρέπει να συλλέξουμε τα δεδομένα του προσώπου σας. Αυτά θα αποθηκευτούν τοπικά σε αυτή τη συσκευή. Για να τα διαγράψετε, αναζητήστε \"Ξεκλείδωμα προσώπου\" στις Ρυθμίσεις και, στη συνέχεια, επιλέξτε Ξεκλείδωμα προσώπου > Δεδομένα προσώπου.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">Το Ξεκλείδωμα Προσώπου είναι λιγότερο ασφαλές από το PIN, τον κωδικό πρόσβασης ή το μοτίβο. Η συσκευή σας μπορεί να ξεκλειδωθεί με τη φωτογραφία σας, καθώς και από άτομα ή αντικείμενα με παρόμοια εμφάνιση.</string>
     <string name="face_data_suggesstion_second">"Βεβαιωθείτε ότι όλα τα μέρη του προσώπου σας είναι ορατά. Μην φοράτε αξεσουάρ που θα μπορούσαν να το καλύψουν. Κρατήστε το ομοιόμορφα φωτισμένο και αποφύγετε το σημειακό φως."</string>
     <string name="face_intro_error_max">Προσθέσατε τον μέγιστο αριθμό προσώπων</string>
     <string name="face_intro_error_unknown">Αδύνατη η προσθήκη περισσότερων προσώπων</string>
@@ -3101,7 +3103,7 @@
     <string name="gxzw_anim_star">Πυροτέχνημα</string>
     <string name="gxzw_anim_title">Ένδειξη αγγίγματος σαρωτή</string>
     <string name="gxzw_anim_unlock_effect">%s κίνηση δακτυλ. αποτυπωμάτων</string>
-    <string name="gxzw_aod_show_summary">Σηκώστε τη συσκευή ή αγγίξτε την οθόνη για να εμφανιστεί το εικονίδιο δακτυλικών αποτυπωμάτων. Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας του συστήματος.</string>
+    <string name="gxzw_aod_show_summary">Σηκώστε τη συσκευή ή αγγίξτε την οθόνη για να εμφανιστεί το εικονίδιο δακτυλικών αποτυπωμάτων. Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας του συστήματος, αλλά σας επιτρέπει να ξεκλειδώνετε τη συσκευή πιο γρήγορα.</string>
     <string name="gxzw_aod_show_tittle">Εμφάνιση εικονιδίου δακτ αποτυπ σε ανεν. οθόνη</string>
     <string name="gxzw_dialog_message">Για να λειτουργήσει κανονικά ο αισθητήρας δακτυλικών αποτυπωμάτων οθόνης, μην χρησιμοποιείτε προστατευτικά οθόνης. Αν νομίζετε ότι αυτό να είναι απαραίτητο, επιλέξτε ανάμεσα σε εξουσιοδοτημένες συμβατές επιλογές.</string>
     <string name="gxzw_dialog_not_show_again">Μην επανεμφανιστεί</string>
@@ -4747,6 +4749,8 @@
     <string name="networks_title">Δίκτυα κινητής</string>
     <string name="never">Ποτέ</string>
     <string name="new_backup_pw_prompt">Πληκτρολογήστε ένα νέο κωδικό πρόσβασης για πλήρη αντίγραφα ασφαλείας εδώ</string>
+    <string name="new_fingerprint_to_new_face_dialog_msg">Για χρήση του Ξεκλείδωμα Προσώπου, προσθέστε πρώτα δεδομένα προσώπου. Προσθήκη τώρα;</string>
+    <string name="new_fingerprint_to_new_face_dialog_tittle">Προσθήκη Δεδομένων Προσώπου</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Προσθέστε το δακτυλικό σας αποτύπωμα για να ξεκλειδώνετε τη συσκευή με αυτό.</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">Άκυρο</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Προσθήκη</string>

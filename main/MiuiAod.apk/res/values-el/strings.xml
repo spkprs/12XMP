@@ -194,6 +194,7 @@
     <string name="text_length_exceed_limit_alert">*Το κείμενο που πληκτρολογήσατε είναι πολύ μεγάλο</string>
     <string name="text_size">Μέγεθος κειμένου</string>
     <string name="theme_cate_title">Θέμα</string>
+    <string name="theme_manager_other">Περισσότερα στοιχεία</string>
     <string name="time_aod_show_summary">Εμφάνιση για: %s δευτ.</string>
     <string name="time_location">Θέση ρολογιού</string>
     <string name="time_style">Στυλ</string>
