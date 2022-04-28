@@ -1079,6 +1079,7 @@
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Π</string>
     <string name="functions_are_being_developed">Αυτή η δυνατότητα θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>
+    <string name="create_album_failed_because_dup">Αυτό το άλμπουμ υπάρχει ήδη. Προσθήκη στοιχείων σε αυτό τώρα;</string>
     <string name="gallery_setting">Ρυθμίσεις</string>
     <string name="gallery_sync_disable_toast">Ο συγχ/σμός για το Άλμπουμ είναι ανενεργός</string>
     <string name="generate_story_summary">Τραβήξτε αρκετές φωτογραφίες, συνδέστε το φορτιστή και απενεργοποιήστε την οθόνη για να εμφανιστούν οι Αναμνήσεις</string>
@@ -1090,6 +1091,8 @@
     <string name="grant_permission_go_and_set_2">Ρυθμίσεις</string>
     <string name="grant_permission_go_and_set_3">Ρυθμίσεις</string>
     <string name="grant_permission_item">\"%s\"</string>
+    <string name="grant_permission_manage_storage">Απαιτούμενες άδειες</string>
+    <string name="grant_permission_manage_storage_unlock">Ξεκλειδώστε τη συσκευή σας και επιτρέψτε στην εφαρμογή να έχει πρόσβαση σε όλα τα αρχεία για να μπορεί να προβάλλει στοιχεία.</string>
     <string name="grant_permission_shortcut">Να επιτρέπεται σε αυτήν την εφαρμογή η δημιουργία συντομεύσεων αρχικής οθόνης πρώτα.</string>
     <string name="grant_permission_storage">Να επιτρέπεται σε αυτήν την εφαρμογή η πρόσβαση στον χώρο αποθήκευσης πρώτα.</string>
     <string name="grant_permission_storage_unlock">Ξεκλειδώστε τη συσκευή σας και επιτρέψτε σε αυτήν την εφαρμογή την πρόσβαση στον χώρο αποθήκευσης πρώτα.</string>
@@ -1206,6 +1209,7 @@
     <string name="kick_sharer_successfully">Επιτυχής διαγραφή κοινόχρηστου</string>
     <string name="kilobyteShort">KB</string>
     <string name="last_some_performance_title">Στοιχεία που είδα</string>
+    <string name="lenovo_phone">Lenovo τηλέφωνο</string>
     <string name="limit_height">Το ύψος πρέπει να είναι > 0</string>
     <string name="limit_width">Το πλάτος πρέπει να είναι > 0</string>
     <string name="live_photo">Δυναμική λήψη</string>
@@ -1898,7 +1902,7 @@
     <string name="photo_vlog_module_loading">Λήψη προγράμματος επεξεργασίας βίντεο...</string>
     <string name="photodetail_failed_already_exist">Αυτό το αρχείο υπάρχει ήδη</string>
     <string name="photodetail_rename_failed">"Αδύνατη η μετονομασία"</string>
-    <string name="photodetail_rename_invalid">"Τα ονόματα να μην περιέχουν χαρακτήρες: /\\:*?&lt;>|."</string>
+    <string name="photodetail_rename_invalid">"Τα ονόματα να μην περιέχουν χαρακτήρες: /\\:*?&lt;>|.\""</string>
     <string name="photodetail_rename_success">Η μετονομασία ολοκληρώθηκε με επιτυχία</string>
     <string name="photodetail_rename_title">Μετονομασία</string>
     <string name="photodetail_rename_too_long">Το όνομα αρχείου είναι πολύ μεγάλο</string>

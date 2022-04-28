@@ -4168,6 +4168,9 @@
     <string name="miheadet_up_music">Προηγούμενο κομμάτι</string>
     <string name="miheadset_Box">Θήκη</string>
     <string name="miheadset_Intelligentpickfree_summary">Όταν η ακύρωση θορύβου είναι ενεργή, τα ακουστικά σας θα μεταβούν αυτόματα σε διαφάνεια για σύντομο χρονικό διάστημα όταν ανιχνεύουν φωνές.</string>
+    <string name="miheadset_LEAudio_summary">"Ορισμένες λειτουργίες δεν θα είναι διαθέσιμες όταν το LE Audio είναι ενεργοποιημένο."</string>
+    <string name="miheadset_LEAudio_title">Ενεργοποίηση ήχου LE?</string>
+    <string name="miheadset_LE_on_toast">Βεβαιωθείτε ότι και τα δύο ακουστικά είναι φορτισμένα και βγάλτε τα από τη θήκη πριν ενεργοποιήσετε αυτή τη λειτουργία.</string>
     <string name="miheadset_LeftEar">Αριστερό</string>
     <string name="miheadset_RightEar">Δεξιό</string>
     <string name="miheadset_active">Ενεργό</string>
@@ -4223,6 +4226,8 @@
     <string name="miheadset_enhence_low">Βελτιωμένα μπάσα</string>
     <string name="miheadset_equalizer">Ισοσταθμιστής</string>
     <string name="miheadset_feedback">Σχόλια</string>
+    <string name="miheadset_feedback_summary">Για να μπορέσετε να υποβάλετε αρχεία καταγραφής, τοποθετήστε και τα δύο ακουστικά στη θήκη φόρτισης και κρατήστε το καπάκι ανοιχτό.</string>
+    <string name="miheadset_feedback_title">Υποβολή καταγραφών</string>
     <string name="miheadset_fitness_check">Δοκιμή προσαρμογής άκρου στο αυτί</string>
     <string name="miheadset_fitness_check_checking">Δοκιμή…</string>
     <string name="miheadset_fitness_check_continue">Επόμενο</string>
@@ -4293,6 +4298,7 @@
     <string name="miheadset_shared_contacts">Κοινή χρήση επαφής</string>
     <string name="miheadset_shared_contacts_summary">Για κοινή χρήση επαφών</string>
     <string name="miheadset_single_ear_indicate">Φορέστε και τα δύο ακουστικά για χρήση της Ακύρωσης θορύβου</string>
+    <string name="miheadset_singleear_toast">Δεν υποστηρίζεται για ένα μόνο ακουστικό</string>
     <string name="miheadset_soft">Απαλό</string>
     <string name="miheadset_sound_settings">Ήχος</string>
     <string name="miheadset_spatial_audio_off">Off</string>
