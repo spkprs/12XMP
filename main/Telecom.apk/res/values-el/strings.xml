@@ -366,6 +366,7 @@
     <string name="notification_channel_incoming_call">Εισερχόμενες κλήσεις</string>
     <string name="notification_channel_missed_call">Αναπάντητες κλήσεις</string>
     <string name="notification_channel_missed_call_DND">Μην Ενοχλείτε</string>
+    <string name="notification_disconnectedDialing_message">Δεν είναι δυνατή η πραγματοποίηση κλήσης, καθώς μια άλλη εξερχόμενη κλήση είναι ήδη σε κλήση.</string>
     <string name="notification_incallservice_not_responding_body">Η κλήση σας χρησιμοποίησε την εφαρμογή τηλεφώνου που συνοδεύει τη συσκευή σας</string>
     <string name="notification_incallservice_not_responding_title">%s διακοπή απόκρισης</string>
     <string name="notification_incoming_call">%1$s κλήση από %2$s</string>

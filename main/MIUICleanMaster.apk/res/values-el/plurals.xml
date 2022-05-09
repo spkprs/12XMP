@@ -190,8 +190,8 @@
         <item quantity="one">Επιλέχθηκε %d εφαρμ. για εκκαθάριση δεδομένων</item>
     </plurals>
     <plurals name="dc_item_summary_app_reset">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> εφαρμ. χρησιμοποιούν πολύ αποθηκ. χώρο&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font>  εφαρμ. χρησιμοποιούν πολύ αποθηκ. χώρο&lt;/Data></item>
+       <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> εφαρμ. χρησιμοποιούν πολύ αποθηκευτικό χώρο&lt;/Data></item>
+       <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> εφαρμ. χρησιμοποιεί πολύ αποθηκευτικό χώρο&lt;/Data></item>
     </plurals>
     <plurals name="reset_app_selected_app">
         <item quantity="other">Επιλέχθηκαν %d εφαρμ. για επαναφορά</item>

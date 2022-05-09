@@ -170,6 +170,7 @@
     <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
     <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
+    <string name="msim_select_default_last">Πρόσφατη χρήση</string>
     <string name="msim_select_default_time_left">"(%d "</string>
     <string name="notification_action_accept">Αποδοχή</string>
     <string name="notification_action_answer_video">Βίντεο</string>

@@ -192,4 +192,20 @@
         <item>Πολύ Μεγάλο</item>
         <item>XXL</item>
     </string-array>
+    <string-array name="cache_sort_type">
+        <item>Μέγεθος</item>
+        <item>Όνομα</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Κατά όνομα εφαρμ.</item>
+        <item>Κατά συχνότητα χρήσης</item>
+        <item>Κατά αποθ. χώρο</item>
+        <item>Κατά ημερ. εγκατάστασης</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Όνομα εφαρμ.</item>
+        <item>Συχνότητα χρήσης</item>
+        <item>Χρήση αποθήκευσης</item>
+        <item>Χρόνος εγκατ/σης</item>
+    </string-array>
 </resources>

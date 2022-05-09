@@ -127,6 +127,7 @@
     <string name="low_battery_error_for_pad">"Λιγότερο από %s μπαταρίας απομένει. Διακόψτε και αποθηκεύστε την εγγραφή σας για να βεβαιωθείτε ότι δεν έχει χαθεί."</string>
     <string name="low_battery_error_title">Χαμηλή μπαταρία</string>
     <string name="lyric_item_point_count">%1$d σε %2$d</string>
+    <string name="manage_external_storage">Πρόσβαση σε όλα τα αρχεία</string>
     <string name="mark_point_list_title">Ετικέτες</string>
     <string name="menu">Μενού</string>
     <string name="message_file_size_error">Η εγγραφή έχει φτάσει το μέγιστο επιτρεπόμενο μήκος που υποστηρίζεται από %s</string>
@@ -370,6 +371,7 @@
     <string name="status_bar_recording_pause">Ηχογράφηση σε παύση</string>
     <string name="storage_permission_dialog_title">Απαιτούνται άδειες αποθήκευσης</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="sync_desc_state_complete">Συγχρονισμός με το cloud: %1$s</string>
     <string name="tab_all">Όλα</string>
     <string name="tab_apps">Εφαρμ.</string>
     <string name="tab_call">Κλήσεις</string>

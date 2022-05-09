@@ -1004,6 +1004,8 @@
     <string name="fiveg_network_mode_nsa">NSA</string>
     <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
     <string name="fiveg_network_mode_title">Επιλογή λειτουργίας δικτύου 5G</string>
+    <string name="fiveg_nrca_switch_summary">Χρήση συνάθροισης φορέων 5G για καλύτερη συνδεσιμότητα</string>
+    <string name="fiveg_nrca_switch_title">5G συνάθροιση φορέων</string>
     <string name="fiveg_plmn_info_list1">Λίστα πληροφοριών PLMN:</string>
     <string name="fiveg_power_switch_summary">Κάνει τη συνδεσιμότητα 5G λιγότερο ενεργοβόρα σε ορισμένα σενάρια</string>
     <string name="fiveg_power_switch_title">5G εξοικονόμηση μπαταρίας</string>
@@ -1483,6 +1485,8 @@
     <string name="nr_usaged_network_usaged">Σημερινά δεδομένα</string>
     <string name="nr_usaged_operator">Πάροχος</string>
     <string name="nr_usaged_used_time">Διάρκεια χρήσης</string>
+    <string name="nrca_switch_summary">Χρήση συνάθροισης φορέων 5G για καλύτερη συνδεσιμότητα</string>
+    <string name="nrca_switch_title">Χρήση NRCA</string>
     <string name="number">Αριθμός</string>
     <string name="numerous_emergency_numbers_title">Αριθμοί έκτακτης ανάγκης</string>
     <string name="oem_unlock_enable">Εκκλείδωμα OEM</string>
@@ -2176,6 +2180,8 @@
     <string name="undefined">Απροσδιόριστο</string>
     <string name="unfold_close_camera_pref_summary">Ξεδίπλωμα συσκευής κατά τη διάρκεια μιας κλήσης βίντεο για να απενεργοποιήσετε την κάμερα</string>
     <string name="unfold_close_camera_pref_title">Ξεδίπλωμα για απενεργοποίηση κάμερας</string>
+    <string name="unfold_show_bublle_pref_summary">Ξεδιπλώστε τη συσκευή κατά τη διάρκεια των κλήσεων για να τις εμφανίσετε σε αιωρούμενα παράθυρα</string>
+    <string name="unfold_show_bublle_pref_title">Ξεδιπλώστε για να ελαχιστοποιήσετε τις κλήσεις</string>
     <string name="unfold_speaker_pref_summary">Ξεδίπλωμα συσκευής κατά τη διάρκεια μιας κλήσης για να ενεργοποιήσετε το ηχείο</string>
     <string name="unfold_speaker_pref_title">Ξεδίπλωμα για χρήση ηχείου</string>
     <string name="unknown">Άγνωστη</string>

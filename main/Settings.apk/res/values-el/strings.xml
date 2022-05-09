@@ -1055,6 +1055,8 @@
     <string name="bluetooth_empty_list_user_restricted">Δεν έχετε άδεια για να αλλάξετε τις ρυθμίσεις Bluetooth.</string>
     <string name="bluetooth_enable">Bluetooth</string>
     <string name="bluetooth_enable_alphanumeric_pin">Το PIN περιέχει γράμματα ή σύμβολα</string>
+    <string name="bluetooth_enable_opp_high_speed">Μεταφορές Bluetooth υψηλής ταχύτητας</string>
+    <string name="bluetooth_enable_opp_high_speed_summary">Χρήση πρωτοκόλλων Bluetooth P2P υψηλής ταχύτητας για μεταφορές</string>
     <string name="bluetooth_enable_page_scan">Ενεργοποίηση Β/Τ σάρωσης σελίδας</string>
     <string name="bluetooth_enable_page_scan_summary">Ενεργ/Απενεργοποίηση Β/Τ δοκιμή σάρωσης σελίδας</string>
     <string name="bluetooth_enable_pts_test">Ενεργοποίηση δοκιμής bluetooth PTS</string>
@@ -2856,6 +2858,8 @@
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Η εγκατεστημένη εφαρμογή δεν θα μπορέσει να συνδεθεί στο διαδίκτυο χρησιμοποιώντας Wi-Fi όταν αυτός ο διακόπτης είναι απενεργοποιημένος.</string>
     <string name="firmware_version">Έκδοση Android</string>
+    <string name="fiveg_nrca_switch_summary">Βελτίωση της σύνδεσης 5G για περιβάλλοντα δοκιμών</string>
+    <string name="fiveg_nrca_switch_title">5G συνάθροιση φορέων</string>
     <string name="fiveg_sa_switch_summary">Ενεργοποίηση λειτουργίας SA του Vice SIM, μόνο για δοκιμή</string>
     <string name="fiveg_sa_vice_switch_title">SA για τη δεύτερη SIM</string>
     <string name="fiveg_vonr_switch_summary">Χρησιμοποιήστε το VoNR σε περιβάλλοντα δικτύου 5G για να βελτιώσετε την εμπειρία κλήσεων. Αυτή η λειτουργία παρέχεται μόνο για δοκιμαστικούς σκοπούς.</string>
@@ -2995,6 +2999,7 @@
     <string name="freeform_guide_to_sidehide_title">Απόκρυψη Αιωρούμενων παραθύρων</string>
     <string name="freeform_vedio_description">· Πατήστε παρατεταμένα και, τραβήξτε προς τα κάτω μια ειδοποίηση για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.\n· Πατήστε \"Αιωρούμενα παράθυρα\" στα Πρόσφατα για να επιλέξετε εφαρμογές.</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">· Πατήστε μια εφαρμογή στην Πλευρική μπάρα για να την ανοίξετε σε ένα Αιωρούμενο παράθυρο.\n· Σύρετε μια εφαρμογή στο κέντρο της οθόνης για να την ανοίξετε σε Αιωρούμενο παράθυρο ή στο πλάι για χρήση Διαχωρισμού οθόνης.</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Σύρετε μια εφαρμογή από την πλαϊνή γραμμή στο κέντρο της οθόνης για να την ανοίξετε σε αιωρούμενο παράθυρο ή στο πλάι για να χρησιμοποιήσετε την οθόνη διαχωρισμού.</string>
     <string name="freeform_vedio_description_pad">Σύρετε στοιχεία από την κάτω γραμμή για να ανοίξετε κυμαινόμενα παράθυρα</string>
     <string name="frequently_fragment_delete">Διαγραφή</string>
     <string name="frequently_fragment_tempty">Τα στοιχεία με συχνή χρήση θα πρέπει να αναφέρονται εδώ</string>
@@ -5032,6 +5037,7 @@
     <string name="notifications_summary_divider"> / </string>
     <string name="notifications_title">Ειδοποιήσεις</string>
     <string name="now">Επανεκκίνηση τώρα</string>
+    <string name="nrca_switch_title">Χρήση συνάθροισης φορέων 5G</string>
     <string name="number_of_device_admins_none">Δεν υπάρχουν ενεργές εφαρμογές</string>
     <string name="oaid_apps_summary">Αποδοχή ή περιορισμός σε μεμονωμένες εφαρμογές</string>
     <string name="oaid_apps_title">Διαχείριση εικονικού ID</string>

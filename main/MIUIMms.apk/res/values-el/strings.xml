@@ -315,9 +315,9 @@
     <string name="favorite_at_time">Προστέθηκε στα αγαπημένα την: %1s</string>
     <string name="fdn_check_failure">Μπορείτε να στείλετε μηνύματα μόνο στους αριθμούς κλήσης συγκεκριμένων αριθμών.</string>
     <string name="feature_mx">Mi Μήνυμα</string>
-    <string name="feature_mx_summary"><b>Mi Μήνυμα σάς επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες μηνυμάτων MI μέσω του Internet χωρίς να χρεωθείτε</b>. Απαιτείται ένα εξερχόμενο μήνυμα SMS για την ενεργοποίηση αυτής της υπηρεσίας. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα.Διαβάστε και αποδεχτείτε τους <font color="#B3000000"><a href="http://url1">Συμφωνία Χρήστη</a></font> και <font color="#B3000000"><a href="http://url2">Πολιτικής Απορρήτου</a></font> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="feature_mx_summary"><b>Το Mi Message σας επιτρέπει να στέλνετε μηνύματα σε άλλους χρήστες του Mi Message μέσω του διαδικτύου χωρίς χρεώσεις.</b>. Για την ενεργοποίηση αυτής της υπηρεσίας απαιτείται ένα εξερχόμενο μήνυμα SMS. Ο φορέας σας θα σας χρεώσει για αυτό το μήνυμα. Διαβάστε και συμφωνήστε με το <a href="http://url1"><font color="#B3000000">Συμφωνία χρήστη</font></a> και <a href="http://url2"><font color="#B3000000">Πολιτική απορρήτου</font></a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="feature_smart_sms">Έξυπνα Μηνύματα</string>
-    <string name="feature_smart_sms_summary"><b>Η Έξυπνη ανταλλαγή μηνυμάτων παρέχει ID Αποστολέα και έξυπνα μενού</b>". Η έξυπνη ανταλλαγή μηνυμάτων παρέχεται εν μέρει από την Yulore. Διαβάστε και αποδεχτείτε της Yulore "<font color="#B3000000"><a href="http://url3">Πολιτική Απορρήτου</a></font> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="feature_smart_sms_summary"><b>Το Smart Messaging παρέχει αναγνώριση ταυτότητας αποστολέα και έξυπνα μενού</b>". Το Smart Messaging παρέχεται εν μέρει από την Yulore. Διαβάστε και συμφωνήστε με τις οδηγίες της Yulore "<a href="http://url3"><font color="#B3000000">Πολιτική απορρήτου</font></a> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="festival_sms_loading">Φορτώνει…</string>
     <string name="fetion_prefix">[Φήμη]</string>
     <string name="file_create_time">Δημιουργήθηκε:</string>
@@ -360,7 +360,7 @@
     <string name="ft_cfs_dialog_title">Εναλλακτική μεταφορά αρχείων</string>
     <string name="go_close">Ρυθμίσεις</string>
     <string name="go_to">"Άνοιγμα "</string>
-    <string name="google_message_promo_content">Η Xiaomi συνιστά την αναβάθμιση σε Μηνύματα από την Google. Εγκαταστήστε τώρα για να αποκτήσετε κοινή χρήση φωτογραφιών υψηλής ποιότητας, να συνομιλήσετε σε Wi-Fi και πολλά άλλα. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Περισσότερα</a></font>.</string>
+    <string name="google_message_promo_content">Η Xiaomi συνιστά την αναβάθμιση σε Messages by Google. Εγκαταστήστε το τώρα για να αποκτήσετε υψηλής ποιότητας κοινή χρήση φωτογραφιών, συνομιλία σε Wi-Fi και πολλά άλλα. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">Περισσότερα</font></a></string>
     <string name="google_message_promo_title">Αναβαθμίστε την εφαρμογή ανταλλαγής μηνυμάτων</string>
     <string name="group_already_kicked_hint">Δεν είστε σε αυτήν την ομάδα, δεν μπορείτε να στείλετε ένα μήνυμα.</string>
     <string name="group_member_is_composing">Πληκτρολογεί…</string>
