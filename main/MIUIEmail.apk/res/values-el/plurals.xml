@@ -172,4 +172,8 @@
          <item quantity="one">%1$d εβδ. πριν</item>
          <item quantity="other">%1$d εβδ. πριν</item>
      </plurals>
+     <plurals name="email_filter_rule_max_tips">
+         <item quantity="one">Προσθέστε έως και %1$d κατάσταση</item>
+         <item quantity="other">Προσθέστε έως και %1$d καταστάσεις</item>
+     </plurals>
 </resources>
