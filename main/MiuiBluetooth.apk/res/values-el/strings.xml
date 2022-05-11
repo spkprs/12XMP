@@ -316,7 +316,7 @@
     <string name="headset_device_error_disconnect">Και τα δύο ακουστικά αποσυνδέθηκαν. Κλείστε τη θήκη φόρτισης και ανοίξτε την ξανά για να ξεκινήσετε την ενημέρωση από την αρχή.</string>
     <string name="headset_device_error_failed">"Δεν είναι δυνατή η ενημέρωση"</string>
     <string name="headset_device_error_multconnect">"Δεν είναι δυνατή η ενημέρωση όταν είναι συνδεδεμένες πολλές συσκευές"</string>
-    <string name="headset_device_error_no_device">Τουλάχιστον ένα ακουστικό λείπει από τη θήκη φόρτισης</string>
+	<string name="headset_device_error_no_device">Βάλτε και τα δύο ακουστικά στη θήκη και κρατήστε τα φορτισμένα</string>
     <string name="headset_device_error_single_device">"Δεν είναι η ενημέρωση ενός ακουστικού. Ζεύγος ξανά."</string>
     <string name="headset_device_sync">Συχγρονίζεται…</string>
     <string name="headset_device_sync_donot_move_device">Συγχρονισμός... Περιμένετε μέχρι να ολοκληρωθεί πριν χρησιμοποιήσετε τα ακουστικά.</string>
@@ -399,6 +399,10 @@
     <string name="miheadset_notification_Disconnect">Αποσύνδεση</string>
     <string name="miheadset_notification_LeftEar">Α</string>
     <string name="miheadset_notification_RightEar">Δ</string>
+    <string name="miheadset_spatial_audio_change_to_phone">Εναλλαγή σε διαστατικό ήχο σε αυτή τη συσκευή</string>
+    <string name="miheadset_spatial_audio_headset">Ακουστικά</string>
+    <string name="miheadset_spatial_audio_not_support_headset">"Ο διαστατικός ήχος στα ακουστικά δεν είναι συμβατός με πολυκάναλες πηγές"</string>
+    <string name="miheadset_spatial_audio_phone">Αυτή η συσκευή</string>
     <string name="mihome_app_download">Εγκατάσταση</string>
     <string name="mihome_app_update">Ενημέρωση τώρα</string>
     <string name="mihome_download_tips">Εγκαταστήστε την Mi Home, κάνετε είσοδο, και κρατήστε το τηλέφωνό σας κοντά στη συσκευή.</string>

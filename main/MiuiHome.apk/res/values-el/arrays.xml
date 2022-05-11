@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="animation_rate_entries">
-        <item>Κομψότητα</item>
-        <item>Ισορροπία</item>
-        <item>Μινιμαλιστικό</item>
+        <item>Αργή</item>
+        <item>Κανονική</item>
+        <item>Γρήγορη</item>
     </string-array>
   <string-array name="drawer_alpha">
     <item>0%</item>

@@ -909,5 +909,9 @@
         <item quantity="other">Καταγράψτε αυτόματα σημαντικές στιγμές και δημιουργήστε βίντεο με τα σημεία της συνεδρίας. Μπορείτε να επιλέξετε να τα αποθηκεύσετε μόνιμα μετά από κάθε συνεδρία παιχνιδιού. Τα μη αποθηκευμένα βίντεο θα διαγραφούν αυτόματα μετά από %1$d ημ.</item>
         <item quantity="one">Καταγράψτε αυτόματα σημαντικές στιγμές και δημιουργήστε βίντεο με τα σημεία της συνεδρίας. Μπορείτε να επιλέξετε να τα αποθηκεύσετε μόνιμα μετά από κάθε συνεδρία παιχνιδιού. Τα μη αποθηκευμένα βίντεο θα διαγραφούν αυτόματα μετά από %1$d ημ.</item>
     </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> κατακερματισμένα</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> κατακερματισμένο</item>
+    </plurals>
 </resources>
 

@@ -1541,6 +1541,8 @@
     <string name="ew_settings_set_level_summary">Λήψη προειδοποιήσεων για σεισμούς όταν η έντασή τους είναι %s ή υψηλότερη</string>
     <string name="ew_settings_set_level_title">Ορισμός ορίου προειδοποίησης σεισμού</string>
     <string name="ew_signature_default">Ινστιτούτο Chengdu του Κέντρου Προειδοποίησης Ηπειρωτικού Σεισμού για Μείωση Καταστροφών Υψηλής Ταχύτητας.</string>
+    <string name="ew_sleep_mode_alert_content">"Για να βεβαιωθείτε ότι μπορείτε να λαμβάνετε έγκαιρες προειδοποιήσεις για σεισμούς, το MIUI θα απενεργοποιήσει τη λειτουργία Sleep. Οι εφαρμογές στο παρασκήνιο, το NFC, το Bluetooth, το GPS, τα δεδομένα κινητής τηλεφωνίας και το WLAN θα λειτουργούν κανονικά ακόμα και όταν κοιμάστε. Ενεργοποίηση τώρα;"</string>
+    <string name="ew_sleep_mode_alert_title">Προειδοποίηση σεισμού</string>
     <string name="ew_subscribe_area_title">Διαχείριση πρόσθετων περιοχών</string>
     <string name="ew_subscribe_city">Προστεθείσες περιοχές</string>
     <string name="ew_subscribe_city_count">Μπορείτε να εγγραφείτε εως %s πόλεις.</string>
@@ -4607,6 +4609,10 @@
     <string name="storage_dialog_unmountable">Η ^1 είναι κατεστραμμένη. \n\nΓια να χρησιμοποιήσετε την ^1, πρέπει πρώτα να την ρυθμίσετε.</string>
     <string name="storage_dialog_unmounted">Η ^1 καταργήθηκε με ασφάλεια, αλλά παραμένει διαθέσιμη.\n\nΓια να χρησιμοποιήσετε την ^1, προσαρτήστε την πρώτα.</string>
     <string name="storage_dialog_unsupported">Αυτή η συσκευή δεν υποστηρίζει την ^1. \n\nΓια να χρησιμοποιήσετε την ^1 , πρέπει πρώτα να την ρυθμίσετε.</string>
+    <string name="storage_fbo_clear">Ανασυγκρότηση</string>
+    <string name="storage_fbo_des">"Ο εσωτερικός αποθηκευτικός χώρος πάσχει από κατακερματισμό, ο οποίος μπορεί να επιβραδύνει σημαντικά τη συσκευή σας. Ο ανασυγκρότηση εκτελείται αυτόματα ενώ δεν χρησιμοποιείτε τη συσκευή. Οργανώνει φυσικά τα αρχεία σας στον μικρότερο δυνατό αριθμό κατακερματισμού μειώνοντας την καθυστέρηση."</string>
+    <string name="storage_fbo_number_tip">Συγχωνεύτηκε σε %1$s</string>
+    <string name="storage_fbo_tools">Βελτιστοποίηση αποθήκευσης</string>
     <string name="storage_file_delete_tip">Διαγραφή επιλεγμένων στοιχείων μόνιμα; Κάποια από αυτά μπορεί να φορτωθούν ξανά όταν χρειαστεί.</string>
     <string name="storage_file_dialog_delete_title">Διαγραφή στοιχείων</string>
     <string name="storage_file_list_btn">Διαγραφή %1$s</string>

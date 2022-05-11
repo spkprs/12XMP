@@ -83,6 +83,7 @@
     <string name="device_status_waiting">Αναμονή…</string>
     <string name="device_type_pc">PC</string>
     <string name="disable_nfc">Απενεργοποίηση NFC για ασύρματη φόρτιση</string>
+    <string name="disable_nfc_haptic_reverse">Απενεργοποίησε το NFC και τη δόνηση για αντίστροφη ασύρματη φόρτιση</string>
     <string name="disable_nfc_reverse">Απενεργοποίηση NFC για αντίστροφη ασύρματη φόρτιση</string>
     <string name="dock_tip_floatwindow">Κρατήστε τη μπάρα και σύρετέ την στην άκρη της οθόνης για είσοδο σε προβολή Διαιρούμενης οθόνης.</string>
     <string name="dock_tip_splitscreen_landscape_drag">Σύρετε τη μπάρα οριζόντια για να αλλάξετε τις θέσεις των δύο παραθύρων των εφαρμογών.</string>
@@ -95,6 +96,7 @@
     <string name="enable_livetalk_title">Ενεργοποίηση πακέτου Top-up</string>
     <string name="enable_midrop">Ενεργοποίηση</string>
     <string name="enable_nfc">Δεν φορτίζεται πλέον. Το NFC είναι ξανά ενεργοποιημένο.</string>
+    <string name="enable_nfc_haptic_reverse">Σταμάτησε η αντίστροφη φόρτιση. Το NFC και η δόνηση είναι πάλι ενεργοποιημένα.</string>
     <string name="enable_nfc_reverse">Χωρίς αντίστροφη φόρτιση. Το NFC είναι ξανά ενεργοποιημένο.</string>
     <string name="fc_dialog_body">Αποστολή αναφοράς σφάλματος στη Mi για ανάλυση; Αυτή η αναφορά μπορεί να περιέχει προσωπικά αναγνωρίσιμες πληροφορίες. Η αναφορά σας θα χρησιμοποιηθεί για να διορθωθεί αυτό το σφάλμα και δεν πρόκειται ποτέ να μοιραστεί σε εμπορικό πλαίσιο.</string>
     <string name="fc_dialog_jump_to_preview">Δείτε την περίληψη</string>
@@ -112,7 +114,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Όχι ευχαριστώ</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ενεργοποίηση</string>
     <string name="fp_nav_center_action_choose_dlg_title">Προσαρμογή πλήκτρου Home</string>
-    <string name="freeform_exchange_tip">Απελευθέρωση για άνοιγμα εφαρμογής</string>
+    <string name="freeform_exchange_tip">Άνοιγμα Αιωρούμενου παραθύρου σε λειτουργία πλήρους οθόνης</string>
     <string name="freeform_exchange_tip2">Σύρετε προς τη γωνία για ακύρωση</string>
     <string name="frequent_email">Συχνά χρησιμοποιούμενα email</string>
     <string name="frequent_phrases">Συχνές φράσεις</string>

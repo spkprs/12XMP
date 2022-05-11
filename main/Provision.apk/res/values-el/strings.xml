@@ -3,6 +3,7 @@
     <string name="access_non_personal_data">Αν αποσύρετε τη συγκατάθεσή σας για την πρόσβαση και τη χρήση μη προσωπικών δεδομένων από τη συσκευή σας, οι υπηρεσίες Wallpaper Carousel θα απενεργοποιηθούν και τυχόν συλλεχθέντα δεδομένα θα διαγραφούν εντός της περιόδου που καθορίζεται από τους ισχύοντες νόμους και κανονισμούς.</string>
     <string name="accessibility_enabled">Η πρόσβασης είναι ενεργή.</string>
     <string name="activate_esim_tips">"Δεν ήταν δυνατή η ενεργοποίηση. Προσπάθησε ξανά."</string>
+    <string name="activating_esim_tips">Ενεργοποίηση…</string>
     <string name="address_dialing_introduction">Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για κλήσεις, προβολή ιστορικού κλήσεων και διαχείριση επαφών.</string>
     <string name="agree">Συμφωνώ</string>
     <string name="agree_and_next">Συμφωνώ</string>

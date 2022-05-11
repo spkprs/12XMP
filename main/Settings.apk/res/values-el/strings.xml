@@ -2231,6 +2231,8 @@
     <string name="dialog_check_title">"Αδυναμία σύνδεσης στο Διαδίκτυο"</string>
     <string name="dialog_chose_item">Επιλέξτε ένα στοιχείο για εμφάνιση</string>
     <string name="dialog_content_login">Σύνδεση στο λογαριασμό Mi για την αναβάθμιση;</string>
+    <string name="dialog_esim_button_negative">Ακύρωση</string>
+    <string name="dialog_esim_button_positive">OK</string>
     <string name="dialog_location_message">Το τηλέφωνό σας δεν μπορεί να διαχειριστεί την μπαταρία κανονικά επειδή %1$s συνεχίζει να ζητά την τοποθεσία σας όταν δεν χρησιμοποιείτε την εφαρμογή.\n\nΓια να διορθώσετε αυτό το πρόβλημα, μπορείτε να απενεργοποιήσετε την τοποθεσία για αυτήν την εφαρμογή.</string>
     <string name="dialog_location_ok">Απενεργοποίηση</string>
     <string name="dialog_location_title">Να κλείσω την τοποθεσία;</string>
@@ -2241,6 +2243,12 @@
     <string name="dialog_restrict_all_wlan_title">Περιορισμός σύνδεσης Wi-Fi</string>
     <string name="dialog_restrict_negative">Περιορισμός</string>
     <string name="dialog_restrict_positive">Ακύρωση</string>
+    <string name="dialog_softbank_esim_wipe_cancel">Διατήρηση</string>
+    <string name="dialog_softbank_esim_wipe_info">"Διαγραφή όλων των δεδομένων eSIM που έχουν ληφθεί τώρα; Αυτό δεν θα ακυρώσει το πρόγραμμα υπηρεσιών κινητής σας."</string>
+    <string name="dialog_softbank_esim_wipe_ok">Εκκαθάριση</string>
+    <string name="dialog_softbank_esim_wipe_title">Εκκαθάριση δεδομένων eSIM</string>
+    <string name="dialog_softbank_esime_context">Αυτή η συσκευή πρέπει να συνδεθεί στο διαδίκτυο για να μπορέσει να ενεργοποιήσει την eSIM. Παράληψη ενεργοποίησης eSIM;</string>
+    <string name="dialog_softbank_esime_title">Παράλειψη ενεργοποίησης eSIM</string>
     <string name="dialog_speaker_auto_clean_button">Κατανοητό</string>
     <string name="dialog_speaker_auto_clean_content">Η εκκαθάριση διαρκεί 30 δευτ. Μην αφήσετε αυτή τη σελίδα. Μεγιστοποίηση της έντασης ήχου για βέλτιστο αποτέλεσμα.</string>
     <string name="dialog_speaker_auto_clean_content_new">"Πρόκειται να αναπαράγετε τον ήχο που θα καθαρίσει το ηχείο. Ρυθμίστε την ένταση του ήχου στο μέγιστο για καλύτερο αποτέλεσμα."</string>
@@ -4300,6 +4308,8 @@
     <string name="miheadset_preferences">Επιλογές</string>
     <string name="miheadset_rename">Μετονομασία</string>
     <string name="miheadset_rename_device">Μετονομασία</string>
+    <string name="miheadset_same_account_incall">Λήψη κλήσεων από όλες τις συγχρονισμένες συσκευές</string>
+    <string name="miheadset_same_account_incall_summary">Συνδέστε τα ακουστικά σε άλλες συγχρονισμένες συσκευές για να λαμβάνετε εισερχόμενες κλήσεις</string>
     <string name="miheadset_shared_contacts">Κοινή χρήση επαφής</string>
     <string name="miheadset_shared_contacts_summary">Για κοινή χρήση επαφών</string>
     <string name="miheadset_single_ear_indicate">Φορέστε και τα δύο ακουστικά για χρήση της Ακύρωσης θορύβου</string>
