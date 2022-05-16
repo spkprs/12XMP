@@ -256,7 +256,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Αδύνατη η φόρτωση στοιχείων</string>
     <string name="msg_alert_cancel_restore">Πραγματοποιείται επαναφορά στοιχείων από το Xiaomi Cloud. Ακύρωση τώρα;</string>
     <string name="msg_alert_restore_error">"Αδυναμία επαναφοράς απο το Xiaomi Cloud. Προσπαθήστε ξανά."</string>
-    <string name="msg_restore_start_with_metered_network">"Η αρχική οθόνη σας θα επανεκκινήθηκε. Οι αντίγραφα ασφαλείας των εφαρμογών θα ληφθούν αυτόματα. &lt;br />&lt;b>&lt;font color='red'>%s των αρχείων θα γίνει λήψη.&lt;/font>&lt;/b>"</string>
+	<string name="msg_restore_start_with_metered_network">"Εάν επαναφέρετε αυτό το αντίγραφο ασφαλείας, η Αρχική οθόνη σας θα επανέλθει και οι εφαρμογές σας θα μεταφορτωθούν και θα εγκατασταθούν αυτόματα.&lt;br />&lt;b>&lt;font color='red'>Μέγεθος: %s&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Εάν προχωρήσετε στην επαναφορά αυτών των στοιχείων, τα δεδομένα κινητής  θα χρησιμοποιηθούν για λήψη.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> αρχείων θα γίνει λήψη."</string>
     <string name="network_error">Συνδεθείτε στο δίκτυο</string>
