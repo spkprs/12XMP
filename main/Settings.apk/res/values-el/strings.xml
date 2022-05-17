@@ -2762,6 +2762,8 @@
     <string name="feedback">Ανατροφοδότηση</string>
     <string name="feedback_btn_text">Υποβολή</string>
     <string name="feedback_settings">Υπηρεσίες &amp; Σχόλια</string>
+    <string name="felica_wallet">Πορτοφόλι FeliCa</string>
+    <string name="felica_wallet_desc">Πορτοφόλι FeliCa</string>
     <string name="file_privacy_password_role_instruction">Τα προσωπικά σας αρχεία θα αποθηκευτούν εδώ.</string>
     <string name="filter">Φίλτρο</string>
     <string name="filter_all_apps">Όλες οι εφαρμογές</string>
@@ -4184,6 +4186,8 @@
     <string name="mi_shopping_mall">Ομάδα VKontakte</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Λογαριασμός πληρωμής Mi</string>
+    <string name="mi_wallet">Mi Πορτοφόλι</string>
+    <string name="mi_wallet_desc">Mi Πορτοφόλι</string>
     <string name="micloud_service_summary">Συγχρονίστε τη λίστα εφαρμογών, αντίγραφα ρυθμίσεων συστήματος &amp; τη διάταξη αρχικής οθόνης</string>
     <string name="micloud_service_summary_temp">Συγχρονίστε φωτογραφίες, βίντεο, επαφές &amp; άλλα</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
@@ -4384,6 +4388,11 @@
     <string name="miui_master_clear_prompt_battery_low">"Δεν είναι δυνατή η εκτέλεση επαναφοράς εργοστασιακών ρυθμίσεων όταν έχει απομείνει λιγότερο από %1$s μπαταρίας. Φορτίστε τη συσκευή σας πριν συνεχίσετε."</string>
     <string name="miui_master_clear_summary">Διαγράφει όλα τα δεδομένα στο τηλέφωνο</string>
     <string name="miui_more_special_feature">Εξερευνήστε νέες λειτουργίες</string>
+    <string name="miui_nfc_dialog_message">"Αν απενεργοποιήσετε το NFC, δεν θα μπορείτε να χρησιμοποιήσετε τις λειτουργίες NFC που περιλαμβάνουν το Mi Pay, τις κάρτες μεταφοράς, τις κάρτες κλειδιών και πολλά άλλα. Απενεργοποίηση;"</string>
+    <string name="miui_nfc_dialog_negative">Απενεργοποίηση</string>
+    <string name="miui_nfc_dialog_positive">Ακύρωση</string>
+    <string name="miui_nfc_dialog_title">Απενεργοποίηση NFC</string>
+    <string name="miui_nfc_mi_pay_summary">Mi Pay, κάρτες μεταφοράς, κάρτες κλειδιών</string>
     <string name="miui_optimization_disabled">"Ανενεργή βελτιστοποίηση MIUI "</string>
     <string name="miui_sos_around_photo_summary">Επισυνάψτε %d φωτογραφίες από την μπροστινή και την πίσω κάμερα στο μήνυμα κειμένου για αποστολή στις επαφές έκτακτης ανάγκης.</string>
     <string name="miui_sos_around_photo_title">Επισύναψη φωτογραφίες</string>
@@ -4799,6 +4808,8 @@
     <string name="nfc_how_it_works_content">Ορίστε μια εφαρμογή πληρωμών. Στη συνέχεια, απλά πλησιάστε το πίσω μέρος του τηλεφώνου σας σε οποιοδήποτε τερματικό ανέπαφων συναλλαγών.</string>
     <string name="nfc_how_it_works_got_it">Το κατάλαβα</string>
     <string name="nfc_how_it_works_title">Πληρωμή στο τερματικό</string>
+    <string name="nfc_image_preference_text_click">Ελέγξτε πού βρίσκεται η περιοχή της κεραίας NFC σε αυτή τη συσκευή.</string>
+    <string name="nfc_image_preference_text_noclick">"Τοποθετήστε τη συσκευή σας κοντά σε ένα τερματικό ανέπαφων συναλλαγών για να χρησιμοποιήσετε το Mi Pay, τις κάρτες μεταφοράς, τις κάρτες κλειδιών και άλλες λειτουργίες NFC. "</string>
     <string name="nfc_more_title">Περισσότερα…</string>
     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">Προεπιλ.εφαρμογή Πληρωμών</string>
@@ -5401,6 +5412,7 @@
     <string name="preference_change_password_title">Αλλαγή κωδικού</string>
     <string name="preference_copied">\"%1$s\" αντιγράφονται στο πρόχειρο.</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="preference_toggle_nfc_dnd_mode_summary">"Χωρίς λήψη ειδοποιήσεων για μη αναγνωρισμένες ετικέτες NFC"</string>
     <string name="preferred_app_settings">Προεπιλογές</string>
     <string name="preferred_app_settings_default">Προεπιλογή</string>
     <string name="preferred_app_settings_not_selected">Χωρίς επιλογή</string>
@@ -6143,6 +6155,8 @@
     <string name="sdcard_settings_unmounted_status">Η συσκευή USB μπορεί να αφαιρεθεί</string>
     <string name="sdcard_settings_used_bytes_label">Χώρος σε χρήση:</string>
     <string name="sdcard_unmount">Αποσύνδεση κάρτας SD</string>
+    <string name="se_in_ese">Ενσωματωμένο Ασφαλές στοιχείο</string>
+    <string name="se_in_ese_desc">Ενσωματωμένο Ασφαλές στοιχείο</string>
     <string name="se_route_default">Αυτόματη επιλογή</string>
     <string name="se_route_ese">Ενσωματωμένο ασφαλές στοιχείο</string>
     <string name="se_route_uicc">Ασφαλές στοιχείο στην κάρτα SIM</string>
@@ -6727,6 +6741,8 @@
     <string name="sim_slot_empty">Δεν υπάρχει κάρτα SIM</string>
     <string name="sim_status_title">Κατάσταση SIM</string>
     <string name="sim_status_title_sim_slot">Κατάσταση SIM (υποδοχή sim %1$d)</string>
+    <string name="sim_wallet">SIM Πορτοφόλι</string>
+    <string name="sim_wallet_desc">SIM Πορτοφόλι</string>
     <string name="simulate_color_space">Προσομοίωση χρώματος χώρου</string>
     <string name="single_key_use">Χρήση ενός πλήκτρου</string>
     <string name="single_key_use_summary">Το πλήκτρο Home αντί των άλλων δύο κουμπιών για κανονική λειτουργία</string>
