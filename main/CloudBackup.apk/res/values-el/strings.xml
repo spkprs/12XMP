@@ -154,7 +154,7 @@
 	<string name="confirm_cancel_restore_positive">Συνέχεια</string>
 	<string name="confirm_cancel_restore_title">Ακύρωση επαναφοράς;</string>
 	<string name="confirm_restore">Επαναφορά</string>
-	<string name="confirm_restore_app_data">Αντικατάσταση δεδομένων εφαρμογής</string>
+	<string name="confirm_restore_app_data">"Το WeChat είναι ήδη εγκατεστημένο σε αυτή τη συσκευή. Δεν μπορείτε να επαναφέρετε τα δεδομένα του WeChat."</string>
 	<string name="confirm_restore_app_data_summary">Φαίνεται ότι το WeChat έχει ήδη δημιουργήσει δεδομένα σε αυτήν τη συσκευή. Αντικατάσταση δεδομένων από το αντίγραφο ασφαλείας;</string>
 	<string name="confirm_restore_summary">Η Αρχική οθόνη θα επανεκκινήσει και τα αντίγραφα των εφαρμογών θα ληφθούν αυτόματα.</string>
 	<string name="confirm_restore_title">Επαναφορά</string>
@@ -330,7 +330,7 @@
 	<string name="restore_from_cloud">Επαναφορά αντιγράφων ασφαλείας από το Xiaomi Cloud</string>
 	<string name="restore_from_mimover">Μεταφορά από την παλιά συσκευή σας με χρήση Mi Mover</string>
 	<string name="restore_from_this_device">Επιλογή αντιγράφου</string>
-	<string name="restore_header_backup_size">Υποστηριζόμενο μέγεθος: %s</string>
+	<string name="restore_header_backup_size">Μέγεθος: %s</string>
 	<string name="restore_header_msg">"Πριν επαναφέρετε τα δεδομένα του WeChat, βεβαιωθείτε ότι δεν είναι εγκατεστημένο σε αυτή τη συσκευή. Κατά τη διάρκεια της επαναφοράς των δεδομένων, μην ανοίγετε ή χρησιμοποιείτε WeChat."</string>
 	<string name="restore_header_title">Συνολικό μέγεθος: %s</string>
 	<string name="restore_header_title2">Συνολικά αντίγραφα: %s</string>

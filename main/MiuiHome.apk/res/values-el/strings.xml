@@ -52,6 +52,7 @@
     <string name="activity_not_unlocked">Περιμένετε μέχρι η συσκευή σας να επανεκκινηθεί πλήρως πριν ανοίξετε τις εφαρμογές</string>
     <string name="add_custom_category">Προσαρμογή</string>
     <string name="add_screen">Προσθήκη οθόνης</string>
+    <string name="add_to_workspace">Προσθήκη στην αρχική οθόνη</string>
     <string name="added_all_category">Προστέθηκαν επιτυχώς όλες οι εφαρμογές</string>
     <string name="agree_button">Συμφωνώ</string>
     <string name="alexa_notification_add">Προσθήκη</string>
@@ -320,6 +321,8 @@
     <string name="failed_to_drop">Αποτυχία μετακίνησης!</string>
     <string name="failed_to_drop_widget_invalid">Λάθος Widget</string>
     <string name="failed_to_load_image">Αδυναμία φόρτωσης εικόνας</string>
+    <string name="fold_pair_install_shortcut_long_click">Πατήστε παρατεταμένα για προσθήκη στην Αρχική οθόνη</string>
+    <string name="fold_pair_installed_shortcut_launcher">Αυτή η συντόμευση υπάρχει ήδη</string>
     <string name="folder_name">Φάκελος</string>
     <string name="frame_load_failed">Μη έγκυρη κορνίζα!</string>
     <string name="free_style_apps_title">Επιλογή εφαρμογής</string>
@@ -585,6 +588,7 @@
     <string name="night">Απόγευμα</string>
     <string name="no_detail_page">Δεν υπάρχουν λεπτομέρειες</string>
     <string name="no_space_toast">Δεν υπάρχει αρκετός χώρος</string>
+    <string name="no_space_toast_fold">Δεν έχει αρκετό χώρο εδώ</string>
     <string name="no_space_toast_when_click_widget">Δεν υπάρχει αρκετός χώρος σε αυτήν τη σελίδα. Δοκιμάστε να σύρετε αυτό το στοιχείο σε διαφορετική σελίδα.</string>
     <string name="noon">Μεσημέρι</string>
     <string name="normal_wallpaper">Ταπετσαρία</string>
