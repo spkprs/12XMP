@@ -178,7 +178,7 @@
     <string name="bad_wallpaper_source_prompt">Δεν είναι δυνατή η φόρτωση της ταπετσαρίας</string>
     <string name="branch_core_version">Branch Core Version</string>
     <string name="branch_feature_description">Εκτός από τις εφαρμογές, η \"Γρήγορη αναζήτηση\" μπορεί να βρει περιεχόμενο εντός της εφαρμογής και στοιχεία στο διαδίκτυο.</string>
-    <string name="branch_guide_attention">Η χρήση της ενισχυμένης αναζήτησης απαιτεί την κοινή χρήση των αιτημάτων αναζήτησης, του Google Ads ID και της διεύθυνσης IP με την Branch Metrics Inc. Διαβάστε και συμφωνήστε με τους Όρους Discovery Τελικού Χρήστη &amp; Όροι και Πολιτική απορρήτου της Branch Discovery πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="branch_guide_attention">Η χρήση της ενισχυμένης αναζήτησης απαιτεί την κοινή χρήση των αιτημάτων αναζήτησης, του Google Ads ID και της διεύθυνσης IP με την Branch Metrics Inc. Διαβάστε και συμφωνήστε με τους <font color="#B3000000"><a href="http://url1">Όρους Discovery Τελικού Χρήστη </a></font> &amp; <font color="#B3000000"><a href="http://url2">Όροι και Πολιτική απορρήτου της Branch Discovery</a></font> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="branch_guide_description_one">"Θα βάλουμε όλες τις εφαρμογές σας στο Συρτάρι εφαρμογών. Η Αρχική οθόνη σας θα φαίνεται τακτοποιημένη και οργανωμένη."</string>
     <string name="branch_guide_description_three">"Με την ενσωματωμένη αναζήτηση, θα μπορείτε να βρίσκετε ότι χρειάζεστε στο λεπτό.!"</string>
     <string name="branch_guide_description_two">Το Συρτάρι εφαρμογών κατηγοριοποιεί αυτόματα τις εφαρμογές.</string>
@@ -193,7 +193,7 @@
     <string name="branch_new_feature">Νέα λειτουργία</string>
     <string name="branch_privacy_policy">Πολιτική απορρήτου</string>
     <string name="branch_search_guide_description">Τα αποτελέσματα της αναζήτησής μας είναι τώρα πολύ πιο ολοκληρωμένα</string>
-    <string name="branch_search_guide_privacy">"Αυτή η υπηρεσία υποστηρίζεται από την Branch Metrics Inc. Οι πληροφορίες τοποθεσίας σας, τα ερωτήματα αναζήτησης και το Google Ads ID θα κοινοποιηθούν στην Branch. Διαβάστε και συμφωνήστε με τους Όρους και Προϋποθέσεις και την Πολιτική Απορρήτου της Branch πριν χρησιμοποιήσετε αυτή την υπηρεσία."</string>
+    <string name="branch_search_guide_privacy">"Αυτή η υπηρεσία υποστηρίζεται από την Branch Metrics Inc. Οι πληροφορίες τοποθεσίας σας, τα ερωτήματα αναζήτησης και το Google Ads ID θα κοινοποιηθούν στην Branch. Διαβάστε και συμφωνήστε με τους "<font color="#B3000000"><a href="http://url1">Όρους και Προϋποθέσεις</a></font> και την <font color="#B3000000"><a href="http://url2">Πολιτική Απορρήτου της Branch</a></font> πριν χρησιμοποιήσετε αυτή την υπηρεσία."</string>
     <string name="branch_search_guide_title">"Βρείτε αυτό που ψάχνετε στις αγαπημένες σας εφαρμογές"</string>
     <string name="branch_terms_condition">Όροι και Προϋποθέσεις</string>
     <string name="branch_tip_title">Με τη \"Γρήγορη αναζήτηση\", μπορείτε να βρείτε ό,τι χρειάζεστε στο λεπτό.</string>
@@ -737,7 +737,7 @@
     <string name="select_frame">Κάδρο</string>
     <string name="select_photo">Φωτογραφία</string>
     <string name="server_error">Παρουσιάστηκε σφάλμα διακομιστή. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
-    <string name="service_double_attention">Η ενισχυμένη λειτουργία αναζήτησης παρέχεται από την Branch Metrics Inc. Για να λειτουργήσει αυτή η λειτουργία, πρέπει να μοιραστούμε τα αιτήματα αναζήτησης, το Google Ads ID και τη διεύθυνση IP με την Branch Metrics Inc. Διαβάστε και συμφωνήστε με τους Όρους &amp; Προϋποθέσεις Αναζήτησης Τελικού Χρήστη και την Πολιτική Απορρήτου της Branch Discovery πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="service_double_attention">Η ενισχυμένη λειτουργία αναζήτησης παρέχεται από την Branch Metrics Inc. Για να λειτουργήσει αυτή η λειτουργία, πρέπει να μοιραστούμε τα αιτήματα αναζήτησης, το Google Ads ID και τη διεύθυνση IP με την Branch Metrics Inc. Διαβάστε και συμφωνήστε με τους <font color="#B3000000"><a href="http://url1">Όρους &amp; Προϋποθέσεις Αναζήτησης Τελικού Χρήστη</a></font> και την <font color="#B3000000"><a href="http://url2">Πολιτική Απορρήτου της Branch Discovery</a></font> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="setting_wallpaper_tip">Μετακίνηση ή/αλλαγή κλίμακας</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="settings_shortcut">Ρυθμίσεις</string>
@@ -792,9 +792,9 @@
     <string name="system_text">Αυτόματα</string>
     <string name="task_access_locked_app_msg">Κλείδωμα εφαρμογών ενεργό</string>
     <string name="term_of_service">Όροι και προϋποθέσεις</string>
-    <string name="terms_of_services_one">"Καλώς ήρθατε στο Συρτάρι εφαρμογών και στη Γρήγορη αναζήτηση. Η Γρήγορη αναζήτηση σάς επιτρέπει να βρίσκετε εφαρμογές, περιεχόμενο εντός της εφαρμογής και στοιχεία στο διαδίκτυο ταχύτερα. Διαβάστε και συμφωνήστε με την Πολιτική απορρήτου της Xiaomi πριν χρησιμοποιήσετε αυτές τις λειτουργίες."</string>
+    <string name="terms_of_services_one">"Καλώς ήρθατε στο Συρτάρι εφαρμογών και στη Γρήγορη αναζήτηση. Η Γρήγορη αναζήτηση σάς επιτρέπει να βρίσκετε εφαρμογές, περιεχόμενο εντός της εφαρμογής και στοιχεία στο διαδίκτυο ταχύτερα. Διαβάστε και συμφωνήστε με την "<font color="#B3000000"><a href="http://url1">Πολιτική απορρήτου της Xiaomi</a></font> πριν χρησιμοποιήσετε αυτές τις λειτουργίες."</string>
     <string name="terms_of_services_three">Μπορείτε να απενεργοποιήσετε αυτή τη λειτουργία στις Ρυθμίσεις.</string>
-    <string name="terms_of_services_two">Η χρήση της ενισχυμένης αναζήτησης απαιτεί την κοινοποίηση απαραίτητων προσωπικών πληροφοριών, συμπεριλαμβανομένων των ερωτημάτων αναζήτησης, του Google Advertising ID και της διεύθυνσης IP, με την Branch Metrics Inc. Η Branch θα επεξεργάζεται τις προσωπικές σας πληροφορίες σύμφωνα με την Πολιτική Απορρήτου της Branch Discovery. Διαβάστε και συμφωνήστε με τους Όρους &amp; Προϋποθέσεις Ανακάλυψης Τελικού Χρήστη και την Πολιτική Απορρήτου Branch Discovery πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="terms_of_services_two">Η χρήση της ενισχυμένης αναζήτησης απαιτεί την κοινοποίηση απαραίτητων προσωπικών πληροφοριών, συμπεριλαμβανομένων των ερωτημάτων αναζήτησης, του Google Advertising ID και της διεύθυνσης IP, με την Branch Metrics Inc. Η Branch θα επεξεργάζεται τις προσωπικές σας πληροφορίες σύμφωνα με την <font color="#B3000000"><a href="http://url1">Πολιτική Απορρήτου της Branch Discovery</a></font>. Διαβάστε και συμφωνήστε με τους <font color="#B3000000"><a href="http://url2">Όρους &amp; Προϋποθέσεις Τελικού Χρήστη</a></font> και την <font color="#B3000000"><a href="http://url3">Πολιτική Απορρήτου Branch Discovery</a></font> πριν χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="thursday">Πέμπτη</string>
     <string name="thursday_short">Πέμ</string>
     <string name="thursday_shortest">Πέμ</string>

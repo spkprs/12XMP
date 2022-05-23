@@ -156,7 +156,7 @@
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Ελέγξτε τη σύνδεση δεδομένων σας και δοκιμάστε ξανά.</string>
     <string name="find_device_error_server">Κάτι πήγε στραβά με τους διακομιστές μας.</string>
-    <string name="find_device_gdpr_prompt">"Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την "<a href="app://com.miui.cloudservice.gdpr.license"><u>Πολιτική απορρήτου</u></a> μας. Απενεργοποιήστε αυτή τη λειτουργία αν θέλετε να αποσύρετε τη συγκατάθεσή σας.</string>
+    <string name="find_device_gdpr_prompt">"Ενεργοποιώντας την Εύρεση Συσκευής, συμφωνείτε με την "<u><a href="app://com.miui.cloudservice.gdpr.license">Πολιτική απορρήτου</a></u> μας. Απενεργοποιήστε αυτή τη λειτουργία αν θέλετε να αποσύρετε τη συγκατάθεσή σας.</string>
     <string name="find_device_operation_failure_rpc">Δεν μπορούσε να εκτελέσει τη λειτουργία που οφείλεται σε σφάλμα RPC.</string>
     <string name="find_device_permissions_footer">"Πατήστε \"Χορήγηση\" για να χορηγήσετε τα δικαιώματα που έχετε επιλέξει."</string>
     <string name="find_device_permissions_header">"Καλώς ήρθατε στην Εύρεση συσκευής! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να εντοπίσετε, να παρακολουθήσετε και να κλειδώσετε τη συσκευή σας όταν αυτή λείπει. Η Εύρεση συσκευής απαιτεί τα ακόλουθα δικαιώματα:"</string>
@@ -744,7 +744,7 @@
     <string name="share_sdk_pref_category_search_local_title">Επαφές</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">Σάρωση κωδικού QR</string>
     <string name="share_sdk_pref_family_detail_title">Προβολή λεπτομερειών οικογενειακής ομάδας</string>
-    <string name="share_sdk_privacy_link_description">Ανάγνωση και αποδοχή <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Mi Πολιτική απορρήτου λογαριασμού</u></a> πριν χρησιμοποιήσετε αυτήν την υπηρεσία.</string>
+    <string name="share_sdk_privacy_link_description">Ανάγνωση και αποδοχή <u><a href="https://account.xiaomi.com/about/protocol/privacy">Mi Πολιτική απορρήτου λογαριασμού</a></u> πριν χρησιμοποιήσετε αυτήν την υπηρεσία.</string>
     <string name="share_sdk_qr_code_description">"%1$s's πρόσκληση"</string>
     <string name="share_sdk_qr_code_expire_time">Περίοδος ισχύος του κώδικα QR: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Πάρα πολλές εξερχόμενες προσκλήσεις. Δοκιμάστε ξανά σε 24 ώρες.</string>

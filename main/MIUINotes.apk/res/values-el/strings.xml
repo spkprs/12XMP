@@ -846,6 +846,8 @@
     <string name="widget_size_item_big">Μεγάλο</string>
     <string name="widget_size_item_medium">Μεσαίο</string>
     <string name="widget_size_item_small">Μικρό</string>
+    <string name="widget_size_item_super_big">Τεράστιο</string>
+    <string name="widget_size_not_support">"Τα πολύ μεγάλα widgets δεν υποστηρίζονται σε αυτή τη συσκευή"</string>
     <string name="widget_take_notes_title">Σημειώσεις</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Οχι τώρα</string>

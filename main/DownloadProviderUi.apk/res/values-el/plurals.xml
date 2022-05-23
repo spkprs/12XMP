@@ -6,8 +6,8 @@
         <item quantity="one">Διαγραφή %d λήψης?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Διαγράφηκαν %s λήψεις με επιτυχία</item>
-        <item quantity="one">Διαγράφηκε %s λήψη με επιτυχία</item>
+        <item quantity="other">Διαγράφηκαν %1$d λήψεις με επιτυχία</item>
+        <item quantity="one">Διαγράφηκε %1$d λήψη με επιτυχία</item>
      </plurals>
      <plurals name="durationDays">
         <item quantity="other">%1$d ημέρες</item>
@@ -30,8 +30,8 @@
         <item quantity="one">Διαγραφή αυτού του στοιχείου;</item>
      </plurals>
      <plurals name="number_items">
-        <item quantity="other">%s στοιχεία</item>
-        <item quantity="one">%s στοιχείο</item>
+        <item quantity="other">%1$d στοιχεία</item>
+        <item quantity="one"> %1$d στοιχείο</item>
      </plurals>
      <plurals name="sniff_find_resource">
         <item quantity="other">Βρέθηκαν %d στοιχεία</item>
