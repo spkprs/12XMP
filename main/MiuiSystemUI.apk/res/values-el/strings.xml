@@ -2273,6 +2273,7 @@
     <string name="time_picker_label_hour">Ω</string>
     <string name="time_picker_label_minute">Λ</string>
     <string name="time_unit_just_now">Μόλις τώρα</string>
+    <string name="tip_close_flares">"Δεν θα λαμβάνετε ειδοποιήσεις σχετικά με τη συμπεριφορά της εφαρμογής κατά τη διάρκεια αυτής της συνεδρίας"</string>
     <string name="title_convert_fbe">Μετατροπή σε βασική κρυπτογράφηση αρχείων</string>
     <string name="title_usb_accessory">Αξεσουάρ USB</string>
     <string name="torch_activity_hint">Κρατήστε [εικονίδιο] για ενεργοποίηση του φακού στην Οθόνη κλειδώματος</string>

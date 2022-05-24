@@ -2901,11 +2901,14 @@
     <string name="floating_window_switch_label_disable">Απόκρυψη αναδυόμενων παράθυρων</string>
     <string name="fluency_mode">Κινήσεις συστήματος</string>
     <string name="fluency_mode_confirm_and_reboot">Επανεκκίνηση τώρα</string>
-    <string name="fold_game_adaptation">Παιχνίδια</string>
+    <string name="fold_application_mode_name">Διατάξεις εφαρμογής</string>
+    <string name="fold_game_adaptation">Διατάξεις παιχνιδιών</string>
     <string name="fold_rule_default">Συνιστάται</string>
     <string name="fold_rule_important">Σημαντική</string>
     <string name="fold_rule_unimportant">Ασήμαντη</string>
-    <string name="fold_screen_settings_title">Χαρακτηριστικά για μεγάλη οθόνη</string>
+    <string name="fold_screen_application_adaptation_title">Προσαρμοσμένες διατάξεις για αναδιπλούμενες συσκευές</string>
+    <string name="fold_screen_settings_title">Χαρακτηριστικά για αναδιπλούμενες συσκευές</string>
+    <string name="fold_screen_special_function_title">Χαρακτηριστικά για αναδιπλούμενες συσκευές</string>
     <string name="fold_title">Κανόνες για ομαδ/μένες ειδοποιήσεις</string>
     <string name="font_cta_alert_btn_negative">Ακύρωση</string>
     <string name="font_cta_alert_btn_positive">Συμφωνώ</string>
@@ -7325,7 +7328,9 @@
     <string name="system_ui_settings">Εμφάνιση ρυθμίσεων SystemUI</string>
     <string name="system_update_settings_list_item_title">SuperSU</string>
     <string name="tab_text">Καρτέλα</string>
+    <string name="tablet_screen_application_adaptation_title">Προσαρμοσμένες διατάξεις για tablet</string>
     <string name="tablet_screen_settings_title">Χαρακτηριστικά για tablet</string>
+    <string name="tablet_screen_special_function_title">Χαρακτηριστικά για αναδιπλούμενα tablets</string>
     <string name="take_call_on_title">Καλέστε το</string>
     <string name="talkback_summary">Ο αναγνώστης οθόνης κυρίως για άτομα με τύφλωση και χαμηλή όραση</string>
     <string name="talkback_title">TalkBack</string>
@@ -8121,7 +8126,7 @@
     <string name="wallpaper_desktop">Αρχική οθόνη</string>
     <string name="wallpaper_live">Ζωντανή ταπετσαρία</string>
     <string name="wallpaper_lockscreen">Οθόνη κλειδώματος</string>
-    <string name="wallpaper_setting_title">Ταπετσαρία</string>
+    <string name="wallpaper_setting_title">Ταπετσαρίες για αναδιπλούμενες συσκευές</string>
     <string name="wallpaper_settings_fragment_title">Επιλογή ταπετσαρίας από</string>
     <string name="wallpaper_settings_summary_custom">Προσαρμοσμένη</string>
     <string name="wallpaper_settings_summary_default">Προεπιλογή</string>

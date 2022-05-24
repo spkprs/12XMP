@@ -917,5 +917,13 @@
     <item quantity="other">%2$1.2f ώρες απομένουν</item>
     <item quantity="one">%2$1.2f ώρα απομένει</item>
   </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ώρ.</item>
+        <item quantity="one">%d ώρ.</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d λεπ.</item>
+        <item quantity="one">%d λεπ.</item>
+    </plurals>
 </resources>
 

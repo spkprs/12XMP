@@ -40,6 +40,7 @@
     <string name="air_space_exit">Έξοδος χώρου</string>
     <string name="air_space_setting">Ρυθμίσεις χώρου</string>
     <string name="airspace_users_full">Δεν ήταν δυνατή η δημιουργία περισσότερου χώρου εργασίας</string>
+    <string name="alwaysUsePrompt">Θυμήσου την επιλογή μου</string>
     <string name="appData">Εγκατεστημένες εφαρμογές</string>
     <string name="app_name">Security Core Component</string>
     <string name="back">Πίσω</string>
@@ -584,6 +585,7 @@
     <string name="xspace_guide_des">Χρήση εφαρμ. με δύο λογ/σμούς ταυτόχρονα</string>
     <string name="xspace_guide_description">Κάθε λογαριασμός\nαξίζει τη δική του εφαρμογή</string>
     <string name="xspace_guide_title">Δοκιμάστε Διπλές εφαρμ.</string>
+    <string name="xspace_head">Διπλή εφαρμογή</string>
     <string name="xspace_header">Διπλές εφαρμογές</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>Επιτυχής δημιουργία Διπλής εφαρμογής. &lt;/font>&lt;font color=#0D84FF>Άνοιγμα τώρα&lt;/font>.</string>
@@ -599,6 +601,7 @@
     <string name="xspace_notification_error">Συνδεθείτε σε διπλό WeChat και δοκιμάστε ξανά</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">"Διαγραφή λογαριασμών Διπλών εφαρμογών"</string>
+    <string name="xspace_resolver_activity_title">Επιλέξτε εφαρμογή</string>
     <string name="xspace_setting_label">Ρυθμίσεις Διπλής εφαρμογής</string>
     <string name="xspace_settins">Ορισμός</string>
     <string name="xspace_start">Δημιουργία</string>
