@@ -96,6 +96,7 @@
     <string name="area_code_search_hint">Αναζήτηση χώρας ή περιοχής</string>
     <string name="auth_fail_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά αργότερα</string>
     <string name="authorize_title">Εξουσιοδότηση</string>
+    <string name="auto_fill_not_sport_on_water_mark_version">"Η αυτόματη συμπλήρωση δεν υποστηρίζεται στις εκδόσεις με υδατογράφημα"</string>
     <string name="bind_facebook">Σύνδεση λογαριασμού Facebook</string>
     <string name="bind_google">Σύνδεση στο Λογαριασμό Google</string>
     <string name="bind_qq">QQ</string>

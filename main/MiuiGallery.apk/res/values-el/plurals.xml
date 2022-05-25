@@ -616,4 +616,8 @@
         <item quantity="one">%d δευτ.</item>
         <item quantity="other">%d δευτ.</item>
     </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="one">%d ανάμνηση</item>
+        <item quantity="other">%d αναμνήσεις</item>
+    </plurals>
 </resources>

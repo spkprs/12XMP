@@ -228,8 +228,10 @@
     <string name="detail_no_more_recomm">Δεν υπάρχουν άλλα στοιχεία για προβολή.</string>
     <string name="detail_no_net">Δεν ήταν δυνατή η σύνδεση στο δίκτυο.</string>
     <string name="detail_outer_menu_icon">Μενού</string>
+    <string name="detail_recomm_excellent">Προτεινόμενα</string>
     <string name="detail_recomm_fail">Δεν ήταν δυνατή η λήψη συστάσεων</string>
     <string name="detail_recomm_load_tip">Ταιριάζουν με τα ενδιαφέροντά σας…</string>
+    <string name="detail_recomm_personal">Συνιστώμενα</string>
     <string name="detail_share_moment">Στιγμές</string>
     <string name="detail_share_qq">QQ</string>
     <string name="detail_share_qzone">Qzone</string>
@@ -398,6 +400,7 @@
     <string name="look_str">Δημοφιλή</string>
     <string name="main_fragment_title_discover">Ανακαλύψτε</string>
     <string name="main_fragment_title_home">Προτάσεις</string>
+    <string name="main_fragment_title_home_excellent">Προτεινόμενα</string>
     <string name="main_fragment_title_search">Κορυφαίες</string>
     <string name="main_fragment_title_user">Ρυθμίσεις</string>
     <string name="manage">Διαχείριση</string>

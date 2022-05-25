@@ -169,7 +169,7 @@
     <string name="select_notification_animation_style">Επιλέξτε ειδικό εφέ</string>
     <string name="select_notification_notify_style">Επιλογή εφέ ειδοποίησης</string>
     <string name="share">Μοιραστείτε</string>
-    <string name="share_to_community">Κοινή χρήση σε Mi Community</string>
+    <string name="share_to_community">Κοινή χρήση στην κοινότητα Xiaomi</string>
     <string name="show_battery">Εμφάνιση κατάστασης μπαταρίας</string>
     <string name="show_battery_status">Εμφάνιση κατάστασης μπαταρίας</string>
     <string name="show_notification">Εμφάνιση ειδοποιήσεων</string>
@@ -183,7 +183,7 @@
     <string name="step_component_info_active_tip">Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi. Συμφωνήστε με τους όρους και τις προϋποθέσεις της Υγείας Xiaomi για να συνεχίσετε.</string>
     <string name="step_component_info_desc">Η καταμέτρηση βημάτων θα μετατραπεί σε τρόπαιο όταν επιτευχθεί ο στόχος σας. Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi.</string>
     <string name="step_component_info_tip">Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi. Εγκατάσταση ή ενημέρωση της Υγείας Xiaomi και αποδοχή των όρων και προϋποθέσεων της για συνέχιση.</string>
-    <string name="step_to_image_community">Βρείτε περισσότερα στο Mi Community</string>
+    <string name="step_to_image_community">Βρείτε περισσότερα στην κοινότητα Xiaomi</string>
     <string name="summary">Για μείωση κατανάλωσης ενέργειας, τα στοιχεία δεν θα εμφανιστούν όταν η συσκευή σας βρίσκεται για μεγάλο χρονικό διάστημα σε σκοτεινό περιβάλλον.</string>
     <string name="super_wallpaper_date">EE\ndd.M.</string>
     <string name="super_wallpaper_date_inter">EEEE\ndd.M.</string>
