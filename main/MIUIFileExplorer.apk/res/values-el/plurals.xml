@@ -120,12 +120,8 @@
     <item quantity="one">%1$s σχόλιο</item>
   </plurals>
   <plurals name="numSelectedFile">
-    <item quantity="other">%1$d επιλεγμένο</item>
-    <item quantity="zero">%1$d επιλεγμένο</item>
+    <item quantity="other">%1$d επιλεγμένα</item>
     <item quantity="one">%1$d επιλεγμένο</item>
-    <item quantity="two">%1$d επιλεγμένο</item>
-    <item quantity="few">%1$d επιλεγμένο</item>
-    <item quantity="many">%1$d επιλεγμένο</item>
   </plurals>
   <plurals name="original_user_days">
     <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> ημέρες</item>
@@ -229,4 +225,12 @@
     <item quantity="one">Βρέθηκε (%1$d στοιχείο)</item>
     <item quantity="few">Βρέθηκαν (%1$d στοιχεία)</item>
   </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Διαγραφή %1$d αρχείων;</item>
+        <item quantity="one">Διαγραφή %1$d αρχείου;</item>
+    </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Διαγραφή %1$d φακέλων;</item>
+        <item quantity="one">Διαγραφή %1$d φακέλου;</item>
+    </plurals>
 </resources>

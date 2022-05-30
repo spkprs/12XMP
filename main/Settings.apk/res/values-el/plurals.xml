@@ -532,4 +532,28 @@
     <plurals name="search_application_count">
         <item quantity="other">Αναζήτηση εφαρμογών</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Έως %d διεργασίες</item>
+        <item quantity="one">Έως %d διεργασία</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Μετά από %d λεπτά</item>
+        <item quantity="one">Μετά από %d λεπτό</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/δείγμα</item>
+        <item quantity="one">%d bits/δείγμα</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d δευτ.</item>
+        <item quantity="one">%d δευτ.</item>
+    </plurals>
 </resources>

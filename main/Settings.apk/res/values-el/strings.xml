@@ -76,6 +76,7 @@
     <string name="access_control_password_title">Ενεργοποίηση κωδικού</string>
     <string name="access_control_recording_intro_header">Σχεδιάστε ενα μοτίβο ξεκλειδώματος:</string>
     <string name="access_control_reset_by_account">Συνδεθείτε στον λογαριασμό Mi για να επαναφέρετε τον κωδικό πρόσβασης</string>
+    <string name="access_denied_info">Πάρα πολλές προσπάθειες. Προσπαθήστε ξανά.</string>
     <string name="access_point_names">Ονόματα σημείων πρόσβασης</string>
     <string name="accessibility_autoclick_delay_preference_title">Καθυστέρηση πριν κάνετε κλικ</string>
     <string name="accessibility_autoclick_description">Εάν χρησιμοποιείτε ποντίκι, μπορείτε να ρυθμίσετε το δρομέα να ενεργεί αυτόματα όταν σταματήσει να κινείται για ένα συγκεκριμένο χρονικό διάστημα.</string>
@@ -624,7 +625,7 @@
     <string name="auto_brightness_very_low_title">Πολύ χαμηλή</string>
     <string name="auto_caps">Αυτόματη εισαγωγή κεφαλαίων</string>
     <string name="auto_caps_summary">Κεφαλαίο το πρώτο γράμμα στις προτάσεις</string>
-    <string name="auto_clean_description">Σχετικά με αυτή τη λειτουργία\n1. Εκτελέστε αυτή τη λειτουργία μία ή δύο φορές εάν διαπιστώσετε ότι το ηχείο σας είναι ελαφρώς μπλοκαρισμένο από σκόνη.\n2. Εάν είναι έντονα μπλοκαρισμένο, εκτελέστε αυτή τη λειτουργία %1$d-%2$d φορές ενώ κουνάτε τη συσκευή σας με το ηχείο στραμμένο προς τα κάτω.</string>
+    <string name="auto_clean_description">Σχετικά με αυτή τη λειτουργία\n%3$d. Εκτελέστε αυτή τη λειτουργία μία ή δύο φορές εάν διαπιστώσετε ότι το ηχείο σας είναι ελαφρώς μπλοκαρισμένο από σκόνη.\n%4$d. Εάν το ηχείο είναι έντονα μπλοκαρισμένο, εκτελέστε αυτή τη λειτουργία %1$d-%2$d φορές ενώ κουνάτε τη συσκευή σας με το ηχείο στραμμένο προς τα κάτω.</string>
     <string name="auto_clean_summary">Παίξτε έναν ήχο 30 δευτ. για να καθαρίσετε το ηχείο</string>
     <string name="auto_clean_summary_new">Παίξτε ένα ηχητικό σήμα %d-δευτ. για να καθαρίσετε το ηχείο. Χρησιμοποιήστε αυτή τη λειτουργία πολλές φορές στη σειρά για σημαντικές ποσότητες βρωμιάς.</string>
     <string name="auto_clean_title">Καθαρισμός ηχείου</string>
@@ -1361,9 +1362,11 @@
     <string name="bt_ldac_open_dialog_title">Ενεργοποίηση του LDAC;</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Ιδιότητες</string>
+    <string name="bt_leaudio_cg_dialog_summary">"Ορισμένες λειτουργίες δεν θα είναι διαθέσιμες αφού ενεργοποιήσετε αυτή τη λειτουργία. Αυτή η λειτουργία δεν υποστηρίζει επίσης τη σύνδεση πολλαπλών συσκευών στα ακουστικά σας. Εάν έχετε ήδη συνδεθεί σε δύο διαφορετικές συσκευές, αποσυνδέστε πρώτα τη μία από αυτές. Ενεργοποιήστε το LC3 τώρα;"</string>
     <string name="bt_leaudio_open_dialog_summary">"Δεν θα μπορείτε να συνδέσετε πολλαπλές συσκευές στο ακουστικό σας όταν το LC3 είναι ενεργοποιημένο. Άλλες συνδεδεμένες συσκευές θα αποσυνδεθούν εάν ενεργοποιήσετε αυτήν τη λειτουργία. Ενεργοποίηση LC3 ;"</string>
     <string name="bt_leaudio_open_dialog_title">Προσοχή</string>
     <string name="bt_leaudio_summary">Υψηλής ποιότητας ηχητική εμπειρία</string>
+    <string name="bt_leaudio_support_multi_dialog_summary">"Ορισμένες λειτουργίες δεν θα είναι διαθέσιμες αφού ενεργοποιήσετε αυτή τη λειτουργία. Ενεργοποιήστε το LC3 τώρα;"</string>
     <string name="bt_lhdc_declaration">Όταν μια συσκευή Bluetooth υποστηρίζει LHDC, θα συνδεθεί από προεπιλογή. Το LHDC επιτρέπει την αναπαραγωγή ήχου υψηλής ποιότητας και μειώνει το χρόνο αναμονής κατά τη διάρκεια των παιχνιδιών, αλλά αυξάνει επίσης την κατανάλωση ενέργειας. Ενδέχεται να προκύψουν προβλήματα κατά την αναπαραγωγή λόγω περιορισμών υλικού Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">Το LHDC επιτρέπει την αναπαραγωγή ήχου υψηλής ποιότητας και μειώνει το χρόνο αναμονής κατά τη διάρκεια των παιχνιδιών, αλλά αυξάνει επίσης την κατανάλωση ενέργειας. Αυτή η δυνατότητα μπορεί να απενεργοποιηθεί στις Ρυθμίσεις.</string>
     <string name="bt_lhdc_dialog_title">Η τρέχουσα συσκευή υποστηρίζει LHDC, η οποία έχει συνδεθεί από προεπιλογή:</string>
@@ -1601,6 +1604,7 @@
     <string name="codec_low_latency_video_summary">Παρέχει ηχητική εμπειρία μικρού χρόνου καθυστέρησης στα παιχνίδια και βίντεο, καθιστώντας το συγχρονισμό ήχου και εικόνας πιο φυσικό.</string>
     <string name="codec_low_latency_zmi_summary">Μειώνει την καθυστέρηση ήχου και βελτιώνει αυτόματα τα ηχητικά εφέ στα παιχνίδια</string>
     <string name="codec_low_latency_zmi_title">Μείωση καθυστέρησης παιχνιδιού</string>
+    <string name="collect_diagnosis_log">Συλλογή αρχείου διάγνωσης</string>
     <string name="color_black">Μαύρο</string>
     <string name="color_blue">Μπλε</string>
     <string name="color_calibration_none">Αυτή η συσκευή</string>
@@ -1913,6 +1917,11 @@
     <string name="dark_color_mode">Σκοτεινό</string>
     <string name="dark_color_summary_lcd">Χρήση σκοτεινότερης παλέτας χρώματος για φόντο συστήματος και συμβατών εφαρμογών. Αυτό βοηθά στην μείωση καταπόνησης των ματιών όταν χρησιμοποιείτε τη συσκευή σας σε σκοτάδι.</string>
     <string name="dark_color_summary_oled">Χρήση σκοτεινότερης παλέτας χρώματος για φόντο συστήματος και συμβατών εφαρμογών. Η Σκοτεινή λειτουργία μειώνει την κατανάλωση ενέργειας και την καταπόνηση των ματιών.</string>
+    <string name="dark_mode_alert_dialog_cancel">Ακύρωση</string>
+    <string name="dark_mode_alert_dialog_checkbox">"Μην εμφανιστεί ξανά"</string>
+    <string name="dark_mode_alert_dialog_confirm">Ενεργοποίηση</string>
+    <string name="dark_mode_alert_dialog_message">Αυτή η εφαρμογή ενδέχεται να μην εμφανίζεται σωστά στη σκοτεινή λειτουργία. Ενεργοποίηση;</string>
+    <string name="dark_mode_alert_dialog_title">Προσοχή</string>
     <string name="dark_mode_apps_header">Μεμονωμένες εφαρμογές</string>
     <string name="dark_mode_auto_time_summary">Ενεργ/Απενεργοποίηση της Σκοτεινής λειτουργίας σε προσαρμοσμένη περίοδο</string>
     <string name="dark_mode_auto_time_title">Προσαρμογή</string>
@@ -2221,6 +2230,8 @@
     <string name="device_total_memory">"Συνολικά "</string>
     <string name="device_usage_list_summary">Χρήση της συσκευής από την πλήρη φόρτιση</string>
     <string name="devices_title">Συσκευές</string>
+    <string name="diagnosis_log_send_failed">Η αποστολή του αρχείου διάγνωσης απέτυχε.</string>
+    <string name="diagnosis_log_sent_format">Το αρχείο διάγνωσης έχει αποσταλεί.\nID:%s\nΣτείλτε αυτόν τον κωδικό στον τεχνικό.</string>
     <string name="dial_application_title">Κλήση</string>
     <string name="dial_pad_tones_title">Ήχοι Πληκτρολογίου</string>
     <string name="dialog_background_check_message">Το τηλέφωνό σας δεν μπορεί να διαχειριστεί την μπαταρία κανονικά επειδή %1$s συνεχίζει να ξυπνά το τηλέφωνό σας.\n\nΓια να προσπαθήσετε να επιλύσετε αυτό το ζήτημα, μπορείτε να σταματήσετε %1$s και αποτρέψτε το να τρέξει στο παρασκήνιο.</string>
@@ -2936,6 +2947,7 @@
     <string name="font_size_summary">Ρύθμιση μεγέθους γραμματοσειράς στις εφαρμογές όπως πχ Τηλέφωνο, Μηνύματα, Επαφές κλπ για τη βελτίωση της ανάγνωσης</string>
     <string name="font_size_summary1">Αν το κείμενο του συστήματός σας είναι ακόμα πολύ μικρό, δοκιμάστε</string>
     <string name="font_size_summary2">Λειτουργία Lite</string>
+    <string name="for_diagnosis_usage_only">Χρήση αυτών των πληροφοριών μόνο για διάγνωση.</string>
     <string name="forbidden_network">(απαγορευμένο)</string>
     <string name="forbidden_set_unlock_password_msg">Επί του παρόντος σε λειτουργία συντήρησης, ο κωδικός πρόσβασης δεν μπορεί να οριστεί ή να αλλάξει.</string>
     <string name="forbidden_switch_apn_string">Οι επιλεγμένες ρυθμίσεις APN δεν ταιριάζουν με τον τύπο του τρέχοντος δικτύου</string>
@@ -2948,7 +2960,8 @@
     <string name="force_immersive_compatibility_hint_message">Ορισμένες εφαρμογές ενδέχεται να μην λειτουργούν σωστά αν επιλέξετε να αποκρύψετε τα κουμπιά οθόνης.</string>
     <string name="force_immersive_compatibility_hint_title">Ζητήματα συμβατότητας</string>
     <string name="force_msaa">Εξαναγκασμός 4x MSAA</string>
-    <string name="force_msaa_new">Δυναμικό %dx MSAA</string>
+    <string name="force_msaa_new">Δυναμικό 4x MSAA</string>
+    <string name="force_msaa_prefrence_summary_new">Ενεργοποίηση 4x MSAA σε OpenGL ES %1$.1f εφαρμ.</string>
     <string name="force_msaa_summary">Ενεργοποίηση 4x MSAA σε OpenGL ES 2.0 στις εφαρμογές</string>
     <string name="force_msaa_summary_new">Ενεργό %2$dx MSAA σε OpenGL ES %1$.1f εφαρμ.</string>
     <string name="force_resizable_activities">Αναγκ. λειτ. αλλαγ μεγ.</string>
@@ -4774,6 +4787,7 @@
     <string name="network_detail">Πληροφορίες δικτύου \"%s\"</string>
     <string name="network_disconnected">Αποσυνδεθεί</string>
     <string name="network_error">Σφάλμα δικτύου</string>
+    <string name="network_error_info">Εμφανίστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
     <string name="network_global">Παγκόσμια</string>
     <string name="network_lte">LTE (συνιστάται)</string>
     <string name="network_name_input_error">Αδυναμία αποθήκευσης SSID. Δοκιμάστε ξανά.</string>
@@ -4796,6 +4810,7 @@
     <string name="network_speed_for_apps_title">Σύνδεση</string>
     <string name="network_speed_for_apps_total">Ταχύτητα σύνδεσης</string>
     <string name="network_state_label">Κατάσταση δικτύου:</string>
+    <string name="network_timeout_info">"Αδυναμία σύνδεσης στο δίκτυο. Δοκιμάστε ξανά."</string>
     <string name="networkid_label">ID δικτύου:</string>
     <string name="networks">Επιλογή φορέα</string>
     <string name="networks_title">Δίκτυα κινητής</string>
@@ -5080,6 +5095,7 @@
     <string name="notifications_summary_divider"> / </string>
     <string name="notifications_title">Ειδοποιήσεις</string>
     <string name="now">Επανεκκίνηση τώρα</string>
+    <string name="nrca_need_reset">Επανεκκινήστε τη συσκευή σας για να εφαρμόσετε τις αλλαγές</string>
     <string name="nrca_switch_title">Χρήση συνάθροισης φορέων 5G</string>
     <string name="number_of_device_admins_none">Δεν υπάρχουν ενεργές εφαρμογές</string>
     <string name="oaid_apps_summary">Αποδοχή ή περιορισμός σε μεμονωμένες εφαρμογές</string>
@@ -5641,6 +5657,7 @@
     <string name="progress_dialog_speaker_auto_clean_button">Stop</string>
     <string name="progress_dialog_speaker_auto_clean_title">Εκκαθάριση ηχείου…</string>
     <string name="progress_scanning">Σάρωση…</string>
+    <string name="progressbar_title">Έλεγχος για θέματα ασφαλείας…</string>
     <string name="provision_activation">Ενεργό</string>
     <string name="provision_back">Πίσω</string>
     <string name="provision_next">Επόμενο</string>
@@ -6516,6 +6533,8 @@
     <string name="select_webview_provider_dialog_title">Ορίστε την εφαρμογή WebView</string>
     <string name="select_webview_provider_title">Εφαρμογή WebView</string>
     <string name="select_webview_provider_toast_text">Αυτή η επιλογή δεν είναι πια έγκυρη. Δοκιμάστε ξανά.</string>
+    <string name="send_diagnosis_log">Αποστολή αρχείου διάγνωσης</string>
+    <string name="sending">Αποστολή…</string>
     <string name="sensors_off_quick_settings_title">Αισθητήρες απενεργοποιημένοι</string>
     <string name="separate_keyboard">Εργονομικό πληκτρολόγιο</string>
     <string name="separate_keyboard_summary_fold">Διαχωρίστε το πληκτρολόγιό σας με ένα διαχωριστικό στο κέντρο για να πληκτρολογείτε πιο άνετα κρατώντας τη συσκευή σας και με τα δύο χέρια.</string>
@@ -7318,6 +7337,7 @@
     <string name="system_backup_section_title_new">Αντίγραφα ή επαναφορά</string>
     <string name="system_dashboard_summary">Γλώσσες, ώρα, δημιουργία αντιγράφων ασφαλείας, ενημερώσεις</string>
     <string name="system_default_app">(Προεπιλογή συστήματος)</string>
+    <string name="system_error_info">Το σύστημα είναι απασχολημένο. Δοκιμάστε ξανά..</string>
     <string name="system_haptic_feedback">Απτικά σχόλια</string>
     <string name="system_navigation_title">Πλοήγηση συστήματος</string>
     <string name="system_package">Οι ενημερώσεις του συστήματος δεν μπορούν να εγκατασταθούν σε εξωτερικά μέσα.</string>
@@ -7330,7 +7350,7 @@
     <string name="tab_text">Καρτέλα</string>
     <string name="tablet_screen_application_adaptation_title">Προσαρμοσμένες διατάξεις για tablet</string>
     <string name="tablet_screen_settings_title">Χαρακτηριστικά για tablet</string>
-    <string name="tablet_screen_special_function_title">Χαρακτηριστικά για αναδιπλούμενα tablets</string>
+    <string name="tablet_screen_special_function_title">Χαρακτηριστικά για tablets</string>
     <string name="take_call_on_title">Καλέστε το</string>
     <string name="talkback_summary">Ο αναγνώστης οθόνης κυρίως για άτομα με τύφλωση και χαμηλή όραση</string>
     <string name="talkback_title">TalkBack</string>
@@ -7339,6 +7359,7 @@
     <string name="tap_to_wake">Χτυπήστε για αφύπνιση</string>
     <string name="tap_to_wake_summary">Διπλό χτύπημα οπουδήποτε στην οθόνη για ενεργοποίηση συσκευής</string>
     <string name="taplus_title">Taplus</string>
+    <string name="temporary_not_available">Προσωρινά μη διαθέσιμο</string>
     <string name="temporary_style">Για 10 δευτ. μετά το άγγιγμα της οθόνης</string>
     <string name="terms_title">Όροι και προϋποθέσεις</string>
     <string name="testing">Δοκιμές</string>
@@ -7561,6 +7582,7 @@
     <string name="uninstall_xspace_app_dlg_title">Απεγκατάσταση διπλής εφαρμογής;</string>
     <string name="unknown">Άγνωστος</string>
     <string name="unknown_app">Άγνωστη εφαρμογή</string>
+    <string name="unknown_error_info">Άγνωστο σφάλμα</string>
     <string name="unknown_unavailability_setting_summary">Η ρύθμιση δεν είναι διαθέσιμη</string>
     <string name="unlock_change_lock_password_title">Αλλαγή κωδικού</string>
     <string name="unlock_change_lock_pattern_title">Αλλαγή μοτίβου</string>

@@ -1485,6 +1485,7 @@
     <string name="nr_usaged_network_usaged">Σημερινά δεδομένα</string>
     <string name="nr_usaged_operator">Πάροχος</string>
     <string name="nr_usaged_used_time">Διάρκεια χρήσης</string>
+    <string name="nrca_need_reset">Επανεκκινήστε τη συσκευή σας για να εφαρμόσετε τις αλλαγές</string>
     <string name="nrca_switch_summary">Χρήση συνάθροισης φορέων 5G για καλύτερη συνδεσιμότητα</string>
     <string name="nrca_switch_title">Χρήση NRCA</string>
     <string name="number">Αριθμός</string>
