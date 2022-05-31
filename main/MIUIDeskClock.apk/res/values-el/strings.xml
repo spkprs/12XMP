@@ -35,6 +35,7 @@
     <string name="add_alarm">Προσθήκη</string>
     <string name="add_clock">Προσθήκη Ρολογιού</string>
     <string name="add_common_timer">Προσθήκη χρονομέτρου</string>
+    <string name="add_new_sound">Προσθήκη ήχου κλήσης</string>
     <string name="add_timer">Συχνό χρονόμετρο</string>
     <string name="add_timer_dialog_title">Προσθήκη χρονόμετρου</string>
     <string name="add_timezone_title">Προσθήκη ζώνη ώρας</string>
@@ -125,6 +126,7 @@
     <string name="common_timer_selector">Επιλογή χρονομέτρου</string>
     <string name="confirm">Επιβεβαίωση</string>
     <string name="confirm_abort">Απόρριψη</string>
+    <string name="confirm_remove_custom_ringtone">Εάν διαγράψετε αυτόν τον ήχο κλήσης, τα ξυπνητήρια και οι χρονοδιακόπτες που τον χρησιμοποιούν θα αναπαράγουν αντί αυτού τον προεπιλεγμένο ήχο κλήσης. Διαγραφή τώρα;</string>
     <string name="content_desc_keep_screen">Πλήκτρο \"Κρατήστε την οθόνη ενεργή\"</string>
     <string name="continue_operation">Συνέχεια</string>
     <string name="continue_step">Επόμενο</string>
@@ -132,6 +134,7 @@
     <string name="control_set_alarm_with_existing">Σύνολο αφυπνίσεων: %s</string>
     <string name="copy">Copy</string>
     <string name="current_stopwatch_time">Τρέχων χρόνος</string>
+    <string name="custom_ringtone_lost_permissions">"Δεν είναι η πρόσβαση σε αυτόν τον ήχο."</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημέρας και ώρας</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Ήχος αφύπνισης</string>
@@ -143,6 +146,7 @@
     <string name="delete_timer_item_title">Διαγραφή χρονομέτρου</string>
     <string name="delete_timezone_title">Διαγραφή ζώνης ώρας</string>
     <string name="deskclock_sleep_no_disturbance">Ρολόι-διαχείριση ύπνου-λειτουργία DND</string>
+    <string name="device_sounds">Ήχοι συσκευής</string>
     <string name="dialog_confirm_abort">Απόρριψη αλλαγών;</string>
     <string name="dialog_legal_off_day"><Data>"Φαίνεται ότι χρησιμοποιείτε ειδοποιήσεις διακοπών. Αυτή η δυνατότητα πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, πρέπει να συμφωνήσετε με &lt;a href=\"%1$s\">Συμφωνία Χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a>. Συμφωνείτε?"</Data></string>
     <string name="dialog_legal_off_day_desc">Δεν επιτρέπεται το ρολόι να συνδέεται στο Internet για την ενημέρωση των πληροφοριών σχετικά με τις αργίες. Οι συναγερμοί διακοπών θα σιγήσουν το Σάββατο και την Κυριακή.</string>
@@ -574,6 +578,7 @@
     <string name="tv_blank_list_show_text">Τίποτα εδώ ακόμα. Αναζητήστε μια τοποθεσία για να την προσθέσετε στο παγκόσμιο ρολόι σας.</string>
     <string name="tv_world_clock_edit_title1">Οι Τοποθεσίες εμφανίζονται στην Αρχική οθόνη</string>
     <string name="tv_world_clock_edit_title2">Άλλες αποθηκευμένες τοποθεσίες</string>
+    <string name="unknown_ringtone_title">Άγνωστος</string>
     <string name="unselect_all">Αποεπιλογή όλων</string>
     <string name="upcoming_alarm">Επόμενη Αφύπνιση: %s</string>
     <string name="upcoming_alarm_hint">Διακοπή Αφύπνισης τώρα</string>
@@ -606,6 +611,8 @@
     <string name="week_ringtone_recommend_desc">Ο ήχος της φύσης παίζει διαφορετικούς ήχους ανάλογα με την ημερομηνία. Να οριστεί ως προεπιλεγμένος;</string>
     <string name="white_noise">Θόρυβος περιβάλλοντος</string>
     <string name="white_noise_guide_desc">Προσθέστε έναν ήχο φόντου για συγκέντρωση</string>
+    <string name="white_noise_not_selected">Δεν επιλέχθηκε</string>
+    <string name="white_noise_selected">Επιλεγμένα</string>
     <string name="white_noise_selector">Επιλογή ήχου</string>
     <string name="workday_alarm_clock">Αφύπνιση εργάσιμης ημέρας</string>
     <string name="worldclock_edit_label">Παγκόσμιο Ρολόι</string>
@@ -629,4 +636,5 @@
     <string name="xiaomi_market_sdk_update_dialog_cancel">Όχι τώρα</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
+    <string name="your_sounds">Οι ήχοι μου</string>
 </resources>

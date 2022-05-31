@@ -161,6 +161,7 @@
     <string name="input_method_tab_phrase_text">Συχνές φράσεις</string>
     <string name="internal_livetalk_enable">Χρήση πακέτων top-up για τις εγχώριες κλήσεις</string>
     <string name="international_livetalk_enable">Χρήση πακέτων top-up για διεθνείς κλήσεις</string>
+    <string name="kb_reset_toast">Επιτυχής Επαναφορά πληκτ/γίου</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Διάστημα</string>
     <string name="keyboard_connect_failed">"Αδύνατη η σύνδεση του πληκτρολογίου. Επανάληψη."</string>

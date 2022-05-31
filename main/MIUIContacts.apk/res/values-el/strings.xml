@@ -194,6 +194,7 @@
     <string name="calllog_menu_edit_before_call">Επεξεργασία</string>
     <string name="calllog_menu_send_sms">Στείλτε ένα μήνυμα</string>
     <string name="calllog_record_none_toast">Δεν υπάρχουν εγγραφές κλήσης για προβολή</string>
+    <string name="calllog_record_searching_toast">Αναζήτηση ηχογραφήσεων κλήσεων…</string>
     <string name="callrecordview_item_newcontact">Νέα επαφή</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d λεπ %2$d δευ</string>
     <string name="callrecordview_item_op_time_missed">Χωρίς σύνδεση</string>
@@ -722,6 +723,9 @@
     <string name="lunar_calendar">Σεληνιακό ημερολόγιο</string>
     <string name="lunar_leap">Δίσεκτο</string>
     <string name="make_primary">Θυμήσου την επιλογή</string>
+    <string name="manage_external_storage_dialog_message">Επιτρέψτε σε αυτή την εφαρμογή να έχει πρόσβαση σε όλα τα αρχεία για τη διαχείριση των εγγραφών κλήσεων.</string>
+    <string name="manage_external_storage_dialog_positive">Ρυθμίσεις</string>
+    <string name="manage_external_storage_dialog_title">Απαιτούμενες άδειες</string>
     <string name="map_custom">Προβολή %s διεύθυνσης</string>
     <string name="map_home">Προβολή διεύθυνσης οικίας</string>
     <string name="map_other">Προβολή διεύθυνσης</string>

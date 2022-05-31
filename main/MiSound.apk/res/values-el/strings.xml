@@ -74,7 +74,7 @@
     <string name="equalizer">Ισοσταθμιστής</string>
     <string name="expand_button_title">Προχωρημένος</string>
     <string name="first_note">Δοκιμάστε την ακουστική σας αντίληψη για να προσαρμόσετε ανάλογα την ένταση.</string>
-    <string name="four_note">Η δοκιμή θα διαρκέσει περίπου 3 λεπτά για να ολοκληρωθεί.</string>
+    <string name="four_note">Η δοκιμή θα διαρκέσει περίπου %d λεπτά για να ολοκληρωθεί.</string>
     <string name="headset_use_long_time">"Φαίνεται ότι φοράτε τα ακουστικά σας περισσότερο από το συνιστώμενο. Βγάλτε τα και κάντε μια παύση."</string>
     <string name="headset_use_loud_volume">Η ένταση των ακουστικών είναι υψηλή για μεγάλο χρονικό διάστημα. Για την προστασία της ακοής σας, έχει μειωθεί στο συνιστώμενο επίπεδο.</string>
     <string name="headset_use_not_support_noise_reduction">Φαίνεται ότι το τρέχον περιβάλλον σας είναι πολύ θορυβώδες. Η χρήση ακουστικών τώρα μπορεί να επηρεάσει την ακοή σας.</string>
@@ -129,7 +129,7 @@
     <string name="music_audio_effect_settings">Ρυθμίσεις εφέ</string>
     <string name="music_audio_visual_wake_lock">Διατήρηση οθόνης ενεργή</string>
     <string name="music_audio_visual_wake_lock_summary">Μην απενεργοποιείται η οθόνη όταν εμφανίζονται οπτικά εφέ</string>
-    <string name="music_below_thirty_years">Έως 30 ετών</string>
+    <string name="music_below_thirty_years">Έως %d ετών</string>
     <string name="music_customized_sound_summary">Προσαρμόστε την ένταση ανάλογα με την ακουστική σας αντίληψη</string>
     <string name="music_customized_sound_title">Ρύθμιση έντασης ήχου</string>
     <string name="music_delete">Διαγραφή</string>
@@ -222,7 +222,7 @@
     <string name="music_sound_num">Προσαρμοσμένη προεπιλογή %s</string>
     <string name="music_sound_sample">Προεπιλογές συστήματος</string>
     <string name="music_sure_to_delete_sound_msg">Διαγραφή επιλεγμένων προεπιλογών τώρα;</string>
-    <string name="music_thirty_to_sixty_years">30-60 ετών</string>
+    <string name="music_thirty_to_sixty_years">%d-%d ετών</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">Ακουστικά USB δεν υποστηρίζονται</string>
     <string name="music_upper_sixty_years">Περισσότερο από 60 ετών</string>
