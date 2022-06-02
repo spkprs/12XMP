@@ -592,6 +592,7 @@
     <string name="permission_write_external_storage">Πρόσβαση και αποθήκευση στοιχείων στην αποθήκη</string>
     <string name="personal_info_desc">Φωτο, ψευδ, &amp; άλλα</string>
     <string name="phone_num_use_for">Ο αριθμός τηλεφώνου χρησιμοποιείται για:</string>
+    <string name="phone_register">Χρήση αριθμού τηλεφώνου</string>
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
     <string name="preference_copied">\"%1$s\" αντιγ. στο πρόχειρο.</string>
     <string name="privacy_policy_reject_confirm_msg">"Δεν θα μπορείτε να συνεχίσετε να χρησιμοποιείτε τον λογαριασμό Mi, εκτός εάν συμφωνήσετε με τη νέα έκδοση της Πολιτικής Απορρήτου. Συμφωνείτε με την ενημερωμένη έκδοση &lt;a href=%1$s>Πολιτική απορρήτου&lt;/a> τώρα?"</string>

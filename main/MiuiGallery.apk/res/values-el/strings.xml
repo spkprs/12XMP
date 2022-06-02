@@ -831,6 +831,9 @@
     <string name="fast_share_auto_render_finish">Καλλωπίστηκε</string>
     <string name="feature_guidance_photo_effects">Νέα εφέ εικόνων\nείναι διαθέσιμα</string>
     <string name="feature_guidance_video_editor_smart_effects">Υπάρχουν νέα εφέ</string>
+    <string name="feedback_my_reports">Σχόλια</string>
+    <string name="feedback_problem">Αναφορά ενός θέματος</string>
+    <string name="feedback_suggest">Υποβολή μιας πρότασης</string>
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">Αδύνατη η εκτύπωση αυτού του στοιχείου.</string>
     <string name="file_cannot_screen_throw">Αδύνατη η μετάδοση αυτού του στοιχείου.</string>
