@@ -140,6 +140,9 @@
     <string name="dialpad_two">2</string>
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">Οι βιντεοκλήσεις δεν υποστηρίζονται στην άλλη συσκευή</string>
+    <string name="dsda_answer_call_prompt">Η αποδοχή αυτής της κλήσης θα τερματίσει την τρέχουσα κλήση σας.</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">"Δεν είναι δυνατή η χρήση της SIM %1$d για κλήσεις τώρα. Το τρέχον περιβάλλον δικτύου δεν υποστηρίζει τη διπλή λειτουργικότητα SIM."</string>
+    <string name="dsda_swap_call_prompt">"Αν συνεχίσετε, θα μεταβείτε σε φωνητική κλήση."</string>
     <string name="emergency_call_dialog_number_for_display">Αριθμός έκτακτης ανάγκης</string>
     <string name="enter_ai_assistant">Χρήση</string>
     <string name="enter_ai_assistant_tip">"Η AI (Τεχνητή Νοημοσύνη) μπορεί να μετατρέψει το κείμενο σε ομιλία, αν δεν σας εξυπηρετεί να μιλήσετε τώρα. Να χρησιμοποιηθεί για αυτήν την κλήση;"</string>
@@ -172,6 +175,7 @@
     <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
     <string name="msim_select_default_last">Πρόσφατη χρήση</string>
     <string name="msim_select_default_time_left">"(%d "</string>
+    <string name="multi_call_manager_other_calls">Άλλες κλήσεις (%1$d)</string>
     <string name="notification_action_accept">Αποδοχή</string>
     <string name="notification_action_answer_video">Βίντεο</string>
     <string name="notification_action_answer_voice">Φωνή</string>
@@ -233,6 +237,7 @@
     <string name="select_audio_dialog_title">Επιλέξτε λειτουργία απάντησης</string>
     <string name="select_one_sim_title">Χρήση μόνο κάρτας SIM %1$d</string>
     <string name="select_one_sim_title_for_heduohao">Χρήση μόνο της SIM %1$d Sub %2$d</string>
+    <string name="select_other_sim_card_dial">Χρήση SIM %1$d</string>
     <string name="select_sim_hint">Αδύνατη η χρήση της SIM %2$d, όσο η SIM %1$d είναι σε χρήση.</string>
     <string name="select_sim_hint_for_heduohao">Αδύνατη η χρήση άλλων, όταν η SIM %1$d Sub %2$d είναι σε χρήση.</string>
     <string name="select_voice_call_sim">Επιλέξτε κάρτα SIM</string>

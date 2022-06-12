@@ -35,4 +35,8 @@
     <item quantity="other">Απεγκαταστάθηκαν %1$d εφαρμογές</item>
     <item quantity="one">Απεγκαταστάθηκε %1$d εφαρμογή</item>
   </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d νέα ειδοποίηση</item>
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+    </plurals>
 </resources>

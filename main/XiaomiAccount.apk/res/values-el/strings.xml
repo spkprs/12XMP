@@ -179,6 +179,7 @@
     <string name="confirm_unbundled_phone_dialog_message">Ο αριθμός τηλ. την %1$s συνδέθηκε με Λογαριασμό Mi %2$s. Δεν θα συνδέεται πλέον με το Λογαριασμό Mi %3$s αν συνεχίσετε. Συνεχίζετε?</string>
     <string name="continue_action">Συνέχεια</string>
     <string name="copy">Αντιγραφή</string>
+    <string name="copy_link">Αντιγραφή URL</string>
     <string name="copy_to_clipboard_successful">Αντιγράφηκε με επιτυχία</string>
     <string name="delete_action">Διαγραφή</string>
     <string name="delete_bank_card_message">Για προστασία του απορρήτου, θα διαγραφεί η τραπεζική σας κάρτα μετά την αποσύνδεση</string>
@@ -305,6 +306,8 @@
     <string name="multi_user_not_show_sync_activity_title">Μην ενεργοποιήσετε το συγχρονισμό Mi Cloud</string>
     <string name="my_device_title">Τρέχουσα συσκευή</string>
     <string name="need_install_wechat">Εγκατάσταση πρώτα του WeChat</string>
+    <string name="network_error">Προέκυψε σφάλμα δικτύου.</string>
+    <string name="network_error_hint">Ελέγξτε τη διεύθυνση URL και δοκιμάστε ξανά ή αντιγράψτε τη διεύθυνση URL και ανοίξτε την στο πρόγραμμα περιήγησής σας.</string>
     <string name="network_error_info">Εμφανίστηκε σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
     <string name="network_timeout_info">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Δοκιμάστε ξανά."</string>
     <string name="new_version">Νέα έκδοση</string>
@@ -334,6 +337,7 @@
     <string name="operator_telecom_agreement">Υπηρεσίες επαλήθευσης παρέχονται από λογαριασμό eSurfing</string>
     <string name="operator_unicom_agreement">Υπηρεσίες επαλήθευσης παρέχονται από την China Unicom</string>
     <string name="optional_permissions">Προαιρετικές Άδειες</string>
+    <string name="page_load_failed">"Δεν μπορεί να ανοίξει η σελίδα"</string>
     <string name="passport_Resend">Επαναποστολή</string>
     <string name="passport_access_denied">Δεν επιτρέπετε η πρόσβαση</string>
     <string name="passport_account_hint_text">Διεύθυνση email ή αριθμός τηλεφώνου</string>

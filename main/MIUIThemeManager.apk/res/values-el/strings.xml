@@ -46,6 +46,7 @@
     <string name="ad_app_is_downloading">Λήψη…</string>
     <string name="ad_begin_to_download_tip">Ξεκινά η λήψη…</string>
     <string name="ad_begin_to_install_tip">Εγκατάσταση ...</string>
+    <string name="ad_close">Αυτή η διαφήμιση έκλεισε</string>
     <string name="ad_closed_tip">Θα δείτε λιγότερες διαφημίσεις αυτού του τύπου</string>
     <string name="ad_details">Λεπτομέρειες</string>
     <string name="ad_download_download">Λήψη</string>
@@ -98,6 +99,7 @@
     <string name="apply_not_support_aod">Η \"Πάντα στην Οθόνη\" δεν υποστηρίζεται σε αυτήν τη συσκευή</string>
     <string name="apply_not_support_in_second_space">Δεν είναι δυνατή η εφαρμογή αυτού του στοιχείου στο Δεύτερο χώρο</string>
     <string name="apply_not_support_maml_aod">Δεν είναι δυνατό να συνδυαστεί στη \"Πάντα στην Οθόνη\" με θέματα σε αυτήν τη συσκευή</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Αυτή η ταπετσαρία θα εφαρμοστεί στις εσωτερικές και εξωτερικές οθόνες κλειδώματος και αρχικής οθόνης.</string>
     <string name="apply_succeed">Εφαρμόστηκε με επιτυχία</string>
     <string name="apply_success_not_enable_aod">Ενεργοποιήστε την \"Πάντα στην Οθόνη\" στις Ρυθμίσεις πρώτα</string>
     <string name="apply_success_not_support_aod">Δεν είναι δυνατό να συνδυαστεί στην \"Πάντα στην Οθόνη\" με θέματα σε αυτήν τη συσκευή. Τα υπόλοιπα στοιχεία αυτού του θέματος εφαρμόστηκαν με επιτυχία.</string>
@@ -149,6 +151,7 @@
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="close">Κλείσιμο</string>
     <string name="close_custom_permission_warning_text">"Χωρίς δικαιώματα αποθήκευσης, αυτή η εφαρμογή δεν θα μπορεί να κατεβάσει στοιχεία και να εξατομικεύσει τη συσκευή σας. Απενεργοποίηση;"</string>
+    <string name="close_custom_permission_warning_text_above_eleven">"Χωρίς δικαιώματα αποθήκευσης, αυτή η εφαρμογή δεν θα μπορεί να προσαρμόσει τη συσκευή σας. Απενεργοποίηση;"</string>
     <string name="common_applying">Εφαρμογή…</string>
     <string name="common_downloading">Λήψη…</string>
     <string name="common_format_date_no_year">MM/dd</string>
@@ -183,6 +186,8 @@
     <string name="current_version">Τρέχουσα έκδοση: %1$s</string>
     <string name="current_version_incompatible">Ασυμβατότητα έκδοσης</string>
     <string name="custom_storage_permission_desc">Για να μπορέσετε να αλλάξετε τις προτιμήσεις εξατομίκευσης και να αποθηκεύσετε τα στοιχεία που έχετε κατεβάσει, επιτρέψτε πρώτα σε αυτή τη λειτουργία την πρόσβαση στον αποθηκευτικό χώρο. Μπορείτε να χορηγήσετε αυτό το δικαίωμα στις Ρυθμίσεις > Απόρρητο.</string>
+    <string name="custom_storage_permission_desc_above_eleven">Για να μπορέσετε να αλλάξετε τις προτιμήσεις εξατομίκευσης, επιτρέψτε πρώτα σε αυτή τη λειτουργία την πρόσβαση στον αποθηκευτικό χώρο. Μπορείτε να χορηγήσετε αυτό το δικαίωμα στις Ρυθμίσεις.</string>
+    <string name="custom_widget">Συνιστώμενα widgets</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημέρας και ώρας</string>
     <string name="de_apply_icons">Εικονίδια εφαρμ.</string>
     <string name="de_apply_icons_and_wallpaper">Εικονίδια και Ταπετσαρίες</string>
@@ -216,7 +221,8 @@
     <string name="de_mix_mode_superwallpaper_without_aod_desc">Οθόνη Κλειδώματος και Αρχική οθόνη</string>
     <string name="de_more_info">Περισσότερα</string>
     <string name="de_more_resource">Σύρετε για περισσότερα</string>
-    <string name="de_no_more_recommendations">Αυτα για τωρα.</string>
+    <string name="de_no_more_recommendations">Αυτά για τώρα.</string>
+    <string name="de_order">Πρόταση %1$d个</string>
     <string name="de_preview">Προεπισκόπηση</string>
     <string name="de_redeem">Εξαργυρώστε</string>
     <string name="de_resource_author">Δημιουργός (%1$s)</string>
@@ -372,6 +378,7 @@
     <string name="fold_restore_default_theme_dialog_content">"Δεν είναι δυνατή η χρήση Θεμάτων σε αυτήν τη συσκευή αυτήν τη στιγμή. Αν αλλάξατε το Θέμα προηγουμένως, μπορείτε να επαναφέρετε το προεπιλεγμένο θέμα τώρα. Δεν θα μπορείτε να αλλάξετε το θέμα σας ξανά μετά από αυτό."</string>
     <string name="fold_restore_default_theme_dialog_disagree">Όχι ευχαριστώ</string>
     <string name="fold_restore_default_theme_dialog_title">Επαναφορά προεπιλεγμένου θέματος</string>
+    <string name="fold_sensor_video_wallpaper_group">Δυναμικές ταπετσαρίες για αναδιπλούμενες συσκευές</string>
     <string name="font_compat_dialog_buy_confirm">Αγορά</string>
     <string name="font_compat_dialog_buy_content">Οι γραμματοσειρές τρίτων ενδέχεται να μην υποστηρίζονται από ορισμένες εφαρμογές. Αυτό το ζήτημα συμβατότητας θα επιλυθεί με επερχόμενη ενημέρωση συστήματος. Να αγοραστεί οπωσδήποτε;</string>
     <string name="font_compat_dialog_cancel">Ακύρωση</string>
@@ -753,6 +760,7 @@
     <string name="privacy_phone_logoff_theme_service_detail_title">Διαβάστε και συμφωνείτε με την \"Δήλωση για την ακύρωση των υπηρεσιών θεμάτων\" πριν από την ακύρωση των υπηρεσιών μας.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">Πρόκειται να ακυρώσετε τις υπηρεσίες θεμάτων.</string>
     <string name="privacy_phone_read_and_write_storage">Πρόσβαση Αποθήκευσης</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Πρόσβαση Αποθήκευσης</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy">&lt;Data&gt;\"Έχω διαβάσει και συμφωνήσει με \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Δήλωση για την Ακύρωση των Υπηρεσιών Θέματα&lt;/a&gt;&lt;/font&gt;\".\"&lt;/Data&gt;</string>
     <string name="privacy_phone_read_theme_privacy_policy">&lt;Data&gt;\"Έχω διαβάσει και συμφωνήσει με \"&lt;font color=\"#8E92B0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Δήλωση σχετικά με την ανάκληση της συγκατάθεσης στην πολιτική απορρήτου των θεμάτων&lt;/a&gt;&lt;/font&gt;\".\"&lt;/Data&gt;</string>
     <string name="privacy_phone_revoke_agree_content_3">3. Όλα τα θέματα, οι ταπετσαρίες, οι δυναμικές ταπετσαρίες, οι γραμματοσειρές, τα εικονίδια και οι ήχοι κλήσης που έχουν μεταφορτωθεί σε αυτή τη συσκευή.</string>
@@ -985,6 +993,7 @@
     <string name="resource_search_color_hint_purple">Μοβ</string>
     <string name="resource_search_color_hint_red">Κόκκινο</string>
     <string name="resource_search_color_hint_yellow">Κίτρινο</string>
+    <string name="resource_search_history">Αναζήτηση Ιστορικού</string>
     <string name="resource_search_list_empty">Δεν βρέθηκε τίποτα</string>
     <string name="resource_see_more">Εμφάνιση όλων</string>
     <string name="resource_select">Επιλέξτε</string>
@@ -1064,6 +1073,7 @@
     <string name="service_btn_text_know">Γνωρίστε το</string>
     <string name="service_btn_text_try">Δοκιμάστε το</string>
     <string name="set_as_colorring">Ορισμός ως προσαρμοσμένου τόνου κουδουνίσματος</string>
+    <string name="set_calling">Ρύθμιση</string>
     <string name="set_color_ring_back_tone">Ορισμός προσαρμοσμένου τόνου επιστροφής</string>
     <string name="set_home_wallpaper_failed">%s. Δεν είναι δυνατή η εφαρμογή ταπετσαρίας στην Αρχική οθόνη.</string>
     <string name="set_wallpaper_group_success">Η εφαρμογή της ταπετσαρίας \"%1$s\" ολοκληρώθηκε με επιτυχία</string>
@@ -1135,6 +1145,7 @@
     <string name="system_cta_runtime_perm_desc_get_accounts">Για πρόσβαση στο IMEI και παροχή υπηρεσιών λήψης</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Απόκτηση πρόσβασης στο αναγνωριστικό της συσκευής για την αναγνώριση της συσκευή σας</string>
     <string name="system_cta_runtime_perm_desc_storage">Για τη χρήση των στοιχείων που είναι αποθηκευμένα στη συσκευή σας για εξατομίκευση και αποθήκευση αγορασμένων στοιχείων</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">Για την αλλαγή των προτιμήσεων εξατομίκευσης</string>
     <string name="system_precust">Προεγκατεστημένες</string>
     <string name="tag_ad">Προσθήκη</string>
     <string name="task_already_exist">Αυτή η εργασία υπάρχει ήδη</string>
@@ -1256,6 +1267,16 @@
     <string name="title_system_audio_resource">Ήχοι κλήσης συστήματος</string>
     <string name="title_system_wallpaper_resource">Ταπετσαρίες συστήματος</string>
     <string name="to_activate_the_account">Ενεργοποίηση του Mi λογαριασμού σας τώρα</string>
+    <string name="toast_both_all_apply_failured">"Δεν ήταν δυνατή η εφαρμογή στην αρχική οθόνη ή στην οθόνη κλειδώματος"</string>
+    <string name="toast_both_all_apply_success">Εφαρμόστηκε με επιτυχία σε οθόνες Αρχικής σελίδας και Κλειδώματος</string>
+    <string name="toast_home_apply_failured">"Δεν ήταν δυνατή η εφαρμογή στην αρχική οθόνη"</string>
+    <string name="toast_home_apply_success">Επιτυχής εφαρμογή στην αρχική οθόνη</string>
+    <string name="toast_lockscreen_apply_failured">"Δεν ήταν δυνατή η εφαρμογή στην οθόνη κλειδώματος"</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Η εφαρμογή στην αρχική οθόνη ολοκληρώθηκε με επιτυχία. Δεν ήταν δυνατή η εφαρμογή στην οθόνη κλειδώματος."</string>
+    <string name="toast_lockscreen_apply_success">Επιτυχής εφαρμογή στην οθόνη κλειδώματος</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">"Η εφαρμογή στην οθόνη κλειδώματος ολοκληρώθηκε με επιτυχία. Δεν ήταν δυνατή η εφαρμογή στην αρχική οθόνη."</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">"Δεν ήταν δυνατή η εφαρμογή"</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">Εφαρμόστηκε με επιτυχία</string>
     <string name="today">Σήμερα</string>
     <string name="tomorrow">Αύριο</string>
     <string name="trans_wallpaper_offline_notice">"Οι διαφανείς ταπετσαρίες δεν είναι διαθέσιμες"</string>

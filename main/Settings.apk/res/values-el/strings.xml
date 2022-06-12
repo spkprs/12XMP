@@ -1068,6 +1068,8 @@
     <string name="bluetooth_fastConnect_key_device_id">Αναγνωριστικό συσκευής</string>
     <string name="bluetooth_fastConnect_resource_load">Φόρτωση πόρου Bluetooth fastConnect</string>
     <string name="bluetooth_footer_mac_message">Διεύθυνση Bluetooth του τηλεφώνου: %1$s</string>
+    <string name="bluetooth_hd_music_play_summary">"Αναπαραγωγή ήχου %d kHz σε συσκευές Bluetooth χωρίς μείωση του ρυθμού δειγματοληψίας. Τα εφέ Dolby δεν θα είναι διαθέσιμα όταν αυτή η λειτουργία είναι ενεργοποιημένη.."</string>
+    <string name="bluetooth_hd_music_play_title">Αναπαραγωγή ήχου %d kHz</string>
     <string name="bluetooth_headset_profile_summary_connected">Συνδεδεμένο με ήχο τηλεφώνου</string>
     <string name="bluetooth_headset_profile_summary_use_for">Χρήση για ήχο τηλεφώνου</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Συνδέθηκε με ακουστικό βαρηκοΐας</string>
@@ -3827,8 +3829,8 @@
     <string name="lock_profile_wipe_warning_content_pattern">Αν εισαγάγετε ένα λανθασμένο σχέδιο εργασίας σε αυτήν την προσπάθεια, το προφίλ εργασίας και τα σχετικά δεδομένα θα καταργηθούν από αυτήν τη συσκευή.</string>
     <string name="lock_profile_wipe_warning_content_pin">Αν εισαγάγετε έναν εσφαλμένο κωδικό PIN εργασίας σε αυτήν την προσπάθεια, το προφίλ εργασίας και τα σχετικά δεδομένα θα καταργηθούν από αυτήν τη συσκευή.</string>
     <string name="lock_screen_action">Προβολή στοιχείων με κάτω σάρωση στην Οθόνη Κλειδώματος</string>
-    <string name="lock_screen_after_fold_screen_summary">Όταν χρησιμοποιείτε την μπροστινή κάμερα ή το ακουστικό, η οθόνη δεν κλειδώνει μετά την αναδίπλωση</string>
-    <string name="lock_screen_after_fold_screen_title">Κλείδωμα της οθόνης μετά την αναδίπλωση της οθόνης</string>
+    <string name="lock_screen_after_fold_screen_summary">"Η συσκευή θα είναι κλειδωμένη αφού την διπλώσετε, εκτός από τις περιπτώσεις που χρησιμοποιείτε την μπροστινή κάμερα ή το ηχείο."</string>
+    <string name="lock_screen_after_fold_screen_title">Διπλώστε για κλείδωμα</string>
     <string name="lock_screen_display_category_name">Οθόνη Κλειδώματος</string>
     <string name="lock_screen_intro_skip_dialog_text">Οι λειτουργίες προστασίας συσκευής δεν θα ενεργοποιηθούν. Δεν θα μπορείτε να αποτρέψετε άλλους από τη χρήση αυτού του τηλεφώνου, αν χαθεί ή κλαπεί.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Οι λειτουργίες προστασίας συσκευής δεν θα ενεργοποιηθούν. Δεν θα μπορείτε να αποτρέψετε άλλους από τη χρήση αυτού του τηλεφώνου εάν χαθεί, κλαπεί ή υποστεί ολική επαναφορά.</string>

@@ -76,12 +76,4 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
-    <plurals name="circulate_audio_group_subtitle_format">
-        <item quantity="other">%1$d συσκευές</item>
-        <item quantity="one">%1$d συσκευή</item>
-    </plurals>
-    <plurals name="circulate_audio_group_title_format">
-        <item quantity="other">%1$d συσκευές</item>
-        <item quantity="one">%1$d συσκευή</item>
-    </plurals>
 </resources>

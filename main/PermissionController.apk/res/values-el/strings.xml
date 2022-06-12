@@ -37,7 +37,7 @@
     <string name="adjust_user_sensitive_globally_title">Εμφάνιση χρήσης εφαρμογών συστήματος</string>
     <string name="adjust_user_sensitive_per_app_header">Επισήμανση χρήσης για τα παρακάτω</string>
     <string name="adjust_user_sensitive_title">Σύνθετες ρυθμίσεις</string>
-    <string name="all_permissions">Όλα τις Άδειες</string>
+    <string name="all_permissions">Όλες οι Άδειες</string>
     <string name="all_unused_apps_category_title">Όλες οι εφαρμογές που δεν χρησιμοποιούνται</string>
     <string name="allow_permission_always">Πάντα</string>
     <string name="allow_permission_foreground_only">Μόνο κατά τη χρήση της εφαρμογής</string>

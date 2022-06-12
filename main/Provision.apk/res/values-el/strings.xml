@@ -102,6 +102,7 @@
     <string name="input_method_setting">Επιλέξτε πληκτρολόγιο</string>
     <string name="install_preinstall_app">Φόρτωση εφαρμογών…</string>
     <string name="interconnection_communication_introduction">Οι υπηρεσίες Xiaomi Internet Communication Services σας επιτρέπουν να ανακαλύπτετε, να συνδέεστε και να επικοινωνείτε με άλλες συσκευές της Xiaomi.</string>
+    <string name="is_prepare_install_go">Προετοιμασία…</string>
     <string name="item_contents_wwarning">"Εάν η συσκευή σας χαθεί, δεν θα μπορείτε να αποτρέψετε άλλα άτομα από τη χρήση της και την πρόσβαση στα δεδομένα σας, εκτός εάν ορίσετε κλείδωμα οθόνης. Παράλειψη ούτως ή άλλως;"</string>
     <string name="item_facerecognition">Ξεκλείδωμα Προσώπου</string>
     <string name="item_fingerprint">Δακτυλικό αποτύπωμα</string>

@@ -307,8 +307,11 @@
     <string name="goto_package">Άνοιγμα %1$s</string>
     <string name="hdcp_checking_dialog_title">Ορισμός συμπεριφοράς ελέγχου HDCP</string>
     <string name="hdcp_checking_title">Έλεγχος HDCP</string>
+	<string name="headset_device_error_no_device">Βάλτε και τα δύο ακουστικά στη θήκη και κρατήστε τα φορτισμένα</string>
     <string name="headset_battery_fw_failed">Φορτίστε πρώτα τη συσκευή σας</string>
+    <string name="headset_battery_low">Χαμηλή στάθμη μπαταρίας, παρακαλούμε επαναφορτίστε</string>
     <string name="headset_connect_device">Σύνδεση συσκευής</string>
+    <string name="headset_connect_timeout">Λήξη χρονικού ορίου σύνδεσης, προσπαθήστε ξανά</string>
     <string name="headset_device_check_failed">"Δεν ήταν δυνατός ο έλεγχος για ενημερώσεις"</string>
     <string name="headset_device_donot_move">Διατήρηση της συσκευής κοντά</string>
     <string name="headset_device_enter_upgrade_failed">"Δεν ήταν δυνατή η εκκίνηση της ενημέρωσης"</string>
@@ -316,7 +319,6 @@
     <string name="headset_device_error_disconnect">Και τα δύο ακουστικά αποσυνδέθηκαν. Κλείστε τη θήκη φόρτισης και ανοίξτε την ξανά για να ξεκινήσετε την ενημέρωση από την αρχή.</string>
     <string name="headset_device_error_failed">"Δεν είναι δυνατή η ενημέρωση"</string>
     <string name="headset_device_error_multconnect">"Δεν είναι δυνατή η ενημέρωση όταν είναι συνδεδεμένες πολλές συσκευές"</string>
-	<string name="headset_device_error_no_device">Βάλτε και τα δύο ακουστικά στη θήκη και κρατήστε τα φορτισμένα</string>
     <string name="headset_device_error_single_device">"Δεν είναι η ενημέρωση ενός ακουστικού. Ζεύγος ξανά."</string>
     <string name="headset_device_sync">Συχγρονίζεται…</string>
     <string name="headset_device_sync_donot_move_device">Συγχρονισμός... Περιμένετε μέχρι να ολοκληρωθεί πριν χρησιμοποιήσετε τα ακουστικά.</string>
@@ -338,6 +340,7 @@
     <string name="headset_loss_notify_summary">Φαίνεται ότι τουλάχιστον ένα από τα ακουστικά σας δεν είναι στην υπδοχή φόρτισης. Ρίξτε μια ματιά!</string>
     <string name="headset_loss_notify_summary1">"Φαίνεται ότι τα ακουστικά σας δεν είναι στη θήκη. Βάλτε τα πίσω για να φορτίσουν.."</string>
     <string name="headset_loss_notify_title">Λείπει η ειδοποίηση ακουστικών</string>
+    <string name="headset_not_in_case">Τα ακουστικά δεν είναι στη θήκη, επαναλάβετε την προσπάθεια</string>
     <string name="headset_read_fw_state">"Δεν ήταν δυνατή η λήψη πληροφοριών ενημέρωσης"</string>
     <string name="headset_update_failed">"Δεν ήταν δυνατή η ενημέρωση"</string>
     <string name="headset_update_ok">Τέλος</string>

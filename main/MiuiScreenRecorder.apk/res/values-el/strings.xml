@@ -79,7 +79,8 @@
     <string name="hint_volume_up">Αύξηση έντασης</string>
     <string name="home_title_none">Επιλογή στοιχείων</string>
     <string name="icon_content_description">Εικονίδιο διαλόγου</string>
-    <string name="is_checked">Επιλεγμένο</string>
+    <string name="invisible_mode_error_tip">"Είσαι ινκόγκνιτο. Δεν μπορείτε να καταγράψετε ήχο."</string>
+    <string name="is_checked">Επιλεγμένα</string>
     <string name="is_go_home">Επιστροφή στην οθόνη εγγραφής</string>
     <string name="is_go_home_summary">Επιστροφή στη αρχική σελίδα Εγγραφής, όταν σταματήσετε την εγγραφή</string>
     <string name="item_view_role_description">Καρτέλα</string>

@@ -19,8 +19,8 @@
      <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
      <string name="activity_package_delete_confirm_title">Σημαντική Προειδοποίηση</string>
      <string name="additional_permissions">Πρόσθετα διακαιώματα</string>
-     <string name="allPerms">Όλα</string>
-     <string name="all_permissions">Όλα τις Άδειες</string>
+     <string name="allPerms">Όλες</string>
+     <string name="all_permissions">Όλες οι Άδειες</string>
      <string name="allow_source_dlg_text">"%1$s θέλει να εγκαταστήσει άλλες εφαρμογές. Να επιτραπεί αυτό τώρα και στο μέλλον;"</string>
      <string name="allow_source_dlg_title">Νέα πηγή για εφαρμογές</string>
      <string name="app_name">Εγκατάσταση πακέτου</string>
