@@ -1057,6 +1057,10 @@
     <string name="bluetooth_enable">Bluetooth</string>
     <string name="bluetooth_enable_alphanumeric_pin">Το PIN περιέχει γράμματα ή σύμβολα</string>
     <string name="bluetooth_enable_opp_high_speed">Μεταφορές Bluetooth υψηλής ταχύτητας</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_message">Για την εφαρμογή των αλλαγών απαιτείται επανεκκίνηση του Bluetooth. Οι καθιερωμένες συνδέσεις ενδέχεται να διακοπούν από αυτή την ενέργεια. Επανεκκίνηση του Bluetooth ούτως ή άλλως;</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Ακύρωση</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Επανεκκίνηση</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Επανεκκίνηση Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Χρήση πρωτοκόλλων Bluetooth P2P υψηλής ταχύτητας για μεταφορές</string>
     <string name="bluetooth_enable_page_scan">Ενεργοποίηση Β/Τ σάρωσης σελίδας</string>
     <string name="bluetooth_enable_page_scan_summary">Ενεργ/Απενεργοποίηση Β/Τ δοκιμή σάρωσης σελίδας</string>
@@ -1422,6 +1426,10 @@
     <string name="button_text_reboot_now">Επανεκκίνηση</string>
     <string name="button_text_reject">Απόρριψη</string>
     <string name="byteShort">B</string>
+    <string name="dsda_close_toast">Η Διπλή ενεργή λειτουργία είναι απενεργοποιημένη. Επανεκκίνηση της συσκευής για να εφαρμοστούν οι αλλαγές.</string>
+    <string name="dsda_open_toast">Η Διπλή ενεργή λειτουργία είναι ενεργοποιημένη. Επανεκκίνηση της συσκευής για να εφαρμοστούν οι αλλαγές.</string>
+    <string name="dsda_switch_summary">Επιτρέπει και στις δύο κάρτες SIM να χρησιμοποιούν δεδομένα κινητής τηλεφωνίας και να πραγματοποιούν κλήσεις ταυτόχρονα</string>
+    <string name="dsda_switch_title">Διπλή ενεργή λειτουργία</string>
     <string name="cache_header_label">Cache</string>
     <string name="cache_size_label">Cache</string>
     <string name="cached">Αποθηκευμένη διαδικασία παρασκηνίου</string>
@@ -7269,6 +7277,7 @@
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
+    <string name="sunlight_low_power_notification">">Δεν μπορεί να ενεργοποιηθεί η λειτουργία Ηλιοφάνειας. Η μπαταρία είναι πολύ χαμηλή."</string>
     <string name="sunlight_mode">Λειτουργία Ηλιοφάνειας</string>
     <string name="sunlight_mode_summary">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος για αποφυγή υπερβολικού σκότους της οθόνης.</string>
     <string name="sunlight_mode_summary_new">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος για αποτροπή μείωσης φωτισμού της οθόνης. Ένα μικρό εικονίδιο του ήλιου θα εμφανιστεί στο επάνω μέρος της οθόνης όταν το φως του περιβάλλοντος είναι ισχυρό.</string>

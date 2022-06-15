@@ -687,6 +687,11 @@
     <string name="insertContactDescription">Δημιουργία επαφής</string>
     <string name="insertGroupDescription">Δημιουργία ομάδας</string>
     <string name="invalidContactMessage">Η επαφή δεν υπάρχει</string>
+    <string name="invisible_mode_dialog_cancel">Ακύρωση</string>
+    <string name="invisible_mode_dialog_to_close">Απενεργοποίηση</string>
+    <string name="invisible_mode_title">"Είστε ινκόγκνιτο"</string>
+    <string name="invisible_mode_unable_connect_camera">Απενεργοποιήστε τη λειτουργία Incognito για να χρησιμοποιήσετε την κάμερα. Απενεργοποίηση τώρα;</string>
+    <string name="invisible_mode_unable_get_location">Απενεργοποιήστε τη λειτουργία Incognito για να χρησιμοποιείτε τις υπηρεσίες τοποθεσίας και να εισάγετε επαφές από άλλες συσκευές μέσω Bluetooth. Απενεργοποίηση τώρα;</string>
     <string name="item_offical">Επίσημο</string>
     <string name="keep_local">Διατήρηση τοπικού</string>
     <string name="keep_local_btn">Χρήση εσωτ. μνήμης τηλεφώνου</string>

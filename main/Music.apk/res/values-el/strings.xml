@@ -773,6 +773,7 @@
     <string name="enabled">Ενεργοποιήθηκε</string>
     <string name="enjoy_hungama_pro">Απολαύστε Hunkama PRO</string>
     <string name="enter_garbage_clean">Εκκαθάριση εσωτερικού χώρου αποθήκευσης.</string>
+    <string name="entertainment">Ψυχαγωγία</string>
     <string name="eq_auto">Προσαρμογή</string>
     <string name="eq_blues">Μπλουζ</string>
     <string name="eq_classical">Κλασσικό</string>
@@ -1309,6 +1310,7 @@
     <string name="low_sound_quality">Χαμηλή</string>
     <string name="lrc_search_failed">Αδυναμία εύρεσης στίχων</string>
     <string name="lrc_searching">Αναζήτηση…</string>
+    <string name="ludo_tab_guide">Δείτε τις νέες αίθουσες μουσικής μας</string>
     <string name="lyric">Στίχοι</string>
     <string name="lyric_is_empty">Δεν υπάρχουν διαθέσιμοι στίχοι</string>
     <string name="lyric_label">Στίχοι</string>
@@ -2608,6 +2610,7 @@
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">W</string>
+    <string name="welcome_to_entertainment">Ελέγξτε τη νέα λειτουργία Ψυχαγωγία για μουσικά παιχνίδια και άλλα</string>
     <string name="welcome_to_new_music">Καλώς ήρθατε στη νέα έκδοση του Mi Music</string>
     <string name="widget_small_text_separator">-</string>
     <string name="widget_title">Βρείτε τα αγαπημένα σας τραγούδια στο Mi Music</string>

@@ -1193,6 +1193,7 @@
     <string name="status_unread">Μη αναγνωσμένα</string>
     <string name="stick">Καρφίτσωμα</string>
     <string name="stick_conversation">Καρφίτσωμα τρέχουσας συνομιλίας</string>
+    <string name="sticked">Καρφιτσώθηκε με επιτυχία</string>
     <string name="sticked_conversation">Η συνομιλία έχει ήδη καρφιτσωθεί</string>
     <string name="storage_dialog_attachments">Συνημμένα MMS:</string>
     <string name="storage_dialog_available_space">Διαθέσιμος χώρος:</string>
@@ -1338,6 +1339,7 @@
     <string name="unknown_num">Άγνωστος αριθμός</string>
     <string name="unknown_sender">Άγνωστος Αποστολέας</string>
     <string name="unstick">Ξεκαρφίτσωμα</string>
+    <string name="unsticked">Ξεκαρφιτσώθηκε με επιτυχία</string>
     <string name="unstick_conversation">Ξεκαρφίτσωμα τρέχουσας συνομιλίας</string>
     <string name="unsticked_conversation">Η συνομιλία έχει ήδη ξεκαρφιτσωθεί</string>
     <string name="unsubscribe">Κατάργηση συνδρομής</string>
