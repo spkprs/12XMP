@@ -562,6 +562,7 @@
     <string name="app_predict_dialog_message">Η AI θα προτείνει εφαρμογές που μπορεί να χρειαστείτε αυτήν τη στιγμή</string>
     <string name="app_predict_dialog_success">Προστέθηκε στην αρχική οθόνη με επιτυχία</string>
     <string name="app_predict_folder_name">Αναζήτηση</string>
+    <string name="app_predict_folder_tips">Προτάσεις με βάση τις συνήθειες χρήσης σας</string>
     <string name="app_predict_go_shop_search_app">Αναζήτηση στο GetApps</string>
     <string name="app_predict_guide_button">Προσθήκη</string>
     <string name="app_predict_guide_message">Η AI θα προτείνει εφαρμογές που μπορεί να χρειαστείτε αυτήν τη στιγμή</string>
@@ -584,6 +585,7 @@
     <string name="app_predict_setting_switch_message">Λήψη προτάσεων εφαρμογών με βάση τις συνήθη χρήσης σας</string>
     <string name="app_predict_setting_switch_title">Εξατομίκευση προτάσεων</string>
     <string name="app_predict_setting_title">Προτάσεις εφαρμογών</string>
+    <string name="app_predict_settings_train_tip">Αυτόματη βελτιστοποίηση ακρίβειας προτάσεων</string>
     <string name="app_predict_widget_experience_now">Δοκιμή</string>
     <string name="app_predict_widget_name_2x4">Προτάσεις εφαρμ.</string>
     <string name="app_predict_widget_summary">Εκκινήστε γρήγορα εφαρμογές που μπορεί να χρειάζεστε αυτήν τη στιγμή</string>
@@ -992,10 +994,10 @@
     <string name="btn_text_quick_save_power">Βελτιστοποίηση</string>
     <string name="btn_text_quick_scan">Ανάλυση</string>
     <string name="btn_text_stop">Διακοπή</string>
-    <string name="bubble_app_manage">Διαχείριση ειδοποιήσεων φυσαλίδων</string>
+    <string name="bubble_app_manage">Διαχείριση φυσαλίδων συνομιλίας</string>
     <string name="bubble_notification">Ειδοποιήσεις φυσαλίδων</string>
-    <string name="bubble_notification_switch">Επιτρέψτε ειδοποιήσεις φυσαλίδων</string>
-    <string name="bubble_notification_switch_desc">Όταν ένα κυμαινόμενο παράθυρο είναι κρυμμένο στην άκρη της οθόνης, εμφανίστε τις ειδοποιήσεις του σε φυσαλίδες.</string>
+    <string name="bubble_notification_switch">Εμφάνιση φυσαλίδων συνομιλίας</string>
+    <string name="bubble_notification_switch_desc">Όταν μια εφαρμογή μηνυμάτων σε ένα κινούμενο παράθυρο είναι κρυμμένη στην άκρη της οθόνης, εμφάνιση εισερχόμενων μηνυμάτων σε φυσαλίδες</string>
     <string name="business_have_hongbao">Ένας κόκκινος φάκελος από το %1$s</string>
     <string name="business_lucky_warning">επιχειρησιακοί κόκκινοι φάκελοι</string>
     <string name="button_background_connection">Επιτρέπεται</string>
@@ -1998,6 +2000,7 @@
     <string name="gb_game_ratio_right">Δεξιά</string>
     <string name="gb_game_ratio_top">Επάνω</string>
     <string name="gb_game_time_toast">Το χρονόμετρο είναι διαθέσιμο τώρα!</string>
+    <string name="gb_game_tips_restart">Θα γίνει επανεκκίνηση του παιχνιδιού για εφαρμογή των αλλαγών</string>
     <string name="gb_game_video_bottom_tips">Επανεξετάστε σημαντικές στιγμές από τις συνεδρίες παιχνιδιού σας στο Game Turbo. Τα βίντεο θα διαγραφούν αυτόματα μετά από 7 ημέρες.</string>
     <string name="gb_game_video_bottom_tips_new">Αναβιώστε σημαντικές στιγμές από τις περιόδους παιχνιδιού σας στο Game Turbo. Τα βίντεο θα διαγραφούν αυτόματα μετά από %d ημέρες.</string>
     <string name="gb_game_video_item_tag">Βασικές στιγμές</string>

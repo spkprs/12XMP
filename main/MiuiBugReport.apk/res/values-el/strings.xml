@@ -736,7 +736,7 @@
     <string name="toast_report_copied_to_clipboard">Αναφορά αντιγράφτηκε στο πρόχειρο</string>
     <string name="toast_report_sent_failed">Αποτυχία αποστολής αναφοράς</string>
     <string name="toast_report_sent_succeed">Η αναφορά έχει σταλεί</string>
-    <string name="toast_screenshot_too_large">Αδυναμία μεταφόρτωσης εικόνων ή βίντεο μεγαλύτερων από 100MB.</string>
+    <string name="toast_screenshot_too_large">"Δεν είναι δυνατή η αποστολή εικόνων ή βίντεο μεγαλύτερων από %d MB."</string>
     <string name="toast_third_packagename_required">Εισαγωγή ονόματος εφαρμογής</string>
     <string name="toast_title_required">Περιγράψτε το πρόβλημά σας</string>
     <string name="topic_author">1#</string>

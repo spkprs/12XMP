@@ -210,6 +210,11 @@
     <string name="miui_warning_tip_info">Παρουσιάστηκε σφάλμα σε %1$s. Κλείνετε την εφαρμογή τώρα?</string>
     <string name="multi_file_name">%1$s，%2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
+    <string name="nps_ContentText">Κάντε κλικ για να ελέγξετε τις λεπτομέρειες</string>
+    <string name="nps_ContentTitle">Αναζήτηση για GPS</string>
+    <string name="nps_description">GPS ειδοποίηση κατάστασης</string>
+    <string name="nps_mock_description">χρήση εικονικής τοποθεσίας, επαναφορά χρειάζεται επανεκκίνηση</string>
+    <string name="nps_monitor_name">GPS τοποθεσία</string>
     <string name="onehour">30 λεπτά</string>
     <string name="open_close_tip_action">Το κατάλαβα</string>
     <string name="open_close_tip_content">Για να κλείσετε το αιωρούμενο παράθυρο, πατήστε παρατεταμένα τη γραμμή ενεργειών και, στη συνέχεια, σαρώστε προς τα επάνω</string>

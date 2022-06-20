@@ -3781,6 +3781,7 @@
     <string name="location_category_location_services">Υπηρεσίες τοποθεσίας</string>
     <string name="location_category_recent_location_access">Πρόσφατη πρόσβαση τοποθεσίας</string>
     <string name="location_category_recent_location_requests">Πρόσφατα αιτήματα τοποθεσίας</string>
+    <string name="location_description_no_gps">"Αυτές οι συσκευές δεν υποστηρίζουν δορυφορική πλοήγηση. Οι πληροφορίες θέσης που δημιουργούνται βάσει δεδομένων δικτύου ενδέχεται να μην επαρκούν για ορισμένες λειτουργίες."</string>
     <string name="location_gps">Δορυφόροι GPS</string>
     <string name="location_high_battery_use">Υψηλή χρήση μπαταρίας</string>
     <string name="location_low_battery_use">Χαμηλή χρήση μπαταρίας</string>

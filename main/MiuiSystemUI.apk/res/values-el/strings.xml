@@ -1886,6 +1886,7 @@
     <string name="quick_settings_inversion_label">Αντιστροφή χρωμάτων</string>
     <string name="quick_settings_location_label">Τοποθεσία</string>
     <string name="quick_settings_location_off_label">Τοποθεσία εκτός λειτουργίας</string>
+    <string name="quick_settings_low_battery_toast_text">"Αδυναμία χρήσης φακού. Η μπαταρία είναι πολύ χαμηλή."</string>
     <string name="quick_settings_media_device_label">Συσκευή πολυμέσων</string>
     <string name="quick_settings_midrop_label">Mi Drop</string>
     <string name="quick_settings_more_settings">Περισσότερες ρυθμίσεις</string>

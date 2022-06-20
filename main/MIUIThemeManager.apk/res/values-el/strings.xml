@@ -1352,6 +1352,8 @@
     <string name="voice_input">Φωνητική είσοδος</string>
     <string name="wallpaper_24h">24Ω</string>
     <string name="wallpaper_apply">Εφαρμογή</string>
+    <string name="wallpaper_apply_inner">Αποδοχή στην εσωτερική οθόνη</string>
+    <string name="wallpaper_apply_outer">Αποδοχή στην εξωτερική οθόνη</string>
     <string name="wallpaper_crop">Περικοπή</string>
     <string name="wallpaper_dark_mode_image_preview_tip">Προεπισκόπηση Σκοτεινής λειτουργίας</string>
     <string name="wallpaper_decoded_error">Αδυναμία φόρτωσης ταπετσαρίας</string>
