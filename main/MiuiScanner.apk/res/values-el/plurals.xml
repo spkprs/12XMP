@@ -16,4 +16,8 @@
         <item quantity="one">Εισαγωγή με επιτυχία (φιλτράρισμα %1$d διπλότυπου στοιχείου)</item>
         <item quantity="other">Εισαγωγή με επιτυχία (φιλτράρισμα %1$d διπλότυπων στοιχείων)</item>
     </plurals>
+     <plurals name="word_limit_prompt">
+         <item quantity="one">%d χαρακτήρας πάνω από το όριο</item>
+         <item quantity="other">%d χαρακτήρες πάνω από το όριο</item>
+     </plurals>
 </resources>

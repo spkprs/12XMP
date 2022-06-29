@@ -180,6 +180,7 @@
     <string name="crop_and_create">Περικοπή και δημιουργία αρχείου Excel…</string>
     <string name="crop_cancel_description">Ακύρωση</string>
     <string name="crop_done_description">Ολοκληρώθηκε</string>
+    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Η περιοχή επιλογής πρέπει να έχει τέσσερις πλευρές</string>
     <string name="crop_frame_you_selected_cannot_crop_this_picture">Το τετράπλευρο τμήμα κοπής δεν μπορεί να είναι ένα κοίλο και η μέγιστη γωνία δεν μπορεί να υπερβαίνει τις 140 μοίρες</string>
     <string name="crop_title_study">Περικοπή φωτογραφίας</string>
     <string name="crop_title_translation">Επιλέξτε κείμενο για μετάφραση</string>
@@ -335,6 +336,7 @@
     <string name="food_module_title_food">Θερμίδες</string>
     <string name="form_demo_dialog_negative">Πατήστε για σάρωση του πίνακα και, στη συνέχεια, εξαγωγή ως αρχείο Excel.</string>
     <string name="form_excel_save_sucess">Το αρχείο Excel αποθηκεύτηκε με επιτυχία</string>
+    <string name="form_preview_title">Προεπισκόπηση πίνακα Excel</string>
     <string name="form_recognition_crop_hint">Βεβαιωθείτε ότι οι γωνίες του πίνακα βρίσκονται μέσα στην επιλεγμένη περιοχή</string>
     <string name="format_error">Άκυρος κωδικός πρόσβασης</string>
     <string name="friday">Παρασκευή</string>
@@ -413,6 +415,8 @@
     <string name="link_to_network">Σύνδεση</string>
     <string name="local_ocr_recognition">Τοπική αναγνώριση</string>
     <string name="local_ocr_recognition_str">Μετάβαση σε μετάφραση χωρίς σύνδεση</string>
+    <string name="location_permission_message">Για σύνδεση σε WLAN</string>
+    <string name="location_permissions_text">Επιτρέψτε την πρόσβαση στην τοποθεσία στις Ρυθμίσεις για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
     <string name="logistics">Ταχεία παράδοση</string>
     <string name="logout_service">Απόσυρση συγκατάθεσης</string>
     <string name="low_version_tip">Ενημερώστε το MIUI στην πιο πρόσφατη έκδοση του, για να μπορέσετε να χρησιμοποιήσετε το σαρωτή.</string>
@@ -559,6 +563,8 @@
     <string name="not_identification_form">Δεν ήταν δυνατή η αναγνώριση του πίνακα. Επιλέξτε ξανά και ξεκινήστε από την αρχή.</string>
     <string name="not_insert_contact">Αδυναμία προσθήκης επαφής</string>
     <string name="not_network">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
+    <string name="not_permissions_hint">Επιτρέψτε την πρόσβαση στην κάμερα για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="not_permissions_title">Απαιτούμενες άδειες</string>
     <string name="not_recommend_access_web_url">Μετάβαση ούτως ή άλλως</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="note">Σημείωση:</string>
@@ -887,8 +893,8 @@
     <string name="to_date">Σήμερα</string>
     <string name="to_install_title">Αυτός ο κώδικας QR σας ανακατευθύνει σε μια μη εγκατεστημένη εφαρμογή. Άμεση λήψη αυτής της εφαρμογής?</string>
     <string name="to_pay">Ολοκλήρωση πληρωμής</string>
-    <string name="toast_net_2g">Το δίκτυο είναι ασθενές. Παρακαλώ αλλάξτε το δίκτυο και δοκιμάστε ξανά.</string>
-    <string name="toast_net_timeout">Η αίτηση έληξε με χρονική καθυστέρηση. Προσπαθήστε ξανά αργότερα</string>
+    <string name="toast_net_2g">"Δεν μπόρεσε να συνδεθεί στο δίκτυο. Αλλάξτε δίκτυο και δοκιμάστε ξανά."</string>
+    <string name="toast_net_timeout">Η αίτηση έληξε με χρονική καθυστέρηση. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
     <string name="today">Σήμερα</string>
     <string name="toinstall">Λήψη</string>
     <string name="tomorrow">Αύριο</string>

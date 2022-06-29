@@ -2787,10 +2787,13 @@
     <string name="mtrl_picker_toggle_to_day_selection">Πατήστε για να μεταβείτε στην επιλογή μιας ημέρας</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Εναλλαγή σε λειτουργία εισαγωγής κειμένου</string>
     <string name="mtrl_picker_toggle_to_year_selection">Πατήστε για να μεταβείτε στην επιλογή ενός έτους</string>
-    <string name="na_main_card_ad_subtitle">Lots of data, free calls, low rates</string>
+    <string name="na_main_card_ad_subtitle">Πολλά δεδομένα, δωρεάν κλήσεις, χαμηλές τιμές</string>
     <string name="na_main_card_ad_text">Βρείτε ένα σχέδιο που σας ταιριάζει</string>
-    <string name="na_main_card_ad_title">Mi Fan card promotion</string>
+    <string name="na_main_card_ad_title">Mi Fan card προώθηση</string>
     <string name="na_main_card_title_sim">Κάρτα</string>
+    <string name="na_open_at_once">Ενεργοποίηση</string>
+    <string name="na_query_and_correction">Έλεγχος υπόλοιπο και βαθμονόμηση</string>
+    <string name="na_query_and_correction_msg">Μπορείτε να ελέγξετε και να βαθμονομήσετε το υπόλοιπο του λογαριασμού σας και τις στατιστικές δεδομένων κινητής τηλεφωνίας στέλνοντας ένα δωρεάν SMS στον πάροχό σας. Τα μηνύματα αυτά είναι κρυπτογραφημένα.\nΤα μηνύματα διερεύνησης υπολοίπου δεν αποθηκεύονται στα Μηνύματα και δεν θα εμφανίζονται.\nΜπορείτε να απενεργοποιήσετε την επιλογή \"Αυτόματη προσαρμογή των στατιστικών χρήσης δεδομένων\" ανά πάσα στιγμή.</string>
     <string name="na_text_checking">"Δοκιμή: "</string>
     <string name="name">Όνομα</string>
     <string name="nd_result_button_optimize">Βελτιστοποίηση</string>

@@ -155,6 +155,7 @@
     <string name="content_desc_activity_main_add_city">Προσθήκη πόλης</string>
     <string name="content_desc_activity_main_add_city_manage">Διαχείριση πόλεων</string>
     <string name="content_desc_activity_main_more_settings">Περισσότερες ρυθμίσεις</string>
+    <string name="content_desc_activity_main_page">Σελίδα %1$d από %2$d</string>
     <string name="content_desc_back_button">Πίσω</string>
     <string name="content_desc_city_manage_del">Διαγραφή</string>
     <string name="content_desc_city_manage_edit">Επεξεργασία</string>
@@ -392,7 +393,7 @@
     <string name="particulate_matter_not_exceeded">Κανονική</string>
     <string name="particulate_matter_serious_exceeded">Πολύ υψηλή</string>
     <string name="permission_device_info">Πληροφορίες συσκευής</string>
-    <string name="permission_device_introduce">Για την αναγνώριση της συσκευής με βάση το μοντέλο και ΙΜΕΙ, για την παροχή μεταφρασμένων υπηρεσιών με βάση τις προτιμήσεις γλώσσας</string>
+    <string name="permission_device_introduce">Για την αναγνώριση συσκευών με βάση το μοντέλο συσκευής και την παροχή εντοπισμένων υπηρεσιών με βάση τις γλωσσικές προτιμήσεις</string>
     <string name="permission_exit">Έχοδος</string>
     <string name="permission_privacy">Πολιτική απορρήτου (υποχρεωτικό)</string>
     <string name="permission_select_all">Επιλογή όλων</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Αιωρούμενα παράθυρα</string>
+    <string name="bottom_bar_smallwindow_drag_text">Σύρετε εδώ για καρφίτσωμα</string>
     <string name="bottom_bar_smallwindow_text">Καρφίτσωμα</string>
     <string name="contentDescription">Μετακίνηση του παραθύρου</string>
     <string name="copy">Αντιγραφή</string>
@@ -24,6 +25,7 @@
     <string name="freeform_slide_to_small_freeform_summary_pad">Σύρετε τη γωνία για να ελαχιστ/σετε μια εφαρμογή</string>
     <string name="fullscreen_slide_to_small_freeform">Ελαχιστοποίηση εφαρμογής</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Σύρετε από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία</string>
+    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Σαρώστε από το κάτω προς το επάνω άκρο της οθόνης.</string>
     <string name="how_to_close_or_fullscreen_freeform">Κλείσιμο Αιωρούμενων παραθύρων ή μετάβαση σε Πλήρη οθόνη</string>
     <string name="how_to_drop_down_to_fullscreen">Σε Πλήρη οθόνη</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Πατήστε παρατεταμένα, και τραβήξτε προς τα κάτω τη γραμμή Ενεργειών</string>

@@ -700,6 +700,8 @@
     <string name="update_phone_notice">Αλλαγή ρυθμίσεων ασφαλείας</string>
     <string name="update_phone_number_notice_message">Θα πρέπει να επαληθεύσετε την ταυτότητά σας πριν ενημερώσετε τον αριθμό τηλεφώνου σας.</string>
     <string name="used_cloud_storage_info">Σε χρήση %s</string>
+    <string name="user_agreement_network_permission_msg">Πρέπει να συνδεθούμε στο διαδίκτυο για να μπορούμε να σας παρέχουμε τις απαραίτητες υπηρεσίες.</string>
+    <string name="user_agreement_use_account_msg">Ο λογαριασμός Xiaomi σας επιτρέπει να έχετε πρόσβαση σε όλες τις υπηρεσίες που παρέχει η Xiaomi.</string>
     <string name="user_avatar_update_title">Αλλαγή εικόνας προφίλ</string>
     <string name="user_avatar_uploading">Περιμένετε…</string>
     <string name="user_instruction_all_purpose">Καλώς ήρθατε στο λογαριασμό Mi! Μπορείτε να δημιουργήσετε έναν λογαριασμό, να συνδεθείτε και να αποκτήσετε πρόσβαση σε υπηρεσίες που παρέχονται από τη Xiaomi και τις συνδεδεμένες εταιρείες της, όπως Mi.com, Xiaomi Cloud και GetApps. Μπορείτε να αποκτήσετε Mi Coins, να αγοράσετε εικονικά αγαθά και να απολαύσετε υπηρεσίες προστιθέμενης αξίας, όπως παιχνίδια, θέματα και ηλεκτρονικά βιβλία..</string>

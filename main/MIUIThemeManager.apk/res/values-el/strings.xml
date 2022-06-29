@@ -475,6 +475,7 @@
     <string name="kuyin_user_agreement_content">Οι συνδρομές για ήχους διατίθενται από την iFlytek. Θα πρέπει να συμφωνήσετε με την %s πριν από τη χρήση των. Συμφωνείτε?</string>
     <string name="kuyin_user_agreement_content_href">iFlytek Πολιτική Απορρήτου</string>
     <string name="lab">Εργαστήριο Θεμάτων</string>
+    <string name="label">Ετικέτα</string>
     <string name="like_list">Μου άρεσαν</string>
     <string name="live_wallpaper">Δυναμική ταπετσαρία</string>
     <string name="loading">Μισό λεπτό…</string>

@@ -2747,7 +2747,7 @@
     <string name="face_unlock_offset_right">Μετακινήστε προς τα αριστερά</string>
     <string name="face_unlock_offset_top">Σηκώστε λίγο το τηλέφωνό σας</string>
     <string name="face_unlock_open_eye">Ανοίξτε τα μάτια σας λίγο πιο πλατιά</string>
-    <string name="face_unlock_prompt">Προτροπή ξεκλειδώματος προσώπου</string>
+    <string name="face_unlock_prompt">Καταγραφή δεδομένων προσώπου\nπρος την εξωτερική οθόνη</string>
     <string name="face_unlock_quality">Δεν μπορούσα να δω το πρόσωπό σου καθαρά.</string>
     <string name="face_unlock_reveal_eye">Κάντε τα μάτια σας ορατά</string>
     <string name="face_unlock_reveal_mouth">Κάντε τα χείλη σας ορατά</string>
@@ -3035,6 +3035,7 @@
     <string name="freeform_guide_slide_to_small_freeform_summary">Κρατήστε πατημένο το κάτω μέρος του παραθύρου και σύρετέ το στην επάνω δεξιά γωνία.\nΑυτή η δυνατότητα λειτουργεί μόνο όταν η πλοήγηση του συστήματος έχει ρυθμιστεί σε χειρονομίες.</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Σύρετε τη γωνία για να ελαχιστ/σετε μια εφαρμογή</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Σύρετε τη γωνία για να ελαχιστ/σετε μια εφαρμογή</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">Πιέστε και κρατήστε πατημένο το κάτω μέρος του παραθύρου και σύρετέ το στην επάνω άκρη της οθόνης.\nΑυτό το χαρακτηριστικό λειτουργεί μόνο όταν η πλοήγηση στο σύστημα έχει οριστεί σε χειρονομίες.</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Ελαχιστοποίηση εφαρ/γής</string>
     <string name="freeform_guide_slide_up_to_close_summary">Σύρετε προς τα πάνω από τη γραμμή ενεργειών</string>
     <string name="freeform_guide_slide_up_to_close_title">Κλείσιμο</string>
@@ -4258,6 +4259,7 @@
     <string name="miheadset_auto_ack_mode">"Απαντήστε σε κλήσεις αυτόματα όταν φοράτε ακουστικά"</string>
     <string name="miheadset_auto_ack_mode_summary">Αυτόματη απάντηση κλήσεων</string>
     <string name="miheadset_auto_answer_call">Αυτόματη απάντηση κλήσεων</string>
+    <string name="miheadset_auto_upgrade_reminder">Απενεργοποιήστε τις αυτόματες ενημερώσεις και ελέγξτε ξανά για ενημερώσεις</string>
     <string name="miheadset_bluetooth_audio_title">LC3plus Ρυθμός δειγμ/ληψίας ήχου Bluetooth</string>
     <string name="miheadset_bright">Φωτεινό</string>
     <string name="miheadset_call_assist">Mi AI</string>
@@ -4389,7 +4391,7 @@
     <string name="miui_allow_light">LED ειδοποίησης</string>
     <string name="miui_allow_music">Πολυμέσα</string>
     <string name="miui_allow_vibrate">Δονήσεις</string>
-    <string name="miui_bubbles_notification">Ειδοποιήσεις Φυσαλίδων</string>
+    <string name="miui_bubbles_notification">Φυσαλίδες συνομιλίας</string>
     <string name="miui_bubbles_notification_status_opened">Ενεργή</string>
     <string name="miui_data_usage_menu_metered">Κινητό Σημείο πρόσβασης</string>
     <string name="miui_experience_optimization">Ενεργ/ση βελτιστοποίησης MIUI</string>
