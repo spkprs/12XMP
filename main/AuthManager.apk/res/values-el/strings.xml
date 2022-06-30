@@ -241,7 +241,7 @@
     <string name="permisson_reject_notice_toast_text2">δεν έχει άδεια να %1$s.</string>
     <string name="pp_privacy_lab_operator_introduction">Προσοχή</string>
     <string name="precise_location_title">Ακριβής τοποθεσία</string>
-    <string name="preference_copied">\"%1$s\" αντιγράφονται στο πρόχειρο.</string>
+    <string name="preference_copied">\"%1$s\" αντιγράφηκαν στο πρόχειρο.</string>
     <string name="real_location_off">Η κατά προσέγγιση τοποθεσία είναι ενεργή</string>
     <string name="real_location_on">Η κατά προσέγγιση τοποθεσία είναι ανεργή</string>
     <string name="screen_overlay_button">Άνοιγμα ρυθμίσεων</string>
