@@ -287,6 +287,8 @@
     <string name="item_view_role_description">Καρτέλα</string>
     <string name="just_now">Μόλις τώρα</string>
     <string name="kilobyteShort">KB</string>
+    <string name="lack_perm_msg">Η Διαχείριση αρχείων απαιτεί τις ακόλουθες άδειες για να λειτουργήσει κανονικά: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">Απαιτούμενες άδειες</string>
     <string name="launcher_icon_add_description">Προσθήκη συντόμευσης στην αρχική οθόνη</string>
     <string name="launcher_icon_remove_description_content">"Η Διαχείριση αρχείων είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να διαχειριστείτε αρχεία στη συσκευή σας αφού καταργήσετε τη συντόμευση της αρχικής οθόνης."</string>
     <string name="launcher_icon_remove_description_title">Κατάργηση της \"Διαχείριση αρχείων\" από την αρχική οθόνη;</string>
@@ -298,6 +300,9 @@
     <string name="local_image">Φωτογραφίες</string>
     <string name="local_music">Αρχεία μουσικής</string>
     <string name="local_video">Αρχεία Βίντεο</string>
+    <string name="main_button_continue">Ρυθμίσεις</string>
+    <string name="main_button_ok">OK</string>
+    <string name="main_button_quit">Ακύρωση</string>
     <string name="make_private">Κάντε ιδιωτικό</string>
     <string name="make_private_msg_1">Κάντε ιδιωτικό αυτό το αρχείο;</string>
     <string name="make_private_msg_2">Κάντε ιδιωτικά αυτά τα αρχεία;</string>
@@ -318,6 +323,7 @@
     <string name="menu_item_sort_type">Τύπο</string>
     <string name="menu_item_usb">USB</string>
     <string name="menu_set_wallpaper">Ορισμός ως ταπετσαρία</string>
+    <string name="message_request_manage_external_storage_perm">Η Διαχείριση αρχείων χρειάζεται άδεια πρόσβασης σε αρχεία για να μπορεί να διαχειρίζεται αρχεία στη συσκευή σας. Μπορείτε να χορηγήσετε αυτή την άδεια στις Ρυθμίσεις.</string>
     <string name="mi_router_label">Router</string>
     <string name="mi_share">MiShare</string>
     <string name="midnight">Νύχτα</string>
@@ -459,6 +465,7 @@
     <string name="partial_delete_failure">Αδυναμία διαγραφής ορισμένων αρχείων. Δοκιμάστε ξανά</string>
     <string name="partial_encrypt_success">Αδυναμία απόκρυψης ορισμένων αρχείων. Δοκιμάστε ξανά</string>
     <string name="path_name_email">Email</string>
+    <string name="perm_manage_external_storage">Πρόσβαση σε όλα τα αρχεία</string>
     <string name="permission_denial">Αδυναμία πρόσβασης αρχείων. Επιτρέψτε στον Explorer να αποκτήσει πρόσβαση στα αρχεία από τις Ρυθμίσεις.</string>
     <string name="permission_description">Λεπτομέρειες αδειών</string>
     <string name="permission_required">Αδυναμία πρόσβασης αρχείων. Επιτρέψτε στον Explorer να αποκτήσει πρόσβαση στα αρχεία από τις Ρυθμίσεις</string>
@@ -609,6 +616,7 @@
     <string name="title_enable_documentsui">Ενεργοποιήστε τα Έγγραφα</string>
     <string name="title_expire_video">Πρόκειται να λήξουν</string>
     <string name="title_recent">Πρόσφατα</string>
+    <string name="title_request_manage_external_storage_perm">Απαιτούμενες άδειες</string>
     <string name="title_select_volume">Επιλέξτε φάκελο</string>
     <string name="to_open">Ρυθμίσεις</string>
     <string name="to_setting">Ρυθμίσεις</string>

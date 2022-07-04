@@ -351,6 +351,7 @@
     <string name="beauty_fragment_tab_name_beauty">Αισθητική</string>
     <string name="beauty_fragment_tab_name_makeup">Για προχωρημένους</string>
     <string name="beauty_fragment_tab_name_makeups">Μακιγιάζ</string>
+    <string name="beauty_fx_makeup_cv">Ρετούς</string>
     <string name="beauty_lens">Μεγάλο διάφραγμα</string>
     <string name="beauty_lens_1">Πρόσωπα</string>
     <string name="beauty_lens_1_description">Δημιουργήστε bokeh επαγγελματικού επιπέδου και μετατρέψτε τις λήψεις σας σε αξιόλογα πορτραίτα.</string>
@@ -380,6 +381,7 @@
     <string name="beauty_mo_fe">Φυσικό</string>
     <string name="beauty_mo_ma">Κλασικό</string>
     <string name="beauty_mo_or">Αρχικό</string>
+    <string name="beauty_mo_pr_cv">Υφές</string>
     <string name="beauty_mode_reset_toast">Εκκαθαρίστηκαν επιτυχώς τα εφέ αναδιαμόρφωσης</string>
     <string name="beauty_mutex_toast_tip">&lt;a href=>Απενεργοποιήστε&lt;/a> πρώτα τα εφέ μακιγιάζ</string>
     <string name="beauty_ne">Αρχικό</string>
@@ -397,6 +399,7 @@
     <string name="beauty_skincolor_wheat">Σιτάρι</string>
     <string name="beauty_skincolor_white">Ελεφαντόδοντο</string>
     <string name="beauty_sm_or">Δέρμα</string>
+    <string name="beauty_sm_texture_cv">Δέρμα</string>
     <string name="beauty_tab_name_live_beauty">Αισθητική</string>
     <string name="beauty_tab_name_live_filter">Φίλτρα</string>
     <string name="bokeh_use_hint">Εφέ βάθους</string>
@@ -406,6 +409,7 @@
     <string name="button_normal_video_title">Εγγραφή βίντεο</string>
     <string name="camcorder_tip_8k_max_video_duration">Μπορείτε να εγγράψετε έως και %1$d λεπτά σε 8K</string>
     <string name="camcorder_tip_current_max_video_duration">Μπορείτε να εγγράψετε έως %d λεπτά στην τρέχουσα ανάλυση</string>
+    <string name="camcorder_tip_isp_super_night_video_max_video_duration">Μπορείτε να εγγράψετε έως και %d λεπτά</string>
     <string name="camcorder_tip_super_night_video_4k_max_video_duration">Μπορείτε να εγγράψετε έως &amp; %d λεπτά σε 4K</string>
     <string name="camera_disabled">Η Κάμερα έχει απενεργοποιηθεί</string>
     <string name="camera_error_title">Σφάλμα κάμερας</string>
@@ -465,6 +469,7 @@
     <string name="clone_video_mode">Βίντεο</string>
     <string name="close">Κλείστε</string>
     <string name="close_back_flash_toast">Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση φλας τώρα.</string>
+    <string name="close_flash_toast">"Αδύνατη η χρήση φλας λόγω χαμηλής μπαταρίας"</string>
     <string name="close_front_flash_toast">Η συσκευή σας έχει υπερθερμανθεί. Αδύνατη η χρήση φλας τώρα.</string>
     <string name="close_night_algo_toast_low_power">Φορτίστε τη συσκευή σας για να μπορείτε να ρυθμίσετε την έκθεση</string>
     <string name="close_night_algo_toast_thermal">Κρυώστε τη συσκευή σας για να μπορέσετε να ρυθμίσετε την έκθεση</string>
@@ -559,6 +564,15 @@
     <string name="custom_watermark_words">Προσαρμογή κειμένου</string>
     <string name="custom_watermark_words_input_hint">Εισαγωγή κειμένου</string>
     <string name="custom_watermark_words_save_success">Επιτυχής αποθήκευση</string>
+    <string name="cv_lens_black_white">Μαύρο &amp; άσπρο</string>
+    <string name="cv_lens_msg">Τραβήξτε εκπληκτικές φωτογραφίες με φακούς Pro</string>
+    <string name="cv_lens_rotary_focus">Θολή περιστροφή</string>
+    <string name="cv_lens_soft_focus">Απαλή εστίαση</string>
+    <string name="cv_lens_title">Φακοί Pro</string>
+    <string name="cvtype_btn_select">Χρήση \"%1$s\"</string>
+    <string name="cvtype_hint_title">Επιλογή στυλ</string>
+    <string name="cvtype_item_title1">Φυσικά και ρεαλιστικά</string>
+    <string name="cvtype_item_title2">Φρέσκο και ζωηρό</string>
     <string name="dd_frn_f_t">Διπλώστε τη συσκευή σας για να χρησιμοποιήσετε την μπροστινή κάμερα</string>
     <string name="dialog_button_accept">Αποδοχή</string>
     <string name="dialog_button_back">Πίσω</string>
@@ -707,12 +721,14 @@
     <string name="film_video_d">Νυχτ. χρονική ακολουθία</string>
     <string name="film_video_e">Παράλληλος κόσμος</string>
     <string name="film_video_e_tip">Υποστηρίζει μόνο τη λήψη τοπίου</string>
+    <string name="film_video_f">Χρόνος αντίστρ. ροής</string>
     <string name="film_video_tip">Χρησιμοποιήστε τρίποδο</string>
     <string name="fps960_toast">Η λήψη αργής κίνησης θα ξεκινήσει το τελευταίο τέταρτο της εγγραφής</string>
     <string name="fragment_tab_name_bokeh">Θόλωση</string>
     <string name="fromkeyguard_not_permission">Για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία, ξεκλειδώστε πρώτα τη συσκευή σας.</string>
     <string name="front_camera_hint_text_place">Η λήψη selfies θα είναι ευκολότερη\nαν περιστρέψετε το τηλέφωνό σας</string>
     <string name="front_camera_hint_text_rotate">Περιστρέψτε το τηλέφωνό σας</string>
+    <string name="guide_pop_window_msg_cv_lens">Πατήστε για δοκιμή φακών Pro</string>
     <string name="hand_gesture_open_tip">Δείξτε την παλάμη για εκκίνηση του χρονοδιακόπτη</string>
     <string name="hand_gesture_tip">Κλείστρο παλάμης</string>
     <string name="hibernate_hint">Αγγίξτε την οθόνη για επαναφορά της Κάμερας</string>
@@ -815,6 +831,7 @@
     <string name="location_permission_not_ask_again">Να επιτρέπεται στην κάμερα η πρόσβαση στη θέση σας στις Ρυθμίσεις.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Αποδοχή</string>
     <string name="log_format">LOG</string>
+    <string name="low_battery_to_save_video">"Φαίνεται ότι η μπαταρία της συσκευής σας είναι πολύ χαμηλή τώρα. Σταματήστε την εγγραφή και αποθηκεύστε το βίντεό σας προτού η συσκευή απενεργοποιηθεί."</string>
     <string name="lpl_dialog_item_name_burst">Παρατεταμένα για συνεχείς λήψεις</string>
     <string name="lpl_dialog_item_name_record">Παρατεταμένα για εγγραφή βίντεο</string>
     <string name="lpl_dialog_title">Επιλέξτε λειτουργία κλείστρου</string>
@@ -1247,6 +1264,7 @@
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_camera_heic_image_format_description">Φωτογραφίες σε μορφή HEIF υψηλής απόδοσης καταλαμβάνουν λιγότερο χώρο αποθήκευσης, αλλά δεν υποστηρίζονται από ορισμένες εφαρμογές</string>
     <string name="pref_camera_heic_image_format_description2">"Η μορφή αρχείων εικόνας υψηλής απόδοσης εξοικονομεί χώρο αποθήκευσης, αλλά δεν υποστηρίζεται από ορισμένες εφαρμογές τρίτων. Δεν μπορείτε να κάνετε λήψη ζωντανές φωτογραφίες και να αφαιρέσετε υδατογραφήματα σε HEIF."</string>
+    <string name="pref_camera_heic_image_format_description_global">"Η μορφή αρχείου εικόνας υψηλής απόδοσης εξοικονομεί χώρο αποθήκευσης, αλλά δεν υποστηρίζεται από ορισμένες εφαρμογές τρίτων. Δεν μπορείτε να αφαιρέσετε υδατογραφήματα σε HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Μορφή HEIC</string>
     <string name="pref_camera_hfr_entry_off">Off</string>
     <string name="pref_camera_high_quality_preferred_description">Βελτιώστε την ποιότητα εικόνας χρησιμοποιώντας τον έξυπνο αλγόριθμο. Η ταχύτητα λήψης εικόνας ενδέχεται να μειωθεί όταν είναι ενεργοποιημένη αυτή η λειτουργία. Η νυχτερινή λειτουργία θα ενεργοποιηθεί αυτόματα όταν εντοπίζονται συνθήκες χαμηλού φωτισμού.</string>
@@ -1359,6 +1377,8 @@
     <string name="pref_camera_sr_enable_title">Turn on SR</string>
     <string name="pref_camera_stereo_mode_title">Ρύθμιση εστίασης</string>
     <string name="pref_camera_super_resolution_title">Ενεργοποίηση SR</string>
+    <string name="pref_camera_suspend_shutter_button_summary">Σύρετε το κουμπί κλείστρου προς τα πάνω για να δημιουργήσετε ένα επιπλέον αναδυόμενο κλείστρο.</string>
+    <string name="pref_camera_suspend_shutter_button_title">Πρόσθετο κλείστρο</string>
     <string name="pref_camera_tilt_shift_entry_circle">Κύκλος</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Παράλληλα</string>
     <string name="pref_camera_tilt_shift_title">Θάμπωμα</string>
@@ -1428,6 +1448,8 @@
     <string name="pref_custom_tint_title">Χρωματισμός</string>
     <string name="pref_customization_style">Προσαρμοσμένο στυλ</string>
     <string name="pref_customization_title">Προσαρμογή</string>
+    <string name="pref_cv_watermark_summary">Οι προεπισκοπήσεις παρέχονται μόνο για την αναφορά σας. Το υδατογράφημα Leica θα εμφανίζεται στις φωτογραφίες που έχουν ληφθεί στις λειτουργίες \"Φώτο\" και \"Πορτρέτο\".</string>
+    <string name="pref_cv_watermark_title">Υδατογράφημα Leica</string>
     <string name="pref_document_mode">Έγγραφα</string>
     <string name="pref_dual_camera_video">Διπλό βίντεο</string>
     <string name="pref_e_c_t_j">Πρωτότυπος ήχος</string>
@@ -1480,6 +1502,7 @@
     <string name="pref_privacy_watermark_edit">Προσαρμοσμένο κείμενο</string>
     <string name="pref_privacy_watermark_edit_clear_history">Εκκαθάριση ιστορικού</string>
     <string name="pref_privacy_watermark_edit_history">Ιστορικό</string>
+    <string name="pref_privacy_watermark_edit_title">Επεξεργασία υδατογραφήματος</string>
     <string name="pref_privacy_watermark_entry">Προστατευμένο υδατογράφημα</string>
     <string name="pref_privacy_watermark_switch">Εμφάνιση διακόπτη υδατογραφήματος</string>
     <string name="pref_qc_focus_position_title">Εστίαση</string>
@@ -1642,11 +1665,12 @@
     <string name="snap_confirmed">Αντικατάσταση</string>
     <string name="spaceIsLow_content_external_storage_priority">Η κάρτα SD εξαντλείται</string>
     <string name="spaceIsLow_content_primary_storage_priority">Ο χώρος USB εξαντλείται</string>
-    <string name="speech_shutter_open_tip">Πείτε \"Hello\" ή \"what\" για για λήψη φωτογραφίας</string>
+    <string name="speech_shutter_open_tip">Πείτε \"Τυρί\" για για λήψη φωτογραφίας</string>
     <string name="speech_shutter_tip">Φωνητικό κλείστρο</string>
     <string name="start_capture">OK</string>
     <string name="sticker_tab1">Χαριτωμένο</string>
     <string name="sticker_tab2">Αστείο</string>
+    <string name="stop_save_low_battery">Αποθήκευση (%ds)</string>
     <string name="subtitle_network_exception_tips">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Δεν είναι δυνατή η μεταγραφή τώρα.</string>
     <string name="super_eis">Σταθερό βίντεο</string>
     <string name="super_eis_disabled_hint">Ανενεργό Σταθερό βίντεο</string>
@@ -1704,6 +1728,7 @@
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Αδύνατη η πολλαπλή λήψη ενώ είναι ενεργοποιημένη η λήψη ήχου</string>
     <string name="toast_saving">Αποθήκευση φωτογραφιών…</string>
     <string name="toast_start_audio_capture">Κάντε έναν ήχο για λήψη φωτογραφίας</string>
+    <string name="too_low_battery">Χαμηλή μπαταρία</string>
     <string name="ubi_focus_capture_fail">Αδύνατη η λήψη φωτογραφίας</string>
     <string name="ubifocus_capture_warning_message">Για καλύτερα αποτελέσματα, θα πρέπει να είναι τα αντικείμενα κοντά (λιγότερο από 1 μέτρο από το φακό).</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD ανενεργή</string>
@@ -1780,6 +1805,7 @@
     <string name="video_effect_entry_summer_day_describe">Η χαμηλή αντίθεση και οι φωτεινοί τόνοι αποδίδουν καλά όταν πρέπει να διατηρήσετε τους τόνους του δέρματος. Αυτό το φίλτρο είναι κατάλληλο για ηλιόλουστες εξωτερικές σκηνές.</string>
     <string name="video_effect_entry_wind_sing">Άνεμος</string>
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
+    <string name="video_low_battery_tip_content">Χαμηλότερος ρυθμός καρέ λόγω χαμηλής μπαταρίας</string>
     <string name="video_overheat_tip_content">Φαίνεται ότι η συσκευή σας είναι πολύ ζεστή. Δοκιμάστε τη λήψη βίντεο σε χαμηλότερη ανάλυση.</string>
     <string name="video_reach_size_limit">Μέγιστο όριο μεγέθους.</string>
     <string name="video_shortcut_long">Βίντεο</string>
@@ -1793,6 +1819,7 @@
     <string name="vv_hint">Μπορείτε τη λήψη vlogs μόνο σε οριζόντια λειτουργία</string>
     <string name="vv_mode_menu_item_name">VLOG</string>
     <string name="vv_stability_hint">Κρατήστε τη συσκευή σας σταθερή</string>
+    <string name="vv_stability_newTip">Αποθήκευση στοιχείων…</string>
     <string name="vv_start">Λήψη vlog</string>
     <string name="vv_use_hint_text_body">Η λειτουργία Vlog σας επιτρέπει\nτην εγγραφή και επεξεργασία βίντεο εν κινήσει</string>
     <string name="vv_use_hint_text_title">VLOG</string>
@@ -1811,4 +1838,13 @@
     <string name="wideselfie_rotate_to_front">Κλίση της συσκευής εμπρός</string>
     <string name="wideselfie_rotate_to_left_slowly">Περιστρέψτε προς τα αριστερά</string>
     <string name="wideselfie_rotate_to_right_slowly">Περιστρέψτε προς τα δεξιά</string>
+    <string name="widget_camera_filter_description">Τέσσερα σετ φίλτρων Leica</string>
+    <string name="widget_camera_filter_talk_back">Φίλτρα Leica</string>
+    <string name="widget_camera_label">Φίλτρα Leica</string>
+    <string name="widget_camera_lens_35mm_description">Τριανταπέντε χιλιοστά</string>
+    <string name="widget_camera_lens_50mm_description">Πενήντα χιλιοστά</string>
+    <string name="widget_camera_lens_90mm_description">Ενενήντα χιλιοστά</string>
+    <string name="widget_camera_lens_description">Πειραματιστείτε με την εστιακή απόσταση</string>
+    <string name="widget_camera_lens_none_description">Φακός πενήντα χιλιοστών για πορτρέτα</string>
+    <string name="widget_camera_lens_talk_back">Φακοί Pro</string>
 </resources>

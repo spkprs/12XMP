@@ -29,6 +29,7 @@
     <string name="doc_photo_enhance_undistortion">Αντι-Παραμόρφωση</string>
     <string name="doc_photo_enhance_undistortion_desc">Διόρθωση παραμόρφωσης εικόνας</string>
     <string name="doc_photo_enhance_undistortion_version4">Ίσιωμα</string>
+    <string name="doc_photo_enter_hand_remove">Πατήστε για να διαγράψετε χειροκίνητα</string>
     <string name="doc_photo_handwrite_recover">Επαναφορά</string>
     <string name="doc_photo_handwrite_remove">Διαγραφή</string>
     <string name="doc_photo_idcard_alert_msg">Απόρριψη όλων των αλλαγών και έξοδος από την επεξεργασία;</string>
@@ -38,6 +39,7 @@
     <string name="doc_photo_no_remind">"Μην εμφανιστεί ξανά"</string>
     <string name="doc_photo_not_save">"Χωρίς αποθήκευση"</string>
     <string name="doc_photo_not_support">"Αδύνατη η επεξεργασία αυτής της εικόνας ως εγγράφου"</string>
+    <string name="doc_photo_remind">Προσοχή</string>
     <string name="doc_photo_save_effect_toast">Αποθήκευση αλλαγών;</string>
     <string name="doc_photo_toast_undistortion_close">Αντι-Παραμόρφωση Ανενεργή</string>
     <string name="doc_photo_toast_undistortion_open">Αντι-Παραμόρφωση Ενεργή</string>
