@@ -2034,6 +2034,7 @@
     <string name="gb_not_support_on_device">"Αυτή η εφαρμογή δεν μπορεί να χρησιμοποιηθεί στην εξωτερική οθόνη"</string>
     <string name="gb_operat_frequently">Όχι τόσο γρήγορα!</string>
     <string name="gb_performance_balance">Κανονική</string>
+    <string name="gb_performace_guide_disable_desc"><Data>"Δεν μπορείτε να μεταβείτε σε κατάσταση ισορροπημένης λειτουργίας στο Game Turbo όταν είναι ενεργοποιημένη η κατάσταση επιδόσεων σε όλο το σύστημα. Μπορείτε να αλλάξετε τις ρυθμίσεις της μπαταρίας στην Ασφάλεια.&lt;br>&lt;a href=\"#\">Άνοιγμα Ασφάλειας&lt;/a>"</Data></string>
     <string name="gb_performance_balance_tips">Η ισορροπημένη λειτουργία εξοικονομεί ενέργεια\nενώ μειώνει το ρυθμό ανανέωσης και τα όρια θερμοκρασίας</string>
     <string name="gb_performance_high">Απόδοση</string>
     <string name="gb_performance_mode">Λειτ. παιχνιδιών</string>

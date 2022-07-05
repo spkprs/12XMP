@@ -1228,6 +1228,7 @@
     <string name="location">Περιοχή</string>
     <string name="lodgings_disable">Καταλύματα ανενεργά</string>
     <string name="lodgings_enable">Καταλύματα ενεργά</string>
+    <string name="low_battery_flash_when_ring_button_tip">"Αδύνατη η χρήση φλας κατά το κουδούνισμα λόγω χαμηλής μπαταρίας"</string>
     <string name="lte_band_sel_setting">λίστα ζωνών</string>
     <string name="lte_band_set_status">lte ορισμός ζωνών</string>
     <string name="lte_freq_set_button">ορισμός συχν. και pci</string>

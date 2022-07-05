@@ -564,7 +564,7 @@
     <string name="context_menu_copy">Αντιγραφή</string>
     <string name="context_menu_copy_notice">Αντιγράφτηκε στο πρόχειρο</string>
     <string name="continue_feedback">Πρόσθετα σχόλια</string>
-    <string name="copy">Copy</string>
+    <string name="copy">Αντιγραφή</string>
     <string name="correct_photo_time">Διορθώστε ημερομηνία και ώρα για τις φωτογραφίες</string>
     <string name="correct_time_success">Διορθώθηκε με επιτυχία</string>
     <string name="correct_time_tip">Διόρθωση ημερομηνίας και ώρας…</string>
@@ -641,11 +641,13 @@
     <string name="document_provider_guide_step_3">%d. Πατήστε το πλήκτρο πλευρικού μενού.</string>
     <string name="document_provider_guide_step_4">%d. Επιλέξτε \"SD card\".</string>
     <string name="document_provider_guide_step_5">%d. Πατήστε \"Επιλογή\".</string>
+    <string name="dolby_vision_icon">Εικονίδιο Dolby Vision</string>
     <string name="doodle_paint_select_heavy_talkback">Παχύ</string>
     <string name="doodle_paint_select_light_talkback">Λεπτό</string>
     <string name="doodle_paint_select_medium_talkback">Κανονικό</string>
     <string name="doodle_paint_select_talkback">Πλάτος περιγράμματος</string>
     <string name="double_tap_for_hr_preview_108m">Διπλό άγγιγμα για μετάβαση σε προεπισκόπηση 108MP</string>
+    <string name="double_tap_for_hr_preview_200m">Διπλό πάτημα ξανά για να μεταβείτε στην προεπισκόπηση 200MP</string>
     <string name="double_tap_to_higher_definition">Διπλό άγγιγμα για μετάβαση σε προεπισκόπηση HD</string>
     <string name="download_canceled">Η λήψη ακυρώθηκε</string>
     <string name="download_delete_error_desc">"Αδύνατη η επαναφορά του στοιχείου επειδή το διαγράψατε από τη συσκευή και το Cloud. Αφαίρεση κενόυ αρχείου;"</string>
@@ -1091,7 +1093,7 @@
     <string name="functions_are_being_developed">Αυτή η δυνατότητα θα είναι σύντομα διαθέσιμη. Μείνετε συντονισμένοι!</string>
     <string name="gallery_setting">Ρυθμίσεις</string>
     <string name="gallery_sync_disable_toast">Ο συγχ/σμός για το Άλμπουμ είναι ανενεργός</string>
-    <string name="generate_story_summary">Τραβήξτε αρκετές φωτογραφίες, συνδέστε το φορτιστή και απενεργοποιήστε την οθόνη για να εμφανιστούν οι Αναμνήσεις</string>
+    <string name="generate_story_summary">"Τραβήξτε αρκετές φωτογραφίες, συνδέστε το φορτιστή και απενεργοποιήστε την οθόνη για να εμφανιστούν οι αναμνήσεις. Οι αναμνήσεις που έχουν ήδη δημιουργηθεί δεν θα εξαφανιστούν αν απενεργοποιήσετε αυτή τη λειτουργία."</string>
     <string name="generate_story_title">Αναμνήσεις</string>
     <string name="get_album_info_in_process">Αναζήτηση πληροφοριών κοινόχρηστου άλμπουμ. Παρακαλώ περιμένετε…</string>
     <string name="gif_tip">GIF</string>
@@ -1145,6 +1147,7 @@
     <string name="homepage_allphotos_tip_dialog_title">Ποιες εικόνες θα θέλατε να δείτε στις \"Φωτογραφίες\";</string>
     <string name="how_to_set_relation">Πατήστε &amp; και κρατήστε ένα άλμπουμ για να δημιουργήσετε μια ομάδα</string>
     <string name="hr_preview_108m">Αλλαγή σε προεπισκόπηση 108MP</string>
+    <string name="hr_preview_200m">Εναλλαγή σε προεπισκόπηση 200MP</string>
     <string name="hybrid_check_network">Ρυθμίσεις δικτύου</string>
     <string name="hybrid_data_error">Παρουσιάστηκε σφάλμα</string>
     <string name="hybrid_locating_fail">Αδυναμία εύρεσης της τοποθεσίας σας</string>
@@ -1190,6 +1193,8 @@
     <string name="input_or_select_a_name">Εισάγετε ή επιλέξτε ένα όνομα</string>
     <string name="input_relation_name">Εισάγετε το όνομα της ομάδας</string>
     <string name="install_fail">Αδύνατη η φόρτωση της προσθήκης λόγω σφάλματος.</string>
+    <string name="install_media_editor_download_description">Λήψη…</string>
+    <string name="install_media_editor_download_title">Λήψη του πρόσθετου Gallery Editor…</string>
     <string name="install_media_editor_function_message">Κάνετε Λήψη της τελευταίας έκδοσης του Gallery Editor για χρήση του \"%1$s\".</string>    
     <string name="install_media_editor_latest_message">Για να επεξεργαστείτε στοιχεία, κατεβάστε πρώτα το πιο πρόσφατο πρόσθετο.</string>
     <string name="install_media_editor_message">Για να επεξεργαστείτε στοιχεία, πραγματοποιήστε λήψη πρώτα της προσθήκης. Λήψη τώρα;</string>
@@ -1958,6 +1963,7 @@
     <string name="play_gif_desc">Αναπαραγωγή GIF</string>
     <string name="play_video_desc">Αναπαραγωγή Βίντεο</string>
     <string name="pm">ΜΜ</string>
+    <string name="pref_today_of_year_summary">"Θυμηθείτε τις στιγμές που απαθανατίσατε αυτή τη μέρα όλα αυτά τα χρόνια. Οι αναμνήσεις που έχουν ήδη δημιουργηθεί δεν θα εξαφανιστούν αν απενεργοποιήσετε αυτή τη λειτουργία."</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="prepare_to_drop">Αποθήκευση σε %s</string>
     <string name="preparing_data">Μισό λεπτό…</string>
@@ -2239,6 +2245,8 @@
     <string name="select_item_face">Στις φωτογραφίες μπορεί να είναι \'%s\'</string>
     <string name="select_origin_tip">Αρχικό αρχείο (%s)</string>
     <string name="send">Αποστολή</string>
+    <string name="send_dolby_vision_duration_more_than_40s">Τα βίντεο Dolby Vision διάρκειας μεγαλύτερης των 4 λεπτών μπορούν να κοινοποιηθούν μόνο στην αρχική τους μορφή βίντεο. Συνέχεια;</string>
+    <string name="send_dolby_vision_video_continue">Συνέχεια</string>
     <string name="send_file_beautify_failed">Αδύνατη η Κοινή χρήση</string>
     <string name="send_files_by">Αποστολή αρχείων μέσω</string>
     <string name="send_files_to">Αποστολή στοιχείων προς</string>
@@ -2648,6 +2656,8 @@
     <string name="today">Σήμερα</string>
     <string name="today_of_year">Αυτή την ημέρα</string>
     <string name="today_of_year_empty_tip">Δεν υπάρχουν αναμνήσεις εδώ ακόμα</string>
+    <string name="today_of_year_function_closed_btn_tip">Ενεργοποίηση</string>
+    <string name="today_of_year_function_closed_tip">"Δεν έχετε ενεργοποιήσει ακόμα το \"Αυτή την ημέρα\""</string>
     <string name="today_of_year_location_num">Τοποθεσίες</string>
     <string name="today_of_year_photo_num">Φωτογραφίες</string>
     <string name="tomorrow">Αύριο</string>

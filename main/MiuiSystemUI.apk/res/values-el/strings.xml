@@ -728,6 +728,9 @@
     <string name="device_locked_without_biometric_face">"Δεν είναι δυνατό το ξεκλείδωμα αυτής της συσκευής με δεδομένα προσώπου όταν χρησιμοποιείτε κλείδωμα οθόνης τρίτου κατασκευαστή"</string>
     <string name="device_locked_without_biometric_finger">"Δεν είναι δυνατό το ξεκλείδωμα αυτής της συσκευής με δακτυλικά αποτυπώματα όταν χρησιμοποιείτε κλείδωμα οθόνης τρίτου κατασκευαστή"</string>
     <string name="device_services">Υπηρεσίες συσκευής</string>
+    <string name="dialog_forget_password_cancel">Ακύρωση</string>
+    <string name="dialog_forget_password_message">Αν ξεχάσατε τον κωδικό PUK, μπορείτε να απενεργοποιήσετε αυτή την eSIM για να μην χάσετε την πρόσβαση στη συσκευή σας. Μετά από αυτό, μπορείτε να επικοινωνήσετε με τον φορέα σας για να λάβετε βοήθεια.</string>
+    <string name="dialog_forget_password_ok">Απενεργοποίηση</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Σημείωση: Μετά από μια επανεκκίνηση, αυτή η εφαρμογή δεν μπορεί να ξεκινήσει μέχρι να ξεκλειδώσετε το τηλέφωνό σας.</string>
     <string name="disable_carrier_button_text">Απενεργοποίηση eSIM</string>
@@ -871,6 +874,7 @@
     <string name="force_rtl_layout_all_locales_summary">Επιβολή κατεύθυνση διάταξης οθόνης σε RTL για όλες τις γλώσσες</string>
     <string name="forced_resizable_secondary_display">Η εφαρμογή ενδέχεται να μην λειτουργεί σε δευτερεύουσα οθόνη.</string>
     <string name="forget_password_string">Ξέχασα τον κωδικό</string>
+    <string name="forget_password_string_for_esim"><u>Ξέχασα τον κωδικό PUK</u></string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>

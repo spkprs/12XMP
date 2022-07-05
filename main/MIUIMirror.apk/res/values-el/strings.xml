@@ -31,6 +31,8 @@
     <string name="actionbar_button_up_description">Πίσω</string>
     <string name="afternoon">Απόγευμα</string>
     <string name="app_name">MIUI+</string>
+    <string name="app_no_storage_permission">Επιτρέψτε στο %1$s να έχει πρόσβαση στον αποθηκευτικό χώρο στις Ρυθμίσεις > Εφαρμογές > %2$s > Δικαιώματα πρώτα</string>
+    <string name="app_opened_in_new_window">Άνοιγμα αυτή την εφαρμογή σε νέο παράθυρο</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cast_mcc_tips_button_cancel">Αγνόηση</string>
     <string name="cast_mcc_tips_button_ok">Ρυθμίσεις</string>
@@ -260,6 +262,7 @@
     <string name="screen_num_over_limit">"Δεν μπορείτε να ανοίξετε περισσότερα παράθυρα"</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="send">Αποστολή</string>
+    <string name="settings_bluetooth_enable_summary">Ενεργοποιήστε το Bluetooth για να μπορείτε να βρίσκετε συσκευές σε κοντινή απόσταση. Ενεργοποίηση τώρα;</string>
     <string name="settings_connect">Πώς να συνδεθείτε</string>
     <string name="settings_connect_more_help"><u>Βοήθεια</u></string>
     <string name="settings_connect_pc_group">Εργασία με τον υπολογιστή</string>
@@ -286,6 +289,7 @@
     <string name="settings_feature_multi_window_title">Άνοιγμα πολλών παραθύρων</string>
     <string name="settings_feature_pc_edit_files_summary">Κάντε δεξί κλικ στα στοιχεία της Συλλογής ή της Διαχείρισης αρχείων για να τα επεξεργαστείτε στον υπολογιστή σας.</string>
     <string name="settings_feature_pc_edit_files_title">Επεξεργαστείτε στοιχεία από το τηλέφωνό σας στον υπολογιστή σας</string>
+    <string name="settings_handoff_enable_bluetooth">Ενεργοποιήστε το Bluetooth για να βρείτε συσκευές σε κοντινή απόσταση</string>    
     <string name="settings_history">Ιστορικό σύνδεσης</string>
     <string name="settings_history_clear">Εκκαθάριση</string>
     <string name="settings_history_clear_dialog_title">Εκκαθάριση ιστορικού?</string>
