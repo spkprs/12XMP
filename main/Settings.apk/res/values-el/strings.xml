@@ -2712,7 +2712,7 @@
     <string name="face_data_input_structure_title">Δεδομένα προσώπου 3D</string>
     <string name="face_data_input_title">Προσθ. δεδομ. προσώπου</string>
     <string name="face_data_introduction_add">Έναρξη</string>
-    <string name="face_data_introduction_msg">Τα δεδομένα προσώπου μπορούν να χρησιμοποιηθούν για να ξεκλειδώσετε τη συσκευή σας ή να επαληθεύσετε την ταυτότητά σας. Προσθέστε τον κωδικό πρόσβασης οθόνης κλειδώματος πριν προσθέσετε τα δεδομένα προσώπου σας.</string>
+    <string name="face_data_introduction_msg">Τα δεδομένα προσώπου μπορούν να χρησιμοποιηθούν για να ξεκλειδώσετε τη συσκευή σας ή να επαληθεύσετε την ταυτότητά σας.\nΠροσθέστε ένα κλείδωμα οθόνης πριν προσθέσετε τα δεδομένα προσώπου σας.</string>
     <string name="face_data_introduction_next">Επόμενο</string>
     <string name="face_data_introduction_title">Αναγνώριση προσώπου</string>
     <string name="face_data_manage_delete">Διαγραφή δεδομένων προσώπου;</string>
@@ -2726,7 +2726,7 @@
     <string name="face_data_siggesstion_next_time">Επόμενο (%ds)</string>
     <string name="face_data_suggesstion_first">Το ξεκλείδωμα προσώπου είναι λιγότερο ασφαλές από ένα PIN, κωδικό πρόσβασης ή μοτίβο. Η συσκευή σας μπορεί να ξεκλειδωθεί με τη φωτογραφία σας, καθώς και από άτομα ή αντικείμενα με παρόμοια εμφάνιση.</string>
     <string name="face_data_suggesstion_first_cn">Για χρήση του Ξεκλείδωμα Προσώπου, πρέπει να συλλέξουμε τα δεδομένα του προσώπου σας. Αυτά θα αποθηκευτούν τοπικά σε αυτή τη συσκευή. Για να τα διαγράψετε, αναζητήστε \"Ξεκλείδωμα προσώπου\" στις Ρυθμίσεις και, στη συνέχεια, επιλέξτε Ξεκλείδωμα προσώπου > Δεδομένα προσώπου.</string>
-    <string name="face_data_suggesstion_first_cn_highlight">Το Ξεκλείδωμα Προσώπου είναι λιγότερο ασφαλές από το PIN, τον κωδικό πρόσβασης ή το μοτίβο. Η συσκευή σας μπορεί να ξεκλειδωθεί με τη φωτογραφία σας, καθώς και από άτομα ή αντικείμενα με παρόμοια εμφάνιση.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">Το ξεκλείδωμα προσώπου είναι λιγότερο ασφαλές από το PIN, τον κωδικό πρόσβασης, το μοτίβο ή το δακτυλικό αποτύπωμα. Η συσκευή σας ενδέχεται να ξεκλειδωθεί με τη φωτογραφία σας, καθώς και από άτομα ή αντικείμενα με παρόμοια εμφάνιση.</string>
     <string name="face_data_suggesstion_second">"Βεβαιωθείτε ότι όλα τα μέρη του προσώπου σας είναι ορατά. Μην φοράτε αξεσουάρ που θα μπορούσαν να το καλύψουν. Κρατήστε το ομοιόμορφα φωτισμένο και αποφύγετε το σημειακό φως."</string>
     <string name="face_intro_error_max">Προσθέσατε τον μέγιστο αριθμό προσώπων</string>
     <string name="face_intro_error_unknown">Αδύνατη η προσθήκη περισσότερων προσώπων</string>
@@ -2818,6 +2818,7 @@
     <string name="finger_add_user_info_dialog_message">"Για χρήση του Ξεκλείδωμα με Δακτυλικό αποτύπωμα και να κάνετε πληρωμές με αυτό, πρέπει να το συλλέξουμε. Αυτό θα αποθηκευτεί τοπικά σε αυτή τη συσκευή. Για να το διαγράψετε, αναζητήστε \"Ξεκλείδωμα δακτυλικών αποτυπωμάτων\" στις Ρυθμίσεις και, στη συνέχεια, επιλέξτε Ξεκλείδωμα δακτυλικών αποτυπωμάτων > Δακτυλικό αποτύπωμα. Δεν θα μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία αν δεν συμφωνείτε."</string>
     <string name="finger_add_user_info_dialog_next">Συμφωνώ</string>
     <string name="finger_add_user_info_dialog_title">Προσοχή</string>
+    <string name="finger_detail_info_text">Αλλαγή ονομασίας Δακτ. αποτυπώματος</string>
     <string name="fingerprint_add_max">Μπορείτε να προσθέσετε έως και %d δακτυλικά αποτυπώματα</string>
     <string name="fingerprint_add_title">Προσθήκη δακτυλικού αποτυπώματος</string>
     <string name="fingerprint_and_password_entrance_title">Κωδικός &amp; Δακτυλικό αποτύπωμα</string>
@@ -3907,7 +3908,7 @@
     <string name="lockpassword_choose_your_password_header_for_face">Για να χρησιμοποιήσετε τον έλεγχο ταυτότητας προσώπου, ορίστε τον κωδικό πρόσβασης</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">Για να χρησιμοποιήσετε δακτυλικό αποτύπωμα, ορίστε κωδικό πρόσβασης</string>
     <string name="lockpassword_choose_your_password_message">Για ασφάλεια, ορίστε κωδικό πρόσβασης</string>
-    <string name="lockpassword_choose_your_password_second_space">Ορίστε PIN για το Δεύτερο προφίλ.\n Το PIN πρέπει να  περιέχει τόσα ψηφία\n όσα είναι το PIN του Πρώτου προφίλ</string>
+    <string name="lockpassword_choose_your_password_second_space">Ορισμός κωδικού\nγια τον Δεύτερο χώρο</string>
     <string name="lockpassword_choose_your_pattern_header">Επιλέξτε το μοτίβο σας</string>
     <string name="lockpassword_choose_your_pattern_header_for_face">Για να χρησιμοποιήσετε τον έλεγχο ταυτότητας προσώπου, ορίστε μοτίβο</string>
     <string name="lockpassword_choose_your_pattern_header_for_fingerprint">Για να χρησιμοποιήσετε δακτυλικό αποτύπωμα, ορίστε μοτίβο</string>
@@ -3915,7 +3916,7 @@
     <string name="lockpassword_choose_your_pin_header">Επιλέξτε το PIN σας</string>
     <string name="lockpassword_choose_your_pin_header_for_face">Για να χρησιμοποιήσετε τον έλεγχο ταυτότητας προσώπου, ορίστε το PIN</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">Για να χρησιμοποιήσετε δακτυλικό αποτύπωμα, ορίστε το PIN</string>
-    <string name="lockpassword_choose_your_pin_header_second_space">Ορίστε PIN \n για το Δεύτερο προφίλ</string>
+    <string name="lockpassword_choose_your_pin_header_second_space">Ρύθμιση PIN\nγια τον Δεύτερο χώρο.\nΘα πρέπει να έχει το ίδιο μήκος με το PIN του Πρώτου χώρου.</string>
     <string name="lockpassword_choose_your_pin_message">Για ασφάλεια, ορίστε το PIN</string>
     <string name="lockpassword_choose_your_pin_title">Εισάγετε %1$d-%2$d ψηφία</string>
     <string name="lockpassword_choose_your_screen_lock_header">Ορισμός κλειδώματος οθόνης</string>
@@ -3987,7 +3988,7 @@
     <string name="lockpattern_recording_inprogress">Αφήστε το δάχτυλό σας όταν τελειώσετε</string>
     <string name="lockpattern_recording_intro_footer">Πατήστε Μενού για βοήθεια</string>
     <string name="lockpattern_recording_intro_header">Σχεδιάστε ένα μοτίβο ξεκλειδώματος</string>
-    <string name="lockpattern_recording_intro_header_second_space">Σχεδιάστε το μοτίβο ξεκλειδώματος του Δεύτερου προφίλ:</string>
+    <string name="lockpattern_recording_intro_header_second_space">Σχεδιάστε ένα μοτίβο ξεκλειδώματος για το δεύτερο χώρο.\nΣυνδέστε τουλάχιστον 4 τελείες.</string>
     <string name="lockpattern_restart_button_text">Επανασχεδίαση</string>
     <string name="lockpattern_retry_button_text">Επανάληψη</string>
     <string name="lockpattern_settings_change_lock_pattern">Αλλαγή μοτίβου ξεκλειδώματος</string>
@@ -5198,7 +5199,7 @@
     <string name="owner_space">Πρώτο προφίλ</string>
     <string name="p2p_summary_enable_GPS">Αυτό λειτουργεί όταν οι υπηρεσίες τοποθεσίας είναι ενεργοποιημένες</string>
     <string name="packages_subtitle">Περιλαμβανόμενα πακέτα</string>
-    <string name="pad_add_fingerprint_finish_message">Πατήστε \"Τέλος\" για πρόσθετες ρυθμίσεις</string>
+    <string name="pad_add_fingerprint_finish_message">Συνεχίστε για να αποκτήσετε πρόσβαση σε πρόσθετες ρυθμίσεις.</string>
     <string name="pad_add_fingerprint_message">Αγγίξτε το δάκτυλό σας στο κουμπί Power</string>
     <string name="pad_backup_summary">Αντίγραφα και Επαναφορά στοιχείων σε αυτήν τη συσκευή</string>
     <string name="pad_backup_title">Κινητή συσκευή</string>
