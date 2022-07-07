@@ -128,7 +128,7 @@
 	<string name="cloud_backup_detail_frequence_every_7_day">Κάθε %d ημ.</string>
 	<string name="cloud_backup_detail_frequence_every_day">Κάθε %d ημ.</string>
 	<string name="cloud_backup_detail_header_msg">"Τώρα μπορείτε να δημιουργήσετε αντίγραφα, διάταξης, αρχικής οθόνης, εφαρμογές, ρυθμίσεων συστήματος και δεδομένων WeChat.. &lt;font color=#0D84FF>&lt;a href=>Πατήστε για περισσότερα.&lt;/a>&lt;/font>"</string>
-	<string name="cloud_backup_detail_local_backup_size">Μέγεθος αντιγράφου: %s</string>
+	<string name="cloud_backup_detail_local_backup_size">Εκτιμώμενο μέγεθος αντιγράφου: %s</string>
 	<string name="cloud_backup_detail_manage">"Διαχείριση αντιγράφων "</string>
 	<string name="cloud_backup_detail_no_time">Δεν υπάρχει αρχείο αντίγραφο</string>
 	<string name="cloud_backup_detail_state">Αντίγραφα Ασφαλείας στο Xiaomi Cloud</string>

@@ -263,7 +263,7 @@
     <string name="enabled_5g_mode_title">Ενεργ/ση 5G</string>
     <string name="enhanced_connectivity">Βελτιωμένη συνδεσιμότητα</string>
     <string name="enhanced_connectivity_summary">Επιτρέπει τη λειτουργία Βελτιωμένης συνδεσιμότητας.</string>
-    <string name="ethernet_tether_checkbox_text">Σύνδεση Ethernet</string>
+    <string name="ethernet_tether_checkbox_text">Κοινή χρήση μέσω Ethernet</string>
     <string name="ethernet_tethering_subtext">Μοιραστείτε τη σύνδεση του τηλεφώνου στο διαδίκτυο μέσω USB Ethernet</string>
     <string name="exceptional_case">Εξαιρέσεις</string>
     <string name="external_ram_dialog_icon_confirm">Κατανοητό</string>

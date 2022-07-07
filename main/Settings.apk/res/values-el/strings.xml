@@ -4285,6 +4285,7 @@
     <string name="miheadset_double_connection_summary">Όταν ενεργοποιείτε αυτή τη λειτουργία, μπορείτε να απαντάτε σε κλήσεις ή να αναπαράγετε ήχο ή βίντεο και στις δύο συνδεδεμένες συσκευές χωρίς να χρειάζεται να κάνετε χειροκίνητη εναλλαγή.</string>
     <string name="miheadset_double_press_left">Διπλό πάτημα αριστερού ακουστικού</string>
     <string name="miheadset_double_press_right">Διπλό πάτημα δεξιού ακουστικού</string>
+    <string name="miheadset_double_toast">Βάλτε και τα δύο ακουστικά για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
     <string name="miheadset_dual_connect_mode">Σύνδεση σε δύο συσκευές</string>
     <string name="miheadset_dual_connect_mode_summary">Ενεργοποιήστε το για σύνδεση των ακουστικών σας σε δύο συσκευές Bluetooth ταυτόχρονα</string>
     <string name="miheadset_enhence_high">Βελτιωμένα πρίμα</string>

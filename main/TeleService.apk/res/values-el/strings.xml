@@ -1398,7 +1398,7 @@
     <string name="msim_setting_sim_info_editor_title">Επεξεργασία πληροφοριών SIM</string>
     <string name="msim_sim_lock">Κλειδωμένο</string>
     <string name="msim_sim_radio_off">Απενεργοποιημένη</string>
-    <string name="msim_switch_data_conn_toast">Βεβαιωθείτε για την κανονική είσοδο στο Internet, επιλέξατε ως προτιμώμενο δίκτυο το 4G (προτίμηση 3G ), μπορείτε να το αλλάξετε στις πληροφ. SIM.</string>
+    <string name="msim_switch_data_conn_toast">Εναλλαγή καρτών SIM. Ο τύπος δικτύου έχει αλλάξει.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Η υποδοχή κάρτας SIM 2 υποστηρίζει μόνο δίκτυα GSM. Προτιμώμενος τύπος δικτύου για αυτή την υποδοχή έχει αλλάξει σε \"μόνο 2G\".</string>
     <string name="mtn_simlock_text_tip">Η τοποθετημένη κάρτα SIM δεν πληροί τις απαιτήσεις. Πρέπει να τοποθετήσετε μια κάρτα SIM που απαιτείται από το συμβόλαιο πριν χρησιμοποιήσετε το τηλέφωνο. Για λεπτομέρειες, παρακαλούμε επικοινωνήστε με τον τοπικό φορέα σας.</string>
     <string name="multi_category_disable">Πολλαπλών κατηγοριών ανενεργό</string>
