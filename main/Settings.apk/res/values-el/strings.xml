@@ -8005,9 +8005,9 @@
     <string name="virtual_sim_global_description">Συνδεθείτε σε δίκτυο δεδομένων χωρίς κάρτα SIM</string>
     <string name="virtual_sim_global_title">Υπηρεσία δεδομένων κινητής</string>
     <string name="virtual_sim_title">Δίκτυο περιαγωγής δεδομένων</string>
-    <string name="virtual_surround_sound_switch_summary">"Εμπλουτισμένο βάθος ήχου για αναπαραγωγή ήχου και βίντεο σε ακουστικά (Αυτή η λειτουργία δεν θα λειτουργήσει όταν αναπαράγεται ήχος %.1f)"</string>
+    <string name="virtual_surround_sound_switch_summary">Εμπλουτισμένο βάθος ήχου για αναπαραγωγή ήχου και βίντεο σε ακουστικά</string>
     <string name="virtual_surround_sound_switch_summary_global">"Εμπλουτισμένο βάθος ήχου για αναπαραγωγή ήχου και βίντεο σε ακουστικά. Αυτή η λειτουργία δεν θα λειτουργήσει όταν το LDAC είναι ενεργοποιημένο."</string>
-    <string name="virtual_surround_sound_switch_title">Εντυπωσιακός ήχος</string>
+    <string name="virtual_surround_sound_switch_title">Εντυπωσιακά ηχητικά εφέ</string>
     <string name="virus_scan">Σάρωση ιών</string>
     <string name="virus_scan_app_continue">Συνέχεια σάρωσης</string>
     <string name="virus_scan_app_finish">Ολοκληρώθηκε</string>
