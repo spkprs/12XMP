@@ -208,7 +208,7 @@
     <string name="permdesc_read_contacts">Επιτρέπετε στο %1$s να έχει πρόσβαση στις επαφές;</string>
     <string name="permdesc_read_mms">Επιτρέπετε στο %1$s να διαβάζει μηνύματα πολυμέσων;</string>
     <string name="permdesc_read_phone_state">Επιτρέπετε στο %1$s να έχει πρόσβαση στην κατάσταση της συσκευής και σε πληροφορίες δικτύου κινητής τηλεφωνίας;</string>
-    <string name="permdesc_read_sms">Επιτρέπετε στο %1$s να διαβάζει ή να στέλνει μηνύματα κειμένου και πολυμέσων;</string>
+    <string name="permdesc_read_sms">Επιτρέπετε στο %1$s να διαβάζει μηνύματα κειμένου και πολυμέσων;</string>
     <string name="permdesc_read_storage">Επιτρέπετε στο %1$s να έχει πρόσβαση σε αρχεία και φωτογραφίες σε αυτή τη συσκευή;</string>
     <string name="permdesc_recognition">Επιτρέπετε στην %1$s να έχει πρόσβαση στις πληροφορίες δραστηριότητάς σας;</string>
     <string name="permdesc_send_sms">Επιτρέπετε στο %1$s να στέλνει μηνύματα κειμένου;</string>
