@@ -115,6 +115,7 @@
 	<string name="cloud_back_up_frequence_short">Καθημερινά</string>
 	<string name="cloud_back_up_no_network_warn">Αδυναμία σύνδεσης στο δίκτυο</string>
 	<string name="cloud_back_up_ok_btn">OK</string>
+    <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Δημιουργήστε αντίγραφα της διάταξης της αρχικής οθόνης, λίστας εφαρμογών και ρυθμίσεων του συστήματος. &lt;font color=#0D84FF>&lt;a href=>Περισσότερα&lt;/a>&lt;/font>."</string>
 	<string name="cloud_back_up_opening">Μισό λεπτό…</string>
 	<string name="cloud_back_up_subscribe_vip_confirm">Αναβάθμιση</string>
 	<string name="cloud_back_up_subscribe_vip_discription">Αποκτήστε περισσότερο χώρο αποθήκευσης, καθημερινά αντίγραφα, και πολλά άλλα.</string>

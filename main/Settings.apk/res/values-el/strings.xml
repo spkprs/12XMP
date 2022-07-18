@@ -1504,6 +1504,7 @@
     <string name="captioning_window_opacity">Αδιαφάνεια λεζάντας παραθύρου</string>
     <string name="capture_system_heap_dump_title">Σύλληψη system heap συστήματος</string>
     <string name="capturing_system_heap_dump_message">Σύλληψη system heap συστήματος</string>
+    <string name="card_holder_header_title">Πορτοφόλι</string>
     <string name="card_main_hbassistant_title">Κόκκινος φάκελος; Κόκκινο πακέτο; Χρήματα</string>
     <string name="carrier">Φορέας</string>
     <string name="carrier_and_update_now_text">Ενημερώθηκε από ^1 μόλις τώρα</string>

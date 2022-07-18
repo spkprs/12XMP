@@ -458,7 +458,9 @@
     <string name="pause_download">Σε παύση</string>
     <string name="pause_upload">Σε παύση</string>
     <string name="permission_account_desc">Πρόσβαση σε όλους τους λογαριασμούς που είναι αποθηκευμένοι σε αυτή τη συσκευή</string>
+    <string name="permission_account_desc_pad">Πρόσβαση σε όλους τους λογαριασμούς που είναι αποθηκευμένοι στη συσκευή</string>
     <string name="permission_account_title">Λογαριασμοί</string>
+    <string name="permission_account_title_pad">Πρόσβαση σε λογαριασμούς</string>
     <string name="permission_accpeted">Παραχωρήθηκε</string>
     <string name="permission_camera_desc">Λήψη φωτογραφιών και δημιουργία βίντεο</string>
     <string name="permission_camera_title">Κάμερα</string>
@@ -466,7 +468,9 @@
     <string name="permission_phone_desc">Πρόσβαση στον αριθμό τηλεφώνου και την κατάσταση της συσκευής</string>
     <string name="permission_phone_title">Πληροφορίες συσκευής</string>
     <string name="permission_storage_desc">Πρόσβαση και αποθήκευση φωτογραφιών και αρχείων σε αυτή τη συσκευή</string>
+    <string name="permission_storage_desc_pad">Πρόσβαση σε φωτογραφίες και αρχεία στη συσκευή</string>
     <string name="permission_storage_title">Χώρος αποθήκευσης</string>
+    <string name="permission_storage_title_pad">Πρόσβαση σε Αποθήκευση</string>
     <string name="phone_bind_too_many">Αυτό το τηλέφωνο έχει συσχετιστεί με πολλούς λογαριασμούς Mi σε σύντομο χρονικό διάστημα. Δοκιμάστε να χρησιμοποιήσετε έναν άλλο αριθμό τηλεφώνου.</string>
     <string name="phone_hint">Αριθμός τηλεφώνου</string>
     <string name="phone_num_use_for">Ο αριθμός τηλεφώνου χρησιμοποιείται για:</string>
