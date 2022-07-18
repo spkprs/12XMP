@@ -493,6 +493,7 @@
     <string name="mi_wallpaper">MIUI Θέματα</string>
     <string name="minus_one_screen">Προσωπικός Βοηθός</string>
     <string name="miui_screen_config_title">Ρυθμίσεις Αρχικής οθόνης</string>
+	<string name="miui_widget_menu_replace_text">Εναλλαγή</string>
     <string name="miuix_access_state_desc">Επιλεγμένα</string>
     <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
