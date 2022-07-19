@@ -580,6 +580,7 @@
     <string name="search_path_notes">Εφαρμογές συστήματος/Σημειώσεις</string>
     <string name="search_setting_description">Αναζήτηση κειμένου στις σημειώσεις</string>
     <string name="select_account_prompt">Συγχρονισμός σημειώσεων</string>
+    <string name="select_up_limit_toast">Επιλέξτε μέχρι %d στοιχεία</string>
     <string name="send">Αποστολή</string>                                    
     <string name="set_alarm_description">Ορισμός ξυπνητηριού</string>
     <string name="setting_big_screen_layout_columns">Πλαϊνή μπάρα</string>

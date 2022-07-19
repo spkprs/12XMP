@@ -2033,8 +2033,11 @@
     <string name="gb_new_feature">Νέο χαρακτηριστικό</string>
     <string name="gb_not_support_on_device">"Αυτή η εφαρμογή δεν μπορεί να χρησιμοποιηθεί στην εξωτερική οθόνη"</string>
     <string name="gb_operat_frequently">Όχι τόσο γρήγορα!</string>
-    <string name="gb_performance_balance">Κανονική</string>
     <string name="gb_performace_guide_disable_desc"><Data>"Δεν μπορείτε να μεταβείτε σε κατάσταση ισορροπημένης λειτουργίας στο Game Turbo όταν είναι ενεργοποιημένη η κατάσταση επιδόσεων σε όλο το σύστημα. Μπορείτε να αλλάξετε τις ρυθμίσεις της μπαταρίας στην Ασφάλεια.&lt;br>&lt;a href=\"#\">Άνοιγμα Ασφάλειας&lt;/a>"</Data></string>
+    <string name="gb_performace_switch_toast">Εναλλαγή σε λειτουργία Απόδοσης. Η συσκευή σας μπορεί να θερμαίνεται και να καταναλώνει περισσότερη ενέργεια.</string>
+    <string name="gb_performace_tips_button">Εναλλαγή</string>
+    <string name="gb_performace_tips_title">Εναλλαγή σε λειτουργία Απόδοσης για καλύτερη εμπειρία</string>
+    <string name="gb_performance_balance">Κανονική</string>
     <string name="gb_performance_balance_tips">Η ισορροπημένη λειτουργία εξοικονομεί ενέργεια\nενώ μειώνει το ρυθμό ανανέωσης και τα όρια θερμοκρασίας</string>
     <string name="gb_performance_high">Απόδοση</string>
     <string name="gb_performance_mode">Λειτ. παιχνιδιών</string>
@@ -4725,7 +4728,7 @@
     <string name="storage_item_doc_name">Έγγραφα</string>
     <string name="storage_item_other_name">Αλλα</string>
     <string name="storage_item_picture_name">Εικόνες</string>
-    <string name="storage_item_system_data">Σύστημα</string>
+    <string name="storage_item_system_data">Αρχεία συστήματος</string>
     <string name="storage_item_system_name">Σύστημα</string>
     <string name="storage_item_video_name">Βίντεο</string>
     <string name="storage_menu_mount">Προσάρτηση</string>

@@ -1365,6 +1365,8 @@
     <string name="miui_notification_menu_snooze">Αναβολή</string>
     <string name="miui_notification_menu_title_not_allow">Περιορισμός</string>
     <string name="miui_notification_menu_unfold">Σήμανση ως σημαντικού</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">Να περιοριστούν οι μόνιμες ειδοποιήσεις για \"%1$s\" τώρα;</string>
+    <string name="miui_notification_slide_menu_ongoing">Περιορισμός μόνιμων ειδοποιήσεων</string>
     <string name="miui_ringer_count_down">Αντίστροφη μέτρηση</string>
     <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Σίγαση</string>
