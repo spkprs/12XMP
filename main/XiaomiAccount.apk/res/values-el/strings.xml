@@ -120,6 +120,7 @@
     <string name="character_counter_content_description">Υπέρβαση ορίου χαρακτήρων κατά %1$d από %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_apk_update">Έλεγχος για ενημερώσεις</string>
+    <string name="child_account_system_ad_disable_hint">Αυτή η λειτουργία δεν είναι διαθέσιμη για παιδικούς λογαριασμούς</string>
     <string name="cloud_description_closed">Σε χρήση | Ανεν. συγχ/μος</string>
     <string name="cloud_description_normal">Σε χρήση</string>
     <string name="cloud_service">Mi Cloud</string>
@@ -206,6 +207,7 @@
     <string name="expand_button_title">Προχωρημένες</string>
     <string name="facebook_login">Είσοδος με το Facebook</string>
     <string name="failed_dup_secure_phone_number">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με κάποιον άλλο λογαριασμό Mi</string>
+    <string name="family_service">Οικογενειακές υπηρεσίες</string>
     <string name="find_device">Εύρεση συσκευής</string>
     <string name="find_device_access_denied">Αδυναμία λήψης κατάστασης. Δεν επιτρέπεται η πρόσβαση</string>
     <string name="find_device_account_error">Αδυναμία λήψης κατάστασης λόγω σφάλματος λογαριασμού</string>

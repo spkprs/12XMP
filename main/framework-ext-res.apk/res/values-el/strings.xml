@@ -221,6 +221,7 @@
     <string name="onehour">30 λεπτά</string>
     <string name="open_close_tip_action">Το κατάλαβα</string>
     <string name="open_close_tip_content">Για να κλείσετε το αιωρούμενο παράθυρο, πατήστε παρατεταμένα τη γραμμή ενεργειών και, στη συνέχεια, σαρώστε προς τα επάνω</string>
+    <string name="open_miui_optimization">Ενεργοποιήστε πρώτα τη βελτιστοποίηση MIUI</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="other_ime">Άλλα πληκτρολόγια</string>

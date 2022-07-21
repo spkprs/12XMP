@@ -233,6 +233,9 @@
     <string name="assistant_page_discovery">Ανακαλύψτε</string>
     <string name="assistant_page_label">Αναμνήσεις</string>
     <string name="assistant_page_server_error">Ελέγξτε τις ρυθμίσεις δικτύου</string>
+    <string name="assistant_today_of_year_function_closed_tip">Ενεργοποίηση</string>
+    <string name="assistant_today_of_year_function_no_address_tip">Επιστροφή στο χρόνο</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Έναρξη</string>
     <string name="associate_face_album">Επιλέξτε ένα άλμπουμ</string>
     <string name="authorize_to_device_failed">Αδύνατη η εξουσιοδότηση</string>
     <string name="authorize_watch_on_tv_failed">Αδύνατη η εξουσιοδότηση για προβολή σε TV</string>
@@ -1642,6 +1645,8 @@
     <string name="ocr_save_to_note">Αποθήκ/ση</string>
     <string name="ocr_save_to_note_new">Αποθήκευση στις Σημειώσεις</string>
     <string name="ocr_send">Κοινή χρήση</string>
+    <string name="ocr_switch_hint">Αναγνώριση κειμένου που εμφανίζεται σε εικόνες για να μπορείτε να το επιλέξετε ή να αναλάβετε δράση</string>
+    <string name="ocr_switch_title">Αναγνώριση κειμένου σε εικόνες</string>
     <string name="ocr_text_copied">Copied successfully</string>
     <string name="ocr_text_copied_selected">Αντιγράφηκε με επιτυχία</string>
     <string name="ocr_title">Αποτέλεσμα</string>

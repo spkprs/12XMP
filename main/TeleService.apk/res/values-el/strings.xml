@@ -1074,6 +1074,7 @@
     <string name="hdcp_checking_dialog_title">Ορισμός συμπεριφοράς ελέγχου HDCP</string>
     <string name="hdcp_checking_title">Έλεγχος HDCP</string>
     <string name="help_feedback_label">Βοήθεια και σχόλια</string>
+    <string name="hide_stk_name">USIM εργαλειοθήκη</string>
     <string name="home">Αρχική σελίδα ρυθμίσεων</string>
     <string name="ime_security_warning">Αυτή η μέθοδος εισόδου ενδέχεται να είναι σε θέση να συλλέξει όλο το κείμενο που πληκτρολογείτε, συμπεριλαμβανομένων των προσωπικών δεδομένων, όπως κωδικούς πρόσβασης και αριθμούς πιστωτικών καρτών. Προέρχεται από την εφαρμογή %1$s. Χρησιμοποιείτε αυτήν τη μέθοδο εισόδου;</string>
     <string name="immediately_destroy_activities">Μην διατηρείτε δραστηριότητες</string>

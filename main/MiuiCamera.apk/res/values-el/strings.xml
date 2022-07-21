@@ -1448,7 +1448,7 @@
     <string name="pref_custom_tint_title">Χρωματισμός</string>
     <string name="pref_customization_style">Προσαρμοσμένο στυλ</string>
     <string name="pref_customization_title">Προσαρμογή</string>
-    <string name="pref_cv_watermark_summary">Οι προεπισκοπήσεις παρέχονται μόνο για την αναφορά σας. Το υδατογράφημα Leica θα εμφανίζεται στις φωτογραφίες που έχουν ληφθεί στις λειτουργίες \"Φώτο\" και \"Πορτρέτο\".</string>
+    <string name="pref_cv_watermark_summary">Οι προεπισκοπήσεις παρέχονται μόνο για την αναφορά σας. Το υδατογράφημα Leica θα εμφανίζεται στις φωτογραφίες που έχουν ληφθεί στις λειτουργίες \"Φώτο\" και \"Pro\".</string>
     <string name="pref_cv_watermark_title">Υδατογράφημα Leica</string>
     <string name="pref_document_mode">Έγγραφα</string>
     <string name="pref_dual_camera_video">Διπλό βίντεο</string>
