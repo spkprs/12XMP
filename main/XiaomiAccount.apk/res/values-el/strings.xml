@@ -91,6 +91,8 @@
     <string name="add_account">Σύνδεση λογαριασμού</string>
     <string name="agreement_and_privacy">Όροι και προϋποθέσεις</string>
     <string name="app_name">Mi Λογαριασμός</string>
+    <string name="app_no_storage_permission">Επιτρέψτε σε %1$s να έχει πρόσβαση στον αποθηκευτικό χώρο στις Ρυθμίσεις > Εφαρμογές > %2$s > Δικαιώματα πρώτα</string>
+    <string name="app_opened_in_new_window">Άνοιγμα εφαρμογής σε νέο παράθυρο</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="area_code_no_search_result">"Δεν ήταν δυνατή η εύρεση αποτελεσμάτων"</string>
     <string name="area_code_search_hint">Αναζήτηση χώρας ή περιοχής</string>
@@ -661,7 +663,9 @@
     <string name="sending">Αποστέλεται...</string>
     <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="service_error">Σφάλμα υπηρεσίας</string>
-    <string name="set_success">Αλλαγή με επιτυχία</string>
+    <string name="set_success">Άλλαξε με επιτυχία</string>
+    <string name="settings_bluetooth_enable_summary">Ενεργοποιήστε το B/T για εύρεση κοντινών συσκευών. Ενεργοποίηση τώρα;</string>
+    <string name="settings_handoff_enable_bluetooth">Ενεργοποίηση B/T για εύρεση κοντινών συσκευών</string>
     <string name="sign_in">Σύνδεση</string>
     <string name="sim_card">Κάρτα SIM</string>
     <string name="sim_changed_notification_msg">Ενημερώστε τον αρ. τηλεφώνου για ασφάλεια.</string>
