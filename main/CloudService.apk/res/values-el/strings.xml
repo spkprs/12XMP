@@ -479,6 +479,7 @@
     <string name="micloud_setting_sms_summary_for_google_csp">Μηνύματα κειμένου</string>
     <string name="micloud_setting_wifi_summary">Ρυθμίσεις Wi‑Fi</string>
     <string name="micloud_setting_wifi_summary_china">Ρυθμίσεις WiFi</string>
+    <string name="micloud_share_cloud_storage_entrance_title">Μοιραστείτε την αποθήκευση του Cloud με την οικογενειακή σας ομάδα</string>
     <string name="micloud_space_applist_detail">Διαχείριση των εφαρμογών στην Αρχική οθόνη σας</string>
     <string name="micloud_space_applist_title">Διαχείριση εφαρμογών</string>
     <string name="micloud_space_duokan_detail">Διαχειριστείτε το περιεχόμενο Duokan με την χρήση της εφαρμογής Duokan.</string>

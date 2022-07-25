@@ -43,6 +43,8 @@
     <string name="account_setting_message_body_load_text">Περιεχόμενο μόνο</string>
     <string name="account_settings_action">Ρυθμίσεις λογαριασμού</string>
     <string name="account_settings_background_attachments_label">Λήψη συνημμένων</string>
+    <string name="account_settings_background_attachments_security_summary">Έλεγχος συνημμένων που περιέχουν πακέτα εγκατάστασης για κινδύνους ασφαλείας</string>
+    <string name="account_settings_background_attachments_security_title">Έλεγχος συνημμένων για κινδύνους</string>
     <string name="account_settings_background_attachments_summary">Αυτόματη λήψη συνημμένων στα πρόσφατα μηνύματα μέσω Wi‑Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Λήψη συνημμένων μέσω Wi-Fi</string>
     <string name="account_settings_background_attachments_title">Αυτόματη λήψη συνημμένων</string>
@@ -261,6 +263,10 @@
     <string name="attachment_unknown">%s Αρχείο</string>
     <string name="attachment_video">Βίντεο</string>
     <string name="attachments_header">Συνημμένα</string>
+    <string name="attachments_security_alert_install_message">Αυτό το συνημμένο είναι ένα πακέτο εγκατάστασης. Βεβαιωθείτε ότι εμπιστεύεστε την πηγή πριν το ανοίξετε. Εγκατάσταση τώρα;</string>
+    <string name="attachments_security_alert_install_title">Προσοχή</string>
+    <string name="attachments_security_alert_message">Αυτό το μήνυμα περιέχει ένα πακέτο εγκατάστασης. Βεβαιωθείτε ότι εμπιστεύεστε την πηγή πριν το ανοίξετε.</string>
+    <string name="attachments_security_install">Εγκατάσταση</string>
     <string name="attendee_needed">Προσθέστε τουλάχιστον έναν προσκεκλημένο.</string>
     <string name="authority_email_provider">com.android.email.provider</string>
     <string name="auto_advance_help_title">Ορισμός προτίμησης αυτόματης εμφάνισης\u000d\n(μετά τη διαγραφή, κ.λ.π.)</string>

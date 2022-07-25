@@ -289,6 +289,7 @@
     <string name="force_resizable_activities_summary">Να έχουν όλες οι δραστηριότητες δυνατότητα αλλαγής μεγέθους για την προβολή πολλαπλών παραθύρων, ανεξάρτητα από τις τιμές του μανιφέστου.</string>
     <string name="force_rtl_layout_all_locales">Επιβολή κατ. διάταξης RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Επιβολή διάταξης οθόν. RTL για όλες τις τοπ. ρυθμ.</string>
+    <string name="fraud_toast_message">Μπορείτε να διαχειριστείτε την προώθηση κλήσεων στις Ρυθμίσεις</string>
     <string name="handle_restricted">ΠΕΡΙΟΡΙΣΜΕΝΟ</string>
     <string name="hdcp_checking_dialog_title">Ρύθμιση συμπεριφοράς ελέγχου HDCP</string>
     <string name="hdcp_checking_title">Έλεγχος HDCP</string>
