@@ -124,6 +124,7 @@
     <string name="dlg_hide_message">Απόκρυψη…</string>
     <string name="dlg_info_creating_message">Δημιουργία μηνύματος…</string>
     <string name="dlg_info_save_to_gallery_message">Αποθήκευση εικόνας στη Συλλογή…</string>
+    <string name="dlg_info_save_to_local_message">Αποθήκευση…</string>
     <string name="dlg_message_password_reset">Ο κωδικός κρυφών σημειώσεων θα αντικατασταθεί με τον κωδικό Προσωπικής προστασίας ο οποίος λειτουργεί για μηνύματα, φωτογραφίες και κρυφούς φακέλους</string>
     <string name="dlg_message_set_password">Ο κωδικός Προσωπικής προστασίας λειτουργεί για μηνύματα, φωτογραφίες και κρυφούς φακέλους</string>
     <string name="dlg_message_use_privacy_password">Χρησιμοποιείστε τον κωδικό Προσωπικής προστασίας. Λειτουργεί για μηνύματα, φωτογραφίες και κρυφούς φακέλους</string>
@@ -491,6 +492,8 @@
     <string name="permission_phone_state_desc">Για διακοπή της εγγραφής φωνητικών σημειώσεων κατά τη διάρκεια κλήσεων</string>
     <string name="permission_read_contact_desc">Συσχετισμός των σημειώσεων που δημιουργήθηκαν κατά τη διάρκεια κλήσεων με επαφές</string>
     <string name="permission_storage_desc">Για την αποθήκευση σημειώσεων ως εικόνων</string>
+    <string name="permission_storage_desc_new_v12">Για την προσθήκη εικόνων σε σημειώσεις και την αποθήκευση σημειώσεων ως εικόνες</string>
+    <string name="permission_storage_desc_pad_new_v12">Για την προσθήκη εικόνων σε σημειώσεις και την αποθήκευση σημειώσεων ως εικόνες</string>
     <string name="permission_storage_desc_v12">Για την προσθήκη εικόνων σε σημειώσεις και την αποθήκευση σημειώσεων ως εικόνων</string>
     <string name="permission_xiaoai_desc"><Data>Mi AI θα συλλέξει τις φωνητικές εγγραφές και το αναγνωριστικό της συσκευής σας για να μεταγράψει ήχο και να δημιουργήσει φωνητικές σημειώσεις. Μάθετε περισσότερα στο Mi AI  &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a>.</Data></string>
     <string name="permlab_accessNote">Πρόσβαση στις σημειώσεις</string>
@@ -572,6 +575,9 @@
     <string name="save_to_gallery_failure_message">Αδύνατη αποθήκευση</string>
     <string name="save_to_gallery_icon_name">Αποθήκευση στις Εικόνες</string>
     <string name="save_to_gallery_success_message">Ολοκλήρωση αποθήκευσης</string>
+    <string name="save_to_local_failure_message">"Αδυναμία Αποθήκευσης"</string>
+    <string name="save_to_local_icon_name">Αποθήκευση</string>
+    <string name="save_to_local_success_message">Αποθηκεύτηκε με επιτυχία</string>
     <string name="search">Σημειώσεις</string>
     <string name="search_hint">Αναζήτηση Σημειώσεων</string>
     <string name="search_keyword_notes">Σημειώσεις;Υπόμνημα</string>
