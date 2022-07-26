@@ -80,6 +80,8 @@
     <string name="backup_hint_pad">Διατήρηση συσκευής ενεργή</string>
     <string name="backup_is_running">Λήψη αντιγράφου συσκευής</string>
     <string name="backup_new">Νέο:</string>
+    <string name="backup_notice_content">"Τα αντίγραφα ασφαλείας σας δεν θα είναι κρυπτογραφημένα, πράγμα που σημαίνει ότι μπορεί να έχουν πρόσβαση σε αυτά ή να τα επηρεάσουν εφαρμογές τρίτων. Ενδέχεται επίσης να προκύψουν και άλλοι κίνδυνοι ασφαλείας. Βεβαιωθείτε ότι αποθηκεύετε τα αντίγραφα ασφαλείας σε καλά προστατευμένο περιβάλλον."</string>
+    <string name="backup_notice_title">Προσοχή</string>
     <string name="backup_notification_title">Το \"Αντίγραφο\" λειτουργεί…</string>
     <string name="backup_progress">Αντίγραφο…</string>
     <string name="backup_report">Προβολή λεπτομερειών</string>
@@ -312,7 +314,7 @@
     <string name="local_main_backup_time">Τελευταίο αντίγραφο: %1$s</string>
     <string name="local_main_date_format">MM/dd/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Κρυπτογραφήστε τα στοιχεία που δημιουργείτε αντίγραφα χρησιμοποιώντας το Λογαριασμό Mi</string>
-    <string name="local_main_encrypt_backup_title">Κρυπτογράφηση αντιγράφων</string>
+    <string name="local_main_encrypt_backup_title">Επαλήθευση λογαριασμού για επαναφορά στοιχείων</string>
     <string name="local_main_latest_backup_time_loading">Μισό λεπτό...</string>
     <string name="local_no_backup">Δεν υπάρχουν αντίγραφα</string>
     <string name="local_no_backup_data">Δεν υπάρχουν ακόμη αντίγραφα εδώ</string>

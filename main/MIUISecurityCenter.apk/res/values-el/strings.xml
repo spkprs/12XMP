@@ -6,6 +6,12 @@
     <string name="HIPS_Perm_CallLog_Desc">Εγγραφή και διαγραφή ιστορικού κλήσεων</string>
     <string name="HIPS_Perm_Call_Desc">Απευθείας κλήση τηλεφωνικών αριθμών</string>
     <string name="HIPS_Perm_Contact_Desc">Τροποποίηση και διαγραφή επαφών</string>
+    <string name="HIPS_Perm_External_READ_FILES">Πρόσβαση σε αρχεία και έγγραφα</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Πρόσβαση σε αρχεία και έγγραφα που είναι αποθηκευμένα σε αυτή τη συσκευή</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Πρόσβαση σε αρχεία ήχου</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Πρόσβαση σε τραγούδια και άλλα αρχεία ήχου που είναι αποθηκευμένα σε αυτή τη συσκευή</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Πρόσβαση σε φωτογραφίες και βίντεο</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Πρόσβαση σε φωτογραφίες και βίντεο που είναι αποθηκευμένα σε αυτή τη συσκευή</string>
     <string name="HIPS_Perm_External_Storage">Πρόσβαση και αποθήκευση στοιχείων στο χώρο αποθήκευσης</string>
     <string name="HIPS_Perm_External_Storage_Desc">Πρόσβαση και αποθήκευση αρχείων και φωτογραφιών στον εσωτερικό χώρο αποθήκευσης</string>
     <string name="HIPS_Perm_External_Storage_Group">Διαχείριση αδειών αποθήκευσης</string>
@@ -921,7 +927,9 @@
     <string name="battery_status_overheat">Υπερθερμάνθηκε</string>
     <string name="battery_status_unknown">Άγνωστο σφάλμα</string>
     <string name="battery_temperature_title">Θερμοκρασία</string>
+    <string name="beauty_fc_assistant_summary_common">Χρήση πρόσθετων λειτουργιών με την μπροστινή κάμερα</string>
     <string name="beauty_fc_assistant_summary_new">Εμφάνιση των επιλογών Εξωραϊσμός και φως πλήρωσης κατά τη χρήση της μπροστινής κάμερας</string>
+    <string name="beauty_fc_auto_brightness">Ρυθμίστε αυτόματα τη φωτεινότητα του φωτός</string>
     <string name="beauty_fc_fill_lamp_new">Μπροστινό φως πλήρωσης</string>
     <string name="beauty_fun_front_light">Μπροστινό φως πλήρωσης</string>
     <string name="beauty_fun_privacy">Απόρρητο Κάμερας</string>
@@ -954,7 +962,7 @@
     <string name="bill_remind">Προειδοποίηση υπολοίπου τηλεφώνου</string>
     <string name="bill_reminder_summary">Υπενθύνιση για ανανέωση όταν το υπόλοιπο είναι κάτω από %1s</string>
     <string name="bill_traffic_reminder_instruction">Προσοχή</string>
-    <string name="bill_traffic_reminder_instruction_text">Οι πραγματικές λεπτομέρειες των προγραμμάτων που παρέχονται από τους παρόχους κινητής τηλεφωνίας ενδέχεται να διαφέρουν και ενδέχεται να υπάρξουν καθυστερήσεις στη χρέωση. Οι πληροφορίες που παρέχονται εδώ είναι μόνο για την αναφορά σας.</string>
+    <string name="bill_traffic_reminder_instruction_text">Οι μέθοδοι χρέωσης και τα πρότυπα υπολογισμού δεδομένων των διαφόρων φορέων ενδέχεται να διαφέρουν. Ενδέχεται επίσης να προκύψουν καθυστερήσεις χρέωσης. Τα στατιστικά στοιχεία χρήσης που παρέχονται εδώ είναι μόνο για την αναφορά σας.</string>
     <string name="bind_xiaomi_account_cancel">Άκυρο</string>
     <string name="bind_xiaomi_account_confirm">Προσθήκη</string>
     <string name="bind_xiaomi_account_dialog_summery">Είστε έτοιμοι να προσθέσετε το λογαριασμό Mi %s. Εάν ξεχάσετε τον κωδικό σας, μπορείτε να χρησιμοποιήσετε αυτό το λογαριασμό για να τον επαναφέρετε. Ο λογαριασμός θα αφαιρεθεί αυτόματα αν αποσυνδεθείτε.</string>
@@ -1086,6 +1094,8 @@
     <string name="card_uninstall_button_text">Διαχείριση</string>
     <string name="card_uninstall_summary">Απεγκατάσταση σπάνιας χρήσης εφαρμ. για την απελευθέρωση χώρου αποθήκευσης</string>
     <string name="card_uninstall_title_1">Απεγκατάσταση σπάνιας χρήσης εφαρμ.</string>
+    <string name="category_no_scoped">Άλλες εφαρμογές</string>
+    <string name="category_scoped">Συμβατές εφαρμογές</string>
     <string name="cd_back">Πίσω</string>
     <string name="celcius_symbol">℃</string>
     <string name="cellular_data_auto_check">Αυτόματος έλεγχος</string>
@@ -1426,6 +1436,7 @@
     <string name="empty_title_root_apps">Καμία εφαρμογή με πρόσβαση root</string>
     <string name="enable_extreme_power_save_mode">Μέγιστη εξοικον. μπαταρίας</string>
     <string name="enable_network">Ενεργοποιείστε πρώτα το δίκτυο</string>
+    <string name="enable_notification_title">Αποδοχή σε %1$s να χρησιμοποιεί ειδοποιήσεις;</string>
     <string name="error_icon_content_description">Σφάλμα</string>
     <string name="evening">Απόγευμα</string>
     <string name="every_day">Κάθε μέρα</string>
@@ -2094,6 +2105,7 @@
     <string name="gb_predownload_dialog_message_china"><Data>"Το ενημερωμένο περιεχόμενο για αυτό το παιχνίδι μπορεί να μεταφορτωθεί σε αυτή τη συσκευή αυτόματα αφού συνδεθείτε σε WLAN και απενεργοποιήσετε την οθόνη. Έτσι, θα είστε σε θέση να χρησιμοποιήσετε τη νέα έκδοση αμέσως μόλις κυκλοφορήσει.&lt;br>&lt;br>Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\">Δήλωση σχετικά με τις ενημερώσεις παρασκηνίου&lt;/a> πριν χρησιμοποιήσετε αυτή τη λειτουργία."</Data></string>
     <string name="gb_predownload_dialog_title">Οι ενημερώσεις παρασκηνίου είναι τώρα διαθέσιμες</string>
     <string name="gb_predownload_message">"Ενημερώστε το King of Glory, το Game for Peace και άλλα συμβατά παιχνίδια στο παρασκήνιο ενώ δεν χρησιμοποιείτε τη συσκευή."</string>
+    <string name="gb_predownload_message_new">Ενημέρωση συμβατών παιχνιδιών αυτόματα ενώ δεν χρησιμοποιείτε τη συσκευή</string>
     <string name="gb_predownload_noti_message">"%2$1.2f GB ενημέρωσης βρίσκεται ήδη σε αυτή τη συσκευή. Θα μπορείτε να το χρησιμοποιήσετε μόλις κυκλοφορήσει η νέα έκδοση."</string>
     <string name="gb_predownload_noti_title">Ενημέρωση %s στο παρασκήνιο με επιτυχία</string>
     <string name="gb_predownload_title">Ενημερώσεις παρασκηνίου</string>
@@ -3117,6 +3129,7 @@
     <string name="other_exception_summary">Δεν έχετε σύνδεση στο Internet</string>
     <string name="other_exception_title">Έλεγχος για άλλα προβλήματα</string>
     <string name="other_milink_connect">Αδύνατη η Μετάδοση. Μια άλλη λειτουργία είναι σε προβολή.</string>
+    <string name="over_package_reminder_type">Όταν εξαντληθεί το πρόγραμμα δεδομένων</string>
     <string name="package_change_notification_summary">Πατήστε για να μάθετε περισσότερα.</string>
     <string name="package_change_notification_title">Ρυθμίστε το όριο δεδομένων αυτόματα</string>
     <string name="package_setted_error_notification_summary">Πατήστε για να δείτε λεπτομέρειες για τη χρήση δεδομένων.</string>
@@ -3263,6 +3276,8 @@
     <string name="permission_instruction_get_accounts">Η Άδεια επιτρέπει σε εφαρμ. να έχουν πρόσβαση στη λίστα των λογαριασμών που είναι αποθηκευμένοι στη συσκευή σας. Αυτή η λίστα μπορεί να περιέχει όλους τους προσωπικούς λογαριασμούς σας που έχουν δημιουργηθεί από εγκατεστημένες εφαρμογές, καθώς και τους λογαριασμούς από πλατφόρμες μέσων κοινωνικής δικτύωσης και εργαλεία επικοινωνίας.</string>
     <string name="permission_instruction_install_shortcuts">Η Άδεια επιτρέπει σε εφαρμ. να δημιουργούν συντομεύσεις στην αρχική οθόνη.</string>
     <string name="permission_instruction_install_unknown_source">Η Άδεια επιτρέπει σε εφαρμ. να εγκαθιστούν άλλες εφαρμογές στη συσκευή σας. Οι κακόβουλες εφαρμογές χρησιμοποιούν αυτήν την άδεια για την εγκατάσταση εφαρμογών χωρίς την επιβεβαίωσή σας.</string>
+    <string name="permission_instruction_media_audio">Αυτή η άδεια επιτρέπει στις εφαρμογές να έχουν πρόσβαση σε τραγούδια και άλλα αρχεία ήχου που είναι αποθηκευμένα σε αυτή τη συσκευή. Αυτά τα στοιχεία ενδέχεται να περιέχουν προσωπικές πληροφορίες.</string>
+    <string name="permission_instruction_media_files">Αυτή η άδεια επιτρέπει στις εφαρμογές να έχουν πρόσβαση σε αρχεία και έγγραφα που είναι αποθηκευμένα σε αυτή τη συσκευή. Αυτά τα στοιχεία ενδέχεται να περιέχουν προσωπικές πληροφορίες.</string>
     <string name="permission_instruction_modify_audio_settings">Η Άδεια επιτρέπει σε εφαρμ. να τροποποιούν τις ρυθμίσεις ήχου (π.χ. να ρυθμίζουν την ένταση του ήχου χωρίς την επιβεβαίωσή σας). Ενδέχεται να μην μπορείτε να ρυθμίσετε την ένταση σε ορισμένες εφαρμογές, εκτός εάν τους δώσετε αυτήν την άδεια.</string>
     <string name="permission_instruction_nfc">Η Άδεια επιτρέπει σε εφαρμ. να επικοινωνούν με κάρτες και συσκευές NFC.</string>
     <string name="permission_instruction_notification_adjustment">Αυτή η άδεια επιτρέπει στις εφαρμογές να παρέχουν πιο εξατομικευμένες και διαφοροποιημένες προσαρμοσμένες ειδοποιήσεις.</string>
@@ -3274,6 +3289,7 @@
     <string name="permission_instruction_read_calllog">Η Άδεια επιτρέπει σε εφαρμ. να έχουν πρόσβαση στο ιστορικό κλήσεων, το οποίο μπορεί να περιέχει λεπτομερείς πληροφορίες σχετικά με τις εισερχόμενες και εξερχόμενες κλήσεις σας. Αυτή η άδεια επιτρέπει επίσης στις εφαρμογές να αποθηκεύουν εγγραφές ιστορικού κλήσεων. Οι κακόβουλες εφαρμογές ενδέχεται να χρησιμοποιήσουν αυτήν την άδεια για να κοινοποιήσουν το ιστορικό κλήσεων σας σε τρίτους ή να χρησιμοποιήσουν το ιστορικό κλήσεων για απάτη.</string>
     <string name="permission_instruction_read_clipboard">Η Άδεια επιτρέπει σε εφαρμ. να διαβάζουν οποιοδήποτε περιεχόμενο αντιγράφετε, το οποίο μπορεί να περιλαμβάνει προσωπικές πληροφορίες (π.χ. στοιχεία λογαριασμού, αριθμούς τραπεζικών καρτών και κωδικούς πρόσβασης).</string>
     <string name="permission_instruction_read_contacts">Η Άδεια επιτρέπει σε εφαρμ. να έχουν πρόσβαση στις επαφές στη συσκευή σας. Αυτές οι πληροφορίες μπορεί να περιέχουν τη συχνότητα της επικοινωνίας σας με συγκεκριμένες επαφές μέσω κλήσεων, μηνυμάτων ηλεκτρονικού ταχυδρομείου και άλλων μεθόδων. Αυτή η άδεια επιτρέπει επίσης στις εφαρμογές να αποθηκεύουν επαφές. Οι κακόβουλες εφαρμογές ενδέχεται να χρησιμοποιήσουν αυτήν την άδεια για κοινή χρήση επαφών χωρίς τη συγκατάθεσή σας.</string>
+    <string name="permission_instruction_read_media_pic">Αυτή η άδεια επιτρέπει στις εφαρμογές να έχουν πρόσβαση σε φωτογραφίες και βίντεο που είναι αποθηκευμένα σε αυτή τη συσκευή. Αυτά τα στοιχεία ενδέχεται να περιέχουν προσωπικές πληροφορίες.</string>
     <string name="permission_instruction_read_notify_sms">Η Άδεια επιτρέπει σε εφαρμ. να διαβάζουν μηνύματα κειμένου ειδοποίησης που είναι αποθηκευμένα στη συσκευή σας ή στην κάρτα SIM.</string>
     <string name="permission_instruction_read_phone_state">"Η Άδεια επιτρέπει σε εφαρμ. να έχουν πρόσβαση στον αριθμό τηλεφώνου σας, το IMEI, το IMSI και άλλα αναγνωριστικά συσκευής. Οι εφαρμογές συνήθως χρησιμοποιούν αυτήν την άδεια για να καθορίσουν αν προωθούνται οι κλήσεις σας. Αν χρησιμοποιείτε αναγνωριστικό εικονικής συσκευής, οι εφαρμογές δεν θα μπορούν να έχουν πρόσβαση στα πραγματικά αναγνωριστικά της συσκευής σας."</string>
     <string name="permission_instruction_read_sms">Αυτή η άδεια επιτρέπει στις εφαρμογές να διαβάζουν όλα τα μηνύματα κειμένου και πολυμέσων που είναι αποθηκευμένα στη συσκευή σας ή στην κάρτα SIM. Τέτοια μηνύματα ενδέχεται να περιέχουν κωδικούς πρόσβασης, στοιχεία τραπεζικών λογαριασμών και άλλες προσωπικές πληροφορίες.</string>
@@ -3282,6 +3298,7 @@
     <string name="permission_instruction_record_audio">"Η Άδεια επιτρέπει σε εφαρμ. να χρησιμοποιούν το μικρόφωνο για την εγγραφή ήχου. Να θυμάστε ότι αυτή η άδεια επιτρέπει στις εφαρμογές να καταγράφουν οτιδήποτε, συμπεριλαμβανομένων των συνομιλιών σας με άλλους. Είναι προς το καλύτερο να επιτρέπετε στις εφαρμογές να χρησιμοποιούν αυτήν την άδεια μόνο όταν χρησιμοποιείτε τις εφαρμογές."</string>
     <string name="permission_instruction_running_background">Η Άδεια επιτρέπει σε εφαρμ. να λειτουργούν στο παρασκήνιο. Κατά τη διάρκεια αυτής της διαδικασίας, οι εφαρμογές ενδέχεται να συλλέγουν δεδομένα και να παρέχουν υπηρεσίες. Να θυμάστε ότι τέτοιες δραστηριότητες αυξάνουν την κατανάλωση ενέργειας.</string>
     <string name="permission_instruction_running_exceed_data">Η Άδεια επιτρέπει σε εφαρμ. να αγνοούν τα όρια χρήσης δεδομένων κινητής τηλεφωνίας.</string>
+    <string name="permission_instruction_scoped">Ένας νέος μηχανισμός προστασίας του αποθηκευτικού χώρου σάς επιτρέπει να ελέγχετε καλύτερα τον τρόπο με τον οποίο οι συμβατές εφαρμογές χρησιμοποιούν τα δικαιώματα αποθήκευσης</string>
     <string name="permission_instruction_send_mms">Η Άδεια επιτρέπει σε εφαρμ. να στέλνουν μηνύματα πολυμέσων, τα οποία ενδέχεται να δημιουργήσουν πρόσθετες χρεώσεις. Οι κακόβουλες εφαρμογές ενδέχεται να χρησιμοποιήσουν αυτήν την άδεια για την αποστολή μηνυμάτων επί πληρωμή χωρίς τη συγκατάθεσή σας.</string>
     <string name="permission_instruction_send_payment_sms">Η Άδεια επιτρέπει σε εφαρμ. να στέλνουν μηνύματα κειμένου επί πληρωμή.</string>
     <string name="permission_instruction_send_sms">Η Άδεια επιτρέπει σε εφαρμ. να στέλνουν μηνύματα κειμένου, τα οποία ενδέχεται να δημιουργήσουν πρόσθετες χρεώσεις. Οι κακόβουλες εφαρμογές ενδέχεται να χρησιμοποιήσουν αυτήν την άδεια για την αποστολή μηνυμάτων επί πληρωμή χωρίς τη συγκατάθεσή σας.</string>
@@ -4086,6 +4103,7 @@
     <string name="quite_all_string">Ακύρωση</string>
     <string name="reach_daily_limit_value_body">Μειώστε τη χρήση δεδομένων κινητής τηλεφωνίας.</string>
     <string name="reach_daily_limit_value_title">Καθορίστηκε ημερήσιο όριο δεδομένων</string>
+    <string name="reach_warning_reminder_type">Όταν επιτευχθεί το όριο δεδομένων</string>
     <string name="read_all_sms">Σήμανση όλων ως αναγνωσμένα</string>
     <string name="read_and_write_clipboard">Πρόσβαση και αποθήκευση στοιχείων στο πρόχειρο</string>
     <string name="read_clipboard_ai_action_desc">Λήψη ειδοποιήσεων κάθε φορά που επιτρέπεται ή περιορίζεται η πρόσβαση</string>
@@ -4108,6 +4126,7 @@
     <string name="reject_usb_install">Απορρίφθηκε η εγκατάσταση μέσω USB των παρακάτω εφαρμογών</string>
     <string name="release_meminfo">Ελευθερώθηκαν %d MB</string>
     <string name="release_memory">Διαγραφή κρυφής μνήμης</string>
+    <string name="reminder_click_to_close_tips">Μπορείτε να ρυθμίσετε τις προειδοποιήσεις χρήσης δεδομένων στην ενότητα Ασφάλεια > Χρήση δεδομένων > Ρυθμίσεις.</string>
     <string name="reminder_once_month">Μια φορά το μήνα</string>
     <string name="reminder_tips">Προσοχή</string>
     <string name="reminder_type">Τύπος ειδοποίησης</string>
@@ -4208,7 +4227,6 @@
     <string name="screen_share_warning_summary">"Οι εισερχόμενες ειδοποιήσεις σας δεν θα εμφανίζονται στην κοινή οθόνη."</string>
     <string name="screen_share_warning_title">"Οι ειδοποιήσεις δεν θα εμφανίζονται"</string>
     <string name="screenrecord_not_find">Εγκαταστήστε την πιο πρόσφατη έκδοση του Screen Recorder και δοκιμάστε ξανά.</string>
-    <string name="system_anti_fraud_stayaway_from_risk">Αποφυγή ψηφιακής απάτης</string>
     <string name="sd_eject">Ξεμοντάρετε την κάρτα SD</string>
     <string name="sd_eject_summary">Κατάργηση μονταρίσματος κάρτας SD για ασφαλή κατάργησή της</string>
     <string name="sd_format">Μορφοποίηση κάρτας SD</string>
@@ -4760,6 +4778,8 @@
     <string name="storage_clear_cache_large">Ελευθερώστε %s</string>
     <string name="storage_clear_more_tools">Περισσότερα εργαλεία καθαρισμού</string>
     <string name="storage_clear_video">Καθαρισμός μνήμης βίντεο</string>
+    <string name="storage_compact_warning">Προσαρμογή πολλαπλών δικαιωμάτων</string>
+    <string name="storage_compact_warning_desc">"Αυτή η εφαρμογή δεν υποστηρίζει την προσαρμογή των δικαιωμάτων για φωτογραφίες, βίντεο, ήχο, αρχεία ή έγγραφα μεμονωμένα.."</string>
     <string name="storage_deepclean_entry">Βαθύς καθαρισμός</string>
     <string name="storage_dialog_unmountable">Η ^1 είναι κατεστραμμένη. \n\nΓια να χρησιμοποιήσετε την ^1, πρέπει πρώτα να την ρυθμίσετε.</string>
     <string name="storage_dialog_unmounted">Η ^1 καταργήθηκε με ασφάλεια, αλλά παραμένει διαθέσιμη.\n\nΓια να χρησιμοποιήσετε την ^1, προσαρτήστε την πρώτα.</string>
@@ -4929,6 +4949,7 @@
     <string name="system_anti_fraud_dialog_message">Προστασία από απάτη</string>
     <string name="system_anti_fraud_dialog_title">Προειδοποίηση έναντι απάτης</string>
     <string name="system_anti_fraud_dialog_title2">Προειδοποίηση από απάτη</string>
+    <string name="system_anti_fraud_stayaway_from_risk">Αποφυγή ψηφιακής απάτης</string>
     <string name="system_app">Εφαρμ. Συστήματος</string>
     <string name="system_app_permission_instruction">Αυτή η εφαρμογή χρειάζεται τις ακόλουθες άδειες για την παροχή βασικών υπηρεσιών συστήματος. Η διαχείριση των αδειών είναι περιορισμένη για αυτή την εφαρμογή, καθώς η αλλαγή των καταστάσεων των αδειών θα οδηγήσει σε ανωμαλίες στη λειτουργία του συστήματος.</string>
     <string name="system_application">Εφαρμ.Συστήματος</string>

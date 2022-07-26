@@ -66,6 +66,7 @@
     <string name="account_token_expired_msg">Ο κωδικός επαλήθευσης έληξε, ξεκίνησε από την αρχή ή αποσυνδέθηκε\nΤο αναγνωριστικό λογαριασμού σας: %s</string>
     <string name="account_token_expired_title">Η ταυτοποίηση απέτυχε</string>
     <string name="account_user_avatar">Εικόνα προφίλ</string>
+    <string name="account_user_avatar_activity_not_found">"Αδυναμία εκκίνησης Συλλογής"</string>
     <string name="account_user_avatar_from_album">Επιλέξτε φωτογραφία</string>
     <string name="account_user_avatar_from_camera">Λήψη φωτογραφίας</string>
     <string name="account_user_base_info">Πληροφορίες χρήστη</string>

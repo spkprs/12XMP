@@ -47,6 +47,7 @@
     <string name="HIPS_Perm_Location_Desc">να εντοπίσει την τοποθεσία σας (GPS ή μέσω δικτύου)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Σύνδεση κοντινών συσκευών</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Ανακαλύψτε και συνδεθείτε σε κοντινές συσκευές</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Ανακαλύψτε και συνδεθείτε σε κοντινές συσκευές μέσω Bluetooth και WLAN</string>
     <string name="HIPS_Perm_PhoneID">Ταυτότητα συσκευής</string>
     <string name="HIPS_Perm_PhoneID_Desc">πρόσβαση  στο IMEI &amp; το IMSI της συσκευής</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Πρόσβαση στον αριθμό &amp; κατάσταση τηλεφώνου</string>
