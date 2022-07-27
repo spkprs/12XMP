@@ -49,6 +49,8 @@
     <string name="cta_main_purpose">Καλώς ήρθατε στο Screenshot Editor! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να περικόψετε και να επεξεργαστείτε τα στιγμιότυπα οθόνης σας.</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Για την αποθήκευση στιγμιότυπων οθόνης</string>
     <string name="default_device_name">Άγνωστη συσκευή</string>
+    <string name="device_list_all">Όλες οι συσκευές</string>
+    <string name="device_list_more">Περισσότερα</string>
     <string name="device_offline">Η άλλη συσκευή είναι εκτός σύνδεσης. Ξεκινήστε από την αρχή.</string>
     <string name="device_status_failed">"Δεν ήταν δυνατή η αποστολή"</string>
     <string name="device_status_sending">Αποστολή…</string>
@@ -68,10 +70,14 @@
     <string name="filter_category_movie">Ταινία</string>
     <string name="functions_are_being_developed">Αυτή η λειτουργία θα είναι διαθέσιμη σύντομα. Μείνετε συντονισμένοι!</string>
     <string name="global_main_purpose">Καλώς ήρθατε στο Screenshot Editor! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να περικόψετε και να επεξεργαστείτε τα στιγμιότυπα οθόνης σας. Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να μπορέσει να λειτουργήσει κανονικά..</string>
+    <string name="global_pad">My tablet</string>
+    <string name="global_pc">My laptop</string>
+    <string name="global_phone">My phone</string>
     <string name="help">"Δεν είναι δυνατή η εύρεση συσκευών;"</string>
     <string name="help_content">"Αν δεν μπορείτε να βρείτε τη συσκευή που χρειάζεστε, ζητήστε από το άλλο άτομο να την ενεργοποιήσει Mi Share."</string>
     <string name="image_decode_failed">"Δεν ήταν δυνατή η αποκωδικοποίηση της εικόνας"</string>
     <string name="image_not_found">"Δεν ήταν δυνατή η εύρεση της εικόνας"</string>
+    <string name="lenovo_phone">Lenovo phone</string>
     <string name="loading_text_format" formatted="false">Κατάργηση ιδιωτικών πληροφοριών από φωτογραφίες (%d/%d)…</string>
     <string name="long_screenshot_error">Παρουσιάστηκε σφάλμα. Προσπαθήστε ξανά.</string>
     <string name="long_screenshot_guide_text">Πατήστε για να δημιουργήσετε\nένα συρόμενο στιγμιότυπο οθόνης</string>
@@ -101,6 +107,8 @@
     <string name="partial_screenshot_save_successful">Επιτυχής αποθήκευση</string>
     <string name="partial_screenshot_share">Κοινοποίηση</string>
     <string name="pc_device_model_name">Υπολογιστής</string>
+    <string name="pc_redmi_device_model_name">Redmi laptop</string>
+    <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
     <string name="photo_editor_beauty_compare">Αρχικό</string>
     <string name="photo_editor_doodle">Doodle</string>
     <string name="photo_editor_font_default">Mi Lanting (Regular)</string>

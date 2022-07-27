@@ -126,6 +126,14 @@
     <string name="child_account_system_ad_disable_hint">Αυτή η λειτουργία δεν είναι διαθέσιμη για παιδικούς λογαριασμούς</string>
     <string name="cloud_description_closed">Σε χρήση | Ανεν. συγχ/μος</string>
     <string name="cloud_description_normal">Σε χρήση</string>
+    <string name="cloud_member">Μέλη</string>
+    <string name="cloud_member_status_expired">Έληξε</string>
+    <string name="cloud_member_status_expired_soon">Λήγει σύντομα</string>
+    <string name="cloud_member_status_non_vip">Αναβάθμιση</string>
+    <string name="cloud_member_vipname_free">Δωρεάν</string>
+    <string name="cloud_member_vipname_mega">Mega</string>
+    <string name="cloud_member_vipname_premium">Premium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="cloud_service_status_backup_not_open">Το αντίγραφο ασφάλειας είναι ανενεργό</string>
     <string name="cloud_service_status_cloud_not_open">Off</string>

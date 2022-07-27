@@ -523,6 +523,8 @@
     <string name="monday">Δευτέρα</string>
     <string name="monday_short">Δευ</string>
     <string name="monday_shortest">Δευ</string>
+    <string name="monochrome_summary">Αλλαγή χρώματος φόντου για συμβατά εικονίδια</string>
+    <string name="monochrome_title">Χρώμα παρασκηνίου</string>
     <string name="month_april">Απριλίου</string>
     <string name="month_april_short">Απρ</string>
     <string name="month_april_shortest">Απρ</string>

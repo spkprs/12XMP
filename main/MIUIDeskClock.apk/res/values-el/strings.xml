@@ -63,6 +63,7 @@
     <string name="alarmclock_empty_text">Καμιά Αφύπνιση</string>
     <string name="alarmclock_silent_hint">Η Αφύπνιση έχει σιγήσει</string>
     <string name="alert">Ήχος αφύπνισης</string>
+    <string name="alert_page_desc">Πατήστε παρατεταμένα και, στη συνέχεια, σαρώστε προς τα πάνω για να απενεργοποιήσετε το ξυπνητήρι.</string>
     <string name="alert_ringtone">Ήχος ειδοποίησης</string>
     <string name="alert_vibrate_enable_summary">Δόνηση στην απενεργ/ση αφύπνισης</string>
     <string name="alert_volume">Ένταση ήχου</string>

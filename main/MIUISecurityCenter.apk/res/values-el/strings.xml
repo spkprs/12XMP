@@ -153,6 +153,9 @@
     <string name="add_miservice_dialog_title">Πλαίσιο υπηρεσιών MIUI</string>
     <string name="add_to_whitelist_button">Διαχείριση εξαιρέσεων</string>
     <string name="add_whitelist">Προσθήκη στις εξαιρέσεις</string>
+    <string name="added_game_notification_summary">Ξεκινήστε το παιχνίδι τώρα</string>
+    <string name="added_game_notification_title">%s είναι τώρα σε Game Turbo</string>
+    <string name="added_game_start_game">Εκκίνηση</string>
     <string name="address">Διεύθυνση</string>
     <string name="address_choose_hint">%1$s, %2$s, και %3$d άλλες τοποθεσίες</string>
     <string name="adjust_sms_cmd"><u>Προσαρμογή βαθμονόμησης πρότυπου SMS</u></string>
@@ -1007,6 +1010,8 @@
     <string name="btn_text_quick_scan">Ανάλυση</string>
     <string name="btn_text_stop">Διακοπή</string>
     <string name="bubble_app_manage">Διαχείριση φυσαλίδων συνομιλίας</string>
+    <string name="bubble_mode_barrage_switch_tips">Ενεργοποιήστε την εμφάνιση φυσαλίδων συνομιλίας για ελαχιστοποιημένες εφαρμογές ως σχόλια στην οθόνη</string>
+    <string name="bubble_mode_barrage_tips">Οι φυσαλίδες συνομιλίας για ελαχιστοποιημένες εφαρμογές θα εμφανίζονται ως σχόλια στην οθόνη.</string>
     <string name="bubble_notification">Ειδοποιήσεις φυσαλίδων</string>
     <string name="bubble_notification_switch">Εμφάνιση φυσαλίδων συνομιλίας</string>
     <string name="bubble_notification_switch_desc">Όταν μια εφαρμογή μηνυμάτων σε ένα κινούμενο παράθυρο είναι κρυμμένη στην άκρη της οθόνης, εμφάνιση εισερχόμενων μηνυμάτων σε φυσαλίδες</string>
@@ -1284,9 +1289,16 @@
     <string name="device_manager_apply_step_3">Βεβαιωθείτε ότι έχετε κατανοήσει όλους τους πιθανούς κινδύνους πρίν προχωρήσετε. Ενεργοποίηση του διαχειριστή  συσκ. για αυτήν την εφαρμ. τώρα;</string>
     <string name="dialog_app_roaming_message">Το %1$s δεν μπορεί να κάνει χρήση δεδομένων κινητής κατά την περιαγωγή. Όταν είστε σε περιαγωγή στο εξωτερικό, μόνο εφαρμογές που έχετε προσθέσει στη λίστα εξαιρέσεων μπορούν να χρησιμοποιήσουν τις υπηρεσίες δεδομένων.</string>
     <string name="dialog_app_roaming_title">Η διεθνής περιαγωγή δεν είναι ενεργοποιημένη για %1$s</string>
+    <string name="dialog_btn_delete_icon">Αφαίρεση</string>
+    <string name="dialog_btn_no_create_icon">Ακύρωση</string>
+    <string name="dialog_btn_yes_create_icon">Προσθήκη</string>
     <string name="dialog_change_package_type_summary">Η αλλαγή τύπου προγράμματός δεδομένων θα επαναφέρει όλες τις ρυθμίσεις χρήσης δεδομένων (π.χ. όρια δεδομένων) στις προεπιλεγμένες τιμές τους. Αλλαγή τύπου τώρα;</string>
     <string name="dialog_change_package_type_title">Αλλαγή τύπου προγρ. δεδομένων</string>
     <string name="dialog_msg_auto_start_declare">Ορισμένες εφαρμογές ασφαλείας μπορεί λανθασμένα να αναφέρουν ότι το MIUI εμποδίζει τη έναρξή τους. Για να ελέγξετε τις Άδειες που χορηγούνται σε εφαρμογές, μεταβείτε στις Ρυθμίσεις >Εφαρμογές.</string>
+    <string name="dialog_msg_create_icon_content">Προσθέστε μια συντόμευση αρχικής οθόνης τώρα;</string>
+    <string name="dialog_msg_create_icon_not_remain_anymore">"Μην εμφανιστεί ξανά"</string>
+    <string name="dialog_msg_delete_icon_content">Η ασφάλεια σάς επιτρέπει να καθαρίζετε τα σκουπίδια της συσκευής σας, να βρίσκετε και να εξουδετερώνετε ιούς, να εξοικονομείτε μπαταρία, να διαχειρίζεστε δικαιώματα και πολλά άλλα.</string>
+    <string name="dialog_msg_delete_icon_title">Κατάργηση αυτής της συντόμευσης αρχικής οθόνης;</string>
     <string name="dialog_msg_stop_virus_scan">Διακοπή σάρωσης ιών πριν ολοκληρωθεί;</string>
     <string name="dialog_no_longer_alert">Να μην εμφανιστεί ξανά</string>
     <string name="dialog_remove_luckymoney">προηγούμενη σελίδα Επόμενη σελίδα Τελευταία ανανέωση της σελίδας MIUI Προηγούμενη σελίδα Επόμενη σελίδα Επόμενη σελίδα Τελευταία Ενημέρωση:</string>
@@ -1987,6 +1999,11 @@
     <string name="gb_advance_settings_vibration_4d_summary2">Δόνηση κατά τη διάρκεια θανάτου στο παιχνίδι</string>
     <string name="gb_audition_instruction">Πατήστε παρατεταμένα για εγγραφή (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Χρήση ακουστικών για το καλύτερο εφέ</string>
+    <string name="gb_beauty_cold_light">Ψυχρό</string>
+    <string name="gb_beauty_face">Εξωραϊσμός</string>
+    <string name="gb_beauty_light">Φωτισμός πλήρωσης</string>
+    <string name="gb_beauty_nature_light">Φυσικό</string>
+    <string name="gb_beauty_warm_light">Θερμό</string>
     <string name="gb_collimator_color">Χρώμα</string>
     <string name="gb_collimator_size">Μέγεθος</string>
     <string name="gb_collimator_style">Τύπος</string>
@@ -2594,6 +2611,7 @@
     <string name="managed_user_title">Όλες οι εφαρμογές εργασίας</string>
     <string name="manual_input_free_traffic">Ρύθμιση δωρεάν χρήσης δεδομένων</string>
     <string name="manual_input_traffic">Ορισμός χρήσης δεδομένων</string>
+    <string name="manual_item_create_icon_title">Συντόμευση στην αρχική οθόνη</string>
     <string name="manual_item_white_list_summary">Αποτρέψτε τη βελτιστοποίηση των επιλεγμένων στοιχείων</string>
     <string name="manual_item_white_list_title">Εξαίρεση Σάρωσης</string>
     <string name="mark_agent">Αντιπρ. πωλήσεων</string>
@@ -3373,6 +3391,7 @@
     <string name="power_center_battery_detail">Λεπτομέρειες</string>
     <string name="power_center_battery_duration">Χρόνος που απομένει</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
+    <string name="power_center_battery_duration_screen_on">Υπόλοιπος χρόνος οθόνης</string>
     <string name="power_center_battery_hardware">Υλικό %s</string>
     <string name="power_center_battery_health_poor_tip">Φαίνεται ότι η κατάσταση της μπαταρίας είναι χαμηλή. Ελέγξτε την σε ένα εξουσιοδοτημένο κέντρο.</string>
     <string name="power_center_battery_health_summary">Πλήρης φόρτιση και αποφόρτιση της συσκευής σας %1$d-%2$d φορές για ακρίβεια στατιστικών κατάστασης της μπαταρίας</string>
@@ -3393,6 +3412,7 @@
     <string name="power_center_consume_fast">Άδειασμα</string>
     <string name="power_center_dialog_msg_bottom">Μπορείτε να αυξήσετε τη διάρκεια της μπαταρίας έως %1$dω %2$dλ. Ενεργοποίηση Εξοικονόμησης μπαταρίας;</string>
     <string name="power_center_dialog_msg_title">Ενεργοποιήστε για να λάβετε %1$s επιπλέον χρόνο. Οι ακόλουθες ενέργειες θα εκτελεστούν για την αποθήκευση της μπαταρίας:</string>
+    <string name="power_center_dialog_msg_title_screen_on">"Θα έχετε %1$s χρόνο οθόνης αν ενεργοποιήσετε αυτή τη λειτουργία. Ακολουθούν τα μέτρα που θα εξοικονομήσουν μπαταρία:"</string>
     <string name="power_center_dialog_msg_top">Όταν η προφύλαξη οθόνης είναι ενεργή, το MIUI θα εκτελέσει τις παρακάτω βελτιστοποιήσεις:</string>
     <string name="power_center_hints_scan_danger_result">Μπορείτε να διορθώσετε προβλήματα μπαταρίας τώρα</string>
     <string name="power_center_list_item_auto_brightness">Αυτόμ. ρύθμιση φωτεινότητας οθόνης</string>
@@ -3511,6 +3531,8 @@
     <string name="power_idle">Τηλέφωνο σε αδράνεια</string>
     <string name="power_main_battery_last_day_hour">%1$s Ημ %2$s Ωρ απομένουν</string>
     <string name="power_main_battery_last_hour_minute">%1$s Ωρ %2$s Λεπ απομένουν</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s του χρόνου οθόνης που απομένει</string>
+    <string name="power_main_open_last_hour_minute_screen_on">Ενεργοποιήστε για να προσθέσετε %1$s %2$s χρόνο οθόνης</string>
     <string name="power_off_warning_button_ok">Το έπιασα</string>
     <string name="power_off_warning_message">Χαμηλή μπαταρία. Η συσκευή σας θα τερματιστεί %d δευτερόλεπτα. Συνδέστε το φορτιστή.</string>
     <string name="power_off_warning_notification_title">Σχετικά</string>

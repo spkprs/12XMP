@@ -110,6 +110,8 @@
     <string name="cancel_moving_dialog_message">Να σταματήσει την εισαγωγή τώρα;</string>
     <string name="cancel_moving_dialog_title">Να σταματήσει την εισαγωγή</string>
     <string name="cancel_restore">Ακύρωση επαναφοράς</string>
+    <string name="category_contacts">Επαφές</string>
+    <string name="category_message_contacts">Μηνύματα και Επαφές</string>
     <string name="check_privacy_policy">Προβολή Πολιτικής Απορρήτου</string>
     <string name="click_soft_ap_to_link">Επιλέξτε ένα hotspot για σύνδεση</string>
     <string name="click_to_view">Πατήστε για να δείτε</string>
@@ -536,6 +538,8 @@
     <string name="permission_read_storage_global">Πρόσβαση αποθήκευσης</string>
     <string name="permission_read_write_storage">Για τη δημιουργία αντιγράφων στοιχείων, επιτρέψτε πρώτα σε αυτή τη λειτουργία να αποκτήσει πρόσβαση στον αποθηκευτικό χώρο.</string>
     <string name="permission_read_write_sys_app">Για τη δημιουργία αντιγράφων και επαναφοράς, μηνύματα, επαφές και ιστορικό κλήσεων, επιτρέψτε πρώτα την πρόσβαση σε αυτά τα στοιχεία.</string>
+    <string name="permission_read_write_sys_app1">Επιτρέψτε αυτή τη λειτουργία την πρόσβαση στα μηνύματα και τις επαφές σας για να μπορείτε να δημιουργήσετε αντίγραφα και να επαναφέρετε αυτά τα στοιχεία.</string>
+    <string name="permission_read_write_sys_app2">Επιτρέψτε αυτή τη λειτουργία την πρόσβαση στις επαφές σας για να μπορείτε να δημιουργήσετε αντίγραφα και να επαναφέρετε αυτά τα στοιχεία.</string>
     <string name="permission_related">Άδειες</string>
     <string name="permission_restore_calendar">Για την επαναφορά συμβάντων ημερολογίου</string>
     <string name="permission_restore_calendar_desc">Για την επαναφορά συμβάντων ημερολογίου, επιτρέψτε σε αυτήν την εφαρμογή να επεξεργαστεί πρώτα τα συμβάντα ημερολογίου.</string>

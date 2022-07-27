@@ -929,5 +929,21 @@
         <item quantity="other">%d νέες ειδοποιήσεις</item>
         <item quantity="one">%d νέα ειδοποίηση</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ώρ.</item>
+        <item quantity="one">%s ώρ.</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s λεπ.</item>
+        <item quantity="one">%s λεπ.</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s λεπ. χρόνου οθόνης απομένουν</item>
+        <item quantity="one">%s λεπ. χρόνου οθόνης απομένουν</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Ενεργοποίηση για να προσθέσετε %s λεπ. χρόνου οθόνης</item>
+        <item quantity="one">Ενεργοποίηση για να προσθέσετε %s λεπ. χρόνου οθόνης</item>
+    </plurals>
 </resources>
 
