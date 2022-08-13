@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bluetooth_dun_profile_summary_connected">Σύνδεση με Dun Server</string>
+    <string name="bluetooth_dun_profile_summary_use_for">Χρήση για πρόσβαση σε Dial-up δίκτυο</string>
+    <string name="kg_too_many_failed_attempts_countdown">{count, plural, =1 {Δοκιμάστε ξανά σε # δευτ..} other {Δοκιμάστε ξανά σε # δευτ.} }</string>
+    <string name="wifi_coverage_extend">Ενεργοποίηση της λειτουργίας επέκτασης κάλυψης Wi-Fi</string>
+    <string name="wifi_coverage_extend_summary">Ενεργοποίηση επέκτασης της κάλυψης Wi-Fi με χρήση Hotspot</string>
+    <string name="battery_low_title">Ενεργοποίηση της εξοικονόμησης μπαταρίας;</string>
+    <string name="controls_media_close_session">Απόκρυψη αυτού του ελέγχου πολυμέσων για %1$s?</string>
+    <string name="controls_media_dismiss_button">Απόκρυψη</string>
+    <string name="kg_invalid_sim_puk_hint">PUK κωδικός πρέπει να είναι 8 ή περισσότεροι αριθμοί.</string>
+    <string name="monitoring_description_managed_profile_named_vpn">Οι εφαρμογές εργασίας σας είναι συνδεδεμένες στο διαδίκτυο μέσω %1$s. Η δικτυακή σας δραστηριότητα στις εφαρμογές εργασίας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στο διαχειριστή πληροφορικής και στον πάροχο VPN.Οι εφαρμογές εργασίας σας είναι συνδεδεμένες στο διαδίκτυο μέσω %1$s. Η δικτυακή σας δραστηριότητα στις εφαρμογές εργασίας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στο διαχειριστή πληροφορικής και στον πάροχο VPN.</string>
+    <string name="monitoring_description_named_vpn">Αυτή η συσκευή είναι συνδεδεμένη στο διαδίκτυο μέσω %1$s. Η δραστηριότητά σας στο δίκτυο, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στο IT admin.</string>
+    <string name="monitoring_description_personal_profile_named_vpn">Οι προσωπικές σας εφαρμογές είναι συνδεδεμένες στο διαδίκτυο μέσω %1$s. Η δραστηριότητά σας στο δίκτυο, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στον πάροχο του VPN σας.</string>
+    <string name="monitoring_description_two_named_vpns">Αυτή η συσκευή είναι συνδεδεμένη στο διαδίκτυο μέσω %1$s και %2$s. Η δραστηριότητά σας στο δίκτυο, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στο IT admin.</string>
+    <string name="quick_settings_disclosure_managed_profile_named_vpn">Οι εφαρμογές εργασίας σας είναι συνδεδεμένες στο διαδίκτυο μέσω %1$s</string>
+    <string name="quick_settings_disclosure_management_named_vpn">Αυτή η συσκευή ανήκει στον οργανισμό σας και είναι συνδεδεμένη στο διαδίκτυο μέσω %1$s</string>
+    <string name="quick_settings_disclosure_management_vpns">Αυτή η συσκευή ανήκει στον οργανισμό σας και είναι συνδεδεμένη στο διαδίκτυο μέσω VPNs</string>
+    <string name="quick_settings_disclosure_named_management_named_vpn">Αυτή η συσκευή ανήκει στην %1$s και είναι συνδεδεμένη στο διαδίκτυο μέσω %2$s</string>
+    <string name="quick_settings_disclosure_named_management_vpns">Αυτή η συσκευή ανήκει στην %1$s και είναι συνδεδεμένη στο διαδίκτυο μέσω VPNs</string>
+    <string name="quick_settings_disclosure_named_vpn">Αυτή η συσκευή είναι συνδεδεμένη στο διαδίκτυο μέσω %1$s</string>
+    <string name="quick_settings_disclosure_personal_profile_named_vpn">Οι προσωπικές σας εφαρμογές συνδέονται στο διαδίκτυο μέσω %1$s</string>
+    <string name="quick_settings_disclosure_vpns">Αυτή η συσκευή είναι συνδεδεμένη στο διαδίκτυο μέσω VPNs</string>
+</resources>

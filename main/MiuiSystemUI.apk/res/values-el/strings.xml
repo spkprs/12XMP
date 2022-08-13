@@ -2654,8 +2654,6 @@
     <string name="biometric_dialog_tap_confirm_with_face">Ξεκλείδωμα από το πρόσωπο. Πατήστε το εικονίδιο ξεκλειδώματος για να συνεχίσετε.</string>
     <string name="bluetooth_bc_profile_summary_connected">Σύνδεση με διακομιστή BA</string>
     <string name="bluetooth_bc_profile_summary_use_for">Χρήση για BA</string>
-    <string name="bluetooth_dun_profile_summary_connected">Σύνδεση με Dun Server</string>
-    <string name="bluetooth_dun_profile_summary_use_for">Χρήση για πρόσβαση σε Dial-up δίκτυο</string>
     <string name="bluetooth_hearing_aid_left_active">Ενεργό, μόνο αριστερά</string>
     <string name="bluetooth_hearing_aid_left_and_right_active">Ενεργό, αριστερά και δεξιά</string>
     <string name="bluetooth_hearing_aid_right_active">Ενεργό, μόνο δεξιά</string>
@@ -2734,7 +2732,6 @@
     <string name="keyguard_indication_charging_time_dock">%2$s • Βάση φόρτισης - Πλήρης σε %1$s</string>
     <string name="keyguard_plugged_in_dock">%s • Βάση φόρτισης</string>
     <string name="kg_face_sensor_privacy_enabled">Για να χρησιμοποιήσετε το ξεκλείδωμα προσώπου, ενεργοποιήστε την επιλογή <b>Πρόσβαση στην κάμερα</b> στις Ρυθμίσεις > Απόρρητο</string>
-    <string name="kg_too_many_failed_attempts_countdown">{count, plural, =1 {Δοκιμάστε ξανά σε # δευτ..} other {Δοκιμάστε ξανά σε # δευτ.} }</string>
     <string name="letterbox_education_dialog_subtext">Δοκιμάστε μία από αυτές τις επιλογές για να αξιοποιήσετε στο έπακρο το χώρο σας</string>
     <string name="letterbox_education_dialog_title">Ορισμένες εφαρμογές λειτουργούν καλύτερα σε πορτραίτο</string>
     <string name="letterbox_education_got_it">Κατανοητό</string>
@@ -2811,8 +2808,6 @@
     <string name="usb_audio_device_permission_prompt_title">Επιτρέψτε σε %1$s να έχει πρόσβαση %2$s?</string>
     <string name="usb_audio_device_prompt">Η χρήση του %1$s με αυτή τη συσκευή ενδέχεται να εμποδίσει την ακρόαση κλήσεων, ειδοποιήσεων και συναγερμών.</string>
     <string name="usb_audio_device_prompt_warn">Αυτή η εφαρμογή δεν έχει λάβει άδεια εγγραφής, αλλά μπορεί να καταγράψει ήχο μέσω αυτής της συσκευής USB. Η χρήση του %1$s με αυτή τη συσκευή ενδέχεται να εμποδίσει την ακρόαση κλήσεων, ειδοποιήσεων και συναγερμών.</string>
-    <string name="wifi_coverage_extend">Ενεργοποίηση της λειτουργίας επέκτασης κάλυψης Wi-Fi</string>
-    <string name="wifi_coverage_extend_summary">Ενεργοποίηση επέκτασης της κάλυψης Wi-Fi με χρήση Hotspot</string>
     <string name="wifi_empty_list_wifi_on">Αναζήτηση δικτύων…</string>
     <string name="wifi_failed_connect_message">Απέτυχε η σύνδεση στο δίκτυο</string>
     <string name="wifi_non_persistent_mac_randomization">Wi‑Fi μη συνεχής τυχαιοποίηση της MAC</string>
@@ -2823,24 +2818,8 @@
     <string name="wifitrackerlib_admin_restricted_network">Δεν επιτρέπεται από τον οργανισμό σας</string>
     <string name="wifitrackerlib_wifi_standard_legacy">Παλαιά</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Άγνωστο</string>
-    <string name="battery_low_title">Ενεργοποίηση της εξοικονόμησης μπαταρίας;</string>
-    <string name="controls_media_close_session">Απόκρυψη αυτού του ελέγχου πολυμέσων για %1$s?</string>
-    <string name="controls_media_dismiss_button">Απόκρυψη</string>
-    <string name="kg_invalid_sim_puk_hint">PUK κωδικός πρέπει να είναι 8 ή περισσότεροι αριθμοί.</string>
     <string name="media_output_dialog_connect_failed">"Δεν μπορεί να αλλάξει. Πατήστε για να προσπαθήσετε ξανά."</string>
     <string name="media_output_dialog_disconnected">(αποσυνδεδεμένο)</string>
-    <string name="monitoring_description_managed_profile_named_vpn">Οι εφαρμογές εργασίας σας είναι συνδεδεμένες στο διαδίκτυο μέσω %1$s. Η δικτυακή σας δραστηριότητα στις εφαρμογές εργασίας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στο διαχειριστή πληροφορικής και στον πάροχο VPN.Οι εφαρμογές εργασίας σας είναι συνδεδεμένες στο διαδίκτυο μέσω %1$s. Η δικτυακή σας δραστηριότητα στις εφαρμογές εργασίας, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στο διαχειριστή πληροφορικής και στον πάροχο VPN.</string>
-    <string name="monitoring_description_named_vpn">Αυτή η συσκευή είναι συνδεδεμένη στο διαδίκτυο μέσω %1$s. Η δραστηριότητά σας στο δίκτυο, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στο IT admin.</string>
-    <string name="monitoring_description_personal_profile_named_vpn">Οι προσωπικές σας εφαρμογές είναι συνδεδεμένες στο διαδίκτυο μέσω %1$s. Η δραστηριότητά σας στο δίκτυο, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στον πάροχο του VPN σας.</string>
-    <string name="monitoring_description_two_named_vpns">Αυτή η συσκευή είναι συνδεδεμένη στο διαδίκτυο μέσω %1$s και %2$s. Η δραστηριότητά σας στο δίκτυο, συμπεριλαμβανομένων των μηνυμάτων ηλεκτρονικού ταχυδρομείου και των δεδομένων περιήγησης, είναι ορατή στο IT admin.</string>
-    <string name="quick_settings_disclosure_managed_profile_named_vpn">Οι εφαρμογές εργασίας σας είναι συνδεδεμένες στο διαδίκτυο μέσω %1$s</string>
-    <string name="quick_settings_disclosure_management_named_vpn">Αυτή η συσκευή ανήκει στον οργανισμό σας και είναι συνδεδεμένη στο διαδίκτυο μέσω %1$s</string>
-    <string name="quick_settings_disclosure_management_vpns">Αυτή η συσκευή ανήκει στον οργανισμό σας και είναι συνδεδεμένη στο διαδίκτυο μέσω VPNs</string>
-    <string name="quick_settings_disclosure_named_management_named_vpn">Αυτή η συσκευή ανήκει στην %1$s και είναι συνδεδεμένη στο διαδίκτυο μέσω %2$s</string>
-    <string name="quick_settings_disclosure_named_management_vpns">Αυτή η συσκευή ανήκει στην %1$s και είναι συνδεδεμένη στο διαδίκτυο μέσω VPNs</string>
-    <string name="quick_settings_disclosure_named_vpn">Αυτή η συσκευή είναι συνδεδεμένη στο διαδίκτυο μέσω %1$s</string>
-    <string name="quick_settings_disclosure_personal_profile_named_vpn">Οι προσωπικές σας εφαρμογές συνδέονται στο διαδίκτυο μέσω %1$s</string>
-    <string name="quick_settings_disclosure_vpns">Αυτή η συσκευή είναι συνδεδεμένη στο διαδίκτυο μέσω VPNs</string>
     <string name="wallet_secondary_label_no_card">Πατήστε για να ανοίξετε</string>
     <string name="quick_settings_bluetooth_connected_tip">Συνδέθηκε επιτυχώς μέσω Bluetooth</string>
     <string name="quick_settings_bluetooth_disconnected_tip">Όλες οι συσκευές Bluetooth θα παραμείνουν αποσυνδεδεμένες σήμερα</string>

@@ -68,7 +68,6 @@
     <string name="error_ble_connect_failure">"Η συσκευή λήψης δεν μπόρεσε να συνδεθεί στο Bluetooth. Βεβαιωθείτε ότι η οθόνη της είναι ενεργοποιημένη."</string>
     <string name="error_ble_connect_timeout">"Δεν ήταν δυνατή η σύνδεση με Bluetooth. Επανασυνδεθείτε στο Bluetooth και στις δύο συσκευές και δοκιμάστε ξανά."</string>
     <string name="error_device_lost">Φαίνεται ότι η άλλη συσκευή δεν είναι προσβάσιμη. Δοκιμάστε ξανά.</string>
-    <string name="error_device_lost">"Φαίνεται ότι η άλλη συσκευή δεν ανταποκρίνεται. Περιμένετε ένα-δύο λεπτά και προσπαθήστε ξανά."</string>
     <string name="error_has_occurred">Παρουσιάστηκε σφάλμα</string>
     <string name="error_mirror_working">"Δεν είναι δυνατή η κοινή χρήση στοιχείων κατά την κοινή χρήση της οθόνης"</string>
     <string name="error_msg_network_error_china">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις συνδέσεις WLAN και Bluetooth των δύο συσκευών."</string>
