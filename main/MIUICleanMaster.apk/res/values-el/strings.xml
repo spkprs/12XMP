@@ -1064,4 +1064,13 @@
     <string name="xiaomi_market_sdk_update_dialog_title">Διατίθεται μια ενημέρωση</string>
     <string name="year_month_day_format">MMM dd, yyyy</string>
     <string name="yesterday">Χθές</string>
+    <string name="app_name_securitycenter">Ασφάλεια</string>
+    <string name="dialog_btn_delete_icon">Αφαίρεση</string>
+    <string name="dialog_btn_no_create_icon">Ακύρωση</string>
+    <string name="dialog_btn_yes_create_icon">Προσθήκη</string>
+    <string name="dialog_msg_create_icon_content">Προσθέστε μια συντόμευση αρχικής οθόνης τώρα;</string>
+    <string name="dialog_msg_create_icon_not_remain_anymore">"Μην εμφανιστεί ξανά"</string>
+    <string name="dialog_msg_delete_icon_content">Η ασφάλεια σας επιτρέπει να καθαρίζετε τα σκουπίδια της συσκευής σας, να βρίσκετε και να εξουδετερώνετε ιούς, να εξοικονομείτε μπαταρία, να διαχειρίζεστε δικαιώματα και πολλά άλλα..</string>
+    <string name="dialog_msg_delete_icon_title">Κατάργηση αυτής της συντόμευσης αρχικής οθόνης;</string>
+    <string name="manual_item_create_icon_title">Συντόμευση στην αρχική οθόνη</string>
 </resources>

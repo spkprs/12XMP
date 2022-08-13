@@ -621,4 +621,11 @@
     <string name="yes_vote_ratio">Υπέρ %1$s%%</string>
     <string name="yesterday">Χθες</string>
     <string name="your_location">Η τοποθεσία σας</string>
+    <string name="indices_title_uv">UV</string>
+    <string name="indices_wind_direction_east">Α</string>
+    <string name="indices_wind_direction_north">Β</string>
+    <string name="indices_wind_direction_south">Ν</string>
+    <string name="indices_wind_direction_west">Δ</string>
+    <string name="setting_notification_manager">Ειδοποιήσεις</string>
+    <string name="setting_used_to_push_reminder">Λήψη ειδοποιήσεων και προειδοποιήσεων για τις καιρικές συνθήκες</string>
 </resources>

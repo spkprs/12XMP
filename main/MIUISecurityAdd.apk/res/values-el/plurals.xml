@@ -68,8 +68,8 @@
         <item quantity="one">%d νέα ειδοποίηση</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d ημέρες απομένουν μέχρι να λήξει η περίοδος λειτουργίας ενίσχυσης ταχύτητας δικτύου. Ανανεώστε τη συνεδρία για να αποφύγετε προβλήματα ταχύτητας δικτύου.</item>
-        <item quantity="one">%d ημέρa απομένei μέχρι να λήξει η περίοδος λειτουργίας ενίσχυσης ταχύτητας δικτύου. Ανανεώστε τη συνεδρία για να αποφύγετε προβλήματα ταχύτητας δικτύου.</item>
+        <item quantity="other">Η συνεδρία ενίσχυσης της ταχύτητας του δικτύου σας θα λήξει σε %d ημέρες. Μπορεί να αρχίσετε να αντιμετωπίζετε καθυστερήσεις στο δίκτυο. Να ανανεώσετε τη συνεδρία τώρα;</item>
+        <item quantity="one">Η συνεδρία ενίσχυσης της ταχύτητας του δικτύου σας θα λήξει σε %d ημέρα. Μπορεί να αρχίσετε να αντιμετωπίζετε καθυστερήσεις στο δίκτυο. Να ανανεώσετε τη συνεδρία τώρα;</item>
     </plurals>
   <plurals name="num_minutes_ago">
     <item quantity="other">%d λεπτά πριν</item>
@@ -79,4 +79,16 @@
     <item quantity="other">%d επιλεγμένα</item>
     <item quantity="one">%d επιλεγμένο</item>
   </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ώρ</item>
+        <item quantity="one">%s ώρ</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s λεπ</item>
+        <item quantity="one">%s λεπ</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s λεπ. χρόνου οθόνης που απομένουν</item>
+        <item quantity="one">%s λεπ. χρόνου οθόνης που απομένουν</item>
+    </plurals>
 </resources>

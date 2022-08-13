@@ -993,4 +993,5 @@
     <string name="you_have_permission_to_download">Πατήστε για λήψη της έκδοσης Beta</string>
     <string name="you_id">"Το ID σας: "</string>
     <string name="your_application_is_under_review">" (Η αίτησή σας εξετάζεται.)"</string>
+    <string name="save_documents_ui">Αποθηκεύτηκε στη Διαχείριση αρχείων</string>
 </resources>

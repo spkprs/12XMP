@@ -664,4 +664,7 @@
      <string name="zen_mode_forever">Μέχρι να απενεργοποιήσετε</string>
      <string name="zen_mode_settings_summary_off">Ποτέ</string>
      <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση λειτουργίας \"Μην ενοχλείτε\"</string>
+    <string name="long_traces_summary_betterbug">Αποθηκεύεται συνεχώς στον αποθηκευτικό χώρο της συσκευής (δεν θα επισυνάπτεται αυτόματα στις αναφορές σφαλμάτων)</string>
+    <string name="num_categories_selected">{count, plural, =1 {# επιλεγμένο} other {# επιλεγμένα} }</string>
+    <string name="turn_screen_on_title">Ενεργοποίηση οθόνης</string>
 </resources>

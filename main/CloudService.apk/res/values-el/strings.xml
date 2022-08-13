@@ -895,5 +895,6 @@
     <string name="wipe_secret_photo_dialog_title">Οι κρυφές φωτογραφίες δεν συγχρονίζονται</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Όλα τα σημαντικά σε ένα μέρος</string>
+    <string name="micloud_storage_family_quota">Κοινόχρηστος χώρος</string>
 </resources>
 

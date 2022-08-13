@@ -291,5 +291,20 @@
     <string name="wireless_charging_tips_message">Τοποθετήστε τη συσκευή που θέλετε να φορτίζετε ασύρματα (π.χ. τηλέφωνο, smartwatch, ακουστικά) στο πίσω μέρος αυτού του τηλεφώνου. Βεβαιωθείτε ότι αυτό το τηλέφωνο έχει φορτιστεί τουλάχιστον %d%% πριν χρησιμοποιήσετε αντίστροφη ασύρματη φόρτιση.</string>
     <string name="wireless_charging_tips_sub_message">Η άλλη συσκευή πρέπει να υποστηρίζει το πρότυπο ασύρματης φόρτισης Qi.</string>
     <string name="wireless_charging_tips_title">Αντίστροφη ασύρματη φόρτιση</string>
+    <string name="controls_add_device_guide">Δεν υπάρχουν συσκευές εδώ ακόμα</string>
+    <string name="controls_click_to_add_device">Προσθήκη συσκευών</string>
+    <string name="controls_default_structure">Έξυπνες οικιακές συσκευές</string>
+    <string name="controls_edit_add_device_guide">Δεν υπάρχουν διαθέσιμες συσκευές για προσθήκη</string>
+    <string name="controls_edit_added_subtitle">Σύρετε αντικείμενα για αναδιάταξη</string>
+    <string name="controls_edit_added_title">Προστέθηκε</string>
+    <string name="controls_edit_done_button">Τέλος</string>
+    <string name="controls_edit_go_to_app_guide">Άνοιγμα</string>
+    <string name="controls_edit_not_added_title">Διαθέσιμη</string>
+    <string name="controls_loading_device">Εναλλαγή τοποθεσιών</string>
+    <string name="controls_not_found_device_toast">Αυτό το στοιχείο αφαιρέθηκε στην εφαρμογή</string>
+    <string name="controls_not_found_device_toast_mihome">Αυτό το στοιχείο αφαιρέθηκε στην εφαρμογή</string>
+    <string name="controls_offline_device_toast">Αυτή η συσκευή είναι εκτός σύνδεσης. Πατήστε παρατεταμένα για να ανοίξετε την εφαρμογή.</string>
+    <string name="controls_unsupport_toggle_toast">"Δεν μπορείτε να ελέγξετε αυτή τη συσκευή από εδώ. Πατήστε παρατεταμένα για να ανοίξετε την εφαρμογή."</string>
+    <string name="offline">Εκτός σύνδεσης</string>
 </resources>
 

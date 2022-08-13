@@ -278,8 +278,8 @@
     <item quantity="one">Εισάγετε τουλάχιστον %d χαρακτήρα</item>
   </plurals>
   <plurals name="net_booster_expire_notification_tip">
-    <item quantity="other">%d ημέρες απομένουν πριν από τη λήξη λειτουργίας Ώθηση Ταχύτητας δικτύου. Ανανεώστε την περίοδο λειτουργίας για να αποφύγετε προβλήματα Ταχύτητας δικτύου.</item>
-    <item quantity="one">%d ημέρα απομένει πριν από τη λήξη λειτουργίας Ώθηση Ταχύτητας δικτύου. Ανανεώστε την περίοδο λειτουργίας για να αποφύγετε προβλήματα Ταχύτητας δικτύου.</item>
+     <item quantity="other">Η συνεδρία ενίσχυσης της ταχύτητας του δικτύου σας θα λήξει σε %d ημέρες. Μπορεί να αρχίσετε να αντιμετωπίζετε καθυστερήσεις στο δίκτυο. Να ανανεώσετε τη συνεδρία τώρα;</item>
+     <item quantity="one">Η συνεδρία ενίσχυσης της ταχύτητας του δικτύου σας θα λήξει σε %d ημέρα. Μπορεί να αρχίσετε να αντιμετωπίζετε καθυστερήσεις στο δίκτυο. Να ανανεώσετε τη συνεδρία τώρα;</item>
   </plurals>
   <plurals name="network_restrict_count">
     <item quantity="other">Η πρόσβαση στο δίκτυο είναι περιορισμένη για &lt;font color=\"#ff0000\"&gt;%d:&lt;/font&gt; εφαρμογές</item>
@@ -944,6 +944,14 @@
     <plurals name="power_main_open_last_minute_screen_on">
         <item quantity="other">Ενεργοποίηση για να προσθέσετε %s λεπ. χρόνου οθόνης</item>
         <item quantity="one">Ενεργοποίηση για να προσθέσετε %s λεπ. χρόνου οθόνης</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Η συνδρομή σας στο Game Turbo θα λήξει σε %d ημέρες.</item>
+        <item quantity="one">Η συνδρομή σας στο Game Turbo θα λήξει σε %d ημέρα.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Η συνδρομή σας στο Game Turbo θα λήξει σε %d ημέρες. Ανανεώστε τώρα για να απολαύσετε απρόσκοπτο παιχνίδι.</item>
+        <item quantity="one">Η συνδρομή σας στο Game Turbo θα λήξει σε %d ημέρα. Ανανεώστε τώρα για να απολαύσετε απρόσκοπτο παιχνίδι.</item>
     </plurals>
 </resources>
 

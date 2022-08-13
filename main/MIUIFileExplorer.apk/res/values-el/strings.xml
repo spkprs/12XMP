@@ -659,4 +659,15 @@
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yes">Ναι</string>
     <string name="yesterday">Χθές</string>
+    <string name="add_to_widget">Προσθήκη στο widget</string>
+    <string name="dialog_keep_choice">Θυμήσου την επιλογή μου</string>
+    <string name="tips_add_to_widget">Μπορείτε να προσθέσετε έως και %d αρχεία σε αυτό το widget. Εάν προσθέσετε περισσότερα αρχεία, τα αρχεία που προστέθηκαν προηγουμένως θα αντικατασταθούν.</string>
+    <string name="widget_add_files">Προσθήκη αρχείου</string>
+    <string name="widget_added_fail_content">%1$s είναι ήδη στην Αρχική οθόνη</string>
+    <string name="widget_added_fail_tips">"Δεν μπόρεσε να προσθέσει"</string>
+    <string name="widget_added_success_content">Προστέθηκε το %1$s στην αρχική οθόνη</string>
+    <string name="widget_added_success_tips">Προστέθηκε με επιτυχία</string>
+    <string name="widget_choose_file">Πατήστε για να προσθέσετε αρχεία</string>
+    <string name="widget_choose_fragment_title">Επιλέξτε τύπο αρχείου</string>
+    <string name="widget_finish">Τέλος</string>
 </resources>

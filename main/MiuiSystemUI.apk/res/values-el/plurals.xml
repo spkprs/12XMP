@@ -187,4 +187,8 @@
         <item quantity="other">Μπορείτε να προσθέσετε έως %d χρήστες.</item>
         <item quantity="one">Μόνο ένας χρήστης μπορεί να δημιουργηθεί.</item>
     </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s εφαρμ. είναι ενεργές</item>
+        <item quantity="one">%s εφαρμ. είναι ενεργή</item>
+    </plurals>
 </resources>

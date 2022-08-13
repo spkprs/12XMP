@@ -230,4 +230,8 @@
   <string name="your_org_app_used">%1$s θα διαχειριστεί και θα παρακολουθεί τη συσκευή χρησιμοποιώντας την ακόλουθη εφαρμογή:</string>
   <string name="your_organization_beginning">Ο οργανισμός σας</string>
   <string name="your_organization_middle">οργανισμό σας</string>
+    <string name="error_role_holder_download_install_failed">Δοκιμάστε ξανά αργότερα ή ζητήστε βοήθεια από το διαχειριστή IT</string>
+    <string name="error_role_holder_hash_mismatch">"Δεν είναι δυνατή η ρύθμιση της συσκευής. Επικοινωνήστε με το διαχειριστή IT και ανατρέξτε στο \"Μη έγκυρο checksum\"."</string>
+    <string name="error_role_holder_package_invalid">"Δεν είναι δυνατή η ρύθμιση της συσκευής. Επικοινωνήστε με το διαχειριστή IT και ανατρέξτε στην ενότητα \"Στοιχεία που λείπουν ή είναι κατεστραμμένα\"."</string>
+    <string name="setting_up">Ρύθμιση…</string>
 </resources>

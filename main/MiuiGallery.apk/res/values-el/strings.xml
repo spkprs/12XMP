@@ -2024,7 +2024,7 @@
     <string name="projection_cancel">Ακύρωση</string>
     <string name="projection_checkbox_text">Να θυμάται αυτή την οθόνη προβολής</string>
     <string name="projection_device_connection_failed">Αδύνατη η σύνδεση του προβολέα</string>
-    <string name="projection_local_mobile">Αυτό το τηλέφωνο</string>
+    <string name="projection_local_mobile">Αυτή η συσκευή</string>
     <string name="projection_multi_title">Συσκευές</string>
     <string name="projection_screen_project_in_screening">Χρησιμοποιείτε τη συσκευή σας για μετάδοση τώρα</string>
     <string name="projection_single_title">Προβολή σε %s</string>
@@ -3133,4 +3133,10 @@
     <string name="yuzhitiaojie">Κλίμακα προσαρμογής πάχους</string>
     <string name="zi_ding_yi_wenben">Προσαρμοσμένο μέγεθος</string>
     <string name="zman_title">Ασφαλής κοινή χρήση</string>
+    <string name="cta_screenthrow_declare">"Για να μπορείτε να μεταφέρετε την οθόνη αυτής της συσκευής σε εξωτερικές οθόνες, αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο."</string>
+    <string name="fail_reason_migrate">Επεξεργασία στοιχείων... Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
+    <string name="home_sdcard_op_tip_msg">"Δεν μπόρεσε να ολοκληρωθεί αυτή η ενέργεια για όλες τις επιλεγμένες εικόνες. Αποσυνδέστε και συνδέστε ξανά την κάρτα SD."</string>
+    <string name="home_sdcard_tip_msg">Φαίνεται ότι η κάρτα SD σας είναι μόνο για ανάγνωση. Αποσυνδέστε την και προσαρτήστε την ξανά στις Ρυθμίσεις &gt; Σχετικά με το τηλέφωνο &gt; Αποθήκευση.</string>
+    <string name="gallery_uninstall_description_content">"Η Συλλογή είναι μια εφαρμογή συστήματος που σας επιτρέπει να προβάλλετε, να διαχειρίζεστε και να συγχρονίζετε φωτογραφίες και βίντεο σε όλες τις συνδεδεμένες συσκευές. Εάν απεγκαταθεί, θα χάσετε τα στοιχεία που κάνατε ιδιωτικά και άλλες λειτουργίες που σχετίζονται με την προβολή και την επιλογή στοιχείων της Συλλογής δεν θα είναι επίσης πλέον διαθέσιμες σε εσάς. Απεγκατάσταση ούτως ή άλλως;"</string>
+    <string name="gallery_uninstall_description_title">Απεγκατάσταση της Συλλογής;</string>
 </resources>

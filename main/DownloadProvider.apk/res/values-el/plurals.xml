@@ -13,4 +13,12 @@
         <item quantity="other">"Αδύνατη η λήψη %1$d αρχείων"</item>
         <item quantity="one">"Αδύνατη η λήψη %1$d αρχείου"</item>
      </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Διαγραφή %d λήψεων;</item>
+        <item quantity="one">Διαγραφή %d λήψης?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Διαγράφηκαν επιτυχώς %s λήψεις</item>
+        <item quantity="one">Διαγράφηκαν επιτυχώς %s λήψη</item>
+    </plurals>
 </resources>

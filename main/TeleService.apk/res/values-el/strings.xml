@@ -2413,4 +2413,8 @@
     <string name="zen_mode_forever">Μέχρι την απεν/ποίηση</string>
     <string name="zen_mode_settings_summary_off">Ποτέ</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση \"Μην ενοχλείτε\"</string>
+    <string name="data_interruption_remind_for_t">"Φαίνεται ότι το περιβάλλον του δικτύου σας δεν είναι αξιόπιστο. Για να βελτιώσετε τη σύνδεση, επιτρέψτε στη συσκευή σας να χρησιμοποιεί δεδομένα κινητής τηλεφωνίας κατά τη διάρκεια κλήσεων VoLTE στη δευτερεύουσα SIM."</string>
+    <string name="smart_switch_dual_sim_prompt">Η σύνδεση σε δίκτυο δεδομένων κινητής τηλεφωνίας με χρήση της SIM %1$s μπορεί να δημιουργήσει πρόσθετες χρεώσεις δεδομένων. Ορίστε ένα όριο χρήσης δεδομένων για να αποφύγετε πρόσθετες χρεώσεις.</string>
+    <string name="smart_switch_dual_sim_summary">Αυτόματη εναλλαγή μεταξύ καρτών SIM δεδομένων με βάση την ποιότητα της σύνδεσης δικτύου και την κατάσταση της συσκευής</string>
+    <string name="smart_switch_dual_sim_title">Εναλλαγή μεταξύ καρτών SIM δεδομένων</string>
 </resources>

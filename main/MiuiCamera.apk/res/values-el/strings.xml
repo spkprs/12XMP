@@ -1847,4 +1847,17 @@
     <string name="widget_camera_lens_description">Πειραματιστείτε με την εστιακή απόσταση</string>
     <string name="widget_camera_lens_none_description">Φακός πενήντα χιλιοστών για πορτρέτα</string>
     <string name="widget_camera_lens_talk_back">Φακοί Pro</string>
+    <string name="pref_cv_watermark_location_title">Συντεταγμένες</string>
+    <string name="pref_cv_watermark_time_title">Χρόνος</string>
+    <string name="accessibility_beauty_compare">Προβολή εικόνας με ή χωρίς Beautify</string>
+    <string name="camera_newcta_storage_message_1">Για αποθήκευση και προβολή εικόνων, βίντεο και αρχείων</string>
+    <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps τα βίντεο να έχουν έως και %2d δευτ.</string>
+    <string name="moiton_detection_tip">Ανίχνευση κίνησης... Κρατήστε τη συσκευή σταθερή.</string>
+    <string name="moiton_detection_video_3840fps_3840">%dFPS</string>
+    <string name="moiton_detection_video_electric_quantity_tip">Φορτίστε τη συσκευή σας για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="moiton_detection_video_temperature_stop_tip">Η συσκευή σας έχει υπερθερμανθεί. Η εγγραφή θα σταματήσει σε %d δευτ.</string>
+    <string name="moiton_detection_video_temperature_tip">Ψύξτε τη συσκευή σας για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="pixel_mode_capture_hint">Βεβαιωθείτε ότι το περιβάλλον είναι καλά φωτισμένο</string>
+    <string name="pref_motioon_detection">Ανίχνευση κίνησης</string>
+    <string name="qvga_shelter_tip_text">"Μην καλύπτετε τον φακό"</string>
 </resources>

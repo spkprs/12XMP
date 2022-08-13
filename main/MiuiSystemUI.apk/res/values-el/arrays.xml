@@ -346,4 +346,25 @@
         <item>Κλίμακα κίνησης 5.0x</item>
         <item>Κλίμακα κίνησης 10x</item>
      </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Μη διαθέσιμο</item>
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Μη διαθέσιμο</item>
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Μη διαθέσιμο</item>
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Μετακίνηση αριστερά</item>
+        <item>Μετακίνηση κάτω</item>
+        <item>Μετακίνηση δεξιά</item>
+        <item>Μετακίνηση πάνω</item>
+    </string-array>
 </resources>

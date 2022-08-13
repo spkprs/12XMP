@@ -183,8 +183,8 @@
     <string name="cw_added_fav_no_pic">Δεν υπάρχουν στοιχεία εδώ.</string>
     <string name="cw_added_toast">Αυτό το στοιχείο προστέθηκε πριν.</string>
     <string name="cw_adding">Προστέθηκαν (%1$d)</string>
-    <string name="cw_album_no_pic">Δεν ήταν δυνατή η εύρεση εικόνων στη συσκευή σας</string>
-    <string name="cw_album_no_right">Αφήστε το Καρουσέλ να αποκτήσει πρόσβαση στην Συλλογή</string>
+    <string name="cw_album_no_pic">Τίποτα εδώ ακόμα</string>
+    <string name="cw_album_no_right">Απαιτούμενες άδειες</string>
     <string name="cw_all_folder">Πρόσφατες εικόνες</string>
     <string name="cw_batch_all_added_tip">Δεν είναι δυνατή η προσθήκη στοιχείων που προστέθηκαν πριν.</string>
     <string name="cw_batch_part_tip_fail">Προστέθηκαν ορισμένα στοιχεία</string>
@@ -195,7 +195,7 @@
     <string name="cw_delete">Διαγραφή</string>
     <string name="cw_delete2">Διαγραφή (%d)</string>
     <string name="cw_deleting">Διαγραφή (%1$d/%2$d)</string>
-    <string name="cw_local_pic">Συλλογή</string>
+    <string name="cw_local_pic">Επιλογή εικόνων</string>
     <string name="cw_my_fav">Αγαπημένες</string>
     <string name="cw_permission_tip">Αφήστε το Καρουσέλ να αποκτήσει πρόσβαση στο χώρο αποθήκευσης στις Ρυθμίσεις > Ρυθμίσεις εφαρμογής</string>
     <string name="cw_wallpaper_empty_dlg_btn">Το κατάλαβα</string>
@@ -222,7 +222,7 @@
     <string name="detail_menu_history">Ιστορικό</string>
     <string name="detail_menu_home">Μετάβαση στην σελίδα έναρξης</string>
     <string name="detail_menu_setting">Ρυθμίσεις εφαρμογής</string>
-    <string name="detail_menu_settingbtn_save">Αποθήκευση στη συλλογή</string>
+    <string name="detail_menu_settingbtn_save">Αποθήκευση</string>
     <string name="detail_menu_settingbtn_setting">Ρυθμίσεις</string>
     <string name="detail_menu_settingbtn_share">Μοιραστείτε</string>
     <string name="detail_menu_wall">Οι σημερινές ταπετσαρίες</string>
@@ -690,7 +690,7 @@
     <string name="saturday">Σάββατο</string>
     <string name="save_hdpicture_in_favor">Προβολή εικόνων HD σε \"Αγαπημένα\"</string>
     <string name="save_picture_success">Αποθηκεύτηκε επιτυχώς</string>
-    <string name="save_to_album">Αποθηκεύτηκε επιτυχώς στην Συλλογή</string>
+    <string name="save_to_album">Αποθηκεύτηκε επιτυχώς</string>
     <string name="save_to_album_fail">Δεν ήταν δυνατή η αποθήκευση</string>
     <string name="scribe_btn_ok">Εγγραφείτε</string>
     <string name="scribe_title1">Εγγραφείτε στο Καρουσέλ ταπετσαρίες</string>
@@ -702,7 +702,7 @@
     <string name="see_more">Δείτε περισσότερα</string>
     <string name="see_more_content">Δείτε περισσότερα</string>
     <string name="select_package">Επιλέξτε έκδοση</string>
-    <string name="select_photo_album">Επιλέξτε άλμπουμ</string>
+    <string name="select_photo_album">Επιλογή εικόνων</string>
     <string name="select_picture">Επιλέξτε εικόνες</string>
     <string name="select_picture_des">Προσθέστε τις φωτογραφίες και τις διαδικτυακές εικόνες σας ανάμικτα για να τις κάνετε να εμφανίζονται αυτόματα στην παρουσίαση.</string>
     <string name="send">Στείλτε</string>

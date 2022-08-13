@@ -1703,4 +1703,7 @@
         Που: 
         %s 
         "</string>
+    <string name="close_tips">Κλείσιμο υπενθύμισης</string>
+    <string name="folder_junk_name_en5">Spam</string>
+    <string name="message_invite_calendar_download_prompt">Κατεβάστε το Ημερολόγιο για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία</string>
 </resources>

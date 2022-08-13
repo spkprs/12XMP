@@ -1442,4 +1442,7 @@
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Χθες</string>
+    <string name="recommend_bottom_tips">Είναι ήδη στο κάτω μέρος</string>
+    <string name="install_gallery_content">"Δεν έχετε εγκαταστήσει ακόμα τη Συλλογή. Λήψη τώρα;"</string>
+    <string name="install_gallery_title">Εγκατάσταση Συλλογής</string>
 </resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Γρήγορη προώθηση %d δευτ.</item>
+        <item quantity="one">Γρήγορη προώθηση %d δευτ.</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Ξαναγυρίστε %d δευτ.</item>
+        <item quantity="one">Ξαναγυρίστε %d δευτ.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Διαγραφή ^1 αρχείων ήχου…</item>
+        <item quantity="one">Διαγραφή αρχείου ήχου…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Διαγραφή ^1 στοιχείων…</item>
+        <item quantity="one">Διαγραφή στοιχείου…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Διαγραφή ^1 φωτογραφιών…</item>
+        <item quantity="one">Διαγραφή φωτογραφιών…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Διαγραφή ^1 βίντεο...</item>
+        <item quantity="one">Διαγραφή βίντεο...</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Μετακίνηση ^1 αρχείων ήχου στον κάδο...</item>
+        <item quantity="one">Μετακίνηση αρχείων ήχου στον κάδο...</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Μετακίνηση ^1 στοιχείων στον κάδο...</item>
+        <item quantity="one">Μετακίνηση στοιχείων στον κάδο...</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Μετακίνηση ^1 φωτο στον κάδο...</item>
+        <item quantity="one">Μετακίνηση φωτο στον κάδο...</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Μετακίνηση ^1 βίντεο στον κάδο...</item>
+        <item quantity="one">Μετακίνηση βίντεο στον κάδο...</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Μετακίνηση ^1 αρχείων ήχου απο τον κάδο...</item>
+        <item quantity="one">Μετακίνηση αρχείων ήχου απο τον κάδο...</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Μετακίνηση ^1 στοιχείων απο τον κάδο...</item>
+        <item quantity="one">Μετακίνηση στοιχείων απο τον κάδο...</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Μετακίνηση ^1 φωτο απο τον κάδο...</item>
+        <item quantity="one">Μετακίνηση φωτο απο τον κάδο...</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Μετακίνηση ^1 βίντεο απο τον κάδο...</item>
+        <item quantity="one">Μετακίνηση βίντεο απο τον κάδο...</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Τροποποίηση ^1 αρχείων ήχου...</item>
+        <item quantity="one">Τροποποίηση αρχείων ήχου...</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Τροποποίηση ^1 στοιχείων...</item>
+        <item quantity="one">Τροποποίηση στοιχείων...</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Τροποποίηση ^1 φωτο...</item>
+        <item quantity="one">Τροποποίηση φωτο...</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Τροποποίηση ^1 βίντεο...</item>
+        <item quantity="one">Τροποποίηση βίντεο...</item>
+    </plurals>
+</resources>

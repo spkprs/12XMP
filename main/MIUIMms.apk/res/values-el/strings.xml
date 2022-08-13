@@ -1382,4 +1382,9 @@
     <string name="zero_sms_feedback_message">Τα μηνύματα που αναφέρθηκαν αποστέλλονται στους διακομιστές μας μαζί με τους αριθμούς τηλεφώνου των αποστολέων τους. Αυτά τα μηνύματα χρησιμοποιούνται μόνο για τη βελτίωση της λειτουργικότητας της λίστας Αποκλεισμού.</string>
     <string name="zero_sms_feedback_success">Αναφέρθηκε με επιτυχία</string>
     <string name="zero_sms_feedback_title">Αναφορά</string>
+    <string name="sim_not_support_mms">"Αυτή η κάρτα SIM δεν υποστηρίζει MMS"</string>
+    <string name="download_miui_calendar_detail">Λήψη του Ημερολόγιου για να μπορείτε να προσθέσετε συμβάντα και υπενθυμίσεις ημερολογίου. Ανοίξτε το GetApps τώρα;</string>
+    <string name="download_miui_calendar_title">Λήψη ημερολογίου</string>
+    <string name="notes_not_found">Εγκαταστήστε πρώτα τις Σημειώσεις</string>
+    <string name="soundrecorder_not_found">Εγκαταστήστε πρώτα τη συσκευή εγγραφής</string>
 </resources>

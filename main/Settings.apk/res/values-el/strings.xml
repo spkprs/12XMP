@@ -3177,7 +3177,7 @@
     <string name="gxzw_quick_open_slow_summary">Αγγίξτε παρατεταμένα το εικονίδιο αποτυπώματος για άνοιγμα μενού συντομεύσεων. Σύρετε για χρήση μιάς συντόμευσης.</string>
     <string name="gxzw_quick_open_slow_title">Παρατεταμένο άγγιγμα.</string>
     <string name="gxzw_quick_open_title">Συντομεύσεις</string>
-    <string name="gxzw_vibrate_summary">Δόνηση στην κινούμενη εικόνας ξεκλειδώματος Δακτ. αποτυπώματος</string>
+    <string name="gxzw_vibrate_summary">"Η δόνηση δεν θα πραγματοποιηθεί όταν δεν έχει επιλεγεί κινούμενη εικόνα δακτυλικών αποτυπωμάτων"</string>
     <string name="gxzw_vibrate_title">Δόνηση στο Ξεκλείδωμα</string>
     <string name="handy_mode">Λειτουργία με ένα χέρι</string>
     <string name="handy_mode_enable">Λειτουργία με ένα χέρι</string>
@@ -9201,4 +9201,8 @@ Xiaomi Cloud
 Για κοινή χρήση της τοποθεσίας σας με επαφές έκτακτης ανάγκης
 Αν δεν συμφωνείτε να εκχωρήσετε σε όλες τις παραπάνω άδειες, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να επιλέξετε απενεργοποίηση ή μη χρήση Έκτακτης ανάγκης SOS.
 Πριν χρησιμοποιήσετε τις υπηρεσίες μας, διαβάστε και συμφωνήστε με %s."</string>
+    <string name="miheadset_open_closeAnc">Ακύρωση θορύβου on/off</string>
+    <string name="accept_new_connection">Επιτρέψτε νέες συνδέσεις</string>
+    <string name="accept_new_connection_detail">Οι νέες συνδέσεις bluetooth έχουν απενεργοποιηθεί από το κέντρο ελέγχου</string>
+    <string name="bt_always_show_icon">Εμφανίζει πάντα το εικονίδιο bluetooth στη γραμμή κατάστασης</string>
 </resources>

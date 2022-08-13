@@ -107,4 +107,18 @@
     <string name="refocus_type_static">Θαμπάδα</string>
     <string name="refocus_type_video">Γραμμές φωτισμού</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="auto_crop_full_screen">Πλήρης οθόνη</string>
+    <string name="auto_crop_origin_photo">Αρχική</string>
+    <string name="auto_crop_photo_not_support">"Δεν μπορείτε να χρησιμοποιήσετε το Xiaomi ProCut με αυτή τη φωτογραφία"</string>
+    <string name="auto_crop_save_1">Αποθήκευση…</string>
+    <string name="auto_crop_save_2">Αποθήκευση</string>
+    <string name="auto_crop_selection_hint">Επιλεγμένα %1$d/%2$d</string>
+    <string name="auto_crop_stop_saving">Πατήστε ξανά για ακύρωση</string>
+    <string name="auto_crop_water_mark_description">"Τα υδατογραφήματα δεν θα εμφανίζονται στις εικόνες που επεξεργάζονται με το Xiaomi ProCut. Χρησιμοποιείτε αυτή τη λειτουργία ούτως ή άλλως;"</string>
+    <string name="auto_crop_water_mark_title">"Τα υδατογραφήματα δεν θα εμφανίζονται"</string>
+    <string name="do_not_remind_me">"Μην εμφανιστεί ξανά"</string>
+    <string name="miuix_access_state_desc">Επιλεγμένα</string>
+    <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
+    <string name="miuix_indexer_collect">Συλλογές</string>
+    <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
 </resources>

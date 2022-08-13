@@ -10,7 +10,7 @@
     <string name="HIPS_Perm_Access_Gallery">Πρόσβαση στη Συλλογή</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Επιτρέπει σε αυτήν την εφαρμογή την πρόσβαση σε στοιχεία της Συλλογής σας</string>
     <string name="HIPS_Perm_AudioRecorder">Εγγραφή ήχου</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">να καταγράφει ήχους &amp; τηλεφωνικές κλήσεις</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">εγγραφή ήχου</string>
     <string name="HIPS_Perm_AutoStart">Εκτέλεση κατά την εκκίνηση</string>
     <string name="HIPS_Perm_AutoStart_Desc">να ξεκινά αυτόματα κατά την εκκίνηση της συσκευής</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Αλλαγή κατάστασης Bluetooth</string>
@@ -27,7 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">να τροποποιήσει τις επαφές σας</string>
     <string name="HIPS_Perm_External_Storage">Πρόσβαση Εσωτ. χώρου αποθήκευσης</string>
     <string name="HIPS_Perm_External_Storage_Desc">να προσθέτει &amp; διαγράφει αρχεία στον εσωτερικό χώρο αποθήκευσης της συσκευής</string>
-    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Εγγραφή ήχου &amp; πραγματοποίηση κλήσεων</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">εγγραφή ήχου</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Αυτόματη εκκίνηση εφαρμογών στο παρασκήνιο</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Πρόσβαση σε συμβάντα ημερολογίου</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">Πρόσβαση &amp; επεξεργασία ιστορικού κλήσεων</string>
@@ -200,7 +200,7 @@
     <string name="permdesc_in_calls">Παρακολούθηση εισερχόμενων κλήσεων</string>
     <string name="permdesc_location">Επιτρέπετε στο %1$s να έχει πρόσβαση σε πληροφορίες τοποθεσίας;</string>
     <string name="permdesc_location_background">Επιτρέπετε στην %1$s να έχει πρόσβαση σε πληροφορίες τοποθεσίας στο παρασκήνιο;</string>
-    <string name="permdesc_microphone">Επιτρέπετε στο %1$s να χρησιμοποιεί το μικρόφωνο για εγγραφή ήχου και πραγματοποίηση κλήσεων;</string>
+    <string name="permdesc_microphone">Επιτρέπετε στο %1$s να χρησιμοποιεί μικρόφωνο για εγγραφή ήχου;</string>
     <string name="permdesc_nearby_devices">Επιτρέπετε στο %1$s να ανακαλύψει και να συνδεθεί με τις κοντινές συσκευές;</string>
     <string name="permdesc_out_calls">Παρακολούθηση εξερχόμενων κλήσεων</string>
     <string name="permdesc_process_outgoing_call">Να επιτρέπετε στο %1$s να απαντά και να τερματίζει κλήσεις;</string>

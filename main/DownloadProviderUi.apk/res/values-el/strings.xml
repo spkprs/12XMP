@@ -643,4 +643,5 @@
     <string name="diagnosis_log_sent_format">"Το αρχείο καταγραφής διάγνωσης έχει σταλεί.
 ID:%s
 Στείλτε αυτόν τον κωδικό στον τεχνικό."</string>
+    <string name="storage_permission_deny">Απαιτούνται δικαιώματα αποθήκευσης</string>
 </resources>
