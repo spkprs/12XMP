@@ -243,7 +243,7 @@
     <string name="power_menu_long_press_for_assist_sensitivity_title">Πατήστε &amp; διάρκεια κράτησης</string>
     <string name="prefer_vonr_mode_summary">Ενεργοποίηση ή απενεργοποίηση VoNR</string>
     <string name="prefer_vonr_mode_title">Ενεργοποίηση/Απενεργοποίηση VoNR</string>
-    <string name="preference_of_system_locale_summary">Προεπιλογή συστήματος - %1$s</string>
+    <string name="preference_of_system_locale_summary">Προεπιλογή συστήματος</string>
     <string name="preference_of_system_locale_title">Γλώσσα συστήματος</string>
     <string name="previous_page_content_description">Προηγούμενο</string>
     <string name="privacy_controls_title">Έλεγχοι</string>
@@ -262,10 +262,10 @@
     <string name="screen_resolution_option_high">Υψηλή ανάλυση</string>
     <string name="screen_resolution_option_highest">Υψηλότατη ανάλυση</string>
     <string name="screensaver_settings_toggle_title">Χρήση προφύλαξης οθόνης</string>
-    <string name="security_advanced_settings">Προηγμένες ρυθμίσεις</string>
-    <string name="security_advanced_settings_keywords">Προηγμένες ρυθμίσεις</string>
-    <string name="security_advanced_settings_no_work_profile_settings_summary">Έξυπνο κλείδωμα και άλλα</string>
-    <string name="security_advanced_settings_work_profile_settings_summary">Κλείδωμα προφίλ εργασίας, Έξυπνο κλείδωμα</string>
+    <string name="security_advanced_settings">Περισσότερες ρυθμίσεις ασφαλείας</string>
+    <string name="security_advanced_settings_keywords">ασφάλεια, περισσότερες ρυθμίσεις ασφαλείας, περισσότερες ρυθμίσεις, προηγμένες ρυθμίσεις ασφαλείας</string>
+    <string name="security_advanced_settings_no_work_profile_settings_summary">Κρυπτογράφηση, διαπιστευτήρια και άλλα</string>
+    <string name="security_advanced_settings_work_profile_settings_summary">Κλείδωμα προφίλ εργασίας, κρυπτογράφηση και πολλά άλλα</string>
     <string name="security_settings_face_settings_remove_dialog_details_convenience">Το μοντέλο προσώπου σας θα διαγραφεί μόνιμα και με ασφάλεια.\n\nΜετά τη διαγραφή, θα χρειαστείτε το PIN, το μοτίβο ή τον κωδικό πρόσβασής σας για να ξεκλειδώσετε το τηλέφωνό σας.</string>
     <string name="security_settings_udfps_enroll_edge_message">Τοποθετήστε την πλευρά του δακτυλικού σας αποτυπώματος στον αισθητήρα και κρατήστε την πατημένη και, στη συνέχεια, μεταβείτε στην άλλη πλευρά.</string>
     <string name="security_settings_udfps_enroll_edge_title">Τέλος, χρησιμοποιήστε τις άκρες του δαχτύλου σας</string>
@@ -282,7 +282,7 @@
     <string name="sim_action_switch_sub_dialog_mep_text">Μπορείτε να χρησιμοποιείτε 2 SIM ταυτόχρονα. Για να χρησιμοποιήσετε την %1$s, απενεργοποιήστε μια άλλη SIM.</string>
     <string name="sim_action_switch_sub_dialog_mep_title">Χρήση %1$s?</string>
     <string name="spatial_audio_speaker">Ηχείο τηλεφώνου</string>
-    <string name="spatial_audio_text">Ο χωροταξικός ήχος δημιουργεί καθηλωτικό ήχο που μοιάζει να προέρχεται από παντού γύρω σας. Λειτουργεί μόνο με ορισμένα μέσα.</string>
+    <string name="spatial_audio_text">Ο ήχος από συμβατά μέσα γίνεται πιο καθηλωτικός</string>
     <string name="spatial_audio_title">Χωροταξικός ήχος</string>
     <string name="spatial_audio_wired_headphones">Ενσύρματα ακουστικά</string>
     <string name="spatial_summary_off">Off</string>
@@ -304,7 +304,7 @@
     <string name="wifi_ap_prefer_6G">6.0 GHz Προτιμάται μπάντα</string>
     <string name="wifi_non_persistent_mac_randomization">WLAN μη συνεχής τυχαιοποίηση της MAC</string>
     <string name="wifi_non_persistent_mac_randomization_summary">"Όταν είναι ενεργοποιημένη αυτή η λειτουργία, η διεύθυνση MAC αυτής της συσκευής μπορεί να αλλάζει κάθε φορά που συνδέεται σε ένα δίκτυο που έχει ενεργοποιημένη την τυχαιοποίηση MAC."</string>
-    <string name="wifi_scan_notify_message">Για τη βελτίωση της εμπειρίας της συσκευής, οι εφαρμογές και οι υπηρεσίες μπορούν να εξακολουθούν να πραγματοποιούν σάρωση για δίκτυα Wi-Fi ανά πάσα στιγμή, ακόμη και όταν το Wi-Fi είναι απενεργοποιημένο. Αυτό μπορεί να χρησιμοποιηθεί, για παράδειγμα, για τη βελτίωση λειτουργιών και υπηρεσιών που βασίζονται στην τοποθεσία. Μπορείτε να το αλλάξετε αυτό στις ρυθμίσεις σάρωσης Wi-Fi. <annotation id="link">Αλλαγή</annotation></string>
+    <string name="wifi_scan_notify_message">Για τη βελτίωση της εμπειρίας της συσκευής, οι εφαρμογές και οι υπηρεσίες μπορούν να εξακολουθούν να πραγματοποιούν σάρωση για δίκτυα Wi-Fi ανά πάσα στιγμή, ακόμη και όταν το Wi-Fi είναι απενεργοποιημένο. Αυτό μπορεί να χρησιμοποιηθεί, για παράδειγμα, για τη βελτίωση λειτουργιών και υπηρεσιών που βασίζονται στην τοποθεσία. Μπορείτε να το αλλάξετε αυτό στις ρυθμίσεις σάρωσης Wi-Fi.</string>
     <string name="wifi_tether_carrier_unsupport_dialog_content">Επικοινωνήστε με τον φορέα σας για λεπτομέρειες</string>
     <string name="wifi_tether_carrier_unsupport_dialog_title">Μη διαθέσιμη η πρόσδεση</string>
     <string name="wifi_trust_on_first_use">Έμπιστο στην πρώτη χρήση</string>
@@ -331,4 +331,18 @@
     <string name="sim_action_switch_sub_dialog_progress">Εναλλαγή σε %1$s για κλήσεις και μηνύματα...</string>
     <string name="unused_apps_switch">Παύση δραστηριότητας εφαρμογής</string>
     <string name="user_add_max_count">Δεν μπορείτε να προσθέσετε άλλους χρήστες. Αφαιρέστε έναν χρήστη για να προσθέσετε έναν νέο.</string>
+    <string name="lock_settings_picker_admin_restricted_personal_message">Αν ξεχάσετε το κλείδωμα οθόνης, ο διαχειριστής πληροφορικής δεν μπορεί να το επαναφέρει.</string>
+    <string name="screen_pinning_description">"Όταν μια εφαρμογή είναι καρφιτσωμένη, η καρφιτσωμένη εφαρμογή μπορεί να ανοίξει άλλες εφαρμογές και τα προσωπικά δεδομένα μπορεί να είναι προσβάσιμα.. 
+
+Για να χρησιμοποιήσετε την καρφίτωση εφαρμογών: \u0009
+1. Ενεργοποιήστε την καρφίτωση εφαρμογών \u0009
+2. Άνοιγμα επισκόπησης \u0009
+3. Πατήστε το εικονίδιο της εφαρμογής στο επάνω μέρος της οθόνης και, στη συνέχεια, πατήστε Καρφίτσωμα"</string>
+    <string name="screen_pinning_guest_user_description">"Όταν μια εφαρμογή είναι καρφιτσωμένη, η καρφιτσωμένη εφαρμογή μπορεί να ανοίξει άλλες εφαρμογές και τα προσωπικά δεδομένα μπορεί να είναι προσβάσιμα. 
+Αν θέλετε να μοιραστείτε με ασφάλεια τη συσκευή σας με κάποιον, δοκιμάστε να χρησιμοποιήσετε έναν φιλοξενούμενο χρήστη. 
+
+Για να χρησιμοποιήσετε την καρφίτωση εφαρμογών: \u0009
+1. Ενεργοποιήστε την καρφίτωση εφαρμογών \u0009
+2. Άνοιγμα επισκόπησης \u0009
+3. Πατήστε το εικονίδιο της εφαρμογής στο επάνω μέρος της οθόνης και, στη συνέχεια, πατήστε Καρφίτσωμα"</string>
 </resources>

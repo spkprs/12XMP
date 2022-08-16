@@ -896,5 +896,7 @@
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Όλα τα σημαντικά σε ένα μέρος</string>
     <string name="micloud_storage_family_quota">Κοινόχρηστος χώρος</string>
+    <string name="find_permission_phone_sim_info_summary">Για πρόσβαση στη θέση σας μέσω SMS όταν δεν είστε συνδεδεμένοι στο δίκτυο</string>
+    <string name="find_permission_phone_sim_info_title">Πρόσβαση σε πληροφορίες συσκευής</string>
 </resources>
 

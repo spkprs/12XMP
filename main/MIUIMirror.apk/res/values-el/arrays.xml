@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="settings_search_mirror">
-    <item>Screen Combo</item>
-    <item>Σύνδεση &amp; κοινή χρήση/Screen Combo</item>
-    <item>Screen Combo;Πολλαπλές οθόνες;Μετάδοση;PC;Υπολογιστής</item>
+        <item>Συνδεδεμένες συσκευές</item>
+        <item>Σύνδεση &amp; κοινή χρήση/συνδεδεμένες συσκευές</item>
+        <item>MIUI+, MIUIPLUS, handoff, multiscreen, διασυνδεσιμότητα, αντικατοπτρισμός οθόνης, ποντίκι και πληκτρολόγιο, επέκταση οθόνης, app handoff, Mi Smart Hub, καθρέφτης, επέκταση, multitasking, κοινή χρήση, ποντίκι, πληκτρολόγιο, σύνδεση συσκευών</item>
   </string-array>
   <string-array name="settings_tips_message">
     <item>1. Απενεργοποιήστε το φορητό hotspot, το Mi Share ή τη μετάδοση στην κινητή συσκευή σας πριν χρησιμοποιήσετε το Screen Combo.\n2. Απενεργοποιήστε το Wi-Fi τόσο στην κινητή συσκευή όσο και στον υπολογιστή σας.\n3. Βεβαιωθείτε ότι η κινητή συσκευή σας βρίσκεται κοντά στον υπολογιστή σας.</item>

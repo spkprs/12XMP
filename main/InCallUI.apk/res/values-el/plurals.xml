@@ -33,4 +33,44 @@
         <item quantity="other">%d δευτ.</item>
         <item quantity="one">%d δευτ.</item>
      </plurals>
+    <plurals name="call_log_day_in">
+        <item quantity="other">Αυτός ο αριθμός σας κάλεσε πριν από %1$s ημ.</item>
+        <item quantity="one">Αυτός ο αριθμός σας κάλεσε πριν από %1$s ημ.</item>
+    </plurals>
+    <plurals name="call_log_day_out">
+        <item quantity="other">Καλέσατε αυτόν τον αριθμό πριν από %1$s ημ.</item>
+        <item quantity="one">Καλέσατε αυτόν τον αριθμό πριν από %1$s ημ.</item>
+    </plurals>
+    <plurals name="call_log_hour_in">
+        <item quantity="other">Αυτός ο αριθμός σας κάλεσε πριν από %1$s ώρ.</item>
+        <item quantity="one">Αυτός ο αριθμός σας κάλεσε πριν από %1$s ώρ.</item>
+    </plurals>
+    <plurals name="call_log_hour_out">
+        <item quantity="other">Καλέσατε αυτόν τον αριθμό πριν από %1$s ώρ.</item>
+        <item quantity="one">Καλέσατε αυτόν τον αριθμό πριν από %1$s ώρ.</item>
+    </plurals>
+    <plurals name="call_log_minute_in">
+        <item quantity="other">Αυτός ο αριθμός σας κάλεσε πριν από %1$s λεπ.</item>
+        <item quantity="one">Αυτός ο αριθμός σας κάλεσε πριν από %1$s λεπ.</item>
+    </plurals>
+    <plurals name="call_log_minute_out">
+        <item quantity="other">Καλέσατε αυτόν τον αριθμό πριν από %1$s λεπ.</item>
+        <item quantity="one">Καλέσατε αυτόν τον αριθμό πριν από %1$s λεπ.</item>
+    </plurals>
+    <plurals name="call_log_month_in">
+        <item quantity="other">Αυτός ο αριθμός σας κάλεσε πριν από %1$s μήν.</item>
+        <item quantity="one">Αυτός ο αριθμός σας κάλεσε πριν από %1$s μήν.</item>
+    </plurals>
+    <plurals name="call_log_month_out">
+        <item quantity="other">Καλέσατε αυτόν τον αριθμό πριν από %1$s μήν.</item>
+        <item quantity="one">Καλέσατε αυτόν τον αριθμό πριν από %1$s μήν.</item>
+    </plurals>
+    <plurals name="call_log_year_in">
+        <item quantity="other">Αυτός ο αριθμός σας κάλεσε πριν από %1$s χρόν.</item>
+        <item quantity="one">Αυτός ο αριθμός σας κάλεσε πριν από %1$s χρόν.</item>
+    </plurals>
+    <plurals name="call_log_year_out">
+        <item quantity="other">Καλέσατε αυτόν τον αριθμό πριν από %1$s χρόν.</item>
+        <item quantity="one">Καλέσατε αυτόν τον αριθμό πριν από %1$s χρόν.</item>
+    </plurals>
 </resources>

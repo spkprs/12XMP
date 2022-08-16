@@ -845,4 +845,5 @@
     <string name="xiaomi_update_sdk_external_storage_unavailable">Ο χώρος αποθήκευσης δεν είναι διαθέσιμος, ελέγξτε την κάρτα SD.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="please_download_gallery">Εγκαταστήστε τη Συλλογή για προβολή</string>
 </resources>

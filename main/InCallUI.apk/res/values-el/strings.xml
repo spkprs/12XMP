@@ -265,4 +265,6 @@
     <string name="wait_prompt_str">Αποστολή των παρακάτω τόνων\n</string>
     <string name="waiting_close_airplane_mode">Μισό λεπτό…</string>
     <string name="wifi_call">Κλήσεις VoWiFi</string>
+    <string name="call_log_short_in">Αυτός ο αριθμός σας κάλεσε μόλις τώρα</string>
+    <string name="call_log_short_out">Καλέσατε αυτόν τον αριθμό μόλις τώρα</string>
 </resources>

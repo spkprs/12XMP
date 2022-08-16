@@ -4301,7 +4301,7 @@
     <string name="setting_back_sound_loading_msg">Μισό λεπτό…</string>
     <string name="setting_online_service">Ηλεκτρονικές υπηρεσίες</string>
     <string name="setting_privacy_password">Ορισμός κωδικού Προσωπικής προστασίας</string>
-    <string name="setting_wireless_reverse_charging_fg_control_summary">Διακοπή αντίστροφης ασύρματης φόρτισης όταν η μπαταρία αυτής της συσκευής φτάσει %s</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Διακοπή αντίστροφης ασύρματης φόρτισης όταν η μπαταρία αυτής της συσκευής είναι χαμηλότερη από %s</string>
     <string name="setting_wireless_reverse_charging_summary">Τοποθετήστε τη συσκευή που υποστηρίζει ασύρματη φόρτιση Qi (π.χ. τηλέφωνο ή φορετή συσκευή) στο κέντρο του πίσω μέρους αυτής της συσκευής</string>
     <string name="settings">Ρυθμίσεις χρήσης δεδομένων</string>
     <string name="settings_battery_consume_abnormal_summary">Ειδοποίηση όταν η μπαταρία εξαντλείται γρήγορα</string>
@@ -5740,5 +5740,8 @@
     <string name="pc_endurance_calculation">Υπολογισμός…</string>
     <string name="size_embedded">Παράλληλα παράθυρα</string>
     <string name="size_full">Πλήρης οθόνη</string>
+    <string name="global_satisfaction_notification_button">Βαθμολογία</string>
+    <string name="global_satisfaction_notification_subhead">Πείτε μας την εμπειρία σας</string>
+    <string name="global_satisfaction_notification_title">Βαθμολογήστε αυτή τη συσκευή</string>
 </resources>
 

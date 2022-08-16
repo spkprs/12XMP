@@ -1860,4 +1860,27 @@
     <string name="pixel_mode_capture_hint">Βεβαιωθείτε ότι το περιβάλλον είναι καλά φωτισμένο</string>
     <string name="pref_motioon_detection">Ανίχνευση κίνησης</string>
     <string name="qvga_shelter_tip_text">"Μην καλύπτετε τον φακό"</string>
+    <string name="accessibility_flash_on_but_not_adjust_ambient">"Δεν μπορεί να ρυθμιστεί το φλας"</string>
+    <string name="ambient_lighting_need_flash_on_tip">Το γέμισμα φωτός θα ενεργοποιηθεί όταν πατήσετε το κουμπί κλείστρου</string>
+    <string name="ambient_lighting_not_adjust_ambient">"Δεν είναι δυνατή η χρήση αυτού του εφέ με φλας"</string>
+    <string name="ambient_lighting_type_blue">Sapphire</string>
+    <string name="ambient_lighting_type_purple">Mauve</string>
+    <string name="ambient_lighting_type_sun">Beam</string>
+    <string name="ambient_lighting_type_warm">Flare</string>
+    <string name="ambient_lighting_type_wind">Gust</string>
+    <string name="cosmetic_mirror_instructions_hint">Κοιτάξτε στην κάμερα και πατήστε δύο φορές την οθόνη για να μεγεθύνετε και να ευθυγραμμίσετε το πρόσωπό σας στο κέντρο.\n(Λειτουργεί μόνο με ένα άτομο στο κάδρο)</string>
+    <string name="cosmetic_mirror_shortcut_short">Συμπαγής καθρέφτης</string>
+    <string name="cosmetic_mirror_title">Συμπαγής καθρέφτης</string>
+    <string name="description_sorftlight_style_cold">Το φλας είναι ενεργοποιημένο. Έχει επιλεγεί το ψυχρό φως.</string>
+    <string name="description_sorftlight_style_nature">Το φλας είναι ενεργοποιημένο. Έχει επιλεγεί το φυσικό φως.</string>
+    <string name="description_sorftlight_style_warm">Το φλας είναι ενεργοποιημένο. Επιλογή θερμού φωτός.</string>
+    <string name="flat_selfie_tip_text">Γυρίστε τη συσκευή για να χρησιμοποιήσετε την κάμερα</string>
+    <string name="flat_selfie_tip_text_main">Γυρίστε τη συσκευή για να χρησιμοποιήσετε την κάμερα</string>
+    <string name="flat_selfie_tip_text_sub">Αλλάξτε κάμερες στην εξωτερική οθόνη και γυρίστε τη συσκευή για να επιστρέψετε στην εσωτερική οθόνη.</string>
+    <string name="pref_ambient_lighting_title">Φωτισμός</string>
+    <string name="pref_camera_crop_preferred_description">"Εφαρμόστε έξυπνη περικοπή για να βελτιώσετε τη σύνθεση των εικόνων υψηλής ανάλυσης. Αυτή η λειτουργία δεν υποστηρίζει εικόνες HEIF."</string>
+    <string name="pref_true_colour_video_mode_introduction">Εκπληκτική οπτική εμπειρία, ζωντανές λεπτομέρειες και εντυπωσιακή αντίθεση</string>
+    <string name="sorftlight_style_cold">Ψυχρό</string>
+    <string name="sorftlight_style_nature">Φυσικό</string>
+    <string name="sorftlight_style_warm">Θερμό</string>
 </resources>
