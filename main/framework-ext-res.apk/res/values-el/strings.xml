@@ -372,7 +372,7 @@
     <string name="throwing_screen">Προβολή οθόνης</string>
     <string name="tip_close_screen_phone">Αλλάξτε σε handsfree ή διπλώστε τη συσκευή σας για να χρησιμοποιήσετε το ενσωματωμένο ηχείο.</string>
     <string name="tip_for_phone_and_camera">Διπλώστε τη συσκευή σας για να χρησιμοποιήσετε το ενσωματωμένο ηχείο ή την εμπρός κάμερα</string>
-    <string name="tip_use_front_camera">Διπλώστε τη συσκευή σας για χρήση εμπρός Κάμερας</string>
+    <string name="tip_use_front_camera">Διπλώστε τη συσκευή σας\nγια χρήση εμπρός Κάμερας</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="total">Μην Ενοχλείτε</string>
     <string name="total_description">Σίγαση ήχων και απενεργοποίηση δόνησης όλων εκτός της Αφύπνισης</string>

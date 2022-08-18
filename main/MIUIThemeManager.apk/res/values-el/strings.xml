@@ -1445,4 +1445,5 @@
     <string name="recommend_bottom_tips">Είναι ήδη στο κάτω μέρος</string>
     <string name="install_gallery_content">"Δεν έχετε εγκαταστήσει ακόμα τη Συλλογή. Λήψη τώρα;"</string>
     <string name="install_gallery_title">Εγκατάσταση Συλλογής</string>
+    <string name="apply_4k_video_wallpaper_warning">"4K και 8K δεν μπορούν να χρησιμοποιηθούν ως ταπετσαρίες βίντεο."</string>
 </resources>

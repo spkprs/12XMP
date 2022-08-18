@@ -670,4 +670,6 @@
     <string name="widget_choose_file">Πατήστε για να προσθέσετε αρχεία</string>
     <string name="widget_choose_fragment_title">Επιλέξτε τύπο αρχείου</string>
     <string name="widget_finish">Τέλος</string>
+    <string name="widget_choose_document_please">Επιλογή εγγράφου</string>
+    <string name="widget_name">Αρχεία που είδατε πρόσφατα</string>
 </resources>

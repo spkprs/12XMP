@@ -197,5 +197,21 @@
         <item quantity="other">%d επιλεγμένα στοιχεία</item>
         <item quantity="one">%d επιλεγμένο στοιχείο</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">%2$d λεπ. απομένουν \"%1$s\" σήμερα</item>
+        <item quantity="one">%2$d λεπ. απομένουν \"%1$s\" σήμερα</item>
+    </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Υπόλοιπο %d λεπ.</item>
+        <item quantity="one">Υπόλοιπο %d λεπ.</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">"Έχετε ήδη χρησιμοποιήσει αυτή τη συσκευή %d λεπ."</item>
+        <item quantity="one">"Έχετε ήδη χρησιμοποιήσει αυτή τη συσκευή %d λεπ."</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Μπορείτε να προσθέσετε έως %d διαλείμματα</item>
+        <item quantity="one">Μπορείτε να προσθέσετε έως %d διάλειμμα</item>
+    </plurals>
 </resources>
 
