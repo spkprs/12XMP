@@ -918,4 +918,8 @@
     <string name="work_profile_second_content">Οι εφαρμογές &amp; τα δεδομένα εργασίας είναι ορατά στο διαχειριστή IT σας</string>
     <string name="work_profile_title">Προφίλ εργασίας</string>
     <string name="work_profile_toggle_label">Προφίλ Εργασίας</string>
+    <string name="work_mode_off_detailed_text">Οι εφαρμογές της εργασίας σας δεν μπορούν να σας στέλνουν ειδοποιήσεις, να χρησιμοποιούν την μπαταρία σας ή να έχουν πρόσβαση στην τοποθεσία σας.</string>
+    <string name="work_mode_off_text">Οι εφαρμογές εργασίας είναι σε παύση</string>
+    <string name="work_mode_toggle_off">Απενεργοποίηση εφαρμογών εργασίας</string>
+    <string name="work_mode_toggle_on">Ενεργοποίηση των εφαρμογών εργασίας</string>
 </resources>

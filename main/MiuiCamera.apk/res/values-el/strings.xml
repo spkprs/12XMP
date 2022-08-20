@@ -1883,4 +1883,33 @@
     <string name="sorftlight_style_cold">Ψυχρό</string>
     <string name="sorftlight_style_nature">Φυσικό</string>
     <string name="sorftlight_style_warm">Θερμό</string>
+    <string name="shine_hair_puffy">Μαλλιά</string>
+    <string name="sorftlight_style_cold_alert">Γραφείο</string>
+    <string name="sorftlight_style_nature_alert">Υπαίθρια</string>
+    <string name="sorftlight_style_warm_alert">Εστιατόριο</string>
+    <string name="vlog_pro_cancel_reset_record_hint">Ακύρωση</string>
+    <string name="vlog_pro_first_into_vlog_dumy_hint">Επιλέξτε ένα πρότυπο και πατήστε για να ξεκινήσετε</string>
+    <string name="vlog_pro_first_record_hint">Πατήστε για να συνδυάσετε σε μια ακολουθία</string>
+    <string name="vlog_pro_reset_record_hint">Επαναλήψη</string>
+    <string name="vlog_pro_workspace_continue_recording">Συνέχιση της εγγραφής</string>
+    <string name="vlog_pro_workspace_video_delete">Διαγραφή</string>
+    <string name="vlog_pro_workspace_video_rename">Μετονομασία</string>
+    <string name="pref_video_prompter">Τηλε-υποβολέας</string>
+    <string name="video_prompter_adjust_size">Μέγεθος κειμένου</string>
+    <string name="video_prompter_adjust_speed">Ταχύτητα κύλισης</string>
+    <string name="video_prompter_default_txt">"
+Τηλε-υποβολέας
+Χρησιμοποιήστε τον για να διαβάσετε το σενάριό σας ενώ εγγράφετε ένα βίντεο.
+
+Πώς λειτουργεί...
+Μπορείτε να χρησιμοποιήσετε τα παρακάτω κουμπιά για να εισαγάγετε κείμενο, να κάνετε προεπισκόπηση της αναπαραγωγής και να επεξεργαστείτε τις γραμμές σας. Για να αλλάξετε το μέγεθος του κυμαινόμενου παραθύρου, πατήστε και κρατήστε πατημένες τις κάτω γωνίες του. Για να μετακινήσετε το παράθυρο, σύρετέ το από την κάτω ή την επάνω άκρη του."</string>
+    <string name="video_prompter_edit_exit_dialog_message">Αν σταματήσετε την επεξεργασία τώρα, όλες οι μη αποθηκευμένες αλλαγές θα χαθούν. Παύση έτσι κι αλλιώς;</string>
+    <string name="video_prompter_edit_exit_dialog_title">Παύση επεξεργασίας;</string>
+    <string name="video_prompter_edit_import_fail">"Δεν ήταν δυνατή η εισαγωγή"</string>
+    <string name="video_prompter_edit_import_success">Εισήχθη επιτυχώς</string>
+    <string name="video_prompter_edit_import_success_partially">Αυτό το κείμενο είναι πολύ μεγάλο. Εισήχθη μόνο ένα μέρος του.</string>
+    <string name="video_prompter_edit_tip_dialog_cancel">Ακύρωση</string>
+    <string name="video_prompter_edit_tip_dialog_message">"Μπορείτε να εισάγετε αρχεία DOC, DOCX και TXT. Οι εικόνες, οι πίνακες και οι υπερσύνδεσμοι δεν θα εμφανίζονται."</string>
+    <string name="video_prompter_edit_tip_dialog_ok">Εντάξει</string>
+    <string name="video_prompter_edit_tip_dialog_title">Εισαγωγή κειμένου</string>
 </resources>
