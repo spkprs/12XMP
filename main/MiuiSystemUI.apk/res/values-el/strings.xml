@@ -2823,4 +2823,9 @@
     <string name="wallet_secondary_label_no_card">Πατήστε για να ανοίξετε</string>
     <string name="quick_settings_bluetooth_connected_tip">Συνδέθηκε επιτυχώς μέσω Bluetooth</string>
     <string name="quick_settings_bluetooth_disconnected_tip">Όλες οι συσκευές Bluetooth θα παραμείνουν αποσυνδεδεμένες σήμερα</string>
+    <string name="quick_settings_screen_rotation_inner_locked">Εσωτερική οθόνη περιστροφή ανενεργή</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">Εσωτερική οθόνη περιστροφή ενεργή</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">Εξωτερική οθόνη κλειδωμένη σε οριζόντια λειτουργία</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">Εξωτερική οθόνη κλειδωμένη σε κάθετη λειτουργία </string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">Εξωτερική οθόνη περιστροφή ενεργή</string>
 </resources>

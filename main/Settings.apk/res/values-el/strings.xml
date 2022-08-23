@@ -9202,7 +9202,7 @@ Xiaomi Cloud
 Αν δεν συμφωνείτε να εκχωρήσετε σε όλες τις παραπάνω άδειες, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να επιλέξετε απενεργοποίηση ή μη χρήση Έκτακτης ανάγκης SOS.
 Πριν χρησιμοποιήσετε τις υπηρεσίες μας, διαβάστε και συμφωνήστε με %s."</string>
     <string name="miheadset_open_closeAnc">Ακύρωση θορύβου on/off</string>
-    <string name="accept_new_connection">Επιτρέψτε νέες συνδέσεις</string>
-    <string name="accept_new_connection_detail">Οι νέες συνδέσεις bluetooth έχουν απενεργοποιηθεί από το κέντρο ελέγχου</string>
-    <string name="bt_always_show_icon">Εμφανίζει πάντα το εικονίδιο bluetooth στη γραμμή κατάστασης</string>
+    <string name="accept_new_connection">Αποδοχή σύνδεσης σε νέες συσκευές</string>
+    <string name="accept_new_connection_detail">Οι νέες συνδέσεις περιορίστηκαν στο Κέντρο ελέγχου</string>
+    <string name="bt_always_show_icon">Πάντα εμφάνιση εικονιδίου στη Γραμμή Κατάστασης</string>
 </resources>

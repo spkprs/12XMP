@@ -861,4 +861,6 @@
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Διαθέσιμη νέα έκδοση</string>
     <string name="yesterday">Χθές</string>
+    <string name="note_mindnote_not_support_in_phone_model">"Δεν είναι δυνατή η επεξεργασία χαρτών μυαλού σε αυτήν τη συσκευή"</string>
+    <string name="note_write_hint">Αρχίστε να γράφετε</string>
 </resources>

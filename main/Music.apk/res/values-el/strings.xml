@@ -2647,4 +2647,19 @@
     <string name="declaration_main_purpose">Καλώς ήλθατε στο Mi Music! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να αναπαραγάγετε τα τραγούδια που έχουν αποθηκευτεί στη συσκευή σας και να πραγματοποιήσετε ροή online.</string>
     <string name="declaration_main_content">"Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και τις πολιτικές απορρήτου.
 Για να είναι δυνατή η κανονική λειτουργία, αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τα ακόλουθα δικαιώματα προκειμένου να συλλέξει τα προσωπικά σας στοιχεία:"</string>
+    <string name="clause_content_first">Με βάση τις νομικές απαιτήσεις, η Mi Music χρειάζεται τη συγκατάθεσή σας για να σας παρέχει τις σχετικές υπηρεσίες.</string>
+    <string name="clause_content_second">"Θα προστατεύουμε τις προσωπικές σας πληροφορίες σύμφωνα με τα πρότυπα ασφαλείας του κλάδου."</string>
+    <string name="clause_content_third">Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας ανά πάσα στιγμή στις Ρυθμίσεις.</string>
+    <string name="content_failed_to_load">"Δεν ήταν δυνατή η φόρτωση περιεχομένου"</string>
+    <string name="entertainment">Ψυχαγωγία</string>
+    <string name="file_and_media_permissions_for_display">Πρόσβαση σε αρχεία: για σάρωση, εμφάνιση και αναπαραγωγή τοπικών αρχείων</string>
+    <string name="login_out_tip">"Δεν είναι δυνατή η αποσύνδεση προς το παρόν. Μπορείτε να διαγράψετε όλα τα δεδομένα της εφαρμογής."</string>
+    <string name="lots_of_songs_for_free">Ακούστε εκατομμύρια τραγούδια δωρεάν</string>
+    <string name="read_and_agree_hungama_protocol"><Data>"Έχω διαβάσει και συμφωνώ με τη &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική απορρήτου Hungama&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>"Έχω διαβάσει και συμφωνώ με τη &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Πολιτική απορρήτου JOOX&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>"Έχω διαβάσει και συμφωνώ με τη Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a>&lt;/font> και &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_protocol">Διαβάστε και συμφωνήστε με τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου πριν συνεχίσετε.</string>
+    <string name="storage_space_permissions_for_display">Πρόσβαση στον αποθηκευτικό χώρο της συσκευής: για σάρωση, εμφάνιση και αναπαραγωγή τοπικών αρχείων</string>
+    <string name="telephone_permissions_for_push">Δικαιώματα κλήσης: για την παροχή υπηρεσιών ειδοποιήσεων push της Google</string>
+    <string name="welcome_to_entertainment">Ελέγξτε τη νέα λειτουργία Ψυχαγωγία για μουσικά παιχνίδια και άλλα</string>
 </resources>

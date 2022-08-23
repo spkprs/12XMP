@@ -5743,5 +5743,7 @@
     <string name="global_satisfaction_notification_button">Βαθμολογία</string>
     <string name="global_satisfaction_notification_subhead">Πείτε μας την εμπειρία σας</string>
     <string name="global_satisfaction_notification_title">Βαθμολογήστε αυτή τη συσκευή</string>
+    <string name="antispam_guangdian_card_hint">"Η κάρτα SIM δεν υποστηρίζει την εναλλαγή σε διαφορετικό μήνυμα. Επικοινωνήστε με τον φορέα σας για λεπτομέρειες."</string>
+    <string name="antispam_guangdian_card_title">"Η εναλλαγή δεν υποστηρίζεται"</string>
 </resources>
 

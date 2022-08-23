@@ -448,4 +448,8 @@
     <string name="switch_wlan_success">Συνδέθηκε επιτυχώς</string>
     <string name="switch_wlan_tips">Σύνδεση στο ίδιο δίκτυο</string>
     <string name="switch_wlan_tips_desc">Μπορείτε να συνδεθείτε στο ίδιο δίκτυο WLAN με την άλλη συσκευή για καλύτερη εμπειρία. Συνδεθείτε τώρα;</string>
+    <string name="call_error_notify_button">Εναλλαγή</string>
+    <string name="call_error_notify_content">Μπορείτε να επιστρέψετε στο τηλέφωνό σας για να συνεχίσετε αυτή την κλήση.</string>
+    <string name="call_error_notify_title">Ασταθής σύνδεση δικτύου</string>
+    <string name="toast_calling_warning">Τερματισμός τρέχουσας κλήσης και νέα προσπάθεια</string>
 </resources>
