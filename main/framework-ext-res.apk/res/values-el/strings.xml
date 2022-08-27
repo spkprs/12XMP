@@ -468,4 +468,7 @@
     <string name="three_gesture_pc_mode">Ενεργοποίηση λειτουργίας PC</string>
     <string name="turn_on_torch">Ενεργοποίηση φακού</string>
     <string name="under_keyguard">Οθόνη απενεργοποιημένη</string>
+    <string name="periodiccacheclear_notification_indefinite">Ο αποθηκευτικός χώρος έχει απελευθερωθεί αυτόματα για εσάς.</string>
+    <string name="periodiccacheclear_notification_post"> αποθηκευτικού χώρου έχει απελευθερωθεί αυτόματα για εσάς.</string>
+    <string name="periodiccacheclear_notification_title">Έξυπνος καθαρισμός</string>
 </resources>

@@ -5745,5 +5745,14 @@
     <string name="global_satisfaction_notification_title">Βαθμολογήστε αυτή τη συσκευή</string>
     <string name="antispam_guangdian_card_hint">"Η κάρτα SIM δεν υποστηρίζει την εναλλαγή σε διαφορετικό μήνυμα. Επικοινωνήστε με τον φορέα σας για λεπτομέρειες."</string>
     <string name="antispam_guangdian_card_title">"Η εναλλαγή δεν υποστηρίζεται"</string>
+    <string name="app_name_pad">Ασφάλεια</string>
+    <string name="app_name_phone">Ασφάλεια</string>
+    <string name="beauty_portrait_center">Κρατήστε τα πρόσωπα στο κέντρο</string>
+    <string name="beauty_portrait_center_desc">Αυτόματος εντοπισμός και κεντράρισμα προσώπων σε βιντεοκλήσεις και συσκέψεις. Αυτή η λειτουργία δεν υποστηρίζεται από ορισμένες εφαρμογές.</string>
+    <string name="dialog_msg_delete_icon_content_pad">Η ασφάλεια σάς επιτρέπει να καθαρίζετε τα σκουπίδια της συσκευής σας, να βρίσκετε και να εξουδετερώνετε ιούς, να εξοικονομείτε μπαταρία, να διαχειρίζεστε δικαιώματα και πολλά άλλα.</string>
+    <string name="dialog_msg_delete_icon_content_phone">Η ασφάλεια σάς επιτρέπει να καθαρίζετε τα σκουπίδια της συσκευής σας, να βρίσκετε και να εξουδετερώνετε ιούς, να εξοικονομείτε μπαταρία, να διαχειρίζεστε δικαιώματα και πολλά άλλα.</string>
+    <string name="dialog_msg_delete_icon_title_pad">Κατάργηση αυτής της συντόμευσης Αρχικής οθόνης;</string>
+    <string name="dialog_msg_delete_icon_title_phone">Κατάργηση αυτής της συντόμευσης Αρχικής οθόνης;</string>
+    <string name="pc_xiaoai_create_auto_task">Νέα εργασία από Mi AI</string>
 </resources>
 
