@@ -4225,7 +4225,7 @@
     <string name="safe_result_item_info_system_scan">Παρακολούθηση πληρωμών ενεργή</string>
     <string name="safe_result_item_info_system_version">Το σύστημα διαθέτει την πιο πρόσφατη έκδοση</string>
     <string name="safepay_alert_dialog_button_continue">Συνεχίστε</string>
-    <string name="safepay_alert_dialog_button_fix">Επιδιόρθωση</string>
+    <string name="safepay_alert_dialog_button_fix">Περισσότερα</string>
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Σάβ</string>
     <string name="saturday_shortest">Σάβ</string>
@@ -4478,11 +4478,11 @@
     <string name="sp_antispam_scan_summary">Προστατευτείτε από απάτη</string>
     <string name="sp_antispam_scan_title">Λίστα αποκλεισμών</string>
     <string name="sp_background_risk_dialog_summary">, παρακαλώ κάντε λεπτομερή έλεγχο και διορθώστε τους κινδύνους πληρωμών</string>
-    <string name="sp_background_risk_dialog_summary_new">Το τρέχον περιβάλλον πληρωμών ενδέχεται να ενέχει κινδύνους για την ασφάλεια. Αφιερώστε λίγο χρόνο για να λύσετε τα υπάρχοντα προβλήματα.</string>
+    <string name="sp_background_risk_dialog_summary_new">Το τρέχον περιβάλλον πληρωμών ενδέχεται να ενέχει κινδύνους για την ασφάλεια. Αφιερώστε λίγο χρόνο για να για να μάθετε περισσότερα.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Είστε συνδεδεμένοι σε ένα δημόσιο δίκτυο Wi-Fi που μπορεί να μην είναι ασφαλές. Βεβαιωθείτε ότι η πληρωμή σας προστατεύεται πριν την ολοκληρώσετε.</string>
-    <string name="sp_background_risk_dialog_title">Επικίνδυνο</string>
+    <string name="sp_background_risk_dialog_title">Κίνδυνος που εντοπίζεται με MIUI</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Προειδοποίηση Δημόσιου Wi-Fi</string>
-    <string name="sp_background_risk_type_messaging">Η εφαρμογή μηνυμάτων του συστήματος έχει αντικατασταθεί</string>
+    <string name="sp_background_risk_type_messaging">Η εφαρμογή μηνυμάτων συστήματος έχει αλλάξει</string>
     <string name="sp_background_risk_type_root">Το σύστημα είναι root</string>
     <string name="sp_background_risk_type_sign">Εκτελείται ανεπίσημη εφαρμογή</string>
     <string name="sp_background_risk_type_virus">Εκτελείται εφαρμογή με ιό</string>
@@ -5754,5 +5754,9 @@
     <string name="dialog_msg_delete_icon_title_pad">Κατάργηση αυτής της συντόμευσης Αρχικής οθόνης;</string>
     <string name="dialog_msg_delete_icon_title_phone">Κατάργηση αυτής της συντόμευσης Αρχικής οθόνης;</string>
     <string name="pc_xiaoai_create_auto_task">Νέα εργασία από Mi AI</string>
+    <string name="eletric_no_grant_dialog_message_for_phone">Χορηγήστε τα απαιτούμενα δικαιώματα για τον εντοπισμό άγνωστων αριθμών.</string>
+    <string name="eletric_no_grant_dialog_negative_button">Ακύρωση</string>
+    <string name="eletric_no_grant_dialog_positive_button">Ρυθμίσεις</string>
+    <string name="eletric_no_grant_dialog_title">Απαιτούμενες άδειες</string>
 </resources>
 

@@ -9205,4 +9205,6 @@ Xiaomi Cloud
     <string name="accept_new_connection">Αποδοχή σύνδεσης σε νέες συσκευές</string>
     <string name="accept_new_connection_detail">Οι νέες συνδέσεις περιορίστηκαν στο Κέντρο ελέγχου</string>
     <string name="bt_always_show_icon">Πάντα εμφάνιση εικονιδίου στη Γραμμή Κατάστασης</string>
+    <string name="external_auto_rotate_title">Κλείδωμα προσανατολισμού για την εξωτερική οθόνη</string>
+    <string name="internal_auto_rotate_title">Κλείδωμα προσανατολισμού για την εσωτερική οθόνη</string>
 </resources>

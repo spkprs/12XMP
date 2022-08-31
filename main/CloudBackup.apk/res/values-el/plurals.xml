@@ -33,4 +33,12 @@
         <item quantity="other">"Φαίνεται ότι δεν έχετε δημιουργήσει αντίγραφα για %s εβδομάδες. Δημιουργήστε αντίγραφα για να μην χάσετε τίποτα σημαντικό."</item>
         <item quantity="one">"Φαίνεται ότι δεν έχετε δημιουργήσει αντίγραφα για %s εβδομάδα. Δημιουργήστε αντίγραφα για να μην χάσετε τίποτα σημαντικό."</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Δημιουργία αντιγρ. %d εφαρμ.</item>
+        <item quantity="one">Δημιουργία αντιγρ. %d εφαρμ.</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Επαναφορά %d εφαρμ.</item>
+        <item quantity="one">Επαναφορά %d εφαρμ.</item>
+    </plurals>
 </resources>

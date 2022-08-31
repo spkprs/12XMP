@@ -644,4 +644,8 @@
 ID:%s
 Στείλτε αυτόν τον κωδικό στον τεχνικό."</string>
     <string name="storage_permission_deny">Απαιτούνται δικαιώματα αποθήκευσης</string>
+    <string name="storage_dialog_content">Επιτρέψτε στις Λήψεις να έχουν πρόσβαση στον αποθηκευτικό χώρο της συσκευής για να μπορούν να χρησιμοποιούν τις λειτουργίες της.</string>
+    <string name="storage_dialog_go">Ρυθμίσεις</string>
+    <string name="storage_dialog_title">Πρόσβαση στον αποθηκευτικό χώρο της συσκευής</string>
 </resources>
+

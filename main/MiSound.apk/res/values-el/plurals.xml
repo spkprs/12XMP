@@ -72,4 +72,8 @@
         <item quantity="other">%d λεπτά πριν</item>
         <item quantity="one">1 λεπτό πριν</item>
     </plurals>
+    <plurals name="rename_error_longer_effect_name">
+        <item quantity="other">Μπορείτε να εισάγετε έως και %d χαρακτήρες εδώ</item>
+        <item quantity="one">Μπορείτε να εισάγετε έως και %d χαρακτήρα εδώ</item>
+    </plurals>
 </resources>

@@ -2828,4 +2828,5 @@
     <string name="quick_settings_screen_rotation_outer_landscape_locked">Εξωτερική οθόνη κλειδωμένη σε οριζόντια λειτουργία</string>
     <string name="quick_settings_screen_rotation_outer_portrait_locked">Εξωτερική οθόνη κλειδωμένη σε κάθετη λειτουργία </string>
     <string name="quick_settings_screen_rotation_outer_unlocked">Εξωτερική οθόνη περιστροφή ενεργή</string>
+    <string name="toast_for_first_use_three_gesture">Σαρώστε οριζόντια με τέσσερα δάχτυλα για εναλλαγή μεταξύ εφαρμογών</string>
 </resources>

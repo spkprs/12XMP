@@ -994,4 +994,5 @@
     <string name="you_id">"Το ID σας: "</string>
     <string name="your_application_is_under_review">" (Η αίτησή σας εξετάζεται.)"</string>
     <string name="save_documents_ui">Αποθηκεύτηκε στη Διαχείριση αρχείων</string>
+    <string name="xiaoai_vision">Mi Σαρωτής</string>
 </resources>
