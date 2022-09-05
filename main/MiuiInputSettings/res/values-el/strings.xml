@@ -157,8 +157,8 @@
     <string name="friday_shortest">Παρ</string>
     <string name="gesture_function_dialog_message">%1$s χρησιμοποιείται για \"%2$s\". Αντικατάσταση με \"%3$s\";</string>
     <string name="gesture_settings_title">Συντομεύσεις χειρονομίας</string>
-    <string name="global_stylus_summary">Μετατροπή χειρόγραφης εισαγωγής σε κείμενο σε οποιαδήποτε περιοχή όπου υποστηρίζεται</string>
-    <string name="global_stylus_title">Συντάξτε χειρόγραφα</string>
+    <string name="global_stylus_summary">Γράψτε σε οποιοδήποτε πεδίο κειμένου και μετατρέψτε το γραφικό σας χαρακτήρα σε κείμενο (υποστηρίζονται μόνο τα Αγγλικά και τα Κινέζικα)</string>
+    <string name="global_stylus_title">Επεξεργασία χειρόγραφου κειμένου</string>
     <string name="go_to_sleep">Απενεργοποίηση οθόνης</string>
     <string name="home_app">Πρόγραμμα εκκίνησης</string>
     <string name="home_key">Αρχική</string>
@@ -179,8 +179,8 @@
     <string name="key_gesture_function_optional">Προαιρετικές χειρονομίες και κουμπιά</string>
     <string name="key_gesture_function_preview">Προεπισκοπήσεις κουμπιών και χειρονομιών</string>
     <string name="key_gesture_function_shortcut">Συντομεύσεις λειτουργίας</string>
-    <string name="key_handwriting_input_summary">Επεξεργασία κειμένου χρησιμοποιώντας γραφίδα. Οι ενέργειες που μπορείτε να εκτελέσετε περιλαμβάνουν τη διαγραφή, την επιλογή, την επικόλληση και την έναρξη μιας νέας παραγράφου.</string>
-    <string name="key_handwriting_input_title">Συντάξτε χειρόγραφα</string>
+    <string name="key_handwriting_input_summary">Επεξεργασία κινεζικού ή αγγλικού χειρόγραφου κειμένου χρησιμοποιώντας τη γραφίδα σας</string>
+    <string name="key_handwriting_input_title">Επεξεργασία κειμένου</string>
     <string name="key_none">Τίποτα</string>
     <string name="key_operation_diagram">Προεπισκόπηση</string>
     <string name="key_position_cat">Θέση πλήκτρων</string>
@@ -554,4 +554,10 @@
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
     <string name="yesterday">Χθες</string>
+    <string name="global_stylus_title_beta">Γραφέας (Beta)</string>
+    <string name="google_assistant_guide_cancel">Ακύρωση</string>
+    <string name="google_assistant_guide_message">Μπορείτε να πατήσετε και να κρατήσετε πατημένο το κουμπί λειτουργίας για %s δευτ. για να αρχίσετε να μιλάτε με το Google Assistant. Ορίστε αυτή τη συντόμευση τώρα;</string>
+    <string name="google_assistant_guide_ok">Ρύθμιση</string>
+    <string name="google_assistant_guide_tip">*Πατήστε και κρατήστε πατημένο το κουμπί λειτουργίας για %s δευτ. για να ανοίξετε το μενού τερματισμού λειτουργίας..</string>
+    <string name="google_assistant_guide_title">Google Assistant</string>
 </resources>

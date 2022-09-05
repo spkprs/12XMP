@@ -471,4 +471,6 @@
     <string name="periodiccacheclear_notification_indefinite">Ο αποθηκευτικός χώρος έχει απελευθερωθεί αυτόματα για εσάς.</string>
     <string name="periodiccacheclear_notification_post"> αποθηκευτικού χώρου έχει απελευθερωθεί αυτόματα για εσάς.</string>
     <string name="periodiccacheclear_notification_title">Έξυπνος καθαρισμός</string>
+    <string name="backup_suspend_hint">Αυτή η εφαρμογή δημιουργείται τώρα. Περιμένετε μέχρι να ολοκληρωθεί το αντίγραφο ασφαλείας και δοκιμάστε ξανά.</string>
+    <string name="swipe_up_to_continue_using">Σαρώστε προς τα πάνω για να συνεχίσετε</string>
 </resources>
