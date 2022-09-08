@@ -940,4 +940,8 @@
     <string name="open_personal_assistant_settings_simplified">Βοηθός MIUI</string>
     <string name="recent_menu_item_add_pair">Δημιουργήστε μια συντόμευση στην αρχική οθόνη για αυτόν τον συνδυασμό διαχωρισμένης οθόνης</string>
     <string name="recent_menu_item_add_pair_first_toast">Δημιουργήστε μια συντόμευση στην αρχική οθόνη για αυτόν τον συνδυασμό διαχωρισμένης οθόνης</string>
+    <string name="emulate_sd_data">Προσομοιωμένα δεδομένα κάρτας SD</string>
+    <string name="launch_accessibility_environmental_speech_recognition">Αναγνώριση ήχου περιβάλλοντος</string>
+    <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto υπότιτλοι</string>
+    <string name="launch_accessibility_voice_control">Voice controls</string>
 </resources>

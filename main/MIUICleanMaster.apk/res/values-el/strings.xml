@@ -1073,4 +1073,10 @@
     <string name="dialog_msg_delete_icon_content">Η ασφάλεια σας επιτρέπει να καθαρίζετε τα σκουπίδια της συσκευής σας, να βρίσκετε και να εξουδετερώνετε ιούς, να εξοικονομείτε μπαταρία, να διαχειρίζεστε δικαιώματα και πολλά άλλα..</string>
     <string name="dialog_msg_delete_icon_title">Κατάργηση αυτής της συντόμευσης αρχικής οθόνης;</string>
     <string name="manual_item_create_icon_title">Συντόμευση στην αρχική οθόνη</string>
+    <string name="app_name_pad">Ασφάλεια</string>
+    <string name="app_name_phone">Ασφάλεια</string>
+    <string name="dialog_msg_delete_icon_content_pad">Η ασφάλεια σάς επιτρέπει να καθαρίζετε τα σκουπίδια της συσκευής σας, να βρίσκετε και να εξουδετερώνετε ιούς, να εξοικονομείτε μπαταρία, να διαχειρίζεστε δικαιώματα και πολλά άλλα.</string>
+    <string name="dialog_msg_delete_icon_content_phone">Η ασφάλεια σάς επιτρέπει να καθαρίζετε τα σκουπίδια της συσκευής σας, να βρίσκετε και να εξουδετερώνετε ιούς, να εξοικονομείτε μπαταρία, να διαχειρίζεστε δικαιώματα και πολλά άλλα.</string>
+    <string name="dialog_msg_delete_icon_title_pad">Κατάργηση της συντόμευσης από την αρχική οθόνη;</string>
+    <string name="dialog_msg_delete_icon_title_phone">Κατάργηση της συντόμευσης από την αρχική οθόνη;</string>
 </resources>

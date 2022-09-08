@@ -9213,4 +9213,5 @@ Xiaomi Cloud
     <string name="lock_screen_now">Οθόνη κλειδώματος</string>
     <string name="swipe_up_to_continue_using">Σαρώστε προς τα πάνω για να συνεχίσετε</string>
     <string name="swipe_up_to_continue_using_summary">Κλείδωμα μετά από %d δευτ. αδράνειας</string>
+    <string name="split_screen_position_top">Διαχωρισμένο πάνω μέρος</string>
 </resources>
