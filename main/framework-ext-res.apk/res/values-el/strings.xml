@@ -473,4 +473,7 @@
     <string name="periodiccacheclear_notification_title">Έξυπνος καθαρισμός</string>
     <string name="backup_suspend_hint">Αυτή η εφαρμογή δημιουργείται τώρα. Περιμένετε μέχρι να ολοκληρωθεί το αντίγραφο ασφαλείας και δοκιμάστε ξανά.</string>
     <string name="swipe_up_to_continue_using">Σαρώστε προς τα πάνω για να συνεχίσετε</string>
+    <string name="rescueparty_package_tips">Εντοπίστηκε καταστροφή {0} υπηρεσίας συστήματος</string>
+    <string name="rescuepartyplus_config_reset_context">Ορισμένα δεδομένα ενδέχεται να έχουν διαγραφεί. Πατήστε για να δείτε λεπτομέρειες.</string>
+    <string name="rescuepartyplus_config_reset_title">Επισκευή συστήματος ολοκληρώθηκε</string>
 </resources>
