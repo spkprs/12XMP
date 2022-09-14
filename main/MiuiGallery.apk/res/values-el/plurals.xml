@@ -620,4 +620,16 @@
         <item quantity="one">%d ανάμνηση</item>
         <item quantity="other">%d αναμνήσεις</item>
     </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d ημ.</item>
+        <item quantity="one">%d ημ.</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d μήνες</item>
+        <item quantity="one">%d μήνα</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d έτη</item>
+        <item quantity="one">%d έτος</item>
+    </plurals>
 </resources>
