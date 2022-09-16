@@ -49,8 +49,6 @@
     <string name="extra_photo_common_permission_name">Θόλωση</string>
     <string name="extra_photo_common_save_fail">Αδυναμία αποθήκευσης</string>
     <string name="extra_photo_common_saving">Αποθήκευση…</string>
-    <string name="extra_photo_common_transition_image_view">tag_transition_view</string>
-    <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
     <string name="motion_photo_cancel">Ακύρωση</string>
     <string name="motion_photo_re_pick_title">Ζωντανή φωτογραφία</string>
     <string name="motion_photo_save_fail">"Δεν ήταν δυνατή η αποθήκευση"</string>
@@ -121,4 +119,8 @@
     <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
     <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
+    <string name="grant_permission_go_and_set_2">Ρυθμίσεις</string>
+    <string name="grant_permission_remind_title">Απαιτούμενες άδειες</string>
+    <string name="grant_permission_storage">Επιτρέψτε σε αυτή την εφαρμογή να έχει πρόσβαση στον αποθηκευτικό χώρο.</string>
+    <string name="grant_permission_text">Το Gallery Editor χρειάζεται το ακόλουθο δικαίωμα για να μπορέσει να λειτουργήσει κανονικά: %s. Πατήστε \"Ρυθμίσεις\" για να την παραχωρήσετε.</string>
 </resources>

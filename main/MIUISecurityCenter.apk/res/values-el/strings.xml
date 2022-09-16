@@ -5758,5 +5758,25 @@
     <string name="eletric_no_grant_dialog_negative_button">Ακύρωση</string>
     <string name="eletric_no_grant_dialog_positive_button">Ρυθμίσεις</string>
     <string name="eletric_no_grant_dialog_title">Απαιτούμενες άδειες</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Πρόσβαση και αποθήκευση εικόνων, βίντεο και αρχείων ήχου στον εσωτερικό αποθηκευτικό χώρο</string>
+    <string name="applock_biometric_recognition">Βιομετρία</string>
+    <string name="function_oncall_not_close_network">"Μην αποσυνδέεστε για κλήσεις"</string>
+    <string name="function_oncall_not_close_network_detail">"Σχετικά με αυτή τη λειτουργία
+ %1$d. Αυτή η λειτουργία σάς επιτρέπει να παραμένετε συνδεδεμένοι κατά τη διάρκεια συνεδριών παιχνιδιού χωρίς να διακόπτεστε από εισερχόμενες κλήσεις, όταν αυτή η συσκευή είναι συνδεδεμένη σε συγκεκριμένα δίκτυα 5G.
+ %2$d. Εάν καμία από τις κάρτες SIM σας δεν είναι συνδεδεμένη σε δίκτυο 5G, οι εισερχόμενες κλήσεις θα απορρίπτονται αυτόματα από την κύρια SIM σας.
+ %3$d. Αυτή η λειτουργία υποστηρίζεται μόνο στην ηπειρωτική Κίνα.
+ %4$d. Αυτή η λειτουργία λειτουργεί μόνο σε δίκτυα 5G-SA."</string>
+    <string name="gb_barrage_chat_desc">Πάντα να πιστεύετε ότι κάτι υπέροχο πρόκειται να συμβεί</string>
+    <string name="gb_barrage_chat_text_color">Χρώμα</string>
+    <string name="gb_barrage_chat_text_size">Μέγεθος κειμένου</string>
+    <string name="gb_barrage_chat_text_size_big">Μεγάλο</string>
+    <string name="gb_barrage_chat_text_size_small">Μικρό</string>
+    <string name="gb_barrage_chat_text_speed">Ταχύτητα</string>
+    <string name="gb_barrage_chat_text_speed_faster">Γρήγορα</string>
+    <string name="gb_barrage_chat_text_speed_slow">Αργά</string>
+    <string name="pc_fast_charge_switch_summary_new">Υπενθύμιση για την ενίσχυση της ταχύτητας φόρτισης όταν ο παρεχόμενος φορτιστής είναι συνδεδεμένος και η μπαταρία μειωθεί κάτω από το καθορισμένο επίπεδο</string>
+    <string name="power_5g_popups_content">Τα 5G δίκτυα παρέχουν υψηλή ταχύτητα σύνδεσης και χαμηλότερη καθυστέρηση.</string>
+    <string name="power_5g_popups_title">Χρήση δικτύων 5G</string>
+    <string name="vtb_ai_subtitle">Υπότιτλοι</string>
 </resources>
 
