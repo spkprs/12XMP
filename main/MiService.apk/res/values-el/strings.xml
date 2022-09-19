@@ -102,6 +102,7 @@
     <string name="icon_remove_description_title">Αφαίρεση \"Υπηρεσίες &amp; σχόλια\" από την Αρχική οθόνη;</string>
     <string name="mi_service_app_name">Υπηρεσίες &amp; Σχόλια</string>
     <string name="midnight">Night</string>
+    <string name="mi_service_back">Πίσω</string>
     <string name="miservice_channel_boot_name">μπότα</string>
     <string name="miservice_channel_guide_name">guide</string>
     <string name="miservice_channel_update_notification_info">Η \"Υπηρεσίες &amp; Σχόλια\" ζητά δεδομένα online…</string>

@@ -846,4 +846,6 @@
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="please_download_gallery">Εγκαταστήστε τη Συλλογή για προβολή</string>
+    <string name="bugreport_dialog_informed_consent_content">"Εντοπίσαμε ένα σφάλμα σχετικά με τον κωδικό κλειδώματος της οθόνης σας. Μπορείτε να υποβάλετε τα αρχεία καταγραφής της συσκευής σας για να μας βοηθήσετε να εντοπίσουμε και να επιλύσουμε το πρόβλημα. Οι πληροφορίες καταγραφής θα μεταφορτωθούν ανώνυμα, θα χρησιμοποιηθούν μόνο για την αντιμετώπιση προβλημάτων και θα διαγραφούν μόλις ολοκληρωθεί η αντιμετώπιση προβλημάτων."</string>
+    <string name="bugreport_dialog_informed_consent_title">Συναίνεση κατόπιν ενημέρωσης</string>
 </resources>
