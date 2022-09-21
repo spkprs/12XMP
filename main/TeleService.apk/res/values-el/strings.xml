@@ -380,7 +380,7 @@
     <string name="callFailed_cdma_activation">Μια κάρτα SIM έχει ενεργοποιήσει την υπηρεσία και έχει ενημερώσει τις δυνατότητες περιαγωγής της συσκευής σας.</string>
     <string name="callFailed_cdma_call_limit">Υπάρχουν πάρα πολλές ενεργές κλήσεις. Τερματίστε ή συγχωνεύστε υπάρχουσες κλήσεις πριν τοποθετήσετε μια νέα.</string>
     <string name="callFailed_channel_unacceptable">Απαγορεύεται το κανάλι</string>
-    <string name="callFailed_concurrent_calls_not_possible">Η κλήση τερματίστηκε λόγω μη δυνατότητας ταυτόχρονων κλήσεων.</string>
+    <string name="callFailed_concurrent_calls_not_possible">"Τέλος Κλήσης. Οι ταυτόχρονες κλήσεις δεν υποστηρίζονται."</string>
     <string name="callFailed_conditional_IE_error">Υπό όρους σφάλμα IE</string>
     <string name="callFailed_congestion">Το δίκτυο είναι απασχολημένο</string>
     <string name="callFailed_data_disabled">Η κλήση τερματίστηκε επειδή τα δεδομένα κινητής τηλεφωνίας απενεργοποιήθηκαν.</string>

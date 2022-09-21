@@ -49,6 +49,10 @@
      <string name="lock_msg_phone">Στοιχεία επικοινωνίας: %s</string>
      <string name="login_extra_steps">Επαλήθευση σύνδεσης</string>
      <string name="login_failed">Αδυναμία σύνδεσης. %s.</string>
+     <string name="miuix_access_state_desc">Επιλεγμένα</string>
+     <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
+     <string name="miuix_indexer_collect">Συλλογές</string>
+     <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
      <string name="open_wifi_settings">Ανοίξτε τις ρυθμίσεις Wi-Fi</string>
      <string name="passport_checking_vcode">Έλεγχος κωδικού…</string>
      <string name="passport_error_empty_vcode">Εισάγετε τον κωδικό επαλήθευσης</string>

@@ -267,9 +267,9 @@
     <string name="sound_id_function_description">Εξατομικεύστε την καμπύλη EQ με βάση τις προτιμήσεις σας</string>
     <string name="sound_id_function_name">Εξατομικευμένος ήχος</string>
     <string name="sound_id_headset_status">Τρέχοντα ακουστικά</string>
-    <string name="sound_id_hz_high">Πρίμα\n%d Hz</string>
-    <string name="sound_id_hz_low">Μπάσα\n%d Hz</string>
-    <string name="sound_id_hz_media">Μεσαία\n%d Hz</string>
+    <string name="sound_id_hz_high">Πρίμα %d Hz</string>
+    <string name="sound_id_hz_low">Μπάσα %d Hz</string>
+    <string name="sound_id_hz_media">Μεσαία %d Hz</string>
     <string name="sound_id_music_one_description">Απαλή | %ds</string>
     <string name="sound_id_music_one_title">Βροχερή πόλη</string>
     <string name="sound_id_music_three_description">Μελωδική | %ds</string>
@@ -319,8 +319,8 @@
     <string name="sound_transmission_start">Έναρξη</string>
     <string name="sound_transmission_stop">Παύση</string>
     <string name="sound_transmission_title">Ασύρματο μικρόφωνο</string>
-    <string name="spatial_audio">Παρακολούθηση κίνησης κεφαλής</string>
-    <string name="spatial_audio_summary">Ρυθμίστε τον Εντυπωσιακό ήχο βάσει κίνησης του κεφαλιού σας</string>
+    <string name="spatial_audio">Εντυπωσιακός ήχος</string>
+    <string name="spatial_audio_summary">Εμπειρία εμβύθισης και αίσθηση του χώρου όταν ο ήχος αναπαράγεται μέσω ακουστικών</string>
     <string name="speaker_scenario_resume">Επαναφορά αρχικών εφέ</string>
     <string name="speaker_scenario_selection">Έκδοση ηχητικών εφέ ηχείου</string>
     <string name="speaker_scenario_selection_another">Αρχικό</string>
