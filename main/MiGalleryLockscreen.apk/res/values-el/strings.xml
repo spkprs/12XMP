@@ -953,4 +953,9 @@
     <string name="miuix_alphabet_indexer_name">Γραμμή ευρετηρίου</string>
     <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="miuix_indexer_selected">Επιλεγμένα %s</string>
+    <string name="apply_warning_content">"Χρησιμοποιείτε μια σούπερ ταπετσαρία. Αν αλλάξετε την ταπετσαρία σας, θα εφαρμοστεί τόσο στην Αρχική οθόνη όσο και στην οθόνη κλειδώματος. Εφαρμογή τώρα;"</string>
+    <string name="apply_warning_content_with_aod">"Χρησιμοποιείτε μια σούπερ ταπετσαρία. Εάν αλλάξετε την ταπετσαρία σας, θα εφαρμοστεί τόσο στην Αρχική οθόνη όσο και στην οθόνη κλειδώματος και η Πάντα ενεργή οθόνη ενδέχεται να επανέλθει στην προεπιλεγμένη ρύθμιση. Εφαρμογή τώρα;"</string>
+    <string name="apply_warning_content_with_maml">"Χρησιμοποιείτε θέμα τρίτου κατασκευαστή. Εάν αλλάξετε την ταπετσαρία σας, το ρολόι της οθόνης κλειδώματος ενδέχεται να επανέλθει στην προεπιλεγμένη ρύθμιση. Εφαρμογή τώρα;"</string>
+    <string name="apply_warning_title">Εφαρμογή ταπετσαρίας</string>
+    <string name="dlg_ok">Εφαρμογή</string>
 </resources>

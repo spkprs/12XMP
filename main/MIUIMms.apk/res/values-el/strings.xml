@@ -1387,4 +1387,5 @@
     <string name="download_miui_calendar_title">Λήψη ημερολογίου</string>
     <string name="notes_not_found">Εγκαταστήστε πρώτα τις Σημειώσεις</string>
     <string name="soundrecorder_not_found">Εγκαταστήστε πρώτα τη συσκευή εγγραφής</string>
+    <string name="button_copy">Αντιγραφή</string>
 </resources>
