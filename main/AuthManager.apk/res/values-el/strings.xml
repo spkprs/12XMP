@@ -267,4 +267,6 @@
     <string name="yes">Ναι</string>
     <string name="permdesc_post_notification">Αποδοχή σε %1$s να δημοσιεύει ειδοποιήσεις;</string>
     <string name="perm_educate_post_notification">Οι ειδοποιήσεις μπορεί να συνοδεύονται από ήχο και δόνηση καθώς εμφανίζονται στον Πίνακα ειδοποιήσεων και στα εικονίδια της αρχικής οθόνης. Μπορείτε να αλλάξετε τις προτιμήσεις ειδοποιήσεων στις Ρυθμίσεις.</string>
+    <string name="carwith_grant_permission_tips_when_lock">Ξεκλειδώστε πρώτα το τηλέφωνό σας</string>
+    <string name="permdesc_read_phone_numbers">Επιτρέπετε στο %1$s να διαβάζει αριθμούς τηλεφώνου σε αυτή τη συσκευή;</string>
 </resources>

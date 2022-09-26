@@ -9223,4 +9223,6 @@ Xiaomi Cloud
     <string name="miui_type_style_summary">Τύπος πληκτ/γησης που εφαρμόζεται όταν ο αναγνώστης οθόνης είναι ενεργός</string>
     <string name="miui_type_style_title">Τύπος πληκτ/γησης</string>
     <string name="stylus_not_connect_message_new">Συνδέστε τη γραφίδα σας για σύζευξη</string>
+    <string name="external_ram_intro">"Δημιουργήστε πρόσθετη μνήμη RAM καταλαμβάνοντας χώρο αποθήκευσης. Χρησιμοποιήστε αυτή τη λειτουργία μόνο όταν υπάρχει αρκετός διαθέσιμος αποθηκευτικός χώρος στη συσκευή σας."</string>
+    <string name="kid_space_forbidden_set_unlock_password_msg">"Δεν μπορείτε να ορίσετε ή να αλλάξετε τον κωδικό πρόσβασης στον χώρο Kid"</string>
 </resources>

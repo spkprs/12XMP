@@ -2662,4 +2662,6 @@
     <string name="storage_space_permissions_for_display">Πρόσβαση στον αποθηκευτικό χώρο της συσκευής: για σάρωση, εμφάνιση και αναπαραγωγή τοπικών αρχείων</string>
     <string name="telephone_permissions_for_push">Δικαιώματα κλήσης: για την παροχή υπηρεσιών ειδοποιήσεων push της Google</string>
     <string name="welcome_to_entertainment">Ελέγξτε τη νέα λειτουργία Ψυχαγωγία για μουσικά παιχνίδια και άλλα</string>
+    <string name="app_disable_description_content">Το Mi Music είναι μια εφαρμογή συστήματος. Εάν την απενεργοποιήσετε, αυτό μπορεί να επηρεάσει τη χρήση άλλων εφαρμογών. Απενεργοποίηση ούτως ή άλλως;</string>
+    <string name="app_disable_description_title">Απενεργοποίηση εφαρμογής συστήματος;</string>
 </resources>

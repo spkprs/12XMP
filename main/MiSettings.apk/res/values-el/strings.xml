@@ -923,5 +923,13 @@
     <string name="usage_new_category_limit_summary">Ορίστε ημερήσια όρια χρήσης για όλες τις εφαρμογές αυτής της κατηγορίας</string>
     <string name="usage_new_category_limit_title">Περιορισμός της χρήσης για την κατηγορία εφαρμογών</string>
     <string name="workday_limit">Εργάσιμες ημέρες</string>
+    <string name="closed_high_refresh_options">Εφαρμογές που δεν χρησιμοποιούν υψηλό ρυθμό ανανέωσης</string>
+    <string name="customize_high_refresh_summary">Αυτή η λειτουργία υποστηρίζει ρυθμό ανανέωσης έως και %d Hz. Ο κατάλληλος ρυθμός ανανέωσης μπορεί να επιλεγεί αυτόματα με βάση τις προτιμήσεις της συσκευής.</string>
+    <string name="customize_high_refresh_title">Εφαρμογές που χρησιμοποιούν υψηλό ρυθμό ανανέωσης</string>
+    <string name="follow_apps_settings">Βάσει των ρυθμίσεων της εφαρμογής</string>
+    <string name="high_refresh_options_title">Υποστηριζόμενες εφαρμογές</string>
+    <string name="new_customize_high_refresh_title">Υψηλός ρυθμός ανανέωσης</string>
+    <string name="opened_high_refresh_options">Εφαρμογές που χρησιμοποιούν υψηλό ρυθμό ανανέωσης</string>
+    <string name="search_app_tips">Αναζήτηση εφαρμογών</string>
 </resources>
 

@@ -476,4 +476,5 @@
     <string name="rescueparty_package_tips">Εντοπίστηκε καταστροφή {0} υπηρεσίας συστήματος</string>
     <string name="rescuepartyplus_config_reset_context">Ορισμένα δεδομένα ενδέχεται να έχουν διαγραφεί. Πατήστε για να δείτε λεπτομέρειες.</string>
     <string name="rescuepartyplus_config_reset_title">Επισκευή συστήματος ολοκληρώθηκε</string>
+    <string name="wallpaper_group_macaron_title">Βότσαλα</string>
 </resources>
