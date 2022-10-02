@@ -787,7 +787,6 @@
     <string name="pure_introduction_title5">Προστασία κατά της απάτης</string>
     <string name="safe_mode_tip_title_off_msg">Η ασφαλής λειτουργία είναι απενεργοποιημένη</string>
     <string name="safe_mode_tip_title_on_msg">Ασφαλής λειτουργία</string>
-    <string name="safe_mode_title_text">Ασφαλής λειτουργία</string>
     <string name="security_mode_close_feedback">Σας ευχαριστούμε για τη χρήση της ασφαλούς λειτουργίας</string>
     <string name="security_mode_feedback_commit">Υποβολή</string>
     <string name="security_mode_feedback_multiple_choice">" (Επιλέξτε όσα ισχύουν)"</string>

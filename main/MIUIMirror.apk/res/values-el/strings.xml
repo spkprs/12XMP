@@ -403,10 +403,8 @@
     <string name="pad_pc_message_introduction_title">Κοινόχρηστο πρόχειρο</string>
     <string name="pad_pc_mirror_introduction_summary">Κατοπτρισμός της οθόνης του υπολογιστή στο tablet σας</string>
     <string name="pad_pc_mirror_introduction_title">Mirror screen</string>
-    <string name="pad_settings_bluetooth_enable_summary">Ενεργοποιήστε το Bluetooth για να μπορείτε να βρίσκετε συσκευές σε κοντινή απόσταση. Ενεργοποίηση τώρα;</string>
     <string name="pad_settings_click_toast_msg">Συνδεθείτε χρησιμοποιώντας το Mi Smart Hub στον υπολογιστή σας</string>
     <string name="pad_settings_current_device_tip">Συνδεθείτε αυτόματα σε άλλες ταμπλέτες που σχετίζονται με το λογαριασμό σας Xiaomi</string>
-    <string name="pad_settings_handoff_enable_bluetooth">Ενεργοποιήστε το Bluetooth για να βρείτε συσκευές σε κοντινή απόσταση</string>
     <string name="pc_account_connect_cta_again">Συνδεθείτε ξανά στον υπολογιστή σας</string>
     <string name="pc_cooperate_duplicate_title">Επιτραπέζιος υπολογιστής</string>
     <string name="pc_cooperate_extend_title">Επέκταση επιφάνειας υπολογιστή</string>

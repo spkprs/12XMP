@@ -5778,5 +5778,9 @@
     <string name="power_5g_popups_content">Τα 5G δίκτυα παρέχουν υψηλή ταχύτητα σύνδεσης και χαμηλότερη καθυστέρηση.</string>
     <string name="power_5g_popups_title">Χρήση δικτύων 5G</string>
     <string name="vtb_ai_subtitle">Υπότιτλοι</string>
+    <string name="app_manager_restricted_settings_title">Επιτρέψτε περιορισμένες ρυθμίσεις</string>
+    <string name="gb_barrage_chat_pre_desc">Προεπισκόπηση</string>
+    <string name="gb_barrage_chat_text_speed_moderate">Μέτρια</string>
+    <string name="power_dialog_performance_mode_checkbox">Εναλλαγή σε ρυθμό ανανέωσης 120 Hz</string>
 </resources>
 

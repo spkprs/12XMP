@@ -267,4 +267,17 @@
     <string name="wifi_call">Κλήσεις VoWiFi</string>
     <string name="call_log_short_in">Αυτός ο αριθμός σας κάλεσε μόλις τώρα</string>
     <string name="call_log_short_out">Καλέσατε αυτόν τον αριθμό μόλις τώρα</string>
+    <string name="camera_on">Το άλλο άτομο θέλει να ενεργοποιήσει την κάμερά σας.</string>
+    <string name="camera_on_agree">Αποδοχή</string>
+    <string name="camera_on_refuse">"Απόρριψη"</string>
+    <string name="camera_on_title">Κάμερα</string>
+    <string name="onscreen_collapsed">Collapse</string>
+    <string name="onscreen_collapsed_dialpad">Εμφάνιση πληκ/γίου κλήσης</string>
+    <string name="onscreen_expand">Περισσότερα</string>
+    <string name="onscreen_expand_dialpad">Απόκρυψη πληκ/γίου κλήσης</string>
+    <string name="screen_share">Απομακρυσμένη βοήθεια</string>
+    <string name="screen_share_agree">Αποδοχή</string>
+    <string name="screen_share_connecting">Σύνδεση…</string>
+    <string name="screen_share_message">Να επιτρέπετε στο άλλο άτομο να βλέπει την οθόνη σας σε πραγματικό χρόνο;</string>
+    <string name="screen_share_refuse">Ακύρωση</string>
 </resources>

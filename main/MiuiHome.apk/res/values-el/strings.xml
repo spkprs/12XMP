@@ -944,4 +944,6 @@
     <string name="launch_accessibility_environmental_speech_recognition">Αναγνώριση ήχου περιβάλλοντος</string>
     <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto υπότιτλοι</string>
     <string name="launch_accessibility_voice_control">Voice controls</string>
+    <string name="toast_split_app_unsupported">"Αυτή η εφαρμογή δεν υποστηρίζει διαχωρισμένη οθόνη"</string>
+    <string name="toast_split_select_app">Πατήστε μια εφαρμογή για χρήση της οθόνης διαχωρισμού</string>
 </resources>

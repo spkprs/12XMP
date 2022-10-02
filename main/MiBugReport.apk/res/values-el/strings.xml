@@ -601,7 +601,6 @@
     <string name="passport_restart_register_prompt">Μπορεί να απαιτείται ένα άλλο μήνυμα επαλήθευσης για τη δημιουργία του λογαριασμού σας.</string>
     <string name="passport_restart_register_title">Δημιουργήστε έναν Λογαριασμό Mi</string>
     <string name="passport_retry">Δοκιμάστε ξανά</string>
-    <string name="passport_retry">Προσπάθησε ξανά</string>
     <string name="passport_select_reg_ways_title">Άλλοι τρόποι εγγραφής</string>
     <string name="passport_send_sms_to">Ο κωδικός αποστέλλεται σε %1$s</string>
     <string name="passport_send_too_many_code">Έχουν αποσταλεί πάρα πολλοί κωδικοί επαλήθευσης σε αυτόν τον αριθμό. Περιμένετε 24 ώρες και δοκιμάστε ξανά.</string>

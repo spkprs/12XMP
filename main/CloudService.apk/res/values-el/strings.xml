@@ -887,7 +887,7 @@
     <string name="web_sso_login_message">Είσοδος…</string>
     <string name="webview_reload">Δοκιμάστε ξανά</string>
     <string name="wipe_data_dialog_button_check_sync">Έλεγχος συγχρονισμού</string>
-    <string name="wipe_data_dialog_msg">%s δεν έχουν συγχρονιστεί και θα παραμείνουν στο τηλέφωνό σας.</string>
+    <string name="wipe_data_dialog_msg">"Ορισμένα στοιχεία (%s) δεν συγχρονίζονται. Θα αποθηκευτούν στη συσκευή σας και δεν θα διαγραφούν."</string>
     <string name="wipe_data_dialog_msg_and_on">, και μερικά άλλα στοιχεία</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">"Μερικά στοιχεία δεν έχουν συγχρονιστεί"</string>
@@ -898,5 +898,7 @@
     <string name="micloud_storage_family_quota">Κοινόχρηστος χώρος</string>
     <string name="find_permission_phone_sim_info_summary">Για πρόσβαση στη θέση σας μέσω SMS όταν δεν είστε συνδεδεμένοι στο δίκτυο</string>
     <string name="find_permission_phone_sim_info_title">Πρόσβαση σε πληροφορίες συσκευής</string>
+    <string name="phone_guarantee_service_description" formatted="false">Η προστασία από ζημιές στην οθόνη και ατυχήματα μπορεί να αγοραστεί εντός %d ημερών από την ενεργοποίηση. Η εκτεταμένη εγγύηση μπορεί να αγοραστεί εντός %d ημερών από την ενεργοποίηση.</string>
+    <string name="phone_guarantee_service_name">Εγγύηση συσκευής</string>
 </resources>
 

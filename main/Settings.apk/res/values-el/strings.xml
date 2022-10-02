@@ -9225,4 +9225,6 @@ Xiaomi Cloud
     <string name="stylus_not_connect_message_new">Συνδέστε τη γραφίδα σας για σύζευξη</string>
     <string name="external_ram_intro">"Δημιουργήστε πρόσθετη μνήμη RAM καταλαμβάνοντας χώρο αποθήκευσης. Χρησιμοποιήστε αυτή τη λειτουργία μόνο όταν υπάρχει αρκετός διαθέσιμος αποθηκευτικός χώρος στη συσκευή σας."</string>
     <string name="kid_space_forbidden_set_unlock_password_msg">"Δεν μπορείτε να ορίσετε ή να αλλάξετε τον κωδικό πρόσβασης στον χώρο Kid"</string>
+    <string name="lite_font_weight_title">Βάρος γραμ/σειράς</string>
+    <string name="more_font_pref_title">Περισσότερες γραμ/σειρές</string>
 </resources>
