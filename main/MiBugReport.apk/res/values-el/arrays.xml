@@ -4,4 +4,58 @@
         <item>Άνδρας</item>
         <item>Γυναίκα</item>
     </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>Κακή σύνδεση Wi-Fi. Αλλάξτε ασύρματες ζώνες ή κάντε επανεκκίνηση του δρομολογητή.</item>
+        <item>"Δεν είναι δυνατή η πρόσβαση στο δίκτυο. Επανασυνδεθείτε στο Wi-Fi ή κάντε επανεκκίνηση του δρομολογητή."</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Κακή σύνδεση WLAN. Αλλάξτε ασύρματες ζώνες ή κάντε επανεκκίνηση του δρομολογητή.</item>
+        <item>"Δεν είναι δυνατή η πρόσβαση στο δίκτυο. Επανασυνδεθείτε στο WLAN ή κάντε επανεκκίνηση του δρομολογητή."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>Απαιτείται έλεγχος ταυτότητας για την πρόσβαση στο δίκτυο</item>
+        <item>"Η πρόσβαση στο δίκτυο είναι περιορισμένη. Ρυθμίστε την ώρα σε αυτή τη συσκευή και ελέγξτε τις ρυθμίσεις δικτύου του δρομολογητή.."</item>
+        <item>Σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις μεσολάβησης HTTP.</item>
+        <item>Σφάλμα δικτύου. Ελέγξτε αν ο δρομολογητής έχει πρόσβαση στο διαδίκτυο.</item>
+        <item>"Δεν μπορεί να συνδεθεί στο δίκτυο. Επανασυνδεθείτε στο Wi-Fi ή κάντε επανεκκίνηση του δρομολογητή.."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>Απαιτείται έλεγχος ταυτότητας για την πρόσβαση στο δίκτυο</item>
+        <item>"Η πρόσβαση στο δίκτυο είναι περιορισμένη. Ρυθμίστε την ώρα σε αυτή τη συσκευή και ελέγξτε τις ρυθμίσεις δικτύου του δρομολογητή.."</item>
+        <item>Σφάλμα δικτύου. Ελέγξτε τις ρυθμίσεις μεσολάβησης HTTP.</item>
+        <item>Σφάλμα δικτύου. Ελέγξτε αν ο δρομολογητής έχει πρόσβαση στο διαδίκτυο.</item>
+        <item>"Δεν μπορεί να συνδεθεί στο δίκτυο. Επανασυνδεθείτε στο WLAN ή κάντε επανεκκίνηση του δρομολογητή.."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>"Σφάλμα διακομιστή DNS. Ελέγξτε τις ρυθμίσεις DNS του δρομολογητή."</item>
+        <item>"Σημαντικές καθυστερήσεις από το διακομιστή DNS. Ελέγξτε τις ρυθμίσεις DNS του δρομολογητή."</item>
+        <item>"Δεν είναι δυνατή η πρόσβαση στην πύλη. Επανασυνδεθείτε στο Wi-Fi ή κάντε επανεκκίνηση του δρομολογητή."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>"Σφάλμα διακομιστή DNS. Ελέγξτε τις ρυθμίσεις DNS του δρομολογητή."</item>
+        <item>"Σημαντικές καθυστερήσεις από το διακομιστή DNS. Ελέγξτε τις ρυθμίσεις DNS του δρομολογητή."</item>
+        <item>"Δεν είναι δυνατή η πρόσβαση στην πύλη. Επανασυνδεθείτε στο WLAN ή κάντε επανεκκίνηση του δρομολογητή."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Σημαντικές καθυστερήσεις από το τοπικό δίκτυο. Κάντε επανεκκίνηση του δρομολογητή ή συνδεθείτε σε άλλο δίκτυο.</item>
+        <item>Σημαντικές καθυστερήσεις από το διαδίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου του φορέα ή συνδεθείτε σε άλλο δίκτυο.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Αλλαγή από στατική IP σε DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Σφάλμα πρωτοκόλλου δικτύου. Επανασυνδεθείτε στο Wi-Fi ή κάντε επανεκκίνηση της συσκευής.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Σφάλμα πρωτοκόλλου δικτύου. Επανασυνδεθείτε στο WLAN ή κάντε επανεκκίνηση της συσκευής.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Μετακίνηση σε περιοχή με καλύτερη κάλυψη Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Μετακίνηση σε περιοχή με καλύτερη κάλυψη WLAN</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>"Ελέγξτε τις ρυθμίσεις DHCP του δρομολογητή και την ενσύρματη σύνδεση"</item>
+    </string-array>
 </resources>

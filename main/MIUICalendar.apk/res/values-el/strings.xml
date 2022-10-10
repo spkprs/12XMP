@@ -981,4 +981,10 @@
     <string name="yesterday">Χθες</string>
     <string name="edit_event_reminder_3_days_before_time">Υπενθυμίστε επίσης %d ημέρες πριν</string>
     <string name="edit_event_reminder_summary_3_days_before_today">%1$d ημέρες πριν και %1$s την καθορισμένη ημέρα</string>
+    <string name="hour_1">%d ώρ.</string>
+    <string name="minutes_10">%d λεπ.</string>
+    <string name="minutes_15">%d λεπ.</string>
+    <string name="minutes_30">%d λεπ.</string>
+    <string name="minutes_5">%d λεπ.</string>
+    <string name="suggestions_and_feedback">Σχόλια</string>
 </resources>

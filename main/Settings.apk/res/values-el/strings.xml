@@ -9227,4 +9227,8 @@ Xiaomi Cloud
     <string name="kid_space_forbidden_set_unlock_password_msg">"Δεν μπορείτε να ορίσετε ή να αλλάξετε τον κωδικό πρόσβασης στον χώρο Kid"</string>
     <string name="lite_font_weight_title">Βάρος γραμ/σειράς</string>
     <string name="more_font_pref_title">Περισσότερες γραμ/σειρές</string>
+    <string name="headset_find_left_tip">Φαίνεται ότι το αριστερό ακουστικό είναι στη θήκη ή στο αυτί σας.</string>
+    <string name="headset_find_right_tip">Φαίνεται ότι το δεξί ακουστικό είναι στη θήκη ή στο αυτί σας.</string>
+    <string name="miheadset_connect_device_hfp">Συνδέστε τα ακουστικά σας και βεβαιωθείτε ότι επιτρέπεται η αναπαραγωγή ήχου για κλήσεις</string>
+    <string name="miheadset_firmware_version_update">Ενημέρωση υλικολογισμικού</string>
 </resources>

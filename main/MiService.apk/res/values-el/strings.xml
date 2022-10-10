@@ -479,4 +479,8 @@
     <string name="withdraw_consent_failed_hint_connect_net">Η συσκευή σας πρέπει να συνδεθεί στο δίκτυο για να μπορέσετε να αποσύρετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
     <string name="withdrawing">Ανάκληση συγκατάθεσης…</string>
     <string name="yesterday">Εχθές</string>
+    <string name="miui_main_icon_callback">Συντόμευση στην Αρχική Οθόνη</string>
+    <string name="miui_main_icon_callback_create">Δημιουργία</string>
+    <string name="miui_main_icon_callback_desc">Δημιουργία μια συντόμευσης στην Αρχική Οθόνη τώρα;</string>
+    <string name="miui_main_icon_callback_nocreate">Ακύρωση</string>
 </resources>
