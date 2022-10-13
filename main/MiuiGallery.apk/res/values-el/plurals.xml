@@ -632,4 +632,40 @@
         <item quantity="other">%d έτη</item>
         <item quantity="one">%d έτος</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Φόρτωση %d φωτογρ.</item>
+        <item quantity="one">Φόρτωση %d φωτογρ.</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d δωμάτια</item>
+        <item quantity="one">%1$d δωμάτιο</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d οθόνες</item>
+        <item quantity="one">%1$d οθόνη</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d κοινές οθόνες</item>
+        <item quantity="one">%1$d κοινή οθόνη</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">%1$d έξυπνα οικιακά περιβάλλοντα διαθέσιμα</item>
+        <item quantity="one">%1$d έξυπνο οικιακό περιβάλλον διαθέσιμο</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d τα στοιχεία είναι πολύ μεγάλα για συγχρονισμό</item>
+        <item quantity="one">%d το στοιχείο είναι πολύ μεγάλο για συγχρονισμό</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">"Δεν ήταν δυνατός ο συγχρονισμός %d στοιχείων. Αναβάθμιση του σχεδίου αποθήκευσης."</item>
+        <item quantity="one">"Δεν ήταν δυνατός ο συγχρονισμός %d στοιχείου. Αναβάθμιση του σχεδίου αποθήκευσης."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">"Δεν ήταν δυνατός ο συγχρονισμός %d στοιχείων. Προσπαθήστε ξανά."</item>
+        <item quantity="one">"Δεν ήταν δυνατός ο συγχρονισμός %d στοιχείου. Προσπαθήστε ξανά."</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">"Δεν ήταν δυνατός ο συγχρονισμός %d στοιχείων. Ο κάτοχος αυτού του άλμπουμ δεν διαθέτει χώρο αποθήκευσης στο cloud."</item>
+        <item quantity="one">"Δεν ήταν δυνατός ο συγχρονισμός %d στοιχείου. Ο κάτοχος αυτού του άλμπουμ δεν διαθέτει χώρο αποθήκευσης στο cloud."</item>
+    </plurals>
 </resources>

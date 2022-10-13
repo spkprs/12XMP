@@ -863,4 +863,8 @@
     <string name="yesterday">Χθές</string>
     <string name="note_mindnote_not_support_in_phone_model">"Δεν είναι δυνατή η επεξεργασία χαρτών μυαλού σε αυτήν τη συσκευή"</string>
     <string name="note_write_hint">Αρχίστε να γράφετε</string>
+    <string name="new_lite_audio_create_talkback_des">Πατήστε για να δημιουργήσετε μια σημείωση</string>
+    <string name="widget_all_notes_name">Όλες οι σημειώσεις</string>
+    <string name="widget_all_todo_name">Όλες οι εργασίες</string>
+    <string name="widget_click_check">Πατήστε για προβολή</string>
 </resources>
