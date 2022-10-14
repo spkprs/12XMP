@@ -306,5 +306,7 @@
     <string name="controls_offline_device_toast">Αυτή η συσκευή είναι εκτός σύνδεσης. Πατήστε παρατεταμένα για να ανοίξετε την εφαρμογή.</string>
     <string name="controls_unsupport_toggle_toast">"Δεν μπορείτε να ελέγξετε αυτή τη συσκευή από εδώ. Πατήστε παρατεταμένα για να ανοίξετε την εφαρμογή."</string>
     <string name="offline">Εκτός σύνδεσης</string>
+    <string name="accessibility_desc_add">Προσθήκη</string>
+    <string name="accessibility_desc_remove">Αφαίρεση</string>
 </resources>
 

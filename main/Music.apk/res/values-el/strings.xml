@@ -2664,4 +2664,5 @@
     <string name="welcome_to_entertainment">Ελέγξτε τη νέα λειτουργία Ψυχαγωγία για μουσικά παιχνίδια και άλλα</string>
     <string name="app_disable_description_content">Το Mi Music είναι μια εφαρμογή συστήματος. Εάν την απενεργοποιήσετε, αυτό μπορεί να επηρεάσει τη χρήση άλλων εφαρμογών. Απενεργοποίηση ούτως ή άλλως;</string>
     <string name="app_disable_description_title">Απενεργοποίηση εφαρμογής συστήματος;</string>
+    <string name="tips_click_here_to_continue">Πατήστε για συνέχιση της αναπαραγωγής</string>
 </resources>
