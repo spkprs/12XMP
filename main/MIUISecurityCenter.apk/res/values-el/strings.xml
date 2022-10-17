@@ -204,6 +204,10 @@
     <string name="antivirus_detect_apps_dialog_content_text">Αυτή η εφαρμογή ενδέχεται να εγκυμονεί κινδύνους για την ασφάλεια των προσωπικών σας πληροφοριών.</string>
     <string name="antivirus_detect_apps_dialog_message">Εάν το προσωπικό εξυπηρέτησης πελατών, οι αρχές ή οι άνθρωποι που μπορεί να γνωρίζετε σας ζητήσουν να χρησιμοποιήσετε αυτή την εφαρμογή, <Data>&lt;font color=#F22424>επαληθεύστε την ταυτότητά τους πριν συνεχίσετε&lt;/font>.</Data></string>
     <string name="antivirus_detect_apps_dialog_message_reject_permission">Οι άδειες που ζητήθηκαν από αυτή την εφαρμογή ήταν περιορισμένες. Μπορείτε να διαχειριστείτε τις άδειες εδώ: %s.</string>
+    <string name="antivirus_detect_apps_dialog_uninstall">Απεγκατάσταση</string>
+    <string name="antivirus_detect_apps_noti_message">Αυτή η εφαρμογή εγκυμονεί κινδύνους για την ασφάλεια</string>
+    <string name="antivirus_detect_apps_noti_title">Πολλαπλές εφαρμογές συμπεριλαμβανομένων %s μπορεί να εγκυμονεί κινδύνους για την ασφάλεια</string>
+    <string name="antivirus_detect_single_app_noti_title">%s μπορεί να εγκυμονεί κινδύνους για την ασφάλεια</string>
     <string name="antivirus_longtime_no_update">Φαίνεται ότι η βάση ιών είναι παλιά. Οι τακτικές ενημερώσεις συμβάλλουν στην επίτευξη καλύτερων αποτελεσμάτων σάρωσης. Να επιτρέπεται στην Ασφάλεια η σύνδεση στο διαδίκτυο και η ενημέρωση της βάσης ιών;</string>
     <string name="antivirus_longtime_no_update1">Φαίνεται ότι η βάση ιών είναι παλιά. Οι τακτικές ενημερώσεις συμβάλλουν στην επίτευξη καλύτερων αποτελεσμάτων σάρωσης. Ενημερώστε τη βάση ιών και δοκιμάστε ξανά.</string>
     <string name="antivirus_main_activity_back">Επιστροφή από σάρωση ασφαλείας</string>
@@ -215,6 +219,7 @@
     <string name="antivirus_monitored_app_empty">Αδύνατη η εύρεση συμβατών εφαρμογών πληρωμής</string>
     <string name="antivirus_monitored_tips">Αυτόματος έλεγχος του περιβάλλοντος πληρωμής για πιθανούς κινδύνους</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
+    <string name="antivirus_not_remind_for_app">Χωρίς προειδοπ. ξανά για αυτήν .</string>
     <string name="antivirus_not_wlan">Δεν είστε συνδεδεμένοι σε Wi‑Fi. Η χρήση δεδομένων κινητής τηλεφωνίας ενδέχεται να δημιουργήσει πρόσθετες χρεώσεις. Συνέχεια ούτως ή άλλως;</string>
     <string name="antivirus_privacy_dialog_cloudscan">Αποστολή ονομ. και λεπτ. εφαρμογών</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">"Για τον αποτελεσματικότερο εντοπισμό και την εξουδετέρωση των ιών, θα αποστείλουμε τα ονόματα και τις ιδιότητες πακέτων των εφαρμογών, προκειμένου να τους σαρώσουμε χρησιμοποιώντας μια μηχανή νέφους."</string>
@@ -381,7 +386,7 @@
     <string name="app_behavior_sensor_single">Είχε πρόσβαση σε δεδομένα αισθητήρων</string>
     <string name="app_behavior_settings_category_perm">Ειδοποίηση σχετικά με ευαίσθητες ενέργειες</string>
     <string name="app_behavior_settings_category_privacy">Προστασία προσωπικών σας στοιχείων</string>
-    <string name="app_behavior_settings_perm_tips">Εμφάνιση ειδοποίησης στη γραμμή κατάστασης, όταν οι εφαρμογές έχουν πρόσβαση στην τοποθεσία, ηχογραφούν ή τραβούν φωτογραφίες</string>
+    <string name="app_behavior_settings_perm_tips">Εμφάνιση ειδοποίησης στη γραμμή κατάστασης, όταν οι εφαρμογές έχουν πρόσβαση στην τοποθεσία, ηχογραφούν ή κάνουν λήψη φωτογραφιών</string>
     <string name="app_behavior_settings_privacy_tips">Λήψη ειδοποιήσεων όταν οι εφαρμογές αποκτούν πρόσβαση στις επαφές σας, στο ιστορικό κλήσεων ή εκτελούν άλλες ευαίσθητες ενέργειες</string>
     <string name="app_behavior_share_file">Κοινή χρήση αρχείων</string>
     <string name="app_behavior_share_picture">Κοινή χρήση εικόνων</string>
@@ -1009,6 +1014,7 @@
     <string name="btn_text_quick_save_power">Βελτιστοποίηση</string>
     <string name="btn_text_quick_scan">Ανάλυση</string>
     <string name="btn_text_stop">Διακοπή</string>
+    <string name="bubble_app_empty_page">Δεν ήταν δυνατή η εύρεση εφαρμογών που υποστηρίζουν συννεφάκια συνομιλίας σε αυτήν τη συσκευή</string>
     <string name="bubble_app_manage">Διαχείριση φυσαλίδων συνομιλίας</string>
     <string name="bubble_mode_barrage_switch_tips">Ενεργοποιήστε την εμφάνιση φυσαλίδων συνομιλίας για ελαχιστοποιημένες εφαρμογές ως σχόλια στην οθόνη</string>
     <string name="bubble_mode_barrage_tips">Οι φυσαλίδες συνομιλίας για ελαχιστοποιημένες εφαρμογές θα εμφανίζονται ως σχόλια στην οθόνη.</string>
@@ -4285,6 +4291,7 @@
     <string name="select_app_title_music">Αναπαραγωγή μουσικής</string>
     <string name="select_province_and_city">Επιλέξτε τοποθεσία</string>
     <string name="select_traffic_type_and_reminder_type">Πατήστε για ρύθμιση</string>
+    <string name="send">Αποστολή</string>
     <string name="send_msg_to_query">Στείλτε ένα μήνυμα κειμένου για έλεγχο</string>
     <string name="send_sms_title">Επιτρέπετε σε %s να στέλνει μηνύματα;</string>
     <string name="set_applock_password">Ορισμός κωδικού</string>
@@ -4544,6 +4551,10 @@
     <string name="sp_sos_title">Έκτακτη ανάγκη SOS</string>
     <string name="sp_system_security_title">Ασφάλεια συστήματος</string>
     <string name="sp_toast_removed_from_sign_white_list">Αφαιρέθηκε από τις εξαιρέσεις. Το στοιχείο θα σαρωθεί την επόμενη φορά.</string>
+    <string name="sp_unshelf_dialog_cancel_pay">Ακύρωση</string>
+    <string name="sp_unshelf_dialog_content">%s δεν έχει περάσει τις δοκιμές ασφαλείας του GetApps. Η χρήση πληρωμών εντός εφαρμογής μπορεί να προκαλέσει οικονομικές απώλειες. Πληρωμή;</string>
+    <string name="sp_unshelf_dialog_continue_pay">Πληρωμή</string>
+    <string name="sp_unshelf_dialog_title">Εντοπίστηκαν Κίνδυνοι</string>
     <string name="sp_website_scan_summary">Ασφαλής περιήγηση στο web</string>
     <string name="sp_website_scan_title">Έλεγχος τοποθεσιών web</string>
     <string name="special_number_group">Αποκλεισμός ειδικών αριθμών</string>
@@ -5184,6 +5195,7 @@
     <string name="title_flow_rank">Χρήση δεδομένων κινητής</string>
     <string name="title_flow_verify">Σύγκριση στοιχείων</string>
     <string name="title_flow_verify_failed">Αδυναμία βαθμονόμησης για 5 συνεχόμενες ημέρες</string>
+    <string name="title_flow_verify_failed_new">Δεν ήταν δυνατή η προσαρμογή για %d μέρες στη σειρά</string>
     <string name="title_garbage_clean">Το μέγεθος cache της εφαρμογής είναι %s</string>
     <string name="title_garbage_less">Η προσωρινή μνήμη εφαρμογών είναι μικρή</string>
     <string name="title_garbage_lib">Αυτόματες ενημερώσεις</string>
@@ -5781,6 +5793,33 @@
     <string name="app_manager_restricted_settings_title">Επιτρέψτε περιορισμένες ρυθμίσεις</string>
     <string name="gb_barrage_chat_pre_desc">Προεπισκόπηση</string>
     <string name="gb_barrage_chat_text_speed_moderate">Μέτρια</string>
-    <string name="power_dialog_performance_mode_checkbox">Εναλλαγή σε ρυθμό ανανέωσης 120 Hz</string>
+    <string name="power_dialog_performance_mode_checkbox">Εναλλαγή σε ρυθμό ανανέωσης %d Hz</string>
+    <string name="confirm_package_type">Επιβεβαιώστε το πακέτο δεδομένων σας</string>
+    <string name="ew_monitor_bad_request_tips">"Η Ασφάλεια δεν μπορεί να έχει πρόσβαση στις πληροφορίες της συσκευής"</string>
+    <string name="exo_download_paused">Λήψεις σε παύση</string>
+    <string name="exo_download_paused_for_network">Λήψεις σε αναμονή για δίκτυο</string>
+    <string name="exo_download_paused_for_wifi">Λήψεις σε αναμονή για WiFi</string>
+    <string name="gb_predownload_check">Προβολή επιβραβεύσεων</string>
+    <string name="gb_predownload_receive">Αποκτήστε επιβραβεύσεις</string>
+    <string name="gb_predownload_receive_tips">Ενεργοποιήστε τις ενημερώσεις στο παρασκήνιο για να λάβετε επιβραβεύσεις</string>
+    <string name="sp_family_guard_summary">Παροχή απομακρυσμένης βοήθειας</string>
+    <string name="sp_family_guard_title">Οικογενειακός φρουρός</string>
+    <string name="terminal_privacy">Προστασία απορρήτου στη συσκευή</string>
+    <string name="terminal_privacy_ability">Λειτουργίες και μηχανισμοί</string>
+    <string name="terminal_privacy_ability_img">Επεξεργασία εικόνας</string>
+    <string name="terminal_privacy_ability_img_summary">Έξυπνη επεξεργασία και αναγνώριση φωτογραφιών και βίντεο στην Κάμερα, τη Γκαλερί και Taplus</string>
+    <string name="terminal_privacy_ability_model">Αναγνώριση του τρόπου αλληλεπίδρασης της συσκευής σας με το περιβάλλον</string>
+    <string name="terminal_privacy_ability_model_summary">Μετρητής βημάτων, έξυπνες χειρονομίες, λειτουργία Pocket και αυτόματη φωτεινότητα</string>
+    <string name="terminal_privacy_ability_others">Άλλοι μηχανισμοί</string>
+    <string name="terminal_privacy_ability_others_summary">Κοινή χρήση οθόνης, δοκιμαστικό περιβάλλον πληρωμών, αναγνώριση δακτυλικών αποτυπωμάτων και προσώπου</string>
+    <string name="terminal_privacy_ability_suggest">Προτάσεις</string>
+    <string name="terminal_privacy_ability_suggest_summary">Συστάσεις και προτάσεις από τη Διαχείριση αρχείων, Πλευρική μπάρα, το Mi AI και το Mi Wallet</string>
+    <string name="terminal_privacy_ability_summary">*Τα χαρακτηριστικά και οι μηχανισμοί προστασίας του απορρήτου στη συσκευή ενδέχεται να διαφέρουν ανάλογα με το μοντέλο της συσκευής.</string>
+    <string name="terminal_privacy_ability_txt">Κείμενο</string>
+    <string name="terminal_privacy_ability_txt_summary">Επεξεργασία κειμένου, έξυπνοι υπότιτλοι, Taplus, μηνύματα και κοινόχρηστο πρόχειρο</string>
+    <string name="terminal_privacy_ability_voice">Αναγνώριση ομιλίας</string>
+    <string name="terminal_privacy_ability_voice_summary">Mi AI φωνητικές εντολές και έξυπνοι υπότιτλοι</string>
+    <string name="terminal_privacy_instruction">Η προστασία απορρήτου στη συσκευή περιλαμβάνει τα χαρακτηριστικά που διασφαλίζουν ότι οι προσωπικές σας πληροφορίες διατηρούνται σε αυτή τη συσκευή αντί να μεταφορτώνονται στο cloud.</string>
+    <string name="terminal_privacy_summary">Επεξεργασία προσωπικών πληροφοριών σε αυτή τη συσκευή</string>
 </resources>
 
