@@ -1451,4 +1451,7 @@
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Αυτή τη στιγμή χρησιμοποιείτε μια Super ταπετσαρία. Αν επιλέξετε μια νέα ταπετσαρία, θα εφαρμοστεί τόσο στην Αρχική οθόνη όσο και στην οθόνη κλειδώματος. Εφαρμόζετε τώρα;"</string>
     <string name="personalize_second_space_not_support_buy_widget">"Δεν μπορείτε να αγοράσετε widgets στο Δεύτερ Χώρο"</string>
     <string name="use_now">Προσθήκη</string>
+    <string name="component_title_widget_suit">Γραφικά στοιχεία</string>
+    <string name="paying">Αγορές…</string>
+    <string name="search_view_description_clear">Εκκαθάριση αναζήτησης</string>
 </resources>

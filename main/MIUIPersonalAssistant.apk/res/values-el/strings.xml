@@ -305,7 +305,7 @@
     <string name="pa_accessibility_picker_home_search">Αναζήτηση για widgets</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">Επιλεγμένο %1$s, σειρά %2$d, αριθμός %3$d. Διπλό πάτημα για να ξεκινήσετε.</string>
     <string name="pa_accessibility_picker_home_title">Προσθήκη widget</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Επιλεγμένο %1$s, Μέγεθος: %2$s, Κατάσταση εγκατάστασης: %3$s, Σειρά %4$d, Αριθμός %5$d, πατήστε δύο φορές για λεπτομέρειες, πατήστε δύο φορές και κρατήστε πατημένο για μετακίνηση..</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Επιλεγμένα %1$s, Μέγεθος: %2$s, Κατάσταση: %3$s, πατήστε δύο φορές για λεπτομέρειες, ή δύο φορές κρατημένο για μετακίνηση.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Επιλεγμένο %1$s, σειρά %2$d, αριθμός %3$d. Διπλό πάτημα για προβολή λεπτομερειών.</string>
     <string name="pa_accessibility_picker_search_cancel">Γραμμή αναζήτησης widget. Διπλό πάτημα για ακύρωση.</string>
     <string name="pa_accessibility_picker_search_tips">Γραμμή αναζήτησης widget. Διπλό πάτημα για αναζήτηση.</string>

@@ -204,5 +204,9 @@
         <item quantity="other">%d επιλεγμένα</item>
         <item quantity="one">%d επιλεγμένο</item>
     </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Πληρωμή %1$s Mi Coins</item>
+        <item quantity="one">Πληρωμή %1$s Mi Coin</item>
+    </plurals>
 </resources>
 
