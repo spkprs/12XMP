@@ -867,4 +867,9 @@
     <string name="widget_all_notes_name">Όλες οι σημειώσεις</string>
     <string name="widget_all_todo_name">Όλες οι εργασίες</string>
     <string name="widget_click_check">Πατήστε για προβολή</string>
+    <string name="access_photos_and_videos">Πρόσβαση σε φωτογραφίες και βίντεο</string>
+    <string name="permission_photos_desc">Για την προσθήκη εικόνων σε σημειώσεις</string>
+    <string name="permission_photos_desc_pad">Για την προσθήκη εικόνων σε σημειώσεις</string>
+    <string name="send_notifications_for_reminder">Για την αποστολή υπενθυμίσεων</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Επιτρέψτε σε αυτή την εφαρμογή να έχει πρόσβαση στις φωτογραφίες σας για να μπορείτε να προσθέσετε εικόνες σε σημειώσεις.</string>
 </resources>

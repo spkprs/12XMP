@@ -624,9 +624,9 @@
     <string name="device_name_with_ellipsize">%1$s…</string>
     <string name="device_offline">Η άλλη συσκευή είναι εκτός σύνδεσης. Ξεκινήστε από την αρχή.</string>
     <string name="device_status_failed">Αδύνατη η αποστολή</string>
-    <string name="device_status_sending">Sending…</string>
-    <string name="device_status_success">Sent successfully</string>
-    <string name="device_status_waiting">Waiting…</string>
+    <string name="device_status_sending">Αποστολή…</string>
+    <string name="device_status_success">Απεστάλει επιτυχώς</string>
+    <string name="device_status_waiting">Αναμονή…</string>
     <string name="device_storage_space_low_dialog_des">Αποθηκεύστε πρωτότυπες φωτο και βίντεο στο cloud, διατηρώντας μικρότερα αντίγραφα υψηλής ποιότητας σε αυτή τη συσκευή, ώστε να ελευθερώσετε %s αποθηκευτικού χώρου.</string>
     <string name="device_storage_space_low_dialog_title">Λίγος αποθηκευτικός χώρος</string>
     <string name="device_storage_space_low_notice_des">Συγχρονίστε φωτο και βίντεο στο cloud για να ελευθερώσετε %s</string>
@@ -656,7 +656,7 @@
     <string name="download_delete_error_title">Λείπει το στοιχείο</string>
     <string name="download_error_format">Αδύνατη η λήψη %s</string>
     <string name="download_error_tip">. Οι λήψεις διακόπηκαν.</string>
-    <string name="download_library_dialog_message">Η γκαλερί χρειάζεται πρότυπα για να μπορεί να δημιουργεί αναμνήσεις τοπικά σε αυτή τη συσκευή. Συνιστούμε τη χρήση WIFI για τη λήψη προτύπων.</string>
+    <string name="download_library_dialog_message">Η Συλλογή χρειάζεται πρότυπα για να μπορεί να δημιουργεί αναμνήσεις τοπικά σε αυτή τη συσκευή. Συνιστούμε τη χρήση WIFI για τη λήψη προτύπων.</string>
     <string name="download_library_dialog_title">Λήψη προτύπων</string>
     <string name="download_retry_message">Αδύνατη η λήψη αρχείων, έλεγχος σύνδεσης δικτύου και δοκιμή ξανά</string>
     <string name="download_retry_text">Προσπάθησε ξανά</string>
