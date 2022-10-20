@@ -1,179 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">πριν από 1 ώρα</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">πριν από 1 ώρα</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Πριν από μισή ώρα</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">Σε 1 ώρα</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Σε μισή ώρα</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Αμέσως</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">σε %d λεπτά</item>
+    <item quantity="one">σε 1 λεπτό</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Μόλις τώρα</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">1 λεπτό πριν</item>
+  </plurals>
   <plurals name="backup_message_wechat_video">
-    <item quantity="other">%1$d βίντεο σε Συνομιλίες WeChat πρόκειται να λήξει. Δημιουργία αντίγραφο ασφαλείας στον εσωτερικό χώρο αποθήκευσης της συσκευής σας;</item>
-    <item quantity="zero">%1$d βίντεο σε Συνομιλίες WeChat πρόκειται να λήξει. Δημιουργία αντίγραφο ασφαλείας στον εσωτερικό χώρο αποθήκευσης της συσκευής σας;</item>
-    <item quantity="one">%1$d βίντεο στο WeChat συνομιλίες πρόκειται να λήξει. Δημιουργία του στημνήμη του εσωτερικού χώρου αποθήκευσης της συσκευής σας;</item>
-    <item quantity="two">%1$d βίντεο σε Συνομιλίες WeChat πρόκειται να λήξει. Δημιουργία αντίγραφο ασφαλείας στον εσωτερικό χώρο αποθήκευσης της συσκευής σας;</item>
-    <item quantity="few">%1$d βίντεο σε Συνομιλίες WeChat πρόκειται να λήξει. Δημιουργία αντίγραφο ασφαλείας στον εσωτερικό χώρο αποθήκευσης της συσκευής σας;</item>
-    <item quantity="many">%1$d βίντεο σε Συνομιλίες WeChat πρόκειται να λήξει. Δημιουργία αντίγραφο ασφαλείας στον εσωτερικό χώρο αποθήκευσης της συσκευής σας;</item>
+    <item quantity="other">Τα %1$d βίντεο στις συνομιλίες WeChat πρόκειται να λήξει. Δημιουργία αντιγράφων ασφαλείας στον εσωτερικό χώρο αποθήκευσης της συσκευής σας;</item>
+    <item quantity="one">Το %1$d βίντεο στις συνομιλίες WeChat πρόκειται να λήξει. Δημιουργία αντιγράφων ασφαλείας στον εσωτερικό χώρο αποθήκευσης της συσκευής σας;</item>
   </plurals>
   <plurals name="clockin_day_count">
-    <item quantity="other">Ελέγχεται %1$s ημέρες σε μια σειρά, συνέχισε!</item>
-    <item quantity="one">Ελέγχεται %1$s μέρα στη σειρά, συνέχισε!</item>
+    <item quantity="other">Έγινε έλεγχος %1$s συνεχόμενες ημέρες, συνεχίστε!</item>
+    <item quantity="one">Έγινε έλεγχος %1$s συνεχόμενη ημέρα, συνεχίστε!</item>
   </plurals>
   <plurals name="clockin_days">
-    <item quantity="other">Ελέγχεται %1$s ημέρες σε μια σειρά</item>
-    <item quantity="one">Ελέγχεται %1$s μέρα στη σειρά</item>
+    <item quantity="other">Έγινε έλεγχος %1$s συνεχόμενες ημέρες</item>
+    <item quantity="one">Έγινε έλεγχος %1$s συνεχόμενη ημέρα</item>
   </plurals>
   <plurals name="clockin_new_chip">
-    <item quantity="other">Έχεις. &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> πόντους</item>
-    <item quantity="one">Έχεις. &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> πόντο</item>
+	<item quantity="other">Αποκτήσατε &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> πόντους</item>
+	<item quantity="one">Αποκτήσατε &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> πόντο</item>
   </plurals>
   <plurals name="days_ago">
-    <item quantity="other">%1$d μέρες πριν</item>
-    <item quantity="zero">%1$d μέρες πριν</item>
+    <item quantity="other">%1$d ημέρες πριν</item>
     <item quantity="one">%1$d ημέρα πριν</item>
-    <item quantity="two">%1$d μέρες πριν</item>
-    <item quantity="few">%1$d μέρες πριν</item>
-    <item quantity="many">%1$d μέρες πριν</item>
+  </plurals>
+  <plurals name="delete_cloud_files">
+    <item quantity="other">Διαγραφή %1$d αρχείων από όλες τις συσκευές σας και το σύννεφο; Τα αρχεία Mi Drive μπορούν να ανακτηθούν από τα πρόσφατα διαγραμμένα στοιχεία σας.</item>
+    <item quantity="one">Διαγραφή %1$d αρχείου από όλες τις συσκευές σας και το σύννεφο; Τα αρχεία Mi Drive μπορούν να ανακτηθούν από τα πρόσφατα διαγραμμένα στοιχεία σας.</item>
+  </plurals>
+  <plurals name="delete_files">
+    <item quantity="other">Διαγραφή %1$d αρχείων;</item>
+    <item quantity="one">Διαγραφή %1$d αρχείου;</item>
   </plurals>
   <plurals name="delete_files_confirm">
-    <item quantity="other">Διαγράψετε %1$d αρχεία</item>
-    <item quantity="zero">Διαγράψετε %1$d αρχεία</item>
-    <item quantity="one">Διαγράψετε %1$d αρχείο</item>
-    <item quantity="two">Διαγράψετε %1$d αρχεία</item>
-    <item quantity="few">Διαγράψετε %1$d αρχεία</item>
-    <item quantity="many">Διαγράψετε %1$d αρχεία</item>
+    <item quantity="other">Διαγραφή %1$d αρχείων</item>
+    <item quantity="one">Διαγραφή %1$d αρχείου</item>
+  </plurals>
+  <plurals name="delete_folders">
+    <item quantity="other">Διαγραφή %1$d φακέλων;</item>
+    <item quantity="one">Διαγραφή %1$d φακέλου;</item>
   </plurals>
   <plurals name="delete_folders_confirm">
-    <item quantity="other">και %1$d φακέλους?</item>
-    <item quantity="zero">και %1$d φακέλους?</item>
-    <item quantity="one">και %1$d φάκελο?</item>
-    <item quantity="two">και %1$d φακέλους?</item>
-    <item quantity="few">και %1$d φακέλους?</item>
-    <item quantity="many">και %1$d φακέλους?</item>
+    <item quantity="other">" και %1$d φακέλων;"</item>
+    <item quantity="one">" και %1$d φακέλου;"</item>
   </plurals>
   <plurals name="directory_item_count">
     <item quantity="other">%d στοιχεία</item>
-    <item quantity="zero">%d στοιχεία</item>
     <item quantity="one">%d στοιχείο</item>
-    <item quantity="two">%d στοιχεία</item>
-    <item quantity="few">%d στοιχεία</item>
-    <item quantity="many">%d στοιχεία</item>
   </plurals>
   <plurals name="file_count">
     <item quantity="other">%1$d στοιχεία</item>
-    <item quantity="zero">%1$d στοιχεία</item>
     <item quantity="one">%1$d στοιχείο</item>
-    <item quantity="two">%1$d στοιχεία</item>
-    <item quantity="few">%1$d στοιχεία</item>
-    <item quantity="many">%1$d στοιχεία</item>
   </plurals>
   <plurals name="follow_count">
-    <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; ακόλουθοι</item>
-    <item quantity="one">&lt;font color=#fc7050&gt;%d&lt;/font&gt; οπαδός</item>
+	<item quantity="other">&lt;font color=#fc7050>%d&lt;/font> ακόλουθοι</item>
+	<item quantity="one">&lt;font color=#fc7050>%d&lt;/font> ακόλουθος</item>
   </plurals>
   <plurals name="found_new_files">
     <item quantity="other">Βρέθηκαν %1$d νέα αρχεία</item>
-    <item quantity="zero">Βρέθηκαν %1$d νέα αρχεία</item>
-    <item quantity="one">Βρέθηκαν %1$d νέο αρχείο</item>
-    <item quantity="two">Βρέθηκαν %1$d νέα αρχεία</item>
-    <item quantity="few">Βρέθηκαν %1$d νέα αρχεία</item>
-    <item quantity="many">Βρέθηκαν %1$d νέα αρχεία</item>
+    <item quantity="one">Βρέθηκε %1$d νέο αρχείο</item>
   </plurals>
   <plurals name="gems">
     <item quantity="other">%1$s πολύτιμοι λίθοι</item>
-    <item quantity="one">%1$s κόσμημα</item>
+    <item quantity="one">%1$s πολύτιμος λίθος</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Πριν από μισή ώρα</item>
   </plurals>
   <plurals name="hours_ago">
     <item quantity="other">%1$d ώρες πριν</item>
-    <item quantity="zero">%1$d ώρες πριν</item>
-    <item quantity="one">%1$d πριν από μία ώρα</item>
-    <item quantity="two">%1$d ώρες πριν</item>
-    <item quantity="few">%1$d ώρες πριν</item>
-    <item quantity="many">%1$d ώρες πριν</item>
+    <item quantity="one">%1$d ώρα πριν</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">Σε 1 ώρα</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Σε μισή ώρα</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Αμέσως</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">σε %d λεπτά</item>
+    <item quantity="one">σε 1 λεπτό</item>
   </plurals>
   <plurals name="items_picture">
     <item quantity="other">(%1$d στοιχεία)</item>
-    <item quantity="zero">(%1$d στοιχεία)</item>
     <item quantity="one">(%1$d στοιχείο)</item>
-    <item quantity="two">(%1$d στοιχεία)</item>
-    <item quantity="few">(%1$d στοιχεία)</item>
-    <item quantity="many">(%1$d στοιχεία)</item>
   </plurals>
   <plurals name="less_than_one_minute_ago">
     <item quantity="other">Μόλις τώρα</item>
   </plurals>
   <plurals name="mins_ago">
     <item quantity="other">%1$d λεπτά πριν</item>
-    <item quantity="zero">%1$d λεπτά πριν</item>
-    <item quantity="one">%1$d πριν από ένα λεπτό</item>
-    <item quantity="two">%1$d λεπτά πριν</item>
-    <item quantity="few">%1$d λεπτά πριν</item>
-    <item quantity="many">%1$d λεπτά πριν</item>
+    <item quantity="one">%1$d λεπτό πριν</item>
   </plurals>
   <plurals name="miuix_appcompat_items_selected">
-    <item quantity="other">%d επιλεγμένα</item>
-    <item quantity="one">%d επιλεγμένο</item>
+    <item quantity="other">%d στοιχεία επιλέχθηκαν</item>
+    <item quantity="one">%d στοιχείο επιλέχθηκε</item>
   </plurals>
   <plurals name="more_gems">
-    <item quantity="other">Συλλέγουν &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> περισσότερα πετράδια για να συμμετάσχουν στην τυχερή κλήρωση.</item>
-    <item quantity="one">Συλλέγουν &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> περισσότερο κόσμημα για να συμμετάσχουν στην τυχερή κλήρωση.</item>
+	<item quantity="other">Συλλέξτε &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> περισσότερους πολύτιμους λίθους για συμμετοχή στην κλήρωση.</item>
+	<item quantity="one">Συλλέξτε &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> περισσότερο πολύτιμο λίθο για συμμετοχή στην κλήρωση.</item>
   </plurals>
   <plurals name="mtrl_badge_content_description">
-    <item quantity="other">%d νέες ειδοπ/σεις</item>
-    <item quantity="one">%d νέα ειδοπ/ση</item>
+    <item quantity="other">%d νέες ειδοποιήσεις</item>
+    <item quantity="one">%d νέα ειδοποίηση</item>
+  </plurals>
+  <plurals name="notification_message_sync_result_fail">
+    <item quantity="other">Αδυναμία συγχρονισμού %1$s αρχείων</item>
+    <item quantity="one">Αδυναμία συγχρονισμού %1$s αρχείου</item>
+  </plurals>
+  <plurals name="notification_message_sync_result_success">
+    <item quantity="other">"Συγχρονίστηκαν %1$s αρχεία | "</item>
+    <item quantity="one">"Συγχρονίστηκε %1$s αρχείο | "</item>
+  </plurals>
+  <plurals name="notification_title_syncing_with_count_no_network">
+    <item quantity="other">Αναμονή για σύνδεση στο δίκτυο. Απομένουν %1$s αρχεία.</item>
+    <item quantity="one">Αναμονή για σύνδεση στο δίκτυο. Απομένει %1$s αρχείο.</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">1 λεπτό πριν</item>
   </plurals>
   <plurals name="number_of_comment_flow">
     <item quantity="other">%1$s σχόλια</item>
     <item quantity="one">%1$s σχόλιο</item>
   </plurals>
   <plurals name="numSelectedFile">
-    <item quantity="other">%1$d επιλεγμένα</item>
-    <item quantity="one">%1$d επιλεγμένο</item>
+    <item quantity="other">Επιλέχθηκαν %1$d στοιχεία</item>
+    <item quantity="one">Επιλέχθηκε %1$d στοιχείο</item>
   </plurals>
   <plurals name="original_user_days">
-    <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> ημέρες</item>
-    <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> ημέρα</item>
+	<item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> ημέρες</item>
+	<item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> ημέρα</item>
   </plurals>
   <plurals name="original_user_fans">
-    <item quantity="other">• Έχεις &lt;font color=#fc7050>%1$s&lt;/font> οπαδούς!</item>
-    <item quantity="one">• Έχεις &lt;font color=#fc7050>%1$s&lt;/font> οπαδός!</item>
+	<item quantity="other">• Αποκτήσατε &lt;font color=#fc7050>%1$s&lt;/font> ακόλουθους!</item>
+	<item quantity="one">• Αποκτήσατε &lt;font color=#fc7050>%1$s&lt;/font> ακόλουθο!</item>
   </plurals>
   <plurals name="original_user_play_1">
-    <item quantity="other">• Ανεβάσατε &lt;font color=#fc7050>%1$s&lt;/font> βίντεο.</item>
-    <item quantity="one">• Ανεβάσατε &lt;font color=#fc7050>%1$s&lt;/font> βίντεο.</item>
+	<item quantity="other">• Ανεβάσατε &lt;font color=#fc7050>%1$s&lt;/font> βίντεο.</item>
+	<item quantity="one">• Ανεβάσατε &lt;font color=#fc7050>%1$s&lt;/font> βίντεο.</item>
   </plurals>
   <plurals name="original_user_play_2">
-    <item quantity="other">Κάνατε &lt;font color=#fc7050>%1$s&lt;/font> άνθρωποι ευχαριστημένοι!</item>
-    <item quantity="one">Κάνατε &lt;font color=#fc7050>%1$s&lt;/font> πρόσωπο ευτυχής!</item>
+	<item quantity="other">Κάνατε &lt;font color=#fc7050>%1$s&lt;/font> άτομα χαρούμενα!</item>
+	<item quantity="one">Κάνατε &lt;font color=#fc7050>%1$s&lt;/font> άτομο χαρούμενο!</item>
   </plurals>
   <plurals name="remote_video_update">
     <item quantity="other">Βρέθηκαν %1$s νέα βίντεο</item>
-    <item quantity="zero">Βρέθηκαν %1$s νέα βίντεο</item>
-    <item quantity="one">Βρέθηκαν %1$s νέο βίντεο</item>
-    <item quantity="two">Βρέθηκαν %1$s νέα βίντεο</item>
-    <item quantity="few">Βρέθηκαν %1$s νέα βίντεο</item>
-    <item quantity="many">Βρέθηκαν %1$s νέα βίντεο</item>
+    <item quantity="one">Βρέθηκε %1$s νέο βίντεο</item>
+  </plurals>
+  <plurals name="search_head_hint_all">
+    <item quantity="other">Αποτελέσματα (%1$d σελίδες)</item>
+    <item quantity="one">Αποτελέσματα (%1$d σελίδα)</item>
   </plurals>
   <plurals name="search_head_hint_app">
-    <item quantity="other">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="zero">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="one">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχείο</item>
-    <item quantity="two">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="few">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="many">Εφαρμ. %1$s σχετικά αρχεία (%2$d στοιχεία</item>
+    <item quantity="other">Αρχεία σχετικά με την εφαρμογή \"%1$s\" (%2$d στοιχεία)</item>
+    <item quantity="one">Αρχεία σχετικά με την εφαρμογή \"%1$s\" (%2$d στοιχείο)</item>
   </plurals>
   <plurals name="search_head_hint_file">
-    <item quantity="other">%1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="zero">%1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="one">%1$s σχετικά αρχεία (%2$d στοιχείο</item>
-    <item quantity="two">%1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="few">%1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="many">%1$s σχετικά αρχεία (%2$d στοιχεία</item>
+    <item quantity="other">Αρχεία σχετικά με την \"%1$s\" (%2$d στοιχεία)</item>
+    <item quantity="one">Αρχεία σχετικά με την \"%1$s\" (%2$d στοιχείο)</item>
   </plurals>
   <plurals name="search_head_hint_tag">
-    <item quantity="other">Ετικέτα %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="zero">Ετικέτα %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="one">Ετικέτα %1$s σχετικά αρχεία (%2$d στοιχείο</item>
-    <item quantity="two">Ετικέτα %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="few">Ετικέτα %1$s σχετικά αρχεία (%2$d στοιχεία</item>
-    <item quantity="many">Ετικέτα %1$s σχετικά αρχεία (%2$d στοιχεία</item>
+    <item quantity="other">Αρχεία σχετικά με την ετικέτα \"%1$s\" (%2$d στοιχεία)</item>
+    <item quantity="one">Αρχεία σχετικά με την ετικέτα \"%1$s\" (%2$d στοιχείο)</item>
   </plurals>
   <plurals name="text_group_count">
     <item quantity="other">%d στοιχεία</item>
-    <item quantity="zero">%1$d στοιχεία</item>
     <item quantity="one">%d στοιχείο</item>
   </plurals>
   <plurals name="total_topic_num">
@@ -181,56 +201,31 @@
     <item quantity="one">%1$s θέμα</item>
   </plurals>
   <plurals name="total_user_num">
-    <item quantity="other">%1$s ανθρωποι</item>
-    <item quantity="one">%1$s πρόσωπο</item>
+    <item quantity="other">%1$s άτομα</item>
+    <item quantity="one">%1$s άτομο</item>
   </plurals>
   <plurals name="user_sign_limt">
-    <item quantity="other">Μπορείτε να εισάγετε %d χαρακτήρες</item>
-    <item quantity="one">Μπορείτε να εισάγετε %d χαρακτήρα</item>
+    <item quantity="other">Μπορείτε να εισαγάγετε %d χαρακτήρες</item>
+    <item quantity="one">Μπορείτε να εισαγάγετε %d χαρακτήρα</item>
   </plurals>
   <plurals name="video_ad_download_tip">
     <item quantity="other">Λήψεις</item>
-    <item quantity="zero">Λήψεις</item>
-    <item quantity="one">Κατεβάσετε</item>
-    <item quantity="two">Λήψεις</item>
-    <item quantity="few">Λήψεις</item>
-    <item quantity="many">Λήψεις</item>
+    <item quantity="one">Λήψη</item>
   </plurals>
   <plurals name="video_count">
-    <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> βίντεο</item>
-    <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> βίντεο</item>
+	<item quantity="other">&lt;font color=#fc7050>%d&lt;/font> βίντεο</item>
+	<item quantity="one">&lt;font color=#fc7050>%d&lt;/font> βίντεο</item>
   </plurals>
   <plurals name="video_items">
     <item quantity="other">%1$d στοιχεία</item>
-    <item quantity="zero">%1$d στοιχεία</item>
     <item quantity="one">%1$d στοιχείο</item>
-    <item quantity="two">%1$d στοιχεία</item>
-    <item quantity="few">%1$d στοιχεία</item>
-    <item quantity="many">%1$d στοιχεία</item>
   </plurals>
   <plurals name="video_play_num">
     <item quantity="other">%1$s προβολές</item>
-    <item quantity="zero">%1$s προβολές</item>
-    <item quantity="one">%1$s προβολές</item>
-    <item quantity="two">%1$s προβολές</item>
-    <item quantity="few">%1$s προβολές</item>
-    <item quantity="many">%1$s προβολές</item>
+    <item quantity="one">%1$s προβολή</item>
   </plurals>
   <plurals name="video_publish_watchable_hint">
-    <item quantity="other">Πάρετε %1$d περισσότερους ακόλουθους για να αναβαθμίσετε την κατάστασή σας</item>
-    <item quantity="one">Πάρετε %1$d περισσότερους ακόλουθους για να αναβαθμίσετε την κατάστασή σας</item>
+    <item quantity="other">Αποκτήστε %1$d περισσότερους ακόλουθους για να αναβαθμίσετε την κατάστασή σας</item>
+    <item quantity="one">Αποκτήστε %1$d περισσότερο ακόλουθο για να αναβαθμίσετε την κατάστασή σας</item>
   </plurals>
-  <plurals name="search_head_hint_all">
-    <item quantity="other">Βρέθηκαν (%1$d στοιχεία)</item>
-    <item quantity="one">Βρέθηκε (%1$d στοιχείο)</item>
-    <item quantity="few">Βρέθηκαν (%1$d στοιχεία)</item>
-  </plurals>
-    <plurals name="delete_files">
-        <item quantity="other">Διαγραφή %1$d αρχείων;</item>
-        <item quantity="one">Διαγραφή %1$d αρχείου;</item>
-    </plurals>
-    <plurals name="delete_folders">
-        <item quantity="other">Διαγραφή %1$d φακέλων;</item>
-        <item quantity="one">Διαγραφή %1$d φακέλου;</item>
-    </plurals>
 </resources>
