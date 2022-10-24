@@ -1912,4 +1912,7 @@
     <string name="video_prompter_edit_tip_dialog_message">"Μπορείτε να εισάγετε αρχεία DOC, DOCX και TXT. Οι εικόνες, οι πίνακες και οι υπερσύνδεσμοι δεν θα εμφανίζονται."</string>
     <string name="video_prompter_edit_tip_dialog_ok">Εντάξει</string>
     <string name="video_prompter_edit_tip_dialog_title">Εισαγωγή κειμένου</string>
+    <string name="beauty_fx_makeup">Ρετούς</string>
+    <string name="beauty_mo_pr">Υφή</string>
+    <string name="beauty_sm_texture">Δέρμα</string>
 </resources>

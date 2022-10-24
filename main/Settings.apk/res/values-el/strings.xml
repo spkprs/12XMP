@@ -9204,7 +9204,7 @@ Xiaomi Cloud
     <string name="miheadset_open_closeAnc">Ακύρωση θορύβου on/off</string>
     <string name="accept_new_connection">Αποδοχή σύνδεσης σε νέες συσκευές</string>
     <string name="accept_new_connection_detail">Οι νέες συνδέσεις περιορίστηκαν στο Κέντρο ελέγχου</string>
-    <string name="bt_always_show_icon">Πάντα εμφάνιση εικονιδίου στη Γραμμή Κατάστασης</string>
+    <string name="bt_always_show_icon">"Χωρίς εμφάνιση εικονιδίου Bluetooth στη Γραμμή Κατάστασης"</string>
     <string name="external_auto_rotate_title">Κλείδωμα προσανατολισμού για την εξωτερική οθόνη</string>
     <string name="internal_auto_rotate_title">Κλείδωμα προσανατολισμού για την εσωτερική οθόνη</string>
     <string name="close_lid_display_settings_title">Μετά την αναδίπλωση</string>
@@ -9231,4 +9231,5 @@ Xiaomi Cloud
     <string name="headset_find_right_tip">Φαίνεται ότι το δεξί ακουστικό είναι στη θήκη ή στο αυτί σας.</string>
     <string name="miheadset_connect_device_hfp">Συνδέστε τα ακουστικά σας και βεβαιωθείτε ότι επιτρέπεται η αναπαραγωγή ήχου για κλήσεις</string>
     <string name="miheadset_firmware_version_update">Ενημέρωση υλικολογισμικού</string>
+    <string name="bt_always_show_icon_summary">Εμφάνιση εικονιδίου Bluetooth μόνο στον Πίνακα Ειδοποιήσεων και &amp; Κέντρο Ελέγχου</string>
 </resources>
