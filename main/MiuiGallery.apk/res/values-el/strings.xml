@@ -256,7 +256,6 @@
     <string name="baby_album_change_background">Αλλαγή φωτογραφίας φόντου</string>
     <string name="baby_album_needs_auto_backup_tip">Αδύνατη απενεργ. αυτόμ. συγχρ/σμού για το Παιδικό άλμπουμ</string>
     <string name="baby_album_new_photo_remind">Υπάρχουν νέες φωτογραφίες στο Παιδικό άλμπουμ σας.</string>
-    <string name="baby_album_setting_title">Πληροφορίες παιδιού</string>
     <string name="baby_album_settings">Ρυθμίσεις Παιδικού άλμπουμ</string>
     <string name="baby_album_sharer_accept_dialog_msg">Οι %1$s %2$s,\u000d\n%3$s %4$s μοιράστηκαν το άλμπουμ του %5$s μαζί σας</string>
     <string name="baby_album_sharer_recommand_face">Προσθήκη υφιστάμενων φωτογραφιών του %1$s;</string>
@@ -3139,8 +3138,6 @@
     <string name="gallery_uninstall_description_content">"Η Συλλογή είναι μια εφαρμογή συστήματος που σας επιτρέπει να προβάλλετε, να διαχειρίζεστε και να συγχρονίζετε φωτογραφίες και βίντεο σε όλες τις συνδεδεμένες συσκευές. Εάν απεγκαταθεί, θα χάσετε τα στοιχεία που κάνατε ιδιωτικά και άλλες λειτουργίες που σχετίζονται με την προβολή και την επιλογή στοιχείων της Συλλογής δεν θα είναι επίσης πλέον διαθέσιμες σε εσάς. Απεγκατάσταση ούτως ή άλλως;"</string>
     <string name="gallery_uninstall_description_title">Απεγκατάσταση της Συλλογής;</string>
     <string name="disable_secret_album_upload_message">Οι νέες φωτογραφίες δεν θα συγχρονίζονται πλέον με το cloud αν απενεργοποιήσετε αυτή τη λειτουργία. Απενεργοποίηση;</string>
-    <string name="enable_secret_album_upload_message">Όλα τα προσωπικά στοιχεία θα συγχρονιστούν με το cloud αφού ενεργοποιήσετε αυτή τη λειτουργία. Ενεργοποίηση τώρα;</string>
-    <string name="local_secret_tip">Όλα τα προσωπικά στοιχεία συγχρονίζονται με το cloud όταν αυτή η λειτουργία είναι ενεργοποιημένη. Μπορείτε να αλλάξετε τις προτιμήσεις σας στις Ρυθμίσεις > Συγχρονισμός με το σύννεφο > Διαχείριση συγχρονισμένων άλμπουμ > Ιδιωτικό άλμπουμ.</string>
     <string name="baby_album_setting_title">Διαχείριση πληροφοριών άλμπουμ Baby</string>
     <string name="baby_nick_name">Ψευδώνυμο</string>
     <string name="can_authorize_owner_albums_share_to_tv">Δοκιμάστε την κοινή χρήση στοιχείων</string>
@@ -3150,7 +3147,6 @@
     <string name="change_baby_album_take_photos">Κάμερα</string>
     <string name="cleaner_size">Καθαρισμός σκουπιδιών (%s)</string>
     <string name="create_new_share_album">Δημιουργία κοινόχρηστου άλμπουμ</string>
-    <string name="disable_secret_album_upload_message">Οι νέες φωτογραφίες δεν θα συγχρονίζονται πλέον με το σύννεφο αν απενεργοποιήσετε αυτή τη λειτουργία. Απενεργοποίηση;</string>
     <string name="enable_secret_album_upload_message">Όλα τα προσωπικά στοιχεία θα συγχρονιστούν με το cloud αφού ενεργοποιήσετε αυτή τη λειτουργία. Ενεργοποίηση τώρα;</string>
     <string name="get_user_info_btn_text">Αναζήτηση</string>
     <string name="get_user_info_edit_text_hint">Τηλέφωνο/Email/Xiaomi Λογαριασμός</string>
