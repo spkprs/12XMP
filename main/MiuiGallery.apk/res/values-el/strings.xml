@@ -160,8 +160,9 @@
     <string name="album_rubbish_page_title">Απορρίμματα</string>
     <string name="album_rubbish_tip_title">Πιθανώς περιττό άλμπουμ</string>
     <string name="album_scanner">Σαρωτής</string>
+    <string name="album_screen_record">Εγγραφές Οθόνης</string>
     <string name="album_screen_recorder">Εγγραφή Οθόνης</string>
-    <string name="album_screenshot_and_screen_recorder_name">Στιγμ/Εγγρ</string>
+    <string name="album_screenshot_and_screen_recorder_name">Στιγμιότ. Εγγραφές</string>
     <string name="album_screenshot_name">Στιγμιότυπα</string>
     <string name="album_share_cant_move_to_rubbish_tip">Αδύνατη η μετακίνηση κοινόχρηστων άλμπουμ στα απορρίμματα</string>
     <string name="album_share_exit_confirm">Είστε βέβαιοι ότι θέλετε να τερματίσετε την κοινή χρήση των άλμπουμ;</string>
@@ -171,9 +172,9 @@
     <string name="album_share_subtitle_denying">Άρνηση πρόσκλησης από %1$s…</string>
     <string name="album_share_subtitle_invited">Κοινή χρήση από %1$s</string>
     <string name="album_share_subtitle_normal">Κοινή χρήση από %1$s</string>
-    <string name="album_share_subtitle_not_ready">Χωρίς πληροφορίες. Κλικ για κατέβασμα.</string>
+    <string name="album_share_subtitle_not_ready">Χωρίς πληροφορίες. Κλικ για λήψη.</string>
     <string name="album_share_subtitle_quitting">Έξοδος…</string>
-    <string name="album_share_subtitle_requesting">Κατέβασμα πληροφοριών…</string>
+    <string name="album_share_subtitle_requesting">Λήψη πληροφοριών…</string>
     <string name="album_share_title_new_album">Κοινή χρήση νέου άλμπουμ</string>
     <string name="album_show_local_only">Προβολή μόνο τοπικών άλμπουμ</string>
     <string name="album_show_local_only_summary">Μια επιλογή για τη διαγραφή μόνο τοπικών άλμπουμ θα είναι διαθέσιμη όταν αυτή η δυνατότητα είναι ενεργοποιημένη</string>

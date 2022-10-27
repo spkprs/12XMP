@@ -1646,4 +1646,8 @@
     <string name="presentation_private">Προσωπικός αριθμός</string>
     <string name="presentation_unknown">Άγνωστος αριθμός</string>
     <string name="view_more_call_logs">Προβολή περισσότερων</string>
+    <string name="notification_missedCallTitle">Αναπάντητη κλήση</string>
+    <string name="notification_missedCall_call_back">Επανάκληση</string>
+    <string name="notification_missedCall_message">Αποστολή SMS</string>
+    <string name="notification_missedCallsTitle">Αναπάντητες κλήσεις</string>
 </resources>

@@ -5821,5 +5821,7 @@
     <string name="terminal_privacy_ability_voice_summary">Mi AI φωνητικές εντολές και έξυπνοι υπότιτλοι</string>
     <string name="terminal_privacy_instruction">Η προστασία απορρήτου στη συσκευή περιλαμβάνει τα χαρακτηριστικά που διασφαλίζουν ότι οι προσωπικές σας πληροφορίες διατηρούνται σε αυτή τη συσκευή αντί να μεταφορτώνονται στο cloud.</string>
     <string name="terminal_privacy_summary">Επεξεργασία προσωπικών πληροφοριών σε αυτή τη συσκευή</string>
+    <string name="gb_barrage_dnd_conflict_toast">Για χρήση σχολίων στην οθόνη, απενεργοποιήστε πρώτα το \"Μην Ενοχλείτε\".</string>
+    <string name="gb_dnd_barrage_conflict_toast">"Δεν θα μπορείτε τη χρήση σχολίων στην οθόνη όταν είναι ενεργό το \"Μην Ενοχλείτε\"."</string>
 </resources>
 

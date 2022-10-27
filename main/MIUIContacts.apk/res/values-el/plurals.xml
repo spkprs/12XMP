@@ -209,4 +209,8 @@
         <item quantity="other">%d επιλεγμένα στοιχεία</item>
         <item quantity="one">%d επιλεγμένο στοιχείο</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d αναπάντητες κλήσεις</item>
+        <item quantity="one">%d αναπάντητη κλήση</item>
+    </plurals>
 </resources>
