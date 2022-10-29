@@ -881,4 +881,20 @@
     <string name="pa_open_personal_assistant_dialog_desc">"Αν απενεργοποιήσετε το Βοηθό MIUI, δεν θα μπορείτε να χρησιμοποιείτε μικροεφαρμογές ή να έχετε πρόσβαση σε αυτές με σάρωση προς τα δεξιά στην Αρχική οθόνη. Απενεργοποίηση;"</string>
     <string name="pa_open_personal_assistant_dialog_title">Απενεργοποίηση του Βοηθού MIUI;</string>
     <string name="pa_setting_simplify_title_bar">Βοηθός MIUI</string>
+    <string name="pa_accessibility_picker_bigBanner_widget_collection">Συλλογές widget</string>
+    <string name="pa_accessibility_picker_home_maml_slected">Επιλεγμένο: %1$s. Μέγεθος: %2$s. Πατήστε δύο φορές για λεπτομέρειες. Δύο φορές και κρατημένο για να σύρετε.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Κατάσταση εγκατάστασης: %3$s. Το κουμπί \"Εναλλαγή\" βρίσκεται παρακάτω. Πατήστε το δύο φορές για αλλαγή.</string>
+    <string name="pa_accessibility_picker_status_installed">Εγκατεστημένο</string>
+    <string name="pa_accessibility_picker_status_uninstalled">Μη Εγκατεστημένο</string>
+    <string name="pa_accessibility_picker_status_unkonw">Άγνωστο</string>
+    <string name="pa_accessibility_picker_status_upgraded">Αναμονή για ενημέρωση</string>
+    <string name="pa_accessibility_widget_slected_status">Επιλεγμένο: %1$s. Κατάσταση εγκατάστασης: %2$s.</string>
+    <string name="pa_setting_privacy_revoke_cta_negative">Μπορείτε να ανακαλέσετε τη συγκατάθεσή σας σε 10 δευτ.</string>
+    <string name="pa_world_cup_widget_authority_tip">Χορηγήστε δικαιώματα για να μπορείτε να βλέπετε πληροφορίες σχετικά με τους αγώνες του Παγκοσμίου Κυπέλλου της FIFA.</string>
+    <string name="pa_world_cup_widget_authorize">Χορήγηση</string>
+    <string name="pa_world_cup_widget_operation_fail_toast">"Δεν ήταν δυνατή η ολοκλήρωση της ενέργειας. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά."</string>
+    <string name="pa_world_cup_widget_request_error_tip">Παρουσιάστηκε σφάλμα δικτύου</string>
+    <string name="pa_world_cup_widget_request_retry">Δοκιμάστε ξανά</string>
+    <string name="pa_world_cup_widget_reserve_success_toast">"Θα λάβετε μια υπενθύμιση πριν ξεκινήσει αυτός ο αγώνας"</string>
+    <string name="pa_world_cup_widget_title">FIFA Παγκόσμιο Κύπελλο</string>
 </resources>

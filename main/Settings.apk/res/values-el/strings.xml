@@ -2983,7 +2983,7 @@
     <string name="force_resizable_activities_summary">Προσαρμόστε όλες τις λειτουργίες με δυνατότητα αλλαγής μεγέθους για πολλαπλά παράθυρα, ανεξάρτητα από τις δηλωμένες τιμές.</string>
     <string name="force_rtl_layout_all_locales">Επιβολή κατ. διάταξης RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Διάταξη οθόνης RTL</string>
-    <string name="force_stop">Αναγκ. διακ</string>
+    <string name="force_stop">Παύση</string>
     <string name="force_stop_dlg_text">Εάν διακόψετε μια εφαρμογή ενδέχεται να μη λειτουργεί σωστά</string>
     <string name="force_stop_dlg_title">Τερματισμός</string>
     <string name="foreground_traffic">Προσκήνιο %s</string>
@@ -5824,7 +5824,7 @@
     <string name="registration_done">Εγγεγραμμένος στο δίκτυο.</string>
     <string name="regulatory_labels">Ρυθμιστικές ετικέτες</string>
     <string name="remaining_length_format">%1$s υπόλοιπο</string>
-    <string name="remote_media_volume_option_title">Όγκος μετάδοσης</string>
+    <string name="remote_media_volume_option_title">Ένταση μετάδοσης</string>
     <string name="remove_account_failed">Αυτή η αλλαγή δεν επιτρέπεται από το διαχειριστή</string>
     <string name="remove_account_label">Αφαίρεση λογαριασμού</string>
     <string name="remove_and_uninstall_device_admin">Απενεργοποίηση και απεγκατάσταση</string>
@@ -7604,7 +7604,7 @@
     <string name="uninstall_dlg_title">Απεγκατάσταση τώρα?</string>
     <string name="uninstall_protected_dlg_msg">Η  απεγκατάσταση εφαρμογών συστήματος ενδέχεται να αποτρέψει τη λειτουργία ορισμένων στοιχείων του MIUI σωστά. Απεγκατάσταση ούτως ή άλλως;</string>
     <string name="uninstall_protected_dlg_title">Απεγκατάσταση εφαρμογών συστήματος</string>
-    <string name="uninstall_text">Απεγκατάσταση</string>
+    <string name="uninstall_text">Απεγκ/σταση</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Οι αντίστοιχες διπλές εφαρμογές θα διαγραφούν μαζί με τα δεδομένα τους.</string>
     <string name="uninstall_xspace_app_dlg_msg">Η απεγκατάσταση τη διπλής εφαρμογής θα διαγράψει όλα τα δεδομένα της.</string>
     <string name="uninstall_xspace_app_dlg_title">Απεγκατάσταση διπλής εφαρμογής;</string>
