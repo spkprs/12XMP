@@ -386,7 +386,7 @@
     <string name="miplay_accessibility_prev">Προηγούμενο τραγούδι</string>
     <string name="miplay_accessibility_seekbar">Γραμμή προόδου</string>
     <string name="miplay_accessibility_volume">Ένταση</string>
-    <string name="miplay_detail_divider_title">TV και ηχεία</string>
+    <string name="miplay_detail_divider_title">Ηχεία</string>
     <string name="miplay_detail_header_no_song">Καμία αναπαραγωγή</string>
     <string name="miplay_device_full_name">%2$s του/της %1$s</string>
     <string name="miplay_headset_lc3_hint">Απενεργοποιήστε τη λειτουργία LC3 για να επιστρέψετε την έξοδο ήχου σε αυτήν τη συσκευή.</string>
@@ -720,4 +720,13 @@
     <string name="global_privacy_screencast">Κατά την εγγραφή ή τη Μετάδοση, η υπηρεσία που παρέχει αυτή τη λειτουργία μπορεί να καταγράψει οποιαδήποτε ευαίσθητη πληροφορία που εμφανίζεται στην οθόνη σας ή αναπαράγεται από τη συσκευή σας, συμπεριλαμβανομένων ευαίσθητων πληροφοριών όπως ήχος, κωδικοί πρόσβασης, πληροφορίες πληρωμής, φωτογραφίες και μηνύματα.</string>
     <string name="privacy_permission_screencast">Πρόσβαση στις πληροφορίες της οθόνης</string>
     <string name="privacy_permission_screencast_desc">Κατά τη διάρκεια της εγγραφής ή της Μετάδοσης, η υπηρεσία που παρέχει αυτή τη λειτουργία μπορεί να καταγράψει οποιαδήποτε ευαίσθητη πληροφορία που εμφανίζεται στην οθόνη σας ή αναπαράγεται από τη συσκευή σας, συμπεριλαμβανομένων ευαίσθητων πληροφοριών όπως ήχος, κωδικοί πρόσβασης, πληροφορίες πληρωμής, φωτογραφίες και μηνύματα.</string>
+    <string name="err_toast_msg_try_switch_network">Συνδέστε την κινητή συσκευή και τον υπολογιστή σας στο ίδιο δίκτυο WLAN.</string>
+    <string name="err_toast_msg_upgrade_pc_version">Ενημερώστε το MIUI+ στον υπολογιστή σας για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage">Πρόσβαση και αποθήκευση στοιχείων στην αποθήκη</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage_desc">Για πρόσβαση και αποθήκευση αρχείων και φωτογραφιών σε αυτή τη συσκευή</string>
+    <string name="privacy_permission_sound_recording">Εγγραφή ήχου</string>
+    <string name="privacy_permission_sound_recording_desc">Για την πραγματοποίηση φωνητικών κλήσεων ή την εγγραφή ήχου</string>
+    <string name="upgrade_phone_device_tip">*Οι ενημερώσεις παρέχονται από το Xiaomi Phone</string>
+    <string name="upgrade_ver_can_upgrade_1to2s">Ενημέρωση από την έκδοση %1$s σε %2$s</string>
+    <string name="upgrade_ver_latest1s">Η τρέχουσα έκδοση (%1$s) είναι ενημερωμένη</string>
 </resources>

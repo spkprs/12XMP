@@ -156,7 +156,7 @@
     <string name="dialog_connect_ap_timeout_button">Σύνδεση</string>
     <string name="dialog_connect_ap_timeout_message">Φαίνεται ότι η αυτόματη σύνδεση απαιτεί πολύ χρόνο. Δοκιμάστε να συνδεθείτε χειροκίνητα.</string>
     <string name="dialog_connect_ap_timeout_title">Σύνδεση χειροκίνητα</string>
-    <string name="dialog_forbidden_use_tips">Το Mi Mover δεν υποστηρίζει τη μεταφορά δεδομένων από ή προς τα tablets.</string>
+    <string name="dialog_forbidden_use_tips">"Η έκδοση που χρησιμοποιείτε είναι παλία. Ενημερώστε τη συσκευή σας για να μπορέσετε να χρησιμοποιήσετε το Mi Mover."</string>
     <string name="dialog_rating_desc_ask">Πώς νιώθεις για το Mi Mover?</string>
     <string name="dialog_rating_desc_less">Δώστε μας κάποιες προτάσεις για να βελτιώσουμε την εφαρμογή μας?</string>
     <string name="dialog_rating_desc_perfect">Ευχαριστώ! Βαθμολογήστε το Mi Mover στο GetApps?</string>

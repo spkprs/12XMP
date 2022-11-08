@@ -88,4 +88,12 @@
         <item>Υψηλή</item>
         <item>Υψηλότερη</item>
     </string-array>
+     <string-array name="gb_gpu_custom_cut_texture">
+         <item>Ισορροπημένη</item>
+         <item>Υψηλή ποιότητα</item>
+     </string-array>
+     <string-array name="gb_gpu_custom_cut_texture_value">
+         <item>Ισορροπημένη</item>
+         <item>Προεπιλογή</item>
+     </string-array>
 </resources>
