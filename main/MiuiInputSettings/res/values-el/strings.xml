@@ -560,4 +560,5 @@
     <string name="google_assistant_guide_ok">Ρύθμιση</string>
     <string name="google_assistant_guide_tip">*Πατήστε και κρατήστε πατημένο το κουμπί λειτουργίας για %s δευτ. για να ανοίξετε το μενού τερματισμού λειτουργίας..</string>
     <string name="google_assistant_guide_title">Google Assistant</string>
+    <string name="none">Χωρίς</string>
 </resources>

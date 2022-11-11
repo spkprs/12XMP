@@ -668,4 +668,24 @@
         <item quantity="other">"Δεν ήταν δυνατός ο συγχρονισμός %d στοιχείων. Ο κάτοχος αυτού του άλμπουμ δεν διαθέτει χώρο αποθήκευσης στο cloud."</item>
         <item quantity="one">"Δεν ήταν δυνατός ο συγχρονισμός %d στοιχείου. Ο κάτοχος αυτού του άλμπουμ δεν διαθέτει χώρο αποθήκευσης στο cloud."</item>
     </plurals>
+     <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d στοιχεία</item>
+        <item quantity="one">%1$d στοιχείο</item>
+     </plurals>
+     <plurals name="tran_notification_complete_msg">
+        <item quantity="other">"Δεν ήταν δυνατή η μεταφορά %1$d στοιχείων"</item>
+        <item quantity="one">"Δεν ήταν δυνατή η μεταφορά %1$d στοιχείου"</item>
+     </plurals>
+     <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">"Δεν ήταν δυνατή η μεταφορά %1$d στοιχείων. Επισκεφθείτε το i.mi.com για λήψη."</item>
+        <item quantity="one">"Δεν ήταν δυνατή η μεταφορά %1$d στοιχείων. Επισκεφθείτε το i.mi.com για λήψη."</item>
+     </plurals>
+     <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Τα αντικείμενα μπορούν να αποθηκευτούν εδώ για %1$s ημέρες. Πατήστε για να παρατείνετε αυτή την περίοδο.</item>
+        <item quantity="one">Τα αντικείμενα μπορούν να αποθηκευτούν εδώ για %1$s ημέρες. Πατήστε για να παρατείνετε αυτή την περίοδο.</item>
+     </plurals>
+     <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Τα διαγραμμένα στοιχεία αποθηκεύονται στο cloud για %1$d ημέρες</item>
+        <item quantity="one">Τα διαγραμμένα στοιχεία αποθηκεύονται στο cloud για %1$d ημέρες</item>
+     </plurals>
 </resources>
