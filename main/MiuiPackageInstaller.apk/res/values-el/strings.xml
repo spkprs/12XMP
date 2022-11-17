@@ -549,7 +549,7 @@
     <string name="pure_mode_give_up_protect">Ακύρωση</string>
     <string name="pure_mode_open_toast">Η Ασφαλή λειτουργία είναι ενεργή</string>
     <string name="pure_mode_suggest_des">Ασφάλεια κ Ηρεμία</string>
-    <string name="pure_mode_title">Ασφάλεια εγκ/σης</string>
+    <string name="pure_mode_title">Ασφάλεια εγκατάστασης</string>
     <string name="replace_app_des_text">Αντικατάσταση της εφαρμογής με αυτήν την έκδοση;</string>
     <string name="resolve_suggestion_title">Πρόταση</string>
     <string name="review_button_cancel">Ακύρωση</string>
@@ -587,7 +587,9 @@
     <string name="safe_mode_authorize_once_install_sucess">Επιτρέπετε την εγκ/σταση του/της %1$s. Βρείτε το πακέτο εγκατάστασης που κατεβάσατε και συνεχίστε.</string>
     <string name="safe_mode_close_tip">Απεν/ποίηση Ασφαλής Λειτουργία</string>
     <string name="safe_mode_close_tip_des">Δεν θα μπορείτε να μάθετε αν οι εφαρμογές που εγκαθιστάτε πέρασαν τους ελέγχους ασφαλείας μας μετά την απενεργοποίηση της. Απεν/ποίηση;</string>
-    <string name="safe_mode_in_service">Ασφαλής λειτουργία σε λειτουργία</string>
+    <string name="safe_mode_in_service">Η Ασφαλής λειτουργία εκτελείται</string>
+    <string name="safe_mode_introduce_close_tip">Είστε Σίγουροι;</string>
+    <string name="safe_mode_introduce_close_tip_des">Αφού την απενεργοποιήσετε, δεν θα μπορείτε να προστατεύσετε πλήρως την ασφάλεια της εφαρμογής, απορρήτου, ιδιοκτησίας κ.λπ., ίσως υπάρχουν κίνδυνοι, οπότε να είστε προσεκτικοί.</string>
     <string name="safe_mode_is_open">Ενεργή</string>
     <string name="safe_mode_none_networkd_msg">Συνδεθείτε στο δίκτυο για να ελέγξετε αν αυτή η εφαρμογή έχει περάσει τους ελέγχους ασφαλείας.</string>
     <string name="safe_mode_none_networkd_title">Σύνδεση στο δίκτυο</string>
@@ -793,14 +795,14 @@
     <string name="security_mode_feedback_reason">Γιατί απενεργοποιείτε την ασφαλή λειτουργία;</string>
     <string name="security_mode_feedback_reason_annoying">"Είναι ενοχλητικό"</string>
     <string name="security_mode_feedback_reason_input_hint">Πείτε μας τη γνώμη σας</string>
-    <string name="security_mode_feedback_reason_install">"Δεν μπορώ να εγκαταστήσω εφαρμογές όταν είναι ενεργοποιημένη"</string>
-    <string name="security_mode_feedback_reason_invalid">"Δεν έχει καμία διαφορά αν είναι ενεργοποιημένη ή απενεργοποιημένη."</string>
+    <string name="security_mode_feedback_reason_install">"Με ενεργή, αδύνατη εγκατ."</string>
+    <string name="security_mode_feedback_reason_invalid">"Δεν έχει καμία διαφορά."</string>
     <string name="security_mode_feedback_reason_other">Άλλο</string>
     <string name="security_mode_feedback_submit_toast">Ευχαριστώ για τα σχόλιά σας</string>
     <string name="security_mode_feedback_tips">Πείτε μας πώς μπορούμε να βελτιώσουμε τις υπηρεσίες μας</string>
     <string name="security_mode_introduce">Λειτουργίες ασφαλούς λειτουργίας</string>
     <string name="security_mode_introduce_setting">Ρυθμίσεις ασφαλούς λειτουργίας</string>
-    <string name="security_mode_off_suggestion_msg">Συνιστάται</string>
+    <string name="security_mode_off_suggestion_msg">Προτείνεται</string>
     <string name="security_mode_on_suggestion_msg">On</string>
     <string name="settings_security_mode_recent_install_app">Εγκαταστάθηκε πρόσφατα: %1$s</string>
     <string name="settings_security_mode_service_list_title_off_msg">Η ασφαλής λειτουργία παρέχει τις ακόλουθες δυνατότητες</string>

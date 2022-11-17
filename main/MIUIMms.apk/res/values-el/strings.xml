@@ -463,7 +463,7 @@
     <string name="message_queued">Αδύνατη η αποστολή του μηνύματος. Θα σταλεί όταν η υπηρεσία θα είναι διαθέσιμη.</string>
     <string name="message_queued_second_space">Δεν ήταν δυνατή η αποστολή μηνύματος. Ενεργοποιήστε τα δεδομένα κινητής τηλεφωνίας για αποστολή.</string>
     <string name="message_readed">Αναγνωσμένο</string>
-    <string name="message_received">Παραδόθηκε</string>
+    <string name="message_received">Στάλθηκε</string>
     <string name="message_rejected">Απορρίφθηκε</string>
     <string name="message_saved_as_draft">Το μήνυμα αποθηκεύτηκε ως πρόχειρο.</string>
     <string name="message_send_failed_title">Το μήνυμα δεν εστάλη</string>
@@ -1388,4 +1388,6 @@
     <string name="notes_not_found">Εγκαταστήστε πρώτα τις Σημειώσεις</string>
     <string name="soundrecorder_not_found">Εγκαταστήστε πρώτα τη συσκευή εγγραφής</string>
     <string name="button_copy">Αντιγραφή</string>
+    <string name="mms_main_purpose_new">Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να σας παρέχει βασικές υπηρεσίες. Σας συνιστούμε να ενεργοποιήσετε τις υπηρεσίες Mi Message και Smart Messaging.</string>
+    <string name="system_permission_declare_exit">Έξοδος</string>
 </resources>
