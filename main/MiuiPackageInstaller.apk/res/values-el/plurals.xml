@@ -42,7 +42,7 @@
     </plurals>
     <plurals name="settings_security_mode_protect_count">
         <item quantity="other">Εξουδετερωμένα &lt;font color=#0D84FF>%1$s&lt;/font> κίνδυνοι</item>
-        <item quantity="one">Εξουδετερωμένο &lt;font color=#0D84FF>%1$s&lt;/font> κίνδυνος</item>
+        <item quantity="one">Εξουδετερωμένος &lt;font color=#0D84FF>%1$s&lt;/font> κίνδυνος</item>
     </plurals>
     <plurals name="settings_security_mode_protect_days">
         <item quantity="other">Η ασφαλής λειτουργία είναι ενεργοποιημένη για &lt;font color=#0D84FF>%1$s&lt;/font> ημέρες</item>

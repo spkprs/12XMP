@@ -418,4 +418,6 @@
 	<string name="v7_preference_off">OFF</string>
 	<string name="v7_preference_on">ON</string>
 	<string name="wait_icon_download">Λήψη εικονιδίων εφαρμογών…</string>
+    <string name="cta_dialog_all_purpose">"Καλώς ήρθατε στο Cloud backup! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να δημιουργήσετε αντίγραφα ασφαλείας της διάταξης της αρχικής οθόνης, των εφαρμογών, των ρυθμίσεων συστήματος και των δεδομένων WeChat στο cloud. Βεβαιωθείτε ότι χρησιμοποιείτε την τελευταία έκδοση για να μπορείτε να επωφεληθείτε από όλες τις λειτουργίες μας."</string>
+    <string name="cta_dialog_permission_description_storage">Για τη δημιουργία αντιγράφων ασφαλείας και την επαναφορά στοιχείων</string>
 </resources>

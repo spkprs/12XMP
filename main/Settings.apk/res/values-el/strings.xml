@@ -9232,4 +9232,11 @@ Xiaomi Cloud
     <string name="miheadset_connect_device_hfp">Συνδέστε τα ακουστικά σας και βεβαιωθείτε ότι επιτρέπεται η αναπαραγωγή ήχου για κλήσεις</string>
     <string name="miheadset_firmware_version_update">Ενημέρωση υλικολογισμικού</string>
     <string name="bt_always_show_icon_summary">Εμφάνιση εικονιδίου Bluetooth μόνο στον Πίνακα Ειδοποιήσεων και &amp; Κέντρο Ελέγχου</string>
+    <string name="automatic_brightness_close_for_virtual_light_sensor">Για να μπορέσετε να ρυθμίσετε τη φωτεινότητα αυτόματα, απενεργοποιήστε πρώτα το ξεκλείδωμα προσώπου.</string>
+    <string name="dark_mode_display_enable_summary">Εναλλαγή σε ένα UI χαμηλού φωτισμού που εμφανίζει κυρίως σκοτεινές επιφάνειες</string>
+    <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Ακύρωση</string>
+    <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">"Για καλύτερα αποτελέσματα όταν χρησιμοποιείτε το ξεκλείδωμα προσώπου, μην επιτρέπετε στη συσκευή σας να ρυθμίζει αυτόματα τη φωτεινότητα της οθόνης."</string>
+    <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">OK</string>
+    <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Ξεκλείδωμα προσώπου</string>
+    <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">"Η φωτεινότητα της οθόνης δεν ρυθμίζεται αυτόματα"</string>
 </resources>

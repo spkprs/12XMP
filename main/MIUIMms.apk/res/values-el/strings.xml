@@ -1390,4 +1390,5 @@
     <string name="button_copy">Αντιγραφή</string>
     <string name="mms_main_purpose_new">Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να σας παρέχει βασικές υπηρεσίες. Σας συνιστούμε να ενεργοποιήσετε τις υπηρεσίες Mi Message και Smart Messaging.</string>
     <string name="system_permission_declare_exit">Έξοδος</string>
+    <string name="wait_for_sp_mark_as_read">Μισό λεπτό...</string>
 </resources>
