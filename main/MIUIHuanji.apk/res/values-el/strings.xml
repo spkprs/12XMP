@@ -910,6 +910,28 @@
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Χθές</string>
+    <string name="android_id">Android ID</string>
+    <string name="android_id_usage">Για την αναγνώριση της έκδοσης της εφαρμογής και της συμβατότητας μεταξύ της παλιάς και της νέας συσκευής</string>
+    <string name="android_oaid">OAID</string>
+    <string name="collect_content">Συλλεγμένο περιεχόμενο</string>
+    <string name="collect_situation">Κατάσταση συλλογής</string>
+    <string name="collected">Συλλεγμένο</string>
+    <string name="not_support">Δεν υποστηρίζεται</string>
+    <string name="oaid_usage">Για τη διασφάλιση της ασφάλειας των μεταφερόμενων αντικειμένων</string>
+    <string name="option_personal_info_list">Συλλογή προσωπικών στοιχείων</string>
+    <string name="option_privacy_settings">Απόρρητο</string>
+    <string name="option_third_party_shared_info_instruction">Κοινή χρήση δεδομένων τρίτων</string>
+    <string name="option_user_agreement">Συμφωνία χρήσης</string>
+    <string name="option_user_device_info">Πληροφορίες συσκευής</string>
+    <string name="recent_one_year">Τελευταίο 1 έτος</string>
+    <string name="recent_seven_days">Τελευταίες 7 ημέρες</string>
+    <string name="recent_thirty_days">Τελευταίες 30 ημέρες</string>
+    <string name="ssid_name">SSID/WLAN όνομα</string>
+    <string name="uncollected">Δεν συλλέχθηκε</string>
+    <string name="use_purpose">Σκοπός χρήσης</string>
+    <string name="use_purpose_description">"Για σύνδεση με το hotspot της νέας συσκευής"</string>
+    <string name="use_scene">Σενάριο χρήσης</string>
+    <string name="use_scene_description">Για τη μεταφορά στοιχείων από την παλιά στη νέα συσκευή</string>
     <string name="request_all_permission_content">"Το Mi Mover πρέπει να έχει πρόσβαση στα ακόλουθα, για να μεταφέρει στοιχεία σε μια νέα συσκευή:
 - Τοποθεσία
 - Επαφές
