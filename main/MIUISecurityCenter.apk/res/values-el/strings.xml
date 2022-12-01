@@ -2624,7 +2624,7 @@
     <string name="managed_user_title">Όλες οι εφαρμογές εργασίας</string>
     <string name="manual_input_free_traffic">Ρύθμιση δωρεάν χρήσης δεδομένων</string>
     <string name="manual_input_traffic">Ορισμός χρήσης δεδομένων</string>
-    <string name="manual_item_create_icon_title">Συντόμευση στην αρχική οθόνη</string>
+    <string name="manual_item_create_icon_title">\"Ασφάλεια\" συντόμευση</string>
     <string name="manual_item_white_list_summary">Αποτρέψτε τη βελτιστοποίηση των επιλεγμένων στοιχείων</string>
     <string name="manual_item_white_list_title">Εξαίρεση Σάρωσης</string>
     <string name="mark_agent">Αντιπρ. πωλήσεων</string>
@@ -2699,7 +2699,7 @@
     <string name="menu_item_notification_power_text">Βελτιστοποίηση μπαταρίας</string>
     <string name="menu_item_notification_title">Εμφάνιση εικονιδίων στον πίνακα ειδοποιήσεων</string>
     <string name="menu_item_shortcut_summary">Τοποθετήστε συντομεύσεις συχνών λειτουργιών στην Αρχική Οθόνη</string>
-    <string name="menu_item_shortcut_title">Διαχείριση συντομεύσεων</string>
+    <string name="menu_item_shortcut_title">Συντόμευση κοινών λειτουργιών</string>
     <string name="menu_item_uninstall">Κατάργηση</string>
     <string name="menu_item_virus_cloud_scan_summary">Ανεβάστε και σαρώστε τα ονόματα και λεπτομέρειες των εφαρμογών στην online βάση ιών</string>
     <string name="menu_item_virus_cloud_scan_title">Online βάση ιών</string>
@@ -5771,8 +5771,8 @@
     <string name="beauty_settings">Ρυθμίσεις</string>
     <string name="dialog_msg_delete_icon_content_pad">Η ασφάλεια σάς επιτρέπει να καθαρίζετε τα σκουπίδια της συσκευής σας, να βρίσκετε και να εξουδετερώνετε ιούς, να εξοικονομείτε μπαταρία, να διαχειρίζεστε δικαιώματα και πολλά άλλα.</string>
     <string name="dialog_msg_delete_icon_content_phone">Η ασφάλεια σάς επιτρέπει να καθαρίζετε τα σκουπίδια της συσκευής σας, να βρίσκετε και να εξουδετερώνετε ιούς, να εξοικονομείτε μπαταρία, να διαχειρίζεστε δικαιώματα και πολλά άλλα.</string>
-    <string name="dialog_msg_delete_icon_title_pad">Κατάργηση αυτής της συντόμευσης Αρχικής οθόνης;</string>
-    <string name="dialog_msg_delete_icon_title_phone">Κατάργηση αυτής της συντόμευσης Αρχικής οθόνης;</string>
+	<string name="dialog_msg_delete_icon_title_pad">Κατάργηση της συντόμευσης \"Ασφάλεια\" στην αρχική οθόνη;</string>
+	<string name="dialog_msg_delete_icon_title_phone">Κατάργηση της συντόμευσης \"Ασφάλεια\" στην αρχική οθόνη;</string>
     <string name="pc_xiaoai_create_auto_task">Νέα εργασία από Mi AI</string>
     <string name="eletric_no_grant_dialog_message_for_phone">Χορηγήστε τα απαιτούμενα δικαιώματα για τον εντοπισμό άγνωστων αριθμών.</string>
     <string name="eletric_no_grant_dialog_negative_button">Ακύρωση</string>
@@ -5831,5 +5831,17 @@
     <string name="terminal_privacy_summary">Επεξεργασία προσωπικών πληροφοριών σε αυτή τη συσκευή</string>
     <string name="gb_barrage_dnd_conflict_toast">Για χρήση σχολίων στην οθόνη, απενεργοποιήστε πρώτα το \"Μην Ενοχλείτε\".</string>
     <string name="gb_dnd_barrage_conflict_toast">"Δεν θα μπορείτε τη χρήση σχολίων στην οθόνη όταν είναι ενεργό το \"Μην Ενοχλείτε\"."</string>
+	<string name="pc_emergency_call">Έκτακτη ανάγκη</string>
+	<string name="pc_high_temp_protection_noti_bt_text">Κατανοητό</string>
+	<string name="pc_high_temp_protection_noti_summary">"Δεν μπορείτε να χρησιμοποιήσετε τα hotspots, τα δεδομένα κινητής τηλεφωνίας και τις υπηρεσίες τοποθεσίας τώρα"</string>
+	<string name="pc_high_temp_protection_noti_tile">Η συσκευή σας υπερθερμάνθηκε</string>
+	<string name="pc_temperature_too_high">Υπερθέρμανση συσκευής</string>
+	<string name="pc_wait_device_cools_down">Περιμένετε να κρυώσει η συσκευή σας για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+	<string name="permission_instruction_shake">"Αυτή η άδεια επιτρέπει στις εφαρμογές να παρακολουθούν τον προσανατολισμό και την κίνηση της συσκευής σας (π.χ. κούνημα, κλίση και περιστροφή)."</string>
+	<string name="power_settings_firmware_update_title">Ενημερώσεις υλικολογισμικού</string>
+	<string name="storage_system_other_tip_new">Περιλαμβάνει τον αποθηκευτικό χώρο που είναι απαραίτητος για τη λειτουργία και τις αναβαθμίσεις του συστήματος. Το μέγεθος αυτής της κατάτμησης θα αυξομειώνεται ανάλογα με την κατάσταση του συστήματος.</string>
+	<string name="vb_video_effects_immersion_sound">Εντυπωσιακός ήχος</string>
+	<string name="vb_video_effects_immersion_sound_summary">Ζήστε την εμπειρία της εμβύθισης και της αίσθησης του χώρου όταν ο υποστηριζόμενος ήχος αναπαράγεται μέσω ακουστικών</string>
+	<string name="vb_video_effects_spatial_summary_new">Απολαύστε βελτιωμένη αίσθηση του χώρου και της κατεύθυνσης για υποστηριζόμενο ήχο και βίντεο και ρυθμίστε τον καθηλωτικό ήχο με βάση την κίνηση του κεφαλιού.</string>
 </resources>
 

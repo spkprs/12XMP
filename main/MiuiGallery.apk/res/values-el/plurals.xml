@@ -688,4 +688,8 @@
         <item quantity="other">Τα διαγραμμένα στοιχεία αποθηκεύονται στο cloud για %1$d ημέρες</item>
         <item quantity="one">Τα διαγραμμένα στοιχεία αποθηκεύονται στο cloud για %1$d ημέρες</item>
      </plurals>
+     <plurals name="share_album_home_pref_screen_devices">
+         <item quantity="μία">%1$d οθόνη</item>
+         <item quantity="άλλες">%1$d οθόνες</item>
+     </plurals>
 </resources>

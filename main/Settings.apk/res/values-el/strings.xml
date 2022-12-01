@@ -9239,4 +9239,5 @@ Xiaomi Cloud
     <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">OK</string>
     <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Ξεκλείδωμα προσώπου</string>
     <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">"Η φωτεινότητα της οθόνης δεν ρυθμίζεται αυτόματα"</string>
+	<string name="legacy_power_menu">Παλαιό μενού τροφοδοσίας</string>
 </resources>
