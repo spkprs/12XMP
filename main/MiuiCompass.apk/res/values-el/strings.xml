@@ -97,7 +97,7 @@
     <string name="mobiledata_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
     <string name="new_cta_app_purpose">Προβολή κατευθύνσεων και συντεταγμένων</string>
     <string name="new_cta_v2_app_purpose">Εμφάνιση κατευθύνσεων, συντεταγμένων, ατμοσφαιρικής πίεσης και τρέχοντος υψομέτρου</string>
-    <string name="new_permission_camera_desc">Για βαθμονόμηση</string>
+    <string name="new_permission_camera_desc">Για προβολή ζωντανών προεπισκοπήσεων</string>
     <string name="new_permission_location_desc">Για εμφάνιση συντεταγμένων</string>
     <string name="not_allowed">Δεν χορηγήθηκε</string>
     <string name="not_set">Δεν έχει οριστεί</string>

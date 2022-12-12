@@ -217,4 +217,9 @@ O N\",        \"text_format\": {          \"lineCount\": 5,          \"lineEnds\
     <string name="aod_lock_screen_date_12_smartcover">EE\ndd.MM.</string>
     <string name="bottomsheet_action_expand_halfway">Ανάπτυξη το μισό</string>
     <string name="label">Ετικέτα</string>
+    <string name="bottomsheet_action_collapse">Κλείστε το κάτω φύλλο</string>
+    <string name="bottomsheet_action_expand">Αναπτύξτε το κάτω φύλλο</string>
+    <string name="bottomsheet_drag_handle_clicked">Σύρετε τη λαβή με διπλό πάτημα</string>
+    <string name="bottomsheet_drag_handle_content_description">Λαβή μεταφοράς</string>
+    <string name="error_a11y_label">Σφάλμα: άκυρο</string>
 </resources>

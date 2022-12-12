@@ -355,7 +355,7 @@
     <string name="worker_authorized">%1$s αποδέχθηκε το αίτημά σας</string>
     <string name="worker_connect_cancel_tips">Ακύρωση</string>
     <string name="worker_connect_fail_btn_retry">Προσπάθησε ξανά</string>
-    <string name="worker_connect_fail_message">Παρουσιάστηκε σφάλμα δικτύου. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
+    <string name="worker_connect_fail_message">Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά.</string>
     <string name="worker_connect_fail_title">Δεν ήταν δυνατή η σύνδεση</string>
     <string name="worker_connect_help">Βοήθεια</string>
     <string name="worker_connecting_message">Σύνδεση…</string>
@@ -450,4 +450,7 @@
     <string name="call_error_notify_content">Μπορείτε να επιστρέψετε στο τηλέφωνό σας για να συνεχίσετε αυτή την κλήση.</string>
     <string name="call_error_notify_title">Ασταθής σύνδεση δικτύου</string>
     <string name="toast_calling_warning">Τερματισμός τρέχουσας κλήσης και νέα προσπάθεια</string>
+    <string name="file_transferring">Περιμένετε μέχρι να ολοκληρωθούν οι τρέχουσες μεταφορές και προσπαθήστε ξανά</string>
+    <string name="notify_connected_message_pad">Συνεχίστε με τις εργασίες της εφαρμογής στον συνδεδεμένο υπολογιστή ή χρησιμοποιήστε αυτή τη συσκευή ως επέκταση οθόνης.</string>
+    <string name="scanner_lower_version_toast">Ενημερώστε το MIUI+ στον υπολογιστή σας για να συνδεθείτε</string>
 </resources>

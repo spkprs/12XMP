@@ -1686,4 +1686,17 @@
         <item>Άγγιγμα</item>
         <item>Άμεσο άγγιγμα</item>
     </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>Crisp</item>
+        <item>Solid</item>
+    </string-array>
+    <string-array name="typing_style_entries">
+        <item>Τυπικό</item>
+        <item>Άγγιγμα</item>
+        <item>Άμεσο άγγιγμα</item>
+    </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
+        <item>Οχι</item>
+        <item>Ναι</item>
+    </string-array>
 </resources>

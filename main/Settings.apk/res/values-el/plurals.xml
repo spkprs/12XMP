@@ -556,4 +556,8 @@
         <item quantity="other">%d δευτ.</item>
         <item quantity="one">%d δευτ.</item>
     </plurals>
+     <plurals name="nrca_info">
+         <item quantity="other">Οι αλλαγές θα εφαρμοστούν σε %d δευτ.</item>
+         <item quantity="one">Οι αλλαγές θα εφαρμοστούν σε %d δευτ.</item>
+     </plurals>
 </resources>

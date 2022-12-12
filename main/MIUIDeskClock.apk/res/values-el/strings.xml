@@ -645,4 +645,16 @@
     <string name="alarm_alert_now">%s ειδοποίηση</string>
     <string name="alarm_alert_snooze_button">Αναβολή</string>
     <string name="click_to_cancel_alarm">Πατήστε για απενεργοποίηση</string>
+    <string name="miui_clock_city_name_local">Τοπικά</string>
+    <string name="miui_clock_city_name_second">Δεύτερο ρολόι</string>
+    <string name="miui_lock_screen_date">dd, MMM EEE</string>
+    <string name="miui_lock_screen_date_12">dd, MMM EEE</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"d/M
+EEE"</string>
+    <string name="miui_lock_screen_large_date_12">"d/M
+EEE"</string>
 </resources>

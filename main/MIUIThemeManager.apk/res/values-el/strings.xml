@@ -1122,7 +1122,7 @@
     <string name="storage_migration_exit_msg">Για να καταστήσουμε τα Θέματα συμβατά με τις νέες εκδόσεις του Android, μετακινήσαμε τα ληφθέντα στοιχεία σας σε μια νέα θέση. Επανεκκινήστε την εφαρμογή για να εφαρμόσετε τις αλλαγές και να προβάλετε το περιεχόμενο που έχετε λάβει.</string>
     <string name="storage_permission_denied_desc">Επιτρέψτε την πρόσβαση των Θεμάτων στην αποθήκευση για να μπορείτε να προβάλλετε στοιχεία</string>
     <string name="sunday">Κυριακή</string>
-    <string name="super_wallpaper">Σούπερ ταπετσαρίες</string>
+    <string name="super_wallpaper">Super ταπετσαρίες</string>
     <string name="super_wallpaper_dialog_content">Η Εξοικ. μπαταρίας θα απενεργοποιήσει τα δυναμικά χαρακτηριστικά των ταπετσαριών.</string>
     <string name="super_wallpaper_list_footer_text">Μείνετε συντονισμένοι για τις νέες μας κυκλοφορίες!</string>
     <string name="super_wallpaper_list_label">Super ταπετσαρίες</string>
@@ -1454,4 +1454,25 @@
     <string name="component_title_widget_suit">Γραφικά στοιχεία</string>
     <string name="paying">Αγορές…</string>
     <string name="search_view_description_clear">Εκκαθάριση αναζήτησης</string>
+    <string name="has_mamual_hide_large_icons">Το Super εικονίδιο αποκρύφτηκε με επιτυχία</string>
+    <string name="hide_mamual_hide_large_icons">"Να μην εμφανίζονται κρυφά Super εικονίδια"</string>
+    <string name="large_icon_apply_fail_for_in_dock">"Δεν είναι δυνατή η χρήση Super εικονιδίων για εφαρμογές στο app dock"</string>
+    <string name="large_icon_apply_fail_for_in_folder">"Δεν είναι δυνατή η χρήση Super εικονιδίων για εφαρμογές σε φακέλους"</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">"Τα Super εικονίδια δεν υποστηρίζονται στη λειτουργία Lite"</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">"Δεν μπορείτε να χρησιμοποιήσετε Super εικονίδια για εφαρμογές που δεν βρίσκονται στην Αρχική οθόνη"</string>
+    <string name="large_icon_card_image_bias">w,1:1</string>
+    <string name="large_icon_detail_title">%s Super εικονίδια</string>
+    <string name="large_icon_no_more">Τίποτα εδώ ακόμα</string>
+    <string name="large_icon_no_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο"</string>
+    <string name="large_icon_not_support">"Δεν μπορείτε να ορίσετε εικονίδια για %s"</string>
+    <string name="large_icon_official">Επίσημα</string>
+    <string name="large_icon_picker_haven">Διαθέσιμα εικονίδια</string>
+    <string name="large_icon_picker_more">Περισσότερα</string>
+    <string name="large_icon_picker_size">Μέγεθος εικονιδίου</string>
+    <string name="large_icon_to_find_more">Δείτε περισσότερα</string>
+    <string name="large_icon_warning_install">Εγκατάσταση</string>
+    <string name="large_icon_warning_not_install">Εγκατάσταση %s</string>
+    <string name="large_icon_warning_not_install_msg">Εγκαταστήστε %s για να μπορείτε να χρησιμοποιήσετε ένα Super εικονίδιο. Εγκατάσταση τώρα?</string>
+    <string name="show_mamual_hide_large_icons">Εμφάνιση κρυφών Super εικονιδίων</string>
+    <string name="theme_component_title_large_icon">Super εικονίδια</string>
 </resources>

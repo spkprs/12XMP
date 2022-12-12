@@ -360,7 +360,7 @@
     <string name="subinfo_default_name">SIM %d</string>
     <string name="sunlight_notification_content">Αυτόματη ρύθμιση της φωτεινότητας σε έντονο φως περιβάλλοντος</string>
     <string name="sunlight_notification_title">Λειτουργία ηλιακού φωτός</string>
-    <string name="super_resolution_maintain_tips">Η σούπερ ανάλυση δεν είναι διαθέσιμη ακόμα.</string>
+    <string name="super_resolution_maintain_tips">Η Super ανάλυση δεν είναι διαθέσιμη ακόμα.</string>
     <string name="switch_brand_desc_tv">Υπηρεσίες ασφαλείας που παρέχονται από το Graphite</string>
     <string name="switch_desc_tv">Δύο χώροι. Μία συσκευή.</string>
     <string name="switching_tv">Εναλλαγή…</string>
@@ -477,4 +477,9 @@
     <string name="rescuepartyplus_config_reset_context">Ορισμένα δεδομένα ενδέχεται να έχουν διαγραφεί. Πατήστε για να δείτε λεπτομέρειες.</string>
     <string name="rescuepartyplus_config_reset_title">Επισκευή συστήματος ολοκληρώθηκε</string>
     <string name="wallpaper_group_macaron_title">Βότσαλα</string>
+    <string name="wallpaper_group_curves_title">Καμπύλες</string>
+    <string name="wallpaper_group_light_cycles_title">Κύκλοι Neon</string>
+    <string name="wallpaper_group_petros_koublis_title">Ονειροπολήσεις</string>
+    <string name="wallpaper_group_glassy_light_title">Πολυστρωματικό γυαλί</string>
+    <string name="wallpaper_group_shadow_geometry_title">Γεωμετρία των σκιών</string>
 </resources>
