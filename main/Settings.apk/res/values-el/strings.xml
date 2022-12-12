@@ -9239,9 +9239,7 @@ Xiaomi Cloud
     <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">OK</string>
     <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Ξεκλείδωμα προσώπου</string>
     <string name="miui_face_unlock_open_toast_for_sensor_light_virtual">"Η φωτεινότητα της οθόνης δεν ρυθμίζεται αυτόματα"</string>
-<<<<<<< Updated upstream
 	<string name="legacy_power_menu">Παλαιό μενού τροφοδοσίας</string>
-=======
     <string name="complete_parameters_new">Αναλυτικές πληροφορίες και προδιαγραφές</string>
     <string name="data_acceleration_summery">Χρησιμοποιήστε τόσο WIFI όσο και δεδομένα κινητής τηλεφωνίας για να αυξήσετε την ταχύτητα όταν η σύνδεση WIFI είναι ανεπαρκής</string>
     <string name="dds_preference_smart_dds_switch_is_on">Ο διακόπτης Smart DDS είναι ανοιχτός</string>
@@ -9259,5 +9257,4 @@ Xiaomi Cloud
     <string name="sunlight_low_power_notification">"Αδυναμία ενεργοποίησης λειτουργίας Ηλιοφάνειας. Η μπαταρία είναι πολύ χαμηλή."</string>
      <string name="enable_crbt_pref_summary">"Να μην εμφανίζονται βίντεο προφίλ για εισερχόμενες κλήσεις κατά τη δοκιμή"</string>
      <string name="enable_crbt_pref_title">Απενεργοποίηση βίντεο προφίλ για εισερχόμενες κλήσεις</string>
->>>>>>> Stashed changes
 </resources>
