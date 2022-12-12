@@ -7292,7 +7292,6 @@
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
-    <string name="sunlight_low_power_notification">">Δεν μπορεί να ενεργοποιηθεί η λειτουργία Ηλιοφάνειας. Η μπαταρία είναι πολύ χαμηλή."</string>
     <string name="sunlight_mode">Λειτουργία Ηλιοφάνειας</string>
     <string name="sunlight_mode_summary">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος για αποφυγή υπερβολικού σκότους της οθόνης.</string>
     <string name="sunlight_mode_summary_new">Ρύθμιση φωτεινότητας σε έντονο φως περιβάλλοντος για αποτροπή μείωσης φωτισμού της οθόνης. Ένα μικρό εικονίδιο του ήλιου θα εμφανιστεί στο επάνω μέρος της οθόνης όταν το φως του περιβάλλοντος είναι ισχυρό.</string>
