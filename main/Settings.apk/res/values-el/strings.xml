@@ -9248,13 +9248,11 @@ Xiaomi Cloud
     <string name="haptic_descripthion_for_middle_level">Προεπιλογή</string>
     <string name="haptic_descripthion_for_min_level">Ελαφρύ</string>
     <string name="immersive_audio_sources">Ήχος εμβύθισης</string>
-    <string name="miui_type_style_summary">Εφαρμογή στιλ πληκτρολόγησης όταν είναι ενεργοποιημένο το πρόγραμμα ανάγνωσης οθόνης</string>
-    <string name="miui_type_style_title">Στιλ πληκτρολόγησης</string>
     <string name="network_acceleration">Επιτάχυνση δικτύου</string>
     <string name="network_auto_switch">Εναλλαγή μεταξύ δικτύων</string>
     <string name="network_auto_switch_summery">"Εναλλαγή σε δεδομένα κινητής τηλεφωνίας όταν το σήμα WIFI είναι αδύναμο ή το δίκτυο δεν είναι διαθέσιμο"</string>
     <string name="solid_text">Χρησιμοποιεί απτική ανάδραση χαμηλής συχνότητας και αντίστοιχες οπτικές μεταβάσεις για να δημιουργήσει μια σταθερή, ισχυρή εμπειρία χειρονομίας</string>
     <string name="sunlight_low_power_notification">"Αδυναμία ενεργοποίησης λειτουργίας Ηλιοφάνειας. Η μπαταρία είναι πολύ χαμηλή."</string>
-     <string name="enable_crbt_pref_summary">"Να μην εμφανίζονται βίντεο προφίλ για εισερχόμενες κλήσεις κατά τη δοκιμή"</string>
-     <string name="enable_crbt_pref_title">Απενεργοποίηση βίντεο προφίλ για εισερχόμενες κλήσεις</string>
+    <string name="enable_crbt_pref_summary">"Να μην εμφανίζονται βίντεο προφίλ για εισερχόμενες κλήσεις κατά τη δοκιμή"</string>
+    <string name="enable_crbt_pref_title">Απενεργοποίηση βίντεο προφίλ για εισερχόμενες κλήσεις</string>
 </resources>
