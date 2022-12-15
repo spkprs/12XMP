@@ -1465,7 +1465,7 @@
     <string name="large_icon_no_more">Τίποτα εδώ ακόμα</string>
     <string name="large_icon_no_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο"</string>
     <string name="large_icon_not_support">"Δεν μπορείτε να ορίσετε εικονίδια για %s"</string>
-    <string name="large_icon_official">Επίσημα</string>
+    <string name="large_icon_official">Προεπιλογή</string>
     <string name="large_icon_picker_haven">Διαθέσιμα εικονίδια</string>
     <string name="large_icon_picker_more">Περισσότερα</string>
     <string name="large_icon_picker_size">Μέγεθος εικονιδίου</string>
@@ -1475,4 +1475,11 @@
     <string name="large_icon_warning_not_install_msg">Εγκαταστήστε %s για να μπορείτε να χρησιμοποιήσετε ένα Super εικονίδιο. Εγκατάσταση τώρα?</string>
     <string name="show_mamual_hide_large_icons">Εμφάνιση κρυφών Super εικονιδίων</string>
     <string name="theme_component_title_large_icon">Super εικονίδια</string>
+    <string name="dynamic_large_icon_not_support_current_type">"%s δεν υποστηρίζεται για αυτό το δυναμικό εικονίδιο"</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Super εικονίδια</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Προεπιλεγμένα εικονίδια</string>
+    <string name="large_icon_detail_warning_dialog_msg">"Ορισμένες εφαρμογές χρησιμοποιούν Super εικονίδια. Συνέχεια για χρήση Super εικονιδίων ή επιστροφή στα προεπιλεγμένα;"</string>
+    <string name="large_icon_detail_warning_dialog_title">Ρυθμίσεις Super εικονιδίων</string>
+    <string name="large_icon_not_support_current_type">"%s δεν υποστηρίζεται για αυτό το εικονίδιο"</string>
+    <string name="large_icon_theme">Θέματα</string>
 </resources>
