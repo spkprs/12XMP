@@ -128,5 +128,17 @@
         <item quantity="other">"Αδυναμία συγχρ/μου %s στοιχ."</item>
         <item quantity="one">"Αδυναμία συγχρ/μου %s στοιχ."</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">"Ανεπαρκής αποθήκευση. Δεν ήταν δυνατός ο συγχρονισμός %d φωτογραφιών."</item>
+        <item quantity="one">"Ανεπαρκής αποθήκευση. Δεν ήταν δυνατός ο συγχρονισμός %d φωτογραφίας."</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">"Αδύνατος ο συγχρονισμός &lt;font color=#F22424>%s στοιχεία&lt;/font>"</item>
+        <item quantity="one">"Αδύνατος ο συγχρονισμός &lt;font color=#F22424>%s στοιχείο&lt;/font>"</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">"Η αποθήκη είναι γεμάτη. Δεν ήταν δυνατός ο συγχρονισμός &lt;font color=#F22424>%d εφαρμ.&lt;/font>"</item>
+        <item quantity="one">"Η αποθήκη είναι γεμάτη. Δεν ήταν δυνατός ο συγχρονισμός &lt;font color=#F22424>%d εφαρμ.&lt;/font>"</item>
+    </plurals>
 </resources>
 

@@ -938,4 +938,20 @@
 - Ιστορικό κλήσεων
 - Μηνύματα κειμένου
 - Αποθήκευση"</string>
+    <string name="league_acquire_accept">Συμφωνώ</string>
+    <string name="league_acquire_message1">Για να μπορέσετε να μεταφέρετε εφαρμογές τρίτων και τα δεδομένα τους από αυτή τη συσκευή στη νέα σας συσκευή %s, απαιτούνται τα ακόλουθα δικαιώματα:</string>
+    <string name="league_acquire_message2">Επιτρέψτε στο Mi Mover να έχει πρόσβαση σε δεδομένα εφαρμογών τρίτων</string>
+    <string name="league_acquire_message3">Πρόκειται για άδεια μιας χρήσης που χρησιμοποιείται μόνο για τη μεταφορά δεδομένων. Μόλις ολοκληρωθεί η μεταφορά, το Mi Mover θα σταματήσει αυτόματα να χρησιμοποιεί αυτό το δικαίωμα..</string>
+    <string name="league_acquire_message4">"Εάν δεν συμφωνήσετε να χορηγήσετε αυτή την άδεια, δεν θα μπορείτε να μεταφέρετε εφαρμογές τρίτων και τα δεδομένα τους.."</string>
+    <string name="league_acquire_refuse">"Δεν συμφωνώ"</string>
+    <string name="league_acquire_title">Απαιτούμενες άδειες</string>
+    <string name="league_check_service_content">"Η Mi Mover παρέχει υπηρεσίες μεταφοράς για %s και δεν είναι διαθέσιμη αυτή τη στιγμή."</string>
+    <string name="league_check_service_title">Μεταφορά με χρήση %s</string>
+    <string name="league_client_acquire">Άνοιγμα %s</string>
+    <string name="league_client_hint_text">Η Συμμαχία κλωνοποίησης μπορεί να βοηθήσει στη μεταφορά δεδομένων εφαρμογών τρίτων (π.χ. ιστορικό συνομιλιών WeChat και QQ). Πατήστε \"%s\" για να συνεχίσετε μαζί μας ή πατήστε \"Όχι τώρα\" για να συνεχίσετε χωρίς να μεταφέρετε εφαρμογές και δεδομένα τρίτων..</string>
+    <string name="league_client_install">Εγκατάσταση %s</string>
+    <string name="league_client_title">Μεταφορά με Mi Mover</string>
+    <string name="league_client_traditional">Όχι τώρα</string>
+    <string name="league_client_update">Ενημέρωση %s</string>
+    <string name="request_permission">Αποδοχή</string>
 </resources>

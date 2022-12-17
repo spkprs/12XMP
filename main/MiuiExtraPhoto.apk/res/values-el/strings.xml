@@ -123,4 +123,12 @@
     <string name="grant_permission_remind_title">Απαιτούμενες άδειες</string>
     <string name="grant_permission_storage">Επιτρέψτε σε αυτή την εφαρμογή να έχει πρόσβαση στον αποθηκευτικό χώρο.</string>
     <string name="grant_permission_text">Το Gallery Editor χρειάζεται το ακόλουθο δικαίωμα για να μπορέσει να λειτουργήσει κανονικά: %s. Πατήστε \"Ρυθμίσεις\" για να την παραχωρήσετε.</string>
+    <string name="saf_operation_guide_1">"Το Gallery Editor χρειάζεται την άδειά σας για να μπορεί να προστατεύει και να διαχειρίζεται τα δεδομένα σας. "</string>
+    <string name="saf_operation_guide_2">Για να χορηγήσετε το δικαίωμα, πατήστε \"%1$s\" και, στη συνέχεια, επιλέξτε \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Επόμενο</string>
+    <string name="saf_operation_guide_param2">Πρόσβαση σε αυτόν το φάκελο</string>
+    <string name="saf_requester_cancel">Ακύρωση</string>
+    <string name="saf_requester_title">Επιτρέψτε στον Gallery Editor να έχει πρόσβαση \"%s\"</string>
+    <string name="saf_secret_album">Προσωπικό άλμπουμ</string>
+    <string name="saf_secret_album_guide">Αυτή η εφαρμογή χρειάζεται δικαιώματα για να εμφανίζει στοιχεία από το προσωπικό σας άλμπουμ.</string>
 </resources>

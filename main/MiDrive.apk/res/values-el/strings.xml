@@ -679,4 +679,6 @@
     <string name="query_quota_exception">Εμφανίστηκε σφάλμα διακομιστή. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
     <string name="query_quota_searching">Μισό λεπτό…</string>
     <string name="reminder_card_title">Προσοχή</string>
+    <string name="talkback_close">Κλείστε</string>
+    <string name="talkback_close_open_picture">Ακύρωση</string>
 </resources>

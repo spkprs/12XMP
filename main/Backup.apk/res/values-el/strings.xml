@@ -924,4 +924,24 @@
 %1$d. Αντιγράψτε τα αντίγραφα ασφαλείας στο PC σας για να αποφύγετε την απώλεια δεδομένων. %2$s.
 %3$d. Τα αντίγραφα ασφαλείας θα αποθηκεύονται στο MIUI-Backup-AllBackup.
 %4$d. Ορισμένες εφαρμογές ενδέχεται να μην υποστηρίζουν αντίγραφα ασφαλείας."</string>
+    <string name="broken_screen_rescue_service">Αντίγραφα ασφαλείας με κατεστραμμένη οθόνη</string>
+    <string name="broken_screen_rescue_service_content">"Αυτή η λειτουργία σας επιτρέπει να δημιουργείτε αντίγραφα ασφαλείας στοιχείων χρησιμοποιώντας ένα καλώδιο USB όταν η οθόνη της συσκευής σας έχει υποστεί βλάβη ή δεν ανταποκρίνεται. Για να μπορείτε να δημιουργήσετε αντίγραφα ασφαλείας στοιχείων όταν η οθόνη δεν ανταποκρίνεται, θα πρέπει να ενεργοποιήσετε αυτή τη λειτουργία όταν η οθόνη εξακολουθεί να λειτουργεί σωστά."</string>
+    <string name="broken_screen_rescue_service_disable">Απενεργοποίηση αντιγράφων ασφαλείας με κατεστραμμένη οθόνη</string>
+    <string name="broken_screen_rescue_service_enable">Ενεργοποίηση αντιγράφων ασφαλείας με κατεστραμμένη οθόνη</string>
+    <string name="broken_screen_rescue_service_learn_subcontent1">Ζητήστε από οποιοδήποτε άτομο από τις επαφές σας να σας στείλει ένα μήνυμα SMS με την ακόλουθη μορφή αντικαθιστώντας τα γράμματα με το κλείδωμα της οθόνης σας: *#*#SCREENLOCK#*#*.</string>
+    <string name="broken_screen_rescue_service_learn_subcontent2">Μόλις αποσταλεί το μήνυμα, συνδέστε αυτή τη συσκευή σε έναν υπολογιστή μέσω USB για να ξεκινήσετε τη δημιουργία αντιγράφων ασφαλείας στοιχείων.</string>
+    <string name="broken_screen_rescue_service_learn_subtitle1">Ενεργοποίηση αυτής της λειτουργίας</string>
+    <string name="broken_screen_rescue_service_learn_subtitle2">Αντίγραφα ασφαλείας</string>
+    <string name="broken_screen_rescue_service_learn_title">Πώς να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="broken_screen_rescue_service_tips_1">"%1$d. Εάν το κλείδωμα της οθόνης σας είναι %2$d, το μήνυμα θα πρέπει να μοιάζει με αυτό: *#*#%3$d#*#*. Εάν χρησιμοποιείτε έναν κωδικό πρόσβασης που περιέχει τόσο γράμματα όσο και ψηφία, ζητήστε από το άλλο άτομο να τον συμπεριλάβει στο μήνυμα χωρίς παραλείψεις."</string>
+    <string name="broken_screen_rescue_service_tips_2">"%1$d. Εάν χρησιμοποιείτε ένα μοτίβο, αυτό μπορεί να αναπαρασταθεί με ψηφία στο μήνυμα. Η τελεία στην επάνω αριστερή γωνία είναι %2$d. Η αρίθμηση γίνεται από αριστερά προς τα δεξιά, γραμμή προς γραμμή, και τελειώνει με %3$d στην κάτω δεξιά γωνία.."</string>
+    <string name="broken_screen_rescue_service_tips_3">"%1$d. Εάν δεν χρησιμοποιείτε κλείδωμα οθόνης, χρησιμοποιήστε \"nopassword\" αντί για τους χαρακτήρες που το αντιπροσωπεύουν στο μήνυμα."</string>
+    <string name="broken_screen_rescue_service_tips_4">"%1$d. Θα έχετε μόνο %2$d προσπάθειες για να ενεργοποιήσετε αυτή τη λειτουργία. Βεβαιωθείτε ότι το μήνυμα SMS που στέλνει το άλλο άτομο είναι σωστό και ότι το άτομο βρίσκεται στις επαφές σας για να πετύχετε."</string>
+    <string name="broken_screen_rescue_service_tips_5">%1$d. Σας συνιστούμε να χρησιμοποιείτε αυτή τη λειτουργία παρουσία του προσωπικού υποστήριξης πελατών μας.</string>
+    <string name="broken_screen_rescue_service_tips_6">"%1$d. Εάν δεν μπορείτε να δημιουργήσετε αντίγραφα ασφαλείας των στοιχείων στον υπολογιστή σας, μπορείτε να μάθετε πώς να επιλύσετε αυτό το πρόβλημα στην τεκμηρίωση βοήθειας.."</string>
+    <string name="broken_screen_rescue_service_tips_title">Συμβουλές</string>
+    <string name="broken_screen_rescue_service_turn_off">Απενεργοποίηση</string>
+    <string name="broken_screen_rescue_service_turn_off_confirm">Απενεργοποίηση αντιγράφων ασφαλείας με κατεστραμμένη οθόνη τώρα;</string>
+    <string name="broken_screen_rescue_service_turn_on">Ενεργοποίηση</string>
+    <string name="broken_screen_rescue_service_turn_on_confirm">Ενεργοποίηση αντιγράφων ασφαλείας με κατεστραμμένη οθόνη τώρα;</string>
 </resources>

@@ -568,7 +568,7 @@
     <string name="noti_quota_button_text">Αναβάθμιση</string>
     <string name="noti_quota_full_sum">Αναβαθμίστε το πακέτο σας για συνέχεια συγχ/σμού στοιχείων.</string>
     <string name="noti_quota_full_sum_without_button">Αποκτήστε περισσότερη αποθ/ση για συνέχεια συγχ/σμού στοιχείων.</string>
-    <string name="noti_quota_full_title">Η αποθ/ση Cloud είναι γεμάτη</string>
+    <string name="noti_quota_full_title">Η αποθήκευση στο cloud είναι &lt;font color=#F22424>πλήρης&lt;/font></string>
     <string name="noti_quota_full_title_without_button">Η αποθ/ση Cloud είναι γεμάτη</string>
     <string name="noti_quota_low_sum">Αναβαθμίστε το πακέτο σας για συνέχεια συγχ/σμού στοιχείων.</string>
     <string name="noti_quota_low_sum_without_button">Αποκτήστε περισσότερη αποθ/ση για συνέχεια συγχ/σμού στοιχείων.</string>
@@ -633,7 +633,7 @@
     <string name="privacy_runtime_perm_call_log_title">Πρόσβαση και επεξεργασία αρχείων κλήσεων</string>
     <string name="privacy_runtime_perm_contacts_desc">Για συγχρονισμό επαφών</string>
     <string name="privacy_runtime_perm_contacts_title">Πρόσβαση και επεξεργασία επαφών</string>
-    <string name="privacy_runtime_perm_external_storage_desc">Για συγχρονισμό φωτογραφιών προφίλ επαφών και συνημμένων μηνυμάτων</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Για συγχρονισμό φωτογραφιών προφίλ επαφών</string>
     <string name="privacy_runtime_perm_external_storage_title">Πρόσβαση Αποθήκευσης</string>
     <string name="privacy_runtime_perm_phone_state_desc">Για πρόσβαση στον αριθμό και κατάσταση της συσκευής</string>
     <string name="privacy_runtime_perm_phone_state_title">Πρόσβαση στις πληροφορίες συσκευής</string>
@@ -900,5 +900,16 @@
     <string name="find_permission_phone_sim_info_title">Πρόσβαση σε πληροφορίες συσκευής</string>
     <string name="phone_guarantee_service_description" formatted="false">Η προστασία από ζημιές στην οθόνη και ατυχήματα μπορεί να αγοραστεί εντός %d ημερών από την ενεργοποίηση. Η εκτεταμένη εγγύηση μπορεί να αγοραστεί εντός %d ημερών από την ενεργοποίηση.</string>
     <string name="phone_guarantee_service_name">Εγγύηση συσκευής</string>
+    <string name="cloud_manage_storage_text">Διαχείριση αποθήκευσης στο cloud</string>
+    <string name="cloud_storage_almost_full_upgrade_text">Η αποθήκη είναι σχεδόν γεμάτη. Ενδέχεται να μην μπορείτε να συγχρονίσετε φωτογραφίες.</string>
+    <string name="cloud_storage_common_functions_text">Συχνά χρησιμοποιούμενα</string>
+    <string name="cloud_storage_full_upgrade_default_text">"Ανεπαρκής αποθήκευση. Αδύνατος ο συγχρονισμός των φωτογραφιών."</string>
+    <string name="cloud_storage_sufficient_text">Αναβάθμιση για να αποκτήσετε έως και %d TB αποθηκευτικού χώρου</string>
+    <string name="cloud_storage_upgrade_text">Αναβάθμιση</string>
+    <string name="cloud_storage_upgrade_text_now">Αναβάθμιση</string>
+    <string name="cloud_storage_zero_upgrade_button_text_now">Δωρεάν αναβάθμιση</string>
+    <string name="customize_notification_btn_text">Αναβάθμιση</string>
+    <string name="default_noti_quota_full_title">Η αποθήκευση Cloud είναι πλήρης</string>
+    <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Λιγότερο από &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> απομένουν στο Cloud</string>
 </resources>
 
