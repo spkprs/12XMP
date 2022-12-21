@@ -339,7 +339,7 @@
     <string name="app_behavior_monitor_tips_if_trust">Μπορείτε να απενεργοποιήσετε τις ειδοποιήσεις σχετικά με ευαίσθητες ενέργειες, εάν εμπιστεύεστε αυτή την εφαρμογή</string>
     <string name="app_behavior_monitor_tips_key">Ειδοποιήσεις ευαίσθητων ενεργειών</string>
     <string name="app_behavior_monitor_tips_summary">Μπορείτε να λαμβάνετε ειδοποιήσεις για την εγγραφή ήχου από εφαρμογές, την πρόσβαση στη θέση σας ή την εκτέλεση άλλων ευαίσθητων ενεργειών στο παρασκήνιο.</string>
-    <string name="app_behavior_no_recorder">Δεν βρέθηκε αποτέλεσμα</string>
+    <string name="app_behavior_no_recorder">Δεν υπάρχουν στοιχεία εδώ ακόμα</string>
     <string name="app_behavior_notification_audio_now_one">%1s καταγράφει ήχο</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s και %2s καταγράφουν ήχους</string>
     <string name="app_behavior_notification_camera_one">%1s καταγράφει φωτογραφίες</string>
@@ -5843,5 +5843,17 @@
 	<string name="vb_video_effects_immersion_sound">Εντυπωσιακός ήχος</string>
 	<string name="vb_video_effects_immersion_sound_summary">Ζήστε την εμπειρία της εμβύθισης και της αίσθησης του χώρου όταν ο υποστηριζόμενος ήχος αναπαράγεται μέσω ακουστικών</string>
 	<string name="vb_video_effects_spatial_summary_new">Απολαύστε βελτιωμένη αίσθηση του χώρου και της κατεύθυνσης για υποστηριζόμενο ήχο και βίντεο και ρυθμίστε τον καθηλωτικό ήχο με βάση την κίνηση του κεφαλιού.</string>
+    <string name="app_behavior_record_cancel">Ακύρωση</string>
+    <string name="app_behavior_record_close">Απενεργοποίηση</string>
+    <string name="app_behavior_record_close_title">Απενεργοποίηση</string>
+    <string name="app_behavior_record_hide_system">Απόκρυψη εφαρμογών συστήματος</string>
+    <string name="app_behavior_record_open">Ενεργοποίηση</string>
+    <string name="app_behavior_record_open_content_text">Τα αρχεία συμπεριφοράς εφαρμογών δείχνουν τι κάνουν οι εφαρμογές και σας βοηθούν να αποφύγετε τους κινδύνους ασφαλείας.</string>
+    <string name="app_behavior_record_show_system">Εμφάνιση εφαρμογών συστήματος</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Πατήστε μια εφαρμογή στην πλευρική γραμμή για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.
+- Σύρετε μια εφαρμογή στο κέντρο της οθόνης για να την ανοίξετε σε ένα αιωρούμενο παράθυρο ή στο πλάι για να χρησιμοποιήσετε την οθόνη διαχωρισμού.
+- Πατήστε παρατεταμένα την ένδειξη για να μετακινήσετε το παράθυρο."</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Πατήστε μια εφαρμογή στην πλευρική γραμμή για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.
+- Πατήστε παρατεταμένα την ένδειξη για να μετακινήσετε το παράθυρο."</string>
 </resources>
 
