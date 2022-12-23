@@ -3,7 +3,9 @@
     <string name="accessibility_airplane_mode">Λειτ.πτήσης.</string>
     <string name="accessibility_back">Πίσω</string>
     <string name="accessibility_brightness">Φωτεινότητα οθόνης</string>
+    <string name="accessibility_desc_add">Προσθήκη</string>
     <string name="accessibility_desc_close">Κλείστε</string>
+    <string name="accessibility_desc_remove">Αφαίρεση</string>
     <string name="accessibility_description_hours">Ώρες</string>
     <string name="accessibility_description_minutes">Λεπτά</string>
     <string name="accessibility_description_seconds">Δευτ/πτα</string>
@@ -33,12 +35,15 @@
     <string name="chip_text">Κείμενο chip</string>
     <string name="clear_text_end_icon_content_description">Καθαρισμός κειμένου</string>
     <string name="close">Κλείσιμο</string>
-    <string name="control_center_notification_switch_guide">Σάρωση για εναλλαγή μεταξύ Κέντρου Ελέγχου και Πίνακα ειδοποιήσεων</string>
     <string name="close_invisible_mode_dialog_cancel">Ακύρωση</string>
     <string name="close_invisible_mode_dialog_message">"Δεν μπορώ να χρησιμοποιήσω το Mi Smart Play τώρα. Απενεργοποιήστε τη λειτουργία Incognito στις Ρυθμίσεις για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία."</string>
     <string name="close_invisible_mode_dialog_ok">Ρυθμίσεις</string>
     <string name="close_invisible_mode_dialog_title">"Είστε ινκόγκνιτο"</string>
+    <string name="control_center_notification_switch_guide">Σάρωση για εναλλαγή μεταξύ Κέντρου Ελέγχου και Πίνακα ειδοποιήσεων</string>
+    <string name="controls_add_device_guide">"Δεν έχετε προσθέσει ακόμα καμία έξυπνη οικιακή συσκευή"</string>
+    <string name="controls_click_to_add_device">Προσθήκη</string>
     <string name="controls_confirmation_message">Επιβεβαίωση αλλαγής για %s</string>
+    <string name="controls_default_structure">Έξυπνο σπίτι</string>
     <string name="controls_dialog_confirmation">Τα στοιχεία ελέγχου ενημερώθηκαν</string>
     <string name="controls_dialog_message">%s πρότεινεται αυτό το στοιχείο ελέγχου για προσθήκη στα αγαπημένα σας.</string>
     <string name="controls_dialog_ok">Προσθήκη στα αγαπημένα</string>
@@ -51,6 +56,12 @@
     <string name="controls_dismiss_dialog_message_international">"Να καταργηθεί τώρα η κάρτα \"Smart home\"; Θα μπορείτε να την επαναφέρετε στις Ρυθμίσεις > Κέντρο ελέγχου."</string>
     <string name="controls_dismiss_dialog_title">Έξυπνες οικιακές συσκευές</string>
     <string name="controls_dismiss_dialog_title_international">Κατάργηση κάρτας</string>
+    <string name="controls_edit_add_device_guide">Δεν υπάρχουν συσκευές εδώ ακόμη</string>
+    <string name="controls_edit_added_subtitle">Σύρετε στοιχεία για να τα αναδιατάξετε</string>
+    <string name="controls_edit_added_title">Προστέθηκε</string>
+    <string name="controls_edit_done_button">Τέλος</string>
+    <string name="controls_edit_go_to_app_guide">Άνοιγμα</string>
+    <string name="controls_edit_not_added_title">Διαθέσιμη</string>
     <string name="controls_error_failed">Σφάλμα, δοκιμάστε ξανά</string>
     <string name="controls_error_generic">Σφάλμα</string>
     <string name="controls_error_removed">Η συσκευή καταργήθηκε</string>
@@ -61,6 +72,7 @@
     <string name="controls_favorite_removed">Όλα τα στοιχεία ελέγχου καταργήθηκαν</string>
     <string name="controls_favorite_subtitle">Επιλέξτε στοιχεία ελέγχου για πρόσβαση από το μενού τροφοδοσίας</string>
     <string name="controls_favorite_toast_no_changes">Οι αλλαγές δεν αποθηκεύτηκαν</string>
+    <string name="controls_loading_device">Εναλλαγή τοποθεσιών...</string>
     <string name="controls_media_title">Πολυμέσα</string>
     <string name="controls_menu_add">Προσθέστε στοιχεία ελέγχου</string>
     <string name="controls_menu_edit">Επεξεργασία στοιχείων ελέγχου</string>
@@ -68,6 +80,9 @@
     <string name="controls_mijia_setup_subtitle_login">Πατήστε για προσθήκη συσκευών</string>
     <string name="controls_mijia_setup_title">Έξυπνες οικιακές συσκευές</string>
     <string name="controls_no_favorites_title">Επιλέξτε εφαρμογές για τη διαχείριση έξυπνων οικιακών συσκευών εδώ</string>
+    <string name="controls_not_found_device_toast">Αυτό το στοιχείο έχει ήδη διαγραφεί στην εφαρμογή</string>
+    <string name="controls_not_found_device_toast_mihome">Αυτό το στοιχείο έχει ήδη διαγραφεί στην εφαρμογή</string>
+    <string name="controls_offline_device_toast">Αυτή η συσκευή είναι εκτός σύνδεσης. Πατήστε παρατεταμένα για να ανοίξετε την εφαρμογή.</string>
     <string name="controls_pin_instructions">Εισάγετε το PIN</string>
     <string name="controls_pin_instructions_retry">Δοκιμάστε άλλο PIN</string>
     <string name="controls_pin_use_alphanumeric">Το PIN περιέχει γράμματα ή σύμβολα</string>
@@ -76,6 +91,7 @@
     <string name="controls_providers_title">Επιλογή εφαρμογής για προσθήκη στοιχείων ελέγχου</string>
     <string name="controls_seeding_in_progress">Φόρτωση προτάσεων</string>
     <string name="controls_structure_tooltip">Σύρετε για περισσότερα</string>
+    <string name="controls_unsupport_toggle_toast">"Αυτή η συσκευή δεν υποστηρίζει γρήγορες ενέργειες. Πατήστε παρατεταμένα για να ανοίξετε την εφαρμογή."</string>
     <string name="copy">Αντιγραφή</string>
     <string name="date_picker_lunar">Κινεζικό παραδοσιακό ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερ/νίας, ώρας</string>
@@ -170,6 +186,7 @@
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="note_header_first_enter_guide">Σύρετε προς τα κάτω για περισσότερα</string>
     <string name="notification_control_center">Ειδοποιήσεις &amp; Κέντρο Ελέγχου</string>
+    <string name="offline">Εκτός σύνδεσης</string>
     <string name="online">Σε σύνδεση</string>
     <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
     <string name="pc_todo_fast_create_hint">Εισάγετε  Τεστ και πατήστε \"Enter\" για να προσθέσετε μια ημιτελή εργασία</string>
@@ -291,22 +308,5 @@
     <string name="wireless_charging_tips_message">Τοποθετήστε τη συσκευή που θέλετε να φορτίζετε ασύρματα (π.χ. τηλέφωνο, smartwatch, ακουστικά) στο πίσω μέρος αυτού του τηλεφώνου. Βεβαιωθείτε ότι αυτό το τηλέφωνο έχει φορτιστεί τουλάχιστον %d%% πριν χρησιμοποιήσετε αντίστροφη ασύρματη φόρτιση.</string>
     <string name="wireless_charging_tips_sub_message">Η άλλη συσκευή πρέπει να υποστηρίζει το πρότυπο ασύρματης φόρτισης Qi.</string>
     <string name="wireless_charging_tips_title">Αντίστροφη ασύρματη φόρτιση</string>
-    <string name="controls_add_device_guide">Δεν υπάρχουν συσκευές εδώ ακόμα</string>
-    <string name="controls_click_to_add_device">Προσθήκη συσκευών</string>
-    <string name="controls_default_structure">Έξυπνες οικιακές συσκευές</string>
-    <string name="controls_edit_add_device_guide">Δεν υπάρχουν διαθέσιμες συσκευές για προσθήκη</string>
-    <string name="controls_edit_added_subtitle">Σύρετε αντικείμενα για αναδιάταξη</string>
-    <string name="controls_edit_added_title">Προστέθηκε</string>
-    <string name="controls_edit_done_button">Τέλος</string>
-    <string name="controls_edit_go_to_app_guide">Άνοιγμα</string>
-    <string name="controls_edit_not_added_title">Διαθέσιμη</string>
-    <string name="controls_loading_device">Εναλλαγή τοποθεσιών</string>
-    <string name="controls_not_found_device_toast">Αυτό το στοιχείο αφαιρέθηκε στην εφαρμογή</string>
-    <string name="controls_not_found_device_toast_mihome">Αυτό το στοιχείο αφαιρέθηκε στην εφαρμογή</string>
-    <string name="controls_offline_device_toast">Αυτή η συσκευή είναι εκτός σύνδεσης. Πατήστε παρατεταμένα για να ανοίξετε την εφαρμογή.</string>
-    <string name="controls_unsupport_toggle_toast">"Δεν μπορείτε να ελέγξετε αυτή τη συσκευή από εδώ. Πατήστε παρατεταμένα για να ανοίξετε την εφαρμογή."</string>
-    <string name="offline">Εκτός σύνδεσης</string>
-    <string name="accessibility_desc_add">Προσθήκη</string>
-    <string name="accessibility_desc_remove">Αφαίρεση</string>
 </resources>
 

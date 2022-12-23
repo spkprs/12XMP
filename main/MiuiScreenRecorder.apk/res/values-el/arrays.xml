@@ -15,4 +15,10 @@
         <item>Εσωτερικός χώρος</item>
         <item>Εξωτερικός χώρος</item>
      </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Χωρίς</item>
+        <item>Μικρόφωνο</item>
+        <item>Σύστημα</item>
+        <item>Και οι δύο</item>
+    </string-array>
 </resources>

@@ -157,6 +157,7 @@
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="privacy_settings">Απόρρητο</string>
     <string name="quit_recording">Έξοδος Εγγραφής οθόνης</string>
+    <string name="record_time_too_short">Το εγγεγραμμένο βίντεο είναι πολύ σύντομο</string>
     <string name="recording_failure">Αδυναμία εγγραφής, ξεκινήστε ξανά</string>
     <string name="recording_max_size">Η εγγραφή διακόπηκε και αποθηκεύτηκε επειδή το αρχείο βίντεου έφτασε στο όριο μεγέθους. Ξεκινήστε την εγγραφή από εκεί που σταματήσατε εάν δεν τελειώσατε.</string>
     <string name="recording_without_mic">Το Μικρόφωνο είναι απασχολημένο και είναι αδύνατη η εγγραφή ήχου</string>
