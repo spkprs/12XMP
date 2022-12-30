@@ -508,4 +508,6 @@
     <string name="carousel_privacy"><Data>"Διαβάστε και συμφωνήστε με τις οδηγίες του έμπιστου τρίτου παρόχου υπηρεσιών μας &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία χρήσης&lt;/a> πριν χρησιμοποιήσετε το Wallpaper Carousel."</Data></string>
     <string name="carousel_setting">Ρύθμιση οθόνης κλειδώματος</string>
     <string name="carousel_setting_sub">Η Wallpaper Carousel θα σας εμφανίζει νέες ιστορίες κάθε φορά που ξεκλειδώνετε τη συσκευή σας</string>
+    <string name="congratulation_pre_label">Μισό λεπτό...</string>
+    <string name="congratulation_pre_title">Προετοιμασία συστήματος...</string>
 </resources>

@@ -740,4 +740,12 @@
     <string name="user_agreement_wlan_permission_desc">Για τον έλεγχο του περιβάλλοντος σύνδεσης για θέματα ασφαλείας</string>
     <string name="user_agreement_wlan_permission_title_china">Ενεργοποίηση και απενεργοποίηση του WLAN</string>
     <string name="passport_vcode_what_app_send_prompt">Ο κωδικός επαλήθευσης του WhatsApp θα παραδοθεί στο τηλέφωνο ανάκτησής σας. &lt;font color=#1F93FF>%s&lt;/font></string>
+    <string name="confirm_bundled_phone_dialog_confirm">Επιβεβαίωση</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Επιβεβαίωση (%ds)</string>
+    <string name="current_account_can_use_pwd_login">Εισάγετε τον κωδικό σας για να συνδεθείτε</string>
+    <string name="keep_phone_ticket_login">Σύνδεση με κωδικό επαλήθευσης</string>
+    <string name="messenger_send_button_text">Αποστολή</string>
+    <string name="phone_ticket_login">Σύνδεση με κωδικό επαλήθευσης</string>
+    <string name="phone_ticket_register">Δημιουργία λογαριασμού με αριθμό τηλεφώνου</string>
+    <string name="use_google_account_login">Σύνδεση με Google</string>
 </resources>
