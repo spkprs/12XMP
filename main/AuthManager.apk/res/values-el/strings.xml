@@ -269,4 +269,7 @@
     <string name="perm_educate_post_notification">Οι ειδοποιήσεις μπορεί να συνοδεύονται από ήχο και δόνηση καθώς εμφανίζονται στον Πίνακα ειδοποιήσεων και στα εικονίδια της αρχικής οθόνης. Μπορείτε να αλλάξετε τις προτιμήσεις ειδοποιήσεων στις Ρυθμίσεις.</string>
     <string name="carwith_grant_permission_tips_when_lock">Ξεκλειδώστε πρώτα το τηλέφωνό σας</string>
     <string name="permdesc_read_phone_numbers">Επιτρέπετε στο %1$s να διαβάζει αριθμούς τηλεφώνου σε αυτή τη συσκευή;</string>
+    <string name="deny_fine_keep_blur_location">Κατά προσέγγιση τοποθεσία</string>
+    <string name="tilte_request_coarse_location">Επιτρέπετε σε %1$s να έχει πρόσβαση στην κατά προσέγγιση τοποθεσία σας;</string>
+    <string name="tilte_request_fine_location">Να επιτρέπετε σε %1$s να έχει πρόσβαση στην ακριβή σας τοποθεσία ή να χρησιμοποιεί την κατά προσέγγιση τοποθεσία;</string>
 </resources>

@@ -944,4 +944,5 @@
     <string name="broken_screen_rescue_service_turn_off_confirm">Απενεργοποίηση αντιγράφων ασφαλείας με κατεστραμμένη οθόνη τώρα;</string>
     <string name="broken_screen_rescue_service_turn_on">Ενεργοποίηση</string>
     <string name="broken_screen_rescue_service_turn_on_confirm">Ενεργοποίηση αντιγράφων ασφαλείας με κατεστραμμένη οθόνη τώρα;</string>
+    <string name="backup_for_broken_screen">Αντίγραφα με κατεστραμμένη οθόνη</string>
 </resources>

@@ -9254,4 +9254,7 @@ Xiaomi Cloud
     <string name="sunlight_low_power_notification">"Αδυναμία ενεργοποίησης λειτουργίας Ηλιοφάνειας. Η μπαταρία είναι πολύ χαμηλή."</string>
     <string name="enable_crbt_pref_summary">"Να μην εμφανίζονται βίντεο προφίλ για εισερχόμενες κλήσεις κατά τη δοκιμή"</string>
     <string name="enable_crbt_pref_title">Απενεργοποίηση βίντεο προφίλ για εισερχόμενες κλήσεις</string>
+    <string name="bluetooth_inband_ringing">Αποδοχή ήχων κλήσης εντός ακουστικών</string>
+    <string name="bluetooth_inband_ringing_summary">Επιτρέψτε την αναπαραγωγή ήχων κλήσης τηλεφώνου μέσω ακουστικών Bluetooth. Αυτή η λειτουργία μπορεί να χρησιμοποιηθεί μόνο όταν είναι συνδεδεμένη μία μόνο συσκευή και ενδέχεται να μην είναι συμβατή με ορισμένες συσκευές.</string>
+    <string name="wifi_tether_high_temperature_toast">Σε προστασία υψηλής θερμοκρασίας, η λειτουργία δεν είναι διαθέσιμη προσωρινά</string>
 </resources>

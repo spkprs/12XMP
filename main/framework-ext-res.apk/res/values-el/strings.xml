@@ -482,4 +482,12 @@
     <string name="wallpaper_group_petros_koublis_title">Ονειροπολήσεις</string>
     <string name="wallpaper_group_glassy_light_title">Πολυστρωματικό γυαλί</string>
     <string name="wallpaper_group_shadow_geometry_title">Γεωμετρία των σκιών</string>
+    <string name="freeform_guide_tip_dock">Σύρετε μια εφαρμογή στο κέντρο της οθόνης για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.</string>
+    <string name="freeform_guide_tip_down">Για να κλείσετε ένα αιωρούμενο παράθυρο, πατήστε παρατεταμένα τη γραμμή ενεργειών και, στη συνέχεια, τραβήξτε την γρήγορα προς τα πάνω.</string>
+    <string name="freeform_guide_tip_drag">Για να αλλάξετε το μέγεθος του παραθύρου, πατήστε παρατεταμένα τη γωνία του και σύρετε το</string>
+    <string name="freeform_guide_tip_notification">Για να ανοίξετε ένα αιωρούμενο παράθυρο, πατήστε παρατεταμένα τη γραμμή ενεργειών και, στη συνέχεια, τραβήξτε την προς τα κάτω.</string>
+    <string name="freeform_guide_tip_pin">Για να ελαχιστοποιήσετε το παράθυρο, πατήστε παρατεταμένα τη γραμμή ενεργειών και, στη συνέχεια, σύρετε γρήγορα το παράθυρο στην άκρη της οθόνης.</string>
+    <string name="freeform_guide_tip_pin_up">Σύρετε το ελαχιστοποιημένο παράθυρο για να το επαναφέρετε</string>
+    <string name="freeform_guide_tip_sidebar">Σύρετε προς τα έξω για να ανοίξετε την πλευρική μπάρα</string>
+    <string name="freeform_guide_tip_top">Για να μετακινήσετε το παράθυρο, πατήστε παρατεταμένα τη γραμμή ενεργειών και, στη συνέχεια, σύρετε το παράθυρο</string>
 </resources>

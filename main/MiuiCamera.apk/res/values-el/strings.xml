@@ -1946,4 +1946,6 @@
     <string name="ultra_pixel_capture_process_hint">Επεξεργασία ληφθείσας εικόνας…</string>
     <string name="ultra_pixel_capture_process_tip">Επεξεργασία εικόνας…</string>
     <string name="ultra_pixel_pro_xxxm_message">"Αυτή η λειτουργία σας επιτρέπει να βελτιώσετε την ευκρίνεια της εικόνας. Όταν είναι ενεργή, η επεξεργασία των φωτογραφιών ίσως να διαρκεί περισσότερο χρόνο."</string>
+    <string name="msg_toast_doc4_recognition_failed">Παρουσιάστηκε σφάλμα. Δοκίμασε ξανά.</string>
+    <string name="accessibility_doc4_entrance_tip">Αναγνώριση κειμένου</string>
 </resources>
