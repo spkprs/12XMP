@@ -692,4 +692,12 @@
          <item quantity="μία">%1$d οθόνη</item>
          <item quantity="άλλες">%1$d οθόνες</item>
      </plurals>
+    <plurals name="delete_brust_title">
+        <item quantity="one">Διαγραφή %d λήψεων ριπής;</item>
+        <item quantity="other">Διαγραφή %d λήψης ριπής;</item>
+    </plurals>
+    <plurals name="delete_media_title">
+        <item quantity="one">Διαγραφή %d στοιχείου?</item>
+        <item quantity="other">Διαγραφή %d στοιχείων?</item>
+    </plurals>
 </resources>

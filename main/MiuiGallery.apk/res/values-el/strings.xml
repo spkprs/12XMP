@@ -683,11 +683,12 @@
     <string name="delete_album_msg_format_local">Διαγραφή %1$s %2$s?</string>
     <string name="delete_album_success">Το άλμπουμ διαγράφηκε</string>
     <string name="delete_from_all_devices_and_cloud">από όλες τις συσκευές και από το Xiaomi Cloud</string>
-    <string name="delete_from_cloud">Διαγραφή στοιχείων από το Xiaomi Cloud</string>
+    <string name="delete_from_cloud">Διαγραφή και από το cloud</string>
     <string name="delete_from_this_album_and_cloud">από αυτό το άλμπουμ και από το Xiaomi Cloud</string>
     <string name="delete_in_album">Τα επιλεγμένα στοιχεία θα διαγραφούν από το Cloud και από τις συνδεδεμένες συσκευές, θα αποθηκευτούν στον κάδο του Cloud για %d ημέρες, εάν έχετε δωρεάν πρόγραμμα αποθήκευσης στο Cloud. Διαγραφή;</string>
     <string name="delete_in_home_page">Τα επιλεγμένα στοιχεία θα διαγραφούν από το Cloud και από τις συνδεδεμένες συσκευές, θα αποθηκευτούν στον κάδο του Cloud για %d ημέρες, εάν έχετε δωρεάν πρόγραμμα αποθήκευσης στο Cloud. Διαγραφή;</string>
     <string name="delete_in_process">Διαγραφή…</string>
+    <string name="delete_media_for_cloud">Τα επιλεγμένα στοιχεία θα αφαιρεθούν από το σύννεφο και από όλες τις συγχρονισμένες συσκευές στα Πρόσφατα διαγραμμένα στοιχεία.</string>
     <string name="delete_origin">Διαγραφή στοιχείων από το αρχικό άλμπουμ</string>
     <string name="delete_other_shared_images">Αδυναμία διαγραφής φωτογραφιών που διαμοιράστηκαν από άλλους</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d διαγράφηκαν, %2$d διατηρήθηκαν</string>
@@ -805,6 +806,7 @@
     <string name="enable_secret_album_upload_message">Όλα τα προσωπικά στοιχεία θα συγχρονιστούν με το cloud αφού ενεργοποιήσετε αυτή τη λειτουργία. Ενεργοποίηση τώρα;</string>
     <string name="enter_choice_mode">Εισήχθη διάλογος διαμοιρασμού</string>
     <string name="enter_email_hint">Εισαγωγή διεύθυνσης E-mail</string>
+    <string name="equivalent_focal_length">(Ισοδύναμο εστιακό μήκος %dmm)</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_album_not_exist">Δεν υπάρχει το άλμπουμ.</string>
@@ -813,10 +815,12 @@
     <string name="error_build_thumbnail_tip">Αδύνατη η λήψη μικρογραφίας.</string>
     <string name="error_change_storage_action">Κάντε εναλλαγή αποθήκευσης</string>
     <string name="error_change_storage_msg">Μεταβείτε στην επιλογή Ρυθμίσεις > Αποθήκευση, αλλάξτε αποθήκευση εκεί, και δοκιμάστε ξανά.</string>
+    <string name="error_check_network_later">Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά</string>
     <string name="error_cloud_not_active">Δεν υπάρχουν φωτογραφίες  στο Xiaomi Cloud</string>
     <string name="error_connect_timeout_action">Επιλέξτε δίκτυο</string>
     <string name="error_connect_timeout_msg">Συνδεθείτε σε διαφορετικό δίκτυο και δοκιμάστε ξανά.</string>
     <string name="error_connect_timeout_tip">Λήξη χρονικού ορίου σύνδεσης.</string>
+    <string name="error_create_share_album_fail_default">"Δεν ήταν δυνατή η δημιουργία λόγω ενός άγνωστου σφάλματος"</string>
     <string name="error_decode_tip">Η μορφή αρχείου δεν υποστηρίζεται ή τα αρχεία είναι κατεστραμμένα.</string>
     <string name="error_download_tip">Αδύνατη η λήψη</string>
     <string name="error_dup_binded_email">Αυτή η διεύθυνση email έχει ήδη συσχετιστεί με άλλον λογαριασμό Mi.</string>
@@ -1166,6 +1170,7 @@
     <string name="filter_travel_charlotte">Charlotte</string>
     <string name="finish_create_baby_album_toast">Δημιουργήθηκε άλμπουμ για το \"%s\" στο Xiaomi Cloud</string>
     <string name="finish_fill_baby">Δημιουργία</string>
+    <string name="first_delete_media_for_cloud">Τα επιλεγμένα στοιχεία θα αφαιρεθούν από το σύννεφο και όλες τις συγχρονισμένες συσκευές με τα Πρόσφατα διαγραμμένα στοιχεία και θα διαγραφούν οριστικά μετά από %d ημέρες, εκτός εάν έχετε πρόγραμμα αποθήκευσης στο σύννεφο. Διαγραφή ούτως ή άλλως;</string>
     <string name="first_time_add_video_to_secret_tips">Ενημέρωση Συλλογής για προσθήκη βίντεο στο ιδιωτικό άλμπουμ</string>
     <string name="flash_off">Χωρίς φλας</string>
     <string name="flash_on">Με φλας</string>
@@ -1231,6 +1236,8 @@
     <string name="group_header_title_user_create_album">Τα άλμπουμ μου</string>
     <string name="has_invalid_recipient">Μη έγκυρος παραλήπτης (ες): %1$s</string>
     <string name="have_known">Κατανοητό</string>
+    <string name="hdr_show_hint">Ρυθμίστε την οθόνη ώστε να εμφανίζονται περισσότερες λεπτομέρειες στις σκιές και τα φωτεινά σημεία σε αντικείμενα με υψηλό δυναμικό εύρος</string>
+    <string name="hdr_show_title">Εμφάνιση HDR</string>
     <string name="hello_blank_fragment">Γεια σου κενό κομμάτι</string>
     <string name="help">Δεν μπορείτε να βρείτε συσκευές;</string>
     <string name="help_content">Εάν δεν μπορείτε να βρείτε τη συσκευή που χρειάζεστε, ζητήστε από το άλλο άτομο να ενεργοποιήσει το Mi Share.</string>
@@ -2026,6 +2033,8 @@
     <string name="permission_optional_category">Προαιρετικές Άδειες</string>
     <string name="permission_phone_desc">Για αιτήσεις δικτύου που βασίζονται στο ID συσκευής</string>
     <string name="permission_phone_name">Τηλέφωνο</string>
+    <string name="permission_post_notification_desc">Για την αποστολή ειδοποιήσεων σχετικά με κοινόχρηστα άλμπουμ και την ενημέρωση της κατάστασης συγχρονισμού</string>
+    <string name="permission_read_media_images_desc">Για πρόσβαση και αποθήκευση φωτογραφιών και βίντεο κατά τη χρήση της Συλλογής</string>
     <string name="permission_require_category">Υποχρεωτικές Άδειες</string>
     <string name="permission_storage_desc">Για εμφάνιση, επεξεργασία και αποθήκευση φωτογραφιών</string>
     <string name="permission_storage_name">Αποθηκ. χώρος</string>
@@ -2277,6 +2286,8 @@
     <string name="privacy_rejected_map_detail">Η απόσυρση της συγκατάθεσής σας στην Πολιτική Απορρήτου του Χάρτη Συλλογής θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών της. Άλλες βασικές λειτουργίες και υπηρεσίες του Χάρτη Συλλογής δεν θα επηρεαστούν. Αποσύρετε ούτως ή άλλως;</string>
     <string name="privacy_rejected_map_new">Ανάκληση συγκατάθεσής Χάρτης Συλλογής Δήλωση τρίτων κοινής χρήσης δεδομένων</string>
     <string name="privacy_rejected_pos_btn">Ανάκληση</string>
+    <string name="privacy_share_album_confirm">Όροι και προϋποθέσεις</string>
+    <string name="privacy_share_album_confirm_detail">Τα κοινόχρηστα άλμπουμ τροφοδοτούνται από το Xiaomi Cloud. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, διαβάστε και συμφωνήστε με την &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Συμφωνία χρήσης>&lt;/a>&lt;/font> και &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Πολιτική απορρήτου&lt;/a>&lt;/font> μας.</string>
     <string name="private_entry_lock_state_activated_text">Αφήστε για άνοιγμα ιδιωτικού φακέλου</string>
     <string name="private_entry_lock_state_enterd_text">Τραβήξτε προς τα κάτω για να ανοίξετε τον ιδιωτικό φάκελο</string>
     <string name="problem_feedback">Σχόλια</string>
@@ -2624,6 +2635,7 @@
     <string name="share_album_home_pref_operation_open">Ενεργοποίηση</string>
     <string name="share_album_home_pref_unshare_nonOwner_summary">Χωρίς κοινή χρήση</string>
     <string name="share_album_home_share_to_home">Έξυπνο Σπίτι</string>
+    <string name="share_album_home_switch_family">Εναλλαγή</string>
     <string name="share_album_home_text_tip">Αυτό το άλμπουμ θα μοιραστεί με την οικογενειακή σας ομάδα. Θα αναπαράγεται επίσης ως προβολή διαφανειών στις οθόνες που είναι διαθέσιμες στα μέλη της οικογενειακής σας ομάδας.</string>
     <string name="share_album_invite_send_failed">"Δεν ήταν δυνατή η αποστολή της πρόσκλησης. Περιμένετε ένα-δύο λεπτά και δοκιμάστε ξανά."</string>
     <string name="share_album_invite_send_success">Η πρόσκληση στάλθηκε με επιτυχία</string>
@@ -2633,6 +2645,21 @@
     <string name="share_album_pref_auto_add_photos_summary">Επιλέξτε άτομα για να προσθέσετε τις νέες φωτογραφίες τους σε αυτό το άλμπουμ αυτόματα</string>
     <string name="share_album_pref_auto_add_photos_title">Αυτόματη προσθήκη των φωτογραφιών τους</string>
     <string name="share_album_qr_code">Κωδικός QR του άλμπουμ</string>
+    <string name="share_album_risk_control_invalid_name">"Δεν είναι δυνατή η χρήση αυτού του ονόματος άλμπουμ. Επιλέξτε ένα άλλο και προσπαθήστε ξανά."</string>
+    <string name="share_album_risk_control_tip_off">Αναφορά</string>
+    <string name="share_album_risk_control_tip_off_cate">Τύπος περιεχομένου</string>
+    <string name="share_album_risk_control_tip_off_cate_illegal">Παράνομο</string>
+    <string name="share_album_risk_control_tip_off_cate_other">Άλλο</string>
+    <string name="share_album_risk_control_tip_off_cate_political">Πολιτικό</string>
+    <string name="share_album_risk_control_tip_off_cate_sex">Σεξουαλικό</string>
+    <string name="share_album_risk_control_tip_off_cate_violence">Βίαιο</string>
+    <string name="share_album_risk_control_tip_off_dialog_message">Εάν αναφέρετε κοινόχρηστο περιεχόμενο άλμπουμ, μόνο το άτομο που ανέβασε αυτό το περιεχόμενο θα μπορεί να το δει. Αναφορά τώρα;</string>
+    <string name="share_album_risk_control_tip_off_dialog_title">Αναφορά</string>
+    <string name="share_album_risk_control_tip_off_select">Επιλογή τύπου περιεχομένου</string>
+    <string name="share_album_risk_control_tip_off_success">Αναφέρθηκε επιτυχώς</string>
+    <string name="share_album_risk_control_too_many_albums">"Δεν μπορείτε να δημιουργήσετε περισσότερα κοινόχρηστα άλμπουμ"</string>
+    <string name="share_album_risk_control_too_many_sharers_accept">"Δεν μπορείτε να προσθέσετε άλλα μέλη"</string>
+    <string name="share_album_risk_control_too_many_sharers_invite">"Δεν μπορείτε να καλέσετε άλλα μέλη"</string>
     <string name="share_album_sync_textline_action_continue">Συνέχεια</string>
     <string name="share_album_sync_textline_action_login">Είσοδος</string>
     <string name="share_album_sync_textline_action_retry">Δοκιμάστε ξανά</string>
@@ -2736,6 +2763,7 @@
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="sort">Ταξινόμηση</string>
+    <string name="sort_and_showmode">Ταξινόμηση και προβολή</string>
     <string name="special_type_8k">AI 8K</string>
     <string name="special_type_ai_audio">AI Ήχος</string>
     <string name="special_type_eye_repair">Διόρθωση κλειστών ματιών με χρήση AI</string>
@@ -2793,6 +2821,9 @@
     <string name="stop_migration_msg">Δεν θα μπορείτε να συνεχίσετε τη μεταφορά εάν τη διακόψετε τώρα. Εάν αποφασίσετε να διακόψετε τη μεταφορά, μπορείτε να επισκεφθείτε το i.mi.com για να κατεβάσετε τα στοιχεία που εξακολουθούν να είναι αποθηκευμένα στο Xiaomi Cloud.</string>
     <string name="stop_migration_ok">Διακοπή</string>
     <string name="stop_migration_title">Διακοπή μεταφοράς τώρα;</string>
+    <string name="stop_use_secret_cancel">Όχι τώρα</string>
+    <string name="stop_use_secret_ok">Μεταφορά στοιχείων</string>
+    <string name="stop_use_secret_title">Το ιδιωτικό άλμπουμ δεν είναι πλέον διαθέσιμο</string>
     <string name="storage_description_primary">Εσωτερικός χώρος</string>
     <string name="storage_description_sdcard">SD card</string>
     <string name="storage_description_usb">Αποθήκευση USB</string>
@@ -3074,6 +3105,7 @@
     <string name="trash_purge_all">Όλες οι φωτογραφίες και τα βίντεο θα διαγραφούν από το cloud. Δεν θα μπορείτε να τις επαναφέρετε. Διαγραφή οπωσδήποτε;</string>
     <string name="trash_purge_all_cloud">Όλα τα στοιχεία στον κάδο απορριμμάτων θα διαγραφούν οριστικά από το cloud και όλες τις συγχρονισμένες συσκευές. Να διαγραφούν οπωσδήποτε;</string>
     <string name="trash_purge_all_local">Όλα τα στοιχεία στον κάδο απορριμμάτων θα διαγραφούν μόνιμα. Να διαγραφούν οπωσδήποτε;</string>
+    <string name="trash_purge_all_media">"Διαγράφετε οριστικά όλα τα στοιχεία από το cloud και όλες τις συγχρονισμένες συσκευές; Δεν μπορείτε να αντιστρέψετε αυτήν την ενέργεια."</string>
     <string name="trash_purge_dialog_title">Καθαρισμός απορριμμάτων</string>
     <string name="trash_purge_positive_button">Διαγραφή</string>
     <string name="trash_size">Διαγραμμένα (%s)</string>
@@ -3562,19 +3594,7 @@
     <string name="yuzhitiaojie">Κλίμακα προσαρμογής πάχους</string>
     <string name="zi_ding_yi_wenben">Προσαρμοσμένο μέγεθος</string>
     <string name="zman_title">Ασφαλής κοινή χρήση</string>
-    <string name="stop_use_secret_cancel">Όχι τώρα</string>
     <string name="stop_use_secret_msg">"Οι φωτογραφίες και τα βίντεό σας δεν συγχρονίζονται πλέον με το Xiaomi Cloud. Δεν θα μπορείτε να χρησιμοποιήσετε το προσωπικό σας άλμπουμ, καθώς βασίζεται στην κρυπτογράφηση στο cloud.
 Μέχρι το %1$s, μπορείτε να μεταφέρετε τα στοιχεία σας στο Google Photos ή να επισκεφθείτε το i.mi.com για να τα κατεβάσετε. Μετά από αυτό, τα στοιχεία που εξακολουθούν να είναι αποθηκευμένα στο Xiaomi Cloud θα διαγραφούν οριστικά.
 %2$s"</string>
-    <string name="stop_use_secret_ok">Μεταφορά στοιχείων</string>
-    <string name="stop_use_secret_title">Το ιδιωτικό άλμπουμ δεν είναι πλέον διαθέσιμο</string>
-	<string name="equivalent_focal_length">(Ισοδύναμο εστιακό μήκος %dmm)</string>
-	<string name="error_check_network_later">Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά</string>
-	<string name="error_create_share_album_fail_default">"Δεν ήταν δυνατή η δημιουργία λόγω ενός άγνωστου σφάλματος"</string>
-	<string name="hdr_show_hint">Ρυθμίστε την οθόνη ώστε να εμφανίζονται περισσότερες λεπτομέρειες στις σκιές και τα φωτεινά σημεία σε αντικείμενα με υψηλό δυναμικό εύρος</string>
-	<string name="hdr_show_title">Εμφάνιση HDR</string>
-	<string name="privacy_share_album_confirm">Όροι και προϋποθέσεις</string>
-	<string name="privacy_share_album_confirm_detail">Τα κοινόχρηστα άλμπουμ τροφοδοτούνται από το Xiaomi Cloud. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, διαβάστε και συμφωνήστε με την &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Συμφωνία χρήσης>&lt;/a>&lt;/font> και &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Πολιτική απορρήτου&lt;/a>&lt;/font> μας.</string>
-	<string name="share_album_home_switch_family">Εναλλαγή</string>
-	<string name="sort_and_showmode">Ταξινόμηση και προβολή</string>
 </resources>
