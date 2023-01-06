@@ -2425,4 +2425,5 @@
     <string name="pref_sim_item_no_default">Χωρίς προεπιλογή</string>
     <string name="sim_select_dialog_title">Επιλογή κάρτας SIM</string>
     <string name="speed_limit_card_toast">"Χρησιμοποιήσατε τα δεδομένα πλήρους ταχύτητας. Η ταχύτητα σύνδεσης θα είναι πλέον περιορισμένη."</string>
+    <string name="no_voice_capability">"Αδυναμία επικοινωνίας με τον πάροχο. Δοκιμάστε σε λίγο ξανά."</string>
 </resources>

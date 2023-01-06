@@ -272,4 +272,7 @@
     <string name="deny_fine_keep_blur_location">Κατά προσέγγιση τοποθεσία</string>
     <string name="tilte_request_coarse_location">Επιτρέπετε σε %1$s να έχει πρόσβαση στην κατά προσέγγιση τοποθεσία σας;</string>
     <string name="tilte_request_fine_location">Να επιτρέπετε σε %1$s να έχει πρόσβαση στην ακριβή σας τοποθεσία ή να χρησιμοποιεί την κατά προσέγγιση τοποθεσία;</string>
+    <string name="HIPS_Perm_operator_shake">Πρόσβαση στα δεδομένα επιταχυνσιόμετρου</string>
+    <string name="HIPS_Perm_operator_shake_Desc">Τα δεδομένα επιταχυνσιόμετρου χρησιμοποιούνται για την παρακολούθηση του προσανατολισμού και της κίνησης (π.χ. κούνημα, κλίση και περιστροφή).</string>
+    <string name="permdesc_shake">Επιτρέπετε σε %1$s να έχει πρόσβαση σε δεδομένα επιταχυνσιόμετρου;</string>
 </resources>
