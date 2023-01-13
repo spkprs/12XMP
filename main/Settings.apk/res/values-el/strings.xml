@@ -2529,6 +2529,7 @@
     <string name="effect_preview">Προεπισκόπηση</string>
     <string name="eighthours">8 ώρες</string>
     <string name="elastic_text">Οι προτροπές και τα αναπτυσσόμενα μενού εμφανίζονται με ένα ελαστικό αναδυόμενο παράθυρο που εστιάζει περισσότερο σε αυτά τα αντικείμενα</string>
+    <string name="embedded_window_guide_text">Όταν η οθόνη εμφανίζεται οριζόντια, οι εφαρμογές θα εμφανίζονται παράλληλα η μία με την άλλη. Οι εφαρμογές θα είναι κεντραρισμένες όταν αυτή η λειτουργία είναι απενεργοποιημένη.</string>
     <string name="emergency_address_summary">Η διεύθυνση που χρησιμοποιείται από τις υπηρεσίες έκτακτης ανάγκης, ως η τοποθεσία σας εάν πραγματοποιήσετε μια κλήση στο 911 χρησιμοποιώντας Wi-Fi</string>
     <string name="emergency_address_title">Ενημέρωση διεύθυνσης έκτακτης ανάγκης</string>
     <string name="emergency_info_contextual_card_summary">Ιατρικές πληροφορίες, επαφές έκτακτης ανάγκης</string>

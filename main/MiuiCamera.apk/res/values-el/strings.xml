@@ -565,10 +565,10 @@
     <string name="custom_watermark_words_input_hint">Εισαγωγή κειμένου</string>
     <string name="custom_watermark_words_save_success">Επιτυχής αποθήκευση</string>
     <string name="cv_lens_black_white">Μαύρο &amp; άσπρο</string>
-    <string name="cv_lens_msg">Τραβήξτε εκπληκτικές φωτογραφίες με φακούς Pro</string>
+    <string name="cv_lens_msg">Τραβήξτε εκπληκτικές φωτογραφίες με το σύστημα Κεντρικού-φακού</string>
     <string name="cv_lens_rotary_focus">Θολή περιστροφή</string>
     <string name="cv_lens_soft_focus">Απαλή εστίαση</string>
-    <string name="cv_lens_title">Φακοί Pro</string>
+    <string name="cv_lens_title">Σύστημα Κεντρικού-φακού</string>
     <string name="cvtype_btn_select">Χρήση \"%1$s\"</string>
     <string name="cvtype_hint_title">Επιλογή στυλ</string>
     <string name="cvtype_item_title1">Φυσικά και ρεαλιστικά</string>
@@ -728,7 +728,7 @@
     <string name="fromkeyguard_not_permission">Για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία, ξεκλειδώστε πρώτα τη συσκευή σας.</string>
     <string name="front_camera_hint_text_place">Η λήψη selfies θα είναι ευκολότερη\nαν περιστρέψετε το τηλέφωνό σας</string>
     <string name="front_camera_hint_text_rotate">Περιστρέψτε το τηλέφωνό σας</string>
-    <string name="guide_pop_window_msg_cv_lens">Πατήστε για δοκιμή φακών Pro</string>
+    <string name="guide_pop_window_msg_cv_lens">Πατήστε για δοκιμή σύστημα Κεντρικού-φακού</string>
     <string name="hand_gesture_open_tip">Δείξτε την παλάμη για εκκίνηση του χρονοδιακόπτη</string>
     <string name="hand_gesture_tip">Κλείστρο παλάμης</string>
     <string name="hibernate_hint">Αγγίξτε την οθόνη για επαναφορά της Κάμερας</string>
@@ -1846,7 +1846,7 @@
     <string name="widget_camera_lens_90mm_description">Ενενήντα χιλιοστά</string>
     <string name="widget_camera_lens_description">Πειραματιστείτε με την εστιακή απόσταση</string>
     <string name="widget_camera_lens_none_description">Φακός πενήντα χιλιοστών για πορτρέτα</string>
-    <string name="widget_camera_lens_talk_back">Φακοί Pro</string>
+    <string name="widget_camera_lens_talk_back">Σύστημα Κεντρικού-φακού</string>
     <string name="pref_cv_watermark_location_title">Συντεταγμένες</string>
     <string name="pref_cv_watermark_time_title">Χρόνος</string>
     <string name="accessibility_beauty_compare">Προβολή εικόνας με ή χωρίς Beautify</string>
@@ -1917,7 +1917,7 @@
     <string name="beauty_sm_texture">Δέρμα</string>
     <string name="accessibility_auto_night_tip_off">Ανενεργή Αυτόματη Νυχτερινή λειτουργία</string>
     <string name="accessibility_auto_night_tip_on">Ενεργή Αυτόματη Νυχτερινή λειτουργία</string>
-    <string name="accessibility_cv_lens_panel_on">Άνοιγμα πίνακα Φακών Pro</string>
+    <string name="accessibility_cv_lens_panel_on">Ανοίξτε τον πίνακα του συστήματος Κεντρικού-φακού</string>
     <string name="accessibility_doc4_content_page_all_text_report_format">Αναγνωρισμένο κείμενο: %s</string>
     <string name="accessibility_doc4_content_page_selected_text_format">Επιλεγμένο κείμενο: %s</string>
     <string name="accessibility_doc4_content_page_unselected_report">Πατήστε για επιλογή κειμένου</string>
@@ -1948,4 +1948,16 @@
     <string name="ultra_pixel_pro_xxxm_message">"Αυτή η λειτουργία σας επιτρέπει να βελτιώσετε την ευκρίνεια της εικόνας. Όταν είναι ενεργή, η επεξεργασία των φωτογραφιών ίσως να διαρκεί περισσότερο χρόνο."</string>
     <string name="msg_toast_doc4_recognition_failed">Παρουσιάστηκε σφάλμα. Δοκίμασε ξανά.</string>
     <string name="accessibility_doc4_entrance_tip">Αναγνώριση κειμένου</string>
+    <string name="accessibility_aperture_panel_on">Άνοιγμα πίνακα Διαφράγματος</string>
+    <string name="mimoji_bg_center">Διασταυρώσεις</string>
+    <string name="mimoji_bg_classroom">Αίθουσα</string>
+    <string name="mimoji_bg_diagonal">Πλαγιά</string>
+    <string name="mimoji_bg_forest">Δάσος</string>
+    <string name="mimoji_bg_garden">Κήπος</string>
+    <string name="mimoji_bg_indoor">Στούντιο</string>
+    <string name="mimoji_bg_station">Σταθμός τρένου</string>
+    <string name="mimoji_bg_wall">Παλάτι</string>
+    <string name="module_name_microfilm">Σύντομη Ταινία</string>
+    <string name="settings_camera_lens_auto_switch_description">Αυτόματη εναλλαγή μεταξύ Κεντρικού και Τηλεφακού ανάλογα με την απόσταση και τη φωτεινότητα</string>
+    <string name="settings_camera_lens_auto_switch_title">Αυτόματη ρύθμιση φακού</string>
 </resources>
