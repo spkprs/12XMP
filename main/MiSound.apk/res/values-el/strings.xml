@@ -325,7 +325,7 @@
     <string name="speaker_scenario_selection">Έκδοση ηχητικών εφέ ηχείου</string>
     <string name="speaker_scenario_selection_another">Αρχικό</string>
     <string name="speaker_scenario_selection_default">DXO</string>
-    <string name="start_test_sound">Ξεκινήστε τη δοκιμή</string>
+    <string name="start_test_sound">Έναρξη δοκιμής</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sure_give_up_test">Θα πρέπει να ξεκινήσετε την επόμενη φορά εάν σταματήσετε τη δοκιμασία τώρα. Παύση ούτως ή άλλως;</string>
@@ -337,4 +337,5 @@
     <string name="transmission_volume_option_title">Ένταση μικροφώνου</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="app_disable_description_title">Απεν/ποίηση αυτής της εφαρμογής?</string>
 </resources>

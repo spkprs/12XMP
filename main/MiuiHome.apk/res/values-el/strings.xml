@@ -952,4 +952,5 @@
     <string name="dock_and_folder_not_edit_icon_tip">Για επεξεργασία, μετακινήστε πρώτα την εφαρμογή από την μπάρα και το φάκελο</string>
     <string name="dock_not_edit_icon_tip">Για επεξεργασία, μετακινήστε πρώτα την εφαρμογή από  την μπάρα.</string>
     <string name="folder_not_edit_icon_tip">Για επεξεργασία, μετακινήστε πρώτα την εφαρμογή από το φάκελο.</string>
+    <string name="switch_mode_tip">Μισό λεπτό…</string>
 </resources>
