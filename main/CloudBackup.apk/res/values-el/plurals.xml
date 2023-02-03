@@ -41,4 +41,8 @@
         <item quantity="other">Επαναφορά %d εφαρμ.</item>
         <item quantity="one">Επαναφορά %d εφαρμ.</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">"Δεν έχετε δημιουργήσει αντίγραφα των στοιχείων σας εδώ και %s εβδομάδες. Πατήστε για να δείτε πώς μπορείτε να δημιουργήσετε αυτόματα."</item>
+        <item quantity="one">"Δεν έχετε δημιουργήσει αντίγραφα των στοιχείων σας εδώ και %s εβδομάδες. Πατήστε για να δείτε πώς μπορείτε να δημιουργήσετε αυτόματα."</item>
+    </plurals>
 </resources>

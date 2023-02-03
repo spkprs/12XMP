@@ -108,8 +108,8 @@
 	<string name="cloud_app_restore_success">Οι εφαρμογές αποκαταστάθηκαν</string>
 	<string name="cloud_app_restore_wifi_prompt">Για την επαναφορά από ένα αντίγραφο ασφαλείας Xiaomi Cloud, πρέπει να συνδεθείτε σε ένα δίκτυο Wi‑Fi.</string>
 	<string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-	<string name="cloud_back_up_detail_discription">Αυτά τα στοιχεία θα αντιγραφούν στο Xiaomi Cloud όταν η συσκευή σας είναι συνδεδεμένη σε Wi‑Fi: \n*  Εφαρμογές, Αρχική οθόνη, Ταπετσαρίες \n*  Ξυπνητήρια, ρολόι και ρυθμίσεις ώρας \n*  Ρυθμίσεις ειδοποιήσεων \nΣημείωση: Τα δεδομένα εφαρμογών που έχετε εγκαταστήσει δεν θα αντιγραφούν στο Xiaomi Cloud.</string>
-	<string name="cloud_back_up_detail_discription_china">Θα δημιουργηθεί αντίγραφο αυτών των στοιχείων στο Xiaomi Cloud όταν συνδεθείτε σε WiFi:\n*  Εφαρμογές, διάταξη αρχικής οθόνης και ταπετσαρίες \n*  Ξυπνητήρι, ρολόι και ρυθμίσεις ώρας \n*  Ρυθμίσεις ειδοποιήσεων \n*  MIUI και ρυθμίσεις συστήματος \nΣημείωση: Δεν θα δημιουργηθεί αντίγραφο των δεδομένων για τις εγκατεστημένες εφαρμογές, στο Xiaomi Cloud.</string>
+	<string name="cloud_back_up_detail_discription">Αυτά τα στοιχεία θα αντιγραφούν στο Xiaomi Cloud όταν η συσκευή σας είναι συνδεδεμένη σε Wi‑Fi: \n*  Εφαρμογές, Αρχική οθόνη, Ταπετσαρίες \n*  Αφυπνίσεις, ρολόι και ρυθμίσεις ώρας \n*  Ρυθμίσεις ειδοποιήσεων \nΣημείωση: Τα δεδομένα εφαρμογών που έχετε εγκαταστήσει δεν θα αντιγραφούν στο Xiaomi Cloud.</string>
+	<string name="cloud_back_up_detail_discription_china">Θα δημιουργηθεί αντίγραφο αυτών των στοιχείων στο Xiaomi Cloud όταν συνδεθείτε σε WiFi:\n*  Εφαρμογές, διάταξη αρχικής οθόνης και ταπετσαρίες \n*  Αφυπνίσεις, ρολόι και ρυθμίσεις ώρας \n*  Ρυθμίσεις ειδοποιήσεων \n*  MIUI και ρυθμίσεις συστήματος \nΣημείωση: Δεν θα δημιουργηθεί αντίγραφο των δεδομένων για τις εγκατεστημένες εφαρμογές, στο Xiaomi Cloud.</string>
 	<string name="cloud_back_up_frequence_choice_title">Χρονοδιάγραμμα αντιγράφων</string>
 	<string name="cloud_back_up_frequence_long">Κάθε 7 ημέρες</string>
 	<string name="cloud_back_up_frequence_short">Καθημερινά</string>
@@ -162,7 +162,7 @@
 	<string name="copy">Copy</string>
 	<string name="customization"><u>Προσαρμογή</u></string>
 	<string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-	<string name="deskclock_backup">Ξυπνητήρια</string>
+	<string name="deskclock_backup">Αφυπνίσεις</string>
 	<string name="desktop_downloading">Λήψη…</string>
 	<string name="desktop_failed">Σφάλμα</string>
 	<string name="desktop_installing">Εγκατάσταση…</string>
@@ -423,4 +423,18 @@
     <string name="cloud_backup_get_installed_apps_summary">Για τη δημιουργία αντιγράφων και επαναφορά εφαρμογών αρχικής οθόνης</string>
     <string name="cloud_backup_get_installed_apps_title">Πρόσβαση στη λίστα των εφαρμογών που είναι εγκατεστημένες σε αυτήν τη συσκευή</string>
     <string name="cta_dialog_permission_description_get_installed_apps">Για δημιουργία αντιγράφων και επαναφορά εφαρμογών</string>
+    <string name="backup_action_long_time_not_auto_backup_title">Δημιουργία αντιγράφων των στοιχείων σας</string>
+    <string name="dialog_auto_backup_condition_normal_content">Για να μπορείτε να δημιουργείτε τακτικά αντίγραφα όλων των σημαντικών στοιχείων αυτόματα, βεβαιωθείτε ότι διαθέτετε αρκετό χώρο αποθήκευσης στο cloud και ότι η συσκευή αυτή είναι κλειδωμένη, έχει μπαταρία άνω του % και είναι συνδεδεμένη σε Wi-Fi τη νύχτα. Μπορείτε επίσης να δημιουργήσετε αντίγραφα χειροκίνητα ανά πάσα στιγμή.</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">Για να μπορείτε να δημιουργείτε τακτικά αντίγραφα όλων των σημαντικών στοιχείων αυτόματα, βεβαιωθείτε ότι διαθέτετε αρκετό χώρο αποθήκευσης στο cloud και ότι η συσκευή αυτή είναι κλειδωμένη, έχει μπαταρία άνω του % και είναι συνδεδεμένη σε WLAN τη νύχτα. Μπορείτε επίσης να δημιουργήσετε αντίγραφα χειροκίνητα ανά πάσα στιγμή.</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Κατανοητό</string>
+    <string name="dialog_auto_backup_condition_normal_title">Δημιουργία αντιγράφων των στοιχείων σας</string>
+    <string name="dialog_recommend_wechat_backup_content">Τώρα μπορείτε να δημιουργήσετε αντίγραφα των συνομιλιών WeChat και άλλων δεδομένων στο Xiaomi Cloud. Για να μπορέσετε να δημιουργήσετε αντίγραφα των στοιχείων σας, βεβαιωθείτε ότι έχετε αρκετό χώρο αποθήκευσης στο cloud και ότι αυτή η συσκευή είναι κλειδωμένη, έχει μπαταρία πάνω από %s και είναι συνδεδεμένη σε Wi-Fi τη νύχτα. Μπορείτε επίσης να δημιουργήσετε αντίγραφα με μη αυτόματο τρόπο ανά πάσα στιγμή.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">Τώρα μπορείτε να δημιουργήσετε αντίγραφα των συνομιλιών WeChat και άλλων δεδομένων στο Xiaomi Cloud. Για να μπορέσετε να δημιουργήσετε αντίγραφα των στοιχείων σας, βεβαιωθείτε ότι έχετε αρκετό χώρο αποθήκευσης στο cloud και ότι αυτή η συσκευή είναι κλειδωμένη, έχει μπαταρία πάνω από %s και είναι συνδεδεμένη σε WLAN τη νύχτα. Μπορείτε επίσης να δημιουργήσετε αντίγραφα με μη αυτόματο τρόπο ανά πάσα στιγμή.</string>
+    <string name="dialog_recommend_wechat_backup_negative">Κατανοητό</string>
+    <string name="dialog_recommend_wechat_backup_positive">Περισσότερα</string>
+    <string name="dialog_recommend_wechat_backup_title">Δημιουργία αντιγράφων δεδομένων WeChat</string>
+    <string name="repeat_recommend_wechat_backup_notification_content">Τώρα μπορείτε να δημιουργήσετε αντίγραφα των δεδομένων WeChat. Πατήστε για λεπτομέρειες.</string>
+    <string name="repeat_recommend_wechat_backup_notification_title">Δημιουργία αντιγράφων δεδομένων WeChat</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Δημιουργία αντιγράφων δεδομένων WeChat. Πατήστε για λεπτομέρειες.</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Ολοκληρώθηκε η αυτόματη δημιουργία αντιγράφων</string>
 </resources>

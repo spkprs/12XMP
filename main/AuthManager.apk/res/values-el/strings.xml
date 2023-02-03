@@ -275,4 +275,7 @@
     <string name="HIPS_Perm_operator_shake">Πρόσβαση στα δεδομένα επιταχυνσιόμετρου</string>
     <string name="HIPS_Perm_operator_shake_Desc">Τα δεδομένα επιταχυνσιόμετρου χρησιμοποιούνται για την παρακολούθηση του προσανατολισμού και της κίνησης (π.χ. κούνημα, κλίση και περιστροφή).</string>
     <string name="permdesc_shake">Επιτρέπετε σε %1$s να έχει πρόσβαση σε δεδομένα επιταχυνσιόμετρου;</string>
+    <string name="permdesc_isolate_storage">Επιτρέπετε στο %1$s να έχει πρόσβαση σε φωτογραφίες, βίντεο και ήχο που είναι αποθηκευμένα σε αυτή τη συσκευή;</string>
+    <string name="permgroupdesc_read_media_aural">Επιτρέπετε στο %1$s να έχει πρόσβαση σε αρχεία ήχου που είναι αποθηκευμένα στη συσκευή σας;</string>
+    <string name="permgroupdesc_read_media_visual">Επιτρέπετε στο %1$s να έχει πρόσβαση σε φωτογραφίες και βίντεο που είναι αποθηκευμένα στη συσκευή σας;</string>
 </resources>
