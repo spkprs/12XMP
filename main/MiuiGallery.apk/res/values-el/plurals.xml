@@ -689,8 +689,8 @@
         <item quantity="one">Τα διαγραμμένα στοιχεία αποθηκεύονται στο cloud για %1$d ημέρες</item>
      </plurals>
      <plurals name="share_album_home_pref_screen_devices">
-         <item quantity="μία">%1$d οθόνη</item>
-         <item quantity="άλλες">%1$d οθόνες</item>
+         <item quantity="one">%1$d οθόνη</item>
+         <item quantity="other">%1$d οθόνες</item>
      </plurals>
     <plurals name="delete_brust_title">
         <item quantity="one">Διαγραφή %d λήψεων ριπής;</item>
