@@ -5855,5 +5855,24 @@
 - Πατήστε παρατεταμένα την ένδειξη για να μετακινήσετε το παράθυρο."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Πατήστε μια εφαρμογή στην πλευρική γραμμή για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.
 - Πατήστε παρατεταμένα την ένδειξη για να μετακινήσετε το παράθυρο."</string>
+    <string name="conversation_settings_top">-Σύρετε προς τα έξω τη γραμμή εργαλείων Διάσκεψης κατά τη διάρκεια κλήσεων ήχου και βίντεο πλήρους οθόνης για να αποκτήσετε πρόσβαση στις λειτουργίες της.\n-Ο τύπος και ο αριθμός των λειτουργιών εξαρτάται από το μοντέλο της συσκευής.</string>
+    <string name="conversation_sider_tips">Χρήση νέων εργαλείων Διάσκεψης για καλύτερη εμπειρία κλήσης</string>
+    <string name="conversation_summary">Εξωραϊσμός, μεταγραφή υποτίτλων και άλλες λειτουργίες κατά τη διάρκεια κλήσεων ήχου και βίντεο</string>
+    <string name="conversation_title">Εργαλεία Διάσκεψης</string>
+    <string name="cs_color_sense">Θερμοκρασία χρώματος</string>
+    <string name="cs_func_toast_headset">Αποσυνδέστε τα ακουστικά σας για χρήση αυτής της λειτουργίας</string>
+    <string name="cs_func_toast_light">Μεταβείτε στην μπροστινή κάμερα για χρήση αυτής της λειτουργίας</string>
+    <string name="cs_func_toast_pickup">Μεταβείτε σε βιντεοκλήση για χρήση αυτής της λειτουργίας</string>
+    <string name="cs_pickup_multi_desc">%d βαθμός ηχοληψίας</string>
+    <string name="cs_pickup_multi_title">Πολλαπλοί συμμετέχοντες</string>
+    <string name="cs_pickup_single_desc">Λαμβάνει ήχο μόνο από το μπροστινό μέρος της οθόνης</string>
+    <string name="cs_pickup_single_title">Ένας συμμετέχων</string>
+    <string name="cs_pickup_surround_desc">Χρήση AI για τη μείωση του θορύβου για καθαρό, ευκρινή ήχο</string>
+    <string name="cs_pickup_surround_title">Μείωση θορύβου μικροφώνου</string>
+    <string name="cs_title_pickup">Μείωση θορύβου</string>
+    <string name="cs_title_smart_subtitle">Μεταγραφή υπότιτλου</string>
+    <string name="cs_title_ultraclear">Λειτουργία Ultra HD</string>
+    <string name="gd_setting_conversation">Εργαλεία Διάσκεψης</string>
+    <string name="gd_setting_conversation_desc">Παρέχει ποικιλία λειτουργιών για χρήση σε κλήσεις ήχου και βίντεο πλήρους οθόνης</string>
 </resources>
 
