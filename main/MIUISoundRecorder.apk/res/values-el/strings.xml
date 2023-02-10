@@ -124,7 +124,7 @@
     <string name="loading_more">Μισό λεπτό…</string>
     <string name="loading_order_list">Φόρτωση παραγγελιών</string>
     <string name="loading_order_list_empty">άδεια</string>
-    <string name="low_battery_error">Απομένει λιγότερο από 5% μπαταρία. Για να εξασφαλιστεί ότι η εγγραφή σας δεν θα χαθεί, η Ηχογράφηση είναι σε παύση και το αρχείο έχει αποθηκευτεί.</string>
+    <string name="low_battery_error">"Απομένει λιγότερο από %s μπαταρία. Σταματήστε και αποθηκεύστε την εγγραφή σας για να βεβαιωθείτε ότι δεν θα χαθεί."</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_for_pad">"Λιγότερο από %s μπαταρίας απομένει. Διακόψτε και αποθηκεύστε την εγγραφή σας για να βεβαιωθείτε ότι δεν έχει χαθεί."</string>
     <string name="low_battery_error_title">Χαμηλή μπαταρία</string>
@@ -247,7 +247,7 @@
     <string name="recognition_error_cancel">Ακυρώθηκε</string>
     <string name="recognition_error_code">κωδικό σφάλμα: %d</string>
     <string name="recognition_error_download_cancel">Αργότερα</string>
-    <string name="recognition_error_download_data_msg">Κάντε λήψη της μηχανής αναγνώρισης για να είναι διαθέσιμη αυτή η υπηρεσία, η οποία θα καταναλώνει περίπου 20MB στην τρέχουσα σύνδεση δεδομένων κινητής τηλεφωνίας.</string>
+    <string name="recognition_error_download_data_msg">Κατεβάστε τη μηχανή μεταγραφής για να κάνετε διαθέσιμη αυτή την υπηρεσία. Αυτή η λήψη απαιτεί περίπου %d MB  δεδομένων κινητής σας.</string>
     <string name="recognition_error_download_fail">Αδυναμία λήψης. Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.</string>
     <string name="recognition_error_download_msg">Κατεβάσετε τη μηχανή αναγνώρισης για να είναι διαθέσιμη αυτή η υπηρεσία.</string>
     <string name="recognition_error_download_ok">Λήψη</string>
@@ -378,9 +378,9 @@
     <string name="tab_apps">Εφαρμ.</string>
     <string name="tab_call">Κλήσεις</string>
     <string name="tap_to_record">Πατήστε το κουμπί για εκκίνηση εγγραφής</string>
-    <string name="text_btn_backward_3_seconds">3 δευτ πίσω</string>
+    <string name="text_btn_backward_3_seconds">%d δευτ πίσω</string>
     <string name="text_btn_complete">Διακοπή</string>
-    <string name="text_btn_forward_3_seconds">3 δευτ εμπρός</string>
+    <string name="text_btn_forward_3_seconds">%d δευτ εμπρός</string>
     <string name="text_btn_list">Ηχογραφήσεις</string>
     <string name="text_btn_mark">Σημείωση</string>
     <string name="text_btn_pause">Παύση</string>
@@ -439,4 +439,18 @@
 Εάν η παραγγελία γίνει μεταβιβαζόμενη, η επιστροφή θα γίνει αυτόματα. Θα επιστραφεί στον αρχικό σας λογαριασμό πληρωμής εντός 5 εργάσιμων ημερών. Παρακαλώ ελέξτε τον λογαριασμό πληρωμών για να επαληθεύσετε την επιστροφή χρημάτων. Αν η πληρωμή είναι καθυστερημένη, Καλέστε την εξυπηρέτησης πελατών (400-100-5678) και επικοινωνήστε μαζί μας.
   3. Πώς μπορώ να κάνω ακριβέστερο το κείμενο της εγγραφής;
 Η ακρίβεια του αποτελέσματος μεταφοράς θα επηρεαστεί από την απόσταση, το περιβάλλον, Το κείμενο μεταφοράς ήχου υποστηρίζει μόνο Putonghua μεταγραφή, η ακρίβεια των αποτελεσμάτων μεταγραφής θα επηρεαστεί από την απόσταση, το περιβάλλον, την έμφαση ομιλητών και άλλα ζητήματα κλπ. Το ποσοστό ακρίβειας μπορεί να είναι αρκετά διαφορετικό Εάν θέλετε να αλλάξετε με μεγαλύτερη ακρίβεια το κείμενο, μπορείτε να μιλήσετε στο τηλέφωνο. Πιο κοντά, με τρόπο Mandarin."</string>
+    <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/ωρ</string>
+    <string name="low_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/ωρ</string>
+    <string name="middle_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/ωρ</string>
+    <string name="permission_notification_description">Για την αποστολή ειδοποιήσεων κατά την εγγραφή, την αναπαραγωγή και τη λήψη περιεχομένου</string>
+    <string name="permission_notification_dialog_description">"Για την αποστολή ειδοποιήσεων σχετικά με την τρέχουσα κατάσταση της εφαρμογής"</string>
+    <string name="permission_notification_title">Απαιτούμενες άδειες</string>
+    <string name="record_scenes_summaries_HD">Η τεχνολογία υψηλού δυναμικού εύρους επιτρέπει στο μικρόφωνο να καταγράφει πιο λεπτομερή ήχο</string>
+    <string name="record_scenes_summaries_interview">Τοποθετήστε το τηλέφωνο ανάμεσα σε %d άτομα για να καταγράψετε καθαρά τη συνομιλία τους</string>
+    <string name="record_scenes_summaries_music">Εγγραφή μουσικής με καλύτερη ποιότητα</string>
+    <string name="record_scenes_summaries_stereo_HD">Η τεχνολογία υψηλού δυναμικού εύρους επιτρέπει στο μικρόφωνο να καταγράφει πιο λεπτομερή ήχο</string>
+    <string name="record_scenes_summaries_stereo_interview">Τοποθετήστε το τηλέφωνο ανάμεσα σε %d άτομα για να καταγράψετε καθαρά τη συνομιλία τους</string>
+    <string name="record_scenes_summaries_stereo_music">Εγγραφή μέσω %d καναλιών, ακρόαση στερεοφωνικού ήχου στα ακουστικά</string>
+    <string name="record_scenes_summaries_stereo_voice">Μετακινήστε το μικρόφωνο πιο κοντά στην πηγή του ήχου για καλύτερη ποιότητα</string>
+    <string name="record_scenes_summaries_voice">Μετακινήστε το μικρόφωνο πιο κοντά στην πηγή του ήχου για καλύτερη ποιότητα</string>
 </resources>

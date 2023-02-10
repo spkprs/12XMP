@@ -511,4 +511,8 @@
     <string name="congratulation_pre_label">Μισό λεπτό...</string>
     <string name="congratulation_pre_title">Προετοιμασία συστήματος...</string>
     <string name="miui14_start_up_slogan">Αποτελεσματικό. Σταθερό. Ζωντανό.</string>
+    <string name="other_settings_alarm_assistance">Τοποθεσία έκτακτης ανάγκης</string>
+    <string name="other_settings_alarm_assistance_privacy">Πολιτική Απορρήτου</string>
+    <string name="other_settings_alarm_assistance_summary">"Μπορείτε να στείλετε πληροφορίες για την τοποθεσία σας στην αστυνομία χρησιμοποιώντας SMS ή δεδομένα κινητής τηλεφωνίας αυτόματα, ενώ καλείτε το 110, 120, 119 ή 122. Διαβάστε και συμφωνήστε &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική Απορρήτου&lt;/a> πριν από τη χρήση αυτής της λειτουργίας."</string>
+    <string name="other_settings_alarm_assistance_user">Συμφωνία Χρήστη</string>
 </resources>

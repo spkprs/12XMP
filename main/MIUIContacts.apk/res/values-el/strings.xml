@@ -1650,4 +1650,7 @@
     <string name="notification_missedCall_call_back">Επανάκληση</string>
     <string name="notification_missedCall_message">Αποστολή SMS</string>
     <string name="notification_missedCallsTitle">Αναπάντητες κλήσεις</string>
+    <string name="call_limit">Περιορισμοί Κλήσεων</string>
+    <string name="call_limit_content">"Αδύνατη η κλήση του "%s". Μπορείτε να καλέσετε μόνο αριθμούς που βρίσκονται στη λίστα εγκεκριμένων επαφών σας."</string>
+    <string name="know">Κατανοητό</string>
 </resources>
