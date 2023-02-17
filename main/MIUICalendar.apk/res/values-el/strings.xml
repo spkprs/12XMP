@@ -1000,4 +1000,6 @@
     <string name="minutes_30">%d λεπ.</string>
     <string name="minutes_5">%d λεπ.</string>
     <string name="suggestions_and_feedback">Σχόλια</string>
+    <string name="permission_denial">Χορήγηση αδειών για να μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+    <string name="premission_description_notice">Για την αποστολή ειδοποιήσεων σχετικά με εκδηλώσεις και αργίες</string>
 </resources>

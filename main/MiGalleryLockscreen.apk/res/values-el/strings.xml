@@ -961,4 +961,5 @@
     <string name="apply_warning_content_with_maml">"Χρησιμοποιείτε θέμα τρίτου κατασκευαστή. Εάν αλλάξετε την ταπετσαρία σας, το ρολόι της οθόνης κλειδώματος ενδέχεται να επανέλθει στην προεπιλεγμένη ρύθμιση. Εφαρμογή τώρα;"</string>
     <string name="apply_warning_title">Εφαρμογή ταπετσαρίας</string>
     <string name="dlg_ok">Εφαρμογή</string>
+    <string name="passport_vcode_what_app_send_prompt">Ο κωδικός επαλήθευσης του WhatsApp θα αποσταλεί στο τηλέφωνο ανάκτησής σας (&lt;font color=#1F93FF>%s&lt;/font>).</string>
 </resources>

@@ -2830,4 +2830,8 @@
     <string name="quick_settings_screen_rotation_outer_unlocked">Εξωτερική οθόνη περιστροφή ενεργή</string>
     <string name="toast_for_first_use_three_gesture">Σαρώστε οριζόντια με τέσσερα δάχτυλα για εναλλαγή μεταξύ εφαρμογών</string>
     <string name="stream_assistant">Βοηθός</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Κατανοητό</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Εάν απενεργοποιήσετε τη βελτιστοποίηση MIUI και ενεργοποιήσετε την εξοικονόμηση μπαταρίας, η Σκοτεινή λειτουργία θα ενεργοποιηθεί αυτόματα.
+Για να απενεργοποιήσετε τη Σκοτεινή λειτουργία, ή την Εξοικονόμηση μπαταρίας ή την ενεργοποίηση Βελτιστοποίηση MIUI, μπορείτε στις Ρυθμίσεις > Επιλογές προγραμματιστή > Βελτιστοποίηση MIUI."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Σκοτεινή λειτουργία</string>
 </resources>
