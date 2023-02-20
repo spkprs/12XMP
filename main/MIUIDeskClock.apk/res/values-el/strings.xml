@@ -683,4 +683,8 @@ EEE"</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="4">%d</xliff> ώρα νωρίτερα</string>
     <string name="notification_adv_time_entries5">Χωρίς</string>
     <string name="sleep_duration_recommendation_new" formatted="false">Οι περισσότεροι άνθρωποι χρειάζονται %d έως %d ώρες ύπνου τη νύχτα</string>
+    <string name="alarm_alert_close_entrance">Απενεργοποίηση</string>
+    <string name="alarm_permanent_alert">Κουδούνισμα</string>
+    <string name="notification_permission_desc">"Εάν δεν εκχωρήσετε άδειες Ειδοποίησης, δεν θα μπορείτε να απενεργοποιείτε τους συναγερμούς όταν χτυπούν. Χορήγηση άδειας τώρα;"</string>
+    <string name="open_notification_permission_remind">Επιτρέψτε τις Ειδοποιήσεις για να μπορείτε να απενεργοποιήσετε τους συναγερμούς</string>
 </resources>
