@@ -937,7 +937,7 @@
     <string name="file_cannot_print">Αδύνατη η εκτύπωση αυτού του στοιχείου.</string>
     <string name="file_cannot_screen_throw">Αδύνατη η μετάδοση αυτού του στοιχείου.</string>
     <string name="file_sending">Μεταφορά αρχείων…</string>
-    <string name="filter_bi_bw">Μ&amp;Α</string>
+    <string name="filter_bi_bw">Μ &amp; Α</string>
     <string name="filter_bi_dusk">Σούρουπο</string>
     <string name="filter_bi_lilt">Ζωηρό</string>
     <string name="filter_bi_memory">Μνήμη</string>
@@ -949,7 +949,7 @@
     <string name="filter_bi_sunny">Ηλιόλουστος</string>
     <string name="filter_bi_tea">Τσαγιού</string>
     <string name="filter_bi_warm">Ζεστό</string>
-    <string name="filter_category_black_white">Μ&amp;Α</string>
+    <string name="filter_category_black_white">Μ &amp; Α</string>
     <string name="filter_category_classic">Κλασικό</string>
     <string name="filter_category_film">Ταινία</string>
     <string name="filter_category_food">Τροφές</string>
@@ -965,7 +965,7 @@
     <string name="filter_category_sky">Ουρανός</string>
     <string name="filter_category_texture">Ζωηρά</string>
     <string name="filter_category_travel">Ταξίδι</string>
-    <string name="filter_film_blackwhite">Μ&amp;Α</string>
+    <string name="filter_film_blackwhite">Μ &amp; Α</string>
     <string name="filter_film_classic">Κλασικό</string>
     <string name="filter_film_dew">Δροσιά</string>
     <string name="filter_film_fade">Ξεθωριάζω</string>
@@ -985,7 +985,7 @@
     <string name="filter_food_softdrink">Σόδα</string>
     <string name="filter_food_wholemeal">Κόκκοι</string>
     <string name="filter_general_blackice">Μαύρος πάγος</string>
-    <string name="filter_general_blackwhite">B&amp;W</string>
+    <string name="filter_general_blackwhite">Μ &amp; Α</string>
     <string name="filter_general_delicious">Food</string>
     <string name="filter_general_df">Clarity</string>
     <string name="filter_general_fairytale">Story</string>
@@ -1025,12 +1025,12 @@
     <string name="filter_movie_quiet">Γαλήνη</string>
     <string name="filter_movie_rome">Rome</string>
     <string name="filter_movie_summer">Summer</string>
-    <string name="filter_movie_to">T&amp;O</string>
+    <string name="filter_movie_to">T &amp; O</string>
     <string name="filter_movie_travel">Travel</string>
     <string name="filter_movie_wonderful">Wonder</string>
     <string name="filter_night_scene">Νυχτερινή πτώση</string>
     <string name="filter_original">Χωρίς</string>
-    <string name="filter_people_bw">Μ&amp;Α</string>
+    <string name="filter_people_bw">Μ &amp; Α</string>
     <string name="filter_people_fairytale">Παιδιά</string>
     <string name="filter_people_japanese">Φρέσκο</string>
     <string name="filter_people_lilt">Ζωηρό</string>
@@ -1184,7 +1184,7 @@
     <string name="foods_people_title">Ο παράδεισος των Tastebuds</string>
     <string name="foods_people_travel_title">Τρώγοντας το δρόμο μας %2$s με %1$s</string>
     <string name="foods_travel_title_one">Μια γεύση από %1$s</string>
-    <string name="foods_travel_title_three">Φαγητό&amp;#39;s %1$s</string>
+    <string name="foods_travel_title_three">Φαγητό &amp;#39;s %1$s</string>
     <string name="foods_travel_title_two">%1$s Φαγητό</string>
     <string name="for_diagnosis_usage_only">Τα αρχεία καταγραφής χρησιμοποιούνται μόνο για διαγνωστικά.</string>
     <string name="frame_color_selector_talkback_hide">Απόκρυψη επιλογέα χρώματος</string>
@@ -3230,11 +3230,11 @@
     <string name="video_editor_filter">Φίλτρο</string>
     <string name="video_editor_filter_and_regulator">Φίλτρα</string>
     <string name="video_editor_filter_bailu">Δροσιά</string>
-    <string name="video_editor_filter_black_and_white">Μ&amp;Α</string>
+    <string name="video_editor_filter_black_and_white">Μ &amp; Α</string>
     <string name="video_editor_filter_blue">Μπλέ</string>
     <string name="video_editor_filter_cloud">Κρύο</string>
     <string name="video_editor_filter_gothic">Πράσινο</string>
-    <string name="video_editor_filter_heibai">B&amp;W</string>
+    <string name="video_editor_filter_heibai">Μ &amp; Α</string>
     <string name="video_editor_filter_jiaopian">Ταινία</string>
     <string name="video_editor_filter_jingmi">Ηρεμία</string>
     <string name="video_editor_filter_moon">Φεγγάρι</string>
@@ -3598,4 +3598,5 @@
 Μέχρι το %1$s, μπορείτε να μεταφέρετε τα στοιχεία σας στο Google Photos ή να επισκεφθείτε το i.mi.com για να τα κατεβάσετε. Μετά από αυτό, τα στοιχεία που εξακολουθούν να είναι αποθηκευμένα στο Xiaomi Cloud θα διαγραφούν οριστικά.
 %2$s"</string>
     <string name="cloud_data_size">Φωτογραφίες &amp; Βίντεο στο Cloud: %1$s</string>
+    <string name="ignore_alert_dialog_title">Αγνόηση αυτού του ατόμου;</string>
 </resources>

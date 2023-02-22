@@ -1681,29 +1681,30 @@
     <string name="youfuli">Προσφορά</string>
     <string name="zip_viewer_no_file">Χωρίς αρχεία!</string>
     <string name="meeting_allday">"
-        Πότε:
-        %s  
-        (όλη μέρα) 
-        "</string>
+Πότε:
+%s  
+(όλη μέρα) 
+"</string>
     <string name="meeting_allday_recurring">" 
-        Πότε:
-        %s 
-        (Όλη την ημέρα, επαναλαμβανόμενα)
-        "</string>
+Πότε:
+%s 
+(Όλη την ημέρα, επαναλαμβανόμενα)
+"</string>
     <string name="meeting_recurring">" 
-        Πότε: 
-        %s 
-        (επαναλαμβανόμενα)
-        "</string>
+Πότε: 
+%s 
+(επαναλαμβανόμενα)
+"</string>
     <string name="meeting_when">" 
-        Πότε: 
-        %s 
-        "</string>
+Πότε: 
+%s 
+"</string>
     <string name="meeting_where">" 
-        Που: 
-        %s 
-        "</string>
+Που: 
+%s 
+"</string>
     <string name="close_tips">Κλείσιμο υπενθύμισης</string>
     <string name="folder_junk_name_en5">Spam</string>
     <string name="message_invite_calendar_download_prompt">Κατεβάστε το Ημερολόγιο για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία</string>
+     <string name="message_forward_has_signature_pdf">Προωθείτε υπογεγραμμένα συνημμένα αρχεία PDF;</string>
 </resources>
