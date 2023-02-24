@@ -453,4 +453,5 @@
     <string name="record_scenes_summaries_stereo_music">Εγγραφή μέσω %d καναλιών, ακρόαση στερεοφωνικού ήχου στα ακουστικά</string>
     <string name="record_scenes_summaries_stereo_voice">Μετακινήστε το μικρόφωνο πιο κοντά στην πηγή του ήχου για καλύτερη ποιότητα</string>
     <string name="record_scenes_summaries_voice">Μετακινήστε το μικρόφωνο πιο κοντά στην πηγή του ήχου για καλύτερη ποιότητα</string>
+    <string name="record_while_in_call_tip">"Αδύνατη η εγγραφή κατά τη διάρκεια μιας κλήσης"</string>
 </resources>

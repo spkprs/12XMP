@@ -957,5 +957,30 @@
         <item quantity="one">Τα αρχεία συμπεριφοράς εφαρμογών αποθηκεύονται σε αυτή τη συσκευή για %d ημέρες. Αν απενεργοποιήσετε αυτή τη λειτουργία, δεν θα εμφανίζονται πλέον νέες εγγραφές και οι παλιές θα διαγράφονται. Απενεργοποίηση;</item>
         <item quantity="other">Τα αρχεία συμπεριφοράς εφαρμογών αποθηκεύονται σε αυτή τη συσκευή για %d ημέρα. Αν απενεργοποιήσετε αυτή τη λειτουργία, δεν θα εμφανίζονται πλέον νέες εγγραφές και οι παλιές θα διαγράφονται. Απενεργοποίηση;</item>
     </plurals>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Προεπιλογή</item>
+        <item>Όλα</item>
+    </string-array>
+
+    <plurals name="added_apps_count">
+        <item quantity="other">%d εφαρμ. προστέθηκαν</item>
+        <item quantity="one">%d εφαρμ. προστέθηκε</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ώρες</item>
+        <item quantity="one">%s ώρα</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s λεπ.</item>
+        <item quantity="one">%s λεπ.</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d εφαρμ. δεν προστέθηκαν</item>
+        <item quantity="one">%d εφαρμ. δεν προστέθηκε</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Η μπαταρία της συσκευής σας έχει εξαντληθεί. Είσοδος σε λειτουργία αδρανοποίησης σε %1$d δευτ.</item>
+        <item quantity="one">Η μπαταρία της συσκευής σας έχει εξαντληθεί. Είσοδος σε λειτουργία αδρανοποίησης σε %1$d δευτ.</item>
+    </plurals>
 </resources>
 
