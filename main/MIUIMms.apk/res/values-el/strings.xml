@@ -1261,7 +1261,7 @@
     <string name="system_permission_perm_send_mms">Αποστολή MMS</string>
     <string name="system_permission_perm_send_sms">Για την αποστολή μηνυμάτων κειμένου</string>
     <string name="system_permission_perm_sms">Για προβολή και αποστολή μηνυμάτων</string>
-    <string name="system_permission_perm_storage">Για προβολή, αποστολή και αποθήκευση αρχείων</string>
+    <string name="system_permission_perm_storage">Για αποθήκευση και μεταφόρτωση συνημμένων SMS</string>
     <string name="system_permission_perm_takephoto">Για τη λήψη φωτογραφιών και βίντεο</string>
     <string name="system_permission_perm_write_contact">Για τη δημιουργία και επεξεργασία επαφών</string>
     <string name="system_permission_perm_write_mms">Επιτρέψτε την αποστολή μηνυμάτων για να γράψετε MMS</string>
@@ -1309,7 +1309,7 @@
     <string name="toast_not_show_location_perm_req">Επιτρέψτε στα μηνύματα να έχουν πρόσβαση στην τοποθεσία σας για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
     <string name="toast_not_show_microphone_perm_req">Επιτρέψτε στα Μηνύματα την χρήση του μικροφώνου για να χρησιμοποιήσουν αυτήν τη λειτουργία</string>
     <string name="toast_not_show_send_sms_perm_req">Για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία, επιτρέψτε πρώτα σε αυτή την εφαρμογή να στέλνει μηνύματα.</string>
-    <string name="toast_not_show_storage_perm_req">Επιτρέψτε στα Μηνύματα την πρόσβαση στο χώρο αποθήκευσης για να χρησιμοποιήσουν αυτήν τη λειτουργία</string>
+    <string name="toast_not_show_storage_perm_req">Για τη χρήση αυτής της λειτουργίας απαιτούνται άδειες. Μπορείτε να χορηγήσετε αυτή την άδεια στις Ρυθμίσεις.</string>
     <string name="toast_not_show_write_contacts_perm_req">Επιτρέψτε την επεξεργασία επαφών μέσω μηνυμάτων για να χρησιμοποιήσετε αυτή τη λειτουργία</string>
     <string name="toast_pending_hangup_msg">Το μήνυμα θα σταλεί μετά το τέλος της κλήσης</string>
     <string name="today">Σήμερα</string>
@@ -1391,4 +1391,7 @@
     <string name="mms_main_purpose_new">Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να σας παρέχει βασικές υπηρεσίες. Σας συνιστούμε να ενεργοποιήσετε τις υπηρεσίες Mi Message και Smart Messaging.</string>
     <string name="system_permission_declare_exit">Έξοδος</string>
     <string name="wait_for_sp_mark_as_read">Μισό λεπτό...</string>
+    <string name="pref_title_perm_read_audio">Πρόσβαση σε αρχεία ήχου</string>
+    <string name="pref_title_perm_read_files">Πρόσβαση σε αρχεία και έγγραφα</string>
+    <string name="pref_title_perm_read_images_video">Πρόσβαση σε φωτογραφίες και βίντεο</string>
 </resources>
