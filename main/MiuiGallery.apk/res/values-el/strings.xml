@@ -592,7 +592,7 @@
     <string name="collage_poster_global_tea_text">ΔΙΑΛΕΙΜΜΑ ΓΙΑ ΤΣΑΪ</string>
     <string name="collage_ratio_text">Αναλογία απεικόνισης</string>
     <string name="collage_rotate">Περιστροφή</string>
-    <string name="collage_select_image_range">Το Κολάζ μπορεί να περιέχει 1-4 φωτογραφίες</string>
+    <string name="collage_select_image_range">Τα κολάζ μπορούν να περιέχουν %1$d-%2$d φωτογραφίες</string>
     <string name="collage_talkback_margin_large">Παχύ περιθώριο</string>
     <string name="collage_talkback_margin_medium">Κανονικό περιθώριο</string>
     <string name="collage_talkback_margin_non">Χωρίς περιθώρια</string>
@@ -937,7 +937,7 @@
     <string name="file_cannot_print">Αδύνατη η εκτύπωση αυτού του στοιχείου.</string>
     <string name="file_cannot_screen_throw">Αδύνατη η μετάδοση αυτού του στοιχείου.</string>
     <string name="file_sending">Μεταφορά αρχείων…</string>
-    <string name="filter_bi_bw">Μ &amp; Α</string>
+    <string name="filter_bi_bw">Μ&amp;Α</string>
     <string name="filter_bi_dusk">Σούρουπο</string>
     <string name="filter_bi_lilt">Ζωηρό</string>
     <string name="filter_bi_memory">Μνήμη</string>
@@ -949,7 +949,7 @@
     <string name="filter_bi_sunny">Ηλιόλουστος</string>
     <string name="filter_bi_tea">Τσαγιού</string>
     <string name="filter_bi_warm">Ζεστό</string>
-    <string name="filter_category_black_white">Μ &amp; Α</string>
+    <string name="filter_category_black_white">Μ&amp;Α</string>
     <string name="filter_category_classic">Κλασικό</string>
     <string name="filter_category_film">Ταινία</string>
     <string name="filter_category_food">Τροφές</string>
@@ -965,7 +965,7 @@
     <string name="filter_category_sky">Ουρανός</string>
     <string name="filter_category_texture">Ζωηρά</string>
     <string name="filter_category_travel">Ταξίδι</string>
-    <string name="filter_film_blackwhite">Μ &amp; Α</string>
+    <string name="filter_film_blackwhite">Μ&amp;Α</string>
     <string name="filter_film_classic">Κλασικό</string>
     <string name="filter_film_dew">Δροσιά</string>
     <string name="filter_film_fade">Ξεθωριάζω</string>
@@ -985,7 +985,7 @@
     <string name="filter_food_softdrink">Σόδα</string>
     <string name="filter_food_wholemeal">Κόκκοι</string>
     <string name="filter_general_blackice">Μαύρος πάγος</string>
-    <string name="filter_general_blackwhite">Μ &amp; Α</string>
+    <string name="filter_general_blackwhite">B&amp;W</string>
     <string name="filter_general_delicious">Food</string>
     <string name="filter_general_df">Clarity</string>
     <string name="filter_general_fairytale">Story</string>
@@ -1025,12 +1025,12 @@
     <string name="filter_movie_quiet">Γαλήνη</string>
     <string name="filter_movie_rome">Rome</string>
     <string name="filter_movie_summer">Summer</string>
-    <string name="filter_movie_to">T &amp; O</string>
+    <string name="filter_movie_to">T&amp;O</string>
     <string name="filter_movie_travel">Travel</string>
     <string name="filter_movie_wonderful">Wonder</string>
     <string name="filter_night_scene">Νυχτερινή πτώση</string>
     <string name="filter_original">Χωρίς</string>
-    <string name="filter_people_bw">Μ &amp; Α</string>
+    <string name="filter_people_bw">Μ&amp;Α</string>
     <string name="filter_people_fairytale">Παιδιά</string>
     <string name="filter_people_japanese">Φρέσκο</string>
     <string name="filter_people_lilt">Ζωηρό</string>
@@ -1184,7 +1184,7 @@
     <string name="foods_people_title">Ο παράδεισος των Tastebuds</string>
     <string name="foods_people_travel_title">Τρώγοντας το δρόμο μας %2$s με %1$s</string>
     <string name="foods_travel_title_one">Μια γεύση από %1$s</string>
-    <string name="foods_travel_title_three">Φαγητό &amp;#39;s %1$s</string>
+    <string name="foods_travel_title_three">Φαγητό&amp;#39;s %1$s</string>
     <string name="foods_travel_title_two">%1$s Φαγητό</string>
     <string name="for_diagnosis_usage_only">Τα αρχεία καταγραφής χρησιμοποιούνται μόνο για διαγνωστικά.</string>
     <string name="frame_color_selector_talkback_hide">Απόκρυψη επιλογέα χρώματος</string>
@@ -2139,9 +2139,9 @@
     <string name="photo_editor_talkback_crop_mirror">Καθρέπτης</string>
     <string name="photo_editor_talkback_crop_original">Κανονική</string>
     <string name="photo_editor_talkback_crop_reset">Επαναφορά</string>
-    <string name="photo_editor_talkback_crop_right_rotate">Περιστροφή 90 μοίρες</string>
+    <string name="photo_editor_talkback_crop_right_rotate">Περιστροφή %d μοίρες</string>
     <string name="photo_editor_talkback_crop_rotate">Περιστροφή</string>
-    <string name="photo_editor_talkback_crop_scale_default_value">Η προεπιλεγμένη τιμή πριν από την εφαρμογή περιστροφής είναι 0 μοίρες</string>
+    <string name="photo_editor_talkback_crop_scale_default_value">Η προεπιλεγμένη τιμή πριν από την εφαρμογή περιστροφής είναι %d μοίρες</string>
     <string name="photo_editor_talkback_crop_scale_value">Περιστροφή %d μοίρες</string>
     <string name="photo_editor_talkback_crop_screen">Αναλογία διαστάσεων πλήρους οθόνης</string>
     <string name="photo_editor_talkback_crop_view">Περικοπή εικόνας</string>
@@ -2932,13 +2932,13 @@
     <string name="text_edit_dialog_style_toast">"Δεν είναι δυνατή η τοποθέτηση κειμένου με περίγραμμα σε φόντο"</string>
     <string name="text_edit_dialog_style_transparent">Αδιαφάνεια</string>
     <string name="text_edit_sub_menu_text">Φούσκα</string>
-    <string name="text_item_type_talkback_bubble_arrow1">Βέλος 1</string>
-    <string name="text_item_type_talkback_bubble_arrow2">Βέλος 2</string>
+    <string name="text_item_type_talkback_bubble_arrow1">Βέλος %d</string>
+    <string name="text_item_type_talkback_bubble_arrow2">Βέλος %d</string>
     <string name="text_item_type_talkback_bubble_circular">Συννεφάκι ομιλίας</string>
     <string name="text_item_type_talkback_bubble_none">Πεδίο κειμένου</string>
     <string name="text_item_type_talkback_bubble_oval">Φυσαλίδα ομιλίας οβάλ</string>
-    <string name="text_item_type_talkback_bubble_rectangle">Τετράγωνη φυσαλίδα ομιλίας 1</string>
-    <string name="text_item_type_talkback_bubble_rectangle2">Τετράγωνη φυσαλίδα ομιλίας 2</string>
+    <string name="text_item_type_talkback_bubble_rectangle">Τετράγωνη φυσαλίδα ομιλίας %d</string>
+    <string name="text_item_type_talkback_bubble_rectangle2">Τετράγωνη φυσαλίδα ομιλίας %d</string>
     <string name="text_item_type_talkback_bubble_signature">Υπογραφή</string>
     <string name="text_item_type_talkback_bubble_watermark_1">Πάντα να πιστεύεις ότι κάτι υπέροχο πρόκειται να συμβεί</string>
     <string name="text_item_type_talkback_bubble_watermark_2">Τέλειες διακοπές 1</string>
@@ -2959,11 +2959,11 @@
     <string name="text_item_type_talkback_city_suzhou">Suzhou</string>
     <string name="text_item_type_talkback_city_tianjin">Tianjin</string>
     <string name="text_item_type_talkback_city_wuhan">Wuhan</string>
-    <string name="text_item_type_talkback_festival_chaojieyueliang2">Πανσέληνος 2</string>
+    <string name="text_item_type_talkback_festival_chaojieyueliang2">Πανσέληνος %d</string>
     <string name="text_item_type_talkback_festival_chaojiyueliang">Πανσέληνος</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang3">Πανσέληνος 3</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang4">Πανσέληνος 4</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang5">Πανσέληνος 5</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang3">Πανσέληνος %d</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang4">Πανσέληνος %d</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang5">Πανσέληνος %d</string>
     <string name="text_item_type_talkback_festival_chunjie">Spring Festival</string>
     <string name="text_item_type_talkback_festival_chuxi">Eve of the Chinese New year</string>
     <string name="text_item_type_talkback_festival_ertongjie">"Children's Day"</string>
@@ -3230,11 +3230,11 @@
     <string name="video_editor_filter">Φίλτρο</string>
     <string name="video_editor_filter_and_regulator">Φίλτρα</string>
     <string name="video_editor_filter_bailu">Δροσιά</string>
-    <string name="video_editor_filter_black_and_white">Μ &amp; Α</string>
+    <string name="video_editor_filter_black_and_white">Μ&amp;Α</string>
     <string name="video_editor_filter_blue">Μπλέ</string>
     <string name="video_editor_filter_cloud">Κρύο</string>
     <string name="video_editor_filter_gothic">Πράσινο</string>
-    <string name="video_editor_filter_heibai">Μ &amp; Α</string>
+    <string name="video_editor_filter_heibai">B&amp;W</string>
     <string name="video_editor_filter_jiaopian">Ταινία</string>
     <string name="video_editor_filter_jingmi">Ηρεμία</string>
     <string name="video_editor_filter_moon">Φεγγάρι</string>
@@ -3598,5 +3598,15 @@
 Μέχρι το %1$s, μπορείτε να μεταφέρετε τα στοιχεία σας στο Google Photos ή να επισκεφθείτε το i.mi.com για να τα κατεβάσετε. Μετά από αυτό, τα στοιχεία που εξακολουθούν να είναι αποθηκευμένα στο Xiaomi Cloud θα διαγραφούν οριστικά.
 %2$s"</string>
     <string name="cloud_data_size">Φωτογραφίες &amp; Βίντεο στο Cloud: %1$s</string>
-    <string name="ignore_alert_dialog_title">Αγνόηση αυτού του ατόμου;</string>
+    <string name="ignore_alert_dialog_title">Αγνόηση αυτού του ατόμου;</string>    <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s κατειλημμένα</string>
+    <string name="slim_auto_backup_cloud_confirm_detail">Ενεργοποιήστε τον συγχρονισμό με το cloud για να μπορείτε να ανεβάζετε φωτογραφίες και βίντεο από τη συσκευή σας στο cloud..</string>
+    <string name="slim_auto_backup_cloud_confirm_title">Συγχρονισμός με το cloud</string>
+    <string name="slim_finish_upgrade_tip"><Data>Αναβαθμίστε το πρόγραμμα αποθήκευσης στο cloud για να συγχρονίσετε περισσότερα στοιχεία στο cloud. Πατήστε για &lt;a href=\"%1$s\">αναβάθμιση τώρα&lt;/a>.</Data></string>
+    <string name="slim_function_summery_first">Διατηρήστε βελτιστοποιημένες φωτογραφίες στη συσκευή σας και αποθηκεύστε την αρχική εικόνα στο cloud.</string>
+    <string name="slim_function_summery_second">Τα αρχεία που δημιουργήθηκαν τις τελευταίες %d ημέρες θα αποθηκευτούν στη συσκευή σας</string>
+    <string name="slim_subtitle_slim_space_prefix">Ελευθερώστε %1$s %2$s</string>
+    <string name="slim_subtitle_sync_off_no_slimdata">Ενεργοποιήστε τον συγχρονισμό με το cloud για να λάβετε μια εκτίμηση του ελεύθερου χώρου</string>
+    <string name="slim_subtitle_sync_on_no_slimdata">Συγχρονισμός. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Αναβαθμίστε το πακέτο αποθήκευσης στο cloud για να συγχρονίσετε περισσότερα στοιχεία</string>
+    <string name="slim_upgrade_button">Αναβάθμιση</string>
 </resources>

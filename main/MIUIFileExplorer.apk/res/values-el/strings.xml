@@ -942,4 +942,11 @@
     <string name="year_month_day_format">d MMM, yyyy</string>
     <string name="yes">Ναι</string>
     <string name="yesterday">Χθες</string>
+    <string name="cloud_empty_hint_text_pad">Τίποτα εδώ ακόμα.\nΔοκιμάστε να μεταφέρετε αρχεία από τη συσκευή σας στο Mi Drive.</string>
+    <string name="extend_service_setting">Πρόσθετες υπηρεσίες</string>
+    <string name="extend_service_summary">"Εάν απενεργοποιήσετε αυτή την υπηρεσία, δεν θα μπορείτε να χρησιμοποιήσετε τις λειτουργίες που σχετίζονται με το Mi Drive."</string>
+    <string name="extend_service_title">Διαχείριση αρχείων Mi Drive</string>
+    <string name="stop_extend_service_dialog_confirm">Απενεργοποίηση</string>
+    <string name="stop_extend_service_dialog_summary">"Αν απενεργοποιήσετε αυτή τη λειτουργία, δεν θα μπορείτε να διαχειριστείτε τα αρχεία σας που είναι αποθηκευμένα στο Mi Drive. Απενεργοποίηση;"</string>
+    <string name="stop_extend_service_dialog_tilte">Πρόσθετες υπηρεσίες</string>
 </resources>
