@@ -518,7 +518,7 @@
     <string name="rename_file_select_error">Δεν είναι δυνατή η μετονομασία πολλών στοιχείων</string>
     <string name="rename_success">Μετονομάστηκε με επιτυχία</string>
     <string name="request_permission_confirm">Το έπιασα</string>
-    <string name="request_permission_content">Το Mi Drive πρέπει να έχει πρόσβαση σε λογαριασμούς σε αυτήν τη συσκευή για να μπορεί να χρησιμοποιεί τον λογαριασμό σας Mi για σύνδεση. Η άδεια πρόσβασης και αποθήκευσης αρχείων στη συσκευή σας θα επιτρέψει στο Mi Drive να κάνει προεπισκόπηση, μεταφόρτωση, λήψη και συγχρονισμό στοιχείων.</string>
+    <string name="request_permission_content">Το Mi Drive χρειάζεται άδεια για να έχει πρόσβαση σε λογαριασμούς, φωτογραφίες και αρχεία στη συσκευή σας και να στέλνει ειδοποιήσεις. Αυτά τα δικαιώματα θα χρησιμοποιηθούν για την παροχή γρήγορης σύνδεσης στο λογαριασμό Xiaomi και για την προεπισκόπηση, τη μεταφόρτωση, τη λήψη και το συγχρονισμό στοιχείων.</string>
     <string name="request_permission_content_with_phone_state">Για να μπορέσετε να συνδεθείτε με το λογαριασμό Mi, προεπισκόπηση, αποστολή, λήψη συγχρονισμό και να ελέγξετε για ενημερώσεις, το Mi Drive απαιτεί δικαιώματα για πρόσβαση στους λογαριασμούς, τις φωτογραφίες, τα αρχεία και το IMEI σας.</string>
     <string name="request_permission_title">Απαιτούνται Άδειες</string>
     <string name="resend_active_email">Στείλτε ξανά</string>
@@ -681,4 +681,21 @@
     <string name="reminder_card_title">Προσοχή</string>
     <string name="talkback_close">Κλείστε</string>
     <string name="talkback_close_open_picture">Ακύρωση</string>
+    <string name="request_permission_account_state">Για την παροχή γρήγορης σύνδεσης στο λογαριασμό Xiaomi</string>
+    <string name="request_permission_external_storage">Πρόσβαση στην αποθήκευση της συσκευής</string>
+    <string name="request_permission_external_storage_desc">Για προεπισκόπηση, μεταφόρτωση, λήψη και συγχρονισμό στοιχείων</string>
+    <string name="request_permission_manual_authorized">Ρυθμίσεις</string>
+    <string name="request_permission_manual_desc">Για τη χρήση ορισμένων λειτουργιών απαιτείται η ακόλουθη άδεια: %s. Μπορείτε να χορηγήσετε αυτό το δικαίωμα στις Ρυθμίσεις.</string>
+    <string name="request_permission_manual_title">Απαιτούμενες άδειες</string>
+    <string name="request_permission_manual_unauthorized">Ακύρωση</string>
+    <string name="request_permission_post_notification">Ειδοποιήσεις</string>
+    <string name="request_permission_post_notification_desc">Για την αποστολή ειδοποιήσεων σχετικά με τις μεταφορτώσεις και τις λήψεις του Mi Drive</string>
+    <string name="request_permission_read_media_audio">Πρόσβαση σε αρχεία ήχου</string>
+    <string name="request_permission_read_media_audio_desc">Για προεπισκόπηση, μεταφόρτωση, λήψη και συγχρονισμό αρχείων ήχου</string>
+    <string name="request_permission_read_media_aural">Για προεπισκόπηση, μεταφόρτωση, λήψη και συγχρονισμό αρχείων ήχου</string>
+    <string name="request_permission_read_media_image">Πρόσβαση σε φωτογραφίες</string>
+    <string name="request_permission_read_media_image_desc">Για προεπισκόπηση, μεταφόρτωση, λήψη και συγχρονισμό φωτογραφιών</string>
+    <string name="request_permission_read_media_video">Πρόσβαση σε βίντεο</string>
+    <string name="request_permission_read_media_video_desc">Για προεπισκόπηση, φόρτωση, λήψη και συγχρονισμό βίντεο</string>
+    <string name="request_permission_read_media_visual">Για προεπισκόπηση, μεταφόρτωση, λήψη και συγχρονισμό φωτογραφιών και βίντεο</string>
 </resources>

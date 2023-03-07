@@ -1686,7 +1686,7 @@
     <string name="mosaic_item_talkback_eraser">Eraser</string>
     <string name="motion_photo_enter">Δυναμική λήψη</string>
     <string name="motion_photo_play">Αναπαραγωγή</string>
-    <string name="move_to_other_albums_tip">Μετακίνηση αυτού του άλμπουμ σε άλλα άλμπουμ;</string>
+    <string name="move_to_other_albums_tip">Μετακινήστε αυτό το άλμπουμ στο \"Άλλα άλμπουμ\";</string>
     <string name="move_to_rubbish_albums_tip">Μετακίνηση των επιλεγμένων άλμπουμ στα απορρίμματα;</string>
     <string name="movie_add_disable">Επιλέξτε έως %d φωτογραφίες</string>
     <string name="movie_audio_antiquity">Retro</string>
@@ -1863,7 +1863,7 @@
     <string name="operation_hide_time">Απόκρυψη ημερομηνιών</string>
     <string name="operation_in_process">Επεξεργασία…</string>
     <string name="operation_move">Μετακίνηση</string>
-    <string name="operation_move_to_other_albums">Μετακίνηση σε άλλα άλμπουμ</string>
+    <string name="operation_move_to_other_albums">Μετακίνηση σε \"Άλλα άλμπουμ\"</string>
     <string name="operation_move_to_rubbish_albums">Μετακίνηση στα απορρίμματα</string>
     <string name="operation_not_show_in_photos_tab">Να μην εμφανίζεται στην καρτέλα Φωτογραφίες</string>
     <string name="operation_photo_rename">Μετονομασία</string>
@@ -1872,7 +1872,7 @@
     <string name="operation_projection">Προβολή μέσω...</string>
     <string name="operation_remove_face">Κατάργηση</string>
     <string name="operation_remove_from_face_album">Κατάργηση από το άλμπουμ</string>
-    <string name="operation_remove_from_other_albums">Μετακίνηση από άλλα άλμπουμ</string>
+    <string name="operation_remove_from_other_albums">Αφαίρεση από \"Άλλα άλμπουμ\"</string>
     <string name="operation_remove_from_rubbish_albums">Επαναφορά</string>
     <string name="operation_remove_rubbish">Επαναφορά</string>
     <string name="operation_remove_secret">Αφαίρεση από το ιδιωτικό άλμπουμ</string>
@@ -1911,7 +1911,7 @@
     <string name="origin_video_name">βίντεο</string>
     <string name="other_album">Άλλα άλμπουμ</string>
     <string name="other_album_operation_move_to_rubbish_albums">Μετακίνηση σε εφεδρικά άλμπουμ</string>
-    <string name="other_album_operation_remove_from_other_albums">Αφαίρεση από εφεδρικά άλμπουμ</string>
+    <string name="other_album_operation_remove_from_other_albums">Αφαίρεση από \"Άλλα άλμπουμ\"</string>
     <string name="other_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="owner_album_subtitle">Κοινή χρήση με %1$s μέλη</string>
     <string name="passport_access_denied">Δεν επιτρέπεται η πρόσβαση</string>
@@ -2287,7 +2287,7 @@
     <string name="privacy_rejected_map_new">Ανάκληση συγκατάθεσής Χάρτης Συλλογής Δήλωση τρίτων κοινής χρήσης δεδομένων</string>
     <string name="privacy_rejected_pos_btn">Ανάκληση</string>
     <string name="privacy_share_album_confirm">Όροι και προϋποθέσεις</string>
-    <string name="privacy_share_album_confirm_detail">Τα κοινόχρηστα άλμπουμ τροφοδοτούνται από το Xiaomi Cloud. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, διαβάστε και συμφωνήστε με την &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Συμφωνία χρήσης>&lt;/a>&lt;/font> και &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Πολιτική απορρήτου&lt;/a>&lt;/font> μας.</string>
+    <string name="privacy_share_album_confirm_detail">Τα κοινόχρηστα άλμπουμ τροφοδοτούνται από το Xiaomi Cloud. Πριν χρησιμοποιήσετε αυτή τη λειτουργία, διαβάστε και συμφωνήστε με την &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Συμφωνία χρήσης&lt;/a>&lt;/font> και &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Πολιτική απορρήτου&lt;/a>&lt;/font> μας.</string>
     <string name="private_entry_lock_state_activated_text">Αφήστε για άνοιγμα ιδιωτικού φακέλου</string>
     <string name="private_entry_lock_state_enterd_text">Τραβήξτε προς τα κάτω για να ανοίξετε τον ιδιωτικό φάκελο</string>
     <string name="problem_feedback">Σχόλια</string>
