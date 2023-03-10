@@ -154,7 +154,8 @@
     <string name="dialog_request_permission_message_extra">Εάν δεν συμφωνείτε να εκχωρήσετε τέτοιες άδειες ή για κοινή χρήση και αποστολή προσωπικών σας στοιχείων, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να καταργήσετε την εγκατάσταση ή να αποσυνδεθείτε από αυτήν την εφαρμογή σε τέτοιες περιπτώσεις.</string>
     <string name="dialog_request_permission_message_extra_summary">Αυτές οι Άδειες απαιτούνται για να καταστούν διαθέσιμες οι βασικές δυνατότητες και υπηρεσίες αυτής της εφαρμογής.</string>
     <string name="dialog_request_permission_message_extra_title">Υποχρεωτικές Άδειες</string>
-    <string name="dialog_request_permission_message_link" formatted="false"><Data>"Ταυτόχρονα, για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστη, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνήστε με τις &lt;a href='%1s'>Συμφωνία χρήστη&lt;/a> και &lt;a href='%2s'>Πολιτική Απορρήτου&lt;/a>."</Data></string>
+    <string name="dialog_request_permission_message_link" formatted="false"><Data>"Επιτρέψτε σε αυτή την εφαρμογή να συνδεθεί στο διαδίκτυο και παραχωρήστε τα απαραίτητα δικαιώματα που αναφέρονται παραπάνω. Επιπλέον, για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστης, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνήστε με τις &lt;a href='%1s'>Συμφωνία χρήστη&lt;/a> και &lt;a href='%2s'>Πολιτική απορρήτου&lt;/a>."</Data></string>
+    <string name="dialog_request_permission_message_provision_link">Επιτρέψτε σε αυτή την εφαρμογή να συνδεθεί στο διαδίκτυο και παραχωρήστε τα απαραίτητα δικαιώματα που αναφέρονται παραπάνω. Επιπλέον, για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστης, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνήστε με %1$s και %2$s.</string>
     <string name="dialog_request_permission_title">Προσοχή</string>
     <string name="dialog_tip_upgrade_summary">Φαίνεται οτι η έκδοση του Mi Mover είναι παλιά. Ενημερώστε το Mi Mover στην τελευταία του έκδοση για να μπορέσετε να μεταφέρετε αρχεία.</string>
     <string name="dialog_tip_upgrade_title">Ενημέρωση Mi Mover</string>
@@ -347,6 +348,21 @@
     <string name="lack_perm_msg">Το Mi Mover χρειάζεται τις ακόλουθες Άδειες για σωστή λειτουργία: &lt;b>%s&lt;/b></string>
     <string name="lack_perm_title">Απαιτούνται Άδειες</string>
     <string name="launcher">Διάταξη αρχικής οθόνης</string>
+    <string name="league_acquire_accept">Συμφωνώ</string>
+    <string name="league_acquire_message1">Για να μπορέσετε να μεταφέρετε εφαρμογές τρίτων και τα δεδομένα τους από αυτή τη συσκευή στη νέα σας συσκευή %s, απαιτούνται τα ακόλουθα δικαιώματα:</string>
+    <string name="league_acquire_message2">Επιτρέψτε στο Mi Mover να έχει πρόσβαση σε δεδομένα εφαρμογών τρίτων</string>
+    <string name="league_acquire_message3">Πρόκειται για άδεια μιας χρήσης που χρησιμοποιείται μόνο για τη μεταφορά δεδομένων. Μόλις ολοκληρωθεί η μεταφορά, το Mi Mover θα σταματήσει αυτόματα να χρησιμοποιεί αυτό το δικαίωμα..</string>
+    <string name="league_acquire_message4">"Εάν δεν συμφωνήσετε να χορηγήσετε αυτή την άδεια, δεν θα μπορείτε να μεταφέρετε εφαρμογές τρίτων και τα δεδομένα τους.."</string>
+    <string name="league_acquire_refuse">"Δεν συμφωνώ"</string>
+    <string name="league_acquire_title">Απαιτούμενες άδειες</string>
+    <string name="league_check_service_content">"Η Mi Mover παρέχει υπηρεσίες μεταφοράς για %s και δεν είναι διαθέσιμη αυτή τη στιγμή."</string>
+    <string name="league_check_service_title">Μεταφορά με χρήση %s</string>
+    <string name="league_client_acquire">Άνοιγμα %s</string>
+    <string name="league_client_hint_text">Η Συμμαχία κλωνοποίησης μπορεί να βοηθήσει στη μεταφορά δεδομένων εφαρμογών τρίτων (π.χ. ιστορικό συνομιλιών WeChat και QQ). Πατήστε \"%s\" για να συνεχίσετε μαζί μας ή πατήστε \"Όχι τώρα\" για να συνεχίσετε χωρίς να μεταφέρετε εφαρμογές και δεδομένα τρίτων..</string>
+    <string name="league_client_install">Εγκατάσταση %s</string>
+    <string name="league_client_title">Μεταφορά με Mi Mover</string>
+    <string name="league_client_traditional">Όχι τώρα</string>
+    <string name="league_client_update">Ενημέρωση %s</string>
     <string name="less_than_1_minute">Λιγότερο από 1 λεπτό</string>
     <string name="loading_data">Μισό λεπτό…</string>
     <string name="location_permission_desc">Για εύρεση συσκευών σε κοντινή απόσταση</string>
@@ -603,7 +619,9 @@
     <string name="recovery_progress">Επαναφορά στοιχείων (%1$d/%2$d)…</string>
     <string name="recreate_soft_ap_tips">Αγγίξτε το παρακάτω κουμπί και δοκιμάστε ξανά.</string>
     <string name="refuse_accept">"Δεν συμφωνώ"</string>
+    <string name="request_all_permission_content">Το Mi Mover πρέπει να έχει πρόσβαση στα ακόλουθα, για να μεταφέρει στοιχεία σε μια νέα συσκευή:\n- Τοποθεσία\n- Επαφές\n- Ιστορικό κλήσεων\n- Μηνύματα κειμένου\n- Αποθήκευση</string>
     <string name="request_all_permission_title">Απαιτούμενες άδειες</string>
+    <string name="request_permission">Αποδοχή</string>
     <string name="restore_data_to_device_content">Τα στοιχεία σας συγχρονίστηκαν με το Xiaomi Cloud. Εισέλθετε στο λογαριασμό μου για να τα επαναφέρετε.</string>
     <string name="restore_data_to_device_title">Επαναφορά στοιχείων σε αυτήν τη συσκευή</string>
     <string name="restore_right_now">Επαναφορά</string>
@@ -873,26 +891,4 @@
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Χθές</string>
-    <string name="request_all_permission_content">"Το Mi Mover πρέπει να έχει πρόσβαση στα ακόλουθα, για να μεταφέρει στοιχεία σε μια νέα συσκευή:
-- Τοποθεσία
-- Επαφές
-- Ιστορικό κλήσεων
-- Μηνύματα κειμένου
-- Αποθήκευση"</string>
-    <string name="league_acquire_accept">Συμφωνώ</string>
-    <string name="league_acquire_message1">Για να μπορέσετε να μεταφέρετε εφαρμογές τρίτων και τα δεδομένα τους από αυτή τη συσκευή στη νέα σας συσκευή %s, απαιτούνται τα ακόλουθα δικαιώματα:</string>
-    <string name="league_acquire_message2">Επιτρέψτε στο Mi Mover να έχει πρόσβαση σε δεδομένα εφαρμογών τρίτων</string>
-    <string name="league_acquire_message3">Πρόκειται για άδεια μιας χρήσης που χρησιμοποιείται μόνο για τη μεταφορά δεδομένων. Μόλις ολοκληρωθεί η μεταφορά, το Mi Mover θα σταματήσει αυτόματα να χρησιμοποιεί αυτό το δικαίωμα..</string>
-    <string name="league_acquire_message4">"Εάν δεν συμφωνήσετε να χορηγήσετε αυτή την άδεια, δεν θα μπορείτε να μεταφέρετε εφαρμογές τρίτων και τα δεδομένα τους.."</string>
-    <string name="league_acquire_refuse">"Δεν συμφωνώ"</string>
-    <string name="league_acquire_title">Απαιτούμενες άδειες</string>
-    <string name="league_check_service_content">"Η Mi Mover παρέχει υπηρεσίες μεταφοράς για %s και δεν είναι διαθέσιμη αυτή τη στιγμή."</string>
-    <string name="league_check_service_title">Μεταφορά με χρήση %s</string>
-    <string name="league_client_acquire">Άνοιγμα %s</string>
-    <string name="league_client_hint_text">Η Συμμαχία κλωνοποίησης μπορεί να βοηθήσει στη μεταφορά δεδομένων εφαρμογών τρίτων (π.χ. ιστορικό συνομιλιών WeChat και QQ). Πατήστε \"%s\" για να συνεχίσετε μαζί μας ή πατήστε \"Όχι τώρα\" για να συνεχίσετε χωρίς να μεταφέρετε εφαρμογές και δεδομένα τρίτων..</string>
-    <string name="league_client_install">Εγκατάσταση %s</string>
-    <string name="league_client_title">Μεταφορά με Mi Mover</string>
-    <string name="league_client_traditional">Όχι τώρα</string>
-    <string name="league_client_update">Ενημέρωση %s</string>
-    <string name="request_permission">Αποδοχή</string>
 </resources>

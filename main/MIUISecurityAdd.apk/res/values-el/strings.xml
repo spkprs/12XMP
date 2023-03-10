@@ -263,6 +263,7 @@
     <string name="net_booster_expire_notification">Η περίοδος λειτουργίας αύξησης ταχύτητας δικτύου πρόκειται να λήξει</string>
     <string name="net_booster_overdue_notification">Η περίοδος λειτουργίας αύξησης ταχύτητας δικτύου πρόκειται να λήξει</string>
     <string name="net_booster_overdue_notification_tip">Η σύνοδος ενίσχυσης της ταχύτητας του δικτύου ολοκληρώθηκε. Μπορεί να αρχίσετε να αντιμετωπίζετε καθυστερήσεις στο δίκτυο. Να ανανεώσετε τη συνεδρία τώρα;</string>
+    <string name="network_error">Παρουσιάστηκε σφάλμα δικτύου.</string>
     <string name="network_not_available">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
     <string name="night">Απόγευμα</string>
     <string name="no_network">"Δεν είναι δυνατή η σύνδεση στο δίκτυο"</string>
@@ -271,10 +272,24 @@
     <string name="not_set">Χωρίς ρύθμιση</string>
     <string name="ok_button">Εντάξει</string>
     <string name="open_browser">Ανοιγμα σε πρόγραμμα περιήγησης</string>
+    <string name="page_load_failed">"Δεν μπορεί να ανοίξει η σελίδα"</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="pc_activity_title">Βελτιστοποίηση μπαταρίας</string>
+    <string name="pc_entered_extreme_mode">Η λειτουργία αδρανοποίησης είναι ενεργή</string>
+    <string name="pc_entered_extreme_mode_summary">"Η συσκευή σας έχει εκτός από μπαταρία και έχει εισέλθει σε κατάσταση αδρανοποίησης. Οι εφαρμογές θα εκτελούνται στο παρασκήνιο και δεν θα στέλνουν ειδοποιήσεις."</string>
+    <string name="pc_extreme_exit_and_power_off">Έξοδος</string>
+    <string name="pc_extreme_mode_bg_toast">"Στη λειτουργία αδρανοποίησης, οι εφαρμογές θα εκτελούνται στο παρασκήνιο και δεν θα στέλνουν ειδοποιήσεις."</string>
+    <string name="pc_extreme_mode_exit_risk_title">Προσοχή</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Η μπαταρία της συσκευής σας έχει εξαντληθεί. Εάν βγείτε από τη λειτουργία αδρανοποίησης, η συσκευή σας θα απενεργοποιηθεί.</string>
+    <string name="pc_extreme_mode_find_charger">Φορτίστε τη συσκευή σας το συντομότερο δυνατό.</string>
+    <string name="pc_extreme_mode_runtime">Η κατάσταση αδρανοποίησης είναι ενεργή για %1$s %2$s.</string>
+    <string name="pc_extreme_mode_title">Λειτουργία αδρανοποίησης</string>
+    <string name="pc_going_to_exit_extreme_mode">Έξοδος από λειτουργία αδρανοποίησης</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Η συσκευή σας φορτίζει. Η λειτουργία αδρανοποίησης είναι ανενεργή.</string>
     <string name="pm">ΜΜ</string>
     <string name="pm_lable_name">Σχετικά με την πρόσβαση root</string>
+    <string name="power_center_battery_duration_screen_on">Υπόλοιπος χρόνος οθόνης</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s υπολειπόμενος χρόνος οθόνης</string>
     <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="privacy_declare_dialog_title">Όροι χρήσης</string>
     <string name="privacy_name">Πολιτική Απορρήτου</string>
@@ -288,7 +303,9 @@
     <string name="recall_kid_mode_summary">Απόσυρση της συγκατάθεσής σας για την Πολιτική Απορρήτου του παιδικού χώρου</string>
     <string name="recall_kid_mode_tips">Εάν αποσύρετε τη συγκατάθεσή σας για την πολιτική απορρήτου του παιδικού χώρου, θα διαγράψουμε τα δεδομένα που συλλέγονται από την εφαρμογή σύμφωνα με το νόμο και όλα τα δεδομένα στο χώρο θα χαθούν και δεν θα μπορούν να ανακτηθούν. Εάν αποσύρετε τη συγκατάθεσή σας, θα θεωρηθεί ότι δεν συμφωνείτε να συνεχίσουμε να σας παρέχουμε τις υπηρεσίες του παιδικού χώρου. Αποσύρετε τη συγκατάθεσή σας;</string>
     <string name="renew_now">Ανανέωση</string>
+    <string name="retry_action">Δοκιμάστε ξανά</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="second_space_setting_search_label">Προστασία απορρήτου/Προστασία/Χαρακτηριστικά προστασίας απορρήτου</string>
     <string name="send">Αποστολή</string>
     <string name="share">Μοιραστείτε</string>
     <string name="size_unit_byte">%1$sB</string>
@@ -338,7 +355,4 @@
     <string name="webview_reload">Δοκιμάστε ξανά</string>
     <string name="xunyou_pay_webview">Υπηρεσίες Xunyou</string>
     <string name="yesterday">Χθες</string>
-    <string name="power_center_battery_duration_screen_on">Υπόλοιπος χρόνος οθόνης</string>
-    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s υπολειπόμενος χρόνος οθόνης</string>
-    <string name="second_space_setting_search_label">Προστασία απορρήτου/Προστασία/Χαρακτηριστικά προστασίας απορρήτου</string>
 </resources>
