@@ -42,9 +42,9 @@
     <string name="app_description_title">Απεγκατάσταση Πυξίδας?</string>
     <string name="app_label">Πυξίδα</string>
     <string name="app_name">Preference</string>
-    <string name="calibrate_failed">Αποτυχία βαθμονόμησης υψομέτρου</string>
-    <string name="calibrate_failed_no_location">Αποτυχία Βαθμονόμησης</string>
-    <string name="calibrate_failed_timeout">Αδυναμία σύνδεσης με το διακομιστή</string>
+    <string name="calibrate_failed">"Αδύνατη η βαθμονόμηση του υψομέτρου"</string>
+    <string name="calibrate_failed_no_location">"Δεν ήταν δυνατή η ρύθμιση. Παρουσιάστηκε σφάλμα θέσης."</string>
+    <string name="calibrate_failed_timeout">"Δεν ήταν δυνατή η ρύθμιση. Παρουσιάστηκε σφάλμα διακομιστή."</string>
     <string name="calibrate_rotate_again">Προσπαθήστε ξανά</string>
     <string name="calibrate_success">Βαθμονομήθηκε</string>
     <string name="calibrate_tip">Γείρετε τη συσκευή σας να κυλήσει τη μπάλα γύρω από τον κύκλο</string>

@@ -47,7 +47,7 @@
     <string name="app_name_danfa">Mi Αριθμομηχανή</string>
     <string name="app_notification_info">Η Αριθμομηχανή λειτουργεί στο παρασκήνιο</string>
     <string name="base_rate">Βασικό επιτόκιο</string>
-    <string name="bmi_error_text">Αυτός ο ΔΜΣ δεν φαίνεται σωστός. Βεβαιωθείτε ότι το ύψος και το βάρος που εισαγάγατε είναι σωστά.</string>
+    <string name="bmi_error_text">Εισαγωγή έγκυρων παραμέτρων</string>
     <string name="bmi_label_information">Πληροφορίες</string>
     <string name="bmi_label_normal">Κανονική</string>
     <string name="bmi_label_overweight">Υπέρβαρος</string>
@@ -231,6 +231,7 @@
     <string name="ln">ln</string>
     <string name="lnDesc">φυσικός λογάριθμος</string>
     <string name="ln_mathematical_value">ln</string>
+    <string name="investment_loan_result">Λεπτομέρειες</string>
     <string name="loading">Μισό λεπτό…</string>
     <string name="loading_fail_message_no_network">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Αγγίξτε εδώ για να δοκιμάσετε ξανά.</string>
     <string name="loading_fail_refresh">Ανανέωση</string>

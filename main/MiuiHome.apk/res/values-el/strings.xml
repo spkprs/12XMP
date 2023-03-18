@@ -751,6 +751,8 @@
     <string name="recent_menu_item_lock">Κλείδωμα</string>
     <string name="recent_menu_item_multi_window">Διαίρεση</string>
     <string name="recent_menu_item_unlock">Ξεκλείδωμα</string>
+    <string name="recent_menu_item_worldcirculate">Μεταφορά εργασιών εφαρμογής</string>
+    <string name="recent_menu_item_worldcirculate_disable">"Δεν μπορείτε να μεταφέρετε εργασίες της εφαρμογής σε συνδεδεμένες συσκευές"</string>
     <string name="recents_app_info_button_label">Πληροφορίες</string>
     <string name="recents_clear_all_tasks">Καθαρισμός όλων</string>
     <string name="recents_config_title">Πρόσφατα</string>
