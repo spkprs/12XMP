@@ -148,4 +148,8 @@
         <item quantity="one">%d ασημένιο μετάλλιο</item>
         <item quantity="other">%d ασημένια μετάλλια</item>
     </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s Mi Νομίσματα</item>
+        <item quantity="one">%s Mi Νόμισμα</item>
+    </plurals>
 </resources>

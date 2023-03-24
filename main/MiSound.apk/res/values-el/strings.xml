@@ -338,4 +338,7 @@
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="app_disable_description_title">Απεν/ποίηση αυτής της εφαρμογής?</string>
+    <string name="permission_go_to_settings">Ρυθμίσεις</string>
+    <string name="permission_requesr_content">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί σε κοντινές συσκευές στις Ρυθμίσεις.</string>
+    <string name="permission_requesr_title">Απαιτούμενες άδειες</string>
 </resources>

@@ -249,4 +249,8 @@
     <string name="wednesday_shortest">Τ</string>
     <string name="xiaomi_mobile">Mi Mobile</string>
     <string name="yesterday">Χθές</string>
+    <string name="com_android_deskclock">Ρολόι</string>
+    <string name="com_android_download_ui">Λήψεις</string>
+    <string name="com_miui_gallery">Συλλογή</string>
+    <string name="com_xiaomi_calendar">Ημερολόγιο</string>
 </resources>

@@ -1321,7 +1321,7 @@
     <string name="update_btn">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</string>
     <string name="update_check">Ελεγχος για ενημερώσεις</string>
     <string name="update_checking">Ελεγχος για ενημερώσεις…</string>
-    <string name="update_community_tip">Ενημέρωση της Mi Community για χρήση αυτής της δυνατότητας</string>
+    <string name="update_community_tip">Ενημέρωση της Xiaomi Community για χρήση αυτής της δυνατότητας</string>
     <string name="update_downloading">Λήψη ενημερώσεων…</string>
     <string name="update_fail">Αδυναμία εύρεσης πληροφοριών. Δοκιμάστε ξανά.</string>
     <string name="update_flag">Ενημέρωση</string>

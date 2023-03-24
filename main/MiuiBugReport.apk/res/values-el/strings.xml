@@ -880,4 +880,6 @@
     <string name="net_diag_toast_wifi_disconnected">Για να δοκιμάσετε το δίκτυο, συνδεθείτε πρώτα στο Wi-Fi.</string>
     <string name="net_diag_toast_wifi_disconnected_china">Για να δοκιμάσετε το δίκτυο, συνδεθείτε πρώτα στο WLAN.</string>
     <string name="login_out">Αποσύνδεση</string>
+    <string name="can_not_add_more_image">"Δεν μπορείτε να προσθέσετε περισσότερες εικόνες/βίντεο"</string>
+    <string name="bt_plugin_update_loading_dialog">Μισό λεπτό...</string>
 </resources>

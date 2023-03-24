@@ -2834,4 +2834,17 @@
     <string name="dark_mode_power_save_alert_dialog_message">"Εάν απενεργοποιήσετε τη βελτιστοποίηση MIUI και ενεργοποιήσετε την εξοικονόμηση μπαταρίας, η Σκοτεινή λειτουργία θα ενεργοποιηθεί αυτόματα.
 Για να απενεργοποιήσετε τη Σκοτεινή λειτουργία, ή την Εξοικονόμηση μπαταρίας ή την ενεργοποίηση Βελτιστοποίηση MIUI, μπορείτε στις Ρυθμίσεις > Επιλογές προγραμματιστή > Βελτιστοποίηση MIUI."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Σκοτεινή λειτουργία</string>
+    <string name="miui_restart_button_description">Επανεκκίνηση για καλύτερη προβολή</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Χρήση δεδομένων κινητής της δεύτερης SIM για αύξηση ταχύτητας σύνδεσης</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_title">Έξυπνη διπλή SIM</string>
+    <string name="quick_settings_miui_wifi_detail_empty_text">Δεν διατίθενται δίκτυα WIFI</string>
+    <string name="quick_settings_miui_wifi_label">WIFI</string>
+    <string name="quick_settings_miui_wlan_detail_empty_text">Δεν διατίθενται δίκτυα WLAN</string>
+    <string name="quick_settings_miui_wlan_label">WLAN</string>
+    <string name="quick_settings_state_saved">Αποθηκεύτηκε</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">Επιλογή κοντινών δικτύων WIFI</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">Επιλογή κοντινών δικτύων WLAN</string>
+    <string name="quick_settings_wifi_is_off">Το WIFI είναι απενεργοποιημένο</string>
+    <string name="quick_settings_wlan_is_off">Το WLAN είναι απενεργοποιημένο</string>
+    <string name="thermal_protection_warning">"Η συσκευή σας έχει υπερθερμανθεί. Δεν μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία τώρα."</string>
 </resources>

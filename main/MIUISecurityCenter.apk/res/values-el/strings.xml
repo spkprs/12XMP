@@ -2544,7 +2544,7 @@
     <string name="lock_screen_warning_switch_title">Ειδοποιήσεις στην Οθόνη κλειδώματος</string>
     <string name="lock_screen_warning_value">Προειδοποίηση ορίου χρήσης</string>
     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Δεν ήταν δυνατή η αναγνώριση του δακτυλικού αποτυπώματος, δοκιμάστε ξανά.</string>
-    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Ο κωδικός πρόσβασης είναι εσφαλμένος, δοκιμάστε ξανά.</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Ο κωδικός πρόσβασης που πληκτρολογήσατε είναι εσφαλμένος.</string>
     <string name="lockpattern_confirm_button_text">OK</string>
     <string name="lockpattern_continue_button_text">Επόμενο</string>
     <string name="lockpattern_need_to_confirm">Σχεδιάστε ξανά το μοτίβο για επιβεβαίωση</string>
@@ -5842,7 +5842,7 @@
 	<string name="storage_system_other_tip_new">Περιλαμβάνει τον αποθηκευτικό χώρο που είναι απαραίτητος για τη λειτουργία και τις αναβαθμίσεις του συστήματος. Το μέγεθος αυτής της κατάτμησης θα αυξομειώνεται ανάλογα με την κατάσταση του συστήματος.</string>
 	<string name="vb_video_effects_immersion_sound">Εντυπωσιακός ήχος</string>
 	<string name="vb_video_effects_immersion_sound_summary">Ζήστε την εμπειρία της εμβύθισης και της αίσθησης του χώρου όταν ο υποστηριζόμενος ήχος αναπαράγεται μέσω ακουστικών</string>
-	<string name="vb_video_effects_spatial_summary_new">Απολαύστε βελτιωμένη αίσθηση του χώρου και της κατεύθυνσης για υποστηριζόμενο ήχο και βίντεο και ρυθμίστε τον καθηλωτικό ήχο με βάση την κίνηση του κεφαλιού.</string>
+	<string name="vb_video_effects_spatial_summary_new">Απολαύστε βελτιωμένη αίσθηση χώρου και κατεύθυνσης για τον υποστηριζόμενο ήχο όταν χρησιμοποιείτε ακουστικά</string>
     <string name="app_behavior_record_cancel">Ακύρωση</string>
     <string name="app_behavior_record_close">Απενεργοποίηση</string>
     <string name="app_behavior_record_close_title">Απενεργοποίηση</string>
@@ -5900,5 +5900,8 @@
     <string name="pp_lab_compact_blur_location">Εφαρμογές που έχουν πρόσβαση σε τοποθεσία κατά προσέγγιση</string>
     <string name="pp_lab_compact_blur_location_summary">"Επιλέξτε \"Προεπιλογή\" για να χρησιμοποιήσετε τη λειτουργία της κατά προσέγγιση θέσης του Android ή \"Όλες\" για να μεταβείτε σε αυτήν του MIUI."</string>
     <string name="privacy_flares_current_multiple">και %s άλλες</string>
+    <string name="gtb_casual_guide_toast">Ανακαλύψτε ακόμα περισσότερα στα Παιχνίδια</string>
+    <string name="pc_close_notifi_action">Απενεργοποίηση</string>
+    <string name="vb_video_effects_dolby_tips">Το βελτιωμένο πλαίσιο διαλόγου και το εκτεταμένο στέρεο δεν θα λειτουργούν όταν είναι ενεργοποιημένος ο εντυπωσιακός ήχος</string>
 </resources>
 

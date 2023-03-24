@@ -490,4 +490,23 @@
     <string name="freeform_guide_tip_pin_up">Σύρετε το ελαχιστοποιημένο παράθυρο για να το επαναφέρετε</string>
     <string name="freeform_guide_tip_sidebar">Σύρετε προς τα έξω για να ανοίξετε την πλευρική μπάρα</string>
     <string name="freeform_guide_tip_top">Για να μετακινήσετε το παράθυρο, πατήστε παρατεταμένα τη γραμμή ενεργειών και, στη συνέχεια, σύρετε το παράθυρο</string>
+    <string name="freeform_guide_tip_dock_browser">Πατήστε παρατεταμένα το εικονίδιο για να ανοίξετε ένα νέο παράθυρο</string>
+    <string name="freeform_guide_tip_dock_email">Πατήστε παρατεταμένα το εικονίδιο για να ανοίξετε ένα νέο παράθυρο</string>
+    <string name="freeform_guide_tip_dock_note">Πατήστε παρατεταμένα το εικονίδιο για να ανοίξετε ένα νέο παράθυρο</string>
+    <string name="freeform_guide_tip_dock_wps">Πατήστε παρατεταμένα το εικονίδιο για να ανοίξετε ένα νέο παράθυρο</string>
+    <string name="freeform_guide_tip_split">Σύρετε μια εφαρμογή στο πλάι για εναλλαγή σε Διαιρεμένη οθόνη</string>
+    <string name="high_temperature_brightness_toast">Η υψηλότερη φωτεινότητα της οθόνης θερμαίνει τη συσκευή και καταναλώνει περισσότερη ενέργεια.</string>
+    <string name="ks_launch_app_full_window">Πλήρης οθόνη</string>
+    <string name="ks_launch_app_small_window">Αιωρούμενο παράθυρο</string>
+    <string name="ks_launch_split_screen_to_left">Διαιρεμένη οθόνη/Τραβήξτε το διαχωριστικό στα αριστερά</string>
+    <string name="ks_launch_split_screen_to_right">Διαιρεμένη οθόνη/Τραβήξτε το διαχωριστικό στα δεξιά</string>
+    <string name="propotional_freeform_tip">"Φαίνεται ότι αυτή η εφαρμογή δεν υποστηρίζει πλήρως τα Αιωρούμενα παράθυρα"</string>
+    <string name="sla_btn_concel">"Να μην γίνει υπενθύμιση"</string>
+    <string name="sla_btn_confirm">Ενεργοποίηση</string>
+    <string name="sla_btn_keep">Παράβλεψη</string>
+    <string name="sla_btn_stop">Διακοπή</string>
+    <string name="sla_remind_text">Μπορείτε να χρησιμοποιήσετε δεδομένα κινητής για να αυξήσετε την ταχύτητα. Αυτό μπορεί να δημιουργήσει πρόσθετες χρεώσεις παρόχου.</string>
+    <string name="sla_title">Ενίσχυση ταχύτητας</string>
+    <string name="sla_traffic_text">"Έχετε ήδη χρησιμοποιήσει %d MB δεδομένων κινητής σήμερα. Μπορείτε να σταματήσετε την αύξηση της ταχύτητας για να εξοικονομήσετε δεδομένα κινητής."</string>
+    <string name="swipe_up_to_continue_using">Σαρώστε προς τα επάνω για να συνεχίσετε</string>
 </resources>

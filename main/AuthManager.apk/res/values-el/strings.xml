@@ -280,4 +280,5 @@
     <string name="permgroupdesc_read_media_visual">Επιτρέπετε στο %1$s να έχει πρόσβαση σε φωτογραφίες και βίντεο που είναι αποθηκευμένα στη συσκευή σας;</string>
     <string name="HIPS_Perm_operator_wall_paper">Ορισμός ταπετσαρίας</string>
     <string name="HIPS_Perm_operator_wall_paper_Desc">Αλλαγή ταπετσαριών και προεπιλεγμένες υπηρεσίες δυναμικής ταπετσαρίας</string>
+    <string name="deny_fine_keep_blur_location_dont_ask_again">Πάντα να επιτρέπεται η κατά προσέγγιση</string>
 </resources>
