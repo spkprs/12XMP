@@ -561,4 +561,9 @@
     <string name="google_assistant_guide_tip">*Πατήστε και κρατήστε πατημένο το κουμπί λειτουργίας για %s δευτ. για να ανοίξετε το μενού τερματισμού λειτουργίας..</string>
     <string name="google_assistant_guide_title">Google Assistant</string>
     <string name="none">Χωρίς</string>
+    <string name="long_press_power_guide_know">Κατανοητό</string>
+    <string name="long_press_power_guide_message" formatted="false">Πατήστε παρατεταμένα το κουμπί λειτουργίας για %s δευτ. για να ενεργοποιήσετε το Google Assistant.\nΑν κρατήσετε πατημένο το κουμπί για %s δευτ, θα ανοίξει το μενού τερματισμού λειτουργίας.</string>
+    <string name="long_press_power_guide_settings">Ρυθμίσεις</string>
+    <string name="long_press_power_guide_title">Αφύπνιση με το κουμπί Power</string>
+    <string name="stylus_connect_fail_not_match_tablet">"Η γραφίδα δεν είναι συμβατή με το tablet"</string>
 </resources>

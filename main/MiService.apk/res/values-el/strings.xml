@@ -483,4 +483,5 @@
     <string name="miui_main_icon_callback_create">Δημιουργία</string>
     <string name="miui_main_icon_callback_desc">Δημιουργία μια συντόμευσης στην Αρχική Οθόνη τώρα;</string>
     <string name="miui_main_icon_callback_nocreate">Ακύρωση</string>
+    <string name="miuix_appcompat_edit">Επεξεργασία</string>
 </resources>

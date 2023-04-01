@@ -911,5 +911,7 @@
     <string name="customize_notification_btn_text">Αναβάθμιση</string>
     <string name="default_noti_quota_full_title">Η αποθήκευση Cloud είναι πλήρης</string>
     <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Λιγότερο από &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> απομένουν στο Cloud</string>
+    <string name="privacy_runtime_perm_notification_desc">Για την αποστολή ειδοποιήσεων των υπηρεσιών Xiaomi Cloud</string>
+    <string name="privacy_runtime_perm_notification_title">Ειδοποιήσεις</string>
 </resources>
 

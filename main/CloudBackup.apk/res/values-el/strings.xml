@@ -437,4 +437,20 @@
     <string name="repeat_recommend_wechat_backup_notification_title">Δημιουργία αντιγράφων δεδομένων WeChat</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Δημιουργία αντιγράφων δεδομένων WeChat. Πατήστε για λεπτομέρειες.</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Ολοκληρώθηκε η αυτόματη δημιουργία αντιγράφων</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Εκχωρήστε τα απαιτούμενα δικαιώματα στις Ρυθμίσεις για να δημιουργήσετε αντίγραφα ασφαλείας των στοιχείων</string>
+    <string name="dialog_button_get_installed_apps_agree">Ρυθμίσεις</string>
+    <string name="dialog_button_get_installed_apps_disagree">Ακύρωση</string>
+    <string name="dialog_get_installed_apps_consent_message">Για να είναι δυνατή η αυτόματη δημιουργία αντιγράφων ασφαλείας, παραχωρήστε την άδεια αυτής της εφαρμογής στις Ρυθμίσεις για να αποκτήσετε πρόσβαση στη λίστα των εφαρμογών που είναι εγκατεστημένες στη συσκευή σας και επιλέξτε Να επιτρέπεται πάντα.</string>
+    <string name="dialog_get_installed_apps_consent_title">Απαιτούμενες άδειες</string>
+    <string name="manual_request_notification_permission_dialog_negative_button">Κλείσιμο</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Ρυθμίσεις</string>
+    <string name="manual_request_permissions_dialog_description">"Αν δεν εκχωρήσετε δικαιώματα για το \"%s\", δεν θα λαμβάνετε έγκαιρες ειδοποιήσεις για ανεπιτυχείς δημιουργίες αντιγράφων ασφαλείας και άλλες σημαντικές ενέργειες. Μπορείτε να χορηγήσετε αυτό το δικαίωμα στις Ρυθμίσεις."</string>
+    <string name="manual_request_permissions_dialog_title">Απαιτούμενες άδειες</string>
+    <string name="request_notification_permission_dialog_confirm">Κατανοητό</string>
+    <string name="request_permission_post_notification">Για την αποστολή ειδοποιήσεων σχετικά με τα αντίγραφα ασφαλείας cloud</string>
+    <string name="request_permission_post_notification_title">Ειδοποιήσεις</string>
+    <string name="request_permissions_dialog_description">Εκχωρήστε δικαιώματα για την αποστολή ειδοποιήσεων και υπενθυμίσεων για να μπορείτε να απολαμβάνετε όλες τις υπηρεσίες που έχει να προσφέρει το αντίγραφο ασφαλείας στο Cloud.</string>
+    <string name="request_permissions_dialog_title">Απαιτούμενες άδειες</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Για να είναι δυνατή η αυτόματη δημιουργία αντιγράφων ασφαλείας, παραχωρήστε την άδεια αυτής της εφαρμογής στις Ρυθμίσεις για να αποκτήσετε πρόσβαση στη λίστα των εφαρμογών που είναι εγκατεστημένες στη συσκευή σας και επιλέξτε Να επιτρέπεται πάντα.</string>
+    <string name="session_failed_get_installed_apps_denied_title">Απαιτούμενες άδειες</string>
 </resources>

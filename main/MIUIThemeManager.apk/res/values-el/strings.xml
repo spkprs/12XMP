@@ -1483,4 +1483,5 @@
     <string name="large_icon_not_support_current_type">"%s δεν υποστηρίζεται για αυτό το εικονίδιο"</string>
     <string name="large_icon_theme">Θέματα</string>
     <string name="historical_wallpaper">Χρησιμοποιήθηκε προηγουμένως</string>
+    <string name="add_home_icon_success">Προστέθηκε με επιτυχία</string>
 </resources>
