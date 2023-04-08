@@ -281,4 +281,5 @@
     <string name="HIPS_Perm_operator_wall_paper">Ορισμός ταπετσαρίας</string>
     <string name="HIPS_Perm_operator_wall_paper_Desc">Αλλαγή ταπετσαριών και προεπιλεγμένες υπηρεσίες δυναμικής ταπετσαρίας</string>
     <string name="deny_fine_keep_blur_location_dont_ask_again">Πάντα να επιτρέπεται η κατά προσέγγιση</string>
+    <string name="permdesc_get_installed_apps">Επιτρέπετε στο \"%1$s\" να έχει πρόσβαση σε πληροφορίες σχετικά με τις εγκατεστημένες εφαρμογές;</string>
 </resources>

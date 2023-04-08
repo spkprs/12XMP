@@ -104,4 +104,8 @@
         <item>Προβολή συμφωνίας χρήστη λογαριασμού Mi</item>
         <item>Xiaomi;Λογαριασμός;Mi Λογαριασμός;Χρήστης;Συμφωνία;Προβολή</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Άντρας</item>
+        <item>Γυναίκα</item>
+    </string-array>
 </resources>

@@ -949,4 +949,7 @@
     <string name="stop_extend_service_dialog_confirm">Απενεργοποίηση</string>
     <string name="stop_extend_service_dialog_summary">"Αν απενεργοποιήσετε αυτή τη λειτουργία, δεν θα μπορείτε να διαχειριστείτε τα αρχεία σας που είναι αποθηκευμένα στο Mi Drive. Απενεργοποίηση;"</string>
     <string name="stop_extend_service_dialog_tilte">Πρόσθετες υπηρεσίες</string>
+    <string name="pad">Tablet</string>
+    <string name="pad_homepage_tab_file_view_phone">Tablet</string>
+    <string name="pad_start_phone">Αποθήκευση</string>
 </resources>

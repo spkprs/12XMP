@@ -463,4 +463,7 @@
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Ναι</string>
   <string name="yesterday">Χθές</string>
+  <string name="pad">Tablet</string>
+  <string name="pad_homepage_tab_file_view_phone">Tablet</string>
+  <string name="pad_start_phone">Αποθήκευση</string>
 </resources>

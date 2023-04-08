@@ -131,4 +131,7 @@
     <string name="saf_requester_title">Επιτρέψτε στον Gallery Editor να έχει πρόσβαση \"%s\"</string>
     <string name="saf_secret_album">Προσωπικό άλμπουμ</string>
     <string name="saf_secret_album_guide">Αυτή η εφαρμογή χρειάζεται δικαιώματα για να εμφανίζει στοιχεία από το προσωπικό σας άλμπουμ.</string>
+    <string name="operation_original">Σύγκριση</string>
+    <string name="operation_redo">Επανάληψη</string>
+    <string name="operation_undo">Αναίρεση</string>
 </resources>
