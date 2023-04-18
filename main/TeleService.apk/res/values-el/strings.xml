@@ -2426,4 +2426,14 @@
     <string name="sim_select_dialog_title">Επιλογή κάρτας SIM</string>
     <string name="speed_limit_card_toast">"Χρησιμοποιήσατε τα δεδομένα πλήρους ταχύτητας. Η ταχύτητα σύνδεσης θα είναι πλέον περιορισμένη."</string>
     <string name="no_voice_capability">"Αδυναμία επικοινωνίας με τον πάροχο. Δοκιμάστε σε λίγο ξανά."</string>
+    <string name="confirm_phone_number">Επιβεβαίωση αριθμών τηλεφώνου</string>
+    <string name="data_for_high_temperature_toast">"Η συσκευή σας έχει υπερθερμανθεί. Δεν μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία τώρα."</string>
+    <string name="dual_sim_smart_call_forward_failed">"Δεν ήταν δυνατή η ρύθμιση"</string>
+    <string name="dual_sim_smart_call_forward_failed_cause">Παρουσιάστηκε ένα σφάλμα δικτύου. Περιμένετε ένα-δύο λεπτά και προσπαθήστε ξανά.</string>
+    <string name="dual_sim_smart_call_forward_summary">"Προώθηση κλήσεων στην άλλη κάρτα SIM όταν δεν είναι δυνατή η αποδοχή τους"</string>
+    <string name="dual_sim_smart_call_forward_title">Προώθηση στην άλλη SIM</string>
+    <string name="dual_sim_smart_call_forward_updating">Μισό λεπτό…</string>
+    <string name="labelCFNRc_message">Δεν θα μπορείτε πλέον να προωθείτε κλήσεις στην άλλη SIM αν συνεχίσετε.</string>
+    <string name="labelCFNRc_title">Προσοχή</string>
+    <string name="vice_slot_volte_data_dialog_message_ext"><Data>Φαίνεται ότι η τρέχουσα σύνδεση δικτύου σας είναι ασταθής. Μπορείτε να δοκιμάσετε την εναλλαγή μεταξύ των καρτών SIM δεδομένων αυτόματα. &lt;font color=#ff0000>&lt;b>Η χρήση αυτής της δυνατότητας ενδέχεται να δημιουργήσει πρόσθετα τέλη φορέα&lt;/b>&lt;/font>.</Data></string>
 </resources>

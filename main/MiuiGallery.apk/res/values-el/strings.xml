@@ -3609,4 +3609,7 @@
     <string name="slim_subtitle_sync_on_no_slimdata">Συγχρονισμός. Δοκιμάστε ξανά αργότερα.</string>
     <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Αναβαθμίστε το πακέτο αποθήκευσης στο cloud για να συγχρονίσετε περισσότερα στοιχεία</string>
     <string name="slim_upgrade_button">Αναβάθμιση</string>
+    <string name="assistant_page_image_printing">Εκτύπωση</string>
+    <string name="my_family">Η Οικία μου</string>
+    <string name="user_family">"%1$s η οικία"</string>
 </resources>

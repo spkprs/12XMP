@@ -786,4 +786,17 @@
     <string name="zen_mode_settings_summary_off">Ποτέ</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση \"Μην ενοχλείτε\"</string>
     <string name="zhiyun_name">ΑΠΑΛΟ Q2</string>
+    <string name="bt_plugin_is_update_loading_dialog">Γίνεται ενημέρωση…</string>
+    <string name="bt_plugin_update_failed_toast">"Παρουσιάστηκε σφάλμα. Δεν ήταν δυνατή η φόρτωση."</string>
+    <string name="bt_plugin_update_loading_dialog">Μισό λεπτό…</string>
+    <string name="lea_disable_successfully">Το κανονικό Bluetooth χρησιμοποιείται τώρα για τη σύνδεση ακουστικών και τη μετάδοση ήχου</string>
+    <string name="lea_enable_successfully">Το LE Audio χρησιμοποιείται τώρα για τη σύνδεση ακουστικών και τη μετάδοση ήχου</string>
+    <string name="tv_calibration_doing">Βαθμονόμηση…</string>
+    <string name="tv_calibration_doing_text">Κρατήστε το πίσω μέρος του τηλεφώνου σας στη μέση της οθόνης της τηλεόρασης.</string>
+    <string name="tv_calibration_done">Η βαθμονόμηση ολοκληρώθηκε</string>
+    <string name="tv_calibration_done_text">"Η έγχρωμη οθόνη της τηλεόρασής σας ρυθμίστηκε με επιτυχία."</string>
+    <string name="tv_calibration_pre">Βαθμονόμηση χρώματος</string>
+    <string name="tv_calibration_pre_text">"Βαθμονομήστε την έγχρωμη οθόνη της τηλεόρασής σας με το τηλέφωνό σας"</string>
+    <string name="tv_calibration_start">"Τοποθετήστε την πίσω κάμερα του τηλεφώνου σας σταθερά στο μέσο της οθόνης"</string>
+    <string name="tv_calibration_start_button">Έναρξη</string>
 </resources>

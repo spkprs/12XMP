@@ -64,4 +64,12 @@
         <item quantity="other">Η συσκευή σας έχει υπερθερμανθεί. Η κάμερα θα κλείσει σε %d δευτ. Οι φωτογραφίες ή τα βίντεό σας θα αποθηκευτούν αυτόματα.</item>
         <item quantity="one">Η συσκευή σας έχει υπερθερμανθεί. Η κάμερα θα κλείσει σε %d δευτ. Οι φωτογραφίες ή τα βίντεό σας θα αποθηκευτούν αυτόματα.</item>
     </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">Μπορείτε να συνδέσετε έως και %d κάμερες στο ίδιο δίκτυο</item>
+        <item quantity="one">Μπορείτε να συνδέσετε έως και %d κάμερα στο ίδιο δίκτυο</item>
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">Μπορείτε να συνδέσετε έως και %d οθόνες στο ίδιο δίκτυο</item>
+        <item quantity="one">Μπορείτε να συνδέσετε έως και %d οθόνη στο ίδιο δίκτυο</item>
+    </plurals>
 </resources>

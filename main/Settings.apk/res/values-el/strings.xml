@@ -9291,4 +9291,13 @@ Xiaomi Cloud
     <string name="miheadset_slide_left_temple_back_forward">Σαρώστε τον αριστερό κρόταφο</string>
     <string name="miheadset_slide_right_temple_back_forward">Σαρώστε τον δεξιό κρόταφο</string>
     <string name="miui_device_control_description">Εμφάνιση εφαρμογών που υποστηρίζουν στοιχεία ελέγχου συσκευής για να είναι σε θέση να ελέγχουν συμβατές έξυπνες οικιακές συσκευές</string>
+    <string name="handle_ota_connect_first">Σύνδεση λαβής</string>
+    <string name="handle_ota_finish_fw">Ενημερώθηκε επιτυχώς</string>
+    <string name="handle_ota_update_failed">"Δεν ήταν δυνατή η ενημέρωση"</string>
+    <string name="handle_ota_updating_firmware">Μισό λεπτό…</string>
+    <string name="handle_ota_updating_tip">Ενημέρωση στο παρασκήνιο…</string>
+    <string name="screen_effect_adapt_color_summary">Ρύθμιση χρωμάτων με βάση τον τρέχοντα φωτισμό</string>
+    <string name="screen_effect_adapt_color_title">Έντονο</string>
+    <string name="screen_effect_origin_color_summary">Αναπαραγωγή ρεαλιστικών χρωμάτων μέσω βαθμονόμησης χρώματος</string>
+    <string name="screen_effect_origin_color_title">Αρχικό χρώμα PRO</string>
 </resources>

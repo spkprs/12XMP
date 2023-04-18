@@ -171,7 +171,7 @@
     <string name="grant_dialog_storage_category_title">Αυτή η εφαρμογή απαιτεί άδειες για πρόσβαση στη συλλογή και τα μηνύματα στις εφαρμογές μέσων κοινωνικής δικτύωσης</string>
     <string name="grant_dialog_storage_gallery_title">Συλλογή</string>
     <string name="grant_dialog_storage_sociality_title">Μηνύματα στις εφαρμογές μέσων κοινωνικής δικτύωσης</string>
-    <string name="keep_blur_location">Όχι</string>
+    <string name="keep_blur_location">Συνέχεια</string>
     <string name="keep_notice_me">Συνέχιση ειδοποίησης</string>
     <string name="location_settings">Υπηρεσίας τοποθεσίας</string>
     <string name="location_warning">Ο %1$s είναι ο πάροχος των υπηρεσιών τοποθεσίας για τη συγκεκριμένη συσκευή. Η πρόσβαση στην τοποθεσία μπορεί να τροποποιηθεί από τις ρυθμίσεις της τοποθεσίας.</string>
@@ -250,7 +250,7 @@
     <string name="screen_overlay_title">Ανιχνεύτηκε επικάλυψη οθόνης</string>
     <string name="send">Αποστολή</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="stop_blur_location">Ναι</string>
+    <string name="stop_blur_location">Απενεργοποίηση</string>
     <string name="storage_policy_notify_both_title">"%1$s δεν επιτρέπεται η πρόσβαση στη συλλογή και τα μηνύματα στις εφαρμογές μέσων κοινωνικής δικτύωσης"</string>
     <string name="storage_policy_notify_content">Πατήστε για να προσαρμόσετε τις άδειες</string>
     <string name="storage_policy_notify_gallery_title">"%1$s δεν επιτρέπεται η πρόσβαση στη συλλογή"</string>
