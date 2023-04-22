@@ -1117,6 +1117,7 @@
         <item>2</item>
      </string-array>
      <string-array name="alarm_in_furture_new_array">
+         <item>Αφύπνιση σε λιγότερο από %d λεπτό.</item>
          <item>Αφύπνιση σε %1$s</item>
          <item>Αφύπνιση σε %2$s</item>
          <item>Αφύπνιση σε %1$s %2$s</item>
@@ -1126,12 +1127,13 @@
          <item>Αφύπνιση σε %1$s %2$s %3$s</item>
      </string-array>
      <string-array name="alarm_set_new_array">
+         <item>Η Αφύπνιση θα απεν/θεί σε λιγότερο από %d λεπτό.</item>
          <item>Η Αφύπνιση θα απεν/θεί σε %1$s.</item>
          <item>Η Αφύπνιση θα απεν/θεί σε %2$s.</item>
-         <item>Η Αφύπνιση θα απεν/θεί σε %1$s and %2$s.</item>
+         <item>Η Αφύπνιση θα απεν/θεί σε %1$s και %2$s.</item>
          <item>Η Αφύπνιση θα απεν/θεί σε %3$s.</item>
-         <item>Η Αφύπνιση θα απεν/θεί σε %1$s and %3$s.</item>
-         <item>Η Αφύπνιση θα απεν/θεί σε %2$s and %3$s.</item>
-         <item>Η Αφύπνιση θα απεν/θεί σε %1$s %2$s and %3$s.</item>
+         <item>Η Αφύπνιση θα απεν/θεί σε %1$s και %3$s.</item>
+         <item>Η Αφύπνιση θα απεν/θεί σε %2$s και %3$s.</item>
+         <item>Η Αφύπνιση θα απεν/θεί σε %1$s %2$s και %3$s.</item>
      </string-array>
 </resources>

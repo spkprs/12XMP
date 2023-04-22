@@ -129,5 +129,10 @@
     <string name="v7_preference_on">ON</string>
     <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="calibrate_new_tip">Γείρετε απότομα τη συσκευή σας για να κυλήσει η μπίλια γύρω από τον κύκλο.</string>
+    <string name="invisible_mode_dialog_message">"Δεν μπορώ να χρησιμοποιήσω την κάμερα τώρα. Απενεργοποιήστε τη λειτουργία Incognito στις Ρυθμίσεις για να μπορέσετε να χρησιμοποιήσετε την κάμερα."</string>
+    <string name="invisible_mode_dialog_negative">Ακύρωση</string>
+    <string name="invisible_mode_dialog_positive">Ρυθμίσεις</string>
+    <string name="invisible_mode_dialog_title">"Είστε ινκόγκνιτο"</string>
+    <string name="miuix_appcompat_edit">Επεξεργασία</string>
 </resources>
 

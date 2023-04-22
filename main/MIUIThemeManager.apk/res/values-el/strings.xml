@@ -1484,4 +1484,6 @@
     <string name="large_icon_theme">Θέματα</string>
     <string name="historical_wallpaper">Χρησιμοποιήθηκε προηγουμένως</string>
     <string name="add_home_icon_success">Προστέθηκε με επιτυχία</string>
+    <string name="miuix_appcompat_edit">Επεξεργασία</string>
+    <string name="resource_search_hot_tag">Δημοφιλή</string>
 </resources>
