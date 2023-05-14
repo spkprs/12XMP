@@ -12,10 +12,6 @@
         <item>Μόνο αυτό το γεγονός</item>
         <item>Όλα τα γεγονότα στη σειρά</item>
      </string-array>
-     <string-array name="close_alarm_repeating_labels">
-        <item>Μόνο αυτή τη φορά</item>
-        <item>Απενεργ/ση επαναλαμβανόμενης υπενθύμισης</item>
-     </string-array>
      <string-array name="date_calculate_spinner">
         <item>Προς τα Εμπρός</item>
         <item>Προς τα Πίσω</item>
@@ -58,10 +54,6 @@
         <item>1</item>
         <item>0</item>
      </integer-array>
-      <string-array name="open_alarm_repeating_labels">
-        <item>Μόνο αυτή τη φορά</item>
-        <item>Ορισμός επαναλαμβανόμενης υπενθύμισης</item>
-     </string-array>
      <string-array name="prefEntries_alerts_popup_new">
         <item>Off</item>
         <item>Για όλα τα γεγονότα</item>
@@ -254,4 +246,12 @@
         <item>5</item>
         <item>6</item>
      </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Απενεργοποίηση μία φορά</item>
+        <item>Πάντα ανενεργό</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Ενεργοποίηση μία φορά</item>
+        <item>Πάντα ενεργό</item>
+    </string-array>
 </resources>

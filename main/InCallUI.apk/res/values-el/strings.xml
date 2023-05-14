@@ -280,4 +280,6 @@
     <string name="screen_share_connecting">Σύνδεση…</string>
     <string name="screen_share_message">Να επιτρέπετε στο άλλο άτομο να βλέπει την οθόνη σας σε πραγματικό χρόνο;</string>
     <string name="screen_share_refuse">Ακύρωση</string>
+    <string name="cloud_video_conference">Βιντεοδιάσκεψη Cloud</string>
+    <string name="high_temperature_toast">"Η συσκευή σας έχει υπερθερμανθεί. Δεν μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία τώρα."</string>
 </resources>

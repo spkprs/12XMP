@@ -613,4 +613,5 @@
     <string name="xspace_weixin_title">WeChat</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="can_not_switch_when_green_kid_active_new">"Δεν μπορείτε να μεταβείτε στον Δεύτερο χώρο όταν είναι ενεργοποιημένη η Οικογενειακή Προστασία"</string>
+    <string name="can_not_switch_when_extreme_endurance_battery_active">"Δεν μπορείτε να χρησιμοποιήσετε το δεύτερο χώρο λόγω χαμηλής μπαταρίας"</string>
 </resources>

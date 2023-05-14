@@ -905,4 +905,16 @@
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Μια ενημέρωση είναι διαθέσιμη</string>
     <string name="yesterday">Χθες</string>
+    <string name="pa_picker_order_go_to_allow_cta">Αποδοχή</string>
+    <string name="pa_picker_order_go_to_login">Είσοδος</string>
+    <string name="pa_picker_order_login_xiaomi_account">Συνδεθείτε στο λογαριασμό σας Xiaomi για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Επιτρέψτε σε αυτή την εφαρμογή να συνδεθεί στο διαδίκτυο για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία.</string>
+    <string name="pa_picker_recommend_add_limit_toast">"Δεν μπορείτε να προσθέσετε περισσότερα widgets"</string>
+    <string name="pa_picker_recommend_bottom_button_add">Προσθήκη widget</string>
+    <string name="pa_picker_recommend_bottom_button_download_and_add">Προσθήκη widget</string>
+    <string name="pa_picker_recommend_download_tip">Όταν προσθέτετε ένα widget, η σχετική εφαρμογή θα κατεβαίνει αυτόματα.</string>
+    <string name="pa_picker_recommend_title">Προτείνεται για εσάς</string>
+    <string name="pa_picker_widget_select_uninstall_description">%1$s, δεν έχει εγκατασταθεί</string>
+    <string name="pa_picker_widget_select_upgrade_description">%1$s, update available</string>
+    <string name="pa_picker_theme_app_version_error">Εμφανίστηκε σφάλμα</string>
 </resources>

@@ -308,5 +308,6 @@
     <string name="wireless_charging_tips_message">Τοποθετήστε τη συσκευή που θέλετε να φορτίζετε ασύρματα (π.χ. τηλέφωνο, smartwatch, ακουστικά) στο πίσω μέρος αυτού του τηλεφώνου. Βεβαιωθείτε ότι αυτό το τηλέφωνο έχει φορτιστεί τουλάχιστον %d%% πριν χρησιμοποιήσετε αντίστροφη ασύρματη φόρτιση.</string>
     <string name="wireless_charging_tips_sub_message">Η άλλη συσκευή πρέπει να υποστηρίζει το πρότυπο ασύρματης φόρτισης Qi.</string>
     <string name="wireless_charging_tips_title">Αντίστροφη ασύρματη φόρτιση</string>
+    <string name="emergency_call">Επείγουσα Κλήση</string>
 </resources>
 

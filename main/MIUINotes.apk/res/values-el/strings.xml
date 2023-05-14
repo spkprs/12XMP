@@ -899,4 +899,6 @@
     <string name="rich_text_tasklist_description">Έλεγχος λίστας</string>
     <string name="rich_text_unorderlist_description">Λίστα κουκκίδων</string>
     <string name="stealth_mode_tip">"You're incognito. Αδύνατη η χρήση μικροφώνου τώρα."</string>
+    <string name="cta_v2_app_purpose_v12_lite">Καλώς ήρθατε στις Σημειώσεις! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να δημιουργήσετε σημειώσεις και εργασίες.</string>
+    <string name="unsupported_format_remind_desc">"Αυτή η σημείωση περιλαμβάνει μορφοποίηση που δεν υποστηρίζεται από αυτή τη συσκευή. Η επεξεργασία της μπορεί να προκαλέσει σφάλματα μορφοποίησης. Ανοίγετε αυτή τη σημείωση ούτως ή άλλως;"</string>
 </resources>
