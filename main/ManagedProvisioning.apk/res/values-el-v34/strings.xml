@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cope_provisioning_summary">Οι εφαρμογές εργασίας διατηρούνται στο προφίλ εργασίας σας και διαχειρίζονται από τον διαχειριστή IT. Οι προσωπικές εφαρμογές είναι ξεχωριστές και κρυμμένες από τις εφαρμογές εργασίας. Ο διαχειριστής IT σας μπορεί να ελέγξει αυτό το %1$s και να αποκλείσει ορισμένες εφαρμογές.</string>
+    <string name="device_already_set_up">%1$s είναι ήδη ρυθμισμένο</string>
+    <string name="device_doesnt_allow_encryption_contact_admin">"Αυτό %1$s δεν επιτρέπει την κρυπτογράφηση, η οποία είναι απαραίτητη για την εγκατάσταση. Για βοήθεια, επικοινωνήστε με τον διαχειριστή IT σας."</string>
+    <string name="device_has_reset_protection_contact_admin">Το %1$s σας έχει ενεργοποιήσει την προστασία επαναφοράς. Για βοήθεια, επικοινωνήστε με τον διαχειριστή IT.</string>
+    <string name="encrypt_device_text_for_device_owner_setup">Για να ρυθμίσετε αυτό το %1$s, πρέπει πρώτα να κρυπτογραφηθεί. Αυτό μπορεί να πάρει κάποιο χρόνο.</string>
+    <string name="encrypt_device_text_for_profile_owner_setup">Για να ρυθμίσετε το προφίλ εργασίας σας, το %1$s πρέπει να κρυπτογραφηθεί. Αυτό μπορεί να πάρει κάποιο χρόνο.</string>
+    <string name="error_role_holder_hash_mismatch">"Δεν μπορείτε να ρυθμίσετε το %1$s. Επικοινωνήστε με το διαχειριστή IT και αναφέρετε \"Invalid checksum\"."</string>
+    <string name="error_role_holder_package_invalid">"Δεν μπορείτε να ρυθμίσετε το %1$s. Επικοινωνήστε με το διαχειριστή IT και αναφέρετε \"Missing or corrupted components\"."</string>
+    <string name="financed_device_screen_header">Αυτό %1$s παρέχεται από %2$s</string>
+    <string name="financed_make_payments_subheader_description">%1$s μπορείτε να εγκαταστήσετε την εφαρμογή %2$s ώστε να μπορείτε να κάνετε πληρωμές για αυτό %3$s.</string>
+    <string name="financed_make_payments_subheader_title">Πραγματοποιήστε πληρωμές για αυτό %1$s</string>
+    <string name="financed_restrict_device_subheader_description">%1$s μπορεί να περιορίσει την πρόσβαση σε αυτό το %2$s αν δεν κάνετε πληρωμές.</string>
+    <string name="financed_restrict_device_subheader_title">Αυτό %1$s μπορεί να περιοριστεί</string>
+    <string name="fully_managed_device_provisioning_permissions_secondary_subheader">Ο διαχειριστής IT μπορεί να ορίσει δικαιώματα για εφαρμογές σε αυτό το %1$s, όπως δικαιώματα μικροφώνου, κάμερας και τοποθεσίας.</string>
+    <string name="fully_managed_device_provisioning_privacy_body">Ο διαχειριστής πληροφορικής σας μπορεί να είναι σε θέση να δει τα δεδομένα και τη δραστηριότητά σας σε αυτό %1$s</string>
+    <string name="fully_managed_device_provisioning_step_2_header">"Αυτό %1$s δεν είναι ιδιωτικό"</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader">Ο διαχειριστής IT μπορεί να μπορεί να βλέπει τα δεδομένα και τη δραστηριότητά σας σε αυτό %1$s.</string>
+    <string name="fully_managed_device_provisioning_summary">"Χρησιμοποιήστε αυτό %1$s για εύκολη πρόσβαση στις εφαρμογές εργασίας σας. Αυτό %1$s δεν είναι ιδιωτικό, επομένως ο διαχειριστής IT μπορεί να μπορεί να δει τα δεδομένα και τη δραστηριότητά σας."</string>
+    <string name="fully_managed_device_with_permission_control_provisioning_summary">Χρησιμοποιήστε αυτό το %1$s για εύκολη πρόσβαση στις εφαρμογές εργασίας σας. Αυτό το %1$s δεν είναι ιδιωτικό, επομένως ο διαχειριστής IT μπορεί να μπορεί να δει τη δραστηριότητα και τα δεδομένα σας. Ο διαχειριστής IT σας μπορεί επίσης να ορίσει δικαιώματα για τις εφαρμογές σε αυτήν τη συσκευή, όπως μικρόφωνο, κάμερα και δικαιώματα τοποθεσίας.</string>
+    <string name="reset_device">Επαναφέρετε αυτό το %1$s και προσπαθήστε να το ρυθμίσετε ξανά</string>
+    <string name="setup_device">Ρυθμίστε το %1$s</string>
+    <string name="setup_device_encryption">Ρυθμίστε το %1$s. Κρυπτογράφηση</string>
+    <string name="setup_device_progress">Ρυθμίστε το %1$s. Εμφάνιση προόδου</string>
+    <string name="stop_setup_reset_device_question">Διακοπή ρύθμισης &amp; επαναφορά %1$s?</string>
+    <string name="this_will_reset_take_back_first_screen">Με αυτήν την ενέργεια θα γίνει επαναφορά του %1$s και θα επιστρέψετε στην πρώτη οθόνη</string>
+    <string name="work_profile_cant_be_added_contact_admin">Ένα προφίλ εργασίας δεν μπορεί να προστεθεί σε αυτό το %1$s. Εάν έχετε ερωτήσεις, επικοινωνήστε με τον διαχειριστή IT σας.</string>
+</resources>

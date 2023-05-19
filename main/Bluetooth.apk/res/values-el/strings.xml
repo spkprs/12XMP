@@ -193,4 +193,11 @@
     <string name="upload_succ_line5">Το αρχείο εστάλει</string>
     <string name="upload_succ_ok">ΟΚ</string>
     <string name="upload_success">%1$s Η αποστολή ολοκληρώθηκε</string>
+     <string name="call_notification_answer_action">Απάντηση</string>
+     <string name="call_notification_answer_video_action">Βίντεο</string>
+     <string name="call_notification_decline_action">Απόρριψη</string>
+     <string name="call_notification_hang_up_action">Κλείσιμο γραμμής</string>
+     <string name="call_notification_incoming_text">Εισερχόμενη κλήση</string>
+     <string name="call_notification_ongoing_text">Τρέχουσα κλήση</string>
+     <string name="call_notification_screening_text">Προβολή εισερχόμενης κλήσης</string>
 </resources>

@@ -931,5 +931,9 @@
     <string name="new_customize_high_refresh_title">Υψηλός ρυθμός ανανέωσης</string>
     <string name="opened_high_refresh_options">Εφαρμογές που χρησιμοποιούν υψηλό ρυθμό ανανέωσης</string>
     <string name="search_app_tips">Αναζήτηση εφαρμογών</string>
+    <string name="footer_max_fps" formatted="false">"
+%d. Ο ρυθμός ανανέωσης μπορεί να ρυθμιστεί σε έως και %s Hz για τις υποστηριζόμενες εφαρμογές και παιχνίδια."</string>
+    <string name="max_fps_string">Έως %s Hz</string>
+    <string name="summary_max_fps_for_intelligent">Ρυθμίστε το ρυθμό ανανέωσης δυναμικά στα %s Hz βάσει σεναρίων για την εξισορρόπηση της απόδοσης με την κατανάλωση ενέργειας</string>
 </resources>
 

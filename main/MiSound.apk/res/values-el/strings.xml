@@ -341,4 +341,5 @@
     <string name="permission_go_to_settings">Ρυθμίσεις</string>
     <string name="permission_requesr_content">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί σε κοντινές συσκευές στις Ρυθμίσεις.</string>
     <string name="permission_requesr_title">Απαιτούμενες άδειες</string>
+    <string name="effect_virtual_surround_summary_spk">Εμπλουτισμένο βάθος ήχου για αναπαραγωγή ήχου και βίντεο</string>
 </resources>

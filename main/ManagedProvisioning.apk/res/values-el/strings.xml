@@ -234,4 +234,5 @@
     <string name="error_role_holder_hash_mismatch">"Δεν είναι δυνατή η ρύθμιση της συσκευής. Επικοινωνήστε με το διαχειριστή IT και ανατρέξτε στο \"Μη έγκυρο checksum\"."</string>
     <string name="error_role_holder_package_invalid">"Δεν είναι δυνατή η ρύθμιση της συσκευής. Επικοινωνήστε με το διαχειριστή IT και ανατρέξτε στην ενότητα \"Στοιχεία που λείπουν ή είναι κατεστραμμένα\"."</string>
     <string name="setting_up">Ρύθμιση…</string>
+     <string name="sud_default_device_name">συσκευή</string>
 </resources>

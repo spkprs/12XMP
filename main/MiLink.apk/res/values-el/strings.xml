@@ -755,4 +755,8 @@
     <string name="guide_page_subtitle_earphones">"Σύρετε τα ακουστικά σας μεταξύ του τηλεφώνου, του tablet και της τηλεόρασής σας για να αλλάξετε γρήγορα τη σύνδεση των ακουστικών σας σε διαφορετική συσκευή."</string>
     <string name="guide_page_title_earphones">Γρήγορη εναλλαγή</string>
 	<string name="toast_nfc_same_wifi">Συνδέστε την TV σας και αυτή τη συσκευή στο ίδιο δίκτυο.</string>
+    <string name="onehop_mirror_guide_message_button">Το κατάλαβα</string>
+    <string name="onehop_mirror_guide_message_text_1">Μεταφέρετε την οθόνη του τηλεφώνου σας στον υπολογιστή σας με ένα πάτημα.</string>
+    <string name="onehop_mirror_guide_message_text_2">Επιλέξτε φωτογραφίες, βίντεο και άλλα αρχεία από τη Συλλογή ή τη Διαχείριση αρχείων για να τα μεταφέρετε στον υπολογιστή σας.</string>
+    <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
 </resources>

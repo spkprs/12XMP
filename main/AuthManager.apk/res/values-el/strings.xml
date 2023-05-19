@@ -272,9 +272,9 @@
     <string name="deny_fine_keep_blur_location">Κατά προσέγγιση τοποθεσία</string>
     <string name="tilte_request_coarse_location">Επιτρέπετε σε %1$s να έχει πρόσβαση στην κατά προσέγγιση τοποθεσία σας;</string>
     <string name="tilte_request_fine_location">Να επιτρέπετε σε %1$s να έχει πρόσβαση στην ακριβή σας τοποθεσία ή να χρησιμοποιεί την κατά προσέγγιση τοποθεσία;</string>
-    <string name="HIPS_Perm_operator_shake">Πρόσβαση στα δεδομένα επιταχυνσιόμετρου</string>
-    <string name="HIPS_Perm_operator_shake_Desc">Τα δεδομένα επιταχυνσιόμετρου χρησιμοποιούνται για την παρακολούθηση του προσανατολισμού και της κίνησης (π.χ. κούνημα, κλίση και περιστροφή).</string>
-    <string name="permdesc_shake">Επιτρέπετε σε %1$s να έχει πρόσβαση σε δεδομένα επιταχυνσιόμετρου;</string>
+    <string name="HIPS_Perm_operator_shake">Πρόσβαση Κίνησης και προσανατολισμού συσκευής</string>
+    <string name="HIPS_Perm_operator_shake_Desc">"Για την ανίχνευση της θέσης της συσκευής στο χώρο και την αναγνώριση του κουνήματος και του προσανατολισμού της οθόνης"</string>
+    <string name="permdesc_shake">Επιτρέπετε στο \"%1$s\" να έχει πρόσβαση στους αισθητήρες της συσκευής για να ανιχνεύει το κούνημα και την περιστροφή της οθόνης;</string>
     <string name="permdesc_isolate_storage">Επιτρέπετε στο %1$s να έχει πρόσβαση σε φωτογραφίες, βίντεο και ήχο που είναι αποθηκευμένα σε αυτή τη συσκευή;</string>
     <string name="permgroupdesc_read_media_aural">Επιτρέπετε στο %1$s να έχει πρόσβαση σε αρχεία ήχου που είναι αποθηκευμένα στη συσκευή σας;</string>
     <string name="permgroupdesc_read_media_visual">Επιτρέπετε στο %1$s να έχει πρόσβαση σε φωτογραφίες και βίντεο που είναι αποθηκευμένα στη συσκευή σας;</string>
@@ -282,4 +282,11 @@
     <string name="HIPS_Perm_operator_wall_paper_Desc">Αλλαγή ταπετσαριών και προεπιλεγμένες υπηρεσίες δυναμικής ταπετσαρίας</string>
     <string name="deny_fine_keep_blur_location_dont_ask_again">Πάντα να επιτρέπεται η κατά προσέγγιση</string>
     <string name="permdesc_get_installed_apps">Επιτρέπετε στο \"%1$s\" να έχει πρόσβαση σε πληροφορίες σχετικά με τις εγκατεστημένες εφαρμογές;</string>
+     <string name="call_notification_answer_action">Απάντηση</string>
+     <string name="call_notification_answer_video_action">Βίντεο</string>
+     <string name="call_notification_decline_action">Απόρριψη</string>
+     <string name="call_notification_hang_up_action">Κλείσιμο γραμμής</string>
+     <string name="call_notification_incoming_text">Εισερχόμενη κλήση</string>
+     <string name="call_notification_ongoing_text">Τρέχουσα κλήση</string>
+     <string name="call_notification_screening_text">Προβολή εισερχόμενης κλήσης</string>
 </resources>

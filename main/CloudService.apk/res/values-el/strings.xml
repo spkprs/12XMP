@@ -313,7 +313,7 @@
     <string name="micloud_detail_fail">απέτυχε</string>
     <string name="micloud_detail_query_error">Αδυναμία λήψης κατάστασης συγχρονισμού</string>
     <string name="micloud_dspt">Συγχρονίστε τις επαφές, τα μηνύματα, το ιστορικό κλήσεων και άλλα στοιχεία σε όλες τις συσκευές.\nΕντοπίστε και κλειδώστε τη συσκευή σας σε περίπτωση απώλειας.</string>
-    <string name="micloud_dspt_provision">Χρήση του Xiaomi Cloud για να συγχρονίσετε τα δεδομένα, να εντοπίσετε τη συσκευή σας και να μοιραστείτε πράγματα με φίλους.</string>
+    <string name="micloud_dspt_provision">Μπορείτε να χρησιμοποιήσετε το Xiaomi Cloud για να συγχρονίσετε φωτογραφίες, επαφές, μηνύματα, ιστορικό κλήσεων, σημειώσεις και άλλα δεδομένα, να εντοπίσετε τη συσκευή σας και να μοιραστείτε στοιχεία με φίλους. Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά. Ο συγχρονισμός στοιχείων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής τηλεφωνίας και ενεργοποίηση του Wi-Fi.</string>
     <string name="micloud_dspt_provision_china">Χρήση του Xiaomi Cloud για να συγχρονίσετε δεδομένα, να εντοπίσετε τη συσκευή σας και να μοιραστείτε πράγματα με φίλους.</string>
     <string name="micloud_dspt_provision_china_no_call">Μπορείτε να χρησιμοποιήσετε το Xiaomi Cloud για να συγχρονίσετε φωτογραφίες, επαφές, μηνύματα, σημειώσεις, εγγραφές και άλλα δεδομένα, να εντοπίσετε τη συσκευή σας και να μοιραστείτε στοιχεία με φίλους. Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά. Ο συγχρονισμός στοιχείων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής και ενεργοποίηση του WLAN.</string>
     <string name="micloud_dspt_provision_china_no_sms">Μπορείτε να χρησιμοποιήσετε το Xiaomi Cloud για να συγχρονίσετε φωτογραφίες, επαφές, ιστορικό κλήσεων, σημειώσεις και άλλα δεδομένα, να εντοπίσετε τη συσκευή σας και να μοιραστείτε στοιχεία με φίλους. Αυτή η εφαρμογή πρέπει να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά. Ο συγχρονισμός στοιχείων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής και ενεργοποίηση του WLAN.</string>
@@ -484,7 +484,8 @@
     <string name="micloud_space_applist_title">Διαχείριση εφαρμογών</string>
     <string name="micloud_space_duokan_detail">Διαχειριστείτε το περιεχόμενο Duokan με την χρήση της εφαρμογής Duokan.</string>
     <string name="micloud_space_duokan_title">Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">Διαχείριση των ηχογραφήσεων που είναι αποθηκευμένες στη συσκευή σας</string>
+    <string name="micloud_space_soundrecorder_detail">"Ανοίξτε την εφαρμογή Recorder στη συσκευή Xiaomi και επιλέξτε το φάκελο με τα στοιχεία που είναι αποθηκευμένα στο cloud.
+Βεβαιωθείτε ότι χρησιμοποιείτε τον συσχετισμένο λογαριασμό Xiaomi ως λογαριασμό συστήματος MIUI."</string>
     <string name="micloud_space_soundrecorder_title">Ηχογραφήσεις</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Χρειάζεται να ανανεώσετε τη συνδρομή σας.</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Χρειάζεται να ανανεώσετε τη συνδρομή σας.</string>
@@ -913,5 +914,7 @@
     <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Λιγότερο από &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> απομένουν στο Cloud</string>
     <string name="privacy_runtime_perm_notification_desc">Για την αποστολή ειδοποιήσεων των υπηρεσιών Xiaomi Cloud</string>
     <string name="privacy_runtime_perm_notification_title">Ειδοποιήσεις</string>
+    <string name="upgrade_member_storage">Μέλος Xiaomi Cloud</string>
+    <string name="gallery_service_termination_announcement">Ειδοποίηση για τον τερματισμό του συγχρονισμού Xiaomi Cloud για στοιχεία της Συλλογής και μεταφορά στις Φωτογραφίες Google</string>
 </resources>
 

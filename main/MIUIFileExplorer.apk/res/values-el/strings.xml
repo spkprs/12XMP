@@ -952,4 +952,7 @@
     <string name="pad">Tablet</string>
     <string name="pad_homepage_tab_file_view_phone">Tablet</string>
     <string name="pad_start_phone">Αποθήκευση</string>
+    <string name="operation_copy_clipboard">Αντιγραφή στο πρόχειρο</string>
+    <string name="operation_copy_local">Αντιγραφή σε φάκελο</string>
+    <string name="toast_copy_clipboard">Προστέθηκε στο πρόχειρο</string>
 </resources>

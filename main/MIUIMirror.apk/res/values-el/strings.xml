@@ -68,7 +68,7 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Για τη μεταφορά αρχείων μεταξύ συσκευών</string>
     <string name="date_picker_lunar">Κινέζικο παραδοσιακό ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
-    <string name="default_boss_terminal_name">Mi Notebook</string>
+    <string name="default_boss_terminal_name">Xiaomi υπολογιστής</string>
     <string name="default_error_msg">Άγνωστο σφάλμα</string>
     <string name="device_max_screen_count_toast">Αυτή η συσκευή υποστηρίζει μόνο το ταυτόχρονο άνοιγμα δύο παραθύρων</string>
     <string name="display_max_screen_count_toast">Μπορείτε να ανοίξετε έως και 3 παράθυρα σε αυτήν την έκδοση</string>
@@ -146,7 +146,7 @@
     <string name="login_xiaomi_account_summary_phone">Για να μπορέσετε να συνδεθείτε σε άλλα tablet, χρησιμοποιήστε τον ίδιο λογαριασμό Xiaomi και στις δύο συνδεδεμένες συσκευές. Σύνδεση τώρα;</string>
     <string name="login_xiaomi_account_title">Συνδεθείτε στο λογαριασμό Xiaomi</string>
     <string name="low_battery_notification_action">Ενεργοποίηση</string>
-    <string name="low_battery_notification_content">Λιγότερο από %2$d%% μπαταρίας απομένει στο %1$s. Ενεργοποιήστε την εξοικονόμηση μπαταρίας.</string>
+    <string name="low_battery_notification_content">Λιγότερο από %2$s υπόλοιπο μπαταρίας σε %1$s</string>
     <string name="low_battery_notification_title">Χαμηλή μπαταρία</string>
     <string name="low_version_dialog_message">Ενημερώστε το MIUI+ στο PC σας ή κατεβάστε την τελευταία έκδοση από plus.miui.com.</string>
     <string name="low_version_dialog_title">Ενημέρωση MIUI+</string>
@@ -364,7 +364,7 @@
     <string name="settings_connect">Πώς να συνδεθείτε</string>
     <string name="settings_connect_more_help"><u>Βοήθεια</u></string>
     <string name="settings_connect_pc_group">Εργασία με τον υπολογιστή</string>
-    <string name="settings_connect_summary1">Λήψη και εγκατάσταση του MIUI+ Beta στον υπολογιστή σας:  https://plus.miui.com</string>
+    <string name="settings_connect_summary1">Ανοίξτε το Mi Smart Share στον υπολογιστή σας και επιλέξτε \"Screen Combo\". Μπορείτε να κατεβάσετε το Mi Smart Share από τη διεύθυνση www.miui.com.</string>
     <string name="settings_connect_summary2">Σαρώστε τον κωδικό QR στην οθόνη του υπολογιστή με την κινητή συσκευή σας. Μπορείτε να χρησιμοποιήσετε πολλές εφαρμογές συστήματος (π.χ.. Σαρωτής, κάμερα, πρόγραμμα περιήγησης Mi) για να το κάνετε αυτό.</string>
     <string name="settings_connect_title1">Βήμα 1</string>
     <string name="settings_connect_title2">Βήμα 2</string>
@@ -521,4 +521,9 @@
     <string name="softap_dialog_message">"Δεν υπάρχουν διαθέσιμα δίκτυα WLAN εδώ κοντά. Σύνδεση με ενεργό σημείο;"</string>
     <string name="softap_dialog_ok">OK</string>
     <string name="softap_dialog_title">Σύνδεση με %1$s</string>
+    <string name="low_battery_notification_content_default">Η μπαταρία του τηλεφώνου είναι χαμηλότερη από %1$s</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">"Δεν μπορούσε να συνδεθεί στον υπολογιστή. Βεβαιωθείτε ότι το Wi-Fi και το Bluetooth είναι ενεργοποιημένα και στις δύο συσκευές.."</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">"Δεν μπορούσε να συνδεθεί στον υπολογιστή. Βεβαιωθείτε ότι το Wi-Fi και το Bluetooth είναι ενεργοποιημένα και στις δύο συσκευές.."</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Δεν μπορούσε να συνδεθεί στον υπολογιστή. Βεβαιωθείτε ότι έχετε ενεργοποιήσει το Wi-Fi και το Bluetooth τόσο στο τηλέφωνο όσο και στον υπολογιστή σας και ότι ο υπολογιστής σας εκτελεί MIUI+."</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Δεν μπορούσε να συνδεθεί στον υπολογιστή. Βεβαιωθείτε ότι έχετε ενεργοποιήσει το Wi-Fi και το Bluetooth τόσο στο τηλέφωνο όσο και στον υπολογιστή σας και ότι ο υπολογιστής σας εκτελεί MIUI+."</string>
 </resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_unlock_button">Ξεκλείδωτο</string>
+    <string name="high_temp_alarm_notify_message">Η συσκευή σας ζεσταίνεται κοντά στη θύρα φόρτισης. Εάν είναι συνδεδεμένη με φορτιστή ή αξεσουάρ USB, αποσυνδέστε το και προσέξτε, καθώς το καλώδιο μπορεί επίσης να είναι ζεστό.</string>
+    <string name="high_temp_alarm_title">Αποσυνδέστε τη συσκευή σας</string>
+    <string name="keyguard_plugged_in_charging_limited">%s • Βελτιστοποιημένη φόρτιση για προστασία της μπαταρίας</string>
+    <string name="letterbox_education_dialog_title">Δείτε και κάντε περισσότερα</string>
+</resources>
