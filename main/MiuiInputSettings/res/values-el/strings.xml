@@ -43,10 +43,10 @@
     <string name="auto_disable_screenbuttons_summary">Αυτόματη απενεργοποίηση κουμπιών πλοήγησης κατά τη χρήση επιλεγμένων εφαρμογών. Διπλό κλικ σε οποιοδήποτε κουμπί πλοήγησης για να το επανενεργοποιήσετε.</string>
     <string name="auto_disable_screenbuttons_title">Αυτόματη απενεργοποίηση κουμπιών πλοήγησης</string>
     <string name="back_button">Πίσω</string>
-    <string name="back_double_tap">Διπλό πισινό πάτημα</string>
+    <string name="back_double_tap">Διπλό πίσω πάτημα</string>
     <string name="back_key">Πίσω</string>
-    <string name="back_tap">Πισινό πάτημα</string>
-    <string name="back_triple_tap">Τριπλό πισινό πάτημα</string>
+    <string name="back_tap">Πίσω πάτημα</string>
+    <string name="back_triple_tap">Τριπλό πίσω πάτημα</string>
     <string name="bottomsheet_action_expand_halfway">Ανάπτυξη μέχρι τη μέση</string>
     <string name="builtin_keyboard_settings_title">Πραγματικό πληκτρολόγιο</string>
     <string name="camera_key_action_app_title">Άνοιγμα εφαρμογής</string>
