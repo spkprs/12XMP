@@ -2060,7 +2060,6 @@
     <string name="pref_true_colour_video_mode_summary">Καταγράψτε βίντεο 1080P και 4K στις λειτουργίες Video και Pro για να αποτυπώσετε ζωντανές λεπτομέρειες, εκπληκτικά χρώματα και εντυπωσιακή αντίθεση (αυτή η λειτουργία ενδέχεται να μην είναι συμβατή με ορισμένες εφαρμογές τρίτων).</string>
     <string name="reset_manual_picture_style_new_toast">Επαναφορά των παραμέτρων με επιτυχία</string>
     <string name="selfie_setting_title">Ρυθμίσεις αυτοφωτογραφίας</string>
-    <string name="settings_camera_lens_auto_switch_title">Αυτόματη ρύθμιση φακού</string>
     <string name="slow_shutter_description_title">Αργό κλείστρο</string>
     <string name="street_tip_far">Τοποθετήστε το θέμα εντός %d μέτρων</string>
     <string name="street_tip_middle">Τοποθετήστε το θέμα εντός %d μέτρων</string>

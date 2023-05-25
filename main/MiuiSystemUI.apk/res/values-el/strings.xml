@@ -2010,7 +2010,6 @@
     <string name="remove_from_settings_prompt">Αφαίρεση του System UI Tuner  από τις Ρυθμίσεις και πάυση χρήσης όλων των χαρακτηριστικών;</string>
     <string name="report_rejected_touch">Αναφορά απόρριψης αφής</string>
     <string name="reset">Επαναφορά</string>
-    <string name="restart_button_description">Πατήστε για επανεκκίνηση αυτής της εφαρμογής και μετάβαση σε πλήρη οθόνη.</string>
     <string name="retail_demo_reset_message">Πληκτρολογήστε τον κωδικό πρόσβασης για να πραγματοποιήσετε επαναφορά εργοστασιακών ρυθμίσεων σε λειτουργία επίδειξης</string>
     <string name="retail_demo_reset_next">Επόμενο</string>
     <string name="retail_demo_reset_title">Απαιτείται κωδικός πρόσβασης</string>
