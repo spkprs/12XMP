@@ -8,6 +8,16 @@
     <string name="app_ver_name">1.0</string>
     <string name="audio_record_des">Για τη μετάδοση ήχου από την συσκευή σας σε εξωτερικές οθόνες</string>
     <string name="casting_tips">Προβολή...</string>
+    <string name="circulate_headset_control_anc_clear">Διαφάνεια</string>
+    <string name="circulate_headset_control_anc_disable_hint">Τα ακουστικά σας είναι συνδεδεμένα σε δύο συσκευές. Μπορείτε να ρυθμίσετε την ένταση ήχου μόνο από αυτή τη συσκευή.</string>
+    <string name="circulate_headset_control_anc_noise_cancel">Εξάλειψη θορύβου</string>
+    <string name="circulate_headset_control_anc_off">Off</string>
+    <string name="circulate_headset_control_battery_case">Θήκη</string>
+    <string name="circulate_headset_control_battery_left">Α</string>
+    <string name="circulate_headset_control_battery_right">Δ</string>
+    <string name="circulate_headset_control_more_settings">Πρόσθετες ρυθμίσεις</string>
+    <string name="circulate_headset_error_headset_not_worn">Βάλτε και τα δύο ακουστικά και δοκιμάστε ξανά</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Βάλτε και τα δύο ακουστικά και δοκιμάστε ξανά</string>
     <string name="close">Κλείστε</string>
     <string name="close_hotspot_hint">Απενεργοποιήστε το φορητό σημείο πρόσβασης πριν την μετάδοση</string>
     <string name="close_slave_wifi_hint">Αποσυνδεθείτε από βοηθητικά δίκτυα Wi-Fi πριν από τη μετάδοση</string>

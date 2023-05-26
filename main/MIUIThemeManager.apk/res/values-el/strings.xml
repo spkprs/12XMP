@@ -99,6 +99,7 @@
     <string name="apply_not_support_aod">Η \"Πάντα στην Οθόνη\" δεν υποστηρίζεται σε αυτήν τη συσκευή</string>
     <string name="apply_not_support_in_second_space">Δεν είναι δυνατή η εφαρμογή αυτού του στοιχείου στο Δεύτερο χώρο</string>
     <string name="apply_not_support_maml_aod">Δεν είναι δυνατό να συνδυαστεί στη \"Πάντα στην Οθόνη\" με θέματα σε αυτήν τη συσκευή</string>
+    <string name="apply_not_support_video_wallpaper_warning">"4K, 8K, και τα βίντεο Dolby δεν μπορούν να οριστούν ως ταπετσαρίες βίντεο."</string>
     <string name="apply_sensor_video_wallpaper_dialog_message">Αυτή η ταπετσαρία θα εφαρμοστεί στις εσωτερικές και εξωτερικές οθόνες κλειδώματος και αρχικής οθόνης.</string>
     <string name="apply_succeed">Εφαρμόστηκε με επιτυχία</string>
     <string name="apply_success_not_enable_aod">Ενεργοποιήστε την \"Πάντα στην Οθόνη\" στις Ρυθμίσεις πρώτα</string>

@@ -40,6 +40,7 @@
     <string name="actionbar_close_description">Κλείστε</string>
     <string name="actionbar_home_description">Πίσω</string>
     <string name="add_account_desc">Είσοδος &amp; Συγχρονισμός των σημειώσεων με το λογαριασμό Mi;</string>
+    <string name="added_to_clipboard">Αντιγράφηκε επιτυχώς</string>
     <string name="afternoon">ΜΜ</string>
     <string name="alarm_bar_title">Υπενθύμιση</string>
     <string name="alert_action_edit_anyway">Συνέχιση επεξεργασίας</string>
@@ -78,6 +79,7 @@
     <string name="character_counter_overflowed_content_description">Υπέρβαση ορίου χαρακτήρων %1$d από %2$d</string>
     <string name="check_in_todo_app">Προβολή εργασιών</string>
     <string name="clear_text_end_icon_content_description">Διαγραφή κειμένου</string>
+    <string name="clip_resource_deleted">Αυτό το στοιχείο δεν είναι πλέον διαθέσιμο</string>
     <string name="cloud_service_state_open_reminder">Ενεργοποίηση συγχρονισμού με το Cloud.</string>
     <string name="cloud_service_state_open_reminder_note_and_todo">Ενεργοποιήστε το συγχρονισμό στο Mi Cloud , τις σημαντικές σημειώσεις, για να μην χαθούν.</string>
     <string name="cloud_trash_bin_title">Διαγραφή σημειώσεων από το Mi Cloud</string>
