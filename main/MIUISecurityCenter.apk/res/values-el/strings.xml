@@ -5955,7 +5955,6 @@
     <string name="overlay_permission_dialog_message_pad">Η ασφάλεια χρειάζεται δικαιώματα για να λειτουργήσει κανονικά.</string>
     <string name="overlay_permission_dialog_open">Ρυθμίσεις</string>
     <string name="overlay_permission_dialog_title">Απαιτούμενες άδειες</string>
-    <string name="permission_instruction_wall_paper">Εκχωρήστε αυτό το δικαίωμα για να επιτρέψετε στις εφαρμογές να αλλάζουν προεπιλεγμένες δυναμικές υπηρεσίες ταπετσαρίας και να συνεχίζουν να εκτελούνται στο παρασκήνιο.</string>
     <string name="precise_location_title">Ακριβής τοποθεσία</string>
 </resources>
 
