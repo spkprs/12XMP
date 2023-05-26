@@ -686,4 +686,11 @@
     <string name="zen_mode_forever">Μέχρι να απενεργοποιήσετε</string>
     <string name="zen_mode_settings_summary_off">Ποτέ</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση λειτουργίας \"Μην ενοχλείτε\"</string>
+    <string name="back">Πίσω</string>
+    <string name="callendpoint_name_bluetooth">Bluetooth</string>
+    <string name="callendpoint_name_earpiece">Ακουστικά</string>
+    <string name="callendpoint_name_speaker">Ηχείο</string>
+    <string name="callendpoint_name_streaming">Εξωτερικά</string>
+    <string name="callendpoint_name_unknown">Άγνωστο</string>
+    <string name="callendpoint_name_wiredheadset">Ενσύρματα ακουστικά</string>
 </resources>

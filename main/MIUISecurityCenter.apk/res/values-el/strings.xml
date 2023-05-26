@@ -5934,5 +5934,28 @@
 
 Η ενεργοποίηση του ενός θα απενεργοποιήσει το άλλο."</string>
     <string name="vb_video_effects_immersion_sound_summary_new">Εμπειρία εμβύθισης και αίσθηση του χώρου όταν αναπαράγεται υποστηριζόμενος ήχος</string>
+    <string name="allow_onetime">Επιτρέπεται μία φορά</string>
+    <string name="app_management_for_chain_start">Αποκλεισμός ανοίγματος άλλων εφαρμογών</string>
+    <string name="app_management_for_chain_start_desc">Αποτροπή αυτής της εφαρμογής από τη σύνδεση ή το άνοιγμα άλλων εφαρμογών</string>
+    <string name="app_management_for_device_id">Απόκρυψη αναγνωριστικών και αποτροπή παρακολούθησης</string>
+    <string name="app_management_for_device_id_desc">Αποτροπή πρόσβασης αυτής της εφαρμογής στον αριθμό τηλεφώνου σας και στα προσωπικά στοιχεία αναγνώρισης</string>
+    <string name="app_management_for_independent_storage">Απομόνωση αποθηκευμένων δεδομένων</string>
+    <string name="app_management_for_independent_storage_desc">Να επιτρέπεται στην εφαρμογή να έχει πρόσβαση μόνο στα δικά της αρχεία και δεδομένα</string>
+    <string name="app_management_for_install">Αποκλεισμός λήψεων εφαρμογής</string>
+    <string name="app_management_for_install_desc">Αποτροπή λήψης ή εγκατάστασης άλλων εφαρμογών από αυτήν την εφαρμογή</string>
+    <string name="app_management_measures">Διαχείριση εφαρμογών</string>
+    <string name="autostart_now_tip">"Αποκλείστηκε \"%1$s\" από άνοιγμα \"%2$s\" "</string>
+    <string name="chainstart_desc_for_exemption">Η μη αναθεωρημένη εφαρμογή \"%1$s\" ανοίγει την εφαρμογή \"%2$s\". Προσέξτε όταν κάνετε πληρωμές.</string>
+    <string name="cs_pickup_denoise_desc">Μείωση θορύβου εισερχόμενου ήχου κατά τη χρήση ηχείων ή ακουστικών</string>
+    <string name="cs_pickup_denoise_title">Μείωση θορύβου</string>
+    <string name="cta_main_purpose_new">"Καλώς ήρθατε στην Ασφάλεια! Μπορείτε να χρησιμοποιήσετε την Ασφάλεια και τις ενότητές της (συμπεριλαμβανομένων των στοιχείων ασφαλείας του MIUI, των υπηρεσιών συστήματος και του Joyose) για να απελευθερώσετε χώρο αποθήκευσης, να σαρώσετε τη συσκευή σας για ιούς, να ελέγξετε τη χρήση της μπαταρίας, να βελτιστοποιήσετε τη συσκευή σας για παιχνίδια, να διαχειριστείτε εφαρμογές, να λάβετε έγκαιρες προειδοποιήσεις για σεισμούς και πολλά άλλα. Τα στοιχεία ασφαλείας του MIUI θα συνδέονται στο διαδίκτυο και θα εκτελούν σαρώσεις ασφαλείας ενώ εγκαθιστάτε εφαρμογές και πραγματοποιείτε πληρωμές."</string>
+    <string name="overlay_permission_dialog_comment">Να επιτρέπεται στην Ασφάλεια η εμφάνιση στοιχείων σε άλλες εφαρμογές.</string>
+    <string name="overlay_permission_dialog_comment_pad">Να επιτρέπεται στην Ασφάλεια η εμφάνιση στοιχείων σε άλλες εφαρμογές.</string>
+    <string name="overlay_permission_dialog_message">Η ασφάλεια χρειάζεται δικαιώματα για να λειτουργήσει κανονικά.</string>
+    <string name="overlay_permission_dialog_message_pad">Η ασφάλεια χρειάζεται δικαιώματα για να λειτουργήσει κανονικά.</string>
+    <string name="overlay_permission_dialog_open">Ρυθμίσεις</string>
+    <string name="overlay_permission_dialog_title">Απαιτούμενες άδειες</string>
+    <string name="permission_instruction_wall_paper">Εκχωρήστε αυτό το δικαίωμα για να επιτρέψετε στις εφαρμογές να αλλάζουν προεπιλεγμένες δυναμικές υπηρεσίες ταπετσαρίας και να συνεχίζουν να εκτελούνται στο παρασκήνιο.</string>
+    <string name="precise_location_title">Ακριβής τοποθεσία</string>
 </resources>
 
