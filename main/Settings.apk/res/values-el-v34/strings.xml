@@ -641,4 +641,10 @@
     <string name="storage_wizard_ready_v2_external_body">Μπορείτε να αρχίσετε να χρησιμοποιείτε την ^1</string>
     <string name="storage_wizard_ready_v2_internal_body">Μπορείτε να αρχίσετε να χρησιμοποιείτε την ^1</string>
     <string name="storage_wizard_ready_v2_internal_moved_body">Μπορείτε να αρχίσετε να χρησιμοποιείτε την ^1</string>
+    <string name="hover_mode_guide_text">Όταν η εσωτερική οθόνη πραγματοποιεί μια κλήση ή αναπαράγει ένα βίντεο, μπορείτε να χρησιμοποιήσετε τη λειτουργία Αιώρησης στο κάτω μισό της οθόνης.</string>
+    <string name="hover_mode_name">Λειτουργία Αιώρησης</string>
+    <string name="hover_mode_no_support_apps">Χωρίς υποστηριζόμενες εφαρμογές</string>
+    <string name="hover_mode_support_apps">Υποστηριζόμενες εφαρμογές</string>
+    <string name="miheadset_close_broadcast_audio">Κλείσιμο Μετάδοσης</string>
+    <string name="notice_audio_share_disconnected">Δεν γίνεται πλέον κοινή χρήση ήχου λόγω διακοπής σύνδεσης</string>
 </resources>

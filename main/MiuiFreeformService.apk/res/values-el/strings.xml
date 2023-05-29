@@ -53,4 +53,6 @@
     <string name="freeform_guide_free_drag_title">Σύρετε στοιχεία στα παράθυρα</string>
     <string name="freeform_guide_multiple_window_summary">Πατήστε παρατεταμένα ένα εικονίδιο εφαρμογής στο dock για να ανοίξετε ένα νέο παράθυρο.\n*Αυτή η δυνατότητα λειτουργεί με σημειώσεις, αλληλογραφία, πρόγραμμα περιήγησης και WPS.</string>
     <string name="freeform_guide_multiple_window_title">Άνοιγμα πολλαπλών παραθύρων</string>
+     <string name="freeform_guide_free_drag_title_phone">Σύρετε για να αντιγράψετε σε άλλες εφαρμογές</string>
+     <string name="freeform_guide_how_to_free_drag_summary_phone">Πατήστε παρατεταμένα την εικόνα και σύρετέ την σε μια άλλη εφαρμογή</string>
 </resources>
