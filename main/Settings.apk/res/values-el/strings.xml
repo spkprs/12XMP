@@ -9300,4 +9300,10 @@ Xiaomi Cloud
     <string name="screen_effect_adapt_color_title">Έντονο</string>
     <string name="screen_effect_origin_color_summary">Αναπαραγωγή ρεαλιστικών χρωμάτων μέσω βαθμονόμησης χρώματος</string>
     <string name="screen_effect_origin_color_title">Αρχικό χρώμα PRO</string>
+    <string name="eye_gaze_dialog_message">"Όταν ενεργοποιείτε την Ανίχνευση βλέμματος, η συσκευή δεν θα κλειδώνει όταν ανιχνεύει ότι κοιτάτε την οθόνη. Τα χαρακτηριστικά του προσώπου σας δεν θα αναλύονται και οι πληροφορίες του προσώπου σας δεν θα αποθηκεύονται στη συσκευή σας ούτε θα μεταφορτώνονται στο cloud. Ενεργοποίηση τώρα;"</string>
+    <string name="eye_gaze_dialog_title">Ειδοποίηση ασφαλείας</string>
+    <string name="nrca_registered">Εγγεγραμμένο</string>
+    <string name="nrca_type_title">Κατάσταση συνάθροισης φορέα</string>
+    <string name="nrca_unregistered">Μη εγγεγραμμένο</string>
+    <string name="otg_new_tip">Ενεργοποιήστε το OTG για να μπορείτε να συνδέετε τη συσκευή σας απευθείας με άλλες συσκευές μέσω USB. Αυτή η λειτουργία θα απενεργοποιηθεί αυτόματα μετά από %d λεπτά αδράνειας.</string>
 </resources>

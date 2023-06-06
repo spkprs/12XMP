@@ -6,6 +6,10 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"Λήξη πιστοποιητικού:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"Επιτρέψτε τη σύνδεση αυτού του δικτύου μόνο εάν οι παρακάτω πληροφορίες φαίνονται σωστές.
 
 "</string>
@@ -21,12 +25,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Υπογραφή:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Δακτυλικό αποτύπωμα SHA-256:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">"Μην συνδεθείτε"</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Συνδεθείτε οπωσδήποτε</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">"Αποσύνδεση τώρα"</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Παραμείνετε συνδεδεμένοι</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">Από το δίκτυο %1$s λείπει ένα πιστοποιητικό.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Μάθετε πώς να προσθέτετε πιστοποιητικά</string>
     <string name="wifi_ca_cert_dialog_preT_title">"Δεν μπορώ να επαληθεύσω αυτό το δίκτυο"</string>
