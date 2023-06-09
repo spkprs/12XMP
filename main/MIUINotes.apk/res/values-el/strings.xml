@@ -905,4 +905,5 @@
     <string name="unsupported_format_remind_desc">"Αυτή η σημείωση περιλαμβάνει μορφοποίηση που δεν υποστηρίζεται από αυτή τη συσκευή. Η επεξεργασία της μπορεί να προκαλέσει σφάλματα μορφοποίησης. Ανοίγετε αυτή τη σημείωση ούτως ή άλλως;"</string>
     <string name="insert_image_size_limit_tip">"Αυτή η εικόνα είναι πάνω από %d MB. Έχει συμπιεστεί αυτόματα."</string>
     <string name="warn_enter_browse_mode_forbid_create">"Δεν μπορείτε να δημιουργήσετε ή να επεξεργαστείτε σημειώσεις σε λειτουργία μόνο για ανάγνωση"</string>
+    <string name="paste_unsupported_data">"Δεν μπορείτε να επικολλήσετε αυτό το περιεχόμενο"</string>
 </resources>

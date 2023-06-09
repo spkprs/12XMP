@@ -567,4 +567,21 @@
     <string name="long_press_power_guide_title">Αφύπνιση με το κουμπί Power</string>
     <string name="stylus_connect_fail_not_match_tablet">"Η γραφίδα δεν είναι συμβατή με το tablet"</string>
     <string name="application_label">Ρυθμίσεις εισαγωγής</string>
+    <string name="bt_enable_pair_connect_cancel">Ακύρωση</string>
+    <string name="bt_enable_pair_connect_fail">"Αδυναμία σύνδεσης. Προσπαθήστε ξανά."</string>
+    <string name="bt_enable_pair_connect_ok">Σύνδεση</string>
+    <string name="bt_enable_pair_connect_succceed">Επιτυχής σύνδεση</string>
+    <string name="bt_enable_pair_connecting">Συνδέεται…</string>
+    <string name="kddi_long_press_power_guide_assistant_message">Κρατήστε πατημένο το κουμπί λειτουργίας για %sδ για αφύπνιση του Google Assistant</string>
+    <string name="kddi_long_press_power_guide_assistant_title">Αφύπνιση Google Assistant</string>
+    <string name="kddi_long_press_power_guide_know">Κατανοητό</string>
+    <string name="kddi_long_press_power_guide_settings">Ρυθμίσεις</string>
+    <string name="kddi_long_press_power_guide_shutdown_message">Πιέστε ταυτόχρονα τα πλήκτρα λειτουργίας και έντασης ήχου για επανεκκίνηση ή απενεργοποίηση της συσκευής σας.</string>
+    <string name="kddi_long_press_power_guide_shutdown_title">Επανεκκίνηση ή απενεργοποίηση συσκευής</string>
+    <string name="keyboard_connect_fail_text">"Αδυναμία σύνδεσης πληκτρολογίου"</string>
+    <string name="keyboard_connect_lose_text">Απώλεια σύνδεσης πληκτρολογίου</string>
+    <string name="keyboard_connect_low_electricity_text">Η μπαταρία του πληκτρολογίου είναι χαμηλή. Συνδέστε το σε μια πηγή ρεύματος..</string>
+    <string name="keyboard_connect_success_text">Επιτυχής σύνδεση πληκτρολογίου</string>
+    <string name="stylus_quick_note_summary">Όταν η οθόνη είναι απενεργοποιημένη, χτυπήστε την με τη γραφίδα σας για να ξεκινήσετε να γράφετε. Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας.</string>
+    <string name="stylus_quick_note_title">Γράψτε με απενεργοποιημένη την οθόνη</string>
 </resources>

@@ -60,7 +60,7 @@
     <string name="controls_edit_added_subtitle">Σύρετε στοιχεία για να τα αναδιατάξετε</string>
     <string name="controls_edit_added_title">Προστέθηκε</string>
     <string name="controls_edit_done_button">Τέλος</string>
-    <string name="controls_edit_go_to_app_guide">Άνοιγμα</string>
+    <string name="controls_edit_go_to_app_guide">Άνοιγμα %s</string>
     <string name="controls_edit_not_added_title">Διαθέσιμη</string>
     <string name="controls_error_failed">Σφάλμα, δοκιμάστε ξανά</string>
     <string name="controls_error_generic">Σφάλμα</string>
@@ -283,6 +283,7 @@
     <string name="slider_view_content_description">Σάρωση επάνω για απενεργοποίηση ή σάρωση κάτω για επανεκκίνηση</string>
     <string name="smart_home_title">Έξυπνες συσκευές</string>
     <string name="status_bar_setting_title">Κέντρο ελέγχου και γραμμή κατάστασης</string>
+    <string name="system_update">Ενημέρωση συστήματος</string>
     <string name="switch_bar_off">Off</string>
     <string name="switch_bar_on">On</string>
     <string name="timer_1_hour">%d ώρ.</string>
