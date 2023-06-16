@@ -111,8 +111,9 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="theme_manager_not_supported">Τα Θέματα δεν υποστηρίζονται.</string>
-    <string name="three_seconds_auto_hide">Σύμπτυξη μετά από 3 δευτ αδράνειας</string>
+    <string name="three_seconds_auto_hide">Παραμονή στην άκρη μετά από %d δευτ. αδράνειας</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
-   <string name="view_privacy">Προβολή πολιτικής απορρήτου</string>
+    <string name="view_privacy">Προβολή πολιτικής απορρήτου</string>
+    <string name="miuix_appcompat_edit">Επεξεργασία</string>
 </resources>

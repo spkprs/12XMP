@@ -3639,6 +3639,9 @@
     <string name="yuzhitiaojie">Κλίμακα προσαρμογής πάχους</string>
     <string name="zi_ding_yi_wenben">Προσαρμοσμένο μέγεθος</string>
     <string name="zman_title">Ασφαλής κοινή χρήση</string>
+    <string name="immersion_menu_all_photos">Όλα τα στοιχεία</string>
+    <string name="immersion_menu_camera_photos">Άλμπουμ Κάμερας</string>
+    <string name="immersion_menu_photo_switch_notice">Πατήστε για να επιλέξετε αν θα εμφανίζονται όλα τα στοιχεία ή μόνο το άλμπουμ της Κάμερας εδώ.</string>
     <string name="stop_use_secret_msg">"Οι φωτογραφίες και τα βίντεό σας δεν συγχρονίζονται πλέον με το Xiaomi Cloud. Δεν θα μπορείτε να χρησιμοποιήσετε το προσωπικό σας άλμπουμ, καθώς βασίζεται στην κρυπτογράφηση στο cloud.
 Μέχρι το %1$s, μπορείτε να μεταφέρετε τα στοιχεία σας στο Google Photos ή να επισκεφθείτε το i.mi.com για να τα κατεβάσετε. Μετά από αυτό, τα στοιχεία που εξακολουθούν να είναι αποθηκευμένα στο Xiaomi Cloud θα διαγραφούν οριστικά.
 %2$s"</string>

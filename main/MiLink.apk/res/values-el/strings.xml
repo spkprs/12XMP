@@ -759,4 +759,6 @@
     <string name="onehop_mirror_guide_message_text_1">Μεταφέρετε την οθόνη του τηλεφώνου σας στον υπολογιστή σας με ένα πάτημα.</string>
     <string name="onehop_mirror_guide_message_text_2">Επιλέξτε φωτογραφίες, βίντεο και άλλα αρχεία από τη Συλλογή ή τη Διαχείριση αρχείων για να τα μεταφέρετε στον υπολογιστή σας.</string>
     <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
+    <string name="dialog_nearbydevice_permission_message">Να επιτρέπεται σε αυτήν τη συσκευή η πρόσβαση σε κοντινές συσκευές, ώστε να είναι δυνατή η χρήση δυνατοτήτων Μετάδοσης.</string>
+    <string name="dialog_nearbydevice_permission_title">Απαιτούμενες άδειες</string>
 </resources>

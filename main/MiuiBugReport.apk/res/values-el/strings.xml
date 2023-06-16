@@ -882,4 +882,11 @@
     <string name="login_out">Αποσύνδεση</string>
     <string name="can_not_add_more_image">"Δεν μπορείτε να προσθέσετε περισσότερες εικόνες/βίντεο"</string>
     <string name="bt_plugin_update_loading_dialog">Μισό λεπτό...</string>
+    <string name="net_daig_network_repair">Επιδιόρθωση δικτύου</string>
+    <string name="net_diag_fix_guide_window_msg">Εμφανίστηκε σφάλμα δικτύου. Πατήστε για αντιμετώπιση προβλημάτων.</string>
+    <string name="net_diag_fixing">Επιδιόρθωση δικτύου. Αυτό μπορεί να πάρει ένα λεπτό.</string>
+    <string name="net_diag_repair_msg">Κατά τη διάρκεια αυτής της διαδικασίας, το Wi-Fi θα αποσυνδεθεί και στη συνέχεια θα συνδεθεί ξανά. Επιδιόρθωση τώρα;</string>
+    <string name="net_diag_repair_msg_china">Κατά τη διάρκεια αυτής της διαδικασίας, το WLANθα αποσυνδεθεί και στη συνέχεια θα συνδεθεί ξανά. Επιδιόρθωση τώρα;</string>
+    <string name="net_diag_repair_static_ip_msg">Μπορεί να γίνει επαναφορά των διευθετήσεων δικτύου κατά τη διάρκεια αυτής της διαδικασίας. Επιδιόρθωση τώρα;</string>
+    <string name="net_diag_repair_title">Επιδιόρθωση δικτύου;</string>
 </resources>

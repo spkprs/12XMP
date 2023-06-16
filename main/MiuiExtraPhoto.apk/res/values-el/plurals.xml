@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="talkback_selection_denominator">
+        <item quantity="other">%1$d στοιχεία συνολικά</item>
+        <item quantity="one">%1$d  στοιχείο συνολικά</item>
+    </plurals>
+    <plurals name="talkback_selection_numerator">
+        <item quantity="other">Επιλεγμένα %1$d στοιχεία</item>
+        <item quantity="one">Επιλεγμένο %1$d στοιχείο</item>
+    </plurals>
+</resources>

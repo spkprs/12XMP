@@ -273,7 +273,7 @@
     <string name="i_agree_continue">Συμφωνώ</string>
     <string name="identity">Ταυτοποίηση</string>
     <string name="inconsistent_pwd">"Οι κωδικοί δεν ταιριάζουν"</string>
-    <string name="input_email_address_notice">Θα χρησιμοποιήσουμε αυτή τη διεύθυνση για την επαλήθευση του λογαριασμού σας</string>
+    <string name="input_email_address_notice">"Θα σας στείλουμε ένα email με έναν κωδικό επαλήθευσης στη διεύθυνση που δώσατε."</string>
     <string name="input_new_pwd">Εισαγωγή νέου κωδικού</string>
     <string name="io_error_title">Επιβεβαιώστε το δίκτυό σας</string>
     <string name="just_a_second">Μισό λεπτό…</string>
@@ -870,4 +870,7 @@
     <string name="selected">Επιλεγμένα</string>
     <string name="setting_later">Όχι τώρα</string>
     <string name="setting_now">Προσθήκη</string>
+    <string name="miuix_appcompat_edit">Επεξεργασία</string>
+    <string name="passport_input_email_vcode_hint">Εισαγωγή κωδικού</string>
+    <string name="passport_vcode_email_send_prompt"><Data>Ο κωδικός επαλήθευσής σας στάλθηκε στο &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
 </resources>

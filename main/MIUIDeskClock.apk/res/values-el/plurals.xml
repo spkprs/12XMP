@@ -133,12 +133,12 @@
     <item quantity="one">%1$d δευτ.</item>
   </plurals>
   <plurals name="worldcolock_timezone_gap_fast">
-    <item quantity="other">%s ώρες μπροστά</item>
-    <item quantity="one">%s ώρα μπροστά</item>
+    <item quantity="other">%s ώρες</item>
+    <item quantity="one">%s ώρα</item>
   </plurals>
   <plurals name="worldcolock_timezone_gap_slow">
-    <item quantity="other">%s ώρες πίσω</item>
-    <item quantity="one">%s ώρα πίσω</item>
+    <item quantity="other">%s ώρες</item>
+    <item quantity="one">%s ώρα</item>
   </plurals>
    <plurals name="miuix_appcompat_items_selected">
      <item quantity="other">%d επιλεγμένα στοιχεία</item>

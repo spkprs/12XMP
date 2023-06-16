@@ -484,8 +484,7 @@
     <string name="micloud_space_applist_title">Διαχείριση εφαρμογών</string>
     <string name="micloud_space_duokan_detail">Διαχειριστείτε το περιεχόμενο Duokan με την χρήση της εφαρμογής Duokan.</string>
     <string name="micloud_space_duokan_title">Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Ανοίξτε την εφαρμογή Recorder στη συσκευή Xiaomi και επιλέξτε το φάκελο με τα στοιχεία που είναι αποθηκευμένα στο cloud.
-Βεβαιωθείτε ότι χρησιμοποιείτε τον συσχετισμένο λογαριασμό Xiaomi ως λογαριασμό συστήματος MIUI."</string>
+    <string name="micloud_space_soundrecorder_detail">Ανοίξτε την εφαρμογή Recorder στη συσκευή Xiaomi και επιλέξτε το φάκελο με τα στοιχεία που είναι αποθηκευμένα στο cloud.\nΒεβαιωθείτε ότι χρησιμοποιείτε τον συσχετισμένο λογαριασμό Xiaomi ως λογαριασμό συστήματος MIUI.</string>
     <string name="micloud_space_soundrecorder_title">Ηχογραφήσεις</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Χρειάζεται να ανανεώσετε τη συνδρομή σας.</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Χρειάζεται να ανανεώσετε τη συνδρομή σας.</string>

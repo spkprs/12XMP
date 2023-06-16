@@ -458,4 +458,9 @@
     <string name="invisible_mode_dialog_negative">Ακύρωση</string>
     <string name="invisible_mode_dialog_positive">Απενεργοποίηση</string>
     <string name="invisible_mode_dialog_title">"Είστε ινκόγκνιτο"</string>
+    <string name="new_search_alll_records_hint">Αναζήτηση όλων των εγγραφών</string>
+    <string name="new_search_app_records_hint">Αναζήτηση εγγραφών εφαρμογών</string>
+    <string name="new_search_call_records_hint">Αναζήτηση εγγραφών κλήσεων</string>
+    <string name="new_search_fm_records_hint">Αναζήτηση ραδιοφωνικών εγγραφών</string>
+    <string name="new_search_recorder_records_hint">Αναζήτηση στη συσκευή Εγγραφής</string>
 </resources>

@@ -1136,4 +1136,13 @@
          <item>Η Αφύπνιση θα απεν/θεί σε %2$s και %3$s.</item>
          <item>Η Αφύπνιση θα απεν/θεί σε %1$s %2$s και %3$s.</item>
      </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Δευτ έως Παρ</item>
+        <item>Καθημερινά</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Καθημερινά</item>
+        <item>Δευτ έως Παρ</item>
+        <item>Προσαρμογή</item>
+    </string-array>
 </resources>
