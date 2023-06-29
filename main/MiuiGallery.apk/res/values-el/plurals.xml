@@ -700,4 +700,8 @@
         <item quantity="one">Διαγραφή %d στοιχείου?</item>
         <item quantity="other">Διαγραφή %d στοιχείων?</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Επιλέξτε έως %d στοιχεία για αποστολή</item>
+        <item quantity="one">Επιλέξτε έως %d στοιχείο για αποστολή</item>
+    </plurals>
 </resources>

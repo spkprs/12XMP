@@ -1394,7 +1394,7 @@
     <string name="loading_members">Φόρτωση μελών…</string>
     <string name="loading_processing_tip">Επεξεργασία φωτογραφίας…</string>
     <string name="loading_suspend">Η λήψη σταμάτησε: Θα συνεχιστεί όταν βρεθεί διαθέσιμο δίκτυο Wi‑Fi</string>
-    <string name="loading_text_format" formatted="false">Κατάργηση ιδιωτικών πληροφοριών από (%d/%d) φωτογραφίες…</string>
+    <string name="loading_text_format">Αφαίρεση προσωπικών πληροφοριών…</string>
     <string name="loading_video">Λήψη βίντεο…</string>
     <string name="loading_video_compress_lib">Λήψη προσθήκης συμπίεσης βίντεο...</string>
     <string name="loading_video_fail_sync_without_network">Συνδεθείτε στο δίκτυο για να κατεβάσετε τα μεταδεδομένα</string>
@@ -2573,7 +2573,6 @@
     <string name="send_public_url">Αποστολή URL του άλμπουμ</string>
     <string name="send_secret_file_failed">Αδύνατη η Κοινή χρήση</string>
     <string name="send_secret_file_space_low">Ανεπαρξής χώρος αποθήκευσης</string>
-    <string name="send_too_many_files_error">Αδυναμία αποστολής τόσων πολλών στοιχείων (μέχρι και %d στοιχεία).</string>
     <string name="service_error">Σφάλμα Διακομιστή</string>
     <string name="service_is_provided_by_miui_cloud_service">Αυτή η υπηρεσία παρέχεται από το Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Ορισμός ως ταπετσαρία οθόνης κλειδώματος</string>
@@ -3642,6 +3641,8 @@
     <string name="immersion_menu_all_photos">Όλα τα στοιχεία</string>
     <string name="immersion_menu_camera_photos">Άλμπουμ Κάμερας</string>
     <string name="immersion_menu_photo_switch_notice">Πατήστε για να επιλέξετε αν θα εμφανίζονται όλα τα στοιχεία ή μόνο το άλμπουμ της Κάμερας εδώ.</string>
+    <string name="hdr_switch_show_title">Οθόνη HDR Pro</string>
+    <string name="search_title_daily">ώρα</string>
     <string name="stop_use_secret_msg">"Οι φωτογραφίες και τα βίντεό σας δεν συγχρονίζονται πλέον με το Xiaomi Cloud. Δεν θα μπορείτε να χρησιμοποιήσετε το προσωπικό σας άλμπουμ, καθώς βασίζεται στην κρυπτογράφηση στο cloud.
 Μέχρι το %1$s, μπορείτε να μεταφέρετε τα στοιχεία σας στο Google Photos ή να επισκεφθείτε το i.mi.com για να τα κατεβάσετε. Μετά από αυτό, τα στοιχεία που εξακολουθούν να είναι αποθηκευμένα στο Xiaomi Cloud θα διαγραφούν οριστικά.
 %2$s"</string>
