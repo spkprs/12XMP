@@ -157,7 +157,7 @@
     <string name="album_favorites_name">Αγαπημένα</string>
     <string name="album_from_format">Από %s</string>
     <string name="album_hidden_item_button_title">Εμφανή</string>
-    <string name="album_hidden_page_title">Κρυφό</string>
+    <string name="album_hidden_page_title">Κρυφά Άλμπουμ</string>
     <string name="album_homepage_show_all_photos">Προβολή όλων των φωτογραφιών</string>
     <string name="album_jump_failed">Περιμένετε μέχρι να συγχρονιστούν τα άλμπουμ με το Cloud και δοκιμάστε ξανά</string>
     <string name="album_lockscreen_wallpapers">Ταπετσαρίες Κλειδώματος οθόνης</string>

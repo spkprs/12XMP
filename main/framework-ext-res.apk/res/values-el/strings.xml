@@ -508,4 +508,13 @@
     <string name="sla_remind_text">Μπορείτε να χρησιμοποιήσετε δεδομένα κινητής για να αυξήσετε την ταχύτητα. Αυτό μπορεί να δημιουργήσει πρόσθετες χρεώσεις παρόχου.</string>
     <string name="sla_title">Ενίσχυση ταχύτητας</string>
     <string name="sla_traffic_text">"Έχετε ήδη χρησιμοποιήσει %d MB δεδομένων κινητής σήμερα. Μπορείτε να σταματήσετε την αύξηση της ταχύτητας για να εξοικονομήσετε δεδομένα κινητής."</string>
+    <string name="free_form_recommend_tip">Αιωρούμενο παράθυρο</string>
+    <string name="hovermode_text_confirm">Κατανοητό</string>
+    <string name="hovermode_text_doubleclick">Διπλό πάτημα για παύση/αναπ/γή</string>
+    <string name="hovermode_text_drag">Σύρετε για μεγέθυνση</string>
+    <string name="hovermode_text_help">Βοήθεια</string>
+    <string name="hovermode_text_left">Ρύθμιση φωτεινότητας</string>
+    <string name="hovermode_text_prompt">Όταν είναι ενεργοποιημένη η λειτουργία αιώρησης, χρησιμοποιήστε χειρονομίες στο κάτω μισό της οθόνης. Ενδέχεται να υπάρχουν διαφορές μεταξύ των εφαρμογών.</string>
+    <string name="hovermode_text_right">Ρύθμιση έντασης ήχου</string>
+    <string name="split_screen_recommend_tip">Διαιρούμενη οθόνη</string>
 </resources>

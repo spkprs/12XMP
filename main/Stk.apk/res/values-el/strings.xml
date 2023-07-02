@@ -33,4 +33,5 @@
   <string name="stk_dialog_reject">ΟΧΙ</string>
   <string name="stk_dialog_title">Εργαλεία SIM</string>
   <string name="stk_no_service">Μη διαθέσιμη υπηρεσία</string>
+  <string name="lable_sim_not_ready">Εργαλεία SIM δεν είναι έτοιμα ή δεν υποστηρίζονται</string> 
 </resources>
