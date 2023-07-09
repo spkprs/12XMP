@@ -2146,4 +2146,13 @@
     <string name="tv_picturestyle_custom_texture">Υφή</string>
     <string name="tv_picturestyle_custom_tone">Τόνος</string>
     <string name="watermark_choose_one_tip_film">Μπορείτε να εφαρμόσετε μόνο ένα υδατογράφημα σε κάθε φωτογραφία.</string>
+    <string name="accessibility_focal_lens">%s mm ισοδύναμο εστιακό μήκος</string>
+    <string name="accessibility_street_ev_panel_on">Προβολή τιμών έκθεσης</string>
+    <string name="street_auto_desc">Αυτόματη απόσταση εστίασης</string>
+    <string name="street_far_desc">%1$s-μέτρα απόσταση εστίασης</string>
+    <string name="street_middle_desc">%1$s-μέτρα απόσταση εστίασης</string>
+    <string name="street_near_desc">%1$s-μέτρα απόσταση εστίασης</string>
+    <string name="street_preferred_description">Για να ενεργοποιήσετε αυτή τη λειτουργία, μεταβείτε στις Ρυθμίσεις > Εκκίνηση κάμερας και επιλέξτε \"Λήψη φωτογραφίας\".</string>
+    <string name="street_top_tip">Depth of field: %1$sμ - %2$sμ</string>
+    <string name="street_top_tip_infinity">Βάθος πεδίου: %1$sμ - %2$s</string>
 </resources>

@@ -906,7 +906,12 @@
     <string name="insert_image_size_limit_tip">"Αυτή η εικόνα είναι πάνω από %d MB. Έχει συμπιεστεί αυτόματα."</string>
     <string name="warn_enter_browse_mode_forbid_create">"Δεν μπορείτε να δημιουργήσετε ή να επεξεργαστείτε σημειώσεις σε λειτουργία μόνο για ανάγνωση"</string>
     <string name="paste_unsupported_data">"Δεν μπορείτε να επικολλήσετε αυτό το περιεχόμενο"</string>
-     <string name="audio_dialog_mode_meeting_recognize_close">Η αναγνώριση φωνής είναι ανενεργή</string>
-     <string name="audio_dialog_mode_meeting_recognize_fail">"Δεν ήταν δυνατή η πλήρης αναγνώριση φωνής"</string>
-     <string name="toast_refuse_to_use_photos_in_excerpt_v14">Για να μπορείτε να εισάγετε εικόνες σε σημειώσεις, επιτρέψτε σε αυτή την εφαρμογή να έχει πρόσβαση σε όλες τις φωτογραφίες</string>
+    <string name="audio_dialog_mode_meeting_recognize_close">Η αναγνώριση φωνής είναι ανενεργή</string>
+    <string name="audio_dialog_mode_meeting_recognize_fail">"Δεν ήταν δυνατή η πλήρης αναγνώριση φωνής"</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt_v14">Για να μπορείτε να εισάγετε εικόνες σε σημειώσεις, επιτρέψτε σε αυτή την εφαρμογή να έχει πρόσβαση σε όλες τις φωτογραφίες</string>
+    <string name="folder_note">Φάκελοι Σημειώσεων</string>
+    <string name="folder_other">Άλλοι φάκελοι</string>
+    <string name="foler_pinned">Καρφιτσωμένοι φάκελοι</string>
+    <string name="new_alert_title_delete">Διαγραφή σημειώσεων</string>
+    <string name="new_sync_desc_state_disable">Ενεργοποιήστε τον συγχρονισμό στο cloud για σημειώσεις, εργασίες και άλλα</string>
 </resources>
