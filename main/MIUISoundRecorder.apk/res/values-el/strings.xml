@@ -463,4 +463,7 @@
     <string name="new_search_call_records_hint">Αναζήτηση εγγραφών κλήσεων</string>
     <string name="new_search_fm_records_hint">Αναζήτηση ραδιοφωνικών εγγραφών</string>
     <string name="new_search_recorder_records_hint">Αναζήτηση στη συσκευή Εγγραφής</string>
+     <string name="pause_status_focus_notification">Σε Παύση</string>
+     <string name="recording_status_focus_notification">Ηχογράφηση</string>
+     <string name="stop_status_focus_notification">Ολοκληρώθηκε</string>
 </resources>

@@ -78,7 +78,7 @@
     <string name="bind_sign_in_title">Προσθήκη λογαριασμού Mi</string>
     <string name="btn_send">Αποστολή</string>
     <string name="bugreport_dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
-    <string name="bugreport_dialog_submit_content"><Data>"Αποθήκευση τώρα τα αρχεία καταγραφής λογισμικού σε αυτήν τη συσκευή. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και τα δεδομένα τοποθεσίας σας. Μην μοιράζεστε αρχεία καταγραφής με κανέναν άλλο εάν δεν θέλετε να εκτίθενται αυτές οι πληροφορίες. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a>."</Data></string>
+    <string name="bugreport_dialog_submit_content">"&lt;Data>Αποθήκευση τώρα τα αρχεία καταγραφής λογισμικού σε αυτήν τη συσκευή. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και τα δεδομένα τοποθεσίας σας. Μην μοιράζεστε αρχεία καταγραφής με κανέναν άλλο εάν δεν θέλετε να εκτίθενται αυτές οι πληροφορίες. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a>.&lt;/Data>"</string>
     <string name="bugreport_dump_complete_notification_summary">Αγγίξτε για προβολή.</string>
     <string name="bugreport_dump_complete_notification_title">Η αναφορά σφάλματος δημιουργήθηκε</string>
     <string name="bugreport_dump_start_notification_summary">"Δημιουργία "</string>
@@ -144,7 +144,7 @@
     <string name="cta_confirm">OK</string>
     <string name="cta_dialog_content">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
     <string name="cta_dialog_title">Σύνδεση στο Internet</string>
-    <string name="cta_message"><Data>Για κανονική λειτουργία των Σχολίων πρέπει να συνδεθεί στο Διαδίκτυο. Αυτή η εφαρμογή μπορεί επίσης να ζητήσει την άδεια πρόσβασης στην τοποθεσία σας. Διαβάστε και συμφωνήστε με &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a> before you continue.</Data></string>
+    <string name="cta_message">&lt;Data>Για κανονική λειτουργία των Σχολίων πρέπει να συνδεθεί στο Διαδίκτυο. Αυτή η εφαρμογή μπορεί επίσης να ζητήσει την άδεια πρόσβασης στην τοποθεσία σας. Διαβάστε και συμφωνήστε με &lt;a href=\"%1$s\">Privacy Policy&lt;/a> and &lt;a href=\"%2$s\">User Agreement&lt;/a> before you continue.&lt;/Data></string>
     <string name="cta_not_show_again">Να μην εμφανιστεί ξανά</string>
     <string name="customer_service_apply">Αίτημα Εξυπηρέτησης πελατών</string>
     <string name="customer_service_complain">Αναφορά Εξυπηρέτησης πελατών</string>
@@ -735,9 +735,9 @@
     <string name="stop_full_log_dialog_title">Δημιουργία αρχείων καταγραφής…</string>
     <string name="submit_dialog_cancel">Δεν Συμφωνώ</string>
     <string name="submit_dialog_confirm">Συμφωνώ</string>
-    <string name="submit_dialog_content"><Data>"Διαβάστε και αποδεχτείτε τις &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία χρήστη&lt;/a> πριν από την υποβολή σχολίων. Τα θέματα που αναφέρετε μαζί με τα στοιχεία που επισυνάπτετε (συμπεριλαμβανομένων των αρχείων καταγραφής που ενδέχεται να περιέχουν προσωπικές πληροφορίες, καθώς και της συσκευής και δικτύου σας) θα αποσταλούν στους διακομιστές MIUI. Αυτό θα μας βοηθήσει να εντοπίσουμε και να επιλύσουμε τα προβλήματα που αναφέρετε. Εάν αναφέρετε προβλήματα που σχετίζονται με πολλαπλές συσκευές, θα αποσταλούν επίσης τα αρχεία καταγραφής από άλλες συσκευές όπου χρησιμοποιείται ο λογαριασμός Mi σας. "</Data></string>
-    <string name="submit_dialog_content_global"><Data>"Τα σχόλιά σας, μαζί με συνημμένα (αν υπάρχουν) και αρχεία καταγραφής (μπορείτε να αποεπιλέξετε τα αντίστοιχα πλαίσια για τα στοιχεία που δεν θέλετε να ανεβάσετε) θα σταλούν στους διακομιστές του MIUI. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και τα δεδομένα τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a>."</Data></string>
-    <string name="submit_dialog_content_global_with_contactinfo"><Data>"Τα σχόλιά σας, μαζί με τα συνημμένα αρχεία (αν υπάρχουν), τα αρχεία καταγραφής (μπορείτε να απενεργοποιήσετε τα αντίστοιχα κουτάκια για τα στοιχεία που δεν θέλετε να ανεβάσετε), τον αριθμό τηλεφώνου ή το email θα σταλούν στους διακομιστές του MIUI. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Η επιλογή \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και συμφωνήσει με την &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία χρήστη&lt;/a>."</Data></string>
+    <string name="submit_dialog_content">"&lt;Data>Διαβάστε και αποδεχτείτε τις &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία χρήστη&lt;/a> πριν από την υποβολή σχολίων. Τα θέματα που αναφέρετε μαζί με τα στοιχεία που επισυνάπτετε (συμπεριλαμβανομένων των αρχείων καταγραφής που ενδέχεται να περιέχουν προσωπικές πληροφορίες, καθώς και της συσκευής και δικτύου σας) θα αποσταλούν στους διακομιστές MIUI. Αυτό θα μας βοηθήσει να εντοπίσουμε και να επιλύσουμε τα προβλήματα που αναφέρετε. Εάν αναφέρετε προβλήματα που σχετίζονται με πολλαπλές συσκευές, θα αποσταλούν επίσης τα αρχεία καταγραφής από άλλες συσκευές όπου χρησιμοποιείται ο λογαριασμός Mi σας. &lt;/Data>"</string>
+    <string name="submit_dialog_content_global">"&lt;Data>Τα σχόλιά σας, μαζί με συνημμένα (αν υπάρχουν) και αρχεία καταγραφής (μπορείτε να αποεπιλέξετε τα αντίστοιχα πλαίσια για τα στοιχεία που δεν θέλετε να ανεβάσετε) θα σταλούν στους διακομιστές του MIUI. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και τα δεδομένα τοποθεσίας σας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και αποδεχτεί την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία Χρήστη&lt;/a>.&lt;/Data>"</string>
+    <string name="submit_dialog_content_global_with_contactinfo">"&lt;Data>Τα σχόλιά σας, μαζί με τα συνημμένα αρχεία (αν υπάρχουν), τα αρχεία καταγραφής (μπορείτε να απενεργοποιήσετε τα αντίστοιχα κουτάκια για τα στοιχεία που δεν θέλετε να ανεβάσετε), τον αριθμό τηλεφώνου ή το email θα σταλούν στους διακομιστές του MIUI. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και δεδομένα της τοποθεσίας σας. Η επιλογή \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και συμφωνήσει με την &lt;a href=\"%1$s\">Πολιτική απορρήτου&lt;/a> και &lt;a href=\"%2$s\">Συμφωνία χρήστη&lt;/a>.&lt;/Data>"</string>
     <string name="submit_dialog_not_show_again">"Να μην εμφανιστεί ξανά"</string>
     <string name="submit_dialog_title">Αποστολή αναφοράς στην Xiaomi</string>
     <string name="submit_feedback_info_failed">Αδυναμία αποστολής αναφοράς</string>
@@ -806,18 +806,18 @@
     <string name="update_phone_notice">Αλλάξτε τις ρυθμίσεις ασφαλείας</string>
     <string name="upload_error_log">Μεταφόρτωση αρχείου καταγραφής</string>
     <string name="upload_log_failed">Αδυναμία αποστολής αρχείων καταγραφής</string>
-    <string name="user_agreement_hint_3rd_app"><Data>"Διάβασα και συμφώνησα  με &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> και Λογαριασμοί Mi &lt;a href=%3$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Διάβασα και συμφώνησα με &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, Λογαριασμοί Mi &lt;a href=%3$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a>, καθώς και &lt;a href=%5$s>Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης της China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Διάβασα και συμφώνησα με &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, Λογαριασμοί Mi &lt;a href=%3$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a>, καθώς και &lt;a href=%5$s>Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης λογαριασμού eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Διάβασα και συμφώνησα με &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, Λογαριασμοί Mi &lt;a href=%3$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a>, καθώς και &lt;a href=%5$s>Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης Unicom Κίνας&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default"><Data>"Διάβασα και συμφώνησα με Λογαριασμοί Mi &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app">"&lt;Data>Διάβασα και συμφώνησα  με &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a> και Λογαριασμοί Mi &lt;a href=%3$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a>.&lt;/Data>"</string>
+    <string name="user_agreement_hint_3rd_app_mobile">"&lt;Data>Διάβασα και συμφώνησα με &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, Λογαριασμοί Mi &lt;a href=%3$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a>, καθώς και &lt;a href=%5$s>Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης της China Mobile&lt;/a>.&lt;/Data>"</string>
+    <string name="user_agreement_hint_3rd_app_with_telecom">"&lt;Data>Διάβασα και συμφώνησα με &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, Λογαριασμοί Mi &lt;a href=%3$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a>, καθώς και &lt;a href=%5$s>Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης λογαριασμού eSurfing&lt;/a>.&lt;/Data>"</string>
+    <string name="user_agreement_hint_3rd_app_with_unicom">"&lt;Data>Διάβασα και συμφώνησα με &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>, Λογαριασμοί Mi &lt;a href=%3$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%4$s>Πολιτική Απορρήτου&lt;/a>, καθώς και &lt;a href=%5$s>Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης Unicom Κίνας&lt;/a>.&lt;/Data>"</string>
+    <string name="user_agreement_hint_default">"&lt;Data>Διάβασα και συμφώνησα με Λογαριασμοί Mi &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>.&lt;/Data>"</string>
     <string name="user_agreement_hint_default_1"><Data>Διαβάστε και συμφωνήστε the &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου.&lt;/a></Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>"Διάβασα και συμφώνησα με &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου.&lt;/a> Η πρώτη σύνδεση θα δημιουργήσει αυτόματα έναν λογαριασμό Xiaomi"</Data></string>
+    <string name="user_agreement_hint_default_extra">"&lt;Data>Διάβασα και συμφώνησα με &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και &lt;a href=%2$s>Πολιτική Απορρήτου.&lt;/a> Η πρώτη σύνδεση θα δημιουργήσει αυτόματα έναν λογαριασμό Xiaomi&lt;/Data>"</string>
     <string name="user_agreement_hint_first_login">"Θα δημιουργήσουμε έναν λογαριασμό αυτόματα αν χρησιμοποιείτε τον αριθμό τηλεφώνου σας για πρώτη φορά."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>"Διάβασα και συμφώνησα με Mi Λογαριασμού &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>, καθώς και &lt;a href=\"%3$s\">Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>"Διάβασα και συμφώνησα με Mi Λογαριασμού &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>, καθώς και &lt;a href=\"%3$s\">Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης λογαριασμού eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>"Διάβασα και συμφώνησα με Mi Λογαριασμού &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>, καθώς και &lt;a href=\"%3$s\">Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης της China Unicom&lt;/a>."</Data></string>
-    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Διάβασα και συμφώνησα με &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a> και Mi Λογαριασμού &lt;a href=\"%3$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%4$s\">Πολιτική απορρήτου&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_mobile">"&lt;Data>Διάβασα και συμφώνησα με Mi Λογαριασμού &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>, καθώς και &lt;a href=\"%3$s\">Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης China Mobile&lt;/a>.&lt;/Data>"</string>
+    <string name="user_agreement_hint_with_telecom">"&lt;Data>Διάβασα και συμφώνησα με Mi Λογαριασμού &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>, καθώς και &lt;a href=\"%3$s\">Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης λογαριασμού eSurfing&lt;/a>.&lt;/Data>"</string>
+    <string name="user_agreement_hint_with_unicom">"&lt;Data>Διάβασα και συμφώνησα με Mi Λογαριασμού &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a>, καθώς και &lt;a href=\"%3$s\">Όροι και προϋποθέσεις των υπηρεσιών επαλήθευσης της China Unicom&lt;/a>.&lt;/Data>"</string>
+    <string name="user_agreement_protocal_dialog_hint_default">"&lt;Data>Διάβασα και συμφώνησα με &lt;a href=\"%1$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%2$s\">Πολιτική απορρήτου&lt;/a> και Mi Λογαριασμού &lt;a href=\"%3$s\">Συμφωνία χρήστη&lt;/a> και &lt;a href=\"%4$s\">Πολιτική απορρήτου&lt;/a>.&lt;/Data>"</string>
     <string name="user_avatar_update_title">Αλλαγή φωτογραφίας προφίλ</string>
     <string name="user_avatar_uploading">Μισό λεπτό…</string>
     <string name="user_id_hint">Αναγνωριστικό λογαριασμού email/τηλεφώνου/Mi</string>
@@ -880,7 +880,7 @@
     <string name="net_diag_toast_wifi_disconnected">Για να δοκιμάσετε το δίκτυο, συνδεθείτε πρώτα στο Wi-Fi.</string>
     <string name="net_diag_toast_wifi_disconnected_china">Για να δοκιμάσετε το δίκτυο, συνδεθείτε πρώτα στο WLAN.</string>
     <string name="login_out">Αποσύνδεση</string>
-    <string name="can_not_add_more_image">"Δεν μπορείτε να προσθέσετε περισσότερες εικόνες/βίντεο"</string>
+    <string name="can_not_add_more_image">"Δεν μπορείτε να προσθέσετε περισσότερες εικόνες ή βίντεο"</string>
     <string name="bt_plugin_update_loading_dialog">Μισό λεπτό...</string>
     <string name="net_daig_network_repair">Επιδιόρθωση δικτύου</string>
     <string name="net_diag_fix_guide_window_msg">Εμφανίστηκε σφάλμα δικτύου. Πατήστε για αντιμετώπιση προβλημάτων.</string>
@@ -889,4 +889,135 @@
     <string name="net_diag_repair_msg_china">Κατά τη διάρκεια αυτής της διαδικασίας, το WLANθα αποσυνδεθεί και στη συνέχεια θα συνδεθεί ξανά. Επιδιόρθωση τώρα;</string>
     <string name="net_diag_repair_static_ip_msg">Μπορεί να γίνει επαναφορά των διευθετήσεων δικτύου κατά τη διάρκεια αυτής της διαδικασίας. Επιδιόρθωση τώρα;</string>
     <string name="net_diag_repair_title">Επιδιόρθωση δικτύου;</string>
+    <string name="icon_add_description">Προσθήκη συντόμευσης στην Αρχική Οθόνη</string>
+    <string name="icon_remove_confirm">Αφαίρεση</string>
+    <string name="icon_remove_description_content">"\"Υπηρεσίες &amp; σχόλια\" είναι εφαρμογή συστήματος. Θα εξακολουθείτε να μπορείτε να το χρησιμοποιήσετε μέσω των ρυθμίσεων αφού καταργήσετε τη συντόμευση της αρχικής οθόνης."</string>
+    <string name="icon_remove_description_title">Αφαίρεση \"Υπηρεσίες &amp; σχόλια\" από την Αρχική οθόνη;</string>
+    <string name="mi_service_app_name">Υπηρεσίες &amp; Σχόλια</string>
+    <string name="mi_service_back">Πίσω</string>
+    <string name="miui_feedback_answer_detail_community">Μπορείτε να βρείτε απαντήσεις στις ερωτήσεις σας στο Xiaomi Community</string>
+    <string name="miui_feedback_answer_detail_feedback_resolved">Ναί</string>
+    <string name="miui_feedback_answer_detail_feedback_result">Ευχαριστούμε για την ανταπόκριση σας!</string>
+    <string name="miui_feedback_answer_detail_feedback_title">Ήταν χρήσιμες αυτές οι πληροφορίες;</string>
+    <string name="miui_feedback_answer_detail_feedback_unresolved">Οχι</string>
+    <string name="miui_feedback_answer_detail_menu_online_service">Λάβετε βοήθεια online</string>
+    <string name="miui_feedback_answer_detail_menu_phone_service">Καλέστε την υποστήριξη πελατών</string>
+    <string name="miui_feedback_answer_detail_relative_tip">Σχετικές πληροφορίες</string>
+    <string name="miui_feedback_answer_detail_title">Λεπτομέριες</string>
+    <string name="miui_feedback_edit_action_submit">Στείλετε</string>
+    <string name="miui_feedback_edit_add_original_images">Προσθήκη φωτογραφίας</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">Εάν το ζήτημα που αναφέρετε σχετίζεται με την ποιότητα της φωτογραφικής μηχανής, προσθέστε μια πρωτότυπη δείγμα (χωρίς κάλυψη) για να μας βοηθήσετε να εντοπίσουμε το πρόβλημα. Προσθέστε φωτογραφία τώρα;</string>
+    <string name="miui_feedback_edit_choose_module">Επιλέξτε αντικείμενο</string>
+    <string name="miui_feedback_edit_choose_module_hint">Απαιτείται</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Χρόνος</string>
+    <string name="miui_feedback_edit_choose_reproductivity">Αναπαραγωγικότητα</string>
+    <string name="miui_feedback_edit_choose_third_app_name">Επιλέξτε το όνομα της εφαρμογής</string>
+    <string name="miui_feedback_edit_contact_info_hint">Τηλέφωνο/Email</string>
+    <string name="miui_feedback_edit_delete_images">Διαγράψτε τις εικόνες</string>
+    <string name="miui_feedback_edit_desc_hint">Περιγράψτε το ζήτημα που αντιμετωπίζετε</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">Πείτε μας πώς θέλετε να βελτιώσετε το MIUI</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Παραμονή εδώ</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Απόρριψη</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_content">Οι τυχόν αλλαγές που έχετε κάνει σε αυτήν την αναφορά θα χαθούν.</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_title">Απορρίψτε το σχέδιο;</string>
+    <string name="miui_feedback_edit_hint">Αναφέρετε σφάλματα κάθε φορά που αντιμετωπίζετε προβλήματα για να τα λύσετε πιο γρήγορα</string>
+    <string name="miui_feedback_edit_hint_gone">Κλειστό μήνυμα</string>
+    <string name="miui_feedback_edit_hint_optional">Επιλογή</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Περιμένετε για Wi-Fi</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Ανεβάστε</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_content">Φαίνεται ότι είστε συνδεδεμένοι με ένα αμειβόμενο δίκτυο. Η φόρτωση των αρχείων καταγραφής μπορεί να δημιουργήσει πρόσθετα τέλη.</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">Αφήστε την εφαρμογή να αποκτήσει πρόσβαση στις πληροφορίες της συσκευής για να της επιτρέψει να διαβάσει το IMEI, το οποίο θα βοηθήσει στην εύρεση προβλημάτων. Πατήστε \"OK\" για να ανοίξετε τις Ρυθμίσεις.</string>
+    <string name="miui_feedback_edit_need_storage_permission">Αφήστε την εφαρμογή να αποκτήσει πρόσβαση στο χώρο αποθήκευσης συσκευών, για να μπορέσετε να επισυνάψετε εικόνες και βίντεο στα σχόλιά σας. Πατήστε \"OK\" για να ανοίξετε τις Ρυθμίσεις.</string>
+    <string name="miui_feedback_edit_permission_denied_title">Περιορισμένες Άδειες: %1$s</string>
+    <string name="miui_feedback_edit_phone_state_permission_name">Πρόσβαση σε πληροφορίες συσκευής</string>
+    <string name="miui_feedback_edit_reproductivity_everytime">Κάθε φορά</string>
+    <string name="miui_feedback_edit_reproductivity_occasionally">Ενίοτε</string>
+    <string name="miui_feedback_edit_reproductivity_often">Συχνά</string>
+    <string name="miui_feedback_edit_reproductivity_once">Μια φορά</string>
+    <string name="miui_feedback_edit_select_images">Προσθέστε μια εικόνα ή ένα σύντομο βίντεο</string>
+    <string name="miui_feedback_edit_select_modem_log">Προσθέστε αρχεία καταγραφής μόντεμ</string>
+    <string name="miui_feedback_edit_select_modem_log_not_select_desc">Δεν έχετε επιλέξει \"Προσθήκη αρχείων καταγραφής μόντεμ\"</string>
+    <string name="miui_feedback_edit_select_modem_log_select_desc">Επιλεγμένα \"Προσθήκη καταγραφών μόντεμ\"</string>
+    <string name="miui_feedback_edit_select_original_images">Προσθέστε εικόνα ή σύντομο βίντεο</string>
+    <string name="miui_feedback_edit_select_problem">Θέματα</string>
+    <string name="miui_feedback_edit_select_problem_not_select_desc">Δεν έχετε επιλέξει \"Θέματα\"</string>
+    <string name="miui_feedback_edit_select_problem_select_desc">Επιλεγμένα \"Θέματα\"</string>
+    <string name="miui_feedback_edit_select_suggestion">Προτάσεις</string>
+    <string name="miui_feedback_edit_select_suggestion_not_select_desc">Δεν έχετε επιλέξει \"Προτάσεις\"</string>
+    <string name="miui_feedback_edit_select_suggestion_select_desc">Επιλεγμένες \"Προτάσεις\"</string>
+    <string name="miui_feedback_edit_select_upload_log">Προσθήκη αρχείων καταγραφής</string>
+    <string name="miui_feedback_edit_select_upload_log_not_select_desc">Δεν έχετε επιλέξει \"Προσθήκη αρχείων καταγραφής\"</string>
+    <string name="miui_feedback_edit_select_upload_log_select_desc">Επιλεγμένα \"Προσθήκη αρχείων καταγραφής\"</string>
+    <string name="miui_feedback_edit_storage_permission_name">Αποκτήστε πρόσβαση στην αποθήκευση συσκευών</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">Δεν Συμφωνώ</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">Συμφωνώ</string>
+    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data>"Πρέπει να συμφωνήσετε με την &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική απορρήτου&lt;/a> και &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Συμφωνία χρήστη&lt;/a> για την χρήση Σχολίων. Τα θέματα που αναφέρετε μαζί με τα στοιχεία που επισυνάπτετε (ενδέχεται να περιέχουν προσωπικές πληροφορίες, καθώς και τις πληροφορίες σχετικά με τη συσκευή και το δίκτυό σας) θα μεταφορτωθούν στους διακομιστές του MIUI. Αυτό θα μας βοηθήσει να εντοπίσουμε και να λύσουμε τα προβλήματα που αναφέρετε. "&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data>"Τα σχόλιά σας, μαζί με τα συνημμένα (αν υπάρχουν) και τα αρχεία καταγραφής (μπορείτε να καταργήσετε την επιλογή των αντίστοιχων πλαισίων για τα στοιχεία που δεν θέλετε να μεταφορτώσετε) θα σταλούν στους διακομιστές του MIUI. Τα αρχεία καταγραφής ενδέχεται να περιέχουν προσωπικές πληροφορίες και δεδομένα τοποθεσίας. Επιλέγοντας \"Συμφωνώ\" σημαίνει ότι έχετε διαβάσει και συμφωνήσει με την &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Πολιτική απορρήτου&lt;/a> και &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Συμφωνία χρήστη&lt;/a>."&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_not_show_again">Μην εμφανιστεί ξανά</string>
+    <string name="miui_feedback_edit_submit_dialog_title">Αποστολή αναφοράς</string>
+    <string name="miui_feedback_edit_submit_directly">Υποβολή</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Επιλογή χρόνου</string>
+    <string name="miui_feedback_edit_title_reproductivity">Επιλέξτε αναπαραγωγικότητα</string>
+    <string name="miui_feedback_edit_toast_description_required">Περιγράψτε πρώτα το ζήτημα</string>
+    <string name="miui_feedback_edit_toast_module_required">Επιλέξτε αντικείμενο</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">Η περιγραφή σας θα πρέπει να είναι μεγαλύτερη</string>
+    <string name="miui_feedback_edit_toast_problem_class_required">Επιλέξτε Κατηγορία</string>
+    <string name="miui_feedback_edit_toast_third_packagename_required">Εισαγάγετε το όνομα της εφαρμογής</string>
+    <string name="miui_feedback_main_answer_title">Υπάρχει απάντηση σε αυτή την ερώτηση</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">Γραμμή εξυπηρέτησης: 0120-300-521\nΩρες γραφείου: 9:00 - 18:00 (εκτός τραπεζικών και προγραμματισμένων αργιών)\nEmail: service.jp@xiaomi.com</string>
+    <string name="miui_feedback_main_frequent_question_title">Συχνές ερωτήσεις</string>
+    <string name="miui_feedback_main_item_customer_service">Υπηρεσίες μετά την πώληση</string>
+    <string name="miui_feedback_main_menu_catch_full_log">Δημιουργία αρχείων καταγραφής</string>
+    <string name="miui_feedback_main_menu_feedback_list">Προβολή ιστορικού σχολίων</string>
+    <string name="miui_feedback_main_menu_view_privacy">Πολιτική απορρήτου</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">Ανάκληση συγκατάθεσης</string>
+    <string name="miui_feedback_main_search_footer">Αυτά δεν είναι τα ερωτήματα που θέλετε να ρωτήσετε;</string>
+    <string name="miui_feedback_main_search_footer_submit">Υποβολή σχολίων</string>
+    <string name="miui_feedback_main_search_issue">Πληκτρολογήστε λέξεις-κλειδιά για αναζήτηση</string>
+    <string name="miui_feedback_main_search_no_answer">"Αδυναμία εύρεσης αποτελεσμάτων"</string>
+    <string name="miui_feedback_main_start_submit">Υποβολή σχολίων</string>
+    <string name="miui_feedback_main_submit_dialog_confirm">Υποβολή</string>
+    <string name="miui_feedback_main_submit_dialog_content">Φαίνεται ότι δεν μπορέσαμε να βρούμε μια λύση στο πρόβλημά σας. Μπορείτε να υποβάλετε τα σχόλιά σας σε εμάς.</string>
+    <string name="miui_feedback_main_submit_dialog_title">Υποβολή σχολίων</string>
+    <string name="miui_feedback_main_title">Σχόλια</string>
+    <string name="miui_feedback_main_withdraw">Ανάκληση</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">"Αν συνεχίσετε, θα αποσύρετε τη συγκατάθεσή σας στην Πολιτική απορρήτου της %1$s. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και διατηρηθεί θα διαγραφούν εντός της συγκεκριμένης περιόδου σύμφωνα με τους ισχύοντες νόμους και κανονισμούς, εκτός εάν απαιτείται κάτι διαφορετικό. Καθώς η %2$s παρέχει τις υπηρεσίες της με βάση τη συλλογή των απαραίτητων προσωπικών πληροφοριών, η ανάκληση της συγκατάθεσής σας θα θεωρηθεί ως άρνηση αποδοχής των υπηρεσιών της %3$s. Ανάκληση συγκατάθεσης τώρα;"</string>
+    <string name="permission_agree">Συμφωνώ</string>
+    <string name="permission_china_version_msg">&lt;Data>Πριν χρησιμοποιήσετε την \"Υπηρεσίες &amp; Σχόλια\", πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;a href=%1$s>Συμφωνία χρήσης&lt;/a> και &lt;a href=%2$s>Πολιτική απορρήτου&lt;/a>. Αυτή η εφαρμογή πρέπει επίσης να συνδεθεί στο διαδίκτυο για να λειτουργήσει κανονικά.&lt;/Data></string>
+    <string name="permission_complete">Εγινε</string>
+    <string name="permission_contacts_info">Πληροφορίες πρόσβασης λογαριασμού</string>
+    <string name="permission_contacts_introduce">Για τη σύνδεση με το λογαριασμό Mi</string>
+    <string name="permission_device_info">Πρόσβαση σε πληροφορίες συσκευής</string>
+    <string name="permission_device_introduce">Για τον καθορισμό της περιόδου περιορισμένης εγγύησης</string>
+    <string name="permission_exit">Εξοδος</string>
+    <string name="permission_external_storage_introduce">Για την αποθήκευση και την αποστολή των σχολίων σας</string>
+    <string name="permission_first_start_network_title">Οροι και Προϋποθέσεις</string>
+    <string name="permission_imei_disable_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet.</string>
+    <string name="permission_imei_enable_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet και εκχωρήστε τις υποχρεωτικές Άδειες που αναφέρονται παραπάνω.</string>
+    <string name="permission_location_introduce">Για εμφάνιση κοντινών σημείων εξυπηρέτησης</string>
+    <string name="permission_main_purpose">Εμφάνιση επίδειξης χαρακτηριστικών MIUI, υποβολή σχολίων και υποβολή αίτησης για υπηρεσίες μετά την πώληση.</string>
+    <string name="permission_privacy">Πολιτική απορρήτου (υποχρεωτική)</string>
+    <string name="permission_region_version_msg">&lt;Data>Πριν χρησιμοποιήσετε την \"Υπηρεσίες &amp; Σχόλια\", πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;a href=%1$s>Συμφωνία χρήσης&lt;/a> και &lt;a href=%2$s>Πολιτική απορρήτου&lt;/a>.&lt;/Data></string>
+    <string name="permission_select_all">Επιλογή όλων</string>
+    <string name="permission_storage">Αποθήκευση</string>
+    <string name="permission_storage_introduce">Για την αποθήκευση στοιχείων στη συσκευή σας</string>
+    <string name="permission_user_protocol">Συμφωνία χρήστη (υποχρεωτική)</string>
+    <string name="public_authorize_now">Ρυθμίσεις</string>
+    <string name="public_loading_text">Μισό λεπτό…</string>
+    <string name="public_net_error_retry">Προσπαθήστε ξανά</string>
+    <string name="public_net_error_sub_title">Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά</string>
+    <string name="public_net_error_title">Δεν ήταν δυνατή η σύνδεση στο δίκτυο</string>
+    <string name="public_open_feedback_service">Έναρξη</string>
+    <string name="public_please_authorize">Απαιτούνται δικαιώματα για συνέχιση</string>
+    <string name="public_welcome_use_feedback_service">Καλώς ήρθατε στις Υπηρεσίες και Σχόλια! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να υποβάλετε σχόλια, να δείτε τις συχνές ερωτήσεις, να υποβάλλετε αιτήσεις για επιστροφές και ανταλλαγές προϊόντων και πολλά άλλα.</string>
+    <string name="dynamic_dialog_content">"Πρόκειται να αρχίσετε να δημιουργείτε δυναμικά αρχεία καταγραφής. Περιέχουν εγγραφές λειτουργιών λογισμικού (όπως κλήσεις συστήματος). Ενώ δημιουργούνται δυναμικά αρχεία καταγραφής, η συσκευή σας μπορεί να παγώσει ή να θερμανθεί, πράγμα φυσιολογικό. Μόλις δημιουργηθούν τα αρχεία καταγραφής, αυτή η λειτουργία θα απενεργοποιηθεί. Θυμηθείτε να υποβάλετε εγκαίρως τα σχόλιά σας εάν το πρόβλημα επαναληφθεί. Πατώντας \"Συμφωνώ\" παρακάτω, συμφωνείτε ότι θα συλλέξουμε τα παραπάνω δεδομένα κατά τη δημιουργία των αρχείων καταγραφής και στη συνέχεια θα μεταφορτώσουμε τα αρχεία καταγραφής στους διακομιστές μας για να βοηθήσουμε στη διάγνωση και την επίλυση των προβλημάτων που αναφέρατε."</string>
+    <string name="dynamic_dialog_negative_text">"Δεν συμφωνώ"</string>
+    <string name="dynamic_dialog_notification_text">Μόλις δημιουργηθούν τα αρχεία καταγραφής, αυτή η λειτουργία θα απενεργοποιηθεί.</string>
+    <string name="dynamic_dialog_notification_title">Δημιουργία δυναμικών καταγραφών…</string>
+    <string name="dynamic_dialog_title">Δήλωση απορρήτου</string>
+    <string name="dynamic_log_load_text">Μισό λεπτό…</string>
+    <string name="dynamic_log_restore_toast_text">Επαναφορά των δυναμικών αρχείων καταγραφής…</string>
+    <string name="dynamic_log_title">Δυναμικά αρχεία καταγραφής</string>
+    <string name="not_support_service_in_maintenance_mode">"Αυτή η υπηρεσία δεν είναι διαθέσιμη σε κατάσταση συντήρησης"</string>
 </resources>

@@ -116,4 +116,8 @@
         <item quantity="other">Εγκατάσταση %d εφαρμ.</item>
         <item quantity="one">Εγκατάσταση %d εφαρμ.</item>
     </plurals>
+     <plurals name="transfer_failed_summary">
+         <item quantity="one">"Αδυναμία μεταφοράς %d στοιχείου"</item>
+         <item quantity="other">"Αδυναμία μεταφοράς %d στοιχείων"</item>
+     </plurals>
 </resources>

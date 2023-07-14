@@ -915,5 +915,6 @@
     <string name="privacy_runtime_perm_notification_title">Ειδοποιήσεις</string>
     <string name="upgrade_member_storage">Μέλος Xiaomi Cloud</string>
     <string name="gallery_service_termination_announcement">Ειδοποίηση για τον τερματισμό του συγχρονισμού Xiaomi Cloud για στοιχεία της Συλλογής και μεταφορά στις Φωτογραφίες Google</string>
+    <string name="miuix_appcompat_edit">Επεξεργασία</string>
 </resources>
 

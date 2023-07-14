@@ -50,4 +50,8 @@
     <string name="miuix_indexer_collect">Συλλογές</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_phrase_label">Συχνές φράσεις</string>
+    <string name="super_clipboard_alert_dialog_cancel_button">Ακύρωση</string>
+    <string name="super_clipboard_alert_dialog_sure_button">OK</string>
+    <string name="super_clipboard_send_file">Επικόλληση του αρχείου από το πρόχειρο;</string>
+    <string name="super_clipboard_send_image">Επικόλληση της εικόνας από το πρόχειρο;</string>
 </resources>

@@ -962,4 +962,5 @@
     <string name="apply_warning_title">Εφαρμογή ταπετσαρίας</string>
     <string name="dlg_ok">Εφαρμογή</string>
     <string name="passport_vcode_what_app_send_prompt">Ο κωδικός επαλήθευσης του WhatsApp θα αποσταλεί στο τηλέφωνο ανάκτησής σας (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+    <string name="miuix_appcompat_edit">Επεξεργασία</string>
 </resources>

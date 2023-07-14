@@ -891,4 +891,7 @@
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Χθές</string>
+    <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" παρέχει ήδη υπηρεσίες δημιουργίας αντιγράφων ασφαλείας του συστήματος. Απεγκαταστήστε το και κάντε επανεκκίνηση της συσκευής σας για να μπορέσετε να χρησιμοποιήσετε το Mi Mover.</string>
+    <string name="receiver_finish_not_transferred">Δεν μεταφέρθηκε</string>
+    <string name="receiver_finish_transferred">Μεταφέρθηκε</string>
 </resources>

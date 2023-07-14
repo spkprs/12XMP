@@ -1706,5 +1706,6 @@
     <string name="close_tips">Κλείσιμο υπενθύμισης</string>
     <string name="folder_junk_name_en5">Spam</string>
     <string name="message_invite_calendar_download_prompt">Κατεβάστε το Ημερολόγιο για να μπορέσετε να χρησιμοποιήσετε αυτή τη λειτουργία</string>
-     <string name="message_forward_has_signature_pdf">Προωθείτε υπογεγραμμένα συνημμένα αρχεία PDF;</string>
+    <string name="message_forward_has_signature_pdf">Προωθείτε υπογεγραμμένα συνημμένα αρχεία PDF;</string>
+    <string name="auto_start_open_prompt">"Το Mail δεν μπορεί να χρησιμοποιήσει την αυτόματη εκκίνηση. Μπορεί να επηρεάσει το συγχρονισμό των e-mails. Ενεργοποιήτε την αυτόματη εκκίνηση;"</string>
 </resources>

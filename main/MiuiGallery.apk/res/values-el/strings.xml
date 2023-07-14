@@ -3643,6 +3643,7 @@
     <string name="immersion_menu_photo_switch_notice">Πατήστε για να επιλέξετε αν θα εμφανίζονται όλα τα στοιχεία ή μόνο το άλμπουμ της Κάμερας εδώ.</string>
     <string name="hdr_switch_show_title">Οθόνη HDR Pro</string>
     <string name="search_title_daily">ώρα</string>
+    <string name="passport_vcode_what_app_send_prompt">Ο κωδικός επαλήθευσης WhatsApp θα σταλεί στο τηλέφωνο ανάκτησης (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="stop_use_secret_msg">"Οι φωτογραφίες και τα βίντεό σας δεν συγχρονίζονται πλέον με το Xiaomi Cloud. Δεν θα μπορείτε να χρησιμοποιήσετε το προσωπικό σας άλμπουμ, καθώς βασίζεται στην κρυπτογράφηση στο cloud.
 Μέχρι το %1$s, μπορείτε να μεταφέρετε τα στοιχεία σας στο Google Photos ή να επισκεφθείτε το i.mi.com για να τα κατεβάσετε. Μετά από αυτό, τα στοιχεία που εξακολουθούν να είναι αποθηκευμένα στο Xiaomi Cloud θα διαγραφούν οριστικά.
 %2$s"</string>
