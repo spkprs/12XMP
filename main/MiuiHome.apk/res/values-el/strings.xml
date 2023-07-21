@@ -219,7 +219,7 @@
     <string name="cate_order_reset">Επαναφορά</string>
     <string name="category_already_exists">Αυτή η κατηγορία υπάρχει ήδη</string>
     <string name="category_cannot_empty">Εισαγωγή κατηγορίας πρώτα</string>
-    <string name="category_choose_no_app_select_tip">Κάθε κατηγορία πρέπει να περιέχει τουλάχιστον 1 εφαρμογή.</string>
+    <string name="category_choose_no_app_select_tip">Κάθε κατηγορία πρέπει να περιέχει τουλάχιστον %d εφαρμογή.</string>
     <string name="category_drawer_name_hint">Εισάγετε τίτλο κατηγορίας</string>
     <string name="category_edit_back_confirm_dialog_content">Να αποθηκευτούν οι αλλαγές τώρα;</string>
     <string name="category_edit_back_confirm_dialog_negative_button">Χωρίς αποθήκευση</string>
@@ -801,7 +801,7 @@
     <string name="request_permission_title">Απαιτούμενες άδειες</string>
     <string name="reset_cate_tip_content">Εάν συνεχίσετε, θα γίνει επαναφορά των προεπιλεγμένων ομάδων εφαρμογών. Συνέχεια οπωσδήποτε;</string>
     <string name="reset_cate_tip_title">Επαναφορά προεπιλεγμένων ομάδων</string>
-    <string name="reset_description_first_time">Μπορείτε να επαναφέρετε τη διάταξη από %1$s εντός 2 ωρών</string>
+    <string name="reset_description_first_time">Μπορείτε να επαναφέρετε τη διάταξη από %1$s εντός %1$d ωρών</string>
     <string name="reset_description_others">Μπορείτε να επαναφέρετε τη διάταξη από %1$s</string>
     <string name="reset_fail">Αδύνατη η Επαναφορά</string>
     <string name="reset_scene_prompt">H διάταξη θα επανέλθει στην προεπιλογή</string>

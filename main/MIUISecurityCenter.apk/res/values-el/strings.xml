@@ -239,7 +239,7 @@
     <string name="antivirus_third_privacy_title">Πολιτικές απορρήτου τρίτων</string>
     <string name="antivirus_toast_already_update">Ενημερωμένο</string>
     <string name="antivirus_toast_network_unavailable">Αδυναμία σύνδεσης στο δίκτυο</string>
-    <string name="antivirus_toast_update_failed">Οι διακομιστές μας είναι απασχολημένοι. Περιμένετε λίγο και δοκιμάστε ξανά.</string>
+    <string name="antivirus_toast_update_failed">Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά.</string>
     <string name="antivirus_toast_update_success">Επιτυχής ενημέρωση</string>
     <string name="antivirus_toast_updating">Ενημέρωση…</string>
     <string name="antivirus_update_btn_contiue">Συνέχεια</string>
@@ -876,7 +876,7 @@
     <string name="back_sound_data">Απαιτείται δίκτυο κινητής τηλεφωνίας, παρακαλώ δοκιμάστε ξανά!</string>
     <string name="back_sound_fail">Απέτυχε!</string>
     <string name="back_sound_success">Ολοκληρώθηκε!</string>
-    <string name="back_sound_support">Οι τρέχοντες φορείς δικτύων δεν το υποστηρίζουν!</string>
+    <string name="back_sound_support">Απενεργοποιήστε πρώτα το Wi-Fi</string>
     <string name="background_restrict_app_dialog_message">Ο περιορισμός της πρόσβασης δικτύου στο παρασκήνιο για αυτήν την εφαρμογή μπορεί να καταστήσει αδύνατη την κανονική λειτουργία της εφαρμογής, τη λήψη μηνυμάτων, τη λήψη περιεχομένου κ.λπ.. Περιορίστε ούτως ή άλλως;</string>
     <string name="background_traffic">Παρασκήνιο %s</string>
     <string name="backsound_set_hint">Ρύθμιση ήχου επιστροφής ως \"%s;\"</string>
@@ -2912,7 +2912,7 @@
     <string name="network_changed_noti_summary">Χρήση δεδομένων κινητής</string>
     <string name="network_changed_noti_title">Αποσύνδεση από το δίκτυο Wi-Fi</string>
     <string name="network_connected_exception_title">Δοκιμή δικτύου</string>
-    <string name="network_control">Προβολή ρυθμίσεων εφαρμογών</string>
+    <string name="network_control">Διαχείριση σύνδεσης δικτύου</string>
     <string name="network_diagnostics">Δοκιμή δικτύου</string>
     <string name="network_disable_dialog_btn_text">Κατανοητό</string>
     <string name="network_disable_dialog_content">Η συσκευή σας πρέπει να συνδεθεί στο δίκτυο για να μπορείτε να αποσύρετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά.</string>
@@ -3095,7 +3095,7 @@
     <string name="om_settings_memory_occupy_notify_never">Ποτέ</string>
     <string name="om_settings_notify_manage">Ειδοποιήσεις</string>
     <string name="om_settings_speed_up_auto">Αυτόματη αύξηση ταχύτητας</string>
-    <string name="om_settings_title">Ρυθμίσεις βελτιστοποίησης</string>
+    <string name="om_settings_title">Ρυθμίσεις ενίσχυσης ταχύτητας</string>
     <string name="om_shortcut_added_toast_text">Προστέθηκε με επιτυχία</string>
     <string name="om_shortcut_dialog_summary">"Το RAM Jet σάς επιτρέπει να καθαρίσετε την μνήμη και να αυξήσετε την ταχύτητα της συσκευής σας με ένα πάτημα. Προσθήκη RAM Jet στην αρχική οθόνη;"</string>
     <string name="om_shortcut_dialog_title">RAM Jet</string>
@@ -5969,5 +5969,40 @@
     <string name="privacy_thumbnail_shield_top_tip">Προεπισκόπηση μάσκας για τις εφαρμογές που εμφανίζονται στα πρόσφατα</string>
     <string name="sim_lock_verify_time_out">Έληξε το χρονικό όριο της επαλήθευσης. Προσπαθήστε ξανά.</string>
     <string name="st_sms_intercept_oversea">Διεθνές SMS</string>
+    <string name="app_management_empty_desc">"Αυτή η εφαρμογή δεν υποστηρίζει αυτή τη λειτουργία"</string>
+    <string name="back_sound_support_china">Απενεργοποιήστε πρώτα το WLAN</string>
+    <string name="card_main_apkclean_title">Διαγραφή APKs</string>
+    <string name="card_main_appdataclean_title">Εκκαθάριση δεδομένων εφαρμογής</string>
+    <string name="card_main_facebookclean_title">Καθαριστής Facebook</string>
+    <string name="card_main_galleryclean_title">Διαγραφή φωτογραφιών</string>
+    <string name="card_main_whatsappclean_title">Καθαριστής WhatsApp</string>
+    <string name="clear_instant_app_confirmation">Θέλετε να αφαιρέσετε αυτή τη στιγμιαία εφαρμογή;</string>
+    <string name="clear_instant_app_data">Εκκαθάριση εφαρμογής</string>
+    <string name="cs_screen_translation_title">Μετάφραση οθόνης</string>
+    <string name="gtb_guide_accelerate">Πατήστε \"Ενίσχυση\" για να βελτιστοποιήσετε το παιχνίδι σας</string>
+    <string name="gtb_guide_accelerated_tips">Το Game Turbo βελτιστοποιεί την εμπειρία παιχνιδιού σας τώρα</string>
+    <string name="gtb_guide_gtb_line_new_global">Σύρετε για να ανοίξετε το Game Turbo</string>
+    <string name="install_text">Εγκατάσταση</string>
+    <string name="install_type_instant">Στιγμιαία εφαρμογή</string>
+    <string name="launch_instant_app">Άνοιγμα</string>
+    <string name="menu_hide_work_profile_text">Απόκρυψη εφαρμογών χώρου Εργασίας</string>
+    <string name="menu_show_work_profile_text">Εμφάνιση εφαρμογών χώρου Εργασίας</string>
+    <string name="pc_low_batterty_got_it">Το έπιασα</string>
+    <string name="pc_low_battery_fast_charge">Επιτάχυνση φόρτισης</string>
+    <string name="pc_low_battery_fast_charge_summary">Συνδέστε τον παρεχόμενο φορτιστή για να επιταχύνετε τη φόρτιση όταν η οθόνη είναι απενεργοποιημένη και η μπαταρία είναι χαμηλή. Αυτή η λειτουργία μπορεί να προκαλέσει τη θέρμανση της συσκευής σας.</string>
+    <string name="pc_smart_discharge_checkbox_summary">"Όταν χρησιμοποιείτε εφαρμογές πλοήγησης, η φόρτιση θα σταματήσει αυτόματα όταν η μπαταρία φτάσει σε ένα επιλεγμένο επίπεδο. Αυτή η λειτουργία δεν θα λειτουργήσει όταν είναι ενεργοποιημένη η Εξοικονόμηση μπαταρίας ή η Εξαιρετική εξοικονόμηση μπαταρίας."</string>
+    <string name="pc_smart_discharge_checkbox_title">Αυτόματη αποσύνδεση φόρτισης</string>
+    <string name="pc_smart_discharge_drop_down_title">Ρυθμίσεις αυτόματης αποσύνδεσης</string>
+    <string name="pc_smart_discharge_protect_notifi_summary">Για την προστασία της μπαταρίας, η φόρτιση θα σταματήσει αυτόματα σε ένα επιλεγμένο επίπεδο όταν χρησιμοποιείτε εφαρμογές πλοήγησης.</string>
+    <string name="pc_smart_discharge_protect_notifi_title">Η αυτόματη αποσύνδεση φόρτισης είναι ενεργοποιημένη</string>
+    <string name="phone_manage_privacy_title">Προστασία απορρήτου</string>
+    <string name="popular_action_anti_spam_title_global">Αποκλεισμός κλήσεων και μηνυμάτων</string>
+    <string name="popular_action_app_lock_title_global">Προστασία εφαρμογών με Κλείδωμα Εφαρμογών</string>
+    <string name="popular_action_card_title">Δημοφιλείς λειτουργίες</string>
+    <string name="popular_action_first_aid_title_global">Για νέους χρήστες</string>
+    <string name="popular_action_net_assistant_title_global">Παρακολούθηση ταχύτητας σύνδεσης δικτύου</string>
+    <string name="popular_action_video_clean_title_global">Καθαρίστε την προσωρινή μνήμη βίντεο για να ελευθερώσετε χώρο</string>
+    <string name="storage_activity_title_personage">Προσωπικός</string>
+    <string name="storage_activity_title_work">Εργασίας</string>
 </resources>
 
