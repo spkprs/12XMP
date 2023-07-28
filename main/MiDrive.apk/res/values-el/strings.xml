@@ -698,4 +698,6 @@
     <string name="request_permission_read_media_video">Πρόσβαση σε βίντεο</string>
     <string name="request_permission_read_media_video_desc">Για προεπισκόπηση, φόρτωση, λήψη και συγχρονισμό βίντεο</string>
     <string name="request_permission_read_media_visual">Για προεπισκόπηση, μεταφόρτωση, λήψη και συγχρονισμό φωτογραφιών και βίντεο</string>
+    <string name="exception_share_file">"Δεν ήταν δυνατή η μεταφόρτωση. Περιμένετε ένα ή δύο λεπτά και δοκιμάστε ξανά."</string>
+    <string name="miuix_appcompat_edit">Επεξεργασία</string>
 </resources>

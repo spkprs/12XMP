@@ -208,4 +208,6 @@
     <string name="unrecognized_model">Άγνωστη συσκευή</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="screenshot_detected_multiple_template">Πολλές εφαρμογές, συμπεριλαμβανομένου του %1$s, εντόπισαν αυτό το στιγμιότυπο οθόνης</string>
+    <string name="screenshot_detected_template">%1$s έχει εντοπίσει αυτό το στιγμιότυπο οθόνης</string>
 </resources>

@@ -2606,7 +2606,7 @@
     <string name="main_primary_message_leisure_overlimit">Πέρασε το όριο δεδομένων εκτός αιχμής</string>
     <string name="main_primary_message_leisure_remain">Δεδομένα εκτός αιχμής</string>
     <string name="main_primary_message_traffic_overlimit">Υπέρβαση ορίου χρήσης δεδομένων</string>
-    <string name="main_primary_message_traffic_remain">Δεδομένα κινητής</string>
+    <string name="main_primary_message_traffic_remain">Υπολειπόμενα δεδομένα</string>
     <string name="main_primary_message_traffic_warning">Πλησιάζετε το όριο χρήσης δεδομένων</string>
     <string name="main_purchase_tips">Προβολή</string>
     <string name="main_tc_over">Βαθμονόμηση με επιτυχία</string>
@@ -6004,5 +6004,11 @@
     <string name="popular_action_video_clean_title_global">Καθαρίστε την προσωρινή μνήμη βίντεο για να ελευθερώσετε χώρο</string>
     <string name="storage_activity_title_personage">Προσωπικός</string>
     <string name="storage_activity_title_work">Εργασίας</string>
+    <string name="global_satisfaction_notification_channel">Έρευνα ικανοποίησης χρηστών</string>
+    <string name="permission_instruction_get_identifier">Πρόσβαση στο αναγνωριστικό συσκευής</string>
+    <string name="permission_instruction_read_history">Πρόσβαση στο ιστορικό περιήγησης</string>
+    <string name="permission_instruction_receive_sms">Λήψη SMS και MMS</string>
+    <string name="permission_instruction_record_screen">Πρόσβαση στο περιεχόμενο της οθόνης</string>
+    <string name="permission_instruction_transfer_data_to_other_devices">Μεταφορά δεδομένων σε άλλες συσκευές</string>
 </resources>
 
