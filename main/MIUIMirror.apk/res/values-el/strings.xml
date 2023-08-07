@@ -526,4 +526,7 @@
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">"Δεν μπορούσε να συνδεθεί στον υπολογιστή. Βεβαιωθείτε ότι το Wi-Fi και το Bluetooth είναι ενεργοποιημένα και στις δύο συσκευές.."</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Δεν μπορούσε να συνδεθεί στον υπολογιστή. Βεβαιωθείτε ότι έχετε ενεργοποιήσει το Wi-Fi και το Bluetooth τόσο στο τηλέφωνο όσο και στον υπολογιστή σας και ότι ο υπολογιστής σας εκτελεί MIUI+."</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Δεν μπορούσε να συνδεθεί στον υπολογιστή. Βεβαιωθείτε ότι έχετε ενεργοποιήσει το Wi-Fi και το Bluetooth τόσο στο τηλέφωνο όσο και στον υπολογιστή σας και ότι ο υπολογιστής σας εκτελεί MIUI+."</string>
+    <string name="settings_nfc_transfer_desc1">"·Πλησιάστε ένα τηλέφωνο που είναι συνδεδεμένο στον λογαριασμό σας Xiaomi κοντά στη μονάδα NFC αυτής της συσκευής για να μοιραστείτε το περιεχόμενο της οθόνης ή να μεταφέρετε τα στοιχεία που έχουν επιλεγεί στη Διαχείριση αρχείων ή τη Συλλογή."</string>
+    <string name="settings_nfc_transfer_desc2">·Μπορείτε να δείτε τη λίστα των συμβατών συσκευών εδώ: %s</string>
+    <string name="settings_nfc_transfer_title">Μεταφορά στοιχείων μέσω NFC</string>
 </resources>

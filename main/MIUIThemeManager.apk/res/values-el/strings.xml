@@ -1488,4 +1488,8 @@
     <string name="miuix_appcompat_edit">Επεξεργασία</string>
     <string name="resource_search_hot_tag">Δημοφιλή</string>
     <string name="find_more_free_theme">Περισσότερα</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Ρυθμίσεις</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Αποδοχή</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Φαίνεται ότι δεν έχετε ενεργοποιήσει τη βελτιστοποίηση του MIUI. Χωρίς αυτήν, αυτό το θέμα δεν θα λειτουργήσει σωστά όταν εφαρμοστεί. Μπορείτε να το εφαρμόσετε ούτως ή άλλως ή να ενεργοποιήσετε τη βελτιστοποίηση MIUI στις Ρυθμίσεις."</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Προσοχή</string>
 </resources>

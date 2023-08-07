@@ -6010,5 +6010,6 @@
     <string name="permission_instruction_receive_sms">Λήψη SMS και MMS</string>
     <string name="permission_instruction_record_screen">Πρόσβαση στο περιεχόμενο της οθόνης</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Μεταφορά δεδομένων σε άλλες συσκευές</string>
+    <string name="virus_auto_update_engine_1">Αυτόματη ενημέρωση ορισμών</string>
 </resources>
 

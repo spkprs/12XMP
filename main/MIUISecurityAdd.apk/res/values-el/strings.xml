@@ -356,4 +356,5 @@
     <string name="xunyou_pay_webview">Υπηρεσίες Xunyou</string>
     <string name="yesterday">Χθες</string>
     <string name="pc_entered_extreme_mode_summary2">"Η μπαταρία της συσκευής σας έχει σχεδόν εξαντληθεί. Στη λειτουργία αδρανοποίησης, δεν θα λαμβάνετε ειδοποιήσεις από τις εφαρμογές που εργάζονται στο παρασκήνιο."</string>
+    <string name="superpower_toast_app_select_full_new">Μπορείτε να προσθέσετε έως και %d στοιχεία σε συχνά χρησιμοποιούμενες εφαρμογές</string>
 </resources>
