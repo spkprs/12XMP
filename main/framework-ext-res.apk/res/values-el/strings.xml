@@ -517,4 +517,14 @@
     <string name="hovermode_text_prompt">Όταν είναι ενεργοποιημένη η λειτουργία αιώρησης, χρησιμοποιήστε χειρονομίες στο κάτω μισό της οθόνης. Ενδέχεται να υπάρχουν διαφορές μεταξύ των εφαρμογών.</string>
     <string name="hovermode_text_right">Ρύθμιση έντασης ήχου</string>
     <string name="split_screen_recommend_tip">Διαιρούμενη οθόνη</string>
+    <string name="wifi_disable_micar_p2p_dialog_message">Η σύνδεση σε ένα νέο δίκτυο WLAN θα αποσυνδέσει τη συσκευή σας από το αυτοκίνητό σας. Αποσύνδεση τώρα;</string>
+    <string name="wifi_disable_micar_p2p_dialog_message_carwith">Η σύνδεση σε ένα νέο δίκτυο WLAN θα αποσυνδέσει τη συσκευή σας από το CarWith. Αποσύνδεση τώρα;</string>
+    <string name="wifi_disable_micar_p2p_dialog_message_carwith_china">Η σύνδεση σε ένα νέο δίκτυο WLAN θα αποσυνδέσει τη συσκευή σας από το CarWith. Αποσύνδεση τώρα;</string>
+    <string name="wifi_disable_micar_p2p_dialog_message_china">Η σύνδεση σε ένα νέο δίκτυο WLAN θα αποσυνδέσει τη συσκευή σας από το αυτοκίνητό σας. Αποσύνδεση τώρα;</string>
+    <string name="wifi_disable_micar_p2p_dialog_negative_button">Ακύρωση</string>
+    <string name="wifi_disable_micar_p2p_dialog_positive_button">Αποσύνδεση</string>
+    <string name="wifi_disable_micar_p2p_dialog_title">Αποσύνδεση από το αυτοκίνητο;</string>
+    <string name="wifi_disable_micar_p2p_dialog_title_carwith">Αποσύνδεση από το CarWith?</string>
+    <string name="memory_freeze_loading">Μισό λεπτό…</string>
+    <string name="print_unsupported_in_multiwindowmode">"Δεν μπορείτε να εκτυπώσετε όταν χρησιμοποιείτε οθόνη διαίρεσης ή αιωρούμενα παράθυρα"</string>
 </resources>

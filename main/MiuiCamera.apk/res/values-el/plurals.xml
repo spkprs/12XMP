@@ -76,4 +76,8 @@
         <item quantity="other">&lt;Data>"Η έκδοση της κάμερας που χρησιμοποιείτε δεν είναι συμβατή με το μοντέλο της συσκευής σας.&lt;br>Η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευτ.&lt;/b>&lt;/font>. Απεγκαταστήστε τις ενημερώσεις της κάμερας και δοκιμάστε ξανά."&lt;/Data></item>
         <item quantity="one">&lt;Data>"Η έκδοση της κάμερας που χρησιμοποιείτε δεν είναι συμβατή με το μοντέλο της συσκευής σας&lt;br>Η εφαρμογή θα κλείσει σε &lt;font color=#FFCE16>&lt;b>%1$d δευτ.&lt;/b>&lt;/font>. Απεγκαταστήστε τις ενημερώσεις της κάμερας και δοκιμάστε ξανά."&lt;/Data></item>
     </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">Χρονοδ/πτης %d-δευτ. για νυχτερινή λειτουργία</item>
+        <item quantity="one">Χρονοδ/πτης %d-δευτ. για νυχτερινή λειτουργία</item>
+    </plurals>
 </resources>

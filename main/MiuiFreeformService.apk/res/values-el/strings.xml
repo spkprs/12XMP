@@ -55,4 +55,14 @@
     <string name="freeform_guide_multiple_window_title">Άνοιγμα πολλαπλών παραθύρων</string>
      <string name="freeform_guide_free_drag_title_phone">Σύρετε για να αντιγράψετε σε άλλες εφαρμογές</string>
      <string name="freeform_guide_how_to_free_drag_summary_phone">Πατήστε παρατεταμένα την εικόνα και σύρετέ την σε μια άλλη εφαρμογή</string>
+    <string name="gesture_fullscreen_to_splitscreen">Αλλαγή σε διαχωρισμένη οθόνη</string>
+    <string name="gesture_split_left_to_right_summary">Σαρώστε δεξιά με τρία δάχτυλα</string>
+    <string name="gesture_split_right_to_left_summary">Σαρώστε αριστερά με τρία δάχτυλα</string>
+    <string name="gesture_to_split_screen">Χειρονομίες</string>
+    <string name="how_to_create_split_screen_combination">Δημιουργία συνδυασμού διαχωρισμένης οθόνης</string>
+    <string name="how_to_create_split_screen_combination_summary">Πατήστε παρατεταμένα τον συνδυασμό και προσθέστε τον στην Αρχική οθόνη</string>
+    <string name="how_to_split_screen_combination">Συνδυασμός διαχωρισμένης οθόνης</string>
+    <string name="how_to_split_screen_combination_summary_pad">Δημιουργία συντομεύσεων για συνδυασμούς διαχωρισμένης οθόνης χρησιμοποιώντας το app dock</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Σύρετε οριζόντια με τρία δάχτυλα για να ανοίξετε την οθόνη διαχωρισμού</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Σύρετε οριζόντια με τρία δάχτυλα για να ανοίξετε την οθόνη διαχωρισμού</string>
 </resources>

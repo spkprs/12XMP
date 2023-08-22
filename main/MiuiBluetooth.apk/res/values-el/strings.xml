@@ -799,4 +799,10 @@
     <string name="tv_calibration_pre_text">"Βαθμονομήστε την έγχρωμη οθόνη της τηλεόρασής σας με το τηλέφωνό σας"</string>
     <string name="tv_calibration_start">"Τοποθετήστε την πίσω κάμερα του τηλεφώνου σας σταθερά στο μέσο της οθόνης"</string>
     <string name="tv_calibration_start_button">Έναρξη</string>
+    <string name="headset_autoswitch_connect_button">Σύνδεση</string>
+    <string name="headset_autoswitch_connect_title">Σύνδεση ακουστικών</string>
+    <string name="headset_autoswitch_connected">Συνδεδεμένο</string>
+    <string name="headset_autoswitch_connecting">Σύνδεση…</string>
+    <string name="headset_autoswitch_disconnected">Συνδεδεμένο με %1$s</string>
+    <string name="headset_autoswitch_fialed">"Δεν ήταν δυνατή η σύνδεση"</string>
 </resources>

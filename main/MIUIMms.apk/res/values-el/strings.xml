@@ -1394,4 +1394,9 @@
     <string name="pref_title_perm_read_audio">Πρόσβαση σε αρχεία ήχου</string>
     <string name="pref_title_perm_read_files">Πρόσβαση σε αρχεία και έγγραφα</string>
     <string name="pref_title_perm_read_images_video">Πρόσβαση σε φωτογραφίες και βίντεο</string>
+    <string name="copy_message">Αντιγραφή</string>
+    <string name="copy_message_success">Αντιγράφηκε με επιτυχία</string>
+    <string name="pref_feedback_title">Σχόλια</string>
+    <string name="search_sms">Αναζήτηση μηνυμάτων</string>
+    <string name="title_timed_remind_message_dialog">Ρύθμιση χρόνου υπενθύμισης</string>
 </resources>

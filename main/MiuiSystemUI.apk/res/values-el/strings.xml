@@ -2883,9 +2883,9 @@
     <string name="broadcasting_description_is_broadcasting">Εκπομπή</string>
     <string name="bt_le_audio_broadcast_dialog_unknown_name">Άγνωστο</string>
     <string name="call_from_work_profile_action">Εναλλαγή σε προφίλ εργασίας</string>
-    <string name="call_from_work_profile_close">Κλείσιμο</string>
-    <string name="call_from_work_profile_text">Η πολιτική εργασίας σας επιτρέπει να πραγματοποιείτε τηλεφωνικές κλήσεις μόνο από το προφίλ εργασίας</string>
-    <string name="call_from_work_profile_title">"Δεν μπορείτε να καλέσετε από αυτό το προφίλ"</string>
+    <string name="call_from_work_profile_close">Ακύρωση</string>
+    <string name="call_from_work_profile_text">Ο οργανισμός σας επιτρέπει να πραγματοποιείτε κλήσεις μόνο από εφαρμογές εργασίας</string>
+    <string name="call_from_work_profile_title">"Δεν είναι δυνατή η κλήση από μια προσωπική εφαρμογή"</string>
     <string name="camera_and_microphone_blocked_dream_overlay_content_description">Η κάμερα και το μικρόφωνο είναι μπλοκαρισμένα</string>
     <string name="camera_blocked_dream_overlay_content_description">Κάμερα μπλοκαρισμένη</string>
     <string name="close_button_text">Κλείσιμο</string>
@@ -2907,7 +2907,7 @@
     <string name="fgs_manager_footer_label">{count, plural, =1 {# εφαρμ. είναι ενεργή} other {# εφαρμ. είναι ενεργές} }</string>
     <string name="float_button_text">Αιώρηση</string>
     <string name="fullscreen_text">Πλήρης οθόνη</string>
-    <string name="grant_admin">Δώστε σε αυτόν τον χρήστη δικαιώματα διαχειριστή</string>
+    <string name="grant_admin">Ναι, κάντε τους διαχειριστές</string>
     <string name="guest_exit_button">Έξοδος από τη λειτουργία επισκέπτη</string>
     <string name="guest_exit_clear_data_button">Διαγραφή</string>
     <string name="guest_exit_dialog_button">Έξοδος</string>
@@ -2981,7 +2981,7 @@
     <string name="mobile_data_poor_connection">Ανεπαρκής σύνδεση</string>
     <string name="mobile_data_temp_connection_active">Προσωρινά συνδεδεμένο</string>
     <string name="no_unseen_notif_text">Δεν υπάρχουν νέες ειδοποιήσεις</string>
-    <string name="not_grant_admin">Μην δώσετε στον χρήστη δικαιώματα διαχειριστή</string>
+    <string name="not_grant_admin">Όχι, μην τους κάνετε διαχειριστές</string>
     <string name="note_task_button_label">Σημειογραφία</string>
     <string name="notification_channel_instant">Άμεσες εφαρμογές</string>
     <string name="notification_channel_setup">Ρύθμιση</string>
@@ -3033,11 +3033,21 @@
     <string name="user_add_user_message_guest_remove">"
 
 Η προσθήκη ενός νέου χρήστη θα τερματίσει τη λειτουργία επισκέπτη και θα διαγράψει όλες τις εφαρμογές και τα δεδομένα από την τρέχουσα συνεδρία επισκέπτη."</string>
-    <string name="user_grant_admin_message">Ως διαχειριστής, θα μπορούν να διαχειρίζονται άλλους χρήστες, να τροποποιούν τις ρυθμίσεις συσκευής και να επαναφέρουν τη συσκευή εργοστασιακά.</string>
-    <string name="user_grant_admin_title">Να εκχωρηθούν δικαιώματα διαχειριστή για αυτόν τον χρήστη;</string>
+    <string name="user_grant_admin_message">Οι διαχειριστές έχουν ειδικά προνόμια που οι άλλοι χρήστες δεν έχουν. Ένας διαχειριστής μπορεί να διαχειρίζεται όλους τους χρήστες, να ενημερώνει ή να επαναφέρει αυτή τη συσκευή, να τροποποιεί τις ρυθμίσεις, να βλέπει όλες τις εγκατεστημένες εφαρμογές και να χορηγεί ή να ανακαλεί δικαιώματα διαχειριστή για άλλους.</string>
+    <string name="user_grant_admin_title">Να γίνει αυτός ο χρήστης διαχειριστής;</string>
     <string name="video_camera">Βιντεοκάμερα</string>
     <string name="volume_panel_dialog_settings_button">Ρυθμίσεις</string>
     <string name="wifi_unavailable_dream_overlay_content_description">Το Wi-Fi δεν διατίθεται</string>
     <string name="wifitrackerlib_checking_for_internet_access">Έλεγχος για πρόσβαση στο Διαδίκτυο...</string>
     <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Δεν διατίθεται με τις τρέχουσες ρυθμίσεις ασφαλείας</string>
+    <string name="accessibility_magnification_fullscreen">Πλήρης οθόνη</string>
+    <string name="accessibility_left_uwb_button">Xiaomi Magic Control</string>
+    <string name="kg_prompt_after_update_password">Η συσκευή ενημερώθηκε. Πληκτρολογήστε τον κωδικό πρόσβασης για να συνεχίσετε.</string>
+    <string name="kg_prompt_after_update_pin">Η συσκευή ενημερώθηκε. Εισάγετε το PIN για να συνεχίσετε.</string>
+    <string name="kg_prompt_unattended_update_password">Εισάγετε κωδικό πρόσβασης για να εγκαταστήσετε την ενημέρωση αργότερα</string>
+    <string name="kg_prompt_unattended_update_pin">Εισάγετε PIN για να εγκαταστήσετε την ενημέρωση αργότερα</string>
+    <string name="media_output_broadcast_edit_hint_no_more_than_max">Χρησιμοποιήστε λιγότερους από %1$d χαρακτήρες</string>
+    <string name="media_transfer_default_device_name">Συνδεδεμένη συσκευή</string>
+    <string name="media_transfer_dock_speaker_device_name">Ηχείο σύνδεσης</string>
+    <string name="media_transfer_external_device_name">Εξωτερική συσκευή</string>
 </resources>

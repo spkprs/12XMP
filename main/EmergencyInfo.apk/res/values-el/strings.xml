@@ -577,4 +577,17 @@
   <string name="zen_mode_forever">Μέχρι να το απενεργοποιήσετε</string>
   <string name="zen_mode_settings_summary_off">Ποτέ</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποιήστε Μην Ενοχλείτε</string>
+    <string name="back">Πίσω</string>
+    <string name="category_clone">Κλώνος</string>
+    <string name="next">Επόμενο</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="user_grant_admin_button">Ορισμός ως διαχειριστή</string>
+    <string name="wifitrackerlib_hotspot_network_alternate">%1$s από %2$s</string>
+    <string name="wifitrackerlib_hotspot_network_connecting">Σύνδεση…</string>
+    <string name="wifitrackerlib_hotspot_network_summary">%1$s από %2$s</string>
+    <string name="wifitrackerlib_known_network_summary">Διαθέσιμο από %1$s</string>
+    <string name="grant_admin">Ναι, κάντε τους διαχειριστή</string>
+    <string name="not_grant_admin">Όχι, μην τους κάνετε διαχειριστή</string>
+    <string name="user_grant_admin_message">Οι διαχειριστές έχουν ειδικά προνόμια που οι άλλοι χρήστες δεν έχουν. Ένας διαχειριστής μπορεί να διαχειρίζεται όλους τους χρήστες, να ενημερώνει ή να επαναφέρει αυτή τη συσκευή, να τροποποιεί τις ρυθμίσεις, να βλέπει όλες τις εγκατεστημένες εφαρμογές και να χορηγεί ή να ανακαλεί δικαιώματα διαχειριστή για άλλους.</string>
+    <string name="user_grant_admin_title">Να γίνει αυτός ο χρήστης διαχειριστής;</string>
 </resources>

@@ -289,4 +289,9 @@
      <string name="call_notification_incoming_text">Εισερχόμενη κλήση</string>
      <string name="call_notification_ongoing_text">Τρέχουσα κλήση</string>
      <string name="call_notification_screening_text">Προβολή εισερχόμενης κλήσης</string>
+    <string name="grant_dialog_button_allow_all">Επιτρέπεται για όλα τα στοιχεία</string>
+    <string name="grant_dialog_button_allow_more_selected_photos">Επιλέξτε περισσότερα στοιχεία</string>
+    <string name="grant_dialog_button_allow_selected_photos">Επιλογή στοιχείων</string>
+    <string name="grant_dialog_button_always_allow_all">Να επιτρέπονται πάντα όλα τα στοιχεία</string>
+    <string name="grant_dialog_button_dont_allow_more_selected_photos">"Να μην επιτρέπεται πρόσθετη επιλογή"</string>
 </resources>

@@ -1666,8 +1666,8 @@
   <string name="wifi_watchdog_network_disabled_detailed">" έχει κακή σύνδεση στο Διαδίκτυο."</string>
   <string name="wireless_display_route_description">Ασύρματη οθόνη</string>
   <string name="work_mode_off_message">Να επιτρέπεται η λειτουργία του προφίλ εργασίας, συμπεριλαμβανομένων εφαρμογών, συγχρονισμού φόντου και συναφών λειτουργιών.</string>
-  <string name="work_mode_off_title">Η λειτουργία εργασίας είναι απενεργοποιημένη</string>
-  <string name="work_mode_turn_on">Ενεργοποίηση</string>
+    <string name="work_mode_off_title">Κατάργηση παύσης εφαρμ. εργασίας;</string>
+    <string name="work_mode_turn_on">Κατάργηση παύσης</string>
   <string name="work_profile_deleted">Το προφίλ εργασίας διαγράφηκε</string>
   <string name="work_profile_deleted_description_dpm_wipe">Το προφίλ εργασίας σας δεν είναι πια διαθέσιμο σε αυτήν τη συσκευή.</string>
   <string name="work_profile_deleted_details">Η εφαρμογή διαχείρισης προφίλ εργασίας είτε λείπει είτε είναι κατεστραμμένη. Ως αποτέλεσμα, το προφίλ εργασίας και σχετικά δεδομένα διαγράφηκαν. Επικοινωνήστε με το διαχειριστή για βοήθεια.</string>
@@ -1701,10 +1701,9 @@
      <string name="concurrent_display_notification_name">Διπλή οθόνη</string>
      <string name="concurrent_display_notification_thermal_content">Η διπλή οθόνη δεν είναι διαθέσιμη επειδή το τηλέφωνό σας ζεσταίνεται υπερβολικά.</string>
      <string name="concurrent_display_notification_thermal_title">Η συσκευή είναι πολύ ζεστή</string>
-     <string name="csd_dose_reached_warning">"Προειδοποίηση,
-Έχετε υπερβεί την ποσότητα δυνατών ηχητικών σημάτων που μπορεί κανείς να ακούσει με ασφάλεια μέσα σε μια εβδομάδα με ακουστικά.
+    <string name="csd_dose_reached_warning">"Συνεχίζετε να ακούτε σε υψηλή ένταση;
 
-Η υπέρβαση αυτού του ορίου θα βλάψει μόνιμα την ακοή σας."</string>
+Η ένταση των ακουστικών ήταν υψηλή για μεγαλύτερο χρονικό διάστημα από το συνιστώμενο, γεγονός που μπορεί να βλάψει την ακοή σας"</string>
     <string name="csd_dose_repeat_warning">"Προειδοποίηση,
 Έχετε υπερβεί 5 φορές την ποσότητα δυνατών ηχητικών σημάτων που μπορεί κανείς να ακούσει με ασφάλεια σε μια εβδομάδα με ακουστικά.
 
@@ -1712,10 +1711,9 @@
     <string name="csd_entering_RS2_warning">"Το επίπεδο στο οποίο ακούτε μέσα ενημέρωσης μπορεί να οδηγήσει σε βλάβη της ακοής όταν διατηρείται για μεγάλο χρονικό διάστημα.
 
 Η συνέχιση της αναπαραγωγής σε αυτό το επίπεδο για μεγάλα χρονικά διαστήματα θα μπορούσε να βλάψει την ακοή σας."</string>
-    <string name="csd_momentary_exposure_warning">"Προειδοποίηση,
-Αυτή τη στιγμή ακούτε δυνατό περιεχόμενο που αναπαράγεται σε μη ασφαλές επίπεδο.
+    <string name="csd_momentary_exposure_warning">"Εντοπίστηκε δυνατός ήχος
 
-Αν συνεχίσετε να ακούτε τόσο δυνατά, θα βλάψετε μόνιμα την ακοή σας.."</string>
+Η ένταση των ακουστικών ήταν υψηλότερη από τη συνιστώμενη, γεγονός που μπορεί να βλάψει την ακοή σας"</string>
     <string name="default_audio_route_name_external_device">Εξωτερική συσκευή</string>
     <string name="device_state_notification_turn_off_button">Απενεργοποίηση</string>
     <string name="display_rotation_camera_compat_toast_after_rotation">Περιστροφή για καλύτερη προβολή</string>
@@ -1802,4 +1800,24 @@
     <string name="work_profile_telephony_paused_text">"Έχετε διακόψει τις εφαρμογές εργασίας. Δεν θα λαμβάνετε τηλεφωνικές κλήσεις ή μηνύματα κειμένου."</string>
     <string name="work_profile_telephony_paused_title">Οι κλήσεις και τα μηνύματα είναι απενεργοποιημένα</string>
     <string name="work_profile_telephony_paused_turn_on_button">Κατάργηση παύσης εφαρμογών εργασίας</string>
+    <string name="concurrent_display_notification_power_save_content">Η διπλή οθόνη δεν είναι διαθέσιμη επειδή είναι ενεργοποιημένη η Εξοικονόμηση μπαταρίας. Μπορείτε να την απενεργοποιήσετε στις Ρυθμίσεις.</string>
+    <string name="concurrent_display_notification_power_save_title">Η διπλή οθόνη δεν διατίθεται</string>
+    <string name="device_state_notification_settings_button">Μεταβείτε στις Ρυθμίσεις</string>
+    <string name="managed_profile_app_label">Αλλαγή σε εργασία %1$s</string>
+    <string name="miniresolver_call">Κλήση</string>
+    <string name="miniresolver_call_in_work">Κλήση από την εφαρμογή εργασίας;</string>
+    <string name="miniresolver_call_information">Ο οργανισμός σας επιτρέπει να πραγματοποιείτε κλήσεις μόνο από εφαρμογές εργασίας</string>
+    <string name="miniresolver_open_work">Άνοιγμα εργασίας %s?</string>
+    <string name="miniresolver_sms_information">Ο οργανισμός σας επιτρέπει να στέλνετε μηνύματα μόνο από εφαρμογές εργασίας</string>
+    <string name="miniresolver_switch">Εναλλαγή</string>
+    <string name="miniresolver_switch_to_work">Εναλλαγή σε εφαρμογή εργασίας;</string>
+    <string name="permdesc_updatePackagesWithoutUserAction">Επιτρέπει στον κάτοχο να ενημερώνει την εφαρμογή που είχε εγκαταστήσει προηγουμένως χωρίς ενέργεια του χρήστη</string>
+    <string name="permlab_updatePackagesWithoutUserAction">ενημέρωση της εφαρμογής χωρίς ενέργεια του χρήστη</string>
+    <string name="user_owner_app_label">Εναλλαγή σε προσωπικό %1$s</string>
+    <string name="miniresolver_open_in_personal">Άνοιγμα σε προσωπικό %s?</string>
+    <string name="miniresolver_open_in_work">Άνοιγμα σε εργασία %s?</string>
+    <string name="resolver_switch_on_work">Κατάργηση παύσης</string>
+    <string name="resolver_turn_on_work_apps">Οι εφαρμογές εργασίας είναι σε παύση</string>
+    <string name="deprecated_abi_message">"Αυτή η εφαρμογή δεν είναι συμβατή με την τελευταία έκδοση του Android. Ελέγξτε για ενημέρωση ή επικοινωνήστε με τον προγραμματιστή της εφαρμογής."</string>
+    <string name="display_rotation_camera_compat_toast_in_multi_window">Άνοιγμα του %s σε πλήρη οθόνη για καλύτερη προβολή</string>
 </resources>

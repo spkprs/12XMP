@@ -100,4 +100,13 @@
      <string name="unlocking">Ενεργοποίηση…</string>
      <string name="verifing_account">Επαλήθευση κωδικού…</string>
      <string name="verify_password_failed">Αδυναμία επαλήθευσης ID λογαριασμού Mi. %s.</string>
+    <string name="open_wifi_settings_china">Άνοιγμα ρυθμίσεων WLAN</string>
+    <string name="unlock_help_china">"Σύνδεση στο δίκτυο.
+Εισαγάγετε μια λειτουργική κάρτα SIM και μην συνδέεστε σε μη έγκυρα δίκτυα WLAN.
+
+Ξεχάσατε τον κωδικό πρόσβασης;
+Μεταβείτε στη διεύθυνση id.mi.com, επιλέξτε \"Ξεχάσατε τον κωδικό πρόσβασης;\" και ακολουθήστε τις οδηγίες.
+
+Δεν είναι δυνατή η ενεργοποίηση της συσκευής;
+Μεταβείτε στη διεύθυνση i.mi.com/ss και υποβάλετε την αίτησή σας για ξεκλείδωμα της συσκευής."</string>
 </resources>

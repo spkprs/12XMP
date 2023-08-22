@@ -693,4 +693,17 @@
     <string name="callendpoint_name_streaming">Εξωτερικά</string>
     <string name="callendpoint_name_unknown">Άγνωστο</string>
     <string name="callendpoint_name_wiredheadset">Ενσύρματα ακουστικά</string>
+    <string name="call_notification_answer_action">Απάντηση</string>
+    <string name="call_notification_answer_video_action">Βίντεο</string>
+    <string name="call_notification_decline_action">Απόρριψη</string>
+    <string name="call_notification_hang_up_action">Κλείσιμο γραμμής</string>
+    <string name="call_notification_incoming_text">Εισερχόμενη κλήση</string>
+    <string name="call_notification_ongoing_text">Τρέχουσα κλήση</string>
+    <string name="call_notification_screening_text">Προβολή εισερχόμενης κλήσης</string>
+    <string name="call_streaming_notification_action_hang_up">Τερματισμός κλήσης</string>
+    <string name="call_streaming_notification_action_switch_here">Εναλλαγή εδώ</string>
+    <string name="call_streaming_notification_body">Ροή ήχου σε άλλη συσκευή</string>
+    <string name="default_dialer_reset_prompt">"Φαίνεται ότι συνέβησαν πολλαπλά σφάλματα κατά τη χρήση του %s. Να κάνετε την κλήση του MIUI την προεπιλεγμένη εφαρμογή τηλεφώνου σας τώρα;"</string>
+    <string name="notification_channel_call_streaming">Ροή κλήσης</string>
+    <string name="redirect_system_dialer_toast">Εμφανίστηκε σφάλμα με το %s. Μετάβαση στην εφαρμογή κλήσης του συστήματος.</string>
 </resources>

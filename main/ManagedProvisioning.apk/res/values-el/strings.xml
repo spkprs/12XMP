@@ -235,4 +235,7 @@
     <string name="error_role_holder_package_invalid">"Δεν είναι δυνατή η ρύθμιση της συσκευής. Επικοινωνήστε με το διαχειριστή IT και ανατρέξτε στην ενότητα \"Στοιχεία που λείπουν ή είναι κατεστραμμένα\"."</string>
     <string name="setting_up">Ρύθμιση…</string>
      <string name="sud_default_device_name">συσκευή</string>
+    <string name="fully_managed_device_reset_button">Εργοστασιακή επαναφορά</string>
+    <string name="fully_managed_device_unsupported_DPC_in_headless_mode_header">"Δεν είναι δυνατή η ρύθμιση της συσκευής"</string>
+    <string name="fully_managed_device_unsupported_DPC_in_headless_mode_subheader">"Αυτή η συσκευή δεν μπορεί να εγγραφεί σε πλήρως διαχειριζόμενη λειτουργία. Κάντε επαναφορά εργοστασιακών ρυθμίσεων της συσκευής σας και επικοινωνήστε με τον IT διαχειριστή σας."</string>
 </resources>

@@ -236,4 +236,11 @@ O N\",        \"text_format\": {          \"lineCount\": 5,          \"lineEnds\
     <string name="searchview_navigation_content_description">Πίσω</string>
     <string name="side_sheet_accessibility_pane_title">Πλευρικό φύλλο</string>
     <string name="miuix_appcompat_deselect_all">Αποεπιλογή όλων</string>
+    <string name="call_notification_answer_action">Απάντηση</string>
+    <string name="call_notification_answer_video_action">Βίντεο</string>
+    <string name="call_notification_decline_action">Απόρριψη</string>
+    <string name="call_notification_hang_up_action">Κλείσε το τηλέφωνο</string>
+    <string name="call_notification_incoming_text">Εισερχόμενη κλήση</string>
+    <string name="call_notification_ongoing_text">Τρέχουσα κλήση</string>
+    <string name="call_notification_screening_text">Προβολή εισερχόμενης κλήσης</string>
 </resources>

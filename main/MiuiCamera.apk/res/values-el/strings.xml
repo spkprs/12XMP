@@ -2182,4 +2182,21 @@
     <string name="video_effect_entry_literature_art">Poetry</string>
     <string name="video_effect_entry_orange_honey">Amber</string>
     <string name="video_effect_entry_romance">Charm</string>
+   <string name="accessibility_auto_macro_off">Το αυτόματο κλείσιμο της εστίασης είναι απενεργοποιημένο</string>
+    <string name="accessibility_auto_macro_on">Το αυτόματο κλείσιμο της εστίασης είναι ενεργοποιημένο</string>
+    <string name="confirm_truecolor_setting_message">"Το Dolby Vision δεν υποστηρίζει εστίαση παρακολούθησης κίνησης και ανάλυση 720P/8K. Ενεργοποίηση ούτως ή άλλως;"</string>
+    <string name="dialog_truecolor_setting_open">Ενεργοποίηση</string>
+    <string name="pref_true_colour_video_mode_setting_dec">"Καταγράψτε ζωντανές λεπτομέρειες, εκπληκτικά χρώματα και εντυπωσιακή αντίθεση στις λειτουργίες Video και Pro. Η εστίαση παρακολούθησης κίνησης και η κωδικοποίηση H.264 δεν υποστηρίζονται. Αυτή η λειτουργία ενδέχεται να μην είναι συμβατή με ορισμένες εφαρμογές τρίτων κατασκευαστών."</string>
+    <string name="tip_hdr_auto">HDR: Αυτόματο</string>
+    <string name="tip_hdr_on">HDR: Ενεργο</string>
+    <string name="track_focus_mutex_truecolor_setting_tips">"Η εστίαση παρακολούθησης κίνησης δεν υποστηρίζεται για βίντεο Dolby Vision/8K/60FPS"</string>
+    <string name="video_quality_track_focus_conflict_toast">"Η εστίαση παρακολούθησης κίνησης δεν υποστηρίζεται για βίντεο 8K/60FPS"</string>
+    <string name="flat_selfie_title_accessibility">Selfie με οπίσθια κάμερα</string>
+    <string name="gallery_delete_dialog_confirm">Διαγραφή</string>
+    <string name="gallery_delete_dialog_msg">Διαγραφή επιλεγμένων στοιχείων τώρα;</string>
+    <string name="gallery_delete_dialog_title">Διαγραφή στοιχείων</string>
+    <string name="gallery_description">"Οι προεπισκοπήσεις μικρογραφιών θα εμφανίζονται στην οθόνη καθώς τραβάτε φωτογραφίες."</string>
+    <string name="gallery_title">Προεπισκόπηση μικρογραφιών</string>
+    <string name="switch_gallery_preview_title_accessibility">Εναλλαγή προεπισκοπήσεων</string>
+    <string name="frind_sign_button_accessibility">Απενεργοποιήστε την κάμερα Assist</string>
 </resources>

@@ -1013,4 +1013,29 @@
     <string name="single_key_use_summary">"Χρήση του κουμπιού Αρχικής για λειτουργίες που εκτελούνται από τα άλλα 2 κουμπιά.
 Πατήστε το κουμπί Αρχικής για να επιστρέψετε.
 Πατήστε δύο φορές για να ανοίξετε τα Πρόσφατα."</string>
+    <string name="gesture_hint_call">Απάντηση κλήσης…</string>
+    <string name="gesture_hint_endcall">Τερματισμός κλήσης…</string>
+    <string name="gesture_hint_media_fast_forward">Γρήγορη προώθηση…</string>
+    <string name="gesture_hint_media_next">Επόμενο τραγούδι</string>
+    <string name="gesture_hint_media_play_pause">Αναπ/γωγή/Παύση</string>
+    <string name="gesture_hint_media_previous">Προηγούμενο τραγούδι</string>
+    <string name="gesture_hint_media_rewind">Επιστροφή…</string>
+    <string name="gesture_hint_media_volume">Ρύθμιση έντασης ήχου…</string>
+    <string name="gesture_hint_page_down">Επόμενη σελίδα</string>
+    <string name="gesture_hint_page_up">Προηγούμενη σελίδα</string>
+    <string name="gesture_hint_swipe_down">Σαρώστε κάτω</string>
+    <string name="gesture_hint_swipe_up">Σαρώστε πάνω</string>
+    <string name="gesture_hint_trigger">Αναγνώριση χειρονομίας…</string>
+    <string name="guide_confirm">Το έπιασα</string>
+    <string name="guide_media_play_pause">Αναπ/γή &amp; παύση βίντεο &amp; ήχου</string>
+    <string name="guide_media_process">Ρύθμιση προόδου αναπαραγωγής</string>
+    <string name="guide_media_volume">Ρύθμιση έντασης πολυμέσου</string>
+    <string name="guide_meida_next_previous">Εναλλαγή μεταξύ τραγουδιών</string>
+    <string name="guide_page_up_down">Αναστροφή σελίδων</string>
+    <string name="guide_phone_call_endcall">Απάντηση και τερματισμός κλήσεων που μεταφέρονται σε tablet</string>
+    <string name="guide_swipe_up_down">Σαρώστε πάνω και κάτω</string>
+    <string name="notification_tof_gesture_content_text">Ενεργοποιήστε αυτή τη λειτουργία για να εκτελείτε διάφορες ενέργειες χωρίς να αγγίζετε την οθόνη.</string>
+    <string name="notification_tof_gesture_title">Αναγνώριση ανέπαφων χειρονομιών</string>
+    <string name="stylus_quick_note_summary">Όταν η οθόνη είναι απενεργοποιημένη, χτυπήστε την με τη γραφίδα σας για να ξεκινήσετε να γράφετε. Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας.</string>
+    <string name="stylus_quick_note_title">Γράψτε με κλειστή οθόνη</string>
 </resources>
