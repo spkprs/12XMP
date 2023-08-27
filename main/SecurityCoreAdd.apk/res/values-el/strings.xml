@@ -1038,4 +1038,26 @@
     <string name="notification_tof_gesture_title">Αναγνώριση ανέπαφων χειρονομιών</string>
     <string name="stylus_quick_note_summary">Όταν η οθόνη είναι απενεργοποιημένη, χτυπήστε την με τη γραφίδα σας για να ξεκινήσετε να γράφετε. Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας.</string>
     <string name="stylus_quick_note_title">Γράψτε με κλειστή οθόνη</string>
+    <string name="tof_gesture">Χειρονομίες ανέπαφων κινήσεων (Beta)</string>
+    <string name="tof_learn_double_press">Μάθετε τη χειρονομία \"Κίνηση διπλού πατήματος\"</string>
+    <string name="tof_learn_double_press_tip">Εκτελέστε μια κίνηση διπλού πατήματος με την παλάμη σας στραμμένη προς την οθόνη για να διακόψετε τη μουσική.</string>
+    <string name="tof_learn_draw_circle">Μάθετε τη χειρονομία \"Σχεδιάστε έναν κύκλο\"</string>
+    <string name="tof_learn_draw_circle_tip">Σχεδιάστε έναν κύκλο δεξιόστροφα με την παλάμη σας στραμμένη προς την οθόνη για να απαντήσετε σε κλήσεις που μεταφέρονται στο tablet.</string>
+    <string name="tof_learn_exit">Έξοδος</string>
+    <string name="tof_learn_gesture_error_try_again">"Δεν  αναγνωρίστηκε η χειρονομία. Προσαρμόστε τη θέση του χεριού σας και δοκιμάστε ξανά"</string>
+    <string name="tof_learn_gesture_operation_success">Τέλος!</string>
+    <string name="tof_learn_gesture_position_tip">Κρατήστε το χέρι σας σε απόσταση %1$d έως %2$d εκ από την κάμερα και εκτελέστε τη χειρονομία αφού εμφανιστεί το εικονίδιο του χεριού.</string>
+    <string name="tof_learn_incall_company">Mi Mobile</string>
+    <string name="tof_learn_incall_date">Παρασκευή</string>
+    <string name="tof_learn_incall_from">Από το Xiaomi 13</string>
+    <string name="tof_learn_incall_location">Changsha, China Telecom</string>
+    <string name="tof_learn_up_gesture_position_tip">Κρατήστε το χέρι σας σε απόσταση %1$d έως %2$d εκ από την κάμερα με την παλάμη στραμμένη προς τα κάτω και εκτελέστε τη χειρονομία αφού εμφανιστεί το εικονίδιο του χεριού.</string>
+    <string name="tof_learn_wave_down">Μάθετε τη χειρονομία \"Κύμα κάτω\"</string>
+    <string name="tof_learn_wave_down_tip">Κουνήστε το χέρι σας προς τα κάτω για να επιστρέψετε στην προηγούμενη σελίδα</string>
+    <string name="tof_learn_wave_left">Μάθετε τη χειρονομία \"Κύμα αριστερά\"</string>
+    <string name="tof_learn_wave_left_tip">Κουνήστε το χέρι σας αριστερά για να αλλάξετε τραγούδια</string>
+    <string name="tof_learn_wave_right">Μάθετε τη χειρονομία \"Κύμα δεξιά\"</string>
+    <string name="tof_learn_wave_right_tip">Κουνήστε το χέρι σας δεξιά για να αλλάξετε τραγούδια</string>
+    <string name="tof_learn_wave_up">Μάθετε τη χειρονομία \"Κύμα επάνω\"</string>
+    <string name="tof_learn_wave_up_tip">Κουνήστε το χέρι σας για να μεταβείτε στην επόμενη σελίδα</string>
 </resources>

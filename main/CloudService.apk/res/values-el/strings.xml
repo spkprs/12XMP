@@ -916,5 +916,10 @@
     <string name="upgrade_member_storage">Μέλος Xiaomi Cloud</string>
     <string name="gallery_service_termination_announcement">Ειδοποίηση για τον τερματισμό του συγχρονισμού Xiaomi Cloud για στοιχεία της Συλλογής και μεταφορά στις Φωτογραφίες Google</string>
     <string name="miuix_appcompat_edit">Επεξεργασία</string>
+    <string name="web_view_auto_login_fail">"Δεν μπόρεσα να συνδεθεί. Δοκιμάστε ξανά."</string>
+    <string name="web_view_login_text">Σύνδεση…</string>
+    <string name="web_view_reload_btn_text">Δοκιμάστε ξανά</string>
+    <string name="web_view_reload_description_text">"Δεν μπόρεσε να συνδεθεί στο δίκτυο.
+Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά."</string>
 </resources>
 

@@ -584,4 +584,5 @@
     <string name="keyboard_connect_success_text">Επιτυχής σύνδεση πληκτρολογίου</string>
     <string name="stylus_quick_note_summary">Όταν η οθόνη είναι απενεργοποιημένη, χτυπήστε την με τη γραφίδα σας για να ξεκινήσετε να γράφετε. Αυτή η λειτουργία αυξάνει την κατανάλωση ενέργειας.</string>
     <string name="stylus_quick_note_title">Γράψτε με απενεργοποιημένη την οθόνη</string>
+    <string name="auto_disable_screenbuttons_dialog_title">Απενεργοποιείτε τα κουμπιά οθόνης για %s;</string>
 </resources>

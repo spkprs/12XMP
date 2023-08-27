@@ -9521,4 +9521,8 @@ Xiaomi Cloud
     <string name="wifi_validation">Επαλήθευση δικτύου…</string>
     <string name="private_dns_mode_provider_custom_name">προσαρμοσμένο όνομα</string>
     <string name="private_dns_mode_provider_exposed_hostname">εκτεθειμένο hostname</string>
+    <string name="autoui_mode_guide_text">Βελτιστοποίηση των διατάξεων εντός της εφαρμογής για συμβατές εφαρμογές για τη βελτίωση της οπτικής εμπειρίας</string>
+    <string name="autoui_mode_name">Βελτιστοποίηση διάταξης εφαρμογής</string>
+    <string name="autoui_mode_no_support_apps">"Αδυναμία εύρεσης συμβατής εφαρμογής"</string>
+    <string name="autoui_search_hint">Αναζήτηση εφαρμογών</string>
 </resources>

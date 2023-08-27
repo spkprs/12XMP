@@ -2199,4 +2199,12 @@
     <string name="gallery_title">Προεπισκόπηση μικρογραφιών</string>
     <string name="switch_gallery_preview_title_accessibility">Εναλλαγή προεπισκοπήσεων</string>
     <string name="frind_sign_button_accessibility">Απενεργοποιήστε την κάμερα Assist</string>
+    <string name="color_effect_entry_distinct">Φωτεινό</string>
+    <string name="color_effect_entry_forest_green">Πεύκο</string>
+    <string name="color_effect_entry_negative_film">Αρνητικό</string>
+    <string name="color_effect_entry_warm_blue">Γαλάζιο όνειρο</string>
+    <string name="settings_camera_near_range_fallback_description">Αλλάξτε αυτόματα σε φακό εξαιρετικά ευρείας γωνίας για να αποφύγετε το φαινόμενο bokeh κατά τη φωτογράφιση επίπεδων αντικειμένων από κοντά</string>
+    <string name="settings_camera_near_range_fallback_title">Προσαρμοσμένη μακροεντολή</string>
+    <string name="settings_camera_tele_fallback_description">Αυτόματη εναλλαγή μεταξύ κύριου και τηλεφακού ανάλογα με την απόσταση και τη φωτεινότητα</string>
+    <string name="settings_camera_tele_fallback_title">Προσαρμοσμένος τηλεφακός</string>
 </resources>

@@ -7,7 +7,7 @@
     <string name="auth_fingerprint_content_message_error">"Αδύνατη η σάρωση δακτυλικών αποτυπωμάτων, δοκιμάστε ξανά"</string>
     <string name="auth_fingerprint_title">Επαλήθευση των δακτυλικών σας αποτυπωμάτων</string>
     <string name="autofill_description">"Το MIUI μπορεί να κρυπτογραφήσει και αποθηκεύσει τους κωδικούς σας έτσι ώστε να εισάγονται αυτόματα όποτε χρειάζεται. Η Xiaomi δεν θα μπορεί να διαβάσει τους κρυπτογραφημένους κωδικούς σας."</string>
-    <string name="autofill_hint_email_address">Email</string>
+    <string name="autofill_hint_email_address">Λογαριασμός</string>
     <string name="autofill_hint_name">Ονομα</string>
     <string name="autofill_hint_password">Κωδικός πρόσβασης</string>
     <string name="autofill_hint_phone">Αριθμός τηλεφώνου</string>
