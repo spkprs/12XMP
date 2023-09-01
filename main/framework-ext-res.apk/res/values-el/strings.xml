@@ -527,4 +527,6 @@
     <string name="wifi_disable_micar_p2p_dialog_title_carwith">Αποσύνδεση από το CarWith?</string>
     <string name="memory_freeze_loading">Μισό λεπτό…</string>
     <string name="print_unsupported_in_multiwindowmode">"Δεν μπορείτε να εκτυπώσετε όταν χρησιμοποιείτε οθόνη διαίρεσης ή αιωρούμενα παράθυρα"</string>
+    <string name="resolver_cast">Μετάδοση</string>
+    <string name="resolver_print">Εκτύπωση</string>
 </resources>

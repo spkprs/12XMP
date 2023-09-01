@@ -3050,4 +3050,5 @@
     <string name="media_transfer_default_device_name">Συνδεδεμένη συσκευή</string>
     <string name="media_transfer_dock_speaker_device_name">Ηχείο σύνδεσης</string>
     <string name="media_transfer_external_device_name">Εξωτερική συσκευή</string>
+    <string name="sim_lock_bouncer_hint_msg">Η κάρτα SIM είναι κλειδωμένη. Αντικαταστήστε την ή πληκτρολογήστε τον κωδικό πρόσβασης για να ξεκλειδώσετε.</string>
 </resources>
