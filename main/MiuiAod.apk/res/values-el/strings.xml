@@ -243,4 +243,6 @@ O N\",        \"text_format\": {          \"lineCount\": 5,          \"lineEnds\
     <string name="call_notification_incoming_text">Εισερχόμενη κλήση</string>
     <string name="call_notification_ongoing_text">Τρέχουσα κλήση</string>
     <string name="call_notification_screening_text">Προβολή εισερχόμενης κλήσης</string>
+    <string name="smart_style">Έξυπνο</string>
+    <string name="smart_style_summary">"Να εμφανίζετε πάντα στοιχεία, εκτός όταν η συσκευή σας βρίσκεται σε τσέπη, όταν ο φωτισμός του περιβάλλοντος είναι χαμηλός για μεγάλο χρονικό διάστημα ή όταν δεν κοιτάτε τη συσκευή σας."</string>
 </resources>

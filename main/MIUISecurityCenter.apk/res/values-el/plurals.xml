@@ -998,5 +998,9 @@
         <item quantity="other">Βελτιστοποίηση της χρήσης της μπαταρίας σε %d σενάρια</item>
         <item quantity="one">Βελτιστοποίηση της χρήσης της μπαταρίας σε %d σενάριο</item>
     </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Ενημέρωση %d εφαρμ.</item>
+        <item quantity="one">Ενημέρωση %d εφαρμ.</item>
+    </plurals>
 </resources>
 

@@ -2446,4 +2446,10 @@
     <string name="msim_setting_satellite_sim">Κάρτα SIM SateLlite</string>
     <string name="phone_account_settings_user_restriction">Οι ρυθμίσεις του λογαριασμού τηλεφώνου μπορούν να αλλάξουν μόνο από τον διαχειριστή ή τον χρήστη εργασίας..</string>
     <string name="satellite_mobile_settings_summary">Υποστηρίζεται μόνο από την κάρτα SIM της China Telecom</string>
+    <string name="dial_settings_screen_title">Ρυθμίσεις Κλήσης</string>
+    <string name="mobile_settings_screen_title">Δεδομένα κινητής</string>
+    <string name="msim_setting_default_sms">SIM για SMS</string>
+    <string name="msim_setting_default_sms_description">SIM %d για SMS</string>
+    <string name="msim_setting_sms_pop_text">Επιλέξτε κατά την αποστολή SMS</string>
+    <string name="other_settings_screen_title">Άλλες ρυθμίσεις</string>
 </resources>

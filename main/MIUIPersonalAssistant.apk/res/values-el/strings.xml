@@ -919,4 +919,18 @@
     <string name="pa_picker_theme_app_version_error">Εμφανίστηκε σφάλμα</string>
     <string name="pa_global_search_description">Αναζήτηση</string>
     <string name="pa_global_search_hint">Αναζήτηση…</string>
+    <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, κατάσταση εγκατάστασης: %3$s.
+Πατήστε δύο φορές για λεπτομέρειες."</string>
+    <string name="pa_picker_detail_add_to_stack">Προσθήκη στην ομάδα</string>
+    <string name="pa_picker_detail_app_widget_in_dev">"Αυτό το γραφικό στοιχείο δεν είναι διαθέσιμο ακόμα. Μπορείτε να δείτε άλλα γραφικά στη θέση του."</string>
+    <string name="pa_picker_detail_view_more">Προβολή περισσότερων</string>
+    <string name="pa_picker_stack_operate_empty_title">"Τίποτα εδώ ακόμα.
+Προσθέστε γραφικά για να ξεκινήσετε."</string>
+    <string name="pa_picker_stack_operate_title">Επεξεργασία ομάδας</string>
+    <string name="pa_picker_toast_count_limit_for_stack">Προσθέστε έως και 10 στοιχεία</string>
+    <string name="pa_stack_summary">Μετακινήστε τα γραφικά με νέες πληροφορίες προς την κορυφή</string>
+    <string name="pa_stack_text">Μετακινήστε ενημερωμένα στοιχεία προς τα πάνω</string>
+    <string name="pa_widget_menu_edit_card_in_stack">Επεξεργασία \"%s\"</string>
+    <string name="pa_widget_menu_edit_stack">Επεξεργασία ομάδας</string>
+    <string name="pa_widget_menu_remove_card_in_stack">Αφαίρεση \"%s\"</string>
 </resources>

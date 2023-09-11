@@ -499,7 +499,7 @@
     <string name="app_manager_mobile_slot">Δεδομένα κινητής (SIM %d)</string>
     <string name="app_manager_mobile_slot1">Δεδομένα κινητής (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Δεδομένα κινητής (SIM 2)</string>
-    <string name="app_manager_net_control_title">Περιορισμός χρήσης δεδομένων</string>
+    <string name="app_manager_net_control_title">Μέθοδος σύνδεσης</string>
     <string name="app_manager_net_mobile">Δεδομένα κινητής</string>
     <string name="app_manager_net_wifi">Wi‑Fi</string>
     <string name="app_manager_not_allow">Όχι</string>
@@ -1768,7 +1768,7 @@
     <string name="firewall_restrict_notify_title">\"%s\" περιορ. δίκτυου</string>
     <string name="firewall_restrict_wlan">Περιορισμός χρήσης σύνδεσης Wi‑Fi</string>
     <string name="firewall_rule_group_title_roaming">Διεθνής περιαγωγή</string>
-    <string name="firewall_system_title">Χρήση δεδομένων των εφαρμ. συστήματος</string>
+    <string name="firewall_system_title">Συνδέσεις εφαρμογών συστήματος</string>
     <string name="firewall_temp_rule_reason">%2$s περιορισμένη σύνδεση στο Internet για %1$s​</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">\"Η εγκατεστημένη εφαρμογή δεν θα μπορεί να συνδεθεί στο Internet μέσω Wi‑Fi όταν αυτός ο διακόπτης είναι ανενεργός.​</string>
@@ -2613,7 +2613,7 @@
     <string name="main_tc_send_sms">Αποστολή SMS\nγια βαθμονόμηση</string>
     <string name="main_tc_wait_result">Αναμονή του φορέα\nγια ανταπόκριση</string>
     <string name="main_today_used">Σήμερα</string>
-    <string name="main_toolbar_firewall">Περιορισμός χρήσης δεδομένων</string>
+    <string name="main_toolbar_firewall">Διαχείριση σύνδεσης δικτύου</string>
     <string name="main_toolbar_misim">Mi SIM</string>
     <string name="main_toolbar_purchase">Κορυφαία</string>
     <string name="main_toolbar_statistic">Στατιστικά χρήσης δεδομένων</string>
@@ -2712,7 +2712,7 @@
     <string name="menu_sms">Αποστολή μηνύματος</string>
     <string name="menu_summary_antispam">Αποκλεισμός κλήσεων και μηνυμάτων</string>
     <string name="menu_summary_antivirus">Αναζήτηση για ιούς</string>
-    <string name="menu_summary_app_manager">Ενημέρωση/Απεγκ/σταση</string>
+    <string name="menu_summary_app_manager">Διαχείριση ρυθμίσεων εφαρμογής</string>
     <string name="menu_summary_garbage_cleanup">Δεν βρέθηκαν απορρίματα</string>
     <string name="menu_summary_garbage_cleanup_ex">Καθαρισμός %s</string>
     <string name="menu_summary_garbage_cleanup_new">%d%% Χρήση αποθήκευσης</string>
@@ -5761,7 +5761,7 @@
     <string name="size_full">Πλήρης οθόνη</string>
     <string name="global_satisfaction_notification_button">Βαθμολογία</string>
     <string name="global_satisfaction_notification_subhead">Πείτε μας την εμπειρία σας</string>
-    <string name="global_satisfaction_notification_title">Βαθμολογήστε αυτή τη συσκευή</string>
+    <string name="global_satisfaction_notification_title">Βαθμολογήστε την εμπειρία σας</string>
     <string name="antispam_guangdian_card_hint">"Η κάρτα SIM δεν υποστηρίζει την εναλλαγή σε διαφορετικό μήνυμα. Επικοινωνήστε με τον φορέα σας για λεπτομέρειες."</string>
     <string name="antispam_guangdian_card_title">"Η εναλλαγή δεν υποστηρίζεται"</string>
     <string name="app_name_pad">Ασφάλεια</string>
@@ -6011,5 +6011,32 @@
     <string name="permission_instruction_record_screen">Πρόσβαση στο περιεχόμενο της οθόνης</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Μεταφορά δεδομένων σε άλλες συσκευές</string>
     <string name="virus_auto_update_engine_1">Αυτόματη ενημέρωση ορισμών</string>
+    <string name="app_info_all_services_label">Όλες οι υπηρεσίες</string>
+    <string name="app_manager_shortcut_manager">Διαχείριση συντομεύσεων αρχικής οθόνης</string>
+    <string name="app_usage_half_year">Τελευταίοι %d μήνες</string>
+    <string name="app_usage_more_year">Πάνω από %d έτος πριν</string>
+    <string name="app_usage_never_1">Ποτέ δεν χρησιμοποιήθηκε</string>
+    <string name="app_usage_one_day">Σήμερα</string>
+    <string name="app_usage_one_month">Τελευταίες %d μήνες</string>
+    <string name="app_usage_one_week">Τελευταίες %d ημέρες</string>
+    <string name="app_usage_year">Εντός %d έτους</string>
+    <string name="card_main_video_manage_title">Διαχείριση βίντεο</string>
+    <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">Για τη διαχείριση της εξουσιοδότησης κατά την επαλήθευση της ταυτότητας πολλαπλών συσκευών, την αποσφαλμάτωση USB και την επαναφορά του κωδικού πρόσβασης προστασίας απορρήτου και του κλειδώματος εφαρμογών.</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Για την αναγνώριση της κατάστασης κλήσης σε καταστάσεις υψηλής θερμοκρασίας ή χαμηλής μπαταρίας</string>
+    <string name="custom_define_permission_desc_android.permission.group.SENSORS">Για την ανίχνευση σεισμικών κυμάτων για την παρακολούθηση σεισμών</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Για εγγραφή ήχου κατά τη χρήση Game Turbo</string>
+    <string name="gb_barrage_app_manger">Διαχείριση εφαρμογών</string>
+    <string name="gb_barrage_guide_text">Πατήστε ένα σχόλιο για να απαντήσετε ή να ανοίξετε ένα κυμαινόμενο παράθυρο</string>
+    <string name="global_satisfaction_notification_summary">Πείτε μας πώς αισθάνεστε για αυτή τη συσκευή</string>
+    <string name="pc_category_charge_settings">Ρυθμίσεις φόρτισης</string>
+    <string name="pc_hight_refresh_rate_reminder_content">Η συσκευή σας χρησιμοποιεί υψηλότερο ρυθμό ανανέωσης για καλύτερη εμπειρία προβολής. Αυτό μπορεί να αυξήσει την κατανάλωση ενέργειας και τη θερμοκρασία της συσκευής.</string>
+    <string name="pc_hight_refresh_rate_reminder_summary">Χρήση υψηλότερου ρυθμού ανανέωσης. Αυτό μπορεί να αυξήσει την κατανάλωση ενέργειας και τη θερμοκρασία της συσκευής.</string>
+    <string name="pc_hight_refresh_rate_reminder_title">Παρακολούθηση βίντεο με υψηλό ρυθμό καρέ</string>
+    <string name="pc_smart_discharge_protect_notifi_summary2">TΓια την προστασία της μπαταρίας, η φόρτιση θα σταματήσει αυτόματα σε ένα επιλεγμένο επίπεδο όταν χρησιμοποιείτε εφαρμογές πλοήγησης.</string>
+    <string name="special_perm_intercept_autostart_msg">Επιτρέψτε στην εφαρμογή να ξεκινήσει στο παρασκήνιο ανά πάσα στιγμή χωρίς περιορισμούς</string>
+    <string name="special_perm_intercept_autostart_title">Απεριόριστη αυτόματη εκκίνηση</string>
+    <string name="vb_power_performance_mode_conflict_toast">"Δεν μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία όταν είναι ενεργοποιημένη η λειτουργία επιδόσεων"</string>
+    <string name="vb_power_save_mode_conflict_toast">"Δεν μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία όταν είναι ενεργοποιημένη η εξοικονόμηση μπαταρίας"</string>
+    <string name="vb_super_power_save_mode_conflict_toast">"Δεν μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία όταν είναι ενεργοποιημένη η Εξαιρετική εξοικονόμηση μπαταρίας"</string>
 </resources>
 
