@@ -3647,4 +3647,18 @@
     <string name="stop_use_secret_msg">"Οι φωτογραφίες και τα βίντεό σας δεν συγχρονίζονται πλέον με το Xiaomi Cloud. Δεν θα μπορείτε να χρησιμοποιήσετε το προσωπικό σας άλμπουμ, καθώς βασίζεται στην κρυπτογράφηση στο cloud.
 Μέχρι το %1$s, μπορείτε να μεταφέρετε τα στοιχεία σας στο Google Photos ή να επισκεφθείτε το i.mi.com για να τα κατεβάσετε. Μετά από αυτό, τα στοιχεία που εξακολουθούν να είναι αποθηκευμένα στο Xiaomi Cloud θα διαγραφούν οριστικά.
 %2$s"</string>
+    <string name="cta_hybrid_feedback_network_declare">Για να δείτε λύσεις στα πιο συνηθισμένα προβλήματα, επιτρέψτε πρώτα σε αυτή την εφαρμογή να συνδεθεί στο δίκτυο..</string>
+    <string name="picture_not_support_privacy_watermark">"Δεν μπορείτε να προσθέσετε υδατογραφήματα. Αυτή η εικόνα είναι πολύ μικρή."</string>
+    <string name="search_domestic_edit_hint">Αναζήτηση φωτογραφιών και βίντεο</string>
+    <string name="backup_category_title">ΑΝΤΙΓΡΑΦΑ</string>
+    <string name="backup_display">Υπενθυμίσεις αποθήκευσης</string>
+    <string name="backup_google_description">Διατηρήστε τις φωτογραφίες σας ασφαλείς δημιουργώντας αντίγραφα ασφαλείας στο Google λογαριασμό σας</string>
+    <string name="backup_google_name">Google Photos</string>
+    <string name="backup_off_des">Ενεργοποιήστε το συγχρονισμό με το cloud για να δημιουργείτε αυτόματα αντίγραφα ασφαλείας φωτογραφιών και βίντεο.</string>
+    <string name="backup_onedrive_description">Προστατέψτε τις φωτογραφίες σας στο cloud και αποκτήστε πρόσβαση σε αυτές από οποιαδήποτε συσκευή</string>
+    <string name="global_cloud_action_upgrade_onedrive">Αναβάθμιση OneDrive</string>
+    <string name="global_cloud_full_space_tip_message">Αναβαθμίστε το πρόγραμμα αποθήκευσης στο cloud για να μπορείτε να δημιουργείτε αντίγραφα ασφαλείας όλων των φωτογραφιών και των βίντεό σας στο cloud.</string>
+    <string name="manager_backup">Διαχείριση</string>
+    <string name="open_backup">Ενεργοποίηση</string>
+    <string name="select_backup">Επιλογή αντιγράφου</string>
 </resources>
