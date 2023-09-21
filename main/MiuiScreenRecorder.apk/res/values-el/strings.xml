@@ -208,4 +208,5 @@
     <string name="xiaomi_market_sdk_update_dialog_cancel">Όχι τώρα</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
+    <string name="protect_oneself_when_recording">"Εγγραφή κλήσης. Προστατεύστε το απόρρητό σας και το απόρρητο των άλλων ατόμων κατά τη χρήση αυτής της λειτουργίας."</string>
 </resources>

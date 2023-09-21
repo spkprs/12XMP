@@ -2452,4 +2452,13 @@
     <string name="msim_setting_default_sms_description">SIM %d για SMS</string>
     <string name="msim_setting_sms_pop_text">Επιλέξτε κατά την αποστολή SMS</string>
     <string name="other_settings_screen_title">Άλλες ρυθμίσεις</string>
+    <string name="enable_2g_dialog_title">Προσοχή</string>
+    <string name="enable_2g_dialog_warn_message">"Εάν απενεργοποιήσετε το 2G και βρίσκεστε σε μια περιοχή όπου το 2G είναι το μόνο διαθέσιμο δίκτυο, δεν θα μπορείτε να πραγματοποιήσετε κλήσεις έκτακτης ανάγκης ή μη. Απενεργοποίηση ούτως ή άλλως;"</string>
+    <string name="no_ims_service_notification_content">Επικοινωνήστε με τον πάροχο υπηρεσιών σας για να αντιμετωπίσετε αυτό το ζήτημα.</string>
+    <string name="prompt_to_suggest_no_ims_service_notification_title">"Δεν είναι δυνατή η χρήση της υπηρεσίας VoLTE"</string>
+    <string name="ussdinitiated_title">Έναρξη συνεδρίας USSD</string>
+    <string name="voice_link_switch_summary">Χρησιμοποιήστε την κάρτα SIM δεδομένων για να βοηθήσετε στη σύνδεση κλήσεων όταν δεν είστε συνδεδεμένοι στο διαδίκτυο.</string>
+    <string name="voice_link_switch_title">Κλήσεις με υποστήριξη δεδομένων</string>
+    <string name="volte_switch_globalization_prompt">Αυτό το δίκτυο κινητής τηλεφωνίας δεν έχει επαληθευτεί για VoLTE σε αυτή τη συσκευή. Η ενεργοποίηση αυτής της λειτουργίας ενδέχεται να επηρεάσει τη διάρκεια ζωής της μπαταρίας, τις κλήσεις, τα μηνύματα, το φωνητικό ταχυδρομείο και τη χρήση δεδομένων κινητής τηλεφωνίας.</string>
+    <string name="volte_switch_globalization_prompt_title">Προσοχή</string>
 </resources>
