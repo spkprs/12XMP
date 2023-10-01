@@ -692,4 +692,11 @@ EEE"</string>
     <string name="snooze_alarm_alert">Αναβλήθηκε μέχρι %s</string>
     <string name="timer_alert_pause">Χρονοδιακόπτης σε παύση</string>
     <string name="timer_alert_running">Χρονοδιακόπτης σε λειτουργία</string>
+    <string name="alarm_repeat_self_define_button">Προσαρμογή</string>
+    <string name="look_sleep_data">Προβολή δεδομένων ύπνου</string>
+    <string name="notification_permission_dialog_content">Επιτρέψτε σε αυτή την εφαρμογή να στέλνει ειδοποιήσεις για να λαμβάνετε ειδοποιήσεις συναγερμού. Μπορείτε να χορηγήσετε αυτό το δικαίωμα στις Ρυθμίσεις.</string>
+    <string name="notification_permission_dialog_not_open">Όχι τώρα</string>
+    <string name="notification_permission_dialog_open">Ρυθμίσεις</string>
+    <string name="notification_permission_dialog_title">Απαιτούμενες άδειες</string>
+    <string name="upcoming_alarm_new">Επερχόμενος συναγερμός: %s</string>
 </resources>

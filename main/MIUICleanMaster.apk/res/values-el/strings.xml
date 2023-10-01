@@ -1079,4 +1079,6 @@
     <string name="dialog_msg_delete_icon_content_phone">Η ασφάλεια σάς επιτρέπει να καθαρίζετε τα σκουπίδια της συσκευής σας, να βρίσκετε και να εξουδετερώνετε ιούς, να εξοικονομείτε μπαταρία, να διαχειρίζεστε δικαιώματα και πολλά άλλα.</string>
     <string name="dialog_msg_delete_icon_title_pad">Κατάργηση της συντόμευσης από την αρχική οθόνη;</string>
     <string name="dialog_msg_delete_icon_title_phone">Κατάργηση της συντόμευσης από την αρχική οθόνη;</string>
+    <string name="be_figuring">Υπολογισμός…</string>
+    <string name="dc_storage_info_new">%1$s διαθέσιμα</string>
 </resources>

@@ -1083,7 +1083,7 @@
     <string name="search_setting_description">Κείμενο στα μηνύματά σας</string>
     <string name="search_show_more_results">Δείτε περισσότερα</string>
     <string name="search_title_mms">Μηνύματα</string>
-    <string name="second_mms_introduction">Πηγαίνετε στο Δεύτερο προφίλ</string>
+    <string name="second_mms_introduction">Μεταβείτε στον Δεύτερο χώρο για να μπορείτε να βλέπετε ιδιωτικά μηνύματα</string>
     <string name="second_mms_switch">Αλλαγή</string>
     <string name="secs">δευτ.</string>
     <string name="security_alert_desc"><font color="#7f000000">Ο αποστολέας δεν υπάρχει στις επαφές σας.</font></string>
@@ -1399,4 +1399,10 @@
     <string name="pref_feedback_title">Σχόλια</string>
     <string name="search_sms">Αναζήτηση μηνυμάτων</string>
     <string name="title_timed_remind_message_dialog">Ρύθμιση χρόνου υπενθύμισης</string>
+    <string name="add_to_block_by_number_failed">"Δεν μπορεί να προσθέσει το %s στη λίστα αποκλεισμού.
+Δοκιμάστε ξανά."</string>
+    <string name="add_to_block_by_tag_failed">"Αδύνατη η προσθήκη μηνυμάτων που περιέχουν \"%s\" στη λίστα αποκλεισμού.
+Δοκιμάστε ξανά."</string>
+    <string name="cloud_space_not_enough">Ο αποθηκευτικός χώρος στο Cloud είναι γεμάτος. Αναβαθμίστε τη συνδρομή σας για να συγχρονίσετε τα τελευταία στοιχεία.</string>
+    <string name="fail_to_add_image">"Αδύνατη η πρόσβαση σε αντιγραμμένα στοιχεία"</string>
 </resources>
