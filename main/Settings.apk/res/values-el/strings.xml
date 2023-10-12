@@ -9527,4 +9527,6 @@ Xiaomi Cloud
     <string name="autoui_search_hint">Αναζήτηση εφαρμογών</string>
     <string name="headset_adaptive_hearing_summary">Ρυθμίστε αυτόματα τον ήχο με βάση το σχήμα του αυτιού σας και το περιβάλλον</string>
     <string name="headset_adaptive_hearing_title">Προσαρμοζόμενος ήχος</string>
+    <string name="freeform_recommend_open_switch_summary_fold">Σε ορισμένα σενάρια, οι συνιστώμενες εφαρμογές θα ανοίγουν σε ένα αιωρούμενο παράθυρο στην εξωτερική οθόνη και σε ένα αιωρούμενο παράθυρο ή σε διαχωρισμένη οθόνη στην εσωτερική οθόνη.</string>
+    <string name="freeform_recommend_open_switch_summary_phone">Σε ορισμένα σενάρια, οι συνιστώμενες εφαρμογές θα ανοίγουν σε ένα αιωρούμενο παράθυρο</string>
 </resources>
