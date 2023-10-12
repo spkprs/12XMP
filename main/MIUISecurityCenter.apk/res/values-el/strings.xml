@@ -6038,5 +6038,6 @@
     <string name="vb_power_performance_mode_conflict_toast">"Δεν μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία όταν είναι ενεργοποιημένη η λειτουργία επιδόσεων"</string>
     <string name="vb_power_save_mode_conflict_toast">"Δεν μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία όταν είναι ενεργοποιημένη η εξοικονόμηση μπαταρίας"</string>
     <string name="vb_super_power_save_mode_conflict_toast">"Δεν μπορείτε να χρησιμοποιήσετε αυτή τη λειτουργία όταν είναι ενεργοποιημένη η Εξαιρετική εξοικονόμηση μπαταρίας"</string>
+    <string name="permdesc_get_installed_apps">Επιτρέπετε στο \"%1$s\" να έχει πρόσβαση σε πληροφορίες σχετικά με τις εγκατεστημένες εφαρμογές;</string>
 </resources>
 

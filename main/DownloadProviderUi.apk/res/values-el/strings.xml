@@ -647,5 +647,6 @@ ID:%s
     <string name="storage_dialog_content">Επιτρέψτε στις Λήψεις να έχουν πρόσβαση στον αποθηκευτικό χώρο της συσκευής για να μπορούν να χρησιμοποιούν τις λειτουργίες της.</string>
     <string name="storage_dialog_go">Ρυθμίσεις</string>
     <string name="storage_dialog_title">Πρόσβαση στον αποθηκευτικό χώρο της συσκευής</string>
+    <string name="introduction">Σχετικά</string>
 </resources>
 

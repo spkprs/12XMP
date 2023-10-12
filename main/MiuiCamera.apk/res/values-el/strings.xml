@@ -2207,4 +2207,6 @@
     <string name="settings_camera_near_range_fallback_title">Προσαρμοσμένη μακροεντολή</string>
     <string name="settings_camera_tele_fallback_description">Αυτόματη εναλλαγή μεταξύ κύριου και τηλεφακού ανάλογα με την απόσταση και τη φωτεινότητα</string>
     <string name="settings_camera_tele_fallback_title">Προσαρμοσμένος τηλεφακός</string>
+    <string name="aiwatermark_location_waiting_hint">Πρόσβαση στην τοποθεσία…</string>
+    <string name="ultra_pixel_owl_toast">Επεξεργασία φωτογραφίας…</string>
 </resources>
