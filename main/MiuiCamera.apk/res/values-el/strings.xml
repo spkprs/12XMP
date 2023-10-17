@@ -2137,7 +2137,7 @@
     <string name="bluetooth_permission_not_ask_again">Επιτρέψτε σε αυτή την εφαρμογή να συνδεθεί σε κοντινές συσκευές στις Ρυθμίσεις για να μπορέσει να συνδεθεί σε ακουστικά Bluetooth.</string>
     <string name="config_name_front_flash">Φωτισμός πλήρωσης</string>
     <string name="custom_shutter_sound_select">Προσαρμοσμένος ήχος κλείστρου</string>
-    <string name="manual_picture_style_desc_custom">Προσαρμοσμένο φωτογραφικό ύφος</string>
+    <string name="manual_picture_style_desc_custom">Προσαρμοσμένα φωτογραφικά στυλ</string>
     <string name="pref_camera_pad_suspend_shutter_button_summary">Σύρετε το κουμπί κλείστρου προς τα αριστερά για να προσθέσετε ένα επιπλέον κυμαινόμενο κλείστρο, το οποίο μπορεί να τοποθετηθεί οπουδήποτε στην οθόνη.</string>
     <string name="pref_camera_watermark_film">Καρέ ταινίας</string>
     <string name="tv_picturestyle_custom_color">Τονικότητα</string>
@@ -2209,4 +2209,35 @@
     <string name="settings_camera_tele_fallback_title">Προσαρμοσμένος τηλεφακός</string>
     <string name="aiwatermark_location_waiting_hint">Πρόσβαση στην τοποθεσία…</string>
     <string name="ultra_pixel_owl_toast">Επεξεργασία φωτογραφίας…</string>
+    <string name="accessibility_audio_gain_adjust">Ρύθμιση έντασης</string>
+    <string name="accessibility_cv_watermark_show_location_off">"Δεν θα εμφανίζονται οι συντεταγμένες"</string>
+    <string name="accessibility_cv_watermark_show_location_on">Θα εμφανίζονται οι συντεταγμένες</string>
+    <string name="accessibility_cv_watermark_show_time_off">Χρονοσφραγίδα Ανενεργή</string>
+    <string name="accessibility_cv_watermark_show_time_on">Χρονοσφραγίδα Ενεργή</string>
+    <string name="accessibility_watermark_device_off">Υδατογράφημα συσκευής Ανενεργό</string>
+    <string name="accessibility_watermark_device_on">Υδατογράφημα συσκευής Ενεργό</string>
+    <string name="accessibility_watermark_time_off">Χρονοσφραγίδα Ανενεργή</string>
+    <string name="accessibility_watermark_time_on">Χρονοσφραγίδα Ενεργή</string>
+    <string name="accessibility_watermark_userdefine_enable">Επιλογή προσ/μένου υδατογρ/τος</string>
+    <string name="lite_pref_camera_auto_hibernation_desc">Κατά τη λήψη φωτογραφιών ή βίντεο, η οθόνη θα απενεργοποιείται μετά από %d λεπτά αδράνειας</string>
+    <string name="lite_pref_camera_lying_desc">Λάβετε ένα μήνυμα κατεύθυνσης όταν η συσκευή σας είναι παράλληλη με το έδαφος</string>
+    <string name="metering_parameter_description_average">Μέση μέτρηση: Λαμβάνει υπόψη όλες τις περιοχές της εικόνας σας, λειτουργώντας καλύτερα για ομοιόμορφα φωτισμένες σκηνές.</string>
+    <string name="metering_parameter_description_central">Μέτρηση με κέντρο βάρους: Επικεντρώνεται κυρίως στην κεντρική περιοχή του κάδρου και λαμβάνει υπόψη τη φωτεινότητα της γύρω περιοχής. Ιδανική για τη φωτογράφηση θεμάτων στο κέντρο του κάδρου.</string>
+    <string name="metering_parameter_description_spot">Μέτρηση σημείου: Εστίαση σε ένα σημείο, δίνοντάς σας ακριβή έλεγχο της έκθεσης.</string>
+    <string name="mutex_hdr_quality" formatted="false">"Το HDR δεν υποστηρίζεται για %1s %2sFPS"</string>
+    <string name="pref_camera_picturesize_entry_cinematic">Ευρεία οθόνη</string>
+    <string name="prek_b_j_o_i">"Καταγράψτε όλους τους ήχους γύρω από τη συσκευή, διατηρώντας παράλληλα τα χωρικά χαρακτηριστικά τους. Αναπαραγωγή εγγεγραμμένου ήχου σε οριζόντια λειτουργία ή μέσω ακουστικών για το καλύτερο αποτέλεσμα. Αυτή η δυνατότητα λειτουργεί στη λειτουργία Director, καθώς και στις κανονικές και Pro λειτουργίες βίντεο. Τα εξωτερικά μικρόφωνα δεν υποστηρίζονται."</string>
+    <string name="prek_b_j_p_i">"Μειώστε την επίδραση του ανέμου στον εγγεγραμμένο ήχο κατά τη λήψη βίντεο. Αυτή η δυνατότητα λειτουργεί στη λειτουργία Director, καθώς και στις κανονικές και Pro λειτουργίες βίντεο. Τα εξωτερικά μικρόφωνα δεν υποστηρίζονται."</string>
+    <string name="track_focus_mutex_hdr10plus_8k_setting_tips">"Η εστίαση παρακολούθησης κίνησης δεν υποστηρίζεται για HDR10+/8K/60FPS videos"</string>
+    <string name="track_focus_mutex_hdr10plus_setting_tips">"Η εστίαση παρακολούθησης κίνησης δεν υποστηρίζεται για HDR10+/60FPS videos"</string>
+    <string name="update_apk_size">Μέγεθος: %s</string>
+    <string name="update_btn_negative">Όχι τώρα</string>
+    <string name="update_btn_positive">Ενημέρωση</string>
+    <string name="update_check">Έλεγχος για ενημερώσεις</string>
+    <string name="update_check_title">Τρέχουσα έκδοση: %s</string>
+    <string name="update_ignore">Παράβλεψη αυτής της έκδοσης</string>
+    <string name="update_latest_version">Ενημερωμένο</string>
+    <string name="update_new_version">Υπάρχει διαθέσιμη ενημέρωση</string>
+    <string name="update_title">Διαθέσιμη ενημέρωση</string>
+    <string name="video_prompter_edit_format_not_supported">"Αυτή η μορφή δεν υποστηρίζεται"</string>
 </resources>
